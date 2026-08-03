@@ -284,12 +284,19 @@ export function dedupeJobs(jobs) {
   const seen = new Set();
   const out = [];
   for (const job of jobs) {
-    const key = (job.url && job.url !== "#"
-      ? job.url.split("?")[0].toLowerCase()
-      : `${job.title}|${job.company}`.toLowerCase()
-    ).trim();
-    if (seen.has(key)) continue;
-    seen.add(key);
+    const keys = [];
+    if (job.id) keys.push(`id:${String(job.id).toLowerCase()}`);
+    if (job.url && job.url !== "#") {
+      const u = job.url.toLowerCase().split("#")[0];
+      // Keep query when it identifies the listing (ApInfo codvaga, Greenhouse gh_jid…)
+      keys.push(
+        /[?&](codvaga|gh_jid)=/i.test(u) ? `url:${u}` : `url:${u.split("?")[0]}`
+      );
+    } else {
+      keys.push(`tc:${job.title}|${job.company}`.toLowerCase());
+    }
+    if (keys.some((k) => seen.has(k))) continue;
+    for (const k of keys) seen.add(k);
     out.push(job);
   }
   return out;

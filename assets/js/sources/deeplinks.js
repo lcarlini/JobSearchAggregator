@@ -105,33 +105,45 @@ export function buildDeepLinks(filters = {}) {
   // —— Primary search engines ——
   {
     const params = new URLSearchParams();
-    params.set("keywords", q);
-    if (loc) params.set("location", loc);
+    // Keep keywords tight (LinkedIn ignores OR-heavy synonym dumps)
+    const liKw = (filters.keywords || q).split(/[,;]+/)[0]?.trim() || q;
+    params.set("keywords", liKw);
+    // Latin America as location often returns almost nothing — prefer blank or Brazil
+    if (filters.geo === "brazil") params.set("location", "Brazil");
+    else if (filters.geo === "us") params.set("location", "United States");
+    else if (filters.geo === "europe") params.set("location", "Europe");
+    else if (loc && filters.geo !== "latam" && filters.geo !== "worldwide") {
+      params.set("location", loc);
+    }
     // 1=onsite 2=remote 3=hybrid
     const wt =
       filters.workplace === "onsite" ? "1" : filters.workplace === "hybrid" ? "3" : "2";
     params.set("f_WT", wt);
-    const tpr = linkedInTpr(filters.recency);
+    const tpr = linkedInTpr(filters.recency) || linkedInTpr("24h");
     if (tpr) params.set("f_TPR", tpr);
     const jt = linkedInJobType(filters.jobType);
     if (jt) params.set("f_JT", jt);
     if (filters.seniority === "junior") params.set("f_E", "2");
     if (filters.seniority === "mid") params.set("f_E", "3");
-    if (filters.seniority === "senior") params.set("f_E", "4");
+    if (filters.seniority === "senior" || filters.seniority === "senior+") {
+      params.set("f_E", "4");
+    }
     push(
       links,
       "linkedin",
       "LinkedIn",
       `https://www.linkedin.com/jobs/search/?${params}`,
-      "Remote + f_TPR time hack + job type",
+      "Remote + f_TPR (como na busca LinkedIn) — abre centenas de vagas",
       "primary"
     );
+    const br = new URLSearchParams(params);
+    br.set("location", "Brazil");
     push(
       links,
       "linkedin-br",
       "LinkedIn Jobs BR",
-      `https://br.linkedin.com/jobs/search/?${params}`,
-      "LinkedIn Brazil remote jobs",
+      `https://www.linkedin.com/jobs/search/?${br}`,
+      "LinkedIn + location Brazil + remote",
       "brazil"
     );
   }
@@ -196,14 +208,14 @@ export function buildDeepLinks(filters = {}) {
     [
       "apinfo",
       "ApInfo ★",
-      `https://www.apinfo.com/`,
-      "Clássico TI BR — .NET/Java/SAP, home office, CLT/PJ",
+      `https://www.apinfo.com/apinfo/inc/list4.cfm`,
+      `TI BR — busque "${firstKw}" no formulário (home office, CLT/PJ)`,
     ],
     [
-      "apinfo-search",
-      "ApInfo Pesquisa",
-      "https://www.apinfo2.com/apinfo/inc/resultados_pesquisas.cfm",
-      "Resultados de pesquisa ApInfo",
+      "apinfo-home",
+      "ApInfo Home",
+      "https://www.apinfo.com/",
+      "Destaques e busca rápida no topo",
     ],
     ["remotar", "Remotar", `https://remotar.com.br/?s=${enc(q)}`, "Board remoto BR"],
     ["meuhome", "MeuHome", "https://www.meuhome.com.br/", "Home office BR"],

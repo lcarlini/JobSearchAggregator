@@ -8,6 +8,8 @@
     "extract": "node scripts/extract-bookmarks.mjs && node scripts/extract-empresas.mjs",
     "extract:empresas": "node scripts/extract-empresas.mjs",
     "fetch-ats": "node scripts/fetch-ats.mjs",
+    "fetch-apinfo": "node scripts/fetch-apinfo.mjs",
+    "fetch-jobs": "node scripts/fetch-ats.mjs && node scripts/fetch-apinfo.mjs",
     "test": "node --test tests/**/*.test.mjs",
     "serve": "npx --yes serve -l 4173 ."
   },

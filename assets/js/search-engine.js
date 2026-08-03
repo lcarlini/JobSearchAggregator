@@ -1,6 +1,7 @@
 import { cacheGet, cacheSet } from "./cache.js";
 import { applyFilters, sortJobs } from "./filters.js";
 import { dedupeJobs, hashFilters } from "./normalize.js";
+import { applySearchHacks, hackScore } from "./apply-hacks.js";
 import * as remoteok from "./sources/remoteok.js";
 import * as remotive from "./sources/remotive.js";
 import * as arbeitnow from "./sources/arbeitnow.js";
@@ -9,6 +10,7 @@ import * as himalayas from "./sources/himalayas.js";
 import * as themuse from "./sources/themuse.js";
 import * as ashby from "./sources/ashby.js";
 import * as staticAts from "./sources/static-ats.js";
+import * as apinfo from "./sources/apinfo.js";
 
 export const ADAPTERS = [
   remoteok,
@@ -19,15 +21,18 @@ export const ADAPTERS = [
   themuse,
   ashby,
   staticAts,
+  apinfo,
 ];
 
 /**
  * Run all adapters in parallel with precise progress callbacks.
- * @param {object} filters
- * @param {(p: object) => void} onProgress
- * @param {string[] | null} enabledIds
+ * Applies search hacks (synonyms, multi-query, exclude junior, BR boost…) when enabled.
  */
 export async function searchJobs(filters, onProgress = () => {}, enabledIds = null) {
+  const hacked = applySearchHacks(filters);
+  const effective = hacked.filters;
+  const apiQ = hacked.apiQueries;
+
   const adapters = ADAPTERS.filter(
     (a) => !enabledIds || enabledIds.includes(a.id)
   );
@@ -55,20 +60,37 @@ export async function searchJobs(filters, onProgress = () => {}, enabledIds = nu
       total: adapters.length,
       etaMs: eta,
       sources: { ...sourceStatus },
+      hacks: hacked.applied,
     });
   };
 
   emit();
 
+  const fetchOpts = (adapterId) => {
+    if (adapterId === "remotive") {
+      return {
+        categories: apiQ.remotiveCategories,
+        searches: apiQ.remotiveSearches,
+      };
+    }
+    if (adapterId === "jobicy") {
+      return { tags: apiQ.jobicyTags };
+    }
+    return {};
+  };
+
+  // Bust cache when hacks change query shape
+  const hackKey = hacked.applied.length ? `:hacks:${hacked.applied.join("+")}` : "";
+
   const tasks = adapters.map(async (adapter) => {
-    const cacheKey = `source:${adapter.id}:v1`;
+    const cacheKey = `source:${adapter.id}:v2${hackKey}:${(apiQ.remotiveSearches || []).join(",")}`;
     const t0 = Date.now();
     sourceStatus[adapter.id].state = "running";
     emit();
     try {
       let jobs = await cacheGet(cacheKey);
       if (!jobs) {
-        jobs = await adapter.fetchJobs();
+        jobs = await adapter.fetchJobs(fetchOpts(adapter.id));
         await cacheSet(cacheKey, jobs);
       }
       const ms = Date.now() - t0;
@@ -101,10 +123,15 @@ export async function searchJobs(filters, onProgress = () => {}, enabledIds = nu
 
   const batches = await Promise.all(tasks);
   let jobs = dedupeJobs(batches.flat());
-  jobs = applyFilters(jobs, filters);
-  jobs = sortJobs(jobs, filters.sortBy || "recency");
+  jobs = applyFilters(jobs, effective);
 
-  const resultKey = `result:${hashFilters(filters)}`;
+  // Attach hack scores for ranking
+  for (const job of jobs) {
+    job.hackScore = hackScore(job, effective, hacked.expandedKeywords);
+  }
+  jobs = sortJobs(jobs, effective.sortBy || "recency");
+
+  const resultKey = `result:${hashFilters(effective)}`;
   await cacheSet(resultKey, jobs);
 
   onProgress({
@@ -113,12 +140,17 @@ export async function searchJobs(filters, onProgress = () => {}, enabledIds = nu
     total: adapters.length,
     etaMs: 0,
     sources: { ...sourceStatus },
+    hacks: hacked.applied,
   });
 
   return {
     jobs,
     sources: sourceStatus,
     elapsedMs: Date.now() - startedAt,
+    hacksApplied: hacked.applied,
+    externalHacks: hacked.external,
+    expandedKeywords: hacked.expandedKeywords,
+    effectiveFilters: effective,
   };
 }
 

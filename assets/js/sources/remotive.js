@@ -28,9 +28,45 @@ export function normalizeRemotive(payload) {
   );
 }
 
-export async function fetchJobs({ signal, category = "software-dev" } = {}) {
-  const url = `https://remotive.com/api/remote-jobs?category=${encodeURIComponent(category)}`;
+async function fetchOne(url, signal) {
   const res = await fetch(url, { headers: { Accept: "application/json" }, signal });
   if (!res.ok) throw new Error(`Remotive HTTP ${res.status}`);
   return normalizeRemotive(await res.json());
+}
+
+/**
+ * With hacks: multiple categories + search terms in parallel.
+ */
+export async function fetchJobs({
+  signal,
+  category = "software-dev",
+  categories,
+  searches,
+} = {}) {
+  const cats = categories?.length ? categories : [category];
+  const urls = new Set();
+
+  for (const cat of cats) {
+    urls.add(
+      `https://remotive.com/api/remote-jobs?category=${encodeURIComponent(cat)}`
+    );
+  }
+  for (const q of searches || []) {
+    if (!q) continue;
+    urls.add(
+      `https://remotive.com/api/remote-jobs?search=${encodeURIComponent(q)}`
+    );
+  }
+
+  const results = await Promise.allSettled(
+    [...urls].map((url) => fetchOne(url, signal))
+  );
+  const jobs = [];
+  for (const r of results) {
+    if (r.status === "fulfilled") jobs.push(...r.value);
+  }
+  if (!jobs.length && results.every((r) => r.status === "rejected")) {
+    throw new Error(results[0].reason?.message || "Remotive failed");
+  }
+  return jobs;
 }

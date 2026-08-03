@@ -25,7 +25,8 @@ function includesAny(haystack, terms) {
 
 function withinRecency(postedAt, recency) {
   if (!recency || recency === "any") return true;
-  if (postedAt == null) return false;
+  // Unknown dates: keep the job (most ATS boards omit reliable timestamps)
+  if (postedAt == null) return true;
   const hours = {
     "2h": 2,
     "8h": 8,
@@ -49,12 +50,23 @@ function matchGeo(job, geo) {
     case "worldwide":
       return true;
     case "latam":
-      return (
-        g.latamFriendly ||
-        g.brazil ||
-        g.worldwide ||
-        !(g.uk || g.us || g.australia || g.europe)
-      );
+      // Soft geo: keep remote/worldwide boards. Only drop clearly non-LATAM onsite roles.
+      if (g.latamFriendly || g.brazil || g.worldwide) return true;
+      if (
+        job.remotePolicy === "country-restricted" ||
+        job.remotePolicy === "emea-only" ||
+        job.remotePolicy === "us-only"
+      ) {
+        return false;
+      }
+      if (
+        job.workplace === "onsite" &&
+        (g.uk || g.us || g.australia || g.europe) &&
+        !/\bbrazil|brasil|latam|latin america\b/.test(loc)
+      ) {
+        return false;
+      }
+      return true;
     case "uk-br":
       return (
         g.uk ||
@@ -88,7 +100,11 @@ function matchJobType(job, jobType) {
 
 function matchWorkplace(job, workplace) {
   if (!workplace || workplace === "any") return true;
-  if (job.workplace === "unknown") return workplace === "remote"; // remote boards default
+  // Remote boards / unknown workplace: treat as remote-friendly
+  if (job.workplace === "unknown") return workplace === "remote";
+  if (workplace === "remote") {
+    return job.workplace === "remote" || job.workplace === "hybrid";
+  }
   return job.workplace === workplace;
 }
 
@@ -320,8 +336,21 @@ export function applyFilters(jobs, filtersIn = {}) {
     if (!matchCompanySize(job, filters.companySize)) return false;
     if (!matchEasyApply(job, filters.easyApply)) return false;
     if (!matchIndustry(job, filters.industry)) return false;
-    if (filters.brazilOk && !(job.geo?.brazil || job.geo?.latamFriendly || job.remotePolicy === "brazil-ok" || job.remotePolicy === "anywhere" || job.geo?.worldwide)) {
-      return false;
+    // brazilOk is SOFT: remote/worldwide jobs usually accept BR unless country-restricted
+    if (filters.brazilOk) {
+      const restricted =
+        job.remotePolicy === "country-restricted" ||
+        job.remotePolicy === "emea-only" ||
+        (job.geo?.us && !job.geo?.worldwide && !job.geo?.latamFriendly && job.workplace === "onsite");
+      const ok =
+        job.geo?.brazil ||
+        job.geo?.latamFriendly ||
+        job.remotePolicy === "brazil-ok" ||
+        job.remotePolicy === "anywhere" ||
+        job.geo?.worldwide ||
+        job.workplace === "remote" ||
+        job.workplace === "unknown";
+      if (restricted || !ok) return false;
     }
     if (filters.latamOnly && !(job.geo?.latamFriendly || job.geo?.brazil)) return false;
     if (filters.noAgency && job.employerType === "agency") return false;
@@ -339,8 +368,14 @@ export function sortJobs(jobs, sortBy = "recency") {
     case "company":
       copy.sort((a, b) => (a.company || "").localeCompare(b.company || ""));
       break;
+    case "hack-relevance":
+      copy.sort((a, b) => {
+        const ds = (b.hackScore || 0) - (a.hackScore || 0);
+        if (ds) return ds;
+        return (b.postedAt || 0) - (a.postedAt || 0);
+      });
+      break;
     case "relevance":
-      // already filtered; prefer dated + latam + salary present
       copy.sort((a, b) => scoreRelevance(b) - scoreRelevance(a));
       break;
     case "recency":
@@ -374,7 +409,7 @@ export function defaultFilters() {
     company: "",
     hiddenCompanies: "",
     industry: "",
-    recency: "7d",
+    recency: "30d",
     geo: "latam",
     country: "any",
     state: "",
@@ -404,6 +439,7 @@ export function defaultFilters() {
     strictCompany: false,
     sortBy: "recency",
     market: "latam",
+    applyHacks: true,
     sources: null,
   };
 }
@@ -420,7 +456,9 @@ export function marketPreset(market) {
       currency: "BRL",
       language: "any",
       engagement: "any",
-      brazilOk: true,
+      // Soft boost only — hard brazilOk drops most international remotes
+      brazilOk: false,
+      recency: "30d",
     },
     us: {
       market: "us",
@@ -458,17 +496,20 @@ export function marketPreset(market) {
       geo: "worldwide",
       country: "remote",
       workplace: "remote",
-      remotePolicy: "anywhere",
+      remotePolicy: "any",
       currency: "USD",
-      brazilOk: true,
+      brazilOk: false,
+      recency: "30d",
     },
     latam: {
       market: "latam",
       geo: "latam",
       workplace: "remote",
       remotePolicy: "any",
-      brazilOk: true,
+      // boost via hacks/ranking — do NOT hard-filter or we drop most remote boards
+      brazilOk: false,
       currency: "USD",
+      recency: "30d",
     },
   };
   return { ...base, ...(presets[market] || presets.latam) };

@@ -1,17 +1,11 @@
 import { initLang, setLang, getLang, t, applyI18n } from "./i18n.js";
 import { defaultFilters, marketPreset, splitTerms } from "./filters.js";
 import { searchJobs, ADAPTERS } from "./search-engine.js";
-import { buildDeepLinks, groupDeepLinks } from "./sources/deeplinks.js";
-import {
-  OPERATOR_DOCS,
-  SITE_HACKS,
-  EXTRA_TIPS,
-  buildSearchRecipes,
-} from "./search-hacks.js";
-import { loadEmpresas, filterCompanies, groupCompanies } from "./companies.js";
+import { applySearchHacks } from "./apply-hacks.js";
+import { SEARCH_PRESETS } from "./presets.js";
 
 const SAVED_KEY = "jsa-saved";
-const DEEP_PREVIEW_PER_GROUP = 4;
+const PAGE_SIZE = 40;
 
 const $ = (sel) => document.querySelector(sel);
 
@@ -37,9 +31,10 @@ function saveSaved(set) {
 
 let saved = loadSaved();
 let lastJobs = [];
-let deepExpanded = false;
+let lastExternal = [];
+let lastMeta = { sourcesOk: 0, elapsedMs: 0, hacks: [] };
+let visibleCount = PAGE_SIZE;
 let searching = false;
-let allCompanies = [];
 
 function readFilters() {
   const form = $("#filters-form");
@@ -85,6 +80,7 @@ function readFilters() {
     companySize: str("companySize", "any"),
     sortBy: str("sortBy", "recency"),
     easyApply: on("easyApply"),
+    applyHacks: on("applyHacks"),
     brazilOk: on("brazilOk"),
     latamOnly: on("latamOnly"),
     noAgency: on("noAgency"),
@@ -114,7 +110,7 @@ function applyFilterObject(d) {
   ];
   for (const k of keys) setFormValue(k, d[k]);
   for (const k of [
-    "easyApply", "brazilOk", "latamOnly", "noAgency",
+    "easyApply", "applyHacks", "brazilOk", "latamOnly", "noAgency",
     "strictSalary", "strictEligibility", "strictCompany",
   ]) {
     setFormValue(k, d[k]);
@@ -128,15 +124,9 @@ function fillDefaults() {
   applyFilterObject(defaultFilters());
 }
 
-function applyMarket(market) {
-  applyFilterObject(marketPreset(market));
-  const f = readFilters();
-  renderDeepLinks(f);
-  renderHacks(f);
-}
-
 function renderSourceToggles() {
   const box = $("#source-toggles");
+  if (!box) return;
   box.innerHTML = ADAPTERS.map(
     (a) => `
     <label class="chip">
@@ -146,31 +136,14 @@ function renderSourceToggles() {
   ).join("");
 }
 
-function formatDate(ts) {
-  if (!ts) return t("unknownDate");
-  try {
-    return new Intl.DateTimeFormat(getLang() === "pt" ? "pt-BR" : "en-US", {
-      dateStyle: "medium",
-      timeStyle: "short",
-    }).format(new Date(ts));
-  } catch {
-    return new Date(ts).toLocaleString();
-  }
-}
-
-function highlight(text, filters) {
-  const terms = [
-    ...splitTerms(filters.keywords),
-    ...splitTerms(filters.titleInclude),
-    ...splitTerms(filters.descInclude),
-  ].filter((term) => term.length > 1);
-  let out = text.slice(0, 280);
-  for (const term of terms.slice(0, 8)) {
-    const re = new RegExp(`(${term.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")})`, "gi");
-    out = out.replace(re, "<mark>$1</mark>");
-  }
-  if (text.length > 280) out += "…";
-  return out;
+function renderPresets() {
+  $("#presets-grid").innerHTML = SEARCH_PRESETS.map(
+    (p) => `
+    <button type="button" class="preset-card" data-preset="${p.id}">
+      <strong>${t(p.titleKey)}</strong>
+      <span>${t(p.descKey)}</span>
+    </button>`
+  ).join("");
 }
 
 function escapeHtml(s) {
@@ -185,44 +158,100 @@ function escapeAttr(s) {
   return escapeHtml(s).replace(/'/g, "&#39;");
 }
 
-function renderJobs(jobs, filters) {
+function formatDate(ts) {
+  if (!ts) return t("unknownDate");
+  try {
+    return new Intl.DateTimeFormat(getLang() === "pt" ? "pt-BR" : "en-US", {
+      dateStyle: "medium",
+    }).format(new Date(ts));
+  } catch {
+    return new Date(ts).toLocaleDateString();
+  }
+}
+
+function highlight(text, filters) {
+  const terms = [
+    ...splitTerms(filters.keywords),
+    ...splitTerms(filters.titleInclude),
+  ].filter((term) => term.length > 1);
+  let out = text.slice(0, 220);
+  for (const term of terms.slice(0, 6)) {
+    const re = new RegExp(`(${term.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")})`, "gi");
+    out = out.replace(re, "<mark>$1</mark>");
+  }
+  if (text.length > 220) out += "…";
+  return out;
+}
+
+function updateStats() {
+  const bar = $("#stats-bar");
+  bar.hidden = false;
+  $("#stat-total").textContent = String(lastJobs.length);
+  $("#stat-sources").textContent = String(lastMeta.sourcesOk || 0);
+  $("#stat-time").textContent =
+    lastMeta.elapsedMs != null ? `${(lastMeta.elapsedMs / 1000).toFixed(1)}s` : "—";
+  $("#stat-showing").textContent = String(Math.min(visibleCount, lastJobs.length));
+}
+
+function renderExternalBoards(external = []) {
+  const box = $("#external-boards");
+  if (!box) return;
+  const primary = external.filter((e) =>
+    /linkedin|indeed|apinfo|google|remotar/i.test(`${e.id} ${e.name}`)
+  );
+  const list = (primary.length ? primary : external).slice(0, 6);
+  if (!list.length) {
+    box.hidden = true;
+    box.innerHTML = "";
+    return;
+  }
+  box.hidden = false;
+  box.innerHTML = `
+    <div class="external-boards-label">${t("externalBoardsTitle")}</div>
+    <p class="external-boards-hint">${t("externalBoardsHint")}</p>
+    <div class="deeplink-grid">
+      ${list
+        .map(
+          (e) => `
+        <a class="deeplink${/linkedin|apinfo/i.test(`${e.id}${e.name}`) ? " featured" : ""}" href="${escapeAttr(e.url)}" target="_blank" rel="noopener noreferrer">
+          <strong>${escapeHtml(e.name)}</strong>
+          <span>${escapeHtml(e.query || e.description || t("externalOpen"))}</span>
+        </a>`
+        )
+        .join("")}
+    </div>`;
+}
+
+function renderJobs(jobs, filters, external = lastExternal) {
   lastJobs = jobs;
+  if (external?.length) lastExternal = external;
   const list = $("#job-list");
-  $("#results-count").textContent = `${jobs.length} ${t("jobsFound")}`;
+  const showing = jobs.slice(0, visibleCount);
+  updateStats();
+  renderExternalBoards(lastExternal);
+
+  const moreWrap = $("#load-more-wrap");
+  moreWrap.hidden = jobs.length <= visibleCount;
+  $("#btn-load-more").textContent =
+    jobs.length > visibleCount
+      ? `${t("showAllJobs")} (${jobs.length})`
+      : t("showAllJobs");
 
   if (!jobs.length) {
     list.innerHTML = `<div class="empty">${t("noResults")}</div>`;
     return;
   }
 
-  list.innerHTML = jobs
-    .slice(0, 250)
-    .map((job) => {
+  list.innerHTML = showing
+    .map((job, idx) => {
       const isSaved = saved.has(job.url);
       const badges = [
-        `<span class="badge source">${job.source}</span>`,
-        job.workplace !== "unknown"
-          ? `<span class="badge">${job.workplace}</span>`
-          : "",
-        job.jobType !== "unknown"
-          ? `<span class="badge">${job.jobType}</span>`
-          : "",
-        job.engagement !== "unknown"
-          ? `<span class="badge">${job.engagement}</span>`
-          : "",
-        job.language !== "unknown"
-          ? `<span class="badge">${job.language.toUpperCase()}</span>`
-          : "",
-        job.remotePolicy === "anywhere" || job.remotePolicy === "brazil-ok"
-          ? `<span class="badge latam">${job.remotePolicy}</span>`
-          : "",
+        `<span class="badge source">${escapeHtml(job.source)}</span>`,
+        job.workplace !== "unknown" ? `<span class="badge">${job.workplace}</span>` : "",
+        job.jobType !== "unknown" ? `<span class="badge">${job.jobType}</span>` : "",
         job.geo?.latamFriendly || job.geo?.brazil
           ? `<span class="badge latam">LATAM/BR</span>`
           : "",
-        job.sponsorship === "yes"
-          ? `<span class="badge">visa</span>`
-          : "",
-        job.location ? `<span class="badge">${escapeHtml(job.location)}</span>` : "",
         job.salary ? `<span class="badge">${escapeHtml(job.salary)}</span>` : "",
       ]
         .filter(Boolean)
@@ -230,16 +259,17 @@ function renderJobs(jobs, filters) {
 
       return `
       <article class="job-row" data-url="${escapeAttr(job.url)}">
-        <div>
+        <div class="job-index">${idx + 1}</div>
+        <div class="job-body">
           <h3 class="job-title"><a href="${escapeAttr(job.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(job.title)}</a></h3>
-          <div class="job-meta">${escapeHtml(job.company)} · ${t("posted")} ${formatDate(job.postedAt)}</div>
+          <div class="job-meta">${escapeHtml(job.company)} · ${formatDate(job.postedAt)}${job.location ? ` · ${escapeHtml(job.location)}` : ""}</div>
           <div class="badges">${badges}</div>
           <div class="job-snippet">${highlight(job.description || "", filters)}</div>
         </div>
         <div class="job-actions">
           <a class="btn btn-small btn-primary" href="${escapeAttr(job.url)}" target="_blank" rel="noopener noreferrer">${t("open")}</a>
           <button type="button" class="btn btn-small btn-ghost btn-copy">${t("copy")}</button>
-          <button type="button" class="btn btn-small btn-ghost btn-save" data-saved="${isSaved}">${isSaved ? t("unsave") : t("save")}</button>
+          <button type="button" class="btn btn-small btn-ghost btn-save">${isSaved ? t("unsave") : t("save")}</button>
         </div>
       </article>`;
     })
@@ -250,7 +280,6 @@ function renderProgress(p) {
   const wrap = $("#progress-wrap");
   wrap.hidden = false;
   $("#progress-fill").style.width = `${p.percent}%`;
-  $("#progress-fill").parentElement.setAttribute("aria-valuenow", String(p.percent));
   $("#progress-label").textContent =
     p.percent >= 100
       ? `${t("done")} · ${p.done}/${p.total}`
@@ -258,168 +287,76 @@ function renderProgress(p) {
   $("#progress-eta").textContent =
     p.percent >= 100 ? "" : `${t("eta")} ~${Math.ceil((p.etaMs || 0) / 1000)}s`;
 
-  const box = $("#source-status");
-  box.innerHTML = Object.values(p.sources || {})
+  $("#source-status").innerHTML = Object.values(p.sources || {})
     .map((s) => {
-      const stateLabel = t(s.state) || s.state;
       const detail =
         s.state === "error"
           ? s.error
           : s.state === "ok" || s.state === "empty"
-            ? `${s.count} · ${s.ms}ms`
-            : stateLabel;
-      return `<div class="source-pill" data-state="${s.state}"><strong>${s.name}</strong>${stateLabel}${detail && detail !== stateLabel ? ` · ${escapeHtml(detail)}` : ""}</div>`;
+            ? `${s.count}`
+            : t(s.state);
+      return `<div class="source-pill" data-state="${s.state}"><strong>${s.name}</strong>${escapeHtml(String(detail))}</div>`;
     })
     .join("");
 }
 
-function groupLabel(key) {
-  const map = {
-    primary: "groupPrimary",
-    brazil: "groupBrazil",
-    worldwide: "groupWorldwide",
-    "us-br": "groupUsBr",
-    "eu-br": "groupEuBr",
-    "au-br": "groupAuBr",
-    latam: "regionLatam",
-    bookmark: "regionBookmark",
-    featured: "regionFeatured",
-  };
-  return t(map[key] || key);
-}
-
-function renderDeepLinks(filters) {
-  const links = buildDeepLinks(filters);
-  const groups = groupDeepLinks(links);
-  const root = $("#deeplink-groups");
-  root.innerHTML = groups
-    .map((g) => {
-      const shown = deepExpanded ? g.links : g.links.slice(0, DEEP_PREVIEW_PER_GROUP);
-      return `
-      <div class="link-group">
-        <h3 class="subhead">${groupLabel(g.id)} <span class="muted">(${g.links.length})</span></h3>
-        <div class="deeplink-grid">
-          ${shown
-            .map(
-              (l) => `
-            <a class="deeplink" href="${escapeAttr(l.url)}" target="_blank" rel="noopener noreferrer">
-              <strong>${escapeHtml(l.name)}</strong>
-              <span>${escapeHtml(l.description)}</span>
-            </a>`
-            )
-            .join("")}
-        </div>
-      </div>`;
-    })
-    .join("");
-  $("#btn-toggle-deep").textContent = deepExpanded ? t("showLess") : t("showMore");
-}
-
-function renderCompanies() {
-  const q = $("#company-q")?.value || "";
-  const region = $("#company-region")?.value || "any";
-  const type = $("#company-type")?.value || "any";
-  const filtered = filterCompanies(allCompanies, { q, region, type });
-  $("#companies-count").textContent = `${filtered.length} ${t("companiesFound")}`;
-  const groups = groupCompanies(filtered);
-  const root = $("#companies-groups");
-  if (!groups.length) {
-    root.innerHTML = `<div class="empty">${t("noResults")}</div>`;
+function renderHacksApplied(applied = [], expanded = []) {
+  const box = $("#hacks-applied");
+  if (!applied.length) {
+    box.hidden = true;
+    box.innerHTML = "";
     return;
   }
-  root.innerHTML = groups
-    .map(
-      (g) => `
-    <div class="link-group">
-      <h3 class="subhead">${groupLabel(g.id)} <span class="muted">(${g.companies.length})</span></h3>
-      <div class="deeplink-grid">
-        ${g.companies
-          .map((c) => {
-            const href = c.searchUrl || c.url;
-            const star = c.featured ? " ★" : "";
-            const note = c.note ? escapeHtml(c.note) : `${escapeHtml(c.type || "")} · ${escapeHtml(c.host || "")}`;
-            return `
-          <a class="deeplink${c.featured ? " featured" : ""}" href="${escapeAttr(href)}" target="_blank" rel="noopener noreferrer">
-            <strong>${escapeHtml(c.name)}${star}</strong>
-            <span>${note}</span>
-          </a>`;
-          })
-          .join("")}
-      </div>
-    </div>`
-    )
-    .join("");
+  const labels = {
+    "synonym-or": t("hackChipSynonym"),
+    "exclude-junior": t("hackChipExcludeJunior"),
+    "remote-boost": t("hackChipRemote"),
+    "brazil-latam-boost": t("hackChipBrazil"),
+    "default-remote": t("hackChipDefaultRemote"),
+    "sort-hack-relevance": t("hackChipSort"),
+    "multi-api-query": t("hackChipMultiApi"),
+    "external-hack-links": t("hackChipExternal"),
+  };
+  box.hidden = false;
+  box.innerHTML = `
+    <div class="hacks-applied-label">${t("hacksApplied")}</div>
+    <div class="badges">
+      ${applied.map((a) => `<span class="badge latam">${escapeHtml(labels[a] || a)}</span>`).join("")}
+      ${expanded.length ? `<span class="badge">${expanded.length} ${t("hackChipTerms")}</span>` : ""}
+    </div>`;
 }
 
-function renderHacks(filters) {
-  const opsRoot = $("#hacks-ops");
-  const sections = [
-    ["hacksGoogle", OPERATOR_DOCS.google],
-    ["hacksLinkedIn", OPERATOR_DOCS.linkedin],
-    ["hacksIndeed", OPERATOR_DOCS.indeed],
-  ];
-  opsRoot.innerHTML = sections
-    .map(
-      ([titleKey, ops]) => `
-    <div class="ops-block">
-      <h3 class="subhead">${t(titleKey)}</h3>
-      <div class="ops-list">
-        ${ops
-          .map(
-            (o) => `
-          <div class="op-row">
-            <code>${escapeHtml(o.op)}</code>
-            <span>${t(o.tipKey)}</span>
-          </div>`
-          )
-          .join("")}
-      </div>
-    </div>`
-    )
-    .join("");
-
-  $("#site-hacks").innerHTML = SITE_HACKS.map(
-    (s) => `
-    <div class="ops-block">
-      <h3 class="subhead"><a href="${escapeAttr(s.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(s.name)}</a></h3>
-      <ul class="tips-list compact">
-        ${s.tips.map((tip) => `<li>${t(tip)}</li>`).join("")}
-      </ul>
-    </div>`
-  ).join("");
-
-  const recipes = buildSearchRecipes(filters);
-  $("#recipes").innerHTML = recipes
-    .map(
-      (r) => `
-    <article class="recipe-row" data-query="${escapeAttr(r.query)}" data-url="${escapeAttr(r.url)}">
-      <div>
-        <div class="recipe-platform">${escapeHtml(r.platform)}</div>
-        <strong>${t(r.titleKey)}</strong>
-        <pre class="recipe-query">${escapeHtml(r.query)}</pre>
-      </div>
-      <div class="job-actions">
-        <a class="btn btn-small btn-primary" href="${escapeAttr(r.url)}" target="_blank" rel="noopener noreferrer">${t("openRecipe")}</a>
-        <button type="button" class="btn btn-small btn-ghost btn-copy-query">${t("copyQuery")}</button>
-      </div>
-    </article>`
-    )
-    .join("");
-
-  $("#extra-tips").innerHTML = EXTRA_TIPS.map((tip) => `<li>${t(tip)}</li>`).join("");
+function openTopHacks() {
+  const { external } = applySearchHacks(readFilters());
+  const list = external.slice(0, 5);
+  for (const item of list) window.open(item.url, "_blank", "noopener,noreferrer");
+  toast(`${list.length} ${t("hacksOpened")}`);
 }
 
-async function runSearch() {
+async function runSearch(overrideFilters) {
   if (searching) return;
   searching = true;
+  if (overrideFilters) applyFilterObject({ ...defaultFilters(), ...overrideFilters });
   const filters = readFilters();
-  renderDeepLinks(filters);
-  renderHacks(filters);
+  visibleCount = PAGE_SIZE;
   $("#btn-search").disabled = true;
+  $("#progress-wrap").hidden = false;
 
   try {
-    const { jobs } = await searchJobs(filters, renderProgress, filters.sources);
-    renderJobs(jobs, filters);
+    const result = await searchJobs(filters, renderProgress, filters.sources);
+    const sourcesOk = Object.values(result.sources || {}).filter((s) => s.state === "ok").length;
+    lastMeta = {
+      sourcesOk,
+      elapsedMs: result.elapsedMs,
+      hacks: result.hacksApplied || [],
+    };
+    renderJobs(
+      result.jobs,
+      result.effectiveFilters || filters,
+      result.externalHacks || []
+    );
+    renderHacksApplied(result.hacksApplied || [], result.expandedKeywords || []);
+    $("#results-panel").scrollIntoView({ behavior: "smooth", block: "start" });
   } finally {
     searching = false;
     $("#btn-search").disabled = false;
@@ -431,45 +368,27 @@ function wireEvents() {
     e.preventDefault();
     runSearch();
   });
-  $("#btn-search").addEventListener("click", () => runSearch());
-  $("#btn-deeplinks").addEventListener("click", () => {
-    renderDeepLinks(readFilters());
-    $("#deeplinks-panel").scrollIntoView({ behavior: "smooth" });
-  });
-  $("#btn-companies").addEventListener("click", () => {
-    renderCompanies();
-    $("#companies-panel").scrollIntoView({ behavior: "smooth" });
-  });
-  $("#btn-hacks").addEventListener("click", () => {
-    renderHacks(readFilters());
-    $("#hacks-panel").scrollIntoView({ behavior: "smooth" });
-  });
-  $("#btn-reset").addEventListener("click", () => {
-    $("#filters-form").reset();
-    fillDefaults();
-    renderSourceToggles();
-    const f = readFilters();
-    renderDeepLinks(f);
-    renderHacks(f);
-  });
 
   document.querySelectorAll("#market-presets .chip-btn").forEach((btn) => {
-    btn.addEventListener("click", () => applyMarket(btn.dataset.market));
-  });
-  $("#btn-toggle-deep").addEventListener("click", () => {
-    deepExpanded = !deepExpanded;
-    renderDeepLinks(readFilters());
-  });
-  $("#btn-clear-saved").addEventListener("click", () => {
-    saved = new Set();
-    saveSaved(saved);
-    if (lastJobs.length) renderJobs(lastJobs, readFilters());
+    btn.addEventListener("click", () => {
+      applyFilterObject(marketPreset(btn.dataset.market));
+    });
   });
 
-  ["company-q", "company-region", "company-type"].forEach((id) => {
-    const el = document.getElementById(id);
-    el?.addEventListener("input", renderCompanies);
-    el?.addEventListener("change", renderCompanies);
+  $("#presets-grid").addEventListener("click", (e) => {
+    const card = e.target.closest("[data-preset]");
+    if (!card) return;
+    const preset = SEARCH_PRESETS.find((p) => p.id === card.dataset.preset);
+    if (!preset) return;
+    runSearch(preset.filters);
+  });
+
+  $("#btn-open-hacks").addEventListener("click", openTopHacks);
+
+  $("#btn-load-more").addEventListener("click", () => {
+    visibleCount = lastJobs.length;
+    renderJobs(lastJobs, readFilters());
+    $("#load-more-wrap").hidden = true;
   });
 
   document.querySelectorAll(".lang-switch button").forEach((btn) => {
@@ -480,11 +399,8 @@ function wireEvents() {
       });
       document.documentElement.lang = getLang() === "pt" ? "pt-BR" : "en";
       applyI18n();
-      const f = readFilters();
-      renderDeepLinks(f);
-      renderHacks(f);
-      renderCompanies();
-      if (lastJobs.length) renderJobs(lastJobs, f);
+      renderPresets();
+      if (lastJobs.length) renderJobs(lastJobs, readFilters());
     });
   });
 
@@ -504,51 +420,22 @@ function wireEvents() {
       if (saved.has(url)) saved.delete(url);
       else saved.add(url);
       saveSaved(saved);
-      e.target.dataset.saved = saved.has(url);
       e.target.textContent = saved.has(url) ? t("unsave") : t("save");
     }
   });
-
-  $("#recipes").addEventListener("click", async (e) => {
-    if (!e.target.classList.contains("btn-copy-query")) return;
-    const row = e.target.closest(".recipe-row");
-    if (!row) return;
-    try {
-      await navigator.clipboard.writeText(row.dataset.query);
-      toast(t("copyOk"));
-    } catch {
-      toast(row.dataset.query);
-    }
-  });
-
-  $("#filters-form").addEventListener("change", () => {
-    const f = readFilters();
-    renderDeepLinks(f);
-    renderHacks(f);
-  });
 }
 
-async function boot() {
+function boot() {
   initLang();
   document.documentElement.lang = getLang() === "pt" ? "pt-BR" : "en";
   document.querySelectorAll(".lang-switch button").forEach((b) => {
     b.classList.toggle("active", b.dataset.lang === getLang());
   });
-  renderSourceToggles();
   fillDefaults();
+  renderSourceToggles();
   applyI18n();
-  const f = readFilters();
-  renderDeepLinks(f);
-  renderHacks(f);
+  renderPresets();
   wireEvents();
-
-  try {
-    const data = await loadEmpresas();
-    allCompanies = data.companies || [];
-    renderCompanies();
-  } catch (err) {
-    $("#companies-groups").innerHTML = `<div class="empty">${escapeHtml(err.message)}</div>`;
-  }
 }
 
 boot();

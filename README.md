@@ -3,7 +3,7 @@
 Real-time **IT remote job** aggregator for Brazil, LATAM, and worldwide — built as a static **GitHub Pages** site.
 
 **Live site:** [https://lcarlini.github.io/JobSearchAggregator/](https://lcarlini.github.io/JobSearchAggregator/)  
-**App entry:** [`index.html`](./index.html)
+**App:** [`index.html`](./index.html) · **Hacks:** [`hacks.html`](./hacks.html) · **Empresas:** [`empresas.html`](./empresas.html)
 
 Live search across public APIs, company ATS boards (Greenhouse / Lever / Ashby), and professional deep-links for LinkedIn, Indeed, Google Jobs, and dozens of regional boards.
 
@@ -37,6 +37,8 @@ Site URL after Pages is on: **[https://lcarlini.github.io/JobSearchAggregator/](
 ```bash
 npm test                 # adapter + filter + deep-link tests
 npm run fetch-ats        # refresh data/ats-jobs.json
+npm run fetch-apinfo     # refresh data/apinfo-jobs.json (ApInfo BR)
+npm run fetch-jobs       # ATS + ApInfo
 npm run extract          # rebuild Remote + Empresas catalogs from bookmarks_*.html
 npm run extract:empresas # only Empresas → data/empresas.json
 npm run serve            # static server on :4173
@@ -50,6 +52,7 @@ Open `http://localhost:4173`.
 |-------|------|
 | Live CORS APIs | Browser fetches in parallel via `Promise.allSettled` |
 | Static ATS JSON | Action runs `scripts/fetch-ats.mjs` (Greenhouse/Lever/Ashby) — avoids browser CORS |
+| ApInfo (BR) | Action scrapes `list4.cfm` → `data/apinfo-jobs.json`; LinkedIn/Indeed are deep-links (no public API) |
 | Deep-links | Official search URLs with the same filters; LinkedIn/Indeed/Google block scraping |
 
 ```

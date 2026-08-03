@@ -10,6 +10,7 @@ import { normalizeArbeitnow } from "../assets/js/sources/arbeitnow.js";
 import { normalizeJobicy } from "../assets/js/sources/jobicy.js";
 import { normalizeAshby } from "../assets/js/sources/ashby.js";
 import { normalizeStaticAts } from "../assets/js/sources/static-ats.js";
+import { normalizeApinfo } from "../assets/js/sources/apinfo.js";
 import { applyFilters } from "../assets/js/filters.js";
 import { dedupeJobs, makeJob, detectGeoFlags } from "../assets/js/normalize.js";
 import { buildDeepLinks } from "../assets/js/sources/deeplinks.js";
@@ -71,6 +72,36 @@ describe("adapters normalize fixtures", () => {
     });
     assert.equal(jobs.length, 1);
     assert.equal(jobs[0].title, "Backend Engineer");
+  });
+
+  it("normalizes ApInfo payload and keeps distinct codvaga URLs", () => {
+    const jobs = normalizeApinfo({
+      jobs: [
+        {
+          id: "apinfo:1",
+          title: "Dev .NET",
+          company: "Acme",
+          url: "https://www.apinfo.com/apinfo/inc/list44.cfm?codvaga=1",
+          location: "Home Office - HO",
+          description: "Remoto C#",
+          postedAt: new Date().toISOString(),
+          tags: ["apinfo"],
+        },
+        {
+          id: "apinfo:2",
+          title: "Dev Java",
+          company: "Beta",
+          url: "https://www.apinfo.com/apinfo/inc/list44.cfm?codvaga=2",
+          location: "São Paulo - SP",
+          description: "Java",
+          postedAt: new Date().toISOString(),
+          tags: ["apinfo"],
+        },
+      ],
+    });
+    assert.equal(jobs.length, 2);
+    assert.equal(jobs[0].source, "apinfo");
+    assert.equal(dedupeJobs(jobs).length, 2);
   });
 });
 

@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Empresas — JobSearchAggregator</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,600;9..40,700&family=Syne:wght@700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./assets/css/styles.css" />
+  </head>
+  <body>
+    <div class="wrap">
+      <header class="topbar">
+        <a class="brand" href="./index.html">
+          <span class="brand-mark" aria-hidden="true"></span>
+          <span>JobSearchAggregator</span>
+        </a>
+        <nav class="top-nav">
+          <a href="./index.html" data-i18n="navSearch">Busca</a>
+          <a href="./hacks.html" data-i18n="navHacks">Hacks</a>
+          <div class="lang-switch">
+            <button type="button" data-lang="pt" class="active">PT</button>
+            <button type="button" data-lang="en">EN</button>
+          </div>
+        </nav>
+      </header>
+
+      <section class="hero hero-compact">
+        <h1 data-i18n="companiesTitle">Empresas & boards</h1>
+        <p class="hero-lead" data-i18n="companiesSub">
+          Bookmark Empresas + boards BR/globais. ApInfo em destaque.
+        </p>
+      </section>
+
+      <section class="panel">
+        <div class="stats-bar" id="stats-bar">
+          <div class="stat"><strong id="stat-total">0</strong><span data-i18n="companiesFound">empresas</span></div>
+        </div>
+        <div class="quick-filters">
+          <input
+            id="company-q"
+            class="search-input"
+            type="search"
+            data-i18n-placeholder="companiesSearchPh"
+            placeholder="ApInfo, GitLab…"
+          />
+          <select id="company-region">
+            <option value="any" data-i18n="geoAny">Qualquer</option>
+            <option value="featured" data-i18n="regionFeatured">Destaques</option>
+            <option value="brazil" data-i18n="regionBrazil">Brasil</option>
+            <option value="worldwide" data-i18n="regionWorldwide">Internacional</option>
+            <option value="us-br" data-i18n="regionUsBr">EUA→BR</option>
+            <option value="eu-br" data-i18n="regionEuBr">EU→BR</option>
+            <option value="au-br" data-i18n="regionAuBr">AU→BR</option>
+            <option value="latam" data-i18n="regionLatam">LATAM</option>
+            <option value="bookmark" data-i18n="regionBookmark">Bookmark</option>
+          </select>
+          <select id="company-type">
+            <option value="any" data-i18n="typeAny">Tipo</option>
+            <option value="board" data-i18n="typeBoard">Board</option>
+            <option value="company" data-i18n="typeCompany">Empresa</option>
+            <option value="link" data-i18n="typeLink">Link</option>
+          </select>
+        </div>
+        <div id="companies-groups" class="companies-groups"></div>
+      </section>
+    </div>
+    <script type="module" src="./assets/js/empresas-page.js"></script>
+  </body>
+</html>

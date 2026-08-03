@@ -95,6 +95,38 @@ describe("advanced filters", () => {
     assert.equal(marketPreset("us").currency, "USD");
     assert.equal(marketPreset("europe").timezone, "CET");
     assert.equal(marketPreset("australia").timezone, "AEST");
-    assert.equal(marketPreset("worldwide").remotePolicy, "anywhere");
+    assert.equal(marketPreset("worldwide").remotePolicy, "any");
+  });
+
+  it("keeps remote US-tagged jobs under soft LATAM geo", () => {
+    const usRemote = makeJob({
+      source: "t",
+      title: "Senior Backend Engineer",
+      company: "Acme",
+      url: "https://ex.com/us",
+      description: "Fully remote. Work from anywhere.",
+      location: "California, United States",
+      postedAt: Date.now() - 3600e3,
+    });
+    const out = applyFilters([usRemote], {
+      geo: "latam",
+      workplace: "remote",
+      recency: "any",
+    });
+    assert.equal(out.length, 1);
+  });
+
+  it("keeps jobs with unknown postedAt when recency is set", () => {
+    const undated = makeJob({
+      source: "t",
+      title: "React Engineer",
+      company: "X",
+      url: "https://ex.com/u",
+      description: "Remote React",
+      location: "Remote",
+      postedAt: null,
+    });
+    const out = applyFilters([undated], { recency: "3d", workplace: "any", geo: "any" });
+    assert.equal(out.length, 1);
   });
 });

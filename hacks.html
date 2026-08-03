@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Hacks — JobSearchAggregator</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,600;9..40,700&family=Syne:wght@700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./assets/css/styles.css" />
+  </head>
+  <body>
+    <div class="wrap">
+      <header class="topbar">
+        <a class="brand" href="./index.html">
+          <span class="brand-mark" aria-hidden="true"></span>
+          <span>JobSearchAggregator</span>
+        </a>
+        <nav class="top-nav">
+          <a href="./index.html" data-i18n="navSearch">Busca</a>
+          <a href="./empresas.html" data-i18n="navEmpresas">Empresas</a>
+          <div class="lang-switch">
+            <button type="button" data-lang="pt" class="active">PT</button>
+            <button type="button" data-lang="en">EN</button>
+          </div>
+        </nav>
+      </header>
+
+      <section class="hero hero-compact">
+        <h1 data-i18n="hacksTitle">Hacks de busca</h1>
+        <p class="hero-lead" data-i18n="hacksSub">
+          Operadores e receitas — abra no LinkedIn, Google, Indeed e ApInfo.
+        </p>
+        <div class="cta-row">
+          <button type="button" class="btn btn-primary" id="btn-open-top" data-i18n="ctaOpenHacks">
+            Abrir top hacks
+          </button>
+          <a class="btn btn-ghost" href="./index.html" data-i18n="navSearch">Voltar à busca</a>
+        </div>
+      </section>
+
+      <section class="panel">
+        <div class="quick-filters" style="margin-bottom: 1rem">
+          <input id="hack-keywords" class="search-input" placeholder=".NET, C#, React" value=".NET, C#, React" />
+          <select id="hack-recency">
+            <option value="2h">2h</option>
+            <option value="24h" selected>24h</option>
+            <option value="7d">7d</option>
+          </select>
+          <button type="button" class="btn btn-ghost" id="btn-refresh-recipes" data-i18n="applyFilters">
+            Atualizar
+          </button>
+        </div>
+        <div class="hacks-ops" id="hacks-ops"></div>
+      </section>
+
+      <section class="panel">
+        <h2 data-i18n="siteHacksTitle">Hacks por site</h2>
+        <div class="site-hacks" id="site-hacks"></div>
+      </section>
+
+      <section class="panel">
+        <h2 data-i18n="recipesTitle">Combinações poderosas</h2>
+        <div class="recipes" id="recipes"></div>
+      </section>
+
+      <section class="panel">
+        <h2 data-i18n="extraTipsTitle">Dicas extras</h2>
+        <ul class="tips-list" id="extra-tips"></ul>
+      </section>
+    </div>
+    <div class="toast" id="toast"></div>
+    <script type="module" src="./assets/js/hacks-page.js"></script>
+  </body>
+</html>
