@@ -1,18 +1,85 @@
 /** Shared job normalization helpers (browser + Node). */
 
+const MOJIBAKE_MAP = [
+  [/Ã¡/g, "á"],
+  [/Ã©/g, "é"],
+  [/Ã­/g, "í"],
+  [/Ã³/g, "ó"],
+  [/Ãº/g, "ú"],
+  [/Ã£/g, "ã"],
+  [/Ãµ/g, "õ"],
+  [/Ã§/g, "ç"],
+  [/Ã¢/g, "â"],
+  [/Ãª/g, "ê"],
+  [/Ã´/g, "ô"],
+  [/Ã /g, "à"],
+  [/Ã/g, "Á"],
+  [/Ã‰/g, "É"],
+  [/Ã/g, "Í"],
+  [/Ã“/g, "Ó"],
+  [/Ãš/g, "Ú"],
+  [/Ãƒ/g, "Ã"],
+  [/Ã•/g, "Õ"],
+  [/Ã‡/g, "Ç"],
+  [/Â /g, " "],
+  [/Â(?=[\s,.!?;:])/g, ""],
+];
+
+/**
+ * Fix UTF-8 read as Latin-1 (Ã£ → ã) and common ApInfo glue.
+ * @param {string} input
+ * @param {{ title?: boolean }} [opts] — title mode also splits CamelCase / role glue
+ */
+export function sanitizeText(input = "", opts = {}) {
+  let s = String(input ?? "");
+  if (!s) return "";
+
+  // Mojibake repair (may need 2 passes)
+  for (let i = 0; i < 2; i++) {
+    let next = s;
+    for (const [re, ch] of MOJIBAKE_MAP) next = next.replace(re, ch);
+    if (next === s) break;
+    s = next;
+  }
+
+  // Drop leftover replacement chars (unrecoverable)
+  s = s.replace(/\uFFFD+/g, "");
+
+  // Collapse letter-spaced runs: "S ê n i o r" → "Sênior"
+  s = s.replace(/(?<!\S)(?:[\p{L}\p{N}.#+-]\s+){4,}[\p{L}\p{N}.#+-](?!\S)/gu, (run) =>
+    run.replace(/\s+/g, "")
+  );
+
+  if (opts.title) {
+    // CamelCase / glued role titles from ApInfo highlight collapse
+    s = s
+      .replace(/([a-zà-úç]{2,})([A-ZÁ-ÚÇ])/g, "$1 $2")
+      .replace(
+        /\b(Engenheiro|Analista|Desenvolvedor|Administrador|Arquiteto|Gerente|T[eé]cnico|Coordenador|Especialista|Programador|Consultor)(a?)(de|da|do)\b/gi,
+        "$1$2 $3"
+      )
+      .replace(/(ção|são|agem|dade|ente|ista|ador|edora?)(com|para|de|em|e)\b/gi, "$1 $2")
+      .replace(/\(\s*([a-zA-Z])\s*\)/g, "($1)");
+  }
+
+  return s.replace(/\s+/g, " ").trim();
+}
+
 export function stripHtml(html = "") {
-  return String(html)
-    .replace(/<script[\s\S]*?<\/script>/gi, " ")
-    .replace(/<style[\s\S]*?<\/style>/gi, " ")
-    .replace(/<[^>]+>/g, " ")
-    .replace(/&nbsp;/g, " ")
-    .replace(/&amp;/g, "&")
-    .replace(/&lt;/g, "<")
-    .replace(/&gt;/g, ">")
-    .replace(/&quot;/g, '"')
-    .replace(/&#39;/g, "'")
-    .replace(/\s+/g, " ")
-    .trim();
+  return sanitizeText(
+    String(html)
+      .replace(/<script[\s\S]*?<\/script>/gi, " ")
+      .replace(/<style[\s\S]*?<\/style>/gi, " ")
+      .replace(/<[^>]+>/g, " ")
+      .replace(/&nbsp;/g, " ")
+      .replace(/&amp;/g, "&")
+      .replace(/&lt;/g, "<")
+      .replace(/&gt;/g, ">")
+      .replace(/&quot;/g, '"')
+      .replace(/&#39;/g, "'")
+      .replace(/&#(\d+);/g, (_, n) => String.fromCharCode(Number(n)))
+      .replace(/&#x([0-9a-f]+);/gi, (_, h) => String.fromCharCode(parseInt(h, 16)))
+  );
 }
 
 export function toEpoch(value) {
@@ -240,11 +307,12 @@ export function detectTravel(text = "") {
 }
 
 export function makeJob(partial) {
-  const title = partial.title || "Untitled";
+  // Validate/repair text before anything is shown in the UI
+  const title = sanitizeText(partial.title || "Untitled", { title: true }) || "Untitled";
   const description = stripHtml(partial.description || "");
-  const company = partial.company || "Unknown";
-  const location = partial.location || "";
-  const tags = partial.tags || [];
+  const company = sanitizeText(partial.company || "Unknown") || "Unknown";
+  const location = sanitizeText(partial.location || "");
+  const tags = (partial.tags || []).map((t) => sanitizeText(String(t))).filter(Boolean);
   const blob = `${title} ${description} ${location} ${tags.join(" ")}`;
   const geo = detectGeoFlags(blob, location);
   const postedAt = toEpoch(partial.postedAt);

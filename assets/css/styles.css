@@ -220,12 +220,34 @@ a:hover {
   margin-top: 0.9rem;
 }
 
+.filter-row {
+  margin-top: 0.85rem;
+}
+
+.filter-row-label {
+  display: block;
+  font-size: 0.75rem;
+  color: var(--muted);
+  margin-bottom: 0.35rem;
+}
+
 .market-presets,
-.quick-filters {
+.quick-filters,
+.multi-chips {
   display: flex;
   flex-wrap: wrap;
   gap: 0.4rem;
+  align-items: center;
+}
+
+.quick-filters {
   margin-top: 0.75rem;
+}
+
+.filter-hint {
+  margin: 0.45rem 0 0;
+  font-size: 0.75rem;
+  color: var(--muted);
 }
 
 .quick-filters select {

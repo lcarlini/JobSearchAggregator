@@ -1,5 +1,5 @@
 import { initLang, setLang, getLang, t, applyI18n } from "./i18n.js";
-import { defaultFilters, marketPreset, splitTerms } from "./filters.js";
+import { defaultFilters, splitTerms } from "./filters.js";
 import { searchJobs, ADAPTERS } from "./search-engine.js";
 import { applySearchHacks } from "./apply-hacks.js";
 import { SEARCH_PRESETS } from "./presets.js";
@@ -98,13 +98,59 @@ function setFormValue(id, value) {
   else el.value = value ?? "";
 }
 
+/** Sync hidden inputs from active multi-select chips (OR semantics). */
+function syncMultiChip(name) {
+  const active = [
+    ...document.querySelectorAll(`.chip-btn.active[data-multi="${name}"]`),
+  ].map((b) => b.dataset.value);
+  const hidden = document.getElementById(name);
+  if (!hidden) return;
+  if (!active.length) {
+    hidden.value = name === "geo" ? "any" : "any";
+  } else {
+    hidden.value = active.join(",");
+  }
+  if (name === "geo") {
+    const market = document.getElementById("market");
+    if (market) market.value = active[0] || "latam";
+  }
+}
+
+function syncAllMultiChips() {
+  for (const name of ["geo", "workplace", "seniority", "jobType"]) syncMultiChip(name);
+}
+
+function setMultiChips(name, value) {
+  const wanted = new Set(
+    String(value || "any")
+      .split(/[,;]+/)
+      .map((s) => s.trim().toLowerCase())
+      .filter((s) => s && s !== "any")
+  );
+  document.querySelectorAll(`.chip-btn[data-multi="${name}"]`).forEach((btn) => {
+    btn.classList.toggle("active", wanted.has(String(btn.dataset.value).toLowerCase()));
+  });
+  // Defaults: geo=latam, workplace=remote when empty after apply
+  if (!wanted.size && name === "geo") {
+    document
+      .querySelector('.chip-btn[data-multi="geo"][data-value="latam"]')
+      ?.classList.add("active");
+  }
+  if (!wanted.size && name === "workplace") {
+    document
+      .querySelector('.chip-btn[data-multi="workplace"][data-value="remote"]')
+      ?.classList.add("active");
+  }
+  syncMultiChip(name);
+}
+
 function applyFilterObject(d) {
   const keys = [
     "market", "keywords", "exactPhrase", "titleInclude", "titleExclude",
     "descInclude", "descExclude", "skillsMust", "skillsNice", "company",
-    "hiddenCompanies", "industry", "recency", "geo", "country", "state",
-    "city", "workplace", "remotePolicy", "timezone", "language", "englishLevel",
-    "jobType", "engagement", "seniority", "salaryMin", "salaryMax", "currency",
+    "hiddenCompanies", "industry", "recency", "country", "state",
+    "city", "remotePolicy", "timezone", "language", "englishLevel",
+    "engagement", "salaryMin", "salaryMax", "currency",
     "payPeriod", "sponsorship", "employerType", "companyStage", "companySize",
     "sortBy",
   ];
@@ -115,9 +161,10 @@ function applyFilterObject(d) {
   ]) {
     setFormValue(k, d[k]);
   }
-  document.querySelectorAll("#market-presets .chip-btn").forEach((b) => {
-    b.classList.toggle("active", b.dataset.market === d.market);
-  });
+  setMultiChips("geo", d.geo || d.market || "latam");
+  setMultiChips("workplace", d.workplace || "remote");
+  setMultiChips("seniority", d.seniority || "any");
+  setMultiChips("jobType", d.jobType || "any");
 }
 
 function fillDefaults() {
@@ -369,9 +416,18 @@ function wireEvents() {
     runSearch();
   });
 
-  document.querySelectorAll("#market-presets .chip-btn").forEach((btn) => {
+  // Multi-select chips: toggle without clearing other filters
+  document.querySelectorAll(".chip-btn[data-multi]").forEach((btn) => {
     btn.addEventListener("click", () => {
-      applyFilterObject(marketPreset(btn.dataset.market));
+      btn.classList.toggle("active");
+      // Keep at least one geo selected
+      if (
+        btn.dataset.multi === "geo" &&
+        !document.querySelector('.chip-btn.active[data-multi="geo"]')
+      ) {
+        btn.classList.add("active");
+      }
+      syncMultiChip(btn.dataset.multi);
     });
   });
 
@@ -380,6 +436,7 @@ function wireEvents() {
     if (!card) return;
     const preset = SEARCH_PRESETS.find((p) => p.id === card.dataset.preset);
     if (!preset) return;
+    // Preset fills fields but multi chips still combine (OR) within each dimension
     runSearch(preset.filters);
   });
 

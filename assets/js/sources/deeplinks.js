@@ -41,6 +41,9 @@ function linkedInJobType(jobType) {
 }
 
 function geoLocation(geo) {
+  const first = String(geo || "")
+    .split(/[,;]+/)[0]
+    ?.trim();
   return {
     brazil: "Brazil",
     latam: "Latin America",
@@ -49,7 +52,7 @@ function geoLocation(geo) {
     "au-br": "Australia",
     europe: "Europe",
     us: "United States",
-  }[geo] || "";
+  }[first] || "";
 }
 
 function indeedHost(geo) {

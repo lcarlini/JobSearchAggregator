@@ -149,6 +149,7 @@ const dict = {
     sources: "Fontes ao vivo",
     progress: "Progresso",
     results: "Resultados",
+    multiFilterHint: "Clique vários chips — eles se somam (OU), não se anulam.",
     external: "Buscas externas (sem scrape)",
     externalBoardsTitle: "LinkedIn, ApInfo e outras boards (abre em nova aba)",
     externalBoardsHint:
@@ -456,6 +457,7 @@ const dict = {
     sources: "Live sources",
     progress: "Progress",
     results: "Results",
+    multiFilterHint: "Click multiple chips — they combine (OR), they don't cancel each other.",
     external: "External searches (no scrape)",
     externalBoardsTitle: "LinkedIn, ApInfo and other boards (new tab)",
     externalBoardsHint:

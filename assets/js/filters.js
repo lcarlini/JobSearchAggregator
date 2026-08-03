@@ -40,8 +40,14 @@ function withinRecency(postedAt, recency) {
   return Date.now() - postedAt <= hours * 3600 * 1000;
 }
 
-function matchGeo(job, geo) {
-  if (!geo || geo === "any") return true;
+function filterValues(value) {
+  if (Array.isArray(value)) return value.map((v) => String(v).toLowerCase().trim()).filter(Boolean);
+  const parts = splitTerms(value);
+  if (!parts.length || parts.includes("any")) return [];
+  return parts;
+}
+
+function matchSingleGeo(job, geo) {
   const g = job.geo || {};
   const loc = `${job.location || ""} ${job.description || ""}`.toLowerCase();
   switch (geo) {
@@ -88,24 +94,36 @@ function matchGeo(job, geo) {
   }
 }
 
-function matchJobType(job, jobType) {
-  if (!jobType || jobType === "any") return true;
-  if (jobType === "freelance" || jobType === "contract" || jobType === "temporary") {
-    return ["freelance", "contract", "temporary"].includes(job.jobType) ||
-      job.engagement === "contractor" ||
-      job.engagement === "freelance";
-  }
-  return job.jobType === jobType;
+/** Multi-geo: OR — job matches if it fits any selected market. */
+function matchGeo(job, geo) {
+  const wanted = filterValues(geo);
+  if (!wanted.length) return true;
+  return wanted.some((g) => matchSingleGeo(job, g));
 }
 
+function matchJobType(job, jobType) {
+  const wanted = filterValues(jobType);
+  if (!wanted.length) return true;
+  return wanted.some((jt) => {
+    if (jt === "freelance" || jt === "contract" || jt === "temporary") {
+      return (
+        ["freelance", "contract", "temporary"].includes(job.jobType) ||
+        job.engagement === "contractor" ||
+        job.engagement === "freelance"
+      );
+    }
+    return job.jobType === jt;
+  });
+}
+
+/** Multi-workplace: OR — remote|hybrid|onsite can combine. */
 function matchWorkplace(job, workplace) {
-  if (!workplace || workplace === "any") return true;
-  // Remote boards / unknown workplace: treat as remote-friendly
-  if (job.workplace === "unknown") return workplace === "remote";
-  if (workplace === "remote") {
-    return job.workplace === "remote" || job.workplace === "hybrid";
+  const wanted = filterValues(workplace);
+  if (!wanted.length) return true;
+  if (job.workplace === "unknown") {
+    return wanted.includes("remote") || wanted.includes("hybrid");
   }
-  return job.workplace === workplace;
+  return wanted.includes(job.workplace);
 }
 
 function matchEngagement(job, engagement) {
@@ -163,20 +181,23 @@ function matchSkills(job, skills, mode = "any") {
 }
 
 function matchSeniority(job, seniority) {
-  if (!seniority || seniority === "any") return true;
+  const wanted = filterValues(seniority);
+  if (!wanted.length) return true;
   const t = `${job.title} ${job.description}`.toLowerCase();
   const map = {
     intern: /\b(intern|internship|estagiário|estagiario|trainee)\b/,
     junior: /\b(junior|jr\.?|entry[- ]level)\b/,
     mid: /\b(mid[- ]?level|pleno|intermediate)\b/,
-    senior: /\b(senior|sr\.?)\b/,
+    senior: /\b(senior|sr\.?|s[eê]nior)\b/,
     staff: /\b(staff|principal)\b/,
-    lead: /\b(lead|tech lead|engineering manager|head of|director)\b/,
+    lead: /\b(lead|tech lead|engineering manager|head of|director|l[ií]der)\b/,
   };
-  if (seniority === "senior+") {
-    return map.senior.test(t) || map.staff.test(t) || map.lead.test(t);
-  }
-  return map[seniority] ? map[seniority].test(t) : true;
+  return wanted.some((s) => {
+    if (s === "senior+") {
+      return map.senior.test(t) || map.staff.test(t) || map.lead.test(t);
+    }
+    return map[s] ? map[s].test(t) : true;
+  });
 }
 
 function matchCompany(job, company) {

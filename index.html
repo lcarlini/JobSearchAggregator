@@ -42,8 +42,6 @@
 
       <section class="panel search-panel">
         <form id="filters-form">
-          <input type="hidden" name="market" id="market" value="latam" />
-
           <div class="search-row">
             <input
               id="keywords"
@@ -58,13 +56,18 @@
             </button>
           </div>
 
-          <div class="market-presets" id="market-presets" role="group">
-            <button type="button" class="chip-btn active" data-market="latam">LATAM</button>
-            <button type="button" class="chip-btn" data-market="brazil" data-i18n="marketBrazil">Brasil</button>
-            <button type="button" class="chip-btn" data-market="us" data-i18n="marketUs">EUA</button>
-            <button type="button" class="chip-btn" data-market="europe" data-i18n="marketEurope">Europa</button>
-            <button type="button" class="chip-btn" data-market="australia" data-i18n="marketAustralia">Austrália</button>
-            <button type="button" class="chip-btn" data-market="worldwide" data-i18n="marketWorldwide">Global</button>
+          <div class="filter-row">
+            <span class="filter-row-label" data-i18n="geo">Mercados</span>
+            <div class="market-presets multi-chips" id="market-presets" role="group" aria-label="Markets">
+              <button type="button" class="chip-btn active" data-multi="geo" data-value="latam">LATAM</button>
+              <button type="button" class="chip-btn" data-multi="geo" data-value="brazil" data-i18n="marketBrazil">Brasil</button>
+              <button type="button" class="chip-btn" data-multi="geo" data-value="us" data-i18n="marketUs">EUA</button>
+              <button type="button" class="chip-btn" data-multi="geo" data-value="europe" data-i18n="marketEurope">Europa</button>
+              <button type="button" class="chip-btn" data-multi="geo" data-value="au-br" data-i18n="marketAustralia">Austrália</button>
+              <button type="button" class="chip-btn" data-multi="geo" data-value="worldwide" data-i18n="marketWorldwide">Global</button>
+            </div>
+            <input type="hidden" name="geo" id="geo" value="latam" />
+            <input type="hidden" name="market" id="market" value="latam" />
           </div>
 
           <div class="quick-filters">
@@ -78,51 +81,40 @@
               <option value="30d" data-i18n="recency30d">30d</option>
               <option value="any" selected data-i18n="recencyAny">Qualquer</option>
             </select>
-            <select id="workplace" name="workplace">
-              <option value="any" data-i18n="typeAny">Modalidade</option>
-              <option value="remote" selected data-i18n="workplaceRemote">Remoto</option>
-              <option value="hybrid" data-i18n="workplaceHybrid">Híbrido</option>
-              <option value="onsite" data-i18n="workplaceOnsite">Presencial</option>
-            </select>
-            <select id="seniority" name="seniority">
-              <option value="any" selected data-i18n="senAny">Senioridade</option>
-              <option value="intern" data-i18n="senIntern">Estágio</option>
-              <option value="junior" data-i18n="senJunior">Júnior</option>
-              <option value="mid" data-i18n="senMid">Pleno</option>
-              <option value="senior" data-i18n="senSeniorOnly">Sênior</option>
-              <option value="staff" data-i18n="senStaff">Staff</option>
-              <option value="lead" data-i18n="senLead">Lead</option>
-              <option value="senior+" data-i18n="senSenior">Senior+</option>
-            </select>
-            <select id="jobType" name="jobType">
-              <option value="any" selected data-i18n="typeAny">Tipo</option>
-              <option value="full-time" data-i18n="typeFull">Full-time</option>
-              <option value="freelance" data-i18n="typeFreelance">Contract</option>
-              <option value="part-time" data-i18n="typePart">Part-time</option>
-              <option value="internship" data-i18n="typeIntern">Estágio</option>
-            </select>
+
+            <div class="multi-chips" id="workplace-chips" role="group">
+              <button type="button" class="chip-btn active" data-multi="workplace" data-value="remote" data-i18n="workplaceRemote">Remoto</button>
+              <button type="button" class="chip-btn" data-multi="workplace" data-value="hybrid" data-i18n="workplaceHybrid">Híbrido</button>
+              <button type="button" class="chip-btn" data-multi="workplace" data-value="onsite" data-i18n="workplaceOnsite">Presencial</button>
+            </div>
+            <input type="hidden" name="workplace" id="workplace" value="remote" />
+
+            <div class="multi-chips" id="seniority-chips" role="group">
+              <button type="button" class="chip-btn" data-multi="seniority" data-value="junior" data-i18n="senJunior">Júnior</button>
+              <button type="button" class="chip-btn" data-multi="seniority" data-value="mid" data-i18n="senMid">Pleno</button>
+              <button type="button" class="chip-btn" data-multi="seniority" data-value="senior" data-i18n="senSeniorOnly">Sênior</button>
+              <button type="button" class="chip-btn" data-multi="seniority" data-value="lead" data-i18n="senLead">Lead</button>
+              <button type="button" class="chip-btn" data-multi="seniority" data-value="senior+" data-i18n="senSenior">Senior+</button>
+            </div>
+            <input type="hidden" name="seniority" id="seniority" value="any" />
+
+            <div class="multi-chips" id="jobType-chips" role="group">
+              <button type="button" class="chip-btn" data-multi="jobType" data-value="full-time" data-i18n="typeFull">Full-time</button>
+              <button type="button" class="chip-btn" data-multi="jobType" data-value="freelance" data-i18n="typeFreelance">Contract</button>
+              <button type="button" class="chip-btn" data-multi="jobType" data-value="internship" data-i18n="typeIntern">Estágio</button>
+            </div>
+            <input type="hidden" name="jobType" id="jobType" value="any" />
+
             <label class="check inline">
               <input type="checkbox" id="applyHacks" name="applyHacks" checked />
               <span data-i18n="applyHacksShort">Hacks</span>
             </label>
           </div>
+          <p class="filter-hint" data-i18n="multiFilterHint">Clique vários chips — eles se somam (OU), não se anulam.</p>
 
           <details class="filter-group advanced-only">
             <summary data-i18n="moreFilters">Mais filtros</summary>
             <div class="filters-grid">
-              <div class="field">
-                <label for="geo" data-i18n="geo">Mercado / geo</label>
-                <select id="geo" name="geo">
-                  <option value="latam" selected>LATAM</option>
-                  <option value="brazil">Brasil</option>
-                  <option value="worldwide">Worldwide</option>
-                  <option value="uk-br">UK→BR</option>
-                  <option value="au-br">AU→BR</option>
-                  <option value="europe">Europa</option>
-                  <option value="us">EUA</option>
-                  <option value="any">Qualquer</option>
-                </select>
-              </div>
               <div class="field">
                 <label for="language" data-i18n="jobLang">Idioma</label>
                 <select id="language" name="language">

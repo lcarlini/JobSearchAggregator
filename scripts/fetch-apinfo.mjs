@@ -6,6 +6,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import { sanitizeText, stripHtml } from "../assets/js/normalize.js";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const root = path.resolve(__dirname, "..");
@@ -13,32 +14,6 @@ const outPath = path.join(root, "data", "apinfo-jobs.json");
 
 const UA =
   "Mozilla/5.0 (compatible; JobSearchAggregator/1.0; +https://github.com/lcarlini/JobSearchAggregator)";
-
-function decodeEntities(s) {
-  return String(s || "")
-    .replace(/&nbsp;/gi, " ")
-    .replace(/&amp;/gi, "&")
-    .replace(/&lt;/gi, "<")
-    .replace(/&gt;/gi, ">")
-    .replace(/&quot;/gi, '"')
-    .replace(/&#(\d+);/g, (_, n) => String.fromCharCode(Number(n)))
-    .replace(/&#x([0-9a-f]+);/gi, (_, h) => String.fromCharCode(parseInt(h, 16)));
-}
-
-function stripHtml(s) {
-  let out = decodeEntities(String(s || "").replace(/<[^>]+>/g, " ")).replace(/\s+/g, " ").trim();
-  // ApInfo highlight wraps each letter → "S ê n i o r" — collapse single-char runs
-  out = out.replace(/(?<!\S)(?:[\p{L}\p{N}.#+-]\s+){4,}[\p{L}\p{N}.#+-](?!\S)/gu, (run) =>
-    run.replace(/\s+/g, "")
-  );
-  // After full-title letter-spacing collapse: "AnalistaGovernançaSênior" → spaced words
-  out = out
-    .replace(/([a-zà-ú]{2,})([A-ZÁ-Ú])/g, "$1 $2")
-    .replace(/\(\s*([a-zA-Z])\s*\)/g, "($1)")
-    .replace(/\s+/g, " ")
-    .trim();
-  return out;
-}
 
 /** ApInfo serves ISO-8859-1; fetch().text() would corrupt accents as UTF-8. */
 async function readHtml(res) {

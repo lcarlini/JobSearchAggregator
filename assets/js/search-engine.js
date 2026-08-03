@@ -83,7 +83,8 @@ export async function searchJobs(filters, onProgress = () => {}, enabledIds = nu
   const hackKey = hacked.applied.length ? `:hacks:${hacked.applied.join("+")}` : "";
 
   const tasks = adapters.map(async (adapter) => {
-    const cacheKey = `source:${adapter.id}:v2${hackKey}:${(apiQ.remotiveSearches || []).join(",")}`;
+    // v3: bust caches that may hold pre-sanitize / bad-encoding rows
+    const cacheKey = `source:${adapter.id}:v3${hackKey}:${(apiQ.remotiveSearches || []).join(",")}`;
     const t0 = Date.now();
     sourceStatus[adapter.id].state = "running";
     emit();
