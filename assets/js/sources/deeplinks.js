@@ -108,46 +108,66 @@ export function buildDeepLinks(filters = {}) {
   // —— Primary search engines ——
   {
     const params = new URLSearchParams();
-    // Keep keywords tight (LinkedIn ignores OR-heavy synonym dumps)
-    const liKw = (filters.keywords || q).split(/[,;]+/)[0]?.trim() || q;
+    // Keep keywords tight; add NOT agency noise (LinkedIn boolean)
+    let liKw = (filters.keywords || q).split(/[,;]+/)[0]?.trim() || q;
+    liKw = `${liKw} NOT Recruitment NOT Staffing NOT "Talent Acquisition"`;
     params.set("keywords", liKw);
-    // Latin America as location often returns almost nothing — prefer blank or Brazil
-    if (filters.geo === "brazil") params.set("location", "Brazil");
-    else if (filters.geo === "us") params.set("location", "United States");
-    else if (filters.geo === "europe") params.set("location", "Europe");
-    else if (loc && filters.geo !== "latam" && filters.geo !== "worldwide") {
-      params.set("location", loc);
-    }
-    // 1=onsite 2=remote 3=hybrid
-    const wt =
-      filters.workplace === "onsite" ? "1" : filters.workplace === "hybrid" ? "3" : "2";
-    params.set("f_WT", wt);
+    // Multi-workplace chips → f_WT can combine (1 onsite, 2 remote, 3 hybrid)
+    const wps = String(filters.workplace || "remote")
+      .split(/[,;]+/)
+      .map((s) => s.trim())
+      .filter(Boolean);
+    const wtMap = { onsite: "1", remote: "2", hybrid: "3" };
+    const wtParts = wps.map((w) => wtMap[w]).filter(Boolean);
+    params.set("f_WT", wtParts.length ? wtParts.join(",") : "2");
     const tpr = linkedInTpr(filters.recency) || linkedInTpr("24h");
     if (tpr) params.set("f_TPR", tpr);
-    const jt = linkedInJobType(filters.jobType);
+    params.set("sortBy", "DD"); // Date descending — newest first
+    const jt = linkedInJobType(String(filters.jobType || "").split(/[,;]/)[0]);
     if (jt) params.set("f_JT", jt);
-    if (filters.seniority === "junior") params.set("f_E", "2");
-    if (filters.seniority === "mid") params.set("f_E", "3");
-    if (filters.seniority === "senior" || filters.seniority === "senior+") {
-      params.set("f_E", "4");
-    }
+    const sen = String(filters.seniority || "").split(/[,;]/)[0];
+    if (sen === "junior") params.set("f_E", "2");
+    if (sen === "mid") params.set("f_E", "3");
+    if (sen === "senior" || sen === "senior+") params.set("f_E", "4");
+
+    const geoStr = String(filters.geo || "");
+    if (/\bbrazil\b/i.test(geoStr)) params.set("location", "Brazil");
+    else if (/\bus\b/i.test(geoStr)) params.set("location", "United States");
+    else if (/\beurope\b/i.test(geoStr)) params.set("location", "Europe");
+    else if (loc && !/latam|worldwide/i.test(geoStr)) params.set("location", loc);
+
     push(
       links,
       "linkedin",
       "LinkedIn",
       `https://www.linkedin.com/jobs/search/?${params}`,
-      "Remote + f_TPR (como na busca LinkedIn) — abre centenas de vagas",
+      "Remote + f_TPR + sortBy=DD + NOT agencies",
       "primary"
     );
+
+    // Brazil geoId (official) — stronger than location text alone
     const br = new URLSearchParams(params);
     br.set("location", "Brazil");
+    br.set("geoId", "106057199");
     push(
       links,
       "linkedin-br",
       "LinkedIn Jobs BR",
       `https://www.linkedin.com/jobs/search/?${br}`,
-      "LinkedIn + location Brazil + remote",
+      "geoId Brasil + remoto + recentes",
       "brazil"
+    );
+
+    // Under ~10 applicants — lower competition (f_JIYN)
+    const low = new URLSearchParams(params);
+    low.set("f_JIYN", "true");
+    push(
+      links,
+      "linkedin-under10",
+      "LinkedIn <10 applicants",
+      `https://www.linkedin.com/jobs/search/?${low}`,
+      "f_JIYN=true — vagas com pouca concorrência",
+      "primary"
     );
   }
 
@@ -220,7 +240,9 @@ export function buildDeepLinks(filters = {}) {
       "https://www.apinfo.com/",
       "Destaques e busca rápida no topo",
     ],
-    ["remotar", "Remotar", `https://remotar.com.br/?s=${enc(q)}`, "Board remoto BR"],
+    ["remotar", "Remotar", `https://remotar.com.br/?s=${enc(q)}`, "Curadoria remoto BR"],
+    ["jobnagingra", "Job na Gringa", `https://www.jobnagingra.com.br/?s=${enc(q)}`, "Vagas gringa p/ BR"],
+    ["vagascom", "Vagas.com", `https://www.vagas.com.br/vagas-de-${enc(firstKw)}?b=remoto`, "Board clássico BR remoto"],
     ["meuhome", "MeuHome", "https://www.meuhome.com.br/", "Home office BR"],
     ["123vagas", "123Vagas", "https://www.123vagas.com.br/vagas/remoto", "Vagas remotas BR"],
     ["programathor", "Programathor", `https://programathor.com.br/jobs?search=${enc(q)}`, "TI Brasil"],
@@ -245,9 +267,10 @@ export function buildDeepLinks(filters = {}) {
   const intl = [
     ["remoteok-web", "Remote OK", `https://remoteok.com/remote-${enc(firstKw)}-jobs`, "Stack + salary filters"],
     ["weworkremotely", "We Work Remotely", `https://weworkremotely.com/remote-jobs/search?term=${enc(q)}`, "Programming & design"],
+    ["remotejobsorg-web", "RemoteJobs.org", `https://remotejobs.org/remote-${enc(firstKw)}-jobs`, "API feed + board"],
     ["flexjobs", "FlexJobs", `https://www.flexjobs.com/search?search=${enc(q)}&location=Remote`, "Vetted remote"],
     ["wellfound", "Wellfound", `https://wellfound.com/jobs?remote=true&query=${enc(q)}`, "Startups / AngelList"],
-    ["himalayas-web", "Himalayas", `https://himalayas.app/jobs?query=${enc(q)}`, "Remote tech"],
+    ["himalayas-web", "Himalayas", `https://himalayas.app/jobs?query=${enc(q)}`, "Remote tech + search API"],
     ["remote-com", "Remote.com/jobs", "https://remote.com/jobs", "Remote.com careers"],
     ["workingnomads", "Working Nomads", `https://www.workingnomads.com/jobs?category=development&search=${enc(q)}`, "Curated remote"],
     ["remotive-web", "Remotive", `https://remotive.com/remote-jobs/software-dev?search=${enc(q)}`, "Remote software"],
@@ -262,6 +285,13 @@ export function buildDeepLinks(filters = {}) {
     ["euremotejobs", "EU Remote Jobs", "https://euremotejobs.com/", "Europe remote"],
     ["nodesk", "NoDesk", "https://nodesk.co/remote-jobs/", "Remote companies"],
     ["workana", "Workana", `https://www.workana.com/jobs?query=${enc(q)}&language=en,pt`, "LATAM freelance"],
+    ["jsremotely", "JS Remotely", "https://jsremotely.com/", "JavaScript remote"],
+    ["remoteleaf", "Remote Leaf", "https://remoteleaf.com/", "Curated newsletter + jobs"],
+    ["authenticjobs", "Authentic Jobs", `https://authenticjobs.com/?search_terms=${enc(q)}`, "Design & creative remote"],
+    ["powertofly", "PowerToFly", `https://powertofly.com/career?keywords=${enc(q)}`, "Inclusive remote tech"],
+    ["remotees", "RemotEES", "https://remotees.com/", "European remote"],
+    ["landingjobs", "Landing.jobs", `https://landing.jobs/offers?q=${enc(q)}&remote=true`, "EU / PT remote"],
+    ["relocate-me", "Relocate.me", `https://relocate.me/search?query=${enc(q)}`, "EU relocation + remote"],
   ];
   for (const [id, name, url, desc] of intl) {
     push(links, id, name, url, desc, "worldwide");

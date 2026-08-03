@@ -11,6 +11,7 @@ import { normalizeJobicy } from "../assets/js/sources/jobicy.js";
 import { normalizeAshby } from "../assets/js/sources/ashby.js";
 import { normalizeStaticAts } from "../assets/js/sources/static-ats.js";
 import { normalizeApinfo } from "../assets/js/sources/apinfo.js";
+import { normalizeWeWorkRemotely } from "../assets/js/sources/weworkremotely.js";
 import { applyFilters } from "../assets/js/filters.js";
 import { dedupeJobs, makeJob, detectGeoFlags } from "../assets/js/normalize.js";
 import { buildDeepLinks } from "../assets/js/sources/deeplinks.js";
@@ -102,6 +103,26 @@ describe("adapters normalize fixtures", () => {
     assert.equal(jobs.length, 2);
     assert.equal(jobs[0].source, "apinfo");
     assert.equal(dedupeJobs(jobs).length, 2);
+  });
+
+  it("normalizes We Work Remotely payload", () => {
+    const jobs = normalizeWeWorkRemotely({
+      jobs: [
+        {
+          id: "weworkremotely:1",
+          title: "Senior Backend Engineer",
+          company: "Acme",
+          url: "https://weworkremotely.com/remote-jobs/1",
+          description: "Remote worldwide Python",
+          location: "Anywhere in the World",
+          tags: ["Full-Stack Programming", "programming"],
+          postedAt: new Date().toISOString(),
+        },
+      ],
+    });
+    assert.equal(jobs.length, 1);
+    assert.equal(jobs[0].source, "weworkremotely");
+    assert.equal(jobs[0].company, "Acme");
   });
 });
 

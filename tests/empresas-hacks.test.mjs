@@ -60,7 +60,19 @@ describe("expanded deeplinks", () => {
   it("includes Remotar, Dynamite, Atlassian groups", () => {
     const links = buildDeepLinks({ keywords: ".NET", geo: "brazil", recency: "24h" });
     const ids = new Set(links.map((l) => l.id));
-    for (const id of ["apinfo", "remotar", "dynamite", "atlassian", "linkedin-br", "torre", "lapieza"]) {
+    for (const id of [
+      "apinfo",
+      "remotar",
+      "jobnagingra",
+      "vagascom",
+      "dynamite",
+      "atlassian",
+      "linkedin-br",
+      "linkedin-under10",
+      "torre",
+      "lapieza",
+      "remotejobsorg-web",
+    ]) {
       assert.ok(ids.has(id), `missing deeplink ${id}`);
     }
     const groups = groupDeepLinks(links);
@@ -72,6 +84,15 @@ describe("expanded deeplinks", () => {
     const links = buildDeepLinks({ keywords: "React", recency: "2h" });
     const li = links.find((l) => l.id === "linkedin");
     assert.ok(li.url.includes("f_TPR=r7200"));
+    assert.ok(li.url.includes("sortBy=DD"));
+  });
+
+  it("includes LinkedIn under-10 and Brazil geoId hacks", () => {
+    const links = buildDeepLinks({ keywords: ".NET", workplace: "remote", recency: "24h" });
+    const under = links.find((l) => l.id === "linkedin-under10");
+    const br = links.find((l) => l.id === "linkedin-br");
+    assert.ok(under.url.includes("f_JIYN=true"));
+    assert.ok(br.url.includes("geoId=106057199"));
   });
 });
 

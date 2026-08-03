@@ -57,7 +57,7 @@ try {
 
 // —— The Muse (software / data / IT, several pages) ——
 const museJobs = [];
-const cats = ["Software Engineering", "Data Science", "IT"];
+const cats = ["Software Engineering", "Data Science", "IT", "Design and UX"];
 try {
   for (const category of cats) {
     for (let page = 0; page < 5; page++) {
@@ -89,5 +89,41 @@ try {
   console.warn("The Muse failed:", e.message);
   if (!fs.existsSync(path.join(root, "data", "themuse-jobs.json"))) {
     write("themuse-jobs.json", { generatedAt: new Date().toISOString(), count: 0, jobs: [] });
+  }
+}
+
+// —— RemoteJobs.org (free public API) ——
+try {
+  const cats = ["programming", "devops", "data-science"];
+  const all = [];
+  for (const category of cats) {
+    const data = await getJson(
+      `https://remotejobs.org/api/v1/jobs?category=${category}&limit=50&type=full-time`
+    );
+    const batch = data.data || [];
+    console.log(`RemoteJobs.org ${category} → ${batch.length}`);
+    all.push(...batch);
+  }
+  const seen = new Set();
+  const jobs = [];
+  for (const j of all) {
+    const id = String(j.id || j.url);
+    if (seen.has(id)) continue;
+    seen.add(id);
+    jobs.push(j);
+  }
+  write("remotejobsorg-jobs.json", {
+    generatedAt: new Date().toISOString(),
+    count: jobs.length,
+    data: jobs,
+  });
+} catch (e) {
+  console.warn("RemoteJobs.org failed:", e.message);
+  if (!fs.existsSync(path.join(root, "data", "remotejobsorg-jobs.json"))) {
+    write("remotejobsorg-jobs.json", {
+      generatedAt: new Date().toISOString(),
+      count: 0,
+      data: [],
+    });
   }
 }

@@ -77,15 +77,15 @@ function buildExternalLinks(filters, recipes = []) {
   };
 
   // LinkedIn first — highest-value board we cannot scrape
-  for (const id of ["linkedin", "linkedin-br"]) {
+  for (const id of ["linkedin", "linkedin-br", "linkedin-under10"]) {
     const d = deep.find((x) => x.id === id);
     if (d) push({ id: d.id, name: d.name, titleKey: null, url: d.url, query: d.description });
   }
-  for (const id of ["li-2h", "li-boolean-jobs", "g-linkedin-jobs"]) {
+  for (const id of ["li-2h", "li-under10", "li-br-geoid", "li-boolean-jobs", "g-linkedin-jobs"]) {
     const r = recipes.find((x) => x.id === id);
     if (r) push({ id: r.id, name: r.platform, titleKey: r.titleKey, url: r.url, query: r.query });
   }
-  for (const id of ["indeed", "apinfo", "googlejobs", "remotar", "g-indeed-br", "indeed-br", "apinfo-direct"]) {
+  for (const id of ["indeed", "apinfo", "googlejobs", "remotar", "gupy", "g-gupy", "g-indeed-br", "indeed-br", "apinfo-direct"]) {
     const d = deep.find((x) => x.id === id);
     if (d) push({ id: d.id, name: d.name, titleKey: null, url: d.url, query: d.description });
     const r = recipes.find((x) => x.id === id);

@@ -44,7 +44,11 @@ export const OPERATOR_DOCS = {
     { op: "f_TPR=r7200", tipKey: "hackLi2h" },
     { op: "f_TPR=r28800", tipKey: "hackLi8h" },
     { op: "f_TPR=r86400", tipKey: "hackLi24h" },
-    { op: "Sort: Recent", tipKey: "hackLiSort" },
+    { op: "f_WT=2", tipKey: "hackLiRemote" },
+    { op: "f_JIYN=true", tipKey: "hackLiUnder10" },
+    { op: "sortBy=DD", tipKey: "hackLiSort" },
+    { op: "geoId=106057199", tipKey: "hackLiGeoBr" },
+    { op: "NOT Recruitment", tipKey: "hackLiNoAgency" },
     { op: "Easy Apply", tipKey: "hackLiEasy" },
     { op: "Alerts + hashtags", tipKey: "hackLiAlerts" },
   ],
@@ -217,7 +221,12 @@ export function buildSearchRecipes(filters = {}) {
       titleKey: "recipeLi2h",
       query: liJobsKw,
       url: (q) => {
-        const p = new URLSearchParams({ keywords: q, f_WT: "2", f_TPR: "r7200" });
+        const p = new URLSearchParams({
+          keywords: `${q} NOT Recruitment NOT Staffing`,
+          f_WT: "2",
+          f_TPR: "r7200",
+          sortBy: "DD",
+        });
         return `https://www.linkedin.com/jobs/search/?${p}`;
       },
     },
@@ -227,9 +236,61 @@ export function buildSearchRecipes(filters = {}) {
       titleKey: "recipeLi8h",
       query: liJobsKw,
       url: (q) => {
-        const p = new URLSearchParams({ keywords: q, f_WT: "2", f_TPR: "r28800" });
+        const p = new URLSearchParams({
+          keywords: `${q} NOT Recruitment`,
+          f_WT: "2",
+          f_TPR: "r28800",
+          sortBy: "DD",
+        });
         return `https://www.linkedin.com/jobs/search/?${p}`;
       },
+    },
+    {
+      id: "li-under10",
+      platform: "LinkedIn",
+      titleKey: "recipeLiUnder10",
+      query: liJobsKw,
+      url: (q) => {
+        const p = new URLSearchParams({
+          keywords: `${q} NOT Recruitment`,
+          f_WT: "2",
+          f_TPR: "r604800",
+          f_JIYN: "true",
+          sortBy: "DD",
+        });
+        return `https://www.linkedin.com/jobs/search/?${p}`;
+      },
+    },
+    {
+      id: "li-br-geoid",
+      platform: "LinkedIn",
+      titleKey: "recipeLiBrGeo",
+      query: liJobsKw,
+      url: (q) => {
+        const p = new URLSearchParams({
+          keywords: `${q} NOT Recruitment`,
+          f_WT: "2",
+          f_TPR: "r86400",
+          geoId: "106057199",
+          location: "Brazil",
+          sortBy: "DD",
+        });
+        return `https://www.linkedin.com/jobs/search/?${p}`;
+      },
+    },
+    {
+      id: "g-gupy",
+      platform: "Google",
+      titleKey: "recipeGGupy",
+      query: `site:portal.gupy.io ${stack} AND (remoto OR remote OR "home office")`,
+      url: (q) => `https://www.google.com/search?q=${enc(q)}`,
+    },
+    {
+      id: "g-posts-hiring",
+      platform: "Google",
+      titleKey: "recipeGPostsHiring",
+      query: `site:linkedin.com/posts hiring ${stack} remote (Brazil OR Brasil OR LATAM) after:${new Date(Date.now() - 7 * 864e5).toISOString().slice(0, 10)}`,
+      url: (q) => `https://www.google.com/search?q=${enc(q)}`,
     },
     {
       id: "li-people",

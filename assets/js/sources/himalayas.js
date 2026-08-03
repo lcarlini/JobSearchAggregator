@@ -38,16 +38,35 @@ async function fetchStatic({ signal } = {}) {
   return normalizeHimalayas(await res.json());
 }
 
-export async function fetchJobs({ signal, limit = 100 } = {}) {
+export async function fetchJobs({ signal, limit = 20, query = "" } = {}) {
   // Live API often fails CORS in the browser — fall back to Action-refreshed JSON
   try {
-    const url = `https://himalayas.app/jobs/api?limit=${limit}`;
-    const res = await fetch(url, {
-      headers: { Accept: "application/json" },
-      signal,
-    });
-    if (!res.ok) throw new Error(`Himalayas HTTP ${res.status}`);
-    const jobs = normalizeHimalayas(await res.json());
+    const urls = [
+      `https://himalayas.app/jobs/api?limit=${limit}`,
+      // Search API: keyword + Brazil / worldwide (docs: himalayas.app/api)
+      `https://himalayas.app/jobs/api/search?q=${encodeURIComponent(query || "software engineer")}&worldwide=true&page=1`,
+      `https://himalayas.app/jobs/api/search?q=${encodeURIComponent(query || "developer")}&country=Brazil&page=1`,
+    ];
+    const batches = await Promise.allSettled(
+      urls.map(async (url) => {
+        const res = await fetch(url, {
+          headers: { Accept: "application/json" },
+          signal,
+        });
+        if (!res.ok) throw new Error(`Himalayas HTTP ${res.status}`);
+        return normalizeHimalayas(await res.json());
+      })
+    );
+    const seen = new Set();
+    const jobs = [];
+    for (const r of batches) {
+      if (r.status !== "fulfilled") continue;
+      for (const j of r.value) {
+        if (seen.has(j.id)) continue;
+        seen.add(j.id);
+        jobs.push(j);
+      }
+    }
     if (jobs.length) return jobs;
   } catch {
     /* use static */

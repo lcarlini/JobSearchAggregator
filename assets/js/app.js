@@ -3,9 +3,12 @@ import { defaultFilters, splitTerms } from "./filters.js";
 import { searchJobs, ADAPTERS } from "./search-engine.js";
 import { applySearchHacks } from "./apply-hacks.js";
 import { SEARCH_PRESETS } from "./presets.js";
-
-const SAVED_KEY = "jsa-saved";
-const PAGE_SIZE = 40;
+import {
+  loadInterests,
+  hasInterest,
+  toggleInterest,
+  clearInterests,
+} from "./interests.js";
 
 const $ = (sel) => document.querySelector(sel);
 
@@ -17,23 +20,13 @@ function toast(msg) {
   toast._t = setTimeout(() => el.classList.remove("show"), 1800);
 }
 
-function loadSaved() {
-  try {
-    return new Set(JSON.parse(localStorage.getItem(SAVED_KEY) || "[]"));
-  } catch {
-    return new Set();
-  }
-}
-
-function saveSaved(set) {
-  localStorage.setItem(SAVED_KEY, JSON.stringify([...set]));
-}
-
-let saved = loadSaved();
+let interests = loadInterests();
 let lastJobs = [];
 let lastExternal = [];
 let lastMeta = { sourcesOk: 0, elapsedMs: 0, hacks: [] };
-let visibleCount = PAGE_SIZE;
+let currentPage = 1;
+let pageSize = 20;
+let activeView = "results"; // results | interests
 let searching = false;
 
 function readFilters() {
@@ -230,14 +223,122 @@ function highlight(text, filters) {
   return out;
 }
 
-function updateStats() {
+function totalPages(total) {
+  return Math.max(1, Math.ceil(total / pageSize));
+}
+
+function pageSlice(jobs) {
+  const pages = totalPages(jobs.length);
+  if (currentPage > pages) currentPage = pages;
+  if (currentPage < 1) currentPage = 1;
+  const start = (currentPage - 1) * pageSize;
+  return {
+    start,
+    end: Math.min(start + pageSize, jobs.length),
+    page: currentPage,
+    pages,
+    items: jobs.slice(start, start + pageSize),
+  };
+}
+
+function updateInterestsBadge() {
+  const badge = $("#interests-badge");
+  if (badge) badge.textContent = String(interests.length);
+  const clearBtn = $("#btn-clear-interests");
+  if (clearBtn) clearBtn.hidden = activeView !== "interests" || !interests.length;
+}
+
+function updateStats(slice, total) {
   const bar = $("#stats-bar");
+  if (activeView === "interests") {
+    bar.hidden = false;
+    $("#stat-total").textContent = String(total);
+    $("#stat-sources").textContent = "—";
+    $("#stat-time").textContent = "—";
+    $("#stat-showing").textContent = String(slice.items.length);
+    return;
+  }
   bar.hidden = false;
-  $("#stat-total").textContent = String(lastJobs.length);
+  $("#stat-total").textContent = String(total);
   $("#stat-sources").textContent = String(lastMeta.sourcesOk || 0);
   $("#stat-time").textContent =
     lastMeta.elapsedMs != null ? `${(lastMeta.elapsedMs / 1000).toFixed(1)}s` : "—";
-  $("#stat-showing").textContent = String(Math.min(visibleCount, lastJobs.length));
+  $("#stat-showing").textContent = String(slice.items.length);
+}
+
+function updateResultsSummary(total, slice) {
+  const summary = $("#results-summary");
+  const title = $("#results-title");
+  if (!summary) return;
+  if (activeView === "interests") {
+    if (title) title.textContent = t("viewInterests");
+    summary.hidden = false;
+    summary.textContent = total
+      ? `${total} · ${t("pageOf")} ${slice.page} ${t("pageOfSep")} ${slice.pages} · ${t("showingRange")} ${slice.start + 1}–${slice.end}`
+      : t("interestsEmpty");
+    return;
+  }
+  if (title) title.textContent = t("results");
+  if (!total && !lastMeta.elapsedMs) {
+    summary.hidden = true;
+    summary.textContent = "";
+    return;
+  }
+  summary.hidden = false;
+  summary.textContent = total
+    ? `${total} ${t("resultsCount")} · ${t("pageOf")} ${slice.page} ${t("pageOfSep")} ${slice.pages} · ${t("showingRange")} ${slice.start + 1}–${slice.end}`
+    : t("noResults");
+}
+
+function renderPagination(total) {
+  const wrap = $("#pagination-wrap");
+  const nav = $("#pagination");
+  const meta = $("#pagination-meta");
+  if (!wrap || !nav) return;
+
+  if (!total) {
+    wrap.hidden = true;
+    nav.innerHTML = "";
+    if (meta) meta.textContent = "";
+    return;
+  }
+
+  wrap.hidden = false;
+  const pages = totalPages(total);
+  const start = (currentPage - 1) * pageSize + 1;
+  const end = Math.min(currentPage * pageSize, total);
+  if (meta) {
+    meta.textContent = `${t("showingRange")} ${start}–${end} ${t("pageOfSep")} ${total} · ${t("pageOf")} ${currentPage} ${t("pageOfSep")} ${pages}`;
+  }
+
+  const windowSize = 5;
+  let from = Math.max(1, currentPage - Math.floor(windowSize / 2));
+  let to = Math.min(pages, from + windowSize - 1);
+  from = Math.max(1, to - windowSize + 1);
+
+  const parts = [];
+  parts.push(
+    `<button type="button" class="page-btn" data-page="prev" ${currentPage <= 1 ? "disabled" : ""}>${t("prevPage")}</button>`
+  );
+  if (from > 1) {
+    parts.push(`<button type="button" class="page-btn" data-page="1">1</button>`);
+    if (from > 2) parts.push(`<span class="page-ellipsis">…</span>`);
+  }
+  for (let p = from; p <= to; p++) {
+    parts.push(
+      `<button type="button" class="page-btn${p === currentPage ? " active" : ""}" data-page="${p}">${p}</button>`
+    );
+  }
+  if (to < pages) {
+    if (to < pages - 1) parts.push(`<span class="page-ellipsis">…</span>`);
+    parts.push(
+      `<button type="button" class="page-btn" data-page="${pages}">${pages}</button>`
+    );
+  }
+  parts.push(
+    `<button type="button" class="page-btn" data-page="next" ${currentPage >= pages ? "disabled" : ""}>${t("nextPage")}</button>`
+  );
+  nav.innerHTML = parts.join("");
 }
 
 function renderExternalBoards(external = []) {
@@ -269,58 +370,125 @@ function renderExternalBoards(external = []) {
     </div>`;
 }
 
+function jobTableRowHtml(job, filters, absoluteIndex) {
+  const interested = hasInterest(interests, job);
+  const locBits = [];
+  if (job.location) locBits.push(job.location);
+  if (job.workplace && job.workplace !== "unknown") locBits.push(job.workplace);
+  if (job.geo?.latamFriendly || job.geo?.brazil) locBits.push("LATAM/BR");
+  const snippet = highlight(job.description || "", filters);
+
+  return `
+  <tr class="job-row${interested ? " in-interests" : ""}" data-url="${escapeAttr(job.url)}" data-job-id="${escapeAttr(job.id || job.url)}">
+    <td class="col-index">${absoluteIndex}</td>
+    <td class="col-title">
+      <a class="job-title-link" href="${escapeAttr(job.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(job.title)}</a>
+      ${snippet ? `<div class="job-snippet">${snippet}</div>` : ""}
+    </td>
+    <td class="col-company">${escapeHtml(job.company || "—")}</td>
+    <td class="col-location">${escapeHtml(locBits.join(" · ") || "—")}</td>
+    <td class="col-source"><span class="badge source">${escapeHtml(job.source || "—")}</span></td>
+    <td class="col-date">${escapeHtml(formatDate(job.postedAt))}</td>
+    <td class="col-salary">${escapeHtml(job.salary || "—")}</td>
+    <td class="col-actions">
+      <div class="job-actions">
+        <a class="btn btn-small btn-primary" href="${escapeAttr(job.url)}" target="_blank" rel="noopener noreferrer">${t("open")}</a>
+        <button type="button" class="btn btn-small btn-ghost btn-copy">${t("copy")}</button>
+        <button type="button" class="btn btn-small ${interested ? "btn-interest active" : "btn-ghost"} btn-interest-toggle">${interested ? t("inInterests") : t("addInterest")}</button>
+      </div>
+    </td>
+  </tr>`;
+}
+
+function jobsTableHtml(rowsHtml) {
+  return `
+  <div class="table-scroll">
+    <table class="jobs-table">
+      <thead>
+        <tr>
+          <th scope="col">${t("colIndex")}</th>
+          <th scope="col">${t("colTitle")}</th>
+          <th scope="col">${t("colCompany")}</th>
+          <th scope="col">${t("colLocation")}</th>
+          <th scope="col">${t("colSource")}</th>
+          <th scope="col">${t("colDate")}</th>
+          <th scope="col">${t("colSalary")}</th>
+          <th scope="col">${t("colActions")}</th>
+        </tr>
+      </thead>
+      <tbody>
+        ${rowsHtml}
+      </tbody>
+    </table>
+  </div>`;
+}
+
+function setActiveView(view) {
+  activeView = view === "interests" ? "interests" : "results";
+  currentPage = 1;
+  $("#tab-results")?.classList.toggle("active", activeView === "results");
+  $("#tab-interests")?.classList.toggle("active", activeView === "interests");
+  const boards = $("#external-boards");
+  const hacks = $("#hacks-applied");
+  if (activeView === "interests") {
+    if (boards) boards.hidden = true;
+    if (hacks) hacks.hidden = true;
+  } else if (hacks?.innerHTML.trim()) {
+    hacks.hidden = false;
+  }
+  renderActiveView();
+}
+
+function renderActiveView() {
+  const filters = readFilters();
+  updateInterestsBadge();
+  if (activeView === "interests") {
+    renderJobList(interests, filters, { emptyKey: "interestsEmpty", showExternal: false });
+    return;
+  }
+  renderJobList(lastJobs, filters, {
+    emptyKey: lastJobs.length || lastMeta.elapsedMs ? "noResults" : "emptyStart",
+    showExternal: true,
+  });
+}
+
 function renderJobs(jobs, filters, external = lastExternal) {
   lastJobs = jobs;
   if (external?.length) lastExternal = external;
-  const list = $("#job-list");
-  const showing = jobs.slice(0, visibleCount);
-  updateStats();
-  renderExternalBoards(lastExternal);
+  if (activeView !== "results") setActiveView("results");
+  else renderJobList(jobs, filters || readFilters(), { emptyKey: "noResults", showExternal: true });
+}
 
-  const moreWrap = $("#load-more-wrap");
-  moreWrap.hidden = jobs.length <= visibleCount;
-  $("#btn-load-more").textContent =
-    jobs.length > visibleCount
-      ? `${t("showAllJobs")} (${jobs.length})`
-      : t("showAllJobs");
+function renderJobList(jobs, filters, { emptyKey, showExternal }) {
+  const list = $("#job-list");
+  const slice = pageSlice(jobs);
+  updateStats(slice, jobs.length);
+  updateResultsSummary(jobs.length, slice);
+  updateInterestsBadge();
+  if (showExternal) renderExternalBoards(lastExternal);
+  else {
+    const boards = $("#external-boards");
+    if (boards) boards.hidden = true;
+  }
+  renderPagination(jobs.length);
 
   if (!jobs.length) {
-    list.innerHTML = `<div class="empty">${t("noResults")}</div>`;
+    list.innerHTML = `<div class="empty">${t(emptyKey)}</div>`;
     return;
   }
 
-  list.innerHTML = showing
-    .map((job, idx) => {
-      const isSaved = saved.has(job.url);
-      const badges = [
-        `<span class="badge source">${escapeHtml(job.source)}</span>`,
-        job.workplace !== "unknown" ? `<span class="badge">${job.workplace}</span>` : "",
-        job.jobType !== "unknown" ? `<span class="badge">${job.jobType}</span>` : "",
-        job.geo?.latamFriendly || job.geo?.brazil
-          ? `<span class="badge latam">LATAM/BR</span>`
-          : "",
-        job.salary ? `<span class="badge">${escapeHtml(job.salary)}</span>` : "",
-      ]
-        .filter(Boolean)
-        .join("");
-
-      return `
-      <article class="job-row" data-url="${escapeAttr(job.url)}">
-        <div class="job-index">${idx + 1}</div>
-        <div class="job-body">
-          <h3 class="job-title"><a href="${escapeAttr(job.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(job.title)}</a></h3>
-          <div class="job-meta">${escapeHtml(job.company)} · ${formatDate(job.postedAt)}${job.location ? ` · ${escapeHtml(job.location)}` : ""}</div>
-          <div class="badges">${badges}</div>
-          <div class="job-snippet">${highlight(job.description || "", filters)}</div>
-        </div>
-        <div class="job-actions">
-          <a class="btn btn-small btn-primary" href="${escapeAttr(job.url)}" target="_blank" rel="noopener noreferrer">${t("open")}</a>
-          <button type="button" class="btn btn-small btn-ghost btn-copy">${t("copy")}</button>
-          <button type="button" class="btn btn-small btn-ghost btn-save">${isSaved ? t("unsave") : t("save")}</button>
-        </div>
-      </article>`;
-    })
+  const rows = slice.items
+    .map((job, idx) => jobTableRowHtml(job, filters, slice.start + idx + 1))
     .join("");
+  list.innerHTML = jobsTableHtml(rows);
+}
+
+function findJobByUrl(url) {
+  return (
+    lastJobs.find((j) => j.url === url) ||
+    interests.find((j) => j.url === url) ||
+    null
+  );
 }
 
 function renderProgress(p) {
@@ -385,7 +553,10 @@ async function runSearch(overrideFilters) {
   searching = true;
   if (overrideFilters) applyFilterObject({ ...defaultFilters(), ...overrideFilters });
   const filters = readFilters();
-  visibleCount = PAGE_SIZE;
+  currentPage = 1;
+  activeView = "results";
+  $("#tab-results")?.classList.add("active");
+  $("#tab-interests")?.classList.remove("active");
   $("#btn-search").disabled = true;
   $("#progress-wrap").hidden = false;
 
@@ -442,10 +613,34 @@ function wireEvents() {
 
   $("#btn-open-hacks").addEventListener("click", openTopHacks);
 
-  $("#btn-load-more").addEventListener("click", () => {
-    visibleCount = lastJobs.length;
-    renderJobs(lastJobs, readFilters());
-    $("#load-more-wrap").hidden = true;
+  $("#tab-results")?.addEventListener("click", () => setActiveView("results"));
+  $("#tab-interests")?.addEventListener("click", () => setActiveView("interests"));
+
+  $("#btn-clear-interests")?.addEventListener("click", () => {
+    interests = clearInterests();
+    toast(t("interestsCleared"));
+    updateInterestsBadge();
+    if (activeView === "interests") renderActiveView();
+    else renderActiveView();
+  });
+
+  $("#page-size")?.addEventListener("change", (e) => {
+    pageSize = Number(e.target.value) || 20;
+    currentPage = 1;
+    renderActiveView();
+  });
+
+  $("#pagination")?.addEventListener("click", (e) => {
+    const btn = e.target.closest("[data-page]");
+    if (!btn || btn.disabled) return;
+    const total = activeView === "interests" ? interests.length : lastJobs.length;
+    const pages = totalPages(total);
+    const raw = btn.dataset.page;
+    if (raw === "prev") currentPage = Math.max(1, currentPage - 1);
+    else if (raw === "next") currentPage = Math.min(pages, currentPage + 1);
+    else currentPage = Number(raw) || 1;
+    renderActiveView();
+    $("#results-panel")?.scrollIntoView({ behavior: "smooth", block: "start" });
   });
 
   document.querySelectorAll(".lang-switch button").forEach((btn) => {
@@ -457,7 +652,8 @@ function wireEvents() {
       document.documentElement.lang = getLang() === "pt" ? "pt-BR" : "en";
       applyI18n();
       renderPresets();
-      if (lastJobs.length) renderJobs(lastJobs, readFilters());
+      updateInterestsBadge();
+      renderActiveView();
     });
   });
 
@@ -473,11 +669,14 @@ function wireEvents() {
         toast(url);
       }
     }
-    if (e.target.classList.contains("btn-save")) {
-      if (saved.has(url)) saved.delete(url);
-      else saved.add(url);
-      saveSaved(saved);
-      e.target.textContent = saved.has(url) ? t("unsave") : t("save");
+    if (e.target.classList.contains("btn-interest-toggle")) {
+      const job = findJobByUrl(url);
+      if (!job) return;
+      const { list, added } = toggleInterest(interests, job);
+      interests = list;
+      toast(added ? t("interestAdded") : t("interestRemoved"));
+      updateInterestsBadge();
+      renderActiveView();
     }
   });
 }
@@ -492,6 +691,7 @@ function boot() {
   renderSourceToggles();
   applyI18n();
   renderPresets();
+  updateInterestsBadge();
   wireEvents();
 }
 

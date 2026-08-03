@@ -53,8 +53,10 @@ Open `http://localhost:4173`.
 | Live CORS APIs | Browser fetches in parallel via `Promise.allSettled` |
 | Static ATS JSON | Action runs `scripts/fetch-ats.mjs` (Greenhouse/Lever/Ashby) — avoids browser CORS |
 | ApInfo (BR) | Action scrapes `list4.cfm` → `data/apinfo-jobs.json` |
-| Himalayas / The Muse | Browser CORS fails → Action caches `data/himalayas-jobs.json` + `data/themuse-jobs.json` |
-| LinkedIn / Indeed / Google | Deep-links only (no public job API; scraping blocked) |
+| Himalayas / The Muse | Browser CORS fails → Action caches `data/himalayas-jobs.json` + `data/themuse-jobs.json`; Himalayas search API used when live |
+| RemoteJobs.org | Free public API → live + `data/remotejobsorg-jobs.json` fallback |
+| Jobicy | Multi-query with `geo=latam` + stack tags |
+| LinkedIn / Indeed / Google | Deep-links only — `f_TPR`, `f_JIYN`, `geoId` BR, `sortBy=DD`, NOT agencies |
 | Deep-links | Official search URLs with the same filters; LinkedIn/Indeed/Google block scraping |
 
 ```

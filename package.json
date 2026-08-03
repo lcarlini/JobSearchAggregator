@@ -10,7 +10,8 @@
     "fetch-ats": "node scripts/fetch-ats.mjs",
     "fetch-apinfo": "node scripts/fetch-apinfo.mjs",
     "fetch-live": "node scripts/fetch-live-apis.mjs",
-    "fetch-jobs": "node scripts/fetch-ats.mjs && node scripts/fetch-apinfo.mjs && node scripts/fetch-live-apis.mjs",
+    "fetch-rss": "node scripts/fetch-rss.mjs",
+    "fetch-jobs": "node scripts/fetch-ats.mjs && node scripts/fetch-apinfo.mjs && node scripts/fetch-live-apis.mjs && node scripts/fetch-rss.mjs",
     "validate-search": "node scripts/validate-search.mjs",
     "test": "node --test \"tests/**/*.test.mjs\"",
     "serve": "npx --yes serve -l 4173 ."

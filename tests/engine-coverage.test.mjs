@@ -37,6 +37,8 @@ describe("search engine coverage", () => {
       "ashby",
       "static-ats",
       "apinfo",
+      "remotejobsorg",
+      "weworkremotely",
     ]) {
       assert.ok(ids.includes(id), `missing adapter ${id}`);
     }

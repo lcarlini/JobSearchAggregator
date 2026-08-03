@@ -37,13 +37,24 @@ async function fetchOne(url, signal) {
   return normalizeJobicy(await res.json());
 }
 
-export async function fetchJobs({ signal, count = 50, tags } = {}) {
+export async function fetchJobs({ signal, count = 50, tags, geos } = {}) {
   const urls = new Set([
     `https://jobicy.com/api/v2/remote-jobs?count=${count}`,
+    // LATAM / Brazil remote geo filters (Jobicy public API)
+    `https://jobicy.com/api/v2/remote-jobs?count=${count}&geo=latam`,
+    `https://jobicy.com/api/v2/remote-jobs?count=${count}&geo=brazil`,
   ]);
-  for (const tag of (tags || []).slice(0, 4)) {
+  for (const geo of (geos || []).slice(0, 3)) {
+    urls.add(
+      `https://jobicy.com/api/v2/remote-jobs?count=${count}&geo=${encodeURIComponent(geo)}`
+    );
+  }
+  for (const tag of (tags || []).slice(0, 3)) {
     urls.add(
       `https://jobicy.com/api/v2/remote-jobs?count=${count}&tag=${encodeURIComponent(tag)}`
+    );
+    urls.add(
+      `https://jobicy.com/api/v2/remote-jobs?count=${Math.min(count, 30)}&geo=latam&tag=${encodeURIComponent(tag)}`
     );
   }
 
@@ -51,8 +62,14 @@ export async function fetchJobs({ signal, count = 50, tags } = {}) {
     [...urls].map((url) => fetchOne(url, signal))
   );
   const jobs = [];
+  const seen = new Set();
   for (const r of results) {
-    if (r.status === "fulfilled") jobs.push(...r.value);
+    if (r.status !== "fulfilled") continue;
+    for (const j of r.value) {
+      if (seen.has(j.id)) continue;
+      seen.add(j.id);
+      jobs.push(j);
+    }
   }
   if (!jobs.length && results.every((r) => r.status === "rejected")) {
     throw new Error(results[0].reason?.message || "Jobicy failed");

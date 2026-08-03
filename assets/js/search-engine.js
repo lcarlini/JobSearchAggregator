@@ -11,6 +11,8 @@ import * as themuse from "./sources/themuse.js";
 import * as ashby from "./sources/ashby.js";
 import * as staticAts from "./sources/static-ats.js";
 import * as apinfo from "./sources/apinfo.js";
+import * as remotejobsorg from "./sources/remotejobsorg.js";
+import * as weworkremotely from "./sources/weworkremotely.js";
 
 export const ADAPTERS = [
   remoteok,
@@ -22,6 +24,8 @@ export const ADAPTERS = [
   ashby,
   staticAts,
   apinfo,
+  remotejobsorg,
+  weworkremotely,
 ];
 
 /**
@@ -74,7 +78,11 @@ export async function searchJobs(filters, onProgress = () => {}, enabledIds = nu
       };
     }
     if (adapterId === "jobicy") {
-      return { tags: apiQ.jobicyTags };
+      return { tags: apiQ.jobicyTags, geos: ["latam", "brazil"] };
+    }
+    if (adapterId === "himalayas") {
+      const q = (hacked.expandedKeywords || [])[0] || filters.keywords?.split(/[,;]/)[0] || "";
+      return { query: String(q || "").trim() };
     }
     return {};
   };

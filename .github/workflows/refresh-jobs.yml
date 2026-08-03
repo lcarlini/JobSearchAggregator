@@ -10,6 +10,7 @@ on:
       - "scripts/fetch-ats.mjs"
       - "scripts/fetch-apinfo.mjs"
       - "scripts/fetch-live-apis.mjs"
+      - "scripts/fetch-rss.mjs"
 
 permissions:
   contents: write
@@ -35,14 +36,18 @@ jobs:
         run: node scripts/fetch-live-apis.mjs
         continue-on-error: true
 
+      - name: Fetch RSS boards (We Work Remotely)
+        run: node scripts/fetch-rss.mjs
+        continue-on-error: true
+
       - name: Commit updated jobs
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/ats-jobs.json data/apinfo-jobs.json data/himalayas-jobs.json data/themuse-jobs.json
+          git add data/ats-jobs.json data/apinfo-jobs.json data/himalayas-jobs.json data/themuse-jobs.json data/remotejobsorg-jobs.json data/weworkremotely-jobs.json
           if git diff --staged --quiet; then
             echo "No job cache changes"
           else
-            git commit -m "chore: refresh job caches (ATS, ApInfo, Himalayas, Muse)"
+            git commit -m "chore: refresh job caches (ATS, ApInfo, Himalayas, Muse, RemoteJobs.org, WWR)"
             git push
           fi
