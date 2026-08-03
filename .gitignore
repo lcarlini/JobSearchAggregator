@@ -39,6 +39,20 @@ ScaffoldingReadMe.txt
 # dotenv environment variables file
 .env
 
+# Personal browser bookmarks (contains private links)
+bookmarks_8_3_26.html
+bookmarks_*.html
+
+# Node
+node_modules/
+coverage/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
 # Others
 ~$*
 *~

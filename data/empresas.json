@@ -1,0 +1,2328 @@
+{
+  "generatedAt": "2026-08-03T22:20:08.388Z",
+  "source": "bookmarks_8_3_26.html",
+  "stats": {
+    "bookmarkLinks": 297,
+    "bookmarkCompanies": 200,
+    "total": 253,
+    "featured": 1
+  },
+  "featured": [
+    {
+      "id": "co-apinfo-com",
+      "name": "ApInfo",
+      "url": "https://www.apinfo.com/",
+      "host": "apinfo.com",
+      "region": "brazil",
+      "type": "board",
+      "source": "bookmark+curated",
+      "searchUrl": "https://www.apinfo2.com/apinfo/inc/resultados_pesquisas.cfm",
+      "featured": true,
+      "priority": 1,
+      "note": "Clássico BR de TI — vagas .NET/Java/SAP, home office e CLT/PJ"
+    }
+  ],
+  "companies": [
+    {
+      "id": "co-apinfo-com",
+      "name": "ApInfo",
+      "url": "https://www.apinfo.com/",
+      "host": "apinfo.com",
+      "region": "brazil",
+      "type": "board",
+      "source": "bookmark+curated",
+      "searchUrl": "https://www.apinfo2.com/apinfo/inc/resultados_pesquisas.cfm",
+      "featured": true,
+      "priority": 1,
+      "note": "Clássico BR de TI — vagas .NET/Java/SAP, home office e CLT/PJ"
+    },
+    {
+      "id": "co-seek-com-au",
+      "name": ".NET C# Web Application Developer LOOKING FOR SOMETHING DIFFERENT? Job in Brisba",
+      "url": "https://www.seek.com.au/job/50476919?type=promoted#searchRequestToken=4ffd7f64-9071-4f52-b51b-c462cd4e395f",
+      "host": "seek.com.au",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-archer-ie",
+      "name": ".NET Developer Jobs",
+      "url": "https://www.archer.ie/dotnetjobs/",
+      "host": "archer.ie",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-forto-com",
+      "name": "▷ Forto",
+      "url": "https://forto.com/en/",
+      "host": "forto.com",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-123vagas-com-br",
+      "name": "123Vagas",
+      "url": "https://www.123vagas.com.br/vagas/remoto",
+      "region": "brazil",
+      "type": "board",
+      "host": "123vagas.com.br",
+      "source": "curated"
+    },
+    {
+      "id": "co-brasiltax-com",
+      "name": "14 Perguntas sobre a Declaração de Saída Definitiva do País",
+      "url": "https://brasiltax.com/blog/14-perguntas-sobre-a-declaracao-de-saida-definitiva-do-pais/",
+      "host": "brasiltax.com",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-site24x7-com",
+      "name": "24x7",
+      "url": "https://www.site24x7.com/public/dashboard/4zAAicA3ftLS80kTVMVbgCfqIGJlBj3WOX3ky9Gv3azubyJiHX1jpCTcN65hibfF6ICrSdq4Pt1h5f2YcbybC2mRc3nvPtOeg_BSAJH-tq7lLCOzUQijjKCmrtXGHGjt",
+      "host": "site24x7.com",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-relocate-me",
+      "name": "30 Foreign Tech Companies Ready to Hire You In 2019",
+      "url": "https://relocate.me/blog/job-relocation/30-foreign-tech-companies-are-ready-to-hire-you-in-2019/",
+      "host": "relocate.me",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-seek-co-nz",
+      "name": "40 foot Jobs in All New Zealand",
+      "url": "https://www.seek.co.nz/40-foot-jobs/in-All-New-Zealand",
+      "host": "seek.co.nz",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-5a-selecty-com-br",
+      "name": "5A Consultoria",
+      "url": "http://5a.selecty.com.br/search/",
+      "host": "5a.selecty.com.br",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-99freelas-com-br",
+      "name": "99Freelas",
+      "url": "https://www.99freelas.com.br/",
+      "region": "brazil",
+      "type": "board",
+      "host": "99freelas.com.br",
+      "source": "curated"
+    },
+    {
+      "id": "co-api-dev-acgsa-com-br",
+      "name": "ACG",
+      "url": "http://api-dev.acgsa.com.br/",
+      "host": "api-dev.acgsa.com.br",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-afterpay-com",
+      "name": "Afterpay",
+      "url": "https://www.afterpay.com/careers",
+      "region": "au-br",
+      "type": "company",
+      "host": "afterpay.com",
+      "source": "curated"
+    },
+    {
+      "id": "co-spencerscott-london",
+      "name": "All jobs",
+      "url": "https://www.spencerscott.london/jobs",
+      "host": "spencerscott.london",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-aluguetemporada-com-br",
+      "name": "Aluguel por Temporada",
+      "url": "https://www.aluguetemporada.com.br/imovel/inquiry/p557039807",
+      "host": "aluguetemporada.com.br",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-hbsis-com-br",
+      "name": "ANALISTA DE SISTEMAS",
+      "url": "https://hbsis.com.br/trabalhe-conosco/#op-244833-analista-de-sistemas",
+      "host": "hbsis.com.br",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-angel-co",
+      "name": "AngelList (Wellfound)",
+      "url": "https://angel.co/",
+      "host": "angel.co",
+      "region": "worldwide",
+      "type": "board",
+      "source": "bookmark+curated",
+      "featured": false,
+      "priority": 100
+    },
+    {
+      "id": "co-vagaspelomundo-com-br",
+      "name": "Aprenda a fazer seu currículo europeu",
+      "url": "http://vagaspelomundo.com.br/carreira/2016/06/aprenda-a-fazer-seu-curriculo-europeu/",
+      "host": "vagaspelomundo.com.br",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-atlassian-com",
+      "name": "Atlassian",
+      "url": "https://www.atlassian.com/company/careers",
+      "region": "au-br",
+      "type": "company",
+      "host": "atlassian.com",
+      "source": "curated"
+    },
+    {
+      "id": "co-baixaki-com-br",
+      "name": "aTube Catcher Download",
+      "url": "http://www.baixaki.com.br/download/atube-catcher.htm",
+      "host": "baixaki.com.br",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-automattic-com",
+      "name": "Automattic",
+      "url": "https://automattic.com/work-with-us/",
+      "region": "us-br",
+      "type": "company",
+      "host": "automattic.com",
+      "source": "curated"
+    },
+    {
+      "id": "co-praxent-com",
+      "name": "Backend Engineer (NodeJS / Typescript)",
+      "url": "https://praxent.com/careers/backend-engineer-202106",
+      "host": "praxent.com",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-confluence-atlassian-com",
+      "name": "Basic Git commands",
+      "url": "https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html",
+      "host": "confluence.atlassian.com",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-lambda3-com-br",
+      "name": "BDD com .NET (parte 1)",
+      "url": "https://www.lambda3.com.br/2011/05/bdd-com-net-parte-1/",
+      "host": "lambda3.com.br",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-bkoutsourcing-com-br",
+      "name": "BK Outsourcing",
+      "url": "http://www.bkoutsourcing.com.br/",
+      "host": "bkoutsourcing.com.br",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-ventron-com-br",
+      "name": "BOA",
+      "url": "http://www.ventron.com.br/empresa/",
+      "host": "ventron.com.br",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-usebraintrust-com",
+      "name": "Braintrust",
+      "url": "https://www.usebraintrust.com/",
+      "region": "us-br",
+      "type": "company",
+      "host": "usebraintrust.com",
+      "source": "curated"
+    },
+    {
+      "id": "co-buffer-com",
+      "name": "Buffer",
+      "url": "https://buffer.com/journey",
+      "region": "us-br",
+      "type": "company",
+      "host": "buffer.com",
+      "source": "curated"
+    },
+    {
+      "id": "co-jobs4-co-uk",
+      "name": "C# Developer, job in Wakefield (19754400) Jobs4.co.uk",
+      "url": "https://www.jobs4.co.uk/jobs/c-developer-19754400.htm",
+      "host": "jobs4.co.uk",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-portal-ltm-digital",
+      "name": "Cadastrar Nova App",
+      "url": "https://portal.ltm.digital/api-portal/myapps/new",
+      "host": "portal.ltm.digital",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-calculopj-com-br",
+      "name": "Calculo PJ",
+      "url": "http://www.calculopj.com.br/",
+      "host": "calculopj.com.br",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-economia-uol-com-br",
+      "name": "Canadá busca brasileiros para trabalhar; inscrições vão até segunda",
+      "url": "https://economia.uol.com.br/empregos-e-carreiras/noticias/redacao/2019/07/02/montreal-canada-vagas-brasileiros-tecnologia-da-informacao.htm",
+      "host": "economia.uol.com.br",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-carreiradeti-com-br",
+      "name": "Canadá Já Começa Quente Recrutando no Brasil em 2021",
+      "url": "https://carreiradeti.com.br/canada-ja-comeca-quente-recrutando-no-brasil-em-2021/",
+      "host": "carreiradeti.com.br",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-iventis-com-br",
+      "name": "Candidato » Iventis",
+      "url": "http://iventis.com.br/category/candidato/",
+      "host": "iventis.com.br",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-canonical-com",
+      "name": "Canonical",
+      "url": "https://canonical.com/careers",
+      "region": "us-br",
+      "type": "company",
+      "host": "canonical.com",
+      "source": "curated"
+    },
+    {
+      "id": "co-canva-com",
+      "name": "Canva",
+      "url": "https://www.canva.com/careers/",
+      "region": "au-br",
+      "type": "company",
+      "host": "canva.com",
+      "source": "curated"
+    },
+    {
+      "id": "co-bearingpoint-com",
+      "name": "Careers",
+      "url": "https://www.bearingpoint.com/en/our-people/careers/",
+      "host": "bearingpoint.com",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-jobs-recruitee-com",
+      "name": "Careers",
+      "url": "https://jobs.recruitee.com/",
+      "host": "jobs.recruitee.com",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-wd1-myworkdaysite-com",
+      "name": "CAREERS",
+      "url": "https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Dublin-Ireland/Software-Engineers_2002600",
+      "host": "wd1.myworkdaysite.com",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-sabeo-com",
+      "name": "Careers &amp; Contracts",
+      "url": "https://sabeo.com/careers-contracts/",
+      "host": "sabeo.com",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-version1-com",
+      "name": "Careers at Version 1",
+      "url": "https://www.version1.com/Careers/",
+      "host": "version1.com",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-careers-accenture-com",
+      "name": "careers.accenture.com",
+      "url": "http://careers.accenture.com/br-pt/jobs/Pages/jobsearch.aspx?keyword=programador",
+      "host": "careers.accenture.com",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-catho-com-br",
+      "name": "Catho",
+      "url": "https://www.catho.com.br/",
+      "region": "brazil",
+      "type": "board",
+      "host": "catho.com.br",
+      "source": "curated"
+    },
+    {
+      "id": "co-danielkummer-github-io",
+      "name": "cheatsheet do git",
+      "url": "https://danielkummer.github.io/git-flow-cheatsheet/index.pt_BR.html",
+      "host": "danielkummer.github.io",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-ciandt-com",
+      "name": "Ci&amp;t",
+      "url": "http://www.ciandt.com/br-pt/vagas",
+      "host": "ciandt.com",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-ciadetalentos-com-br",
+      "name": "CiaTalentos",
+      "url": "http://www.ciadetalentos.com.br/jovens/",
+      "host": "ciadetalentos.com.br",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-app-clickaonline-com",
+      "name": "ClickA",
+      "url": "https://app.clickaonline.com/login",
+      "host": "app.clickaonline.com",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-amancay-com-br",
+      "name": "Clientes » amancay",
+      "url": "http://amancay.com.br/clientes/#sthash.XkJIcg2t.dpbs",
+      "host": "amancay.com.br",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-grupoltm-visualstudio-com",
+      "name": "cloudLoyaltyAPITests",
+      "url": "https://grupoltm.visualstudio.com/Premiacao/_git/cloudLoyaltyAPITests",
+      "host": "grupoltm.visualstudio.com",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-coachit-com-br",
+      "name": "COACH IT",
+      "url": "http://www.coachit.com.br/",
+      "host": "coachit.com.br",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-codingame-com",
+      "name": "Coding Games and Programming Challenges to Code Better",
+      "url": "https://www.codingame.com/start",
+      "host": "codingame.com",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-4kdownload-com",
+      "name": "Como baixar lista de reprodução completa do YouTube em MP3",
+      "url": "https://www.4kdownload.com/pt-br/howto/howto-download-youtube-playlist-in-mp3",
+      "host": "4kdownload.com",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-eurodicas-com-br",
+      "name": "Como trabalhar na Irlanda, tipos de visto, salários e as melhores áreas",
+      "url": "https://www.eurodicas.com.br/como-trabalhar-na-irlanda/",
+      "host": "eurodicas.com.br",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-grupoltmdev-atlassian-net",
+      "name": "Confluence",
+      "url": "https://grupoltmdev.atlassian.net/wiki",
+      "host": "grupoltmdev.atlassian.net",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-ltmcontacorrenteprdwebjob01-azurewebsites-net",
+      "name": "ContaCorrenteHmlWebJobs Jobs",
+      "url": "http://ltmcontacorrenteprdwebjob01.azurewebsites.net/WebSite/Details/ContaCorrenteHmlWebJobs",
+      "host": "ltmcontacorrenteprdwebjob01.azurewebsites.net",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-benjaminhorn-io",
+      "name": "Content security policy, what it is, what it does, and how to implement it",
+      "url": "https://benjaminhorn.io/code/content-security-policy-what-it-is-what-it-does-and-how-to-implement-it/",
+      "host": "benjaminhorn.io",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-contentful-com",
+      "name": "Contentful",
+      "url": "https://www.contentful.com/careers/",
+      "region": "eu-br",
+      "type": "company",
+      "host": "contentful.com",
+      "source": "curated"
+    },
+    {
+      "id": "co-geo-craigslist-org",
+      "name": "craigslist",
+      "url": "https://geo.craigslist.org/iso/ca",
+      "host": "geo.craigslist.org",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-crowd-br-com",
+      "name": "Crowd",
+      "url": "https://crowd.br.com/",
+      "region": "brazil",
+      "type": "board",
+      "host": "crowd.br.com",
+      "source": "curated"
+    },
+    {
+      "id": "co-github-com",
+      "name": "cucumber",
+      "url": "https://github.com/cucumber/cucumber-js/blob/master/docs/cli.md#running-specific-features",
+      "host": "github.com",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-cultureamp-com",
+      "name": "Culture Amp",
+      "url": "https://www.cultureamp.com/about/careers",
+      "region": "au-br",
+      "type": "company",
+      "host": "cultureamp.com",
+      "source": "curated"
+    },
+    {
+      "id": "co-number8-com",
+      "name": "Current Job Opportunities",
+      "url": "https://number8.com/job-opportunities/",
+      "host": "number8.com",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-europass-cedefop-europa-eu",
+      "name": "Curriculum vitæ",
+      "url": "http://europass.cedefop.europa.eu/pt/documents/curriculum-vitae",
+      "host": "europass.cedefop.europa.eu",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-exame-abril-com-br",
+      "name": "Curso abre as portas para quem quer trabalhar no Canadá",
+      "url": "https://exame.abril.com.br/carreira/curso-abre-portas-para-quem-quer-trabalhar-no-canada/",
+      "host": "exame.abril.com.br",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-agileandart-com",
+      "name": "DDD",
+      "url": "http://www.agileandart.com/2010/07/16/ddd-introducao-a-domain-driven-design/",
+      "host": "agileandart.com",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-deliveryhero-com",
+      "name": "Delivery Hero Jobs",
+      "url": "https://www.deliveryhero.com/careers/jobs/#/?department=",
+      "host": "deliveryhero.com",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-services-deloitte-ie",
+      "name": "Deloitte",
+      "url": "http://services.deloitte.ie/tc/",
+      "host": "services.deloitte.ie",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-mazza-tech",
+      "name": "Detalhe da Vaga",
+      "url": "https://mazza.tech/detalhe-da-vagas/?code=12598",
+      "host": "mazza.tech",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-jobbank-gc-ca",
+      "name": "developer in various locations",
+      "url": "https://www.jobbank.gc.ca/jobsearch/jobsearch?sort=M&searchstring=developer&button.submit=Search",
+      "host": "jobbank.gc.ca",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-shawandpartners-com",
+      "name": "Do you know English? We&#39;re interested in talking.",
+      "url": "https://shawandpartners.com/join-shaw-and-partners/",
+      "host": "shawandpartners.com",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-templafy-com",
+      "name": "Dynamic Template Technology for Enterprises",
+      "url": "https://www.templafy.com/",
+      "host": "templafy.com",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-dynamitejobs-com",
+      "name": "Dynamite Jobs",
+      "url": "https://dynamitejobs.com/",
+      "region": "worldwide",
+      "type": "board",
+      "host": "dynamitejobs.com",
+      "source": "curated"
+    },
+    {
+      "id": "co-eduzz-com",
+      "name": "Eduzz",
+      "url": "https://www.eduzz.com/",
+      "host": "eduzz.com",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-forum-outerspace-com-br",
+      "name": "Emigrar para o Canadá",
+      "url": "https://forum.outerspace.com.br/index.php?threads/emigrar-para-o-canad%C3%A1-mini-guia-atualizado.423592/",
+      "host": "forum.outerspace.com.br",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-zartis-com",
+      "name": "Employer Services",
+      "url": "https://zartis.com/",
+      "host": "zartis.com",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-alemanizando-com-br",
+      "name": "Emprego: Vagas de trabalho na Alemanha",
+      "url": "http://www.alemanizando.com.br/vagas-trabalho-alemanha/",
+      "host": "alemanizando.com.br",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-alphasights-com",
+      "name": "Engineering",
+      "url": "https://www.alphasights.com/careers/se-open-positions?locale=en&region=the_americas&experience=All%20Experience%20Levels",
+      "host": "alphasights.com",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-findajobingermany-com",
+      "name": "English speaking jobs",
+      "url": "http://www.findajobingermany.com/",
+      "host": "findajobingermany.com",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-envato-com",
+      "name": "Envato",
+      "url": "https://envato.com/about/careers",
+      "region": "au-br",
+      "type": "company",
+      "host": "envato.com",
+      "source": "curated"
+    },
+    {
+      "id": "co-grupoltm-my-sharepoint-com",
+      "name": "Equipe do Edson.xlsx",
+      "url": "https://grupoltm-my.sharepoint.com/personal/cezar_pereira_grupoltm_com_br/_layouts/15/WopiFrame2.aspx?sourcedoc=%7B44dde059-5e15-4286-b6a6-43015cd15fed%7D&action=edit&activeCell=%27Template%27!B2",
+      "host": "grupoltm-my.sharepoint.com",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-esw-com",
+      "name": "ESW is Hiring!",
+      "url": "https://esw.com/careers/open-positions/?gh_jid=5441250002",
+      "host": "esw.com",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-rsm-nl",
+      "name": "Events",
+      "url": "https://www.rsm.nl/about-rsm/events/#!",
+      "host": "rsm.nl",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-checkout-com",
+      "name": "Explore careers, open roles and join the payments revolution at Checkout.com",
+      "url": "https://www.checkout.com/careers",
+      "host": "checkout.com",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-farfetchgroup-com",
+      "name": "Farfetch",
+      "url": "https://www.farfetchgroup.com/careers",
+      "region": "eu-br",
+      "type": "company",
+      "host": "farfetchgroup.com",
+      "source": "curated"
+    },
+    {
+      "id": "co-fcamara-com-br",
+      "name": "FCamara",
+      "url": "https://www.fcamara.com.br/",
+      "host": "fcamara.com.br",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-findajobingermany-de",
+      "name": "Find a job in Germany",
+      "url": "https://www.findajobingermany.de/",
+      "host": "findajobingermany.de",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-fit-tecnologia-org-br",
+      "name": "FIT",
+      "url": "http://www.fit-tecnologia.org.br/trabalhe-conosco",
+      "host": "fit-tecnologia.org.br",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-fiverr-com",
+      "name": "Fiverr",
+      "url": "https://www.fiverr.com/",
+      "host": "fiverr.com",
+      "region": "us-br",
+      "type": "board",
+      "source": "bookmark+curated",
+      "featured": false,
+      "priority": 100
+    },
+    {
+      "id": "co-flexjobs-com",
+      "name": "FlexJobs",
+      "url": "https://www.flexjobs.com/",
+      "region": "worldwide",
+      "type": "board",
+      "host": "flexjobs.com",
+      "source": "curated"
+    },
+    {
+      "id": "co-gpnet-com-br",
+      "name": "G&amp;P",
+      "url": "http://www.gpnet.com.br/mural-de-vagas",
+      "host": "gpnet.com.br",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-geekhunter-com-br",
+      "name": "GeekHunter",
+      "url": "https://geekhunter.com.br/",
+      "host": "geekhunter.com.br",
+      "region": "brazil",
+      "type": "board",
+      "source": "bookmark+curated",
+      "featured": false,
+      "priority": 100
+    },
+    {
+      "id": "co-gft-com",
+      "name": "GFT",
+      "url": "http://www.gft.com/br/pt/index/carreiras/ofertas_de_emprego.html",
+      "host": "gft.com",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-rogerdudler-github-io",
+      "name": "git",
+      "url": "http://rogerdudler.github.io/git-guide/index.pt_BR.html",
+      "host": "rogerdudler.github.io",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-git-scm-com",
+      "name": "Git",
+      "url": "https://git-scm.com/docs",
+      "host": "git-scm.com",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-fjorgemota-com",
+      "name": "Git Flow",
+      "url": "https://fjorgemota.com/git-flow-uma-forma-legal-de-organizar-repositorios-git/",
+      "host": "fjorgemota.com",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-about-gitlab-com",
+      "name": "GitLab",
+      "url": "https://about.gitlab.com/careers/",
+      "region": "us-br",
+      "type": "company",
+      "host": "about.gitlab.com",
+      "source": "curated"
+    },
+    {
+      "id": "co-glassdoor-com-br",
+      "name": "Glassdoor BR",
+      "url": "https://www.glassdoor.com.br/",
+      "region": "brazil",
+      "type": "board",
+      "host": "glassdoor.com.br",
+      "source": "curated"
+    },
+    {
+      "id": "co-glassdoor-ie",
+      "name": "Glassdoor Job Search",
+      "url": "https://www.glassdoor.ie/index.htm",
+      "host": "glassdoor.ie",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-savvytime-com",
+      "name": "GMT to BRT to Dublin, Ireland",
+      "url": "https://savvytime.com/converter/gmt-to-brt-ireland-dublin",
+      "host": "savvytime.com",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-ltmbr-gointegro-com",
+      "name": "GOintegro",
+      "url": "https://ltmbr.gointegro.com/gosocial/company/stream",
+      "host": "ltmbr.gointegro.com",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-en-goodland-io",
+      "name": "Goodland",
+      "url": "https://en.goodland.io/candidat/signup?msID=01b4225d-8e39-44b8-ac23-7f148b4a8a95",
+      "host": "en.goodland.io",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-logs-intranet",
+      "name": "Graylog Web Interface",
+      "url": "http://logs.intranet/",
+      "host": "logs.intranet",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-prdlogsrv-grupoltm-com-br",
+      "name": "Graylog Web Interface",
+      "url": "http://prdlogsrv.grupoltm.com.br:9000/search",
+      "host": "prdlogsrv.grupoltm.com.br",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-groups-google-com",
+      "name": "Grupos do Google",
+      "url": "https://groups.google.com/forum/#!forum/it-irlanda-br",
+      "host": "groups.google.com",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-portal-gupy-io",
+      "name": "Gupy Remote",
+      "url": "https://portal.gupy.io/job-search/workplaceTypes[]=remote",
+      "region": "brazil",
+      "type": "board",
+      "host": "portal.gupy.io",
+      "source": "curated"
+    },
+    {
+      "id": "co-news-ycombinator-com",
+      "name": "Hacker News Jobs",
+      "url": "https://news.ycombinator.com/jobs",
+      "host": "news.ycombinator.com",
+      "region": "us-br",
+      "type": "board",
+      "source": "bookmark+curated",
+      "featured": false,
+      "priority": 100
+    },
+    {
+      "id": "co-himalayas-app",
+      "name": "Himalayas",
+      "url": "https://himalayas.app/",
+      "region": "worldwide",
+      "type": "board",
+      "host": "himalayas.app",
+      "source": "curated"
+    },
+    {
+      "id": "co-honeypot-io",
+      "name": "Honeypot",
+      "url": "https://www.honeypot.io/",
+      "host": "honeypot.io",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-onedrive-live-com",
+      "name": "Horas_LTM",
+      "url": "https://onedrive.live.com/edit.aspx?cid=adaf55136d994ed0&page=view&resid=ADAF55136D994ED0!102671&parId=ADAF55136D994ED0!102668&app=Excel",
+      "host": "onedrive.live.com",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-grupoltm-sharepoint-com",
+      "name": "Horas_SharePoint",
+      "url": "https://grupoltm.sharepoint.com/premiacao/_layouts/15/WopiFrame.aspx?docid=1cafd80840258441b92d68ae8c5b90854&authkey=Ad0ltG7mLmINzTguEySk1SQ&action=view",
+      "host": "grupoltm.sharepoint.com",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-medium-com",
+      "name": "How to write a cover letter as a software developer (cover letter included)",
+      "url": "https://medium.com/@developerdavo/how-to-write-a-cover-letter-as-a-software-developer-cover-letter-and-cv-included-2190e0d23e97",
+      "host": "medium.com",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-bamboohr-com",
+      "name": "HR Software with Heart. Focus on people, not processes",
+      "url": "https://www.bamboohr.com/",
+      "host": "bamboohr.com",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-eur02-safelinks-protection-outlook-com",
+      "name": "https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapps.apple.com",
+      "url": "https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapps.apple.com%2Fbr%2Fapp%2Fsulam%25C3%25A9rica-sa%25C3%25BAde%2Fid492556516&data=04%7C01%7C%7Cd1d56944b75c406e45cd08d87d036fad%7C55a2bc67aec14ad29a9c5b2457b91dcd%7C0%7C0%7C637396800992855617%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=kr2kXYsfwhlaysctII0CiGDo9tEEsn4Xt%2FgLvgLjd1I%3D&reserved=0",
+      "host": "eur02.safelinks.protection.outlook.com",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-hml-marketplace-webpremios-com-br",
+      "name": "https://hml",
+      "url": "https://hml-marketplace.webpremios.com.br/#/login",
+      "host": "hml-marketplace.webpremios.com.br",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-carriere-info-fr",
+      "name": "https://www.carriere",
+      "url": "https://www.carriere-info.fr/",
+      "host": "carriere-info.fr",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-quebecentete-com",
+      "name": "https://www.quebecentete.com/pt/",
+      "url": "https://www.quebecentete.com/pt/",
+      "host": "quebecentete.com",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-huwellconsultancy-com",
+      "name": "Huwell Recruitment",
+      "url": "https://www.huwellconsultancy.com/jobs",
+      "host": "huwellconsultancy.com",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-expatfairamsterdam-nl",
+      "name": "i am not a tourist Expat Fair",
+      "url": "https://www.expatfairamsterdam.nl/",
+      "host": "expatfairamsterdam.nl",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-immigration-govt-nz",
+      "name": "immigration.govt.nz",
+      "url": "http://www.immigration.govt.nz/",
+      "host": "immigration.govt.nz",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-br-indeed-com",
+      "name": "Indeed BR",
+      "url": "https://br.indeed.com/q-trabalho-remoto-vagas.html",
+      "region": "brazil",
+      "type": "board",
+      "host": "br.indeed.com",
+      "source": "curated"
+    },
+    {
+      "id": "co-indeed-com-br",
+      "name": "indeed.com.br",
+      "url": "http://www.indeed.com.br/",
+      "host": "indeed.com.br",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-infojobs-com-br",
+      "name": "InfoJobs",
+      "url": "https://www.infojobs.com.br/",
+      "host": "infojobs.com.br",
+      "region": "brazil",
+      "type": "board",
+      "source": "bookmark+curated",
+      "featured": false,
+      "priority": 100
+    },
+    {
+      "id": "co-intranet-deal-com-br",
+      "name": "Intranet",
+      "url": "http://intranet.deal.com.br/SitePages/HomeIntranet.aspx",
+      "host": "intranet.deal.com.br",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-intranet-grupoltm-com-br",
+      "name": "Intranet",
+      "url": "https://intranet.grupoltm.com.br/wp-login.php",
+      "host": "intranet.grupoltm.com.br",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-reembolso-grupoltm-com-br",
+      "name": "Intranet Grupo LTM ‹ Fazer login",
+      "url": "https://reembolso.grupoltm.com.br/wp-login.php",
+      "host": "reembolso.grupoltm.com.br",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-newzealandnow-govt-nz",
+      "name": "IT &amp; Tech Jobs",
+      "url": "https://www.newzealandnow.govt.nz/work-in-nz/nz-jobs-industries/information-technology-jobs",
+      "host": "newzealandnow.govt.nz",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-totaljobs-com",
+      "name": "Job application confirmation",
+      "url": "https://www.totaljobs.com/job/90056252/apply/confirmation?Keywords=C&TemplateType=ResponsiveFeatured&JBESuccess=True&NewUser=False&p72=3&IsFirstCvUpload=False&OcaOptIn=False&OCA=True&CvDbOptedIn=False&ApplicationHistoryOptedIn=False&FullPreRegProfile=False&ApplicationPath=0&IsCopiedProfile=False&ApplicationId=372774584&IsC19SupportJob=False&ConsentsTypes=static_-&isreload=true",
+      "host": "totaljobs.com",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-epam-com",
+      "name": "Job Listings",
+      "url": "https://www.epam.com/careers/job-listings?country=USA",
+      "host": "epam.com",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-make-it-in-germany-com",
+      "name": "Job Listings",
+      "url": "https://www.make-it-in-germany.com/for-qualified-professionals/working/job-listings?L=1&tx_rsmiig_jobmarket%5Baction%5D=list&tx_rsmiig_jobmarket%5Bcontroller%5D=JobMarket&cHash=be148b8abc351fa83e0953760aa88766",
+      "host": "make-it-in-germany.com",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-mydayforce-com",
+      "name": "Job Search",
+      "url": "https://www.mydayforce.com/CandidatePortal/u/cp/en-US/mydayforce/Site/alljobs",
+      "host": "mydayforce.com",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-indeed-ca",
+      "name": "Job Search Canada",
+      "url": "https://www.indeed.ca/",
+      "host": "indeed.ca",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-jobs-ch",
+      "name": "Job search on jobs.ch, the leading online job portal on the Swiss market",
+      "url": "https://www.jobs.ch/en/",
+      "host": "jobs.ch",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-trademe-co-nz",
+      "name": "Job search results",
+      "url": "https://www.trademe.co.nz/browse/categoryattributesearchresults.aspx?154=5112&144=-1&144=200000&153=.net&search=1&sidebar=1&cid=5000&rptpath=5000-",
+      "host": "trademe.co.nz",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-jobatus-com-br",
+      "name": "Jobatus",
+      "url": "https://www.jobatus.com.br/",
+      "host": "jobatus.com.br",
+      "region": "brazil",
+      "type": "board",
+      "source": "bookmark+curated",
+      "featured": false,
+      "priority": 100
+    },
+    {
+      "id": "co-monster-ie",
+      "name": "Jobs",
+      "url": "https://www.monster.ie/",
+      "host": "monster.ie",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-shiftf5-co-uk",
+      "name": "Jobs",
+      "url": "https://shiftf5.co.uk/jobs/",
+      "host": "shiftf5.co.uk",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-jobs-hirewithnear-com",
+      "name": "Jobs",
+      "url": "https://jobs.hirewithnear.com/jobs/?q=back+end&l=",
+      "host": "jobs.hirewithnear.com",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-reed-co-uk",
+      "name": "Jobs and Recruitment on reed.co.uk, the UK&#39;s #1 job site",
+      "url": "https://www.reed.co.uk/",
+      "host": "reed.co.uk",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-boards-greenhouse-io",
+      "name": "Jobs at Nubank",
+      "url": "https://boards.greenhouse.io/nubank",
+      "host": "boards.greenhouse.io",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-de-jooble-org",
+      "name": "Jobs in Deutschland",
+      "url": "https://de.jooble.org/",
+      "host": "de.jooble.org",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-jobspresso-co",
+      "name": "Jobspresso",
+      "url": "https://jobspresso.co/",
+      "region": "worldwide",
+      "type": "board",
+      "host": "jobspresso.co",
+      "source": "curated"
+    },
+    {
+      "id": "co-elementinsuranceag-recruitee-com",
+      "name": "Karrieren",
+      "url": "https://elementinsuranceag.recruitee.com/#section-70671",
+      "host": "elementinsuranceag.recruitee.com",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-klarna-com",
+      "name": "Klarna",
+      "url": "https://klarna.com/careers/",
+      "region": "eu-br",
+      "type": "company",
+      "host": "klarna.com",
+      "source": "curated"
+    },
+    {
+      "id": "co-lapieza-io",
+      "name": "La Pieza",
+      "url": "https://lapieza.io/pt",
+      "region": "latam",
+      "type": "board",
+      "host": "lapieza.io",
+      "source": "curated"
+    },
+    {
+      "id": "co-landing-jobs",
+      "name": "Landing.jobs",
+      "url": "https://landing.jobs/",
+      "host": "landing.jobs",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-learngitbranching-js-org",
+      "name": "Learn Git Branching",
+      "url": "http://learngitbranching.js.org/?DEMO",
+      "host": "learngitbranching.js.org",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-br-linkedin-com",
+      "name": "LinkedIn Jobs BR",
+      "url": "https://br.linkedin.com/jobs/remoto-vagas",
+      "region": "brazil",
+      "type": "board",
+      "host": "br.linkedin.com",
+      "source": "curated"
+    },
+    {
+      "id": "co-gist-github-com",
+      "name": "Lista de comandos úteis do GIT · GitHub",
+      "url": "https://gist.github.com/leocomelli/2545add34e4fec21ec16",
+      "host": "gist.github.com",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-painel-webpremios-com-br",
+      "name": "Live",
+      "url": "http://painel.webpremios.com.br/External/#/",
+      "host": "painel.webpremios.com.br",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-azulivepainelhml-azurewebsites-net",
+      "name": "Live",
+      "url": "http://azulivepainelhml.azurewebsites.net/External/#/",
+      "host": "azulivepainelhml.azurewebsites.net",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-azulivepainelhml01-azurewebsites-net",
+      "name": "LIVE",
+      "url": "https://azulivepainelhml01.azurewebsites.net/External/#/",
+      "host": "azulivepainelhml01.azurewebsites.net",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-solasit-ie",
+      "name": "Live Jobs",
+      "url": "http://www.solasit.ie/jobs/",
+      "host": "solasit.ie",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-ltmh-mlh-api-cloudapp-net",
+      "name": "ltmh",
+      "url": "http://ltmh-mlh-api.cloudapp.net/v1/api/tests/token",
+      "host": "ltmh-mlh-api.cloudapp.net",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-vagas-byintera-com",
+      "name": "Mais de 50 Oportunidades BackEnd em empresas inovadoras do Brasil",
+      "url": "https://vagas.byintera.com/50backend/?utm_source=linkedin&utm_medium=woohp&utm_content=squad2&cr=growth",
+      "host": "vagas.byintera.com",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-maltasalary-com",
+      "name": "Malta Salary Calculator",
+      "url": "http://maltasalary.com/",
+      "host": "maltasalary.com",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-ganhandoeuro-com",
+      "name": "Manja de TI e quer morar e trabalhar na Irlanda?",
+      "url": "https://ganhandoeuro.com/2019/02/15/manja-de-ti-e-quer-morar-e-trabalhar-na-irlanda/",
+      "host": "ganhandoeuro.com",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-desenvolvedor-marketplace-webpremios-com-br",
+      "name": "MarketPlace",
+      "url": "http://desenvolvedor-marketplace.webpremios.com.br/",
+      "host": "desenvolvedor-marketplace.webpremios.com.br",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-meuhome-com-br",
+      "name": "MeuHome",
+      "url": "https://www.meuhome.com.br/",
+      "region": "brazil",
+      "type": "board",
+      "host": "meuhome.com.br",
+      "source": "curated"
+    },
+    {
+      "id": "co-brasileiraspelomundo-com",
+      "name": "Morar legalmente através de trabalho e estudo na Alemanha",
+      "url": "https://www.brasileiraspelomundo.com/morar-legalmente-atraves-de-trabalho-e-estudo-na-alemanha-311515569",
+      "host": "brasileiraspelomundo.com",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-n26-com",
+      "name": "N26",
+      "url": "https://n26.com/en/careers",
+      "region": "eu-br",
+      "type": "company",
+      "host": "n26.com",
+      "source": "curated"
+    },
+    {
+      "id": "co-bairesdev-com",
+      "name": "Nearshore Custom Software Development Company",
+      "url": "https://www.bairesdev.com/",
+      "host": "bairesdev.com",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-glassdoor-com",
+      "name": "NET Denmark Jobs",
+      "url": "https://www.glassdoor.com/Job/jobs.htm?suggestCount=0&suggestChosen=false&clickSource=searchBtn&typedKeyword=.net&sc.keyword=.net&locT=N&locId=63&jobType=",
+      "host": "glassdoor.com",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-robertwalters-com-br",
+      "name": "Oportunidades",
+      "url": "https://www.robertwalters.com.br/oportunidades.html?q=",
+      "host": "robertwalters.com.br",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-comune-trento-it",
+      "name": "Organograma / Organização municipal / Município / Cidade de Trento",
+      "url": "https://www.comune.trento.it/Comune/Organizzazione-comunale/Organigramma",
+      "host": "comune.trento.it",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-optimussearch-com",
+      "name": "Our Latest Jobs",
+      "url": "https://www.optimussearch.com/jobs/?keyword=Software+Engineer&locationregion=&jobtype=contract&salarybase=&salary=",
+      "host": "optimussearch.com",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-outsystems-com",
+      "name": "OutSystems",
+      "url": "https://www.outsystems.com/careers/",
+      "region": "eu-br",
+      "type": "company",
+      "host": "outsystems.com",
+      "source": "curated"
+    },
+    {
+      "id": "co-pciconcursos-com-br",
+      "name": "pciconcursos.com.br",
+      "url": "http://www.pciconcursos.com.br/",
+      "host": "pciconcursos.com.br",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-peixe30-com",
+      "name": "Peixe 30",
+      "url": "https://peixe30.com/",
+      "host": "peixe30.com",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-personio-com",
+      "name": "Personio",
+      "url": "https://www.personio.com/careers/",
+      "region": "eu-br",
+      "type": "company",
+      "host": "personio.com",
+      "source": "curated"
+    },
+    {
+      "id": "co-pessoas-vagas-com-br",
+      "name": "pessoas.vagas.com.br",
+      "url": "http://pessoas.vagas.com.br/",
+      "host": "pessoas.vagas.com.br",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-prediktive-com",
+      "name": "Prediktive",
+      "url": "https://www.prediktive.com/",
+      "host": "prediktive.com",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-programathor-com-br",
+      "name": "Programathor",
+      "url": "https://programathor.com.br/",
+      "host": "programathor.com.br",
+      "region": "brazil",
+      "type": "board",
+      "source": "bookmark+curated",
+      "featured": false,
+      "priority": 100
+    },
+    {
+      "id": "co-esx-com-br",
+      "name": "Projetos de Software",
+      "url": "http://esx.com.br/projetos-de-software/",
+      "host": "esx.com.br",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-proventusint-com",
+      "name": "Proventus Recruitment",
+      "url": "http://proventusint.com/",
+      "host": "proventusint.com",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-ltm-dts0nz1",
+      "name": "QA NewAccount Credit Points",
+      "url": "http://ltm-dts0nz1/Reports_MSSQLSERVER2016/report/SSRS_ProjectPremiacao/QA%20NewAccount%20Credit%20Points",
+      "host": "ltm-dts0nz1",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-iamexpat-nl",
+      "name": "Recruitment agencies in the Netherlands",
+      "url": "https://www.iamexpat.nl/career/working-in-the-netherlands/dutch-recruitment-agencies",
+      "host": "iamexpat.nl",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-remotar-com-br",
+      "name": "Remotar",
+      "url": "https://remotar.com.br/",
+      "host": "remotar.com.br",
+      "region": "brazil",
+      "type": "board",
+      "source": "bookmark+curated",
+      "featured": false,
+      "priority": 100
+    },
+    {
+      "id": "co-arc-dev",
+      "name": "Remote Developer Jobs: All the best programming jobs",
+      "url": "https://arc.dev/",
+      "host": "arc.dev",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-remoteok-com",
+      "name": "Remote OK",
+      "url": "https://remoteok.com/",
+      "region": "worldwide",
+      "type": "board",
+      "host": "remoteok.com",
+      "source": "curated"
+    },
+    {
+      "id": "co-remoterocketship-com",
+      "name": "Remote Rocketship",
+      "url": "https://www.remoterocketship.com/br/",
+      "region": "worldwide",
+      "type": "board",
+      "host": "remoterocketship.com",
+      "source": "curated"
+    },
+    {
+      "id": "co-remote-com",
+      "name": "Remote.com Jobs",
+      "url": "https://remote.com/jobs",
+      "region": "worldwide",
+      "type": "board",
+      "host": "remote.com",
+      "source": "curated"
+    },
+    {
+      "id": "co-remoters-com-br",
+      "name": "Remoters Brasil",
+      "url": "https://remoters.com.br/",
+      "region": "brazil",
+      "type": "board",
+      "host": "remoters.com.br",
+      "source": "curated"
+    },
+    {
+      "id": "co-remotive-com",
+      "name": "Remotive",
+      "url": "https://remotive.com/",
+      "region": "worldwide",
+      "type": "board",
+      "host": "remotive.com",
+      "source": "curated"
+    },
+    {
+      "id": "co-revelo-com-br",
+      "name": "Revelo",
+      "url": "https://revelo.com.br/",
+      "region": "brazil",
+      "type": "board",
+      "host": "revelo.com.br",
+      "source": "curated"
+    },
+    {
+      "id": "co-revolut-com",
+      "name": "Revolut",
+      "url": "https://www.revolut.com/careers",
+      "region": "eu-br",
+      "type": "company",
+      "host": "revolut.com",
+      "source": "curated"
+    },
+    {
+      "id": "co-safetyculture-com",
+      "name": "SafetyCulture",
+      "url": "https://safetyculture.com/careers/",
+      "region": "au-br",
+      "type": "company",
+      "host": "safetyculture.com",
+      "source": "curated"
+    },
+    {
+      "id": "co-planet-wd3-myworkdayjobs-com",
+      "name": "Search for Jobs",
+      "url": "https://planet.wd3.myworkdayjobs.com/en-US/Planet",
+      "host": "planet.wd3.myworkdayjobs.com",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-careerbuilder-ca",
+      "name": "Search Jobs Throughout Canada",
+      "url": "https://www.careerbuilder.ca/",
+      "host": "careerbuilder.ca",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-blog-sec-consult-com",
+      "name": "SEC Consult: Content Security Policy (CSP)",
+      "url": "http://blog.sec-consult.com/2013/07/content-security-policy-csp-another.html",
+      "host": "blog.sec-consult.com",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-manager-ltm-sensedia-com",
+      "name": "Sensedia API Suite",
+      "url": "https://manager-ltm.sensedia.com/api-manager/login.html",
+      "host": "manager-ltm.sensedia.com",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-grupoltm-service-now-com",
+      "name": "ServiceDesk",
+      "url": "https://grupoltm.service-now.com/navpage.do",
+      "host": "grupoltm.service-now.com",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-grupoltmqa-service-now-com",
+      "name": "ServiceNow HML",
+      "url": "https://grupoltmqa.service-now.com/",
+      "host": "grupoltmqa.service-now.com",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-skipthedrive-com",
+      "name": "SkipTheDrive",
+      "url": "https://www.skipthedrive.com/",
+      "region": "worldwide",
+      "type": "board",
+      "host": "skipthedrive.com",
+      "source": "curated"
+    },
+    {
+      "id": "co-apollo-11-workspace-slack-com",
+      "name": "slackbot",
+      "url": "https://apollo-11-workspace.slack.com/messages/DAN62UKC7/",
+      "host": "apollo-11-workspace.slack.com",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-computerjobs-ie",
+      "name": "Software Developer/Engineer IT Jobs in Ireland",
+      "url": "https://www.computerjobs.ie/jobboard/cands/JobResults.asp?c=1&strDescription=&strKeywords=&radCompanyType=&lstIndustry=Software+Developer%2FEngineer&lstContract=&lstITExperience=&lstRegion=",
+      "host": "computerjobs.ie",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-crossover-com",
+      "name": "Software Engineer",
+      "url": "https://www.crossover.com/jobs/3890/software-engineer",
+      "host": "crossover.com",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-welovesalt-com",
+      "name": "Software Engineering Jobs • Salt • Technology Recruitment Agency",
+      "url": "https://www.welovesalt.com/jobs/job-industry/software-engineering/page/2/",
+      "host": "welovesalt.com",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-sonarqube-grupoltm-com-br",
+      "name": "SonarQube",
+      "url": "https://sonarqube.grupoltm.com.br/",
+      "host": "sonarqube.grupoltm.com.br",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-ltmh-mkp-sonarcoreafapi-dev-azurewebsites-net",
+      "name": "SonarSwagger",
+      "url": "http://ltmh-mkp-sonarcoreafapi-dev.azurewebsites.net/swagger/ui/index",
+      "host": "ltmh-mkp-sonarcoreafapi-dev.azurewebsites.net",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-sorocabati-com-br",
+      "name": "sorocabati.com.br",
+      "url": "http://www.sorocabati.com.br/",
+      "host": "sorocabati.com.br",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-opusrecruitmentsolutions-com",
+      "name": "Specialist Global Recruitment",
+      "url": "https://www.opusrecruitmentsolutions.com/",
+      "host": "opusrecruitmentsolutions.com",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-dawsonandwalsh-co-uk",
+      "name": "Specialists in Technology Recruitment",
+      "url": "https://www.dawsonandwalsh.co.uk/",
+      "host": "dawsonandwalsh.co.uk",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-spotifyjobs-com",
+      "name": "Spotify",
+      "url": "https://www.spotifyjobs.com/",
+      "region": "eu-br",
+      "type": "company",
+      "host": "spotifyjobs.com",
+      "source": "curated"
+    },
+    {
+      "id": "co-germanystartupjobs-com",
+      "name": "Startup Jobs",
+      "url": "https://germanystartupjobs.com/",
+      "host": "germanystartupjobs.com",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-opendata-cbs-nl",
+      "name": "StatLine",
+      "url": "https://opendata.cbs.nl/statline/#/CBS/en/dataset/80474eng/table?ts=1549102960766",
+      "host": "opendata.cbs.nl",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-youtube-com",
+      "name": "Sunstone Talent IT Jobs in Christchurch, NZ",
+      "url": "https://www.youtube.com/watch?v=cbQbR26XfBs",
+      "host": "youtube.com",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-meta-ats-peoplenect-com",
+      "name": "Talentos",
+      "url": "http://meta.ats.peoplenect.com/cgi-bin/a/searchjobs.cgi",
+      "host": "meta.ats.peoplenect.com",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-career-luxoft-com",
+      "name": "Technical Developer C#",
+      "url": "https://career.luxoft.com/careers/200979/technical-developer-c/",
+      "host": "career.luxoft.com",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-bcg-com",
+      "name": "Technology &amp; Engineering",
+      "url": "https://www.bcg.com/careers/roles/technology-engineering/default.aspx?utm_source=linkedin&utm_medium=social&utm_campaign=role_families&utm_description=paid&utm_topic=technology_engineering&utm_geo=global&redir=true",
+      "host": "bcg.com",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-tecla-io",
+      "name": "Tecla",
+      "url": "https://www.tecla.io/pt/join",
+      "region": "us-br",
+      "type": "company",
+      "host": "tecla.io",
+      "source": "curated"
+    },
+    {
+      "id": "co-tegra-me",
+      "name": "Tegra",
+      "url": "http://tegra.me/",
+      "host": "tegra.me",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-teksystems-com",
+      "name": "TEKsystems. Let&#39;s own change, together.",
+      "url": "https://www.teksystems.com/",
+      "host": "teksystems.com",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-srv-ltm-tfs-01",
+      "name": "TFS",
+      "url": "http://srv-ltm-tfs-01:8080/tfs",
+      "host": "srv-ltm-tfs-01",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-cpljobs-com",
+      "name": "Thank You For Your Application",
+      "url": "https://cpljobs.com/ie/job-application-thank-you/",
+      "host": "cpljobs.com",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-thoughtworks-com",
+      "name": "ThoughtWorks: A Global Software Consultancy",
+      "url": "https://www.thoughtworks.com/",
+      "host": "thoughtworks.com",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-toplanguagejobs-com",
+      "name": "Top Language Jobs; Multilingual jobs &amp; Bilingual Jobs in London &amp; UK",
+      "url": "https://www.toplanguagejobs.com/",
+      "host": "toplanguagejobs.com",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-toptal-com",
+      "name": "Toptal",
+      "url": "https://www.toptal.com/",
+      "host": "toptal.com",
+      "region": "us-br",
+      "type": "company",
+      "source": "bookmark+curated",
+      "featured": false,
+      "priority": 100
+    },
+    {
+      "id": "co-torre-co",
+      "name": "Torre.co",
+      "url": "https://torre.co/",
+      "region": "worldwide",
+      "type": "board",
+      "host": "torre.co",
+      "source": "curated"
+    },
+    {
+      "id": "co-trampos-co",
+      "name": "Trampos.co",
+      "url": "https://trampos.co/",
+      "region": "brazil",
+      "type": "board",
+      "host": "trampos.co",
+      "source": "curated"
+    },
+    {
+      "id": "co-developers-turing-com",
+      "name": "Turing",
+      "url": "https://developers.turing.com/",
+      "host": "developers.turing.com",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-ubisoft-com",
+      "name": "Ubisoft",
+      "url": "https://www.ubisoft.com/en-us/company/careers/search?query=c%2523&jobFamilies=Programming%2520%2526%2520Technology&teams=Programming&countries=ca",
+      "host": "ubisoft.com",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-uipath-com",
+      "name": "UIPath",
+      "url": "https://www.uipath.com/company/careers",
+      "region": "eu-br",
+      "type": "company",
+      "host": "uipath.com",
+      "source": "curated"
+    },
+    {
+      "id": "co-upwork-com",
+      "name": "Upwork",
+      "url": "https://www.upwork.com/",
+      "host": "upwork.com",
+      "region": "us-br",
+      "type": "board",
+      "source": "bookmark+curated",
+      "featured": false,
+      "priority": 100
+    },
+    {
+      "id": "co-ca-uzoes-com",
+      "name": "uzoes",
+      "url": "https://ca.uzoes.com/jobs?term=.net+developer&location=",
+      "host": "ca.uzoes.com",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-nerdin-com-br",
+      "name": "Vaga Desenvolvedor (a) .NET",
+      "url": "https://nerdin.com.br/vaga/95546",
+      "host": "nerdin.com.br",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-trescon-com-br",
+      "name": "Vagas",
+      "url": "http://www.trescon.com.br/vagas/",
+      "host": "trescon.com.br",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-gsn-com-br",
+      "name": "Vagas",
+      "url": "http://gsn.com.br/vagas/",
+      "host": "gsn.com.br",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-empregasorocaba-net-br",
+      "name": "Vagas",
+      "url": "http://empregasorocaba.net.br/vaga/",
+      "host": "empregasorocaba.net.br",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-careers-br-daitan-com",
+      "name": "Vagas",
+      "url": "https://careers-br.daitan.com/vagas/",
+      "host": "careers-br.daitan.com",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-peoplerpm-com",
+      "name": "Vagas abertas",
+      "url": "https://www.peoplerpm.com/careers/fcamara/?module=vaga&action=listaVaga#.WO6qqojyuUk",
+      "host": "peoplerpm.com",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-parceriasocialdeempregos-com-br",
+      "name": "Vagas por WhatsApp!",
+      "url": "http://parceriasocialdeempregos.com.br/vagas-por-whatsapp/",
+      "host": "parceriasocialdeempregos.com.br",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-vagasremotas-com-br",
+      "name": "Vagas Remotas",
+      "url": "https://vagasremotas.com.br/",
+      "region": "brazil",
+      "type": "board",
+      "host": "vagasremotas.com.br",
+      "source": "curated"
+    },
+    {
+      "id": "co-verxrh-com-br",
+      "name": "Verx Consulting",
+      "url": "http://www.verxrh.com.br/vagas_profissional/busca/inicio.do?command=buscar",
+      "host": "verxrh.com.br",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-virtualvocations-com",
+      "name": "Virtual Vocations",
+      "url": "https://www.virtualvocations.com/",
+      "region": "worldwide",
+      "type": "board",
+      "host": "virtualvocations.com",
+      "source": "curated"
+    },
+    {
+      "id": "co-ca-indeed-com",
+      "name": "Vog App Developers Jobs in Calgary, AB (with Salaries)",
+      "url": "https://ca.indeed.com/vog-app-developers-jobs-in-Calgary,-AB",
+      "host": "ca.indeed.com",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-exame-com",
+      "name": "Voltei a morar no Brasil neste ano; como declarar o IR?",
+      "url": "https://exame.com/invest/minhas-financas/voltei-a-morar-no-brasil-neste-ano-como-declarar-o-ir/",
+      "host": "exame.com",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-login-microsoftonline-com",
+      "name": "VSTS",
+      "url": "https://login.microsoftonline.com/16904e7d-c4aa-4f87-b946-bd34d60a4237/oauth2/authorize?client_id=499b84ac-1321-427f-aa17-267ca6975798&site_id=501454&response_mode=form_post&response_type=code+id_token&redirect_uri=https%3A%2F%2Fapp.vssps.visualstudio.com%2F_signedin&nonce=d18f48f6-78fa-47ce-9937-6ed38a1135d5&state=realm%3Dgrupoltm.visualstudio.com%26reply_to%3Dhttps%253A%252F%252Fgrupoltm.visualstudio.com%252F%26ht%3D2%26nonce%3Dd18f48f6-78fa-47ce-9937-6ed38a1135d5&resource=https%3A%2F%2Fmanagement.core.windows.net%2F&wsucxt=1",
+      "host": "login.microsoftonline.com",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-app-vulpi-com-br",
+      "name": "Vulpi",
+      "url": "https://app.vulpi.com.br/jobs",
+      "host": "app.vulpi.com.br",
+      "region": "bookmark",
+      "type": "company",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-bbx-de",
+      "name": "Wage Calculator Germany",
+      "url": "https://www.bbx.de/grossnet-wage-calculator-germany/",
+      "host": "bbx.de",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-downsub-com",
+      "name": "Waiting",
+      "url": "https://downsub.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DXecsE5-k_0s%26ab_channel%3DLeandroCarliniMingorance",
+      "host": "downsub.com",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-weworkremotely-com",
+      "name": "We Work Remotely",
+      "url": "https://weworkremotely.com/",
+      "region": "worldwide",
+      "type": "board",
+      "host": "weworkremotely.com",
+      "source": "curated"
+    },
+    {
+      "id": "co-webmail-grupoltm-com-br",
+      "name": "WebMail",
+      "url": "http://webmail.grupoltm.com.br/",
+      "host": "webmail.grupoltm.com.br",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-azu-hml-ltmlive-azurewebsites-net",
+      "name": "WebPremios",
+      "url": "http://azu-hml-ltmlive.azurewebsites.net/",
+      "host": "azu-hml-ltmlive.azurewebsites.net",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-wellfound-com",
+      "name": "Wellfound",
+      "url": "https://wellfound.com/jobs",
+      "region": "worldwide",
+      "type": "board",
+      "host": "wellfound.com",
+      "source": "curated"
+    },
+    {
+      "id": "co-wise-com",
+      "name": "Wise",
+      "url": "https://wise.com/en/careers",
+      "region": "eu-br",
+      "type": "company",
+      "host": "wise.com",
+      "source": "curated"
+    },
+    {
+      "id": "co-alteo-ca",
+      "name": "Work in Information Technology (IT) in Canada Quebec Montreal",
+      "url": "https://www.alteo.ca/en/candidates/work-in-information-technology-in-canada-quebec-montreal.html",
+      "host": "alteo.ca",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-workingnomads-com",
+      "name": "Working Nomads",
+      "url": "https://www.workingnomads.com/jobs",
+      "region": "worldwide",
+      "type": "board",
+      "host": "workingnomads.com",
+      "source": "curated"
+    },
+    {
+      "id": "co-reddit-com",
+      "name": "working/findingajob",
+      "url": "https://www.reddit.com/r/Germany/wiki/working/findingajob",
+      "host": "reddit.com",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-padarialaville-com-br",
+      "name": "www.padarialaville.com.br/cardapio.pdf",
+      "url": "http://www.padarialaville.com.br/cardapio.pdf",
+      "host": "padarialaville.com.br",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-xero-com",
+      "name": "Xero",
+      "url": "https://www.xero.com/au/about/careers/",
+      "region": "au-br",
+      "type": "company",
+      "host": "xero.com",
+      "source": "curated"
+    },
+    {
+      "id": "co-xing-com",
+      "name": "XING",
+      "url": "https://www.xing.com/",
+      "host": "xing.com",
+      "region": "bookmark",
+      "type": "link",
+      "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-ycombinator-com",
+      "name": "Y Combinator Jobs",
+      "url": "https://www.ycombinator.com/jobs",
+      "region": "us-br",
+      "type": "board",
+      "host": "ycombinator.com",
+      "source": "curated"
+    },
+    {
+      "id": "co-zapier-com",
+      "name": "Zapier",
+      "url": "https://zapier.com/jobs",
+      "region": "us-br",
+      "type": "company",
+      "host": "zapier.com",
+      "source": "curated"
+    }
+  ]
+}
