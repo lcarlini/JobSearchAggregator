@@ -2,6 +2,9 @@
 
 Real-time **IT remote job** aggregator for Brazil, LATAM, and worldwide — built as a static **GitHub Pages** site.
 
+**Live site:** [https://lcarlini.github.io/JobSearchAggregator/](https://lcarlini.github.io/JobSearchAggregator/)  
+**App entry:** [`index.html`](./index.html)
+
 Live search across public APIs, company ATS boards (Greenhouse / Lever / Ashby), and professional deep-links for LinkedIn, Indeed, Google Jobs, and dozens of regional boards.
 
 ## Features
@@ -21,11 +24,13 @@ Live search across public APIs, company ATS boards (Greenhouse / Lever / Ashby),
 
 ## Enable GitHub Pages
 
+Site URL after Pages is on: **[https://lcarlini.github.io/JobSearchAggregator/](https://lcarlini.github.io/JobSearchAggregator/)**
+
 1. Push this repo to GitHub
 2. **Settings → Pages → Build and deployment**
 3. Source: **Deploy from a branch**
 4. Branch: `main` / folder: `/ (root)`
-5. Open `https://<user>.github.io/JobSearchAggregator/`
+5. Open the URL above (serves `index.html` from the repo root)
 
 ## Local development
 
