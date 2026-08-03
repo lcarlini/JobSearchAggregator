@@ -14,7 +14,7 @@
       href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600;9..40,700&family=Syne:wght@700;800&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="./assets/css/styles.css?v=table1" />
+    <link rel="stylesheet" href="./assets/css/styles.css?v=progress2" />
   </head>
   <body>
     <div class="wrap">
@@ -367,14 +367,33 @@
           <div class="stat"><strong id="stat-showing">0</strong><span data-i18n="statShowing">nesta página</span></div>
         </div>
 
-        <div class="progress-wrap" id="progress-wrap" hidden>
-          <div class="progress-meta">
-            <span id="progress-label" data-i18n="loading">Buscando…</span>
-            <span id="progress-eta"></span>
+        <div class="progress-wrap" id="progress-wrap" hidden aria-live="polite">
+          <div class="progress-head">
+            <div class="progress-title-row">
+              <span class="progress-spinner" aria-hidden="true"></span>
+              <div class="progress-copy">
+                <strong id="progress-label" data-i18n="loading">Buscando fontes…</strong>
+                <span id="progress-detail" class="progress-detail"></span>
+              </div>
+            </div>
+            <div class="progress-side">
+              <span class="progress-percent" id="progress-percent">0%</span>
+              <span id="progress-eta" class="progress-eta"></span>
+            </div>
           </div>
-          <div class="progress-bar" role="progressbar" aria-valuemin="0" aria-valuemax="100">
+          <div
+            class="progress-bar"
+            id="progress-bar"
+            role="progressbar"
+            aria-valuemin="0"
+            aria-valuemax="100"
+            aria-valuenow="0"
+            aria-labelledby="progress-label"
+          >
             <div class="progress-fill" id="progress-fill"></div>
+            <div class="progress-shine" aria-hidden="true"></div>
           </div>
+          <div class="progress-counters" id="progress-counters"></div>
           <div class="source-status" id="source-status"></div>
         </div>
 
@@ -414,6 +433,6 @@
     </div>
 
     <div class="toast" id="toast" role="status"></div>
-    <script type="module" src="./assets/js/app.js?v=table1"></script>
+    <script type="module" src="./assets/js/app.js?v=progress2"></script>
   </body>
 </html>

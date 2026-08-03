@@ -491,26 +491,85 @@ function findJobByUrl(url) {
   );
 }
 
+function setSearchingUi(on) {
+  const btn = $("#btn-search");
+  const list = $("#job-list");
+  const wrap = $("#progress-wrap");
+  if (btn) {
+    btn.disabled = !!on;
+    btn.classList.toggle("is-searching", !!on);
+  }
+  if (list) {
+    list.classList.toggle("is-loading", !!on);
+    list.dataset.loadingLabel = t("searchingOverlay");
+  }
+  if (wrap && on) {
+    wrap.hidden = false;
+    wrap.dataset.state = "running";
+    wrap.scrollIntoView({ behavior: "smooth", block: "nearest" });
+  }
+}
+
 function renderProgress(p) {
   const wrap = $("#progress-wrap");
+  if (!wrap) return;
   wrap.hidden = false;
-  $("#progress-fill").style.width = `${p.percent}%`;
-  $("#progress-label").textContent =
-    p.percent >= 100
-      ? `${t("done")} · ${p.done}/${p.total}`
-      : `${t("loading")} ${p.done}/${p.total} · ${p.percent}%`;
-  $("#progress-eta").textContent =
-    p.percent >= 100 ? "" : `${t("eta")} ~${Math.ceil((p.etaMs || 0) / 1000)}s`;
+  const done = p.percent >= 100;
+  wrap.dataset.state = done ? "done" : "running";
 
-  $("#source-status").innerHTML = Object.values(p.sources || {})
+  const pct = Math.max(0, Math.min(100, Number(p.percent) || 0));
+  const fill = $("#progress-fill");
+  if (fill) fill.style.width = `${pct}%`;
+  const bar = $("#progress-bar");
+  if (bar) bar.setAttribute("aria-valuenow", String(pct));
+
+  const sources = Object.values(p.sources || {});
+  const running = sources.filter((s) => s.state === "running" || s.state === "pending").length;
+  const ready = sources.filter((s) => ["ok", "empty", "error"].includes(s.state)).length;
+  const jobsSoFar = sources.reduce((n, s) => n + (Number(s.count) || 0), 0);
+  const runningNames = sources
+    .filter((s) => s.state === "running")
+    .map((s) => s.name)
+    .slice(0, 3);
+
+  $("#progress-percent").textContent = `${pct}%`;
+  $("#progress-label").textContent = done
+    ? `${t("done")} · ${p.done}/${p.total}`
+    : `${t("loading")} · ${p.done}/${p.total}`;
+  $("#progress-detail").textContent = done
+    ? t("doneDetail")
+    : runningNames.length
+      ? `${t("loadingDetail")} — ${runningNames.join(", ")}${running > runningNames.length ? "…" : ""}`
+      : t("loadingDetail");
+  $("#progress-eta").textContent = done
+    ? ""
+    : p.etaMs > 0
+      ? `${t("eta")} ~${Math.max(1, Math.ceil(p.etaMs / 1000))}s`
+      : t("sourcesRunning");
+
+  const counters = $("#progress-counters");
+  if (counters) {
+    counters.innerHTML = `
+      <span class="progress-chip"><strong>${ready}</strong> / ${p.total} ${t("sourcesDone")}</span>
+      <span class="progress-chip"><strong>${running}</strong> ${t("sourcesRunning")}</span>
+      <span class="progress-chip"><strong>${jobsSoFar}</strong> ${t("jobsSoFar")}</span>
+    `;
+  }
+
+  $("#source-status").innerHTML = sources
     .map((s) => {
       const detail =
         s.state === "error"
-          ? s.error
-          : s.state === "ok" || s.state === "empty"
-            ? `${s.count}`
-            : t(s.state);
-      return `<div class="source-pill" data-state="${s.state}"><strong>${s.name}</strong>${escapeHtml(String(detail))}</div>`;
+          ? s.error || t("error")
+          : s.state === "ok"
+            ? `${s.count} ${t("jobsFound")}`
+            : s.state === "empty"
+              ? `0 · ${t("empty")}`
+              : t(s.state);
+      return `<div class="source-pill" data-state="${s.state}">
+        <strong>${escapeHtml(s.name)}</strong>
+        <span class="source-state"><span class="source-dot" aria-hidden="true"></span>${escapeHtml(String(detail))}</span>
+      </div>`;
     })
     .join("");
 }
@@ -557,8 +616,19 @@ async function runSearch(overrideFilters) {
   activeView = "results";
   $("#tab-results")?.classList.add("active");
   $("#tab-interests")?.classList.remove("active");
-  $("#btn-search").disabled = true;
-  $("#progress-wrap").hidden = false;
+  setSearchingUi(true);
+  renderProgress({
+    percent: 2,
+    done: 0,
+    total: ADAPTERS.filter((a) => !filters.sources || filters.sources.includes(a.id)).length || ADAPTERS.length,
+    etaMs: 0,
+    sources: Object.fromEntries(
+      ADAPTERS.filter((a) => !filters.sources || filters.sources.includes(a.id)).map((a) => [
+        a.id,
+        { id: a.id, name: a.name, state: "pending", count: 0, error: null, ms: 0 },
+      ])
+    ),
+  });
 
   try {
     const result = await searchJobs(filters, renderProgress, filters.sources);
@@ -568,6 +638,13 @@ async function runSearch(overrideFilters) {
       elapsedMs: result.elapsedMs,
       hacks: result.hacksApplied || [],
     };
+    renderProgress({
+      percent: 100,
+      done: Object.keys(result.sources || {}).length,
+      total: Object.keys(result.sources || {}).length,
+      etaMs: 0,
+      sources: result.sources,
+    });
     renderJobs(
       result.jobs,
       result.effectiveFilters || filters,
@@ -577,7 +654,7 @@ async function runSearch(overrideFilters) {
     $("#results-panel").scrollIntoView({ behavior: "smooth", block: "start" });
   } finally {
     searching = false;
-    $("#btn-search").disabled = false;
+    setSearchingUi(false);
   }
 }
 
