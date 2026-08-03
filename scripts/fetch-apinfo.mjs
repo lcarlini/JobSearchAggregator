@@ -14,22 +14,40 @@ const outPath = path.join(root, "data", "apinfo-jobs.json");
 const UA =
   "Mozilla/5.0 (compatible; JobSearchAggregator/1.0; +https://github.com/lcarlini/JobSearchAggregator)";
 
-function stripHtml(s) {
-  let out = String(s || "")
-    .replace(/<[^>]+>/g, " ")
+function decodeEntities(s) {
+  return String(s || "")
     .replace(/&nbsp;/gi, " ")
     .replace(/&amp;/gi, "&")
     .replace(/&lt;/gi, "<")
     .replace(/&gt;/gi, ">")
     .replace(/&quot;/gi, '"')
+    .replace(/&#(\d+);/g, (_, n) => String.fromCharCode(Number(n)))
+    .replace(/&#x([0-9a-f]+);/gi, (_, h) => String.fromCharCode(parseInt(h, 16)));
+}
+
+function stripHtml(s) {
+  let out = decodeEntities(String(s || "").replace(/<[^>]+>/g, " ")).replace(/\s+/g, " ").trim();
+  // ApInfo highlight wraps each letter → "S ê n i o r" — collapse single-char runs
+  out = out.replace(/(?<!\S)(?:[\p{L}\p{N}.#+-]\s+){4,}[\p{L}\p{N}.#+-](?!\S)/gu, (run) =>
+    run.replace(/\s+/g, "")
+  );
+  // After full-title letter-spacing collapse: "AnalistaGovernançaSênior" → spaced words
+  out = out
+    .replace(/([a-zà-ú]{2,})([A-ZÁ-Ú])/g, "$1 $2")
+    .replace(/\(\s*([a-zA-Z])\s*\)/g, "($1)")
     .replace(/\s+/g, " ")
     .trim();
-  // ApInfo highlight wraps each letter → "D e v . N E T" — collapse those runs
-  const parts = out.split(/\s+/);
-  if (parts.length >= 6 && parts.filter((p) => p.length === 1).length >= parts.length * 0.6) {
-    out = parts.join("");
-  }
   return out;
+}
+
+/** ApInfo serves ISO-8859-1; fetch().text() would corrupt accents as UTF-8. */
+async function readHtml(res) {
+  const buf = Buffer.from(await res.arrayBuffer());
+  const latin1 = buf.toString("latin1");
+  // Prefer declared charset when present
+  const meta = latin1.match(/charset\s*=\s*["']?([\w-]+)/i)?.[1]?.toLowerCase();
+  if (meta === "utf-8" || meta === "utf8") return buf.toString("utf8");
+  return latin1;
 }
 
 function parseBrDate(s) {
@@ -122,7 +140,7 @@ async function postList(fields) {
     body: new URLSearchParams(fields),
   });
   if (!res.ok) throw new Error(`ApInfo HTTP ${res.status}`);
-  return res.text();
+  return readHtml(res);
 }
 
 function pageCount(html) {
@@ -188,7 +206,7 @@ console.log("Fetching ApInfo…");
 try {
   const home = await fetch("https://www.apinfo.com/", {
     headers: { "User-Agent": UA },
-  }).then((r) => r.text());
+  }).then((r) => readHtml(r));
   const featured = [...home.matchAll(/list44\.cfm\?codvaga=(\d+)[^"']*["'][^>]*>([\s\S]*?)<\/a>/gi)].map(
     (m) => ({
       id: `apinfo:${m[1]}`,

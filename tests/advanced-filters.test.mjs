@@ -90,11 +90,13 @@ describe("advanced filters", () => {
     assert.ok((sorted[0].salaryInfo?.min || 0) >= (sorted[1].salaryInfo?.min || 0));
   });
 
-  it("market presets set currency/geo", () => {
+  it("market presets set currency/geo without hard Europe traps", () => {
     assert.equal(marketPreset("brazil").currency, "BRL");
     assert.equal(marketPreset("us").currency, "USD");
-    assert.equal(marketPreset("europe").timezone, "CET");
-    assert.equal(marketPreset("australia").timezone, "AEST");
+    assert.equal(marketPreset("europe").geo, "europe");
+    assert.equal(marketPreset("europe").engagement, "any");
+    assert.equal(marketPreset("europe").language, "any");
+    assert.equal(marketPreset("australia").geo, "au-br");
     assert.equal(marketPreset("worldwide").remotePolicy, "any");
   });
 

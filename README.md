@@ -52,7 +52,9 @@ Open `http://localhost:4173`.
 |-------|------|
 | Live CORS APIs | Browser fetches in parallel via `Promise.allSettled` |
 | Static ATS JSON | Action runs `scripts/fetch-ats.mjs` (Greenhouse/Lever/Ashby) — avoids browser CORS |
-| ApInfo (BR) | Action scrapes `list4.cfm` → `data/apinfo-jobs.json`; LinkedIn/Indeed are deep-links (no public API) |
+| ApInfo (BR) | Action scrapes `list4.cfm` → `data/apinfo-jobs.json` |
+| Himalayas / The Muse | Browser CORS fails → Action caches `data/himalayas-jobs.json` + `data/themuse-jobs.json` |
+| LinkedIn / Indeed / Google | Deep-links only (no public job API; scraping blocked) |
 | Deep-links | Official search URLs with the same filters; LinkedIn/Indeed/Google block scraping |
 
 ```

@@ -28,14 +28,15 @@ describe("apply search hacks", () => {
     assert.ok(external.some((e) => e.id === "li-2h" || e.url.includes("f_TPR=r7200")));
   });
 
-  it("does nothing destructive when hacks off", () => {
-    const { applied, filters } = applySearchHacks({
+  it("does nothing destructive when hacks off (still exposes LinkedIn)", () => {
+    const { applied, filters, external } = applySearchHacks({
       keywords: ".NET",
       applyHacks: false,
       titleExclude: "",
     });
     assert.deepEqual(applied, []);
     assert.equal(filters.keywords, ".NET");
+    assert.ok(external.some((e) => /linkedin/i.test(e.id + e.name)));
   });
 
   it("scores BR remote jobs higher", () => {

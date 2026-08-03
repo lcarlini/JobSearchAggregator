@@ -14,7 +14,10 @@ export function normalizeHimalayas(payload) {
       company: j.companyName || j.company || "Unknown",
       url: j.applicationLink || j.url || `https://himalayas.app/jobs/${j.slug || ""}`,
       description: j.description || j.excerpt || "",
-      location: (j.locationRestrictions || []).join(", ") || j.timezoneRestrictions?.join(", ") || "Worldwide",
+      location:
+        (j.locationRestrictions || []).join(", ") ||
+        j.timezoneRestrictions?.join(", ") ||
+        "Worldwide",
       tags: j.categories || j.skills || [],
       salary:
         j.minSalary || j.maxSalary
@@ -26,9 +29,28 @@ export function normalizeHimalayas(payload) {
   );
 }
 
-export async function fetchJobs({ signal, limit = 100 } = {}) {
-  const url = `https://himalayas.app/jobs/api?limit=${limit}`;
-  const res = await fetch(url, { headers: { Accept: "application/json" }, signal });
-  if (!res.ok) throw new Error(`Himalayas HTTP ${res.status}`);
+async function fetchStatic({ signal } = {}) {
+  const res = await fetch("./data/himalayas-jobs.json", {
+    headers: { Accept: "application/json" },
+    signal,
+  });
+  if (!res.ok) throw new Error(`Himalayas static HTTP ${res.status}`);
   return normalizeHimalayas(await res.json());
+}
+
+export async function fetchJobs({ signal, limit = 100 } = {}) {
+  // Live API often fails CORS in the browser — fall back to Action-refreshed JSON
+  try {
+    const url = `https://himalayas.app/jobs/api?limit=${limit}`;
+    const res = await fetch(url, {
+      headers: { Accept: "application/json" },
+      signal,
+    });
+    if (!res.ok) throw new Error(`Himalayas HTTP ${res.status}`);
+    const jobs = normalizeHimalayas(await res.json());
+    if (jobs.length) return jobs;
+  } catch {
+    /* use static */
+  }
+  return fetchStatic({ signal });
 }

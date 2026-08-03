@@ -68,13 +68,40 @@ function mergeCsv(...parts) {
  * @param {object} filters
  * @returns {{ filters: object, applied: string[], apiQueries: object, external: object[], expandedKeywords: string[] }}
  */
+function buildExternalLinks(filters, recipes = []) {
+  const deep = buildDeepLinks(filters);
+  const external = [];
+  const push = (item) => {
+    if (!item?.url || external.some((e) => e.url === item.url || e.id === item.id)) return;
+    external.push(item);
+  };
+
+  // LinkedIn first — highest-value board we cannot scrape
+  for (const id of ["linkedin", "linkedin-br"]) {
+    const d = deep.find((x) => x.id === id);
+    if (d) push({ id: d.id, name: d.name, titleKey: null, url: d.url, query: d.description });
+  }
+  for (const id of ["li-2h", "li-boolean-jobs", "g-linkedin-jobs"]) {
+    const r = recipes.find((x) => x.id === id);
+    if (r) push({ id: r.id, name: r.platform, titleKey: r.titleKey, url: r.url, query: r.query });
+  }
+  for (const id of ["indeed", "apinfo", "googlejobs", "remotar", "g-indeed-br", "indeed-br", "apinfo-direct"]) {
+    const d = deep.find((x) => x.id === id);
+    if (d) push({ id: d.id, name: d.name, titleKey: null, url: d.url, query: d.description });
+    const r = recipes.find((x) => x.id === id);
+    if (r) push({ id: r.id, name: r.platform, titleKey: r.titleKey, url: r.url, query: r.query });
+  }
+  return external;
+}
+
 export function applySearchHacks(filters = {}) {
   if (filters.applyHacks === false) {
     return {
       filters: { ...filters },
       applied: [],
       apiQueries: { remotiveSearches: [], remotiveCategories: ["software-dev"], jobicyTags: [] },
-      external: [],
+      // Always surface LinkedIn/Indeed even with hacks off — they are not scrapable
+      external: buildExternalLinks(filters, []),
       expandedKeywords: splitTerms(filters.keywords),
     };
   }
@@ -168,31 +195,9 @@ export function applySearchHacks(filters = {}) {
 
   applied.push("multi-api-query");
 
-  // 8) External hack URLs (LinkedIn 2h, Google site:, Indeed, ApInfo…)
+  // 8) External boards — LinkedIn first, then Indeed/ApInfo/Google recipes
   const recipes = buildSearchRecipes(enhanced);
-  const deep = buildDeepLinks(enhanced);
-  const priorityIds = [
-    "li-2h",
-    "li-boolean-jobs",
-    "g-linkedin-jobs",
-    "g-apinfo",
-    "g-indeed-br",
-    "indeed-br",
-    "apinfo-direct",
-    "g-remoteok",
-  ];
-  const external = [];
-  for (const id of priorityIds) {
-    const r = recipes.find((x) => x.id === id);
-    if (r) external.push({ id: r.id, name: r.platform, titleKey: r.titleKey, url: r.url, query: r.query });
-  }
-  // Also top deep links
-  for (const id of ["linkedin", "indeed", "googlejobs", "apinfo"]) {
-    const d = deep.find((x) => x.id === id);
-    if (d && !external.some((e) => e.url === d.url)) {
-      external.push({ id: d.id, name: d.name, titleKey: null, url: d.url, query: d.description });
-    }
-  }
+  const external = buildExternalLinks(enhanced, recipes);
   applied.push("external-hack-links");
 
   return {

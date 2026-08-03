@@ -9,6 +9,7 @@ on:
       - "data/companies.json"
       - "scripts/fetch-ats.mjs"
       - "scripts/fetch-apinfo.mjs"
+      - "scripts/fetch-live-apis.mjs"
 
 permissions:
   contents: write
@@ -21,7 +22,7 @@ jobs:
 
       - uses: actions/setup-node@v4
         with:
-          node-version: "20"
+          node-version: "22"
 
       - name: Fetch ATS boards
         run: node scripts/fetch-ats.mjs
@@ -30,14 +31,18 @@ jobs:
         run: node scripts/fetch-apinfo.mjs
         continue-on-error: true
 
+      - name: Fetch CORS-blocked live APIs (Himalayas, The Muse)
+        run: node scripts/fetch-live-apis.mjs
+        continue-on-error: true
+
       - name: Commit updated jobs
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/ats-jobs.json data/apinfo-jobs.json
+          git add data/ats-jobs.json data/apinfo-jobs.json data/himalayas-jobs.json data/themuse-jobs.json
           if git diff --staged --quiet; then
             echo "No job cache changes"
           else
-            git commit -m "chore: refresh ATS + ApInfo job cache"
+            git commit -m "chore: refresh job caches (ATS, ApInfo, Himalayas, Muse)"
             git push
           fi

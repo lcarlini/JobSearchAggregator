@@ -143,6 +143,8 @@ function matchRemotePolicy(job, policy) {
 
 function matchLanguage(job, language) {
   if (!language || language === "any") return true;
+  // Soft: unlabeled jobs pass unless strict eligibility is on
+  if (job.language === "unknown") return !filters.strictEligibility;
   return job.language === language;
 }
 
@@ -409,7 +411,8 @@ export function defaultFilters() {
     company: "",
     hiddenCompanies: "",
     industry: "",
-    recency: "30d",
+    // any = don't drop dated ATS; sort still prefers recent
+    recency: "any",
     geo: "latam",
     country: "any",
     state: "",
@@ -458,38 +461,41 @@ export function marketPreset(market) {
       engagement: "any",
       // Soft boost only — hard brazilOk drops most international remotes
       brazilOk: false,
-      recency: "30d",
+      recency: "any",
     },
     us: {
       market: "us",
       geo: "us",
-      country: "US",
+      country: "any",
       workplace: "remote",
       currency: "USD",
-      language: "en",
-      englishLevel: "professional",
+      language: "any",
+      englishLevel: "any",
       sponsorship: "any",
       engagement: "any",
+      recency: "any",
     },
     europe: {
       market: "europe",
       geo: "europe",
       country: "any",
       workplace: "remote",
-      currency: "EUR",
-      timezone: "CET",
-      language: "en",
-      engagement: "contractor",
+      currency: "any",
+      timezone: "any",
+      language: "any",
+      engagement: "any",
+      recency: "any",
     },
     australia: {
       market: "australia",
       geo: "au-br",
-      country: "AU",
+      country: "any",
       workplace: "remote",
-      currency: "AUD",
-      timezone: "AEST",
-      language: "en",
-      englishLevel: "fluent",
+      currency: "any",
+      timezone: "any",
+      language: "any",
+      englishLevel: "any",
+      recency: "any",
     },
     worldwide: {
       market: "worldwide",
@@ -499,7 +505,7 @@ export function marketPreset(market) {
       remotePolicy: "any",
       currency: "USD",
       brazilOk: false,
-      recency: "30d",
+      recency: "any",
     },
     latam: {
       market: "latam",
@@ -509,7 +515,7 @@ export function marketPreset(market) {
       // boost via hacks/ranking — do NOT hard-filter or we drop most remote boards
       brazilOk: false,
       currency: "USD",
-      recency: "30d",
+      recency: "any",
     },
   };
   return { ...base, ...(presets[market] || presets.latam) };

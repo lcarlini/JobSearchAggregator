@@ -1,7 +1,6 @@
 #!/usr/bin/env node
 /**
- * Manual validation: fetch live APIs + static caches, apply the same filters
- * the UI uses, and print counts + LinkedIn/ApInfo deep-links.
+ * Full search-engine simulation: live APIs + static caches + filter funnel + deeplinks.
  */
 import fs from "node:fs";
 import path from "node:path";
@@ -14,116 +13,161 @@ import { normalizeStaticAts } from "../assets/js/sources/static-ats.js";
 import { normalizeApinfo } from "../assets/js/sources/apinfo.js";
 import { normalizeRemoteOk } from "../assets/js/sources/remoteok.js";
 import { normalizeRemotive } from "../assets/js/sources/remotive.js";
+import { normalizeArbeitnow } from "../assets/js/sources/arbeitnow.js";
+import { normalizeJobicy } from "../assets/js/sources/jobicy.js";
+import { normalizeHimalayas } from "../assets/js/sources/himalayas.js";
+import { normalizeTheMuse } from "../assets/js/sources/themuse.js";
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
+
+function loadJson(rel) {
+  const p = path.join(root, rel);
+  if (!fs.existsSync(p)) return null;
+  return JSON.parse(fs.readFileSync(p, "utf8"));
+}
 
 async function tryFetch(name, fn) {
   const t0 = Date.now();
   try {
     const jobs = await fn();
     console.log(`  ✓ ${name}: ${jobs.length} (${Date.now() - t0}ms)`);
-    return jobs;
+    return { name, jobs, ok: true };
   } catch (e) {
     console.log(`  ✗ ${name}: ${e.message}`);
-    return [];
+    return { name, jobs: [], ok: false, error: e.message };
   }
 }
 
-const ats = normalizeStaticAts(
-  JSON.parse(fs.readFileSync(path.join(root, "data/ats-jobs.json"), "utf8"))
-);
-console.log(`static ATS: ${ats.length}`);
-
-let apinfo = [];
-try {
-  apinfo = normalizeApinfo(
-    JSON.parse(fs.readFileSync(path.join(root, "data/apinfo-jobs.json"), "utf8"))
-  );
-  console.log(`ApInfo cache: ${apinfo.length}`);
-} catch {
-  console.log("ApInfo cache: missing");
+function bySource(jobs) {
+  const m = {};
+  for (const j of jobs) m[j.source] = (m[j.source] || 0) + 1;
+  return m;
 }
 
-console.log("\nLive APIs…");
-const live = [];
-live.push(
-  ...(await tryFetch("RemoteOK", async () => {
-    const r = await fetch("https://remoteok.com/api", {
-      headers: { "User-Agent": "JobSearchAggregator" },
-    });
-    const data = await r.json();
-    return normalizeRemoteOk(data);
-  }))
+function funnel(jobs, filters) {
+  const steps = [
+    ["start", {}],
+    ["keywords", { keywords: filters.keywords }],
+    ["recency", { keywords: filters.keywords, recency: filters.recency }],
+    ["workplace", { keywords: filters.keywords, recency: filters.recency, workplace: filters.workplace }],
+    ["geo", { keywords: filters.keywords, recency: filters.recency, workplace: filters.workplace, geo: filters.geo }],
+    ["full", filters],
+  ];
+  const out = [];
+  for (const [label, f] of steps) {
+    out.push([label, applyFilters(jobs, { ...defaultFilters(), keywords: "", recency: "any", workplace: "any", geo: "any", applyHacks: false, ...f }).length]);
+  }
+  return out;
+}
+
+console.log("=== Static caches ===");
+const ats = normalizeStaticAts(loadJson("data/ats-jobs.json") || { jobs: [] });
+const apinfo = normalizeApinfo(loadJson("data/apinfo-jobs.json") || { jobs: [] });
+const himaStatic = normalizeHimalayas(loadJson("data/himalayas-jobs.json") || { jobs: [] });
+const museStatic = normalizeTheMuse(loadJson("data/themuse-jobs.json") || { jobs: [] });
+console.log(`ATS ${ats.length} | ApInfo ${apinfo.length} | Himalayas JSON ${himaStatic.length} | Muse JSON ${museStatic.length}`);
+
+console.log("\n=== Live APIs (Node / no CORS) ===");
+const liveReports = [];
+liveReports.push(
+  await tryFetch("RemoteOK", async () =>
+    normalizeRemoteOk(
+      await fetch("https://remoteok.com/api", {
+        headers: { "User-Agent": "JobSearchAggregator" },
+      }).then((r) => r.json())
+    )
+  )
 );
-live.push(
-  ...(await tryFetch("Remotive", async () => {
-    const r = await fetch("https://remotive.com/api/remote-jobs?limit=100");
-    const data = await r.json();
-    return normalizeRemotive(data);
-  }))
+liveReports.push(
+  await tryFetch("Remotive", async () =>
+    normalizeRemotive(
+      await fetch("https://remotive.com/api/remote-jobs?limit=100").then((r) => r.json())
+    )
+  )
+);
+liveReports.push(
+  await tryFetch("Arbeitnow", async () =>
+    normalizeArbeitnow(
+      await fetch("https://www.arbeitnow.com/api/job-board-api").then((r) => r.json())
+    )
+  )
+);
+liveReports.push(
+  await tryFetch("Jobicy", async () =>
+    normalizeJobicy(
+      await fetch("https://jobicy.com/api/v2/remote-jobs?count=50").then((r) => r.json())
+    )
+  )
+);
+liveReports.push(
+  await tryFetch("Himalayas live", async () =>
+    normalizeHimalayas(
+      await fetch("https://himalayas.app/jobs/api?limit=100").then((r) => r.json())
+    )
+  )
+);
+liveReports.push(
+  await tryFetch("The Muse live", async () =>
+    normalizeTheMuse(
+      await fetch(
+        "https://www.themuse.com/api/public/jobs?category=Software%20Engineering&page=0"
+      ).then((r) => r.json())
+    )
+  )
 );
 
-const all = dedupeJobs([...ats, ...apinfo, ...live]);
-console.log(`\nPool after dedupe: ${all.length}`);
+const liveJobs = liveReports.flatMap((r) => r.jobs);
+const pool = dedupeJobs([
+  ...ats,
+  ...apinfo,
+  ...himaStatic,
+  ...museStatic,
+  ...liveJobs,
+]);
+console.log(`\nPool after dedupe: ${pool.length}`);
+console.log("by source:", bySource(pool));
 
 const scenarios = [
+  { name: "UI default LATAM", filters: { ...defaultFilters(), applyHacks: true } },
+  { name: "LATAM + .NET", filters: { ...marketPreset("latam"), keywords: ".NET", applyHacks: true } },
+  { name: "Brasil + .NET", filters: { ...marketPreset("brazil"), keywords: ".NET", applyHacks: true } },
+  { name: "Europe soft", filters: { ...marketPreset("europe"), keywords: ".NET, Java", applyHacks: true } },
+  { name: "US soft", filters: { ...marketPreset("us"), keywords: ".NET", applyHacks: true } },
+  { name: "Worldwide no keywords", filters: { ...marketPreset("worldwide"), keywords: "", applyHacks: true } },
   {
-    name: "UI default LATAM (soft)",
-    filters: { ...defaultFilters(), keywords: ".NET, C#", applyHacks: true },
-  },
-  {
-    name: "OLD broken (brazilOk + 3d + senior+)",
+    name: "Broken old UI",
     filters: {
       ...defaultFilters(),
       keywords: ".NET, C#",
-      geo: "latam",
-      workplace: "remote",
       brazilOk: true,
       recency: "3d",
       seniority: "senior+",
       applyHacks: false,
     },
   },
-  {
-    name: "LATAM market preset + .NET",
-    filters: { ...marketPreset("latam"), keywords: ".NET", applyHacks: true },
-  },
-  {
-    name: "Brasil + .NET",
-    filters: { ...marketPreset("brazil"), keywords: ".NET", applyHacks: true },
-  },
-  {
-    name: "Worldwide .NET",
-    filters: { ...marketPreset("worldwide"), keywords: ".NET", applyHacks: true },
-  },
 ];
 
+console.log("\n=== Scenarios ===");
 for (const s of scenarios) {
   const hacked = applySearchHacks(s.filters);
-  const out = applyFilters(all, hacked.filters);
-  const bySource = {};
-  for (const j of out) bySource[j.source] = (bySource[j.source] || 0) + 1;
-  console.log(`\n=== ${s.name} → ${out.length} jobs ===`);
-  console.log("  by source:", bySource);
-  console.log(
-    "  sample:",
-    out.slice(0, 5).map((j) => `${j.source}: ${j.title}`.slice(0, 80))
-  );
+  const out = applyFilters(pool, hacked.filters);
+  console.log(`\n${s.name} → ${out.length}`);
+  console.log("  sources:", bySource(out));
+  console.log("  external boards:", hacked.external.map((e) => e.name).slice(0, 6).join(", "));
+  if (s.name.includes("LATAM + .NET")) {
+    console.log("  funnel:", funnel(pool, hacked.filters).map(([k, v]) => `${k}=${v}`).join(" → "));
+  }
 }
 
-const liFilters = {
-  keywords: ".NET",
-  geo: "latam",
-  workplace: "remote",
-  recency: "24h",
-  applyHacks: true,
-};
-const links = buildDeepLinks(liFilters);
-const li = links.find((l) => l.id === "linkedin");
-const ap = links.find((l) => l.id === "apinfo");
-console.log("\n=== Deep-links (manual open) ===");
-console.log("LinkedIn:", li?.url);
-console.log("ApInfo:", ap?.url);
-console.log(
-  "\nCompare with user LinkedIn (24h .NET):\nhttps://www.linkedin.com/jobs/search/?keywords=.NET&f_TPR=r86400&f_WT=2"
+const li = buildDeepLinks({ keywords: ".NET", workplace: "remote", recency: "24h", geo: "latam" }).find(
+  (l) => l.id === "linkedin"
 );
+console.log("\n=== LinkedIn deeplink ===");
+console.log(li?.url);
+
+const liveOk = liveReports.filter((r) => r.ok).length;
+console.log(`\n=== Coverage summary ===`);
+console.log(`Live APIs OK: ${liveOk}/${liveReports.length}`);
+console.log(`Static fallbacks: Himalayas=${himaStatic.length}, Muse=${museStatic.length}`);
+console.log(`LinkedIn/Indeed: deeplink-only (expected)`);
+if (himaStatic.length === 0) console.log("WARN: run npm run fetch-live to populate Himalayas/Muse caches");
