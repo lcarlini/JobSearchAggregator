@@ -16,6 +16,8 @@
     "discover": "node scripts/discover-company-ats.mjs",
     "discover:fast": "node scripts/discover-company-ats.mjs --fast",
     "merge-companies": "node scripts/merge-companies.mjs",
+    "apply-aliases": "node scripts/apply-ats-aliases.mjs",
+    "expand-coverage": "node scripts/apply-ats-aliases.mjs && node scripts/discover-company-ats.mjs && node scripts/merge-companies.mjs",
     "build-linkedin-seed": "node scripts/build-linkedin-seed.mjs",
     "health": "node scripts/health-check-sources.mjs",
     "health:full": "node scripts/health-check-sources.mjs --deeplinks",

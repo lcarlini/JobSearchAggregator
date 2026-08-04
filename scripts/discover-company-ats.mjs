@@ -216,7 +216,7 @@ const existing = new Set([
   ...(companiesFile.workable || []),
 ].map((s) => String(s).toLowerCase()));
 
-const probeLimit = fast ? 80 : 180;
+const probeLimit = fast ? 80 : 400;
 const toProbe = employers
   .map((e) => ({ ...e, slug: e.slug || slugifyCompany(e.name) }))
   .filter((e) => e.slug && e.slug.length >= 3 && !existing.has(e.slug.toLowerCase()))

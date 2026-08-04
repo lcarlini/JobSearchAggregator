@@ -317,6 +317,10 @@ const dict = {
     sourcesDone: "fontes prontas",
     sourcesRunning: "em andamento",
     jobsSoFar: "vagas até agora",
+    boardsCached: "boards no cache",
+    coverageNote:
+      "A busca filtra o cache (centenas de boards ATS pré-baixados) + APIs ao vivo. Não consulta 900 sites a cada clique.",
+    loadingDetailCache: "Lendo cache de empresas + APIs públicas em paralelo",
     searchingOverlay: "Carregando resultados…",
     cacheHint: "Resultados e fontes ficam em cache local (~45 min) para não repetir downloads.",
     footerNote:
@@ -781,6 +785,10 @@ const dict = {
     sourcesDone: "sources ready",
     sourcesRunning: "running",
     jobsSoFar: "jobs so far",
+    boardsCached: "boards in cache",
+    coverageNote:
+      "Search filters the cache (hundreds of prefetched ATS boards) + live APIs. It does not hit 900 sites on every click.",
+    loadingDetailCache: "Reading company cache + public APIs in parallel",
     searchingOverlay: "Loading results…",
     cacheHint: "Results and sources are cached locally (~45 min) to avoid repeat downloads.",
     footerNote:

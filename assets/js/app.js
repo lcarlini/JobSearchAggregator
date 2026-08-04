@@ -836,10 +836,10 @@ function renderProgress(p) {
     ? `${t("done")} · ${p.done}/${p.total}`
     : `${t("loading")} · ${p.done}/${p.total}`;
   $("#progress-detail").textContent = done
-    ? t("doneDetail")
+    ? t("coverageNote")
     : runningNames.length
-      ? `${t("loadingDetail")} — ${runningNames.join(", ")}${running > runningNames.length ? "…" : ""}`
-      : t("loadingDetail");
+      ? `${t("loadingDetailCache")} — ${runningNames.join(", ")}${running > runningNames.length ? "…" : ""}`
+      : t("loadingDetailCache");
   $("#progress-eta").textContent = done
     ? ""
     : p.etaMs > 0
@@ -857,7 +857,7 @@ function renderProgress(p) {
 
   $("#source-status").innerHTML = sources
     .map((s) => {
-      const detail =
+      let detail =
         s.state === "error"
           ? s.error || t("error")
           : s.state === "ok"
@@ -865,6 +865,16 @@ function renderProgress(p) {
             : s.state === "empty"
               ? `0 · ${t("empty")}`
               : t(s.state);
+      if (s.state === "ok" && s.coverage?.mode === "cache" && s.coverage.boards) {
+        const parts = s.coverage.byAts
+          ? Object.entries(s.coverage.byAts)
+              .filter(([, n]) => n > 0)
+              .map(([k, n]) => `${k}:${n}`)
+              .slice(0, 5)
+              .join(" · ")
+          : "";
+        detail = `${s.count} ${t("jobsFound")} · ${s.coverage.boards} ${t("boardsCached")}${parts ? ` · ${parts}` : ""}`;
+      }
       return `<div class="source-pill" data-state="${s.state}">
         <strong>${escapeHtml(s.name)}</strong>
         <span class="source-state"><span class="source-dot" aria-hidden="true"></span>${escapeHtml(String(detail))}</span>

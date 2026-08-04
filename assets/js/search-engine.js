@@ -103,13 +103,21 @@ export async function searchJobs(filters, onProgress = () => {}, enabledIds = nu
         await cacheSet(cacheKey, jobs);
       }
       const ms = Date.now() - t0;
+      const coverage = jobs?.coverage || null;
+      let displayName = adapter.name;
+      if (adapter.id === "static-ats" && coverage?.boards) {
+        displayName = `Company ATS · ${coverage.boards} boards (cache)`;
+      } else if (adapter.id === "ashby") {
+        displayName = "Ashby (live sample)";
+      }
       sourceStatus[adapter.id] = {
         id: adapter.id,
-        name: adapter.name,
+        name: displayName,
         state: jobs.length ? "ok" : "empty",
         count: jobs.length,
         error: null,
         ms,
+        coverage,
       };
       completedWeight += adapter.weight || 1;
       emit();
