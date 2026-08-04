@@ -4,7 +4,7 @@
   "stats": {
     "bookmarkLinks": 297,
     "bookmarkCompanies": 200,
-    "total": 336,
+    "total": 311,
     "featured": 1,
     "linkedinMerged": 1
   },
@@ -812,20 +812,6 @@
       "linkFinalUrl": "https://www.ciadetalentos.com.br/wp-content/uploads/2022/03/jovens-.png"
     },
     {
-      "id": "co-app-clickaonline-com",
-      "name": "ClickA",
-      "url": "https://app.clickaonline.com/login",
-      "host": "app.clickaonline.com",
-      "region": "bookmark",
-      "type": "link",
-      "source": "empresas-bookmark",
-      "linkOk": false,
-      "linkStatus": 0,
-      "linkState": "fail",
-      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
-      "linkError": "fetch failed"
-    },
-    {
       "id": "co-amancay-com-br",
       "name": "Clientes » amancay",
       "url": "http://amancay.com.br/clientes/#sthash.XkJIcg2t.dpbs",
@@ -838,20 +824,6 @@
       "linkState": "fail",
       "linkCheckedAt": "2026-08-04T15:27:59.698Z",
       "linkError": "fetch failed"
-    },
-    {
-      "id": "co-grupoltm-visualstudio-com",
-      "name": "cloudLoyaltyAPITests",
-      "url": "https://grupoltm.visualstudio.com/Premiacao/_git/cloudLoyaltyAPITests",
-      "host": "grupoltm.visualstudio.com",
-      "region": "bookmark",
-      "type": "link",
-      "source": "empresas-bookmark",
-      "linkOk": true,
-      "linkStatus": 203,
-      "linkState": "ok",
-      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
-      "linkFinalUrl": "https://spsprodeus22.vssps.visualstudio.com/_signin?realm=grupoltm.visualstudio.com&reply_to=https%3A%2F%2Fgrupoltm.visualstudio.com%2FPremiacao%2F_git%2FcloudLoyaltyAPITests&redirect=1&protocol=cookieless&hid=2034acc1-e825-43ad-acf4-30b5f0639dfd&context=eyJodCI6MiwiaGlkIjoiZTUzNmQ2ZGUtZDA1Zi00OWM3LTg4YTgtMmJiNzA0YjQwZDI0IiwicXMiOnt9LCJyciI6IiIsInZoIjoiIiwiY3YiOiIiLCJjcyI6IiJ90"
     },
     {
       "id": "co-coachit-com-br",
@@ -923,34 +895,6 @@
       "linkState": "ok",
       "linkCheckedAt": "2026-08-04T15:27:59.698Z",
       "linkFinalUrl": "https://www.eurodicas.com.br/como-trabalhar-na-irlanda/"
-    },
-    {
-      "id": "co-grupoltmdev-atlassian-net",
-      "name": "Confluence",
-      "url": "https://grupoltmdev.atlassian.net/wiki",
-      "host": "grupoltmdev.atlassian.net",
-      "region": "bookmark",
-      "type": "link",
-      "source": "empresas-bookmark",
-      "linkOk": false,
-      "linkStatus": 404,
-      "linkState": "fail",
-      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
-      "linkFinalUrl": "https://grupoltmdev.atlassian.net/wiki"
-    },
-    {
-      "id": "co-ltmcontacorrenteprdwebjob01-azurewebsites-net",
-      "name": "ContaCorrenteHmlWebJobs Jobs",
-      "url": "http://ltmcontacorrenteprdwebjob01.azurewebsites.net/WebSite/Details/ContaCorrenteHmlWebJobs",
-      "host": "ltmcontacorrenteprdwebjob01.azurewebsites.net",
-      "region": "bookmark",
-      "type": "company",
-      "source": "empresas-bookmark",
-      "linkOk": false,
-      "linkStatus": 0,
-      "linkState": "fail",
-      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
-      "linkError": "fetch failed"
     },
     {
       "id": "co-benjaminhorn-io",
@@ -1396,20 +1340,6 @@
       "linkFinalUrl": "https://jobs.lever.co/envato-2"
     },
     {
-      "id": "co-grupoltm-my-sharepoint-com",
-      "name": "Equipe do Edson.xlsx",
-      "url": "https://grupoltm-my.sharepoint.com/personal/cezar_pereira_grupoltm_com_br/_layouts/15/WopiFrame2.aspx?sourcedoc=%7B44dde059-5e15-4286-b6a6-43015cd15fed%7D&action=edit&activeCell=%27Template%27!B2",
-      "host": "grupoltm-my.sharepoint.com",
-      "region": "bookmark",
-      "type": "link",
-      "source": "empresas-bookmark",
-      "linkOk": false,
-      "linkStatus": 404,
-      "linkState": "fail",
-      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
-      "linkFinalUrl": "https://grupoltm-my.sharepoint.com/personal/cezar_pereira_grupoltm_com_br/_layouts/15/WopiFrame2.aspx?sourcedoc=%7B44dde059-5e15-4286-b6a6-43015cd15fed%7D&action=edit&activeCell=%27Template%27!B2"
-    },
-    {
       "id": "co-esw-com",
       "name": "ESW is Hiring!",
       "url": "https://esw.com/careers/open-positions/?gh_jid=5441250002",
@@ -1830,34 +1760,6 @@
       "linkFinalUrl": "https://jobs.lever.co/gopuff"
     },
     {
-      "id": "co-logs-intranet",
-      "name": "Graylog Web Interface",
-      "url": "http://logs.intranet/",
-      "host": "logs.intranet",
-      "region": "bookmark",
-      "type": "link",
-      "source": "empresas-bookmark",
-      "linkOk": false,
-      "linkStatus": 0,
-      "linkState": "fail",
-      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
-      "linkError": "fetch failed"
-    },
-    {
-      "id": "co-prdlogsrv-grupoltm-com-br",
-      "name": "Graylog Web Interface",
-      "url": "http://prdlogsrv.grupoltm.com.br:9000/search",
-      "host": "prdlogsrv.grupoltm.com.br",
-      "region": "bookmark",
-      "type": "link",
-      "source": "empresas-bookmark",
-      "linkOk": false,
-      "linkStatus": 0,
-      "linkState": "fail",
-      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
-      "linkError": "timeout"
-    },
-    {
       "id": "co-groups-google-com",
       "name": "Grupos do Google",
       "url": "https://groups.google.com/forum/#!forum/it-irlanda-br",
@@ -2005,34 +1907,6 @@
       "linkError": "timeout"
     },
     {
-      "id": "co-onedrive-live-com",
-      "name": "Horas_LTM",
-      "url": "https://onedrive.live.com/edit.aspx?cid=adaf55136d994ed0&page=view&resid=ADAF55136D994ED0!102671&parId=ADAF55136D994ED0!102668&app=Excel",
-      "host": "onedrive.live.com",
-      "region": "bookmark",
-      "type": "link",
-      "source": "empresas-bookmark",
-      "linkOk": false,
-      "linkStatus": 404,
-      "linkState": "fail",
-      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
-      "linkFinalUrl": "https://onedrive.live.com/edit.aspx?cid=adaf55136d994ed0&page=view&resid=ADAF55136D994ED0!102671&parId=ADAF55136D994ED0!102668&app=Excel"
-    },
-    {
-      "id": "co-grupoltm-sharepoint-com",
-      "name": "Horas_SharePoint",
-      "url": "https://grupoltm.sharepoint.com/premiacao/_layouts/15/WopiFrame.aspx?docid=1cafd80840258441b92d68ae8c5b90854&authkey=Ad0ltG7mLmINzTguEySk1SQ&action=view",
-      "host": "grupoltm.sharepoint.com",
-      "region": "bookmark",
-      "type": "link",
-      "source": "empresas-bookmark",
-      "linkOk": true,
-      "linkStatus": 200,
-      "linkState": "ok",
-      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
-      "linkFinalUrl": "https://grupoltm.sharepoint.com/premiacao/_layouts/15/doc.aspx?docid=1cafd80840258441b92d68ae8c5b90854&authkey=Ad0ltG7mLmINzTguEySk1SQ&action=view"
-    },
-    {
       "id": "co-medium-com",
       "name": "How to write a cover letter as a software developer (cover letter included)",
       "url": "https://medium.com/@developerdavo/how-to-write-a-cover-letter-as-a-software-developer-cover-letter-and-cv-included-2190e0d23e97",
@@ -2059,34 +1933,6 @@
       "linkState": "ok",
       "linkCheckedAt": "2026-08-04T15:27:59.698Z",
       "linkFinalUrl": "https://www.bamboohr.com/"
-    },
-    {
-      "id": "co-eur02-safelinks-protection-outlook-com",
-      "name": "https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapps.apple.com",
-      "url": "https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapps.apple.com%2Fbr%2Fapp%2Fsulam%25C3%25A9rica-sa%25C3%25BAde%2Fid492556516&data=04%7C01%7C%7Cd1d56944b75c406e45cd08d87d036fad%7C55a2bc67aec14ad29a9c5b2457b91dcd%7C0%7C0%7C637396800992855617%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=kr2kXYsfwhlaysctII0CiGDo9tEEsn4Xt%2FgLvgLjd1I%3D&reserved=0",
-      "host": "eur02.safelinks.protection.outlook.com",
-      "region": "bookmark",
-      "type": "link",
-      "source": "empresas-bookmark",
-      "linkOk": false,
-      "linkStatus": 500,
-      "linkState": "fail",
-      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
-      "linkFinalUrl": "https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapps.apple.com%2Fbr%2Fapp%2Fsulam%25C3%25A9rica-sa%25C3%25BAde%2Fid492556516&data=04%7C01%7C%7Cd1d56944b75c406e45cd08d87d036fad%7C55a2bc67aec14ad29a9c5b2457b91dcd%7C0%7C0%7C637396800992855617%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=kr2kXYsfwhlaysctII0CiGDo9tEEsn4Xt%2FgLvgLjd1I%3D&reserved=0"
-    },
-    {
-      "id": "co-hml-marketplace-webpremios-com-br",
-      "name": "https://hml",
-      "url": "https://hml-marketplace.webpremios.com.br/#/login",
-      "host": "hml-marketplace.webpremios.com.br",
-      "region": "bookmark",
-      "type": "link",
-      "source": "empresas-bookmark",
-      "linkOk": false,
-      "linkStatus": 0,
-      "linkState": "fail",
-      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
-      "linkError": "fetch failed"
     },
     {
       "id": "co-carriere-info-fr",
@@ -2231,48 +2077,6 @@
       "linkState": "ok",
       "linkCheckedAt": "2026-08-04T15:27:59.698Z",
       "linkFinalUrl": "https://www.google.com/search?q=Integer%20Consulting%20remote%20jobs"
-    },
-    {
-      "id": "co-intranet-deal-com-br",
-      "name": "Intranet",
-      "url": "http://intranet.deal.com.br/SitePages/HomeIntranet.aspx",
-      "host": "intranet.deal.com.br",
-      "region": "bookmark",
-      "type": "link",
-      "source": "empresas-bookmark",
-      "linkOk": false,
-      "linkStatus": 404,
-      "linkState": "fail",
-      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
-      "linkFinalUrl": "http://intranet.deal.com.br/SitePages/HomeIntranet.aspx"
-    },
-    {
-      "id": "co-intranet-grupoltm-com-br",
-      "name": "Intranet",
-      "url": "https://intranet.grupoltm.com.br/wp-login.php",
-      "host": "intranet.grupoltm.com.br",
-      "region": "bookmark",
-      "type": "link",
-      "source": "empresas-bookmark",
-      "linkOk": false,
-      "linkStatus": 0,
-      "linkState": "fail",
-      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
-      "linkError": "timeout"
-    },
-    {
-      "id": "co-reembolso-grupoltm-com-br",
-      "name": "Intranet Grupo LTM ‹ Fazer login",
-      "url": "https://reembolso.grupoltm.com.br/wp-login.php",
-      "host": "reembolso.grupoltm.com.br",
-      "region": "bookmark",
-      "type": "link",
-      "source": "empresas-bookmark",
-      "linkOk": false,
-      "linkStatus": 0,
-      "linkState": "fail",
-      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
-      "linkError": "fetch failed"
     },
     {
       "id": "co-newzealandnow-govt-nz",
@@ -2704,34 +2508,6 @@
       "linkError": "fetch failed"
     },
     {
-      "id": "co-azulivepainelhml-azurewebsites-net",
-      "name": "Live",
-      "url": "http://azulivepainelhml.azurewebsites.net/External/#/",
-      "host": "azulivepainelhml.azurewebsites.net",
-      "region": "bookmark",
-      "type": "link",
-      "source": "empresas-bookmark",
-      "linkOk": false,
-      "linkStatus": 0,
-      "linkState": "fail",
-      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
-      "linkError": "fetch failed"
-    },
-    {
-      "id": "co-azulivepainelhml01-azurewebsites-net",
-      "name": "LIVE",
-      "url": "https://azulivepainelhml01.azurewebsites.net/External/#/",
-      "host": "azulivepainelhml01.azurewebsites.net",
-      "region": "bookmark",
-      "type": "link",
-      "source": "empresas-bookmark",
-      "linkOk": false,
-      "linkStatus": 0,
-      "linkState": "fail",
-      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
-      "linkError": "fetch failed"
-    },
-    {
       "id": "co-solasit-ie",
       "name": "Live Jobs",
       "url": "http://www.solasit.ie/jobs/",
@@ -2744,20 +2520,6 @@
       "linkState": "ok",
       "linkCheckedAt": "2026-08-04T15:27:59.698Z",
       "linkFinalUrl": "http://www.solasit.ie/jobs/"
-    },
-    {
-      "id": "co-ltmh-mlh-api-cloudapp-net",
-      "name": "ltmh",
-      "url": "http://ltmh-mlh-api.cloudapp.net/v1/api/tests/token",
-      "host": "ltmh-mlh-api.cloudapp.net",
-      "region": "bookmark",
-      "type": "link",
-      "source": "empresas-bookmark",
-      "linkOk": false,
-      "linkStatus": 0,
-      "linkState": "fail",
-      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
-      "linkError": "fetch failed"
     },
     {
       "id": "co-vagas-byintera-com",
@@ -3631,34 +3393,6 @@
       "linkError": "fetch failed"
     },
     {
-      "id": "co-grupoltm-service-now-com",
-      "name": "ServiceDesk",
-      "url": "https://grupoltm.service-now.com/navpage.do",
-      "host": "grupoltm.service-now.com",
-      "region": "bookmark",
-      "type": "link",
-      "source": "empresas-bookmark",
-      "linkOk": true,
-      "linkStatus": 200,
-      "linkState": "ok",
-      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
-      "linkFinalUrl": "https://grupoltm.service-now.com/navpage.do"
-    },
-    {
-      "id": "co-grupoltmqa-service-now-com",
-      "name": "ServiceNow HML",
-      "url": "https://grupoltmqa.service-now.com/",
-      "host": "grupoltmqa.service-now.com",
-      "region": "bookmark",
-      "type": "link",
-      "source": "empresas-bookmark",
-      "linkOk": false,
-      "linkStatus": 0,
-      "linkState": "fail",
-      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
-      "linkError": "fetch failed"
-    },
-    {
       "id": "board-sherbornetalentsolutions",
       "name": "Sherborne Talent Solutions",
       "url": "https://www.google.com/search?q=Sherborne%20Talent%20Solutions%20remote%20jobs",
@@ -3757,34 +3491,6 @@
       "linkState": "fail",
       "linkCheckedAt": "2026-08-04T15:27:59.698Z",
       "linkFinalUrl": "https://welovesalt.com/jobs/job-industry/software-engineering/page/2/"
-    },
-    {
-      "id": "co-sonarqube-grupoltm-com-br",
-      "name": "SonarQube",
-      "url": "https://sonarqube.grupoltm.com.br/",
-      "host": "sonarqube.grupoltm.com.br",
-      "region": "bookmark",
-      "type": "link",
-      "source": "empresas-bookmark",
-      "linkOk": false,
-      "linkStatus": 0,
-      "linkState": "fail",
-      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
-      "linkError": "timeout"
-    },
-    {
-      "id": "co-ltmh-mkp-sonarcoreafapi-dev-azurewebsites-net",
-      "name": "SonarSwagger",
-      "url": "http://ltmh-mkp-sonarcoreafapi-dev.azurewebsites.net/swagger/ui/index",
-      "host": "ltmh-mkp-sonarcoreafapi-dev.azurewebsites.net",
-      "region": "bookmark",
-      "type": "link",
-      "source": "empresas-bookmark",
-      "linkOk": false,
-      "linkStatus": 0,
-      "linkState": "fail",
-      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
-      "linkError": "fetch failed"
     },
     {
       "id": "co-sorocabati-com-br",
@@ -4535,20 +4241,6 @@
       "linkFinalUrl": "https://exame.com/invest/minhas-financas/voltei-a-morar-no-brasil-neste-ano-como-declarar-o-ir/"
     },
     {
-      "id": "co-login-microsoftonline-com",
-      "name": "VSTS",
-      "url": "https://login.microsoftonline.com/16904e7d-c4aa-4f87-b946-bd34d60a4237/oauth2/authorize?client_id=499b84ac-1321-427f-aa17-267ca6975798&site_id=501454&response_mode=form_post&response_type=code+id_token&redirect_uri=https%3A%2F%2Fapp.vssps.visualstudio.com%2F_signedin&nonce=d18f48f6-78fa-47ce-9937-6ed38a1135d5&state=realm%3Dgrupoltm.visualstudio.com%26reply_to%3Dhttps%253A%252F%252Fgrupoltm.visualstudio.com%252F%26ht%3D2%26nonce%3Dd18f48f6-78fa-47ce-9937-6ed38a1135d5&resource=https%3A%2F%2Fmanagement.core.windows.net%2F&wsucxt=1",
-      "host": "login.microsoftonline.com",
-      "region": "bookmark",
-      "type": "link",
-      "source": "empresas-bookmark",
-      "linkOk": true,
-      "linkStatus": 200,
-      "linkState": "ok",
-      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
-      "linkFinalUrl": "https://login.microsoftonline.com/16904e7d-c4aa-4f87-b946-bd34d60a4237/oauth2/authorize?client_id=499b84ac-1321-427f-aa17-267ca6975798&site_id=501454&response_mode=form_post&response_type=code+id_token&redirect_uri=https%3A%2F%2Fapp.vssps.visualstudio.com%2F_signedin&nonce=d18f48f6-78fa-47ce-9937-6ed38a1135d5&state=realm%3Dgrupoltm.visualstudio.com%26reply_to%3Dhttps%253A%252F%252Fgrupoltm.visualstudio.com%252F%26ht%3D2%26nonce%3Dd18f48f6-78fa-47ce-9937-6ed38a1135d5&resource=https%3A%2F%2Fmanagement.core.windows.net%2F&wsucxt=1"
-    },
-    {
       "id": "co-app-vulpi-com-br",
       "name": "Vulpi",
       "url": "https://app.vulpi.com.br/jobs",
@@ -4575,20 +4267,6 @@
       "linkState": "ok",
       "linkCheckedAt": "2026-08-04T15:27:59.698Z",
       "linkFinalUrl": "https://www.bbx.de/grossnet-wage-calculator-germany/"
-    },
-    {
-      "id": "co-downsub-com",
-      "name": "Waiting",
-      "url": "https://downsub.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DXecsE5-k_0s%26ab_channel%3DLeandroCarliniMingorance",
-      "host": "downsub.com",
-      "region": "bookmark",
-      "type": "link",
-      "source": "empresas-bookmark",
-      "linkOk": true,
-      "linkStatus": 200,
-      "linkState": "ok",
-      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
-      "linkFinalUrl": "https://downsub.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DXecsE5-k_0s%26ab_channel%3DLeandroCarliniMingorance"
     },
     {
       "id": "co-weworkremotely-com",
@@ -4618,34 +4296,6 @@
       "linkState": "ok",
       "linkCheckedAt": "2026-08-04T15:27:59.698Z",
       "linkFinalUrl": "https://www.google.com/search?q=We%20Work%20Remotely%20remote%20jobs"
-    },
-    {
-      "id": "co-webmail-grupoltm-com-br",
-      "name": "WebMail",
-      "url": "http://webmail.grupoltm.com.br/",
-      "host": "webmail.grupoltm.com.br",
-      "region": "bookmark",
-      "type": "link",
-      "source": "empresas-bookmark",
-      "linkOk": false,
-      "linkStatus": 0,
-      "linkState": "fail",
-      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
-      "linkError": "fetch failed"
-    },
-    {
-      "id": "co-azu-hml-ltmlive-azurewebsites-net",
-      "name": "WebPremios",
-      "url": "http://azu-hml-ltmlive.azurewebsites.net/",
-      "host": "azu-hml-ltmlive.azurewebsites.net",
-      "region": "bookmark",
-      "type": "link",
-      "source": "empresas-bookmark",
-      "linkOk": false,
-      "linkStatus": 0,
-      "linkState": "fail",
-      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
-      "linkError": "fetch failed"
     },
     {
       "id": "co-wellfound-com",
@@ -4865,8 +4515,8 @@
   ],
   "linkHealth": {
     "checkedAt": "2026-08-04T15:27:59.698Z",
-    "total": 337,
-    "ok": 226,
-    "fail": 111
+    "total": 312,
+    "ok": 221,
+    "fail": 91
   }
 }

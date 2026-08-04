@@ -79,10 +79,34 @@ const skipHosts = new Set([
   "web.telegram.org",
 ]);
 
+/** Private / employer-internal hosts — never publish from bookmarks */
+const skipHostPatterns = [
+  /grupoltm/i,
+  /sharepoint\.com$/i,
+  /azurewebsites\.net$/i,
+  /^intranet\./i,
+  /^webmail\./i,
+  /sonarqube\./i,
+  /service-now\.com$/i,
+  /microsoftonline\.com$/i,
+  /visualstudio\.com$/i,
+  /atlassian\.net$/i,
+  /cloudapp\.net$/i,
+  /onedrive\.live\.com$/i,
+  /safelinks\.protection\.outlook\.com$/i,
+];
+
+function isPrivateHost(host) {
+  if (!host) return true;
+  if (skipHosts.has(host)) return true;
+  return skipHostPatterns.some((re) => re.test(host));
+}
+
 const companyMap = new Map();
 for (const { title, url, folder } of links) {
   const host = hostOf(url);
-  if (!host || skipHosts.has(host) || host.includes("linkedin.com")) continue;
+  if (!host || isPrivateHost(host) || host.includes("linkedin.com")) continue;
+  if (/authkey=/i.test(url) || /Mingorance/i.test(url)) continue;
 
   // Prefer careers / jobs URLs
   const key = host.replace(/^www\./, "");
