@@ -1633,6 +1633,36 @@ body.modal-open {
   background: linear-gradient(135deg, rgba(61, 220, 151, 0.12), rgba(0, 0, 0, 0.16));
 }
 
+.deeplink.link-ok {
+  border-color: rgba(61, 220, 151, 0.5);
+}
+
+.deeplink.link-fail {
+  opacity: 0.72;
+}
+
+.link-badge {
+  display: inline-block;
+  margin-left: 0.35rem;
+  font-style: normal;
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  vertical-align: middle;
+  padding: 0.12rem 0.35rem;
+  border-radius: 4px;
+}
+
+.link-badge.ok {
+  color: #0d3b24;
+  background: rgba(61, 220, 151, 0.85);
+}
+
+.link-badge.fail {
+  color: #3b1a12;
+  background: rgba(255, 140, 100, 0.55);
+}
+
 .deeplink strong {
   display: block;
   color: var(--ink);

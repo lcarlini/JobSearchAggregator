@@ -31,12 +31,20 @@ function groupLabel(key) {
 }
 
 function render() {
-  const filtered = filterCompanies(allCompanies, {
+  let filtered = filterCompanies(allCompanies, {
     q: $("#company-q").value || "",
     region: $("#company-region").value || "any",
     type: $("#company-type").value || "any",
   });
+  const linkFilter = $("#company-link")?.value || "any";
+  if (linkFilter === "ok") filtered = filtered.filter((c) => c.linkOk === true);
+  else if (linkFilter === "fail") filtered = filtered.filter((c) => c.linkOk === false);
+
+  const okCount = allCompanies.filter((c) => c.linkOk === true).length;
   $("#stat-total").textContent = String(filtered.length);
+  const statOk = $("#stat-link-ok");
+  if (statOk) statOk.textContent = String(okCount);
+
   const groups = groupCompanies(filtered);
   const root = $("#companies-groups");
   if (!groups.length) {
@@ -53,9 +61,16 @@ function render() {
           .map((c) => {
             const href = c.searchUrl || c.url;
             const note = c.note || `${c.type || ""} · ${c.host || ""}`;
+            const okClass = c.linkOk === true ? " link-ok" : c.linkOk === false ? " link-fail" : "";
+            const badge =
+              c.linkOk === true
+                ? `<em class="link-badge ok" title="${escapeAttr(t("linkOkTitle"))}">${escapeHtml(t("linkOkBadge"))}</em>`
+                : c.linkOk === false
+                  ? `<em class="link-badge fail" title="${escapeAttr(t("linkFailTitle"))}">${escapeHtml(t("linkFailBadge"))}</em>`
+                  : "";
             return `
-          <a class="deeplink${c.featured ? " featured" : ""}" href="${escapeAttr(href)}" target="_blank" rel="noopener noreferrer">
-            <strong>${escapeHtml(c.name)}${c.featured ? " ★" : ""}</strong>
+          <a class="deeplink${c.featured ? " featured" : ""}${okClass}" href="${escapeAttr(href)}" target="_blank" rel="noopener noreferrer">
+            <strong>${escapeHtml(c.name)}${c.featured ? " ★" : ""}${badge}</strong>
             <span>${escapeHtml(note)}</span>
           </a>`;
           })
@@ -83,8 +98,9 @@ async function boot() {
   });
   applyI18n();
 
-  ["company-q", "company-region", "company-type"].forEach((id) => {
+  ["company-q", "company-region", "company-type", "company-link"].forEach((id) => {
     const el = document.getElementById(id);
+    if (!el) return;
     el.addEventListener("input", render);
     el.addEventListener("change", render);
   });

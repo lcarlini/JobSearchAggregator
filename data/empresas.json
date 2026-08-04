@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-04T14:51:04.477Z",
+  "generatedAt": "2026-08-04T15:25:03.145Z",
   "source": "bookmarks_8_3_26.html",
   "stats": {
     "bookmarkLinks": 297,
     "bookmarkCompanies": 200,
-    "total": 335,
+    "total": 336,
     "featured": 1,
-    "linkedinMerged": 82
+    "linkedinMerged": 1
   },
   "featured": [
     {
@@ -20,7 +20,17 @@
       "searchUrl": "https://www.apinfo2.com/apinfo/inc/resultados_pesquisas.cfm",
       "featured": true,
       "priority": 1,
-      "note": "Clássico BR de TI — vagas .NET/Java/SAP, home office e CLT/PJ"
+      "note": "Clássico BR de TI — vagas .NET/Java/SAP, home office e CLT/PJ",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.apinfo.com/apinfo/",
+      "searchLinkOk": true,
+      "searchLinkStatus": 200,
+      "searchLinkState": "ok",
+      "searchLinkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "searchLinkFinalUrl": "https://www.apinfo2.com/apinfo/inc/resultados_pesquisas.cfm"
     }
   ],
   "companies": [
@@ -33,7 +43,12 @@
       "type": "company",
       "source": "linkedin-seed",
       "searchUrl": "https://apply.workable.com/nology",
-      "note": "ATS workable"
+      "note": "ATS workable",
+      "linkOk": false,
+      "linkStatus": 429,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://apply.workable.com/nology"
     },
     {
       "id": "co-seek-com-au",
@@ -42,7 +57,12 @@
       "host": "seek.com.au",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 403,
+      "linkState": "blocked",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://au.seek.com/job/50476919?type=promoted"
     },
     {
       "id": "co-archer-ie",
@@ -51,7 +71,12 @@
       "host": "archer.ie",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.archer.ie/dotnetjobs/"
     },
     {
       "id": "co-forto-com",
@@ -60,7 +85,12 @@
       "host": "forto.com",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://forto.com/en/"
     },
     {
       "id": "co-123vagas-com-br",
@@ -69,7 +99,12 @@
       "region": "brazil",
       "type": "board",
       "host": "123vagas.com.br",
-      "source": "curated"
+      "source": "curated",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.123vagas.com.br/vagas/remoto"
     },
     {
       "id": "co-brasiltax-com",
@@ -78,7 +113,12 @@
       "host": "brasiltax.com",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://brasiltax.com/blog/14-perguntas-sobre-a-declaracao-de-saida-definitiva-do-pais/"
     },
     {
       "id": "co-site24x7-com",
@@ -87,7 +127,12 @@
       "host": "site24x7.com",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 400,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.site24x7.com/public/dashboard/4zAAicA3ftLS80kTVMVbgCfqIGJlBj3WOX3ky9Gv3azubyJiHX1jpCTcN65hibfF6ICrSdq4Pt1h5f2YcbybC2mRc3nvPtOeg_BSAJH-tq7lLCOzUQijjKCmrtXGHGjt"
     },
     {
       "id": "co-relocate-me",
@@ -96,7 +141,12 @@
       "host": "relocate.me",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://relocate.me/blog/working-abroad/30-foreign-tech-companies-are-ready-to-hire-you-in-2019/"
     },
     {
       "id": "co-seek-co-nz",
@@ -105,7 +155,12 @@
       "host": "seek.co.nz",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 403,
+      "linkState": "blocked",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://nz.seek.com/40-foot-jobs/in-All-New-Zealand"
     },
     {
       "id": "co-5a-selecty-com-br",
@@ -114,7 +169,12 @@
       "host": "5a.selecty.com.br",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://5a.selecty.com.br/search/"
     },
     {
       "id": "co-99freelas-com-br",
@@ -123,7 +183,12 @@
       "region": "brazil",
       "type": "board",
       "host": "99freelas.com.br",
-      "source": "curated"
+      "source": "curated",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.99freelas.com.br/"
     },
     {
       "id": "co-api-dev-acgsa-com-br",
@@ -132,7 +197,12 @@
       "host": "api-dev.acgsa.com.br",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "fetch failed"
     },
     {
       "id": "board-adecco",
@@ -142,7 +212,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "agency"
+      "note": "agency",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=Adecco%20remote%20jobs"
     },
     {
       "id": "board-aditiconsulting",
@@ -152,7 +227,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "agency"
+      "note": "agency",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=Aditi%20Consulting%20remote%20jobs"
     },
     {
       "id": "co-afterpay-com",
@@ -161,7 +241,12 @@
       "region": "au-br",
       "type": "company",
       "host": "afterpay.com",
-      "source": "curated"
+      "source": "curated",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.afterpay.com/global/country-select"
     },
     {
       "id": "co-spencerscott-london",
@@ -170,7 +255,12 @@
       "host": "spencerscott.london",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.spencerscott.london/jobs"
     },
     {
       "id": "board-altoacqbyrevelo",
@@ -180,7 +270,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "board"
+      "note": "board",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=Alto%20(Acq.%20by%20Revelo)%20remote%20jobs"
     },
     {
       "id": "co-aluguetemporada-com-br",
@@ -189,7 +284,12 @@
       "host": "aluguetemporada.com.br",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 404,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.vrbo.com/pt-br/imovel/inquiry/p557039807"
     },
     {
       "id": "co-hbsis-com-br",
@@ -198,7 +298,12 @@
       "host": "hbsis.com.br",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 503,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://hbsis.com.br/trabalhe-conosco/"
     },
     {
       "id": "board-andela",
@@ -208,7 +313,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "board"
+      "note": "board",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=Andela%20remote%20jobs"
     },
     {
       "id": "board-angellist",
@@ -218,7 +328,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "board"
+      "note": "board",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=AngelList%20remote%20jobs"
     },
     {
       "id": "co-angel-co",
@@ -229,7 +344,12 @@
       "type": "board",
       "source": "bookmark+curated",
       "featured": false,
-      "priority": 100
+      "priority": 100,
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://wellfound.com/"
     },
     {
       "id": "board-apexsystems",
@@ -239,7 +359,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "agency"
+      "note": "agency",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=Apex%20Systems%20remote%20jobs"
     },
     {
       "id": "co-apinfo-com",
@@ -252,7 +377,17 @@
       "searchUrl": "https://www.apinfo2.com/apinfo/inc/resultados_pesquisas.cfm",
       "featured": true,
       "priority": 1,
-      "note": "Clássico BR de TI — vagas .NET/Java/SAP, home office e CLT/PJ"
+      "note": "Clássico BR de TI — vagas .NET/Java/SAP, home office e CLT/PJ",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.apinfo.com/apinfo/",
+      "searchLinkOk": true,
+      "searchLinkStatus": 200,
+      "searchLinkState": "ok",
+      "searchLinkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "searchLinkFinalUrl": "https://www.apinfo2.com/apinfo/inc/resultados_pesquisas.cfm"
     },
     {
       "id": "co-vagaspelomundo-com-br",
@@ -261,7 +396,12 @@
       "host": "vagaspelomundo.com.br",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 403,
+      "linkState": "blocked",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://vagaspelomundo.com.br/carreira/2016/06/aprenda-a-fazer-seu-curriculo-europeu/"
     },
     {
       "id": "co-atlassian-com",
@@ -270,7 +410,12 @@
       "region": "au-br",
       "type": "company",
       "host": "atlassian.com",
-      "source": "curated"
+      "source": "curated",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.atlassian.com/company/careers"
     },
     {
       "id": "co-baixaki-com-br",
@@ -279,7 +424,12 @@
       "host": "baixaki.com.br",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.baixaki.com.br/apps/video/atube-catcher/windows"
     },
     {
       "id": "co-automattic-com",
@@ -288,7 +438,12 @@
       "region": "us-br",
       "type": "company",
       "host": "automattic.com",
-      "source": "curated"
+      "source": "curated",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://automattic.com/work-with-us/"
     },
     {
       "id": "board-avanceconsulting",
@@ -298,7 +453,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "agency"
+      "note": "agency",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=Avance%20Consulting%20remote%20jobs"
     },
     {
       "id": "co-praxent-com",
@@ -307,7 +467,12 @@
       "host": "praxent.com",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 404,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://praxent.com/careers/backend-engineer-202106"
     },
     {
       "id": "co-confluence-atlassian-com",
@@ -316,7 +481,12 @@
       "host": "confluence.atlassian.com",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html"
     },
     {
       "id": "co-lambda3-com-br",
@@ -325,7 +495,12 @@
       "host": "lambda3.com.br",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "fetch failed"
     },
     {
       "id": "co-bkoutsourcing-com-br",
@@ -334,7 +509,12 @@
       "host": "bkoutsourcing.com.br",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "timeout"
     },
     {
       "id": "co-ventron-com-br",
@@ -343,7 +523,12 @@
       "host": "ventron.com.br",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "timeout"
     },
     {
       "id": "co-usebraintrust-com",
@@ -352,7 +537,12 @@
       "region": "us-br",
       "type": "company",
       "host": "usebraintrust.com",
-      "source": "curated"
+      "source": "curated",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.usebraintrust.com/"
     },
     {
       "id": "board-braintrust",
@@ -362,7 +552,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "board"
+      "note": "board",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=Braintrust%20remote%20jobs"
     },
     {
       "id": "co-buffer-com",
@@ -371,7 +566,12 @@
       "region": "us-br",
       "type": "company",
       "host": "buffer.com",
-      "source": "curated"
+      "source": "curated",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://buffer.com/journey"
     },
     {
       "id": "co-jobs4-co-uk",
@@ -380,7 +580,12 @@
       "host": "jobs4.co.uk",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.jobs4.co.uk/jobs/c-developer-19754400.htm"
     },
     {
       "id": "co-portal-ltm-digital",
@@ -389,7 +594,12 @@
       "host": "portal.ltm.digital",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "fetch failed"
     },
     {
       "id": "co-calculopj-com-br",
@@ -398,7 +608,12 @@
       "host": "calculopj.com.br",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "fetch failed"
     },
     {
       "id": "co-economia-uol-com-br",
@@ -407,7 +622,12 @@
       "host": "economia.uol.com.br",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://economia.uol.com.br/empregos-e-carreiras/noticias/redacao/2019/07/02/montreal-canada-vagas-brasileiros-tecnologia-da-informacao.htm"
     },
     {
       "id": "co-carreiradeti-com-br",
@@ -416,7 +636,12 @@
       "host": "carreiradeti.com.br",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://carreiradeti.com.br/canada-ja-comeca-quente-recrutando-no-brasil-em-2021/"
     },
     {
       "id": "co-iventis-com-br",
@@ -425,7 +650,12 @@
       "host": "iventis.com.br",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "timeout"
     },
     {
       "id": "co-canonical-com",
@@ -434,7 +664,12 @@
       "region": "us-br",
       "type": "company",
       "host": "canonical.com",
-      "source": "curated"
+      "source": "curated",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://canonical.com/careers"
     },
     {
       "id": "co-canva-com",
@@ -443,7 +678,12 @@
       "region": "au-br",
       "type": "company",
       "host": "canva.com",
-      "source": "curated"
+      "source": "curated",
+      "linkOk": false,
+      "linkStatus": 403,
+      "linkState": "blocked",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.lifeatcanva.com/en/"
     },
     {
       "id": "co-bearingpoint-com",
@@ -452,7 +692,12 @@
       "host": "bearingpoint.com",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.bearingpoint.com/en/careers/"
     },
     {
       "id": "co-jobs-recruitee-com",
@@ -461,7 +706,12 @@
       "host": "jobs.recruitee.com",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://careers.tellent.com/"
     },
     {
       "id": "co-sabeo-com",
@@ -470,7 +720,12 @@
       "host": "sabeo.com",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 404,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://sabeo.com/careers-contracts/"
     },
     {
       "id": "co-version1-com",
@@ -479,7 +734,12 @@
       "host": "version1.com",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.version1.com/Careers/"
     },
     {
       "id": "co-careers-accenture-com",
@@ -488,7 +748,12 @@
       "host": "careers.accenture.com",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "fetch failed"
     },
     {
       "id": "co-catho-com-br",
@@ -497,7 +762,12 @@
       "region": "brazil",
       "type": "board",
       "host": "catho.com.br",
-      "source": "curated"
+      "source": "curated",
+      "linkOk": false,
+      "linkStatus": 404,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.catho.com.br/"
     },
     {
       "id": "co-danielkummer-github-io",
@@ -506,7 +776,12 @@
       "host": "danielkummer.github.io",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://danielkummer.github.io/git-flow-cheatsheet/index.pt_BR.html"
     },
     {
       "id": "co-ciandt-com",
@@ -515,7 +790,12 @@
       "host": "ciandt.com",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 403,
+      "linkState": "blocked",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "http://www.ciandt.com/br-pt/vagas"
     },
     {
       "id": "co-ciadetalentos-com-br",
@@ -524,7 +804,12 @@
       "host": "ciadetalentos.com.br",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.ciadetalentos.com.br/wp-content/uploads/2022/03/jovens-.png"
     },
     {
       "id": "co-app-clickaonline-com",
@@ -533,7 +818,12 @@
       "host": "app.clickaonline.com",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "fetch failed"
     },
     {
       "id": "co-amancay-com-br",
@@ -542,7 +832,12 @@
       "host": "amancay.com.br",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "fetch failed"
     },
     {
       "id": "co-grupoltm-visualstudio-com",
@@ -551,7 +846,12 @@
       "host": "grupoltm.visualstudio.com",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 203,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://spsprodeus22.vssps.visualstudio.com/_signin?realm=grupoltm.visualstudio.com&reply_to=https%3A%2F%2Fgrupoltm.visualstudio.com%2FPremiacao%2F_git%2FcloudLoyaltyAPITests&redirect=1&protocol=cookieless&hid=2034acc1-e825-43ad-acf4-30b5f0639dfd&context=eyJodCI6MiwiaGlkIjoiZTUzNmQ2ZGUtZDA1Zi00OWM3LTg4YTgtMmJiNzA0YjQwZDI0IiwicXMiOnt9LCJyciI6IiIsInZoIjoiIiwiY3YiOiIiLCJjcyI6IiJ90"
     },
     {
       "id": "co-coachit-com-br",
@@ -560,7 +860,12 @@
       "host": "coachit.com.br",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.coachit.com.br/"
     },
     {
       "id": "board-codetactrecruit",
@@ -570,7 +875,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "agency"
+      "note": "agency",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=CodeTact%20Recruit%20remote%20jobs"
     },
     {
       "id": "co-codingame-com",
@@ -579,7 +889,12 @@
       "host": "codingame.com",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.codingame.com/start/"
     },
     {
       "id": "co-4kdownload-com",
@@ -588,7 +903,12 @@
       "host": "4kdownload.com",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.4kdownload.com/pt-br/howto/howto-download-youtube-playlist-in-mp3"
     },
     {
       "id": "co-eurodicas-com-br",
@@ -597,7 +917,12 @@
       "host": "eurodicas.com.br",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.eurodicas.com.br/como-trabalhar-na-irlanda/"
     },
     {
       "id": "co-grupoltmdev-atlassian-net",
@@ -606,7 +931,12 @@
       "host": "grupoltmdev.atlassian.net",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 404,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://grupoltmdev.atlassian.net/wiki"
     },
     {
       "id": "co-ltmcontacorrenteprdwebjob01-azurewebsites-net",
@@ -615,7 +945,12 @@
       "host": "ltmcontacorrenteprdwebjob01.azurewebsites.net",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "fetch failed"
     },
     {
       "id": "co-benjaminhorn-io",
@@ -624,7 +959,12 @@
       "host": "benjaminhorn.io",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "fetch failed"
     },
     {
       "id": "co-contentful-com",
@@ -633,7 +973,12 @@
       "region": "eu-br",
       "type": "company",
       "host": "contentful.com",
-      "source": "curated"
+      "source": "curated",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.contentful.com/careers/"
     },
     {
       "id": "co-geo-craigslist-org",
@@ -642,7 +987,12 @@
       "host": "geo.craigslist.org",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://geo.craigslist.org/iso/ca"
     },
     {
       "id": "board-crossover",
@@ -652,7 +1002,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "board"
+      "note": "board",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=Crossover%20remote%20jobs"
     },
     {
       "id": "co-crowd-br-com",
@@ -661,7 +1016,12 @@
       "region": "brazil",
       "type": "board",
       "host": "crowd.br.com",
-      "source": "curated"
+      "source": "curated",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://crowd.br.com/"
     },
     {
       "id": "co-wd-csgi-csgcareers",
@@ -670,9 +1030,14 @@
       "host": "csgi.wd5.myworkdayjobs.com",
       "region": "worldwide",
       "type": "company",
-      "source": "discovered-ats",
+      "source": "discovered-ats+linkedin-seed",
       "searchUrl": "https://csgi.wd5.myworkdayjobs.com/CSGCareers",
-      "note": "Workday csgi/CSGCareers"
+      "note": "Workday csgi/CSGCareers",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://csgi.wd5.myworkdayjobs.com/CSGCareers"
     },
     {
       "id": "co-github-com",
@@ -681,7 +1046,12 @@
       "host": "github.com",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://github.com/cucumber/cucumber-js/blob/main/docs/cli.md"
     },
     {
       "id": "co-cultureamp-com",
@@ -690,7 +1060,12 @@
       "region": "au-br",
       "type": "company",
       "host": "cultureamp.com",
-      "source": "curated"
+      "source": "curated",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.cultureamp.com/company/careers"
     },
     {
       "id": "co-number8-com",
@@ -699,7 +1074,12 @@
       "host": "number8.com",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 404,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://softwaremind.com/404/"
     },
     {
       "id": "co-europass-cedefop-europa-eu",
@@ -708,7 +1088,12 @@
       "host": "europass.cedefop.europa.eu",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://europass.europa.eu/pt/create-europass-cv"
     },
     {
       "id": "co-exame-abril-com-br",
@@ -717,7 +1102,12 @@
       "host": "exame.abril.com.br",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "fetch failed"
     },
     {
       "id": "board-dailyremote",
@@ -727,7 +1117,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "board"
+      "note": "board",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=DailyRemote%20remote%20jobs"
     },
     {
       "id": "co-agileandart-com",
@@ -736,7 +1131,12 @@
       "host": "agileandart.com",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "fetch failed"
     },
     {
       "id": "co-deliveryhero-com",
@@ -745,7 +1145,12 @@
       "host": "deliveryhero.com",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 403,
+      "linkState": "blocked",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.deliveryhero.com/careers/jobs/"
     },
     {
       "id": "co-services-deloitte-ie",
@@ -754,7 +1159,12 @@
       "host": "services.deloitte.ie",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://services.deloitte.ie/tc/"
     },
     {
       "id": "co-mazza-tech",
@@ -763,7 +1173,12 @@
       "host": "mazza.tech",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 404,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://mazza.tech/detalhe-da-vagas/?code=12598"
     },
     {
       "id": "co-jobbank-gc-ca",
@@ -772,7 +1187,12 @@
       "host": "jobbank.gc.ca",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.jobbank.gc.ca/jobsearch/jobsearch?sort=M&searchstring=developer&button.submit=Search"
     },
     {
       "id": "board-dice",
@@ -782,7 +1202,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "board"
+      "note": "board",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=Dice%20remote%20jobs"
     },
     {
       "id": "co-shawandpartners-com",
@@ -791,7 +1216,12 @@
       "host": "shawandpartners.com",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 404,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://shawandpartners.com/join-shaw-and-partners/"
     },
     {
       "id": "co-wd-dxctechnology-dxcjobs",
@@ -800,9 +1230,14 @@
       "host": "dxctechnology.wd1.myworkdayjobs.com",
       "region": "worldwide",
       "type": "company",
-      "source": "discovered-ats",
+      "source": "discovered-ats+linkedin-seed",
       "searchUrl": "https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs",
-      "note": "Workday dxctechnology/DXCJobs"
+      "note": "Workday dxctechnology/DXCJobs",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs"
     },
     {
       "id": "co-templafy-com",
@@ -811,7 +1246,12 @@
       "host": "templafy.com",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.templafy.com/"
     },
     {
       "id": "co-dynamitejobs-com",
@@ -820,7 +1260,12 @@
       "region": "worldwide",
       "type": "board",
       "host": "dynamitejobs.com",
-      "source": "curated"
+      "source": "curated",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://dynamitejobs.com/"
     },
     {
       "id": "board-dynamitejobs",
@@ -830,7 +1275,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "board"
+      "note": "board",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=Dynamite%20Jobs%20remote%20jobs"
     },
     {
       "id": "co-eduzz-com",
@@ -839,7 +1289,12 @@
       "host": "eduzz.com",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.eduzz.com/"
     },
     {
       "id": "co-forum-outerspace-com-br",
@@ -848,7 +1303,12 @@
       "host": "forum.outerspace.com.br",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://forum.outerspace.com.br/index.php?threads/emigrar-para-o-canad%C3%A1-mini-guia-atualizado.423592/"
     },
     {
       "id": "co-zartis-com",
@@ -857,7 +1317,12 @@
       "host": "zartis.com",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.zartis.com/"
     },
     {
       "id": "co-alemanizando-com-br",
@@ -866,7 +1331,12 @@
       "host": "alemanizando.com.br",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 404,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "http://alemanizando.com.br/vagas-trabalho-alemanha/"
     },
     {
       "id": "co-alphasights-com",
@@ -875,7 +1345,12 @@
       "host": "alphasights.com",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 404,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.alphasights.com/careers/se-open-positions?locale=en&region=the_americas&experience=All%20Experience%20Levels"
     },
     {
       "id": "co-findajobingermany-com",
@@ -884,7 +1359,12 @@
       "host": "findajobingermany.com",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "http://www.findajobingermany.com/"
     },
     {
       "id": "board-entrustitconsultoriaemti",
@@ -894,7 +1374,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "agency"
+      "note": "agency",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=Entrust%20it%20-%20Consultoria%20em%20TI%20remote%20jobs"
     },
     {
       "id": "co-envato-com",
@@ -903,7 +1388,12 @@
       "region": "au-br",
       "type": "company",
       "host": "envato.com",
-      "source": "curated"
+      "source": "curated",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://jobs.lever.co/envato-2"
     },
     {
       "id": "co-grupoltm-my-sharepoint-com",
@@ -912,7 +1402,12 @@
       "host": "grupoltm-my.sharepoint.com",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 404,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://grupoltm-my.sharepoint.com/personal/cezar_pereira_grupoltm_com_br/_layouts/15/WopiFrame2.aspx?sourcedoc=%7B44dde059-5e15-4286-b6a6-43015cd15fed%7D&action=edit&activeCell=%27Template%27!B2"
     },
     {
       "id": "co-esw-com",
@@ -921,7 +1416,12 @@
       "host": "esw.com",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 404,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://esw.com/careers/open-positions/?gh_jid=5441250002"
     },
     {
       "id": "co-rsm-nl",
@@ -930,18 +1430,12 @@
       "host": "rsm.nl",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
-    },
-    {
-      "id": "co-jobs-ashbyhq-com",
-      "name": "EXA",
-      "url": "https://jobs.ashbyhq.com/exa",
-      "host": "jobs.ashbyhq.com",
-      "region": "latam",
-      "type": "company",
-      "source": "linkedin-seed",
-      "searchUrl": "https://jobs.ashbyhq.com/exa",
-      "note": "ATS ashby"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.rsm.nl/events/"
     },
     {
       "id": "board-experis",
@@ -951,7 +1445,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "agency"
+      "note": "agency",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=Experis%20remote%20jobs"
     },
     {
       "id": "co-checkout-com",
@@ -960,7 +1459,12 @@
       "host": "checkout.com",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.checkout.com/careers"
     },
     {
       "id": "co-farfetchgroup-com",
@@ -969,7 +1473,12 @@
       "region": "eu-br",
       "type": "company",
       "host": "farfetchgroup.com",
-      "source": "curated"
+      "source": "curated",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "fetch failed"
     },
     {
       "id": "co-fcamara-com-br",
@@ -978,7 +1487,12 @@
       "host": "fcamara.com.br",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "fetch failed"
     },
     {
       "id": "co-findajobingermany-de",
@@ -987,7 +1501,12 @@
       "host": "findajobingermany.de",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.findajobingermany.de/"
     },
     {
       "id": "board-findjoblatam",
@@ -997,7 +1516,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "board"
+      "note": "board",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=Find%20Job%20Latam%20remote%20jobs"
     },
     {
       "id": "board-findasyncasyncremotejobs",
@@ -1007,7 +1531,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "board"
+      "note": "board",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=FindAsync%20-%20Async%20Remote%20Jobs%20remote%20jobs"
     },
     {
       "id": "co-fit-tecnologia-org-br",
@@ -1016,7 +1545,12 @@
       "host": "fit-tecnologia.org.br",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.fit-tecnologia.org.br/trabalhe-conosco"
     },
     {
       "id": "co-fiverr-com",
@@ -1027,7 +1561,12 @@
       "type": "board",
       "source": "bookmark+curated",
       "featured": false,
-      "priority": 100
+      "priority": 100,
+      "linkOk": false,
+      "linkStatus": 403,
+      "linkState": "blocked",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.fiverr.com/"
     },
     {
       "id": "co-flexjobs-com",
@@ -1036,7 +1575,12 @@
       "region": "worldwide",
       "type": "board",
       "host": "flexjobs.com",
-      "source": "curated"
+      "source": "curated",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "timeout"
     },
     {
       "id": "board-flexjobs",
@@ -1046,7 +1590,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "board"
+      "note": "board",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=FlexJobs%20remote%20jobs"
     },
     {
       "id": "co-wd1-myworkdaysite-com",
@@ -1057,7 +1606,12 @@
       "type": "company",
       "source": "empresas-bookmark+linkedin-seed",
       "searchUrl": "https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers",
-      "note": "Workday fmr/FidelityCareers"
+      "note": "Workday fmr/FidelityCareers",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers"
     },
     {
       "id": "co-gpnet-com-br",
@@ -1066,7 +1620,12 @@
       "host": "gpnet.com.br",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 404,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "http://www.gpnet.com.br/mural-de-vagas"
     },
     {
       "id": "board-g2iinc",
@@ -1076,7 +1635,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "board"
+      "note": "board",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=G2i%20Inc.%20remote%20jobs"
     },
     {
       "id": "co-geekhunter-com-br",
@@ -1087,7 +1651,12 @@
       "type": "board",
       "source": "bookmark+curated",
       "featured": false,
-      "priority": 100
+      "priority": 100,
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.geekhunter.com/pt"
     },
     {
       "id": "board-geekhunter",
@@ -1097,7 +1666,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "board"
+      "note": "board",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=GeekHunter%20remote%20jobs"
     },
     {
       "id": "co-gft-com",
@@ -1106,7 +1680,12 @@
       "host": "gft.com",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.gft.com/br/pt"
     },
     {
       "id": "co-rogerdudler-github-io",
@@ -1115,7 +1694,12 @@
       "host": "rogerdudler.github.io",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "http://rogerdudler.github.io/git-guide/index.pt_BR.html"
     },
     {
       "id": "co-git-scm-com",
@@ -1124,7 +1708,12 @@
       "host": "git-scm.com",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://git-scm.com/docs"
     },
     {
       "id": "co-fjorgemota-com",
@@ -1133,7 +1722,12 @@
       "host": "fjorgemota.com",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://fjorgemota.com/2016/01/22/git-flow-uma-forma-legal-de-organizar-repositorios-git/"
     },
     {
       "id": "co-about-gitlab-com",
@@ -1142,7 +1736,12 @@
       "region": "us-br",
       "type": "company",
       "host": "about.gitlab.com",
-      "source": "curated"
+      "source": "curated",
+      "linkOk": false,
+      "linkStatus": 404,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://about.gitlab.com/careers/"
     },
     {
       "id": "co-glassdoor-com-br",
@@ -1151,7 +1750,12 @@
       "region": "brazil",
       "type": "board",
       "host": "glassdoor.com.br",
-      "source": "curated"
+      "source": "curated",
+      "linkOk": false,
+      "linkStatus": 403,
+      "linkState": "blocked",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.glassdoor.com.br/"
     },
     {
       "id": "co-glassdoor-ie",
@@ -1160,7 +1764,12 @@
       "host": "glassdoor.ie",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 403,
+      "linkState": "blocked",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.glassdoor.ie/index.htm"
     },
     {
       "id": "co-savvytime-com",
@@ -1169,7 +1778,12 @@
       "host": "savvytime.com",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://savvytime.com/converter/gmt-to-brt-ireland-dublin"
     },
     {
       "id": "co-ltmbr-gointegro-com",
@@ -1178,7 +1792,12 @@
       "host": "ltmbr.gointegro.com",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 404,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://ltmbr.gointegro.com/gosocial/company/stream"
     },
     {
       "id": "co-en-goodland-io",
@@ -1187,7 +1806,28 @@
       "host": "en.goodland.io",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "fetch failed"
+    },
+    {
+      "id": "co-jobs-lever-co",
+      "name": "Gopuff",
+      "url": "https://jobs.lever.co/gopuff",
+      "host": "jobs.lever.co",
+      "region": "latam",
+      "type": "company",
+      "source": "linkedin-seed",
+      "searchUrl": "https://jobs.lever.co/gopuff",
+      "note": "ATS lever",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://jobs.lever.co/gopuff"
     },
     {
       "id": "co-logs-intranet",
@@ -1196,7 +1836,12 @@
       "host": "logs.intranet",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "fetch failed"
     },
     {
       "id": "co-prdlogsrv-grupoltm-com-br",
@@ -1205,7 +1850,12 @@
       "host": "prdlogsrv.grupoltm.com.br",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "timeout"
     },
     {
       "id": "co-groups-google-com",
@@ -1214,7 +1864,12 @@
       "host": "groups.google.com",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://groups.google.com/forum/"
     },
     {
       "id": "co-portal-gupy-io",
@@ -1223,7 +1878,12 @@
       "region": "brazil",
       "type": "board",
       "host": "portal.gupy.io",
-      "source": "curated"
+      "source": "curated",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://portal.gupy.io/job-search/workplaceTypes[]=remote"
     },
     {
       "id": "co-news-ycombinator-com",
@@ -1234,7 +1894,12 @@
       "type": "board",
       "source": "bookmark+curated",
       "featured": false,
-      "priority": 100
+      "priority": 100,
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://news.ycombinator.com/jobs"
     },
     {
       "id": "board-harveynash",
@@ -1244,7 +1909,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "agency"
+      "note": "agency",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=Harvey%20Nash%20remote%20jobs"
     },
     {
       "id": "co-himalayas-app",
@@ -1253,7 +1923,12 @@
       "region": "worldwide",
       "type": "board",
       "host": "himalayas.app",
-      "source": "curated"
+      "source": "curated",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://himalayas.app/"
     },
     {
       "id": "board-hiredremoteli",
@@ -1263,7 +1938,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "board"
+      "note": "board",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=Hired%20Remoteli%20remote%20jobs"
     },
     {
       "id": "board-hirelatam",
@@ -1273,7 +1953,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "board"
+      "note": "board",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=HireLATAM%20remote%20jobs"
     },
     {
       "id": "board-hiringbrazil",
@@ -1283,7 +1968,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "board"
+      "note": "board",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=Hiring%20Brazil%20remote%20jobs"
     },
     {
       "id": "board-homeofficevagasremotas",
@@ -1293,7 +1983,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "board"
+      "note": "board",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=Home%20Office%20-%20Vagas%20Remotas%20remote%20jobs"
     },
     {
       "id": "co-honeypot-io",
@@ -1302,7 +1997,12 @@
       "host": "honeypot.io",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "timeout"
     },
     {
       "id": "co-onedrive-live-com",
@@ -1311,7 +2011,12 @@
       "host": "onedrive.live.com",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 404,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://onedrive.live.com/edit.aspx?cid=adaf55136d994ed0&page=view&resid=ADAF55136D994ED0!102671&parId=ADAF55136D994ED0!102668&app=Excel"
     },
     {
       "id": "co-grupoltm-sharepoint-com",
@@ -1320,7 +2025,12 @@
       "host": "grupoltm.sharepoint.com",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://grupoltm.sharepoint.com/premiacao/_layouts/15/doc.aspx?docid=1cafd80840258441b92d68ae8c5b90854&authkey=Ad0ltG7mLmINzTguEySk1SQ&action=view"
     },
     {
       "id": "co-medium-com",
@@ -1329,7 +2039,12 @@
       "host": "medium.com",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 403,
+      "linkState": "blocked",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://medium.com/@developerdavo/how-to-write-a-cover-letter-as-a-software-developer-cover-letter-and-cv-included-2190e0d23e97"
     },
     {
       "id": "co-bamboohr-com",
@@ -1338,7 +2053,12 @@
       "host": "bamboohr.com",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.bamboohr.com/"
     },
     {
       "id": "co-eur02-safelinks-protection-outlook-com",
@@ -1347,7 +2067,12 @@
       "host": "eur02.safelinks.protection.outlook.com",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 500,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapps.apple.com%2Fbr%2Fapp%2Fsulam%25C3%25A9rica-sa%25C3%25BAde%2Fid492556516&data=04%7C01%7C%7Cd1d56944b75c406e45cd08d87d036fad%7C55a2bc67aec14ad29a9c5b2457b91dcd%7C0%7C0%7C637396800992855617%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=kr2kXYsfwhlaysctII0CiGDo9tEEsn4Xt%2FgLvgLjd1I%3D&reserved=0"
     },
     {
       "id": "co-hml-marketplace-webpremios-com-br",
@@ -1356,7 +2081,12 @@
       "host": "hml-marketplace.webpremios.com.br",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "fetch failed"
     },
     {
       "id": "co-carriere-info-fr",
@@ -1365,7 +2095,12 @@
       "host": "carriere-info.fr",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.free-work.com/fr/tech-it"
     },
     {
       "id": "co-quebecentete-com",
@@ -1374,7 +2109,12 @@
       "host": "quebecentete.com",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.quebecentete.com/pt"
     },
     {
       "id": "co-huwellconsultancy-com",
@@ -1383,7 +2123,12 @@
       "host": "huwellconsultancy.com",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://huwellconsultancy.com/jobs/"
     },
     {
       "id": "co-expatfairamsterdam-nl",
@@ -1392,7 +2137,12 @@
       "host": "expatfairamsterdam.nl",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "fetch failed"
     },
     {
       "id": "co-immigration-govt-nz",
@@ -1401,7 +2151,12 @@
       "host": "immigration.govt.nz",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.immigration.govt.nz/"
     },
     {
       "id": "co-br-indeed-com",
@@ -1410,7 +2165,12 @@
       "region": "brazil",
       "type": "board",
       "host": "br.indeed.com",
-      "source": "curated"
+      "source": "curated",
+      "linkOk": false,
+      "linkStatus": 403,
+      "linkState": "blocked",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://br.indeed.com/q-trabalho-remoto-vagas.html"
     },
     {
       "id": "co-indeed-com-br",
@@ -1419,7 +2179,12 @@
       "host": "indeed.com.br",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 403,
+      "linkState": "blocked",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://br.indeed.com/"
     },
     {
       "id": "board-indistaffingservices",
@@ -1429,7 +2194,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "agency"
+      "note": "agency",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=INDI%20Staffing%20Services%20remote%20jobs"
     },
     {
       "id": "co-infojobs-com-br",
@@ -1440,7 +2210,12 @@
       "type": "board",
       "source": "bookmark+curated",
       "featured": false,
-      "priority": 100
+      "priority": 100,
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.infojobs.com.br/"
     },
     {
       "id": "board-integerconsulting",
@@ -1450,7 +2225,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "agency"
+      "note": "agency",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=Integer%20Consulting%20remote%20jobs"
     },
     {
       "id": "co-intranet-deal-com-br",
@@ -1459,7 +2239,12 @@
       "host": "intranet.deal.com.br",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 404,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "http://intranet.deal.com.br/SitePages/HomeIntranet.aspx"
     },
     {
       "id": "co-intranet-grupoltm-com-br",
@@ -1468,7 +2253,12 @@
       "host": "intranet.grupoltm.com.br",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "timeout"
     },
     {
       "id": "co-reembolso-grupoltm-com-br",
@@ -1477,7 +2267,12 @@
       "host": "reembolso.grupoltm.com.br",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "fetch failed"
     },
     {
       "id": "co-newzealandnow-govt-nz",
@@ -1486,7 +2281,12 @@
       "host": "newzealandnow.govt.nz",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.immigration.govt.nz/live/setting-up-your-life-in-new-zealand/"
     },
     {
       "id": "co-totaljobs-com",
@@ -1495,7 +2295,12 @@
       "host": "totaljobs.com",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 403,
+      "linkState": "blocked",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.totaljobs.com/job/90056252/apply/confirmation?Keywords=C&TemplateType=ResponsiveFeatured&JBESuccess=True&NewUser=False&p72=3&IsFirstCvUpload=False&OcaOptIn=False&OCA=True&CvDbOptedIn=False&ApplicationHistoryOptedIn=False&FullPreRegProfile=False&ApplicationPath=0&IsCopiedProfile=False&ApplicationId=372774584&IsC19SupportJob=False&ConsentsTypes=static_-&isreload=true"
     },
     {
       "id": "co-epam-com",
@@ -1504,7 +2309,12 @@
       "host": "epam.com",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 403,
+      "linkState": "blocked",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.epam.com/careers/job-listings?country=USA"
     },
     {
       "id": "co-make-it-in-germany-com",
@@ -1513,7 +2323,12 @@
       "host": "make-it-in-germany.com",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.make-it-in-germany.com/for-qualified-professionals/working/job-listings?L=1&tx_rsmiig_jobmarket%5Baction%5D=list&tx_rsmiig_jobmarket%5Bcontroller%5D=JobMarket&cHash=be148b8abc351fa83e0953760aa88766"
     },
     {
       "id": "co-mydayforce-com",
@@ -1522,7 +2337,12 @@
       "host": "mydayforce.com",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://jobs.dayforcehcm.com/mydayforce/alljobs"
     },
     {
       "id": "co-indeed-ca",
@@ -1531,7 +2351,12 @@
       "host": "indeed.ca",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 403,
+      "linkState": "blocked",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://ca.indeed.com/"
     },
     {
       "id": "co-jobs-ch",
@@ -1540,7 +2365,12 @@
       "host": "jobs.ch",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.jobs.ch/en/"
     },
     {
       "id": "co-trademe-co-nz",
@@ -1549,7 +2379,12 @@
       "host": "trademe.co.nz",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.trademe.co.nz/a/jobs/it/search?search_string=.net&salary_max=200000"
     },
     {
       "id": "co-jobatus-com-br",
@@ -1560,7 +2395,12 @@
       "type": "board",
       "source": "bookmark+curated",
       "featured": false,
-      "priority": 100
+      "priority": 100,
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "fetch failed"
     },
     {
       "id": "board-jobgether",
@@ -1570,7 +2410,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "board"
+      "note": "board",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=Jobgether%20remote%20jobs"
     },
     {
       "id": "board-jobnagringa",
@@ -1580,7 +2425,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "board"
+      "note": "board",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=jobnagringa%20remote%20jobs"
     },
     {
       "id": "co-monster-ie",
@@ -1589,7 +2439,12 @@
       "host": "monster.ie",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 403,
+      "linkState": "blocked",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.monster.ie/"
     },
     {
       "id": "co-shiftf5-co-uk",
@@ -1598,7 +2453,12 @@
       "host": "shiftf5.co.uk",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "fetch failed"
     },
     {
       "id": "co-jobs-hirewithnear-com",
@@ -1607,7 +2467,12 @@
       "host": "jobs.hirewithnear.com",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://jobs.hirewithnear.com/?q=back%20end&l="
     },
     {
       "id": "co-reed-co-uk",
@@ -1616,7 +2481,12 @@
       "host": "reed.co.uk",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.reed.co.uk/"
     },
     {
       "id": "co-de-jooble-org",
@@ -1625,7 +2495,12 @@
       "host": "de.jooble.org",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 403,
+      "linkState": "blocked",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://de.jooble.org/"
     },
     {
       "id": "co-jobspresso-co",
@@ -1634,7 +2509,12 @@
       "region": "worldwide",
       "type": "board",
       "host": "jobspresso.co",
-      "source": "curated"
+      "source": "curated",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://jobspresso.co/"
     },
     {
       "id": "board-jooble",
@@ -1644,7 +2524,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "board"
+      "note": "board",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=Jooble%20remote%20jobs"
     },
     {
       "id": "co-elementinsuranceag-recruitee-com",
@@ -1653,7 +2538,12 @@
       "host": "elementinsuranceag.recruitee.com",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://elementinsuranceag.recruitee.com/"
     },
     {
       "id": "board-kforceinc",
@@ -1663,7 +2553,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "agency"
+      "note": "agency",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=Kforce%20Inc%20remote%20jobs"
     },
     {
       "id": "co-klarna-com",
@@ -1672,7 +2567,12 @@
       "region": "eu-br",
       "type": "company",
       "host": "klarna.com",
-      "source": "curated"
+      "source": "curated",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.klarna.com/careers/"
     },
     {
       "id": "co-lapieza-io",
@@ -1681,7 +2581,12 @@
       "region": "latam",
       "type": "board",
       "host": "lapieza.io",
-      "source": "curated"
+      "source": "curated",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://lapieza.io/pt/"
     },
     {
       "id": "co-landing-jobs",
@@ -1690,7 +2595,12 @@
       "host": "landing.jobs",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://landing.jobs/"
     },
     {
       "id": "board-landingjobs",
@@ -1700,7 +2610,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "board"
+      "note": "board",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=Landing.Jobs%20remote%20jobs"
     },
     {
       "id": "board-latamjobs",
@@ -1710,7 +2625,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "board"
+      "note": "board",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=LATAM%20Jobs%20remote%20jobs"
     },
     {
       "id": "co-learngitbranching-js-org",
@@ -1719,7 +2639,12 @@
       "host": "learngitbranching.js.org",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://learngitbranching.js.org/?DEMO"
     },
     {
       "id": "board-lemonio",
@@ -1729,7 +2654,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "board"
+      "note": "board",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=Lemon.io%20remote%20jobs"
     },
     {
       "id": "co-br-linkedin-com",
@@ -1738,7 +2668,12 @@
       "region": "brazil",
       "type": "board",
       "host": "br.linkedin.com",
-      "source": "curated"
+      "source": "curated",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://br.linkedin.com/jobs/remoto-vagas"
     },
     {
       "id": "co-gist-github-com",
@@ -1747,7 +2682,12 @@
       "host": "gist.github.com",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://gist.github.com/leocomelli/2545add34e4fec21ec16"
     },
     {
       "id": "co-painel-webpremios-com-br",
@@ -1756,7 +2696,12 @@
       "host": "painel.webpremios.com.br",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "fetch failed"
     },
     {
       "id": "co-azulivepainelhml-azurewebsites-net",
@@ -1765,7 +2710,12 @@
       "host": "azulivepainelhml.azurewebsites.net",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "fetch failed"
     },
     {
       "id": "co-azulivepainelhml01-azurewebsites-net",
@@ -1774,7 +2724,12 @@
       "host": "azulivepainelhml01.azurewebsites.net",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "fetch failed"
     },
     {
       "id": "co-solasit-ie",
@@ -1783,7 +2738,12 @@
       "host": "solasit.ie",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "http://www.solasit.ie/jobs/"
     },
     {
       "id": "co-ltmh-mlh-api-cloudapp-net",
@@ -1792,7 +2752,12 @@
       "host": "ltmh-mlh-api.cloudapp.net",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "fetch failed"
     },
     {
       "id": "co-vagas-byintera-com",
@@ -1801,7 +2766,12 @@
       "host": "vagas.byintera.com",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "fetch failed"
     },
     {
       "id": "co-maltasalary-com",
@@ -1810,7 +2780,12 @@
       "host": "maltasalary.com",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://maltasalary.com/"
     },
     {
       "id": "co-ganhandoeuro-com",
@@ -1819,7 +2794,12 @@
       "host": "ganhandoeuro.com",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "fetch failed"
     },
     {
       "id": "co-desenvolvedor-marketplace-webpremios-com-br",
@@ -1828,7 +2808,12 @@
       "host": "desenvolvedor-marketplace.webpremios.com.br",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "fetch failed"
     },
     {
       "id": "board-masglobalconsulting",
@@ -1838,7 +2823,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "agency"
+      "note": "agency",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=MAS%20Global%20Consulting%20remote%20jobs"
     },
     {
       "id": "co-meuhome-com-br",
@@ -1847,7 +2837,12 @@
       "region": "brazil",
       "type": "board",
       "host": "meuhome.com.br",
-      "source": "curated"
+      "source": "curated",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.meuhome.com.br/"
     },
     {
       "id": "board-monster",
@@ -1857,7 +2852,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "board"
+      "note": "board",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=Monster%20remote%20jobs"
     },
     {
       "id": "co-brasileiraspelomundo-com",
@@ -1866,7 +2866,12 @@
       "host": "brasileiraspelomundo.com",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.brasileiraspelomundo.com/morar-legalmente-atraves-de-trabalho-e-estudo-na-alemanha-311515569"
     },
     {
       "id": "board-motionrecruitment",
@@ -1876,7 +2881,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "agency"
+      "note": "agency",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=Motion%20Recruitment%20remote%20jobs"
     },
     {
       "id": "co-n26-com",
@@ -1885,7 +2895,12 @@
       "region": "eu-br",
       "type": "company",
       "host": "n26.com",
-      "source": "curated"
+      "source": "curated",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://n26.com/en-eu/careers"
     },
     {
       "id": "co-bairesdev-com",
@@ -1894,7 +2909,12 @@
       "host": "bairesdev.com",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.bairesdev.com/"
     },
     {
       "id": "board-nerdinvagasdeti",
@@ -1904,7 +2924,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "board"
+      "note": "board",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=Nerdin%20Vagas%20de%20TI%20remote%20jobs"
     },
     {
       "id": "co-glassdoor-com",
@@ -1913,7 +2938,12 @@
       "host": "glassdoor.com",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 403,
+      "linkState": "blocked",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.glassdoor.com/Job/jobs.htm?suggestCount=0&suggestChosen=false&clickSource=searchBtn&typedKeyword=.net&sc.keyword=.net&locT=N&locId=63&jobType="
     },
     {
       "id": "board-nigelfrankinternational",
@@ -1923,18 +2953,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "agency"
-    },
-    {
-      "id": "co-boards-greenhouse-io",
-      "name": "Nortal",
-      "url": "https://boards.greenhouse.io/nortal",
-      "host": "boards.greenhouse.io",
-      "region": "latam",
-      "type": "company",
-      "source": "empresas-bookmark+linkedin-seed",
-      "searchUrl": "https://boards.greenhouse.io/nortal",
-      "note": "ATS greenhouse"
+      "note": "agency",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=Nigel%20Frank%20International%20remote%20jobs"
     },
     {
       "id": "board-ontop",
@@ -1944,7 +2968,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "board"
+      "note": "board",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=Ontop%20remote%20jobs"
     },
     {
       "id": "co-robertwalters-com-br",
@@ -1953,7 +2982,12 @@
       "host": "robertwalters.com.br",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 403,
+      "linkState": "blocked",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.robertwalters.com.br/oportunidades.html?q="
     },
     {
       "id": "co-comune-trento-it",
@@ -1962,7 +2996,12 @@
       "host": "comune.trento.it",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.comune.trento.it/Amministrazione-Trasparente/Organizzazione/Articolazione-degli-uffici"
     },
     {
       "id": "co-optimussearch-com",
@@ -1971,7 +3010,12 @@
       "host": "optimussearch.com",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.optimussearch.com/jobs/?keyword=Software+Engineer&locationregion=&jobtype=contract&salarybase=&salary="
     },
     {
       "id": "co-outsystems-com",
@@ -1980,7 +3024,12 @@
       "region": "eu-br",
       "type": "company",
       "host": "outsystems.com",
-      "source": "curated"
+      "source": "curated",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.outsystems.com/careers"
     },
     {
       "id": "co-pciconcursos-com-br",
@@ -1989,7 +3038,12 @@
       "host": "pciconcursos.com.br",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.pciconcursos.com.br/"
     },
     {
       "id": "co-peixe30-com",
@@ -1998,7 +3052,12 @@
       "host": "peixe30.com",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://peixe30.com/"
     },
     {
       "id": "co-personio-com",
@@ -2007,7 +3066,12 @@
       "region": "eu-br",
       "type": "company",
       "host": "personio.com",
-      "source": "curated"
+      "source": "curated",
+      "linkOk": false,
+      "linkStatus": 429,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.personio.com/careers/"
     },
     {
       "id": "co-pessoas-vagas-com-br",
@@ -2016,7 +3080,12 @@
       "host": "pessoas.vagas.com.br",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.vagas.com.br/"
     },
     {
       "id": "co-planet-wd3-myworkdayjobs-com",
@@ -2027,7 +3096,12 @@
       "type": "company",
       "source": "empresas-bookmark+linkedin-seed",
       "searchUrl": "https://planet.wd3.myworkdayjobs.com/Planet",
-      "note": "Workday planet/Planet"
+      "note": "Workday planet/Planet",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://planet.wd3.myworkdayjobs.com/Planet"
     },
     {
       "id": "board-powertofly",
@@ -2037,7 +3111,28 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "board"
+      "note": "board",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=PowerToFly%20remote%20jobs"
+    },
+    {
+      "id": "co-boards-greenhouse-io",
+      "name": "Praxis",
+      "url": "https://boards.greenhouse.io/praxis",
+      "host": "boards.greenhouse.io",
+      "region": "latam",
+      "type": "company",
+      "source": "empresas-bookmark+linkedin-seed",
+      "searchUrl": "https://boards.greenhouse.io/praxis",
+      "note": "ATS greenhouse",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://job-boards.greenhouse.io/praxis"
     },
     {
       "id": "co-prediktive-com",
@@ -2046,7 +3141,12 @@
       "host": "prediktive.com",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.prediktive.com/"
     },
     {
       "id": "co-programathor-com-br",
@@ -2057,7 +3157,12 @@
       "type": "board",
       "source": "bookmark+curated",
       "featured": false,
-      "priority": 100
+      "priority": 100,
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://programathor.com.br/"
     },
     {
       "id": "co-esx-com-br",
@@ -2066,7 +3171,12 @@
       "host": "esx.com.br",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://prezensa.com/"
     },
     {
       "id": "co-proventusint-com",
@@ -2075,7 +3185,12 @@
       "host": "proventusint.com",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 500,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://zyntherixo.com/"
     },
     {
       "id": "board-proxify",
@@ -2085,7 +3200,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "board"
+      "note": "board",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=Proxify%20remote%20jobs"
     },
     {
       "id": "co-ltm-dts0nz1",
@@ -2094,7 +3214,12 @@
       "host": "ltm-dts0nz1",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "fetch failed"
     },
     {
       "id": "board-querohomevagashomeoffice",
@@ -2104,7 +3229,28 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "board"
+      "note": "board",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=Quero%20Home%20-%20Vagas%20Home%20Office%20remote%20jobs"
+    },
+    {
+      "id": "co-jobs-ashbyhq-com",
+      "name": "Quorum",
+      "url": "https://jobs.ashbyhq.com/quorum",
+      "host": "jobs.ashbyhq.com",
+      "region": "latam",
+      "type": "company",
+      "source": "linkedin-seed",
+      "searchUrl": "https://jobs.ashbyhq.com/quorum",
+      "note": "ATS ashby",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://jobs.ashbyhq.com/quorum"
     },
     {
       "id": "board-randstaddigitaltorc",
@@ -2114,7 +3260,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "agency"
+      "note": "agency",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=Randstad%20Digital%20%7C%20Torc%20remote%20jobs"
     },
     {
       "id": "co-iamexpat-nl",
@@ -2123,7 +3274,12 @@
       "host": "iamexpat.nl",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.iamexpat.nl/career/finding-job-netherlands/dutch-recruitment-agencies"
     },
     {
       "id": "co-remotar-com-br",
@@ -2134,7 +3290,12 @@
       "type": "board",
       "source": "bookmark+curated",
       "featured": false,
-      "priority": 100
+      "priority": 100,
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://remotar.com.br/"
     },
     {
       "id": "board-remote",
@@ -2144,7 +3305,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "board"
+      "note": "board",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=Remote%20remote%20jobs"
     },
     {
       "id": "co-arc-dev",
@@ -2153,7 +3319,12 @@
       "host": "arc.dev",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://arc.dev/"
     },
     {
       "id": "co-remoteok-com",
@@ -2162,7 +3333,12 @@
       "region": "worldwide",
       "type": "board",
       "host": "remoteok.com",
-      "source": "curated"
+      "source": "curated",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://remoteok.com/"
     },
     {
       "id": "co-remoterocketship-com",
@@ -2171,7 +3347,12 @@
       "region": "worldwide",
       "type": "board",
       "host": "remoterocketship.com",
-      "source": "curated"
+      "source": "curated",
+      "linkOk": false,
+      "linkStatus": 403,
+      "linkState": "blocked",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.remoterocketship.com/br/"
     },
     {
       "id": "board-remotetalentlatam",
@@ -2181,7 +3362,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "board"
+      "note": "board",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=Remote%20Talent%20LATAM%20remote%20jobs"
     },
     {
       "id": "board-remoteworkmate",
@@ -2191,7 +3377,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "board"
+      "note": "board",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=Remote%20Workmate%20remote%20jobs"
     },
     {
       "id": "co-remote-com",
@@ -2200,7 +3391,12 @@
       "region": "worldwide",
       "type": "board",
       "host": "remote.com",
-      "source": "curated"
+      "source": "curated",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://remote.com/jobs"
     },
     {
       "id": "board-remotedevsbr",
@@ -2210,7 +3406,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "board"
+      "note": "board",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=RemoteDevsBR%20remote%20jobs"
     },
     {
       "id": "board-remotelyworks",
@@ -2220,7 +3421,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "board"
+      "note": "board",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=Remotely.works%20remote%20jobs"
     },
     {
       "id": "co-remoters-com-br",
@@ -2229,7 +3435,12 @@
       "region": "brazil",
       "type": "board",
       "host": "remoters.com.br",
-      "source": "curated"
+      "source": "curated",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://remoters.com.br/"
     },
     {
       "id": "co-remotive-com",
@@ -2238,7 +3449,12 @@
       "region": "worldwide",
       "type": "board",
       "host": "remotive.com",
-      "source": "curated"
+      "source": "curated",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://remotive.com/"
     },
     {
       "id": "board-remotive",
@@ -2248,18 +3464,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "board"
-    },
-    {
-      "id": "co-jobs-lever-co",
-      "name": "Resilient Co.",
-      "url": "https://jobs.lever.co/resilientco",
-      "host": "jobs.lever.co",
-      "region": "latam",
-      "type": "company",
-      "source": "linkedin-seed",
-      "searchUrl": "https://jobs.lever.co/resilientco",
-      "note": "ATS lever"
+      "note": "board",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=Remotive%20remote%20jobs"
     },
     {
       "id": "co-revelo-com-br",
@@ -2268,7 +3478,12 @@
       "region": "brazil",
       "type": "board",
       "host": "revelo.com.br",
-      "source": "curated"
+      "source": "curated",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.revelo.com.br/"
     },
     {
       "id": "board-revelo",
@@ -2278,7 +3493,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "board"
+      "note": "board",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=Revelo%20remote%20jobs"
     },
     {
       "id": "board-revelobrasil",
@@ -2288,7 +3508,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "board"
+      "note": "board",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=Revelo%20Brasil%20remote%20jobs"
     },
     {
       "id": "board-revelolatam",
@@ -2298,7 +3523,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "board"
+      "note": "board",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=Revelo%20LATAM%20remote%20jobs"
     },
     {
       "id": "co-revolut-com",
@@ -2307,7 +3537,12 @@
       "region": "eu-br",
       "type": "company",
       "host": "revolut.com",
-      "source": "curated"
+      "source": "curated",
+      "linkOk": false,
+      "linkStatus": 403,
+      "linkState": "blocked",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.revolut.com/careers"
     },
     {
       "id": "board-roberthalf",
@@ -2317,7 +3552,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "agency"
+      "note": "agency",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=Robert%20Half%20remote%20jobs"
     },
     {
       "id": "board-robertwalters",
@@ -2327,7 +3567,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "agency"
+      "note": "agency",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=Robert%20Walters%20remote%20jobs"
     },
     {
       "id": "co-safetyculture-com",
@@ -2336,7 +3581,12 @@
       "region": "au-br",
       "type": "company",
       "host": "safetyculture.com",
-      "source": "curated"
+      "source": "curated",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://safetyculture.com/careers"
     },
     {
       "id": "co-careerbuilder-ca",
@@ -2345,7 +3595,12 @@
       "host": "careerbuilder.ca",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 403,
+      "linkState": "blocked",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.careerbuilder.com/"
     },
     {
       "id": "co-blog-sec-consult-com",
@@ -2354,7 +3609,12 @@
       "host": "blog.sec-consult.com",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 404,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://sec-consult.com/blog2013/07/content-security-policy-csp-another.html"
     },
     {
       "id": "co-manager-ltm-sensedia-com",
@@ -2363,7 +3623,12 @@
       "host": "manager-ltm.sensedia.com",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "fetch failed"
     },
     {
       "id": "co-grupoltm-service-now-com",
@@ -2372,7 +3637,12 @@
       "host": "grupoltm.service-now.com",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://grupoltm.service-now.com/navpage.do"
     },
     {
       "id": "co-grupoltmqa-service-now-com",
@@ -2381,7 +3651,12 @@
       "host": "grupoltmqa.service-now.com",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "fetch failed"
     },
     {
       "id": "board-sherbornetalentsolutions",
@@ -2391,7 +3666,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "agency"
+      "note": "agency",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=Sherborne%20Talent%20Solutions%20remote%20jobs"
     },
     {
       "id": "board-simplyhired",
@@ -2401,7 +3681,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "board"
+      "note": "board",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=SimplyHired%20remote%20jobs"
     },
     {
       "id": "co-skipthedrive-com",
@@ -2410,7 +3695,12 @@
       "region": "worldwide",
       "type": "board",
       "host": "skipthedrive.com",
-      "source": "curated"
+      "source": "curated",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.skipthedrive.com/"
     },
     {
       "id": "co-apollo-11-workspace-slack-com",
@@ -2419,7 +3709,12 @@
       "host": "apollo-11-workspace.slack.com",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://apollo-11-workspace.slack.com/?redir=%2Fmessages%2FDAN62UKC7%2F"
     },
     {
       "id": "co-computerjobs-ie",
@@ -2428,7 +3723,12 @@
       "host": "computerjobs.ie",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 404,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.computerjobs.ie/jobboard/cands/JobResults.asp?c=1&strDescription=&strKeywords=&radCompanyType=&lstIndustry=Software+Developer%2FEngineer&lstContract=&lstITExperience=&lstRegion="
     },
     {
       "id": "co-crossover-com",
@@ -2437,7 +3737,12 @@
       "host": "crossover.com",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.crossover.com/jobs/3890/software-engineer"
     },
     {
       "id": "co-welovesalt-com",
@@ -2446,7 +3751,12 @@
       "host": "welovesalt.com",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 404,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://welovesalt.com/jobs/job-industry/software-engineering/page/2/"
     },
     {
       "id": "co-sonarqube-grupoltm-com-br",
@@ -2455,7 +3765,12 @@
       "host": "sonarqube.grupoltm.com.br",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "timeout"
     },
     {
       "id": "co-ltmh-mkp-sonarcoreafapi-dev-azurewebsites-net",
@@ -2464,7 +3779,12 @@
       "host": "ltmh-mkp-sonarcoreafapi-dev.azurewebsites.net",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "fetch failed"
     },
     {
       "id": "co-sorocabati-com-br",
@@ -2473,7 +3793,12 @@
       "host": "sorocabati.com.br",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://sorocabati.com.br/"
     },
     {
       "id": "co-opusrecruitmentsolutions-com",
@@ -2482,7 +3807,12 @@
       "host": "opusrecruitmentsolutions.com",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://opusrecruitmentsolutions.com/"
     },
     {
       "id": "co-dawsonandwalsh-co-uk",
@@ -2491,7 +3821,12 @@
       "host": "dawsonandwalsh.co.uk",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.dawsonandwalsh.co.uk/"
     },
     {
       "id": "co-spotifyjobs-com",
@@ -2500,7 +3835,12 @@
       "region": "eu-br",
       "type": "company",
       "host": "spotifyjobs.com",
-      "source": "curated"
+      "source": "curated",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.lifeatspotify.com/"
     },
     {
       "id": "co-germanystartupjobs-com",
@@ -2509,7 +3849,12 @@
       "host": "germanystartupjobs.com",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 403,
+      "linkState": "blocked",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://germanystartupjobs.com/"
     },
     {
       "id": "co-opendata-cbs-nl",
@@ -2518,7 +3863,12 @@
       "host": "opendata.cbs.nl",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://opendata.cbs.nl/"
     },
     {
       "id": "board-strider",
@@ -2528,7 +3878,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "board"
+      "note": "board",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=Strider%20remote%20jobs"
     },
     {
       "id": "board-stridertechnologies",
@@ -2538,7 +3893,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "board"
+      "note": "board",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=Strider%20Technologies%20remote%20jobs"
     },
     {
       "id": "co-youtube-com",
@@ -2547,7 +3907,12 @@
       "host": "youtube.com",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.youtube.com/watch?v=cbQbR26XfBs"
     },
     {
       "id": "board-talentfourconsulting",
@@ -2557,7 +3922,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "agency"
+      "note": "agency",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=Talent%20Four%20Consulting%20remote%20jobs"
     },
     {
       "id": "co-meta-ats-peoplenect-com",
@@ -2566,7 +3936,28 @@
       "host": "meta.ats.peoplenect.com",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "timeout"
+    },
+    {
+      "id": "co-job-boards-greenhouse-io",
+      "name": "Talkdesk",
+      "url": "http://job-boards.greenhouse.io/talkdesk2/",
+      "host": "job-boards.greenhouse.io",
+      "region": "latam",
+      "type": "company",
+      "source": "linkedin-seed",
+      "searchUrl": "http://job-boards.greenhouse.io/talkdesk2/",
+      "note": "ATS greenhouse",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://job-boards.greenhouse.io/talkdesk2/"
     },
     {
       "id": "board-techjobs360globalremoteandinternationaltechjobs",
@@ -2576,7 +3967,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "board"
+      "note": "board",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=TechJobs360%20-%20Global%20Remote%20%26%20International%20Tech%20Jobs%20remote%20jobs"
     },
     {
       "id": "co-career-luxoft-com",
@@ -2585,7 +3981,12 @@
       "host": "career.luxoft.com",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 404,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://career.luxoft.com/careers/200979/technical-developer-c"
     },
     {
       "id": "co-bcg-com",
@@ -2594,7 +3995,12 @@
       "host": "bcg.com",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 404,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.bcg.com/careers/roles/technology-engineering/default?utm_source=linkedin&utm_medium=social&utm_campaign=role_families&utm_description=paid&utm_topic=technology_engineering&utm_geo=global&redir=true"
     },
     {
       "id": "co-tecla-io",
@@ -2603,7 +4009,12 @@
       "region": "us-br",
       "type": "company",
       "host": "tecla.io",
-      "source": "curated"
+      "source": "curated",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.tecla.io/pt/join"
     },
     {
       "id": "co-tegra-me",
@@ -2612,7 +4023,12 @@
       "host": "tegra.me",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "fetch failed"
     },
     {
       "id": "co-teksystems-com",
@@ -2621,7 +4037,12 @@
       "host": "teksystems.com",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.teksystems.com/"
     },
     {
       "id": "co-srv-ltm-tfs-01",
@@ -2630,7 +4051,12 @@
       "host": "srv-ltm-tfs-01",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "fetch failed"
     },
     {
       "id": "co-cpljobs-com",
@@ -2639,7 +4065,12 @@
       "host": "cpljobs.com",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 404,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.cpl.com/ie/job-application-thank-you"
     },
     {
       "id": "co-thoughtworks-com",
@@ -2648,7 +4079,12 @@
       "host": "thoughtworks.com",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.thoughtworks.com/"
     },
     {
       "id": "board-tigerresourcinggroup",
@@ -2658,7 +4094,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "agency"
+      "note": "agency",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=Tiger%20Resourcing%20Group%20remote%20jobs"
     },
     {
       "id": "co-toplanguagejobs-com",
@@ -2667,7 +4108,12 @@
       "host": "toplanguagejobs.com",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "fetch failed"
     },
     {
       "id": "co-toptal-com",
@@ -2678,7 +4124,12 @@
       "type": "company",
       "source": "bookmark+curated",
       "featured": false,
-      "priority": 100
+      "priority": 100,
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.toptal.com/"
     },
     {
       "id": "board-toptal",
@@ -2688,7 +4139,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "board"
+      "note": "board",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=Toptal%20remote%20jobs"
     },
     {
       "id": "board-torreai",
@@ -2698,7 +4154,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "board"
+      "note": "board",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=Torre.ai%20remote%20jobs"
     },
     {
       "id": "co-torre-co",
@@ -2707,7 +4168,12 @@
       "region": "worldwide",
       "type": "board",
       "host": "torre.co",
-      "source": "curated"
+      "source": "curated",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://torre.ai/"
     },
     {
       "id": "board-trabajoenremoto",
@@ -2717,7 +4183,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "board"
+      "note": "board",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=Trabajo%20en%20Remoto%20remote%20jobs"
     },
     {
       "id": "board-tramparnagringa",
@@ -2727,7 +4198,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "board"
+      "note": "board",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=Trampar%20na%20Gringa%20remote%20jobs"
     },
     {
       "id": "co-trampos-co",
@@ -2736,7 +4212,12 @@
       "region": "brazil",
       "type": "board",
       "host": "trampos.co",
-      "source": "curated"
+      "source": "curated",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://trampos.co/"
     },
     {
       "id": "co-developers-turing-com",
@@ -2745,7 +4226,12 @@
       "host": "developers.turing.com",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://work.turing.com/"
     },
     {
       "id": "board-turing",
@@ -2755,7 +4241,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "board"
+      "note": "board",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=Turing%20remote%20jobs"
     },
     {
       "id": "co-ubisoft-com",
@@ -2764,7 +4255,12 @@
       "host": "ubisoft.com",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.ubisoft.com/en-us/company/careers/search?query=c%2523&jobFamilies=Programming%2520%2526%2520Technology&teams=Programming&countries=ca"
     },
     {
       "id": "co-uipath-com",
@@ -2773,7 +4269,12 @@
       "region": "eu-br",
       "type": "company",
       "host": "uipath.com",
-      "source": "curated"
+      "source": "curated",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.uipath.com/careers"
     },
     {
       "id": "co-upwork-com",
@@ -2784,7 +4285,12 @@
       "type": "board",
       "source": "bookmark+curated",
       "featured": false,
-      "priority": 100
+      "priority": 100,
+      "linkOk": false,
+      "linkStatus": 403,
+      "linkState": "blocked",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.upwork.com/"
     },
     {
       "id": "co-ca-uzoes-com",
@@ -2793,7 +4299,12 @@
       "host": "ca.uzoes.com",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "fetch failed"
     },
     {
       "id": "board-vacantesremotastrabajoremoto",
@@ -2803,7 +4314,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "board"
+      "note": "board",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=Vacantes%20Remotas%3A%20Trabajo%20remoto%20remote%20jobs"
     },
     {
       "id": "co-nerdin-com-br",
@@ -2812,7 +4328,12 @@
       "host": "nerdin.com.br",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.nerdin.com.br/vaga_emprego/vaga-desenvolvedor-a-net-95546.php"
     },
     {
       "id": "co-trescon-com-br",
@@ -2821,7 +4342,12 @@
       "host": "trescon.com.br",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 404,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://trescon.com.br/vagas/"
     },
     {
       "id": "co-gsn-com-br",
@@ -2830,7 +4356,12 @@
       "host": "gsn.com.br",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "timeout"
     },
     {
       "id": "co-empregasorocaba-net-br",
@@ -2839,7 +4370,12 @@
       "host": "empregasorocaba.net.br",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 404,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "http://empregasorocaba.net.br/vaga/"
     },
     {
       "id": "co-careers-br-daitan-com",
@@ -2848,7 +4384,12 @@
       "host": "careers-br.daitan.com",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "timeout"
     },
     {
       "id": "co-peoplerpm-com",
@@ -2857,7 +4398,12 @@
       "host": "peoplerpm.com",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 503,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.peoplerpm.com/careers/fcamara/?module=vaga&action=listaVaga"
     },
     {
       "id": "board-vagaspj",
@@ -2867,7 +4413,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "board"
+      "note": "board",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=Vagas%20PJ%20remote%20jobs"
     },
     {
       "id": "co-parceriasocialdeempregos-com-br",
@@ -2876,7 +4427,12 @@
       "host": "parceriasocialdeempregos.com.br",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "fetch failed"
     },
     {
       "id": "co-vagasremotas-com-br",
@@ -2885,7 +4441,12 @@
       "region": "brazil",
       "type": "board",
       "host": "vagasremotas.com.br",
-      "source": "curated"
+      "source": "curated",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://vagasremotas.com.br/"
     },
     {
       "id": "board-vagasremotas",
@@ -2895,7 +4456,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "board"
+      "note": "board",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=Vagas%20Remotas%20remote%20jobs"
     },
     {
       "id": "co-verxrh-com-br",
@@ -2904,7 +4470,12 @@
       "host": "verxrh.com.br",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 403,
+      "linkState": "blocked",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "http://www.verxrh.com.br/vagas_profissional/busca/inicio.do?command=buscar"
     },
     {
       "id": "co-virtualvocations-com",
@@ -2913,7 +4484,12 @@
       "region": "worldwide",
       "type": "board",
       "host": "virtualvocations.com",
-      "source": "curated"
+      "source": "curated",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.virtualvocations.com/"
     },
     {
       "id": "board-vividresourcing",
@@ -2923,7 +4499,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "agency"
+      "note": "agency",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=Vivid%20Resourcing%20remote%20jobs"
     },
     {
       "id": "co-ca-indeed-com",
@@ -2932,7 +4513,12 @@
       "host": "ca.indeed.com",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://ca.indeed.com/vog-app-developers-jobs-in-Calgary,-AB"
     },
     {
       "id": "co-exame-com",
@@ -2941,7 +4527,12 @@
       "host": "exame.com",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://exame.com/invest/minhas-financas/voltei-a-morar-no-brasil-neste-ano-como-declarar-o-ir/"
     },
     {
       "id": "co-login-microsoftonline-com",
@@ -2950,7 +4541,12 @@
       "host": "login.microsoftonline.com",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://login.microsoftonline.com/16904e7d-c4aa-4f87-b946-bd34d60a4237/oauth2/authorize?client_id=499b84ac-1321-427f-aa17-267ca6975798&site_id=501454&response_mode=form_post&response_type=code+id_token&redirect_uri=https%3A%2F%2Fapp.vssps.visualstudio.com%2F_signedin&nonce=d18f48f6-78fa-47ce-9937-6ed38a1135d5&state=realm%3Dgrupoltm.visualstudio.com%26reply_to%3Dhttps%253A%252F%252Fgrupoltm.visualstudio.com%252F%26ht%3D2%26nonce%3Dd18f48f6-78fa-47ce-9937-6ed38a1135d5&resource=https%3A%2F%2Fmanagement.core.windows.net%2F&wsucxt=1"
     },
     {
       "id": "co-app-vulpi-com-br",
@@ -2959,7 +4555,12 @@
       "host": "app.vulpi.com.br",
       "region": "bookmark",
       "type": "company",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "fetch failed"
     },
     {
       "id": "co-bbx-de",
@@ -2968,7 +4569,12 @@
       "host": "bbx.de",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.bbx.de/grossnet-wage-calculator-germany/"
     },
     {
       "id": "co-downsub-com",
@@ -2977,7 +4583,12 @@
       "host": "downsub.com",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://downsub.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DXecsE5-k_0s%26ab_channel%3DLeandroCarliniMingorance"
     },
     {
       "id": "co-weworkremotely-com",
@@ -2986,7 +4597,12 @@
       "region": "worldwide",
       "type": "board",
       "host": "weworkremotely.com",
-      "source": "curated"
+      "source": "curated",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://weworkremotely.com/"
     },
     {
       "id": "board-weworkremotely",
@@ -2996,7 +4612,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "board"
+      "note": "board",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=We%20Work%20Remotely%20remote%20jobs"
     },
     {
       "id": "co-webmail-grupoltm-com-br",
@@ -3005,7 +4626,12 @@
       "host": "webmail.grupoltm.com.br",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "fetch failed"
     },
     {
       "id": "co-azu-hml-ltmlive-azurewebsites-net",
@@ -3014,7 +4640,12 @@
       "host": "azu-hml-ltmlive.azurewebsites.net",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "fetch failed"
     },
     {
       "id": "co-wellfound-com",
@@ -3023,7 +4654,12 @@
       "region": "worldwide",
       "type": "board",
       "host": "wellfound.com",
-      "source": "curated"
+      "source": "curated",
+      "linkOk": false,
+      "linkStatus": 403,
+      "linkState": "blocked",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://wellfound.com/jobs"
     },
     {
       "id": "board-wellfound",
@@ -3033,7 +4669,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "board"
+      "note": "board",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=Wellfound%20remote%20jobs"
     },
     {
       "id": "board-weremoto",
@@ -3043,7 +4684,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "board"
+      "note": "board",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=WeRemoto%20remote%20jobs"
     },
     {
       "id": "co-wise-com",
@@ -3052,7 +4698,12 @@
       "region": "eu-br",
       "type": "company",
       "host": "wise.com",
-      "source": "curated"
+      "source": "curated",
+      "linkOk": false,
+      "linkStatus": 404,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://wise.com/en/careers"
     },
     {
       "id": "co-alteo-ca",
@@ -3061,7 +4712,12 @@
       "host": "alteo.ca",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.alteo.ca/en/candidates/work-in-information-technology-in-canada-quebec-montreal.html"
     },
     {
       "id": "co-workingnomads-com",
@@ -3070,7 +4726,12 @@
       "region": "worldwide",
       "type": "board",
       "host": "workingnomads.com",
-      "source": "curated"
+      "source": "curated",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.workingnomads.com/jobs"
     },
     {
       "id": "board-workingnomads",
@@ -3080,7 +4741,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "board"
+      "note": "board",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=Working%20Nomads%20remote%20jobs"
     },
     {
       "id": "co-reddit-com",
@@ -3089,7 +4755,12 @@
       "host": "reddit.com",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.reddit.com/r/Germany/wiki/working/findingajob/"
     },
     {
       "id": "co-padarialaville-com-br",
@@ -3098,7 +4769,12 @@
       "host": "padarialaville.com.br",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": false,
+      "linkStatus": 400,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.emporiolaville.com.br/cardapio.pdf"
     },
     {
       "id": "board-xteam",
@@ -3108,7 +4784,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "board"
+      "note": "board",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=X-Team%20remote%20jobs"
     },
     {
       "id": "co-xero-com",
@@ -3117,7 +4798,12 @@
       "region": "au-br",
       "type": "company",
       "host": "xero.com",
-      "source": "curated"
+      "source": "curated",
+      "linkOk": false,
+      "linkStatus": 403,
+      "linkState": "blocked",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://careers.xero.com/"
     },
     {
       "id": "co-xing-com",
@@ -3126,7 +4812,12 @@
       "host": "xing.com",
       "region": "bookmark",
       "type": "link",
-      "source": "empresas-bookmark"
+      "source": "empresas-bookmark",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.xing.com/"
     },
     {
       "id": "co-ycombinator-com",
@@ -3135,7 +4826,12 @@
       "region": "us-br",
       "type": "board",
       "host": "ycombinator.com",
-      "source": "curated"
+      "source": "curated",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.ycombinator.com/jobs"
     },
     {
       "id": "board-yoitconsulting",
@@ -3145,7 +4841,12 @@
       "region": "worldwide",
       "type": "board",
       "source": "linkedin-seed",
-      "note": "agency"
+      "note": "agency",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search?q=YO%20IT%20Consulting%20remote%20jobs"
     },
     {
       "id": "co-zapier-com",
@@ -3154,7 +4855,18 @@
       "region": "us-br",
       "type": "company",
       "host": "zapier.com",
-      "source": "curated"
+      "source": "curated",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://zapier.com/jobs"
     }
-  ]
+  ],
+  "linkHealth": {
+    "checkedAt": "2026-08-04T15:27:59.698Z",
+    "total": 337,
+    "ok": 226,
+    "fail": 111
+  }
 }

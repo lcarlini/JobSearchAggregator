@@ -1,21 +1,50 @@
 {
-  "generatedAt": "2026-08-04T14:49:05.293Z",
+  "generatedAt": "2026-08-04T15:22:29.109Z",
   "greenhouse": [
-    "abinbev",
-    "caylent",
-    "classpass",
+    "apolloio",
+    "dept",
+    "ensono",
+    "freestar",
+    "incognia",
+    "jampp",
+    "kaizengaming",
+    "lettrlabs",
+    "mindbody",
+    "moduscreate",
     "nortal",
-    "nubank",
-    "truelogic"
+    "paystand",
+    "praxis",
+    "redventures",
+    "rithum",
+    "roller",
+    "seekr",
+    "talkdesk2",
+    "truelogic",
+    "wizeline",
+    "workleap",
+    "zupinnovation"
   ],
   "lever": [
     "codelitt",
+    "gopuff",
+    "neon",
+    "reply",
     "resilientco",
-    "tractian"
+    "trustly"
   ],
   "ashby": [
+    "belvo",
+    "caremessage",
     "exa",
-    "keyrock"
+    "fullstack",
+    "infisical",
+    "keyrock",
+    "klue",
+    "nomad",
+    "quorum",
+    "rescale",
+    "signoz",
+    "stickermule"
   ],
   "workable": [
     "jalasoft",
@@ -34,6 +63,20 @@
   "personio": [],
   "workday": [
     {
+      "id": "csgi/CSGCareers",
+      "host": "csgi.wd5.myworkdayjobs.com",
+      "tenant": "csgi",
+      "site": "CSGCareers",
+      "url": "https://csgi.wd5.myworkdayjobs.com/CSGCareers"
+    },
+    {
+      "id": "dxctechnology/DXCJobs",
+      "host": "dxctechnology.wd1.myworkdayjobs.com",
+      "tenant": "dxctechnology",
+      "site": "DXCJobs",
+      "url": "https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs"
+    },
+    {
       "id": "fmr/FidelityCareers",
       "host": "wd1.myworkdaysite.com",
       "tenant": "fmr",
@@ -46,77 +89,245 @@
       "tenant": "planet",
       "site": "Planet",
       "url": "https://planet.wd3.myworkdayjobs.com/Planet"
-    },
-    {
-      "id": "dxctechnology/DXCJobs",
-      "host": "dxctechnology.wd1.myworkdayjobs.com",
-      "tenant": "dxctechnology",
-      "site": "DXCJobs",
-      "url": "https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs"
-    },
-    {
-      "id": "csgi/CSGCareers",
-      "host": "csgi.wd5.myworkdayjobs.com",
-      "tenant": "csgi",
-      "site": "CSGCareers",
-      "url": "https://csgi.wd5.myworkdayjobs.com/CSGCareers"
     }
   ],
   "employers": [
     {
-      "name": "EXA",
-      "slug": "exa",
-      "ats": "ashby",
-      "jobs": 41,
+      "name": "SEEKR",
+      "slug": "seekr",
+      "ats": "greenhouse",
+      "jobs": 27,
       "source": "probe"
     },
     {
-      "name": "_nology",
-      "slug": "nology",
-      "ats": "workable",
+      "name": "SigNoz",
+      "slug": "signoz",
+      "ats": "ashby",
+      "jobs": 15,
+      "source": "probe"
+    },
+    {
+      "name": "Rithum",
+      "slug": "rithum",
+      "ats": "greenhouse",
+      "jobs": 21,
+      "source": "probe"
+    },
+    {
+      "name": "Zup Innovation",
+      "slug": "zupinnovation",
+      "ats": "greenhouse",
+      "jobs": 17,
+      "source": "probe"
+    },
+    {
+      "name": "Freestar",
+      "slug": "freestar",
+      "ats": "greenhouse",
+      "jobs": 8,
+      "source": "probe"
+    },
+    {
+      "name": "Red Ventures",
+      "slug": "redventures",
+      "ats": "greenhouse",
+      "jobs": 64,
+      "source": "probe"
+    },
+    {
+      "name": "Kaizen Gaming",
+      "slug": "kaizengaming",
+      "ats": "greenhouse",
+      "jobs": 81,
+      "source": "probe"
+    },
+    {
+      "name": "Belvo",
+      "slug": "belvo",
+      "ats": "ashby",
       "jobs": 6,
       "source": "probe"
     },
     {
-      "name": "AB InBev",
-      "slug": "abinbev",
+      "name": "Wizeline",
+      "slug": "wizeline",
       "ats": "greenhouse",
-      "jobs": 56,
+      "jobs": 39,
       "source": "probe"
     },
     {
-      "name": "TRACTIAN",
-      "slug": "tractian",
+      "name": "Paystand",
+      "slug": "paystand",
+      "ats": "greenhouse",
+      "jobs": 11,
+      "source": "probe"
+    },
+    {
+      "name": "ROLLER",
+      "slug": "roller",
+      "ats": "greenhouse",
+      "jobs": 17,
+      "source": "probe"
+    },
+    {
+      "name": "Jampp",
+      "slug": "jampp",
+      "ats": "greenhouse",
+      "jobs": 5,
+      "source": "probe"
+    },
+    {
+      "name": "DEPT®",
+      "slug": "dept",
+      "ats": "greenhouse",
+      "jobs": 229,
+      "source": "probe"
+    },
+    {
+      "name": "Neon",
+      "slug": "neon",
       "ats": "lever",
-      "jobs": 111,
+      "jobs": 14,
       "source": "probe"
     },
     {
-      "name": "Caylent",
-      "slug": "caylent",
+      "name": "Modus Create",
+      "slug": "moduscreate",
       "ats": "greenhouse",
-      "jobs": 80,
+      "jobs": 12,
       "source": "probe"
     },
     {
-      "name": "ClassPass",
-      "slug": "classpass",
+      "name": "Workleap",
+      "slug": "workleap",
       "ats": "greenhouse",
-      "jobs": 59,
+      "jobs": 11,
       "source": "probe"
     },
     {
-      "name": "Nortal",
-      "slug": "nortal",
+      "name": "CareMessage",
+      "slug": "caremessage",
+      "ats": "ashby",
+      "jobs": 3,
+      "source": "probe"
+    },
+    {
+      "name": "Rescale",
+      "slug": "rescale",
+      "ats": "ashby",
+      "jobs": 17,
+      "source": "probe"
+    },
+    {
+      "name": "Sticker Mule",
+      "slug": "stickermule",
+      "ats": "ashby",
+      "jobs": 7,
+      "source": "probe"
+    },
+    {
+      "name": "Talkdesk",
       "ats": "greenhouse",
-      "jobs": 49,
-      "source": "probe"
+      "slug": "talkdesk2",
+      "url": "http://job-boards.greenhouse.io/talkdesk2/",
+      "source": "html"
     },
     {
-      "name": "Resilient Co.",
-      "slug": "resilientco",
+      "name": "Trustly",
+      "slug": "trustly",
       "ats": "lever",
-      "jobs": 27,
+      "jobs": 20,
+      "source": "probe"
+    },
+    {
+      "name": "LettrLabs",
+      "slug": "lettrlabs",
+      "ats": "greenhouse",
+      "jobs": 10,
+      "source": "probe"
+    },
+    {
+      "name": "Nomad",
+      "slug": "nomad",
+      "ats": "ashby",
+      "jobs": 2,
+      "source": "probe"
+    },
+    {
+      "name": "Ensono",
+      "slug": "ensono",
+      "ats": "greenhouse",
+      "jobs": 66,
+      "source": "probe"
+    },
+    {
+      "name": "Infisical",
+      "slug": "infisical",
+      "ats": "ashby",
+      "jobs": 6,
+      "source": "probe"
+    },
+    {
+      "name": "Mindbody",
+      "slug": "mindbody",
+      "ats": "greenhouse",
+      "jobs": 19,
+      "source": "probe"
+    },
+    {
+      "name": "Incognia",
+      "slug": "incognia",
+      "ats": "greenhouse",
+      "jobs": 8,
+      "source": "probe"
+    },
+    {
+      "name": "Klue",
+      "slug": "klue",
+      "ats": "ashby",
+      "jobs": 7,
+      "source": "probe"
+    },
+    {
+      "name": "Reply",
+      "slug": "reply",
+      "ats": "lever",
+      "jobs": 39,
+      "source": "probe"
+    },
+    {
+      "name": "Apollo.io",
+      "slug": "apolloio",
+      "ats": "greenhouse",
+      "jobs": 35,
+      "source": "probe"
+    },
+    {
+      "name": "FullStack",
+      "slug": "fullstack",
+      "ats": "ashby",
+      "jobs": 4,
+      "source": "probe"
+    },
+    {
+      "name": "Praxis",
+      "slug": "praxis",
+      "ats": "greenhouse",
+      "jobs": 1,
+      "source": "probe"
+    },
+    {
+      "name": "Quorum",
+      "slug": "quorum",
+      "ats": "ashby",
+      "jobs": 7,
+      "source": "probe"
+    },
+    {
+      "name": "Gopuff",
+      "slug": "gopuff",
+      "ats": "lever",
+      "jobs": 809,
       "source": "probe"
     }
   ],
@@ -509,6 +720,12 @@
   ],
   "notes": [
     {
+      "ats": "workable",
+      "slug": "nology",
+      "from": "empresas",
+      "name": "_nology"
+    },
+    {
       "ats": "recruitee",
       "slug": "jobs",
       "from": "empresas",
@@ -516,9 +733,27 @@
     },
     {
       "ats": "workday",
+      "id": "csgi/CSGCareers",
+      "from": "empresas",
+      "name": "csgi"
+    },
+    {
+      "ats": "workday",
+      "id": "dxctechnology/DXCJobs",
+      "from": "empresas",
+      "name": "dxctechnology"
+    },
+    {
+      "ats": "ashby",
+      "slug": "exa",
+      "from": "empresas",
+      "name": "EXA"
+    },
+    {
+      "ats": "workday",
       "id": "fmr/FidelityCareers",
       "from": "empresas",
-      "name": "CAREERS"
+      "name": "fmr"
     },
     {
       "ats": "bamboohr",
@@ -527,22 +762,28 @@
       "name": "HR Software with Heart. Focus on people, not processes"
     },
     {
-      "ats": "greenhouse",
-      "slug": "nubank",
-      "from": "empresas",
-      "name": "Jobs at Nubank"
-    },
-    {
       "ats": "recruitee",
       "slug": "elementinsuranceag",
       "from": "empresas",
       "name": "Karrieren"
     },
     {
+      "ats": "greenhouse",
+      "slug": "nortal",
+      "from": "empresas",
+      "name": "Nortal"
+    },
+    {
       "ats": "workday",
       "id": "planet/Planet",
       "from": "empresas",
-      "name": "Search for Jobs"
+      "name": "planet"
+    },
+    {
+      "ats": "lever",
+      "slug": "resilientco",
+      "from": "empresas",
+      "name": "Resilient Co."
     },
     {
       "ats": "lever",
@@ -587,71 +828,253 @@
       "name": "CSG"
     },
     {
-      "ats": "ashby",
-      "slug": "exa",
+      "ats": "greenhouse",
+      "slug": "seekr",
       "from": "probe",
-      "name": "EXA",
-      "jobs": 41
+      "name": "SEEKR",
+      "jobs": 27
     },
     {
-      "ats": "workable",
-      "slug": "nology",
+      "ats": "ashby",
+      "slug": "signoz",
       "from": "probe",
-      "name": "_nology",
+      "name": "SigNoz",
+      "jobs": 15
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "rithum",
+      "from": "probe",
+      "name": "Rithum",
+      "jobs": 21
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "zupinnovation",
+      "from": "probe",
+      "name": "Zup Innovation",
+      "jobs": 17
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "freestar",
+      "from": "probe",
+      "name": "Freestar",
+      "jobs": 8
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "redventures",
+      "from": "probe",
+      "name": "Red Ventures",
+      "jobs": 64
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "kaizengaming",
+      "from": "probe",
+      "name": "Kaizen Gaming",
+      "jobs": 81
+    },
+    {
+      "ats": "ashby",
+      "slug": "belvo",
+      "from": "probe",
+      "name": "Belvo",
       "jobs": 6
     },
     {
       "ats": "greenhouse",
-      "slug": "abinbev",
+      "slug": "wizeline",
       "from": "probe",
-      "name": "AB InBev",
-      "jobs": 56
+      "name": "Wizeline",
+      "jobs": 39
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "paystand",
+      "from": "probe",
+      "name": "Paystand",
+      "jobs": 11
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "roller",
+      "from": "probe",
+      "name": "ROLLER",
+      "jobs": 17
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "jampp",
+      "from": "probe",
+      "name": "Jampp",
+      "jobs": 5
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "dept",
+      "from": "probe",
+      "name": "DEPT®",
+      "jobs": 229
     },
     {
       "ats": "lever",
-      "slug": "tractian",
+      "slug": "neon",
       "from": "probe",
-      "name": "TRACTIAN",
-      "jobs": 111
+      "name": "Neon",
+      "jobs": 14
     },
     {
       "ats": "greenhouse",
-      "slug": "caylent",
+      "slug": "moduscreate",
       "from": "probe",
-      "name": "Caylent",
-      "jobs": 80
+      "name": "Modus Create",
+      "jobs": 12
     },
     {
       "ats": "greenhouse",
-      "slug": "classpass",
+      "slug": "workleap",
       "from": "probe",
-      "name": "ClassPass",
-      "jobs": 59
+      "name": "Workleap",
+      "jobs": 11
+    },
+    {
+      "ats": "ashby",
+      "slug": "caremessage",
+      "from": "probe",
+      "name": "CareMessage",
+      "jobs": 3
+    },
+    {
+      "ats": "ashby",
+      "slug": "rescale",
+      "from": "probe",
+      "name": "Rescale",
+      "jobs": 17
+    },
+    {
+      "ats": "ashby",
+      "slug": "stickermule",
+      "from": "probe",
+      "name": "Sticker Mule",
+      "jobs": 7
     },
     {
       "ats": "greenhouse",
-      "slug": "nortal",
-      "from": "probe",
-      "name": "Nortal",
-      "jobs": 49
+      "slug": "talkdesk2",
+      "from": "html",
+      "name": "Talkdesk",
+      "page": "https://job-boards.greenhouse.io/talkdesk2/"
     },
     {
       "ats": "lever",
-      "slug": "resilientco",
+      "slug": "trustly",
       "from": "probe",
-      "name": "Resilient Co.",
-      "jobs": 27
+      "name": "Trustly",
+      "jobs": 20
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "lettrlabs",
+      "from": "probe",
+      "name": "LettrLabs",
+      "jobs": 10
+    },
+    {
+      "ats": "ashby",
+      "slug": "nomad",
+      "from": "probe",
+      "name": "Nomad",
+      "jobs": 2
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "ensono",
+      "from": "probe",
+      "name": "Ensono",
+      "jobs": 66
+    },
+    {
+      "ats": "ashby",
+      "slug": "infisical",
+      "from": "probe",
+      "name": "Infisical",
+      "jobs": 6
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "mindbody",
+      "from": "probe",
+      "name": "Mindbody",
+      "jobs": 19
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "incognia",
+      "from": "probe",
+      "name": "Incognia",
+      "jobs": 8
+    },
+    {
+      "ats": "ashby",
+      "slug": "klue",
+      "from": "probe",
+      "name": "Klue",
+      "jobs": 7
+    },
+    {
+      "ats": "lever",
+      "slug": "reply",
+      "from": "probe",
+      "name": "Reply",
+      "jobs": 39
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "apolloio",
+      "from": "probe",
+      "name": "Apollo.io",
+      "jobs": 35
+    },
+    {
+      "ats": "ashby",
+      "slug": "fullstack",
+      "from": "probe",
+      "name": "FullStack",
+      "jobs": 4
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "praxis",
+      "from": "probe",
+      "name": "Praxis",
+      "jobs": 1
+    },
+    {
+      "ats": "ashby",
+      "slug": "quorum",
+      "from": "probe",
+      "name": "Quorum",
+      "jobs": 7
+    },
+    {
+      "ats": "lever",
+      "slug": "gopuff",
+      "from": "probe",
+      "name": "Gopuff",
+      "jobs": 809
     }
   ],
   "stats": {
-    "greenhouse": 6,
-    "lever": 3,
-    "ashby": 2,
+    "greenhouse": 22,
+    "lever": 6,
+    "ashby": 12,
     "workable": 2,
     "workday": 4,
-    "employersFound": 8,
+    "employersFound": 34,
     "boardsListed": 77,
-    "linkOk": 228,
-    "linkFail": 145
+    "linkOk": 311,
+    "linkFail": 144
   }
 }

@@ -10,7 +10,7 @@
       href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,600;9..40,700&family=Syne:wght@700;800&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="./assets/css/styles.css?v=ui-fix1" />
+    <link rel="stylesheet" href="./assets/css/styles.css?v=linkok1" />
   </head>
   <body>
     <div class="wrap">
@@ -41,6 +41,7 @@
       <section class="panel">
         <div class="stats-bar" id="stats-bar">
           <div class="stat"><strong id="stat-total">0</strong><span data-i18n="companiesFound">empresas</span></div>
+          <div class="stat"><strong id="stat-link-ok">0</strong><span data-i18n="linksOkStat">links ok</span></div>
         </div>
         <div class="quick-filters">
           <input
@@ -67,10 +68,15 @@
             <option value="company" data-i18n="typeCompany">Empresa</option>
             <option value="link" data-i18n="typeLink">Link</option>
           </select>
+          <select id="company-link">
+            <option value="any" data-i18n="linkFilterAny">Link: todos</option>
+            <option value="ok" data-i18n="linkFilterOk">Só funcionando</option>
+            <option value="fail" data-i18n="linkFilterFail">Com falha</option>
+          </select>
         </div>
         <div id="companies-groups" class="companies-groups"></div>
       </section>
     </div>
-    <script type="module" src="./assets/js/empresas-page.js"></script>
+    <script type="module" src="./assets/js/empresas-page.js?v=linkok1"></script>
   </body>
 </html>

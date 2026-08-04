@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T22:07:40.501Z",
+  "generatedAt": "2026-08-04T15:27:59.698Z",
   "boards": [
     {
       "id": "remoteok",
@@ -8,7 +8,12 @@
       "url": "https://remoteok.com/",
       "api": "https://remoteok.com/api",
       "region": "worldwide",
-      "cors": true
+      "cors": true,
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://remoteok.com/"
     },
     {
       "id": "remotive",
@@ -17,7 +22,12 @@
       "url": "https://remotive.com/remote-jobs",
       "api": "https://remotive.com/api/remote-jobs",
       "region": "worldwide",
-      "cors": true
+      "cors": true,
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://remotive.com/remote-jobs"
     },
     {
       "id": "arbeitnow",
@@ -26,7 +36,12 @@
       "url": "https://www.arbeitnow.com/",
       "api": "https://www.arbeitnow.com/api/job-board-api",
       "region": "europe",
-      "cors": true
+      "cors": true,
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.arbeitnow.com/"
     },
     {
       "id": "jobicy",
@@ -35,7 +50,12 @@
       "url": "https://jobicy.com/",
       "api": "https://jobicy.com/api/v2/remote-jobs",
       "region": "worldwide",
-      "cors": true
+      "cors": true,
+      "linkOk": false,
+      "linkStatus": 403,
+      "linkState": "blocked",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://jobicy.com/"
     },
     {
       "id": "himalayas",
@@ -44,7 +64,12 @@
       "url": "https://himalayas.app/jobs",
       "api": "https://himalayas.app/jobs/api",
       "region": "worldwide",
-      "cors": false
+      "cors": false,
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://himalayas.app/jobs"
     },
     {
       "id": "themuse",
@@ -53,7 +78,12 @@
       "url": "https://www.themuse.com/search/jobs",
       "api": "https://www.themuse.com/api/public/jobs",
       "region": "worldwide",
-      "cors": false
+      "cors": false,
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.themuse.com/search/jobs"
     },
     {
       "id": "weworkremotely",
@@ -61,7 +91,12 @@
       "type": "rss",
       "url": "https://weworkremotely.com/",
       "region": "worldwide",
-      "notes": "RSS → data/weworkremotely-jobs.json via GitHub Action"
+      "notes": "RSS → data/weworkremotely-jobs.json via GitHub Action",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://weworkremotely.com/"
     },
     {
       "id": "apinfo",
@@ -69,7 +104,12 @@
       "type": "static",
       "url": "https://www.apinfo.com/",
       "region": "brazil",
-      "notes": "Server-side scrape → data/apinfo-jobs.json"
+      "notes": "Server-side scrape → data/apinfo-jobs.json",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.apinfo.com/apinfo/"
     },
     {
       "id": "remotejobsorg",
@@ -78,7 +118,12 @@
       "url": "https://remotejobs.org/",
       "api": "https://remotejobs.org/api/v1/jobs",
       "region": "worldwide",
-      "cors": false
+      "cors": false,
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://remotejobs.org/"
     },
     {
       "id": "ashby",
@@ -87,7 +132,12 @@
       "url": "https://www.ashbyhq.com/",
       "api": "https://api.ashbyhq.com/posting-api/job-board/{slug}",
       "region": "worldwide",
-      "cors": true
+      "cors": true,
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.ashbyhq.com/"
     },
     {
       "id": "static-ats",
@@ -95,7 +145,12 @@
       "type": "static",
       "url": "./data/ats-jobs.json",
       "region": "worldwide",
-      "notes": "Public ATS JSON/XML: Greenhouse, Lever(+EU), Ashby, Workable, SmartRecruiters, Recruitee, BambooHR, Personio, Breezy, Workday CXS. Slugs from hire-signal + LATAM + discovery."
+      "notes": "Public ATS JSON/XML: Greenhouse, Lever(+EU), Ashby, Workable, SmartRecruiters, Recruitee, BambooHR, Personio, Breezy, Workday CXS. Slugs from hire-signal + LATAM + discovery.",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "./data/ats-jobs.json"
     },
     {
       "id": "workday",
@@ -104,7 +159,12 @@
       "url": "https://www.workday.com/",
       "api": "POST https://{host}/wday/cxs/{tenant}/{site}/jobs",
       "region": "worldwide",
-      "notes": "Public career-site JSON (CSG, DXC, Planet, Fidelity…). Needs host+tenant+site — never guess from company name alone."
+      "notes": "Public career-site JSON (CSG, DXC, Planet, Fidelity…). Needs host+tenant+site — never guess from company name alone.",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.workday.com/"
     },
     {
       "id": "linkedin",
@@ -112,7 +172,12 @@
       "type": "deeplink",
       "url": "https://www.linkedin.com/jobs/",
       "region": "worldwide",
-      "notes": "No public jobs search API; official deep-links only (no scrape)"
+      "notes": "No public jobs search API; official deep-links only (no scrape)",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.linkedin.com/jobs/"
     },
     {
       "id": "indeed",
@@ -120,7 +185,12 @@
       "type": "deeplink",
       "url": "https://www.indeed.com/",
       "region": "worldwide",
-      "notes": "No public scrape; deep-links by country TLD"
+      "notes": "No public scrape; deep-links by country TLD",
+      "linkOk": false,
+      "linkStatus": 403,
+      "linkState": "blocked",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.indeed.com/"
     },
     {
       "id": "googlejobs",
@@ -128,7 +198,12 @@
       "type": "deeplink",
       "url": "https://www.google.com/search",
       "region": "worldwide",
-      "notes": "Deep-link only"
+      "notes": "Deep-link only",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.google.com/search"
     },
     {
       "id": "glassdoor",
@@ -136,140 +211,240 @@
       "type": "deeplink",
       "url": "https://www.glassdoor.com/Job/index.htm",
       "region": "worldwide",
-      "notes": "Deep-link only"
+      "notes": "Deep-link only",
+      "linkOk": false,
+      "linkStatus": 403,
+      "linkState": "blocked",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.glassdoor.com/Job/index.htm"
     },
     {
       "id": "reed",
       "name": "Reed UK",
       "type": "deeplink",
       "url": "https://www.reed.co.uk/jobs",
-      "region": "uk"
+      "region": "uk",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.reed.co.uk/jobs"
     },
     {
       "id": "workingnomads",
       "name": "Working Nomads",
       "type": "deeplink",
       "url": "https://www.workingnomads.com/jobs",
-      "region": "worldwide"
+      "region": "worldwide",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.workingnomads.com/jobs"
     },
     {
       "id": "wellfound",
       "name": "Wellfound (AngelList)",
       "type": "deeplink",
       "url": "https://wellfound.com/jobs",
-      "region": "worldwide"
+      "region": "worldwide",
+      "linkOk": false,
+      "linkStatus": 403,
+      "linkState": "blocked",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://wellfound.com/jobs"
     },
     {
       "id": "workana",
       "name": "Workana",
       "type": "deeplink",
       "url": "https://www.workana.com/",
-      "region": "latam"
+      "region": "latam",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.workana.com/"
     },
     {
       "id": "gupy",
       "name": "Gupy",
       "type": "deeplink",
       "url": "https://portal.gupy.io/",
-      "region": "brazil"
+      "region": "brazil",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://portal.gupy.io/pt"
     },
     {
       "id": "programathor",
       "name": "Programathor",
       "type": "deeplink",
       "url": "https://programathor.com.br/",
-      "region": "brazil"
+      "region": "brazil",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://programathor.com.br/"
     },
     {
       "id": "geekhunter",
       "name": "GeekHunter",
       "type": "deeplink",
       "url": "https://www.geekhunter.com.br/",
-      "region": "brazil"
+      "region": "brazil",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.geekhunter.com/pt"
     },
     {
       "id": "catho",
       "name": "Catho",
       "type": "deeplink",
       "url": "https://www.catho.com.br/",
-      "region": "brazil"
+      "region": "brazil",
+      "linkOk": false,
+      "linkStatus": 404,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.catho.com.br/"
     },
     {
       "id": "trampos",
       "name": "Trampos",
       "type": "deeplink",
       "url": "https://www.trampos.co/",
-      "region": "brazil"
+      "region": "brazil",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.trampos.co/"
     },
     {
       "id": "revelo",
       "name": "Revelo",
       "type": "deeplink",
       "url": "https://www.revelo.com.br/",
-      "region": "brazil"
+      "region": "brazil",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.revelo.com.br/"
     },
     {
       "id": "vanhack",
       "name": "VanHack",
       "type": "deeplink",
       "url": "https://vanhack.com/",
-      "region": "latam"
+      "region": "latam",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://vanhack.com/"
     },
     {
       "id": "toptal",
       "name": "Toptal",
       "type": "deeplink",
       "url": "https://www.toptal.com/careers",
-      "region": "worldwide"
+      "region": "worldwide",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.toptal.com/careers"
     },
     {
       "id": "turing",
       "name": "Turing",
       "type": "deeplink",
       "url": "https://www.turing.com/jobs",
-      "region": "worldwide"
+      "region": "worldwide",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.turing.com/jobs"
     },
     {
       "id": "flexjobs",
       "name": "FlexJobs",
       "type": "deeplink",
       "url": "https://www.flexjobs.com/",
-      "region": "worldwide"
+      "region": "worldwide",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "timeout"
     },
     {
       "id": "dailyremote",
       "name": "DailyRemote",
       "type": "deeplink",
       "url": "https://dailyremote.com/",
-      "region": "worldwide"
+      "region": "worldwide",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://dailyremote.com/"
     },
     {
       "id": "euremotejobs",
       "name": "EU Remote Jobs",
       "type": "deeplink",
       "url": "https://euremotejobs.com/",
-      "region": "europe"
+      "region": "europe",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://euremotejobs.com/"
     },
     {
       "id": "nodesk",
       "name": "NoDesk",
       "type": "deeplink",
       "url": "https://nodesk.co/remote-jobs/",
-      "region": "worldwide"
+      "region": "worldwide",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://nodesk.co/remote-jobs/"
     },
     {
       "id": "monsteruk",
       "name": "Monster UK",
       "type": "deeplink",
       "url": "https://www.monster.co.uk/",
-      "region": "uk"
+      "region": "uk",
+      "linkOk": false,
+      "linkStatus": 403,
+      "linkState": "blocked",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.monster.co.uk/"
     },
     {
       "id": "static-ats",
       "name": "Company ATS (Greenhouse/Lever/Ashby)",
       "type": "static",
       "url": "./data/ats-jobs.json",
-      "region": "worldwide"
+      "region": "worldwide",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "./data/ats-jobs.json"
     }
   ],
   "bookmarkBoards": [
@@ -280,7 +455,12 @@
       "url": "https://jobs.lever.co/codelitt?lever-via=RcPU_7K0lX",
       "host": "jobs.lever.co",
       "hits": 17,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": false,
+      "linkStatus": 404,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://jobs.lever.co/codelitt?lever-via=RcPU_7K0lX"
     },
     {
       "id": "bm-apply-workable-com",
@@ -289,7 +469,12 @@
       "url": "https://apply.workable.com/jalasoft/j/C1D6D881C7/",
       "host": "apply.workable.com",
       "hits": 13,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": false,
+      "linkStatus": 429,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://apply.workable.com/jalasoft/j/C1D6D881C7/"
     },
     {
       "id": "bm-boards-greenhouse-io",
@@ -298,7 +483,12 @@
       "url": "https://boards.greenhouse.io/truelogic/jobs/6914600002",
       "host": "boards.greenhouse.io",
       "hits": 12,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": false,
+      "linkStatus": 404,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://job-boards.greenhouse.io/truelogic?error=true"
     },
     {
       "id": "bm-jobs-ashbyhq-com",
@@ -307,7 +497,12 @@
       "url": "https://jobs.ashbyhq.com/keyrock/6f914128-5600-4ab8-9f2b-8cea8c977cd3/application",
       "host": "jobs.ashbyhq.com",
       "hits": 7,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://jobs.ashbyhq.com/keyrock/6f914128-5600-4ab8-9f2b-8cea8c977cd3/application"
     },
     {
       "id": "bm-platform-remotely-works",
@@ -316,7 +511,12 @@
       "url": "https://platform.remotely.works/apply?utm_source=linkedin&utm_medium=admsg&utm_campaign=Frontend%2FReact&li_fat_id=71931eae-125f-4108-a43e-027c3fdc38d7",
       "host": "platform.remotely.works",
       "hits": 5,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://platform.remotely.works/apply?utm_source=linkedin&utm_medium=admsg&utm_campaign=Frontend%2FReact&li_fat_id=71931eae-125f-4108-a43e-027c3fdc38d7"
     },
     {
       "id": "bm-weworkremotely-com",
@@ -325,7 +525,12 @@
       "url": "https://weworkremotely.com/remote-europe-jobs",
       "host": "weworkremotely.com",
       "hits": 4,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://weworkremotely.com/remote-europe-jobs"
     },
     {
       "id": "bm-jobs-jobvite-com",
@@ -334,7 +539,12 @@
       "url": "https://jobs.jobvite.com/leantechio/job/o7Ckofwb/apply",
       "host": "jobs.jobvite.com",
       "hits": 4,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://jobs.jobvite.com/careers/leantechio/jobs?error=404"
     },
     {
       "id": "bm-www-onstrider-com",
@@ -343,7 +553,12 @@
       "url": "https://www.onstrider.com/jobs/mid-level-back-end-engineer-node.js-strider-87698028",
       "host": "www.onstrider.com",
       "hits": 4,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.onstrider.com/jobs/mid-back-end-engineer-node.js-8769802"
     },
     {
       "id": "bm-latamrecruit-com",
@@ -352,7 +567,12 @@
       "url": "https://latamrecruit.com/rust-engineer/",
       "host": "latamrecruit.com",
       "hits": 4,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://latamrecruit.com/rust-engineer/"
     },
     {
       "id": "bm-www-dataart-team",
@@ -361,7 +581,12 @@
       "url": "https://www.dataart.team/vacancies/JSC00211",
       "host": "www.dataart.team",
       "hits": 4,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.dataart.team/vacancies/JSC00211"
     },
     {
       "id": "bm-www-zartis-com",
@@ -370,7 +595,12 @@
       "url": "https://www.zartis.com/",
       "host": "www.zartis.com",
       "hits": 3,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.zartis.com/"
     },
     {
       "id": "bm-pluo-jobs",
@@ -379,7 +609,12 @@
       "url": "https://pluo.jobs/",
       "host": "pluo.jobs",
       "hits": 3,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "timeout"
     },
     {
       "id": "bm-latitudeinc-applytojob-com",
@@ -388,7 +623,12 @@
       "url": "https://latitudeinc.applytojob.com/apply/fbvNcxIndX/Secret-Cleared-NET-Web-Developer",
       "host": "latitudeinc.applytojob.com",
       "hits": 3,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.jazzhr.com/job-seekers"
     },
     {
       "id": "bm-ats-rippling-com",
@@ -397,7 +637,12 @@
       "url": "https://ats.rippling.com/useorigin/jobs/8200e98e-ebc0-4e4d-967c-598d4884362f",
       "host": "ats.rippling.com",
       "hits": 3,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://ats.rippling.com/useorigin/jobs?rr_message=job_not_found"
     },
     {
       "id": "bm-www-toptal-com",
@@ -406,7 +651,12 @@
       "url": "https://www.toptal.com/",
       "host": "www.toptal.com",
       "hits": 2,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.toptal.com/"
     },
     {
       "id": "bm-euremotejobs-com",
@@ -415,7 +665,12 @@
       "url": "https://euremotejobs.com/",
       "host": "euremotejobs.com",
       "hits": 2,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://euremotejobs.com/"
     },
     {
       "id": "bm-remoters-net",
@@ -424,7 +679,12 @@
       "url": "https://remoters.net/jobs/companies/europe/",
       "host": "remoters.net",
       "hits": 2,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://remoters.net/jobs/companies/europe/"
     },
     {
       "id": "bm-nodesk-co",
@@ -433,7 +693,12 @@
       "url": "https://nodesk.co/remote-jobs/europe/",
       "host": "nodesk.co",
       "hits": 2,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://nodesk.co/remote-jobs/europe/"
     },
     {
       "id": "bm-www-indeed-com",
@@ -442,7 +707,12 @@
       "url": "https://www.indeed.com/q-Europe-l-Remote-jobs.html?vjk=422c9fdaffae0c2a",
       "host": "www.indeed.com",
       "hits": 2,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": false,
+      "linkStatus": 403,
+      "linkState": "blocked",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.indeed.com/q-Europe-l-Remote-jobs.html?vjk=422c9fdaffae0c2a"
     },
     {
       "id": "bm-www-flexjobs-com",
@@ -451,7 +721,12 @@
       "url": "https://www.flexjobs.com/international/Canada-telecommuting-jobs",
       "host": "www.flexjobs.com",
       "hits": 2,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "timeout"
     },
     {
       "id": "bm-www-talent-io",
@@ -460,7 +735,12 @@
       "url": "https://www.talent.io/p/en-nl/candidates/remote",
       "host": "www.talent.io",
       "hits": 2,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "fetch failed"
     },
     {
       "id": "bm-dailyremote-com",
@@ -469,7 +749,12 @@
       "url": "https://dailyremote.com/",
       "host": "dailyremote.com",
       "hits": 2,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://dailyremote.com/"
     },
     {
       "id": "bm-www-workingnomads-com",
@@ -478,7 +763,12 @@
       "url": "https://www.workingnomads.com/jobs",
       "host": "www.workingnomads.com",
       "hits": 2,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.workingnomads.com/jobs"
     },
     {
       "id": "bm-wellfound-com",
@@ -487,7 +777,12 @@
       "url": "https://wellfound.com/login?after_sign_in=%2Frecruit%2Fhome",
       "host": "wellfound.com",
       "hits": 2,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": false,
+      "linkStatus": 403,
+      "linkState": "blocked",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://wellfound.com/login?after_sign_in=%2Frecruit%2Fhome"
     },
     {
       "id": "bm-www-truelogic-io",
@@ -496,7 +791,12 @@
       "url": "https://www.truelogic.io/company",
       "host": "www.truelogic.io",
       "hits": 2,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": false,
+      "linkStatus": 404,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.truelogic.io/company"
     },
     {
       "id": "bm-www-jalasoft-com",
@@ -505,7 +805,12 @@
       "url": "https://www.jalasoft.com/",
       "host": "www.jalasoft.com",
       "hits": 2,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.jalasoft.com/"
     },
     {
       "id": "bm-www-turing-com",
@@ -514,7 +819,12 @@
       "url": "https://www.turing.com/",
       "host": "www.turing.com",
       "hits": 2,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.turing.com/"
     },
     {
       "id": "bm-www-leangroup-com",
@@ -523,7 +833,12 @@
       "url": "https://www.leangroup.com/",
       "host": "www.leangroup.com",
       "hits": 2,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.leangroup.com/"
     },
     {
       "id": "bm-recruiterflow-com",
@@ -532,7 +847,12 @@
       "url": "https://recruiterflow.com/radhires/jobs/83?utm_channel=recruiterflow-posting&location=56",
       "host": "recruiterflow.com",
       "hits": 2,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://recruiterflow.com/radhires/jobs/83?utm_channel=recruiterflow-posting&location=56"
     },
     {
       "id": "bm-mojix-bamboohr-com",
@@ -541,7 +861,12 @@
       "url": "https://mojix.bamboohr.com/careers/80",
       "host": "mojix.bamboohr.com",
       "hits": 2,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.bamboohr.com/"
     },
     {
       "id": "bm-www-jobnagringa-com-br",
@@ -550,7 +875,12 @@
       "url": "https://www.jobnagringa.com.br/jobs",
       "host": "www.jobnagringa.com.br",
       "hits": 2,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": false,
+      "linkStatus": 404,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://jobnagringa.com.br/jobs"
     },
     {
       "id": "bm-career-proxify-io",
@@ -559,7 +889,12 @@
       "url": "https://career.proxify.io/?utm_source=linkedin&utm_medium=cpc&utm_campaign=in-mail_latam_senior-developers&li_fat_id=efea0f1d-ac74-4b7d-9656-db57adfdcfe7",
       "host": "career.proxify.io",
       "hits": 2,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://career.proxify.io/?utm_source=linkedin&utm_medium=cpc&utm_campaign=in-mail_latam_senior-developers&li_fat_id=efea0f1d-ac74-4b7d-9656-db57adfdcfe7"
     },
     {
       "id": "bm-scigon-com",
@@ -568,7 +903,12 @@
       "url": "https://scigon.com/careers/",
       "host": "scigon.com",
       "hits": 2,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://scigon.com/careers/"
     },
     {
       "id": "bm-remotifyeurope-com",
@@ -577,7 +917,12 @@
       "url": "https://remotifyeurope.com/",
       "host": "remotifyeurope.com",
       "hits": 2,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://remotifyeurope.com/"
     },
     {
       "id": "bm-jobs-micro1-ai",
@@ -586,7 +931,12 @@
       "url": "https://jobs.micro1.ai/post/69d83070-37aa-407b-abec-5c06edfaaac0?referralCode=426482fa-85cd-43a8-8f03-d1f8b4ba37cd&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
       "host": "jobs.micro1.ai",
       "hits": 2,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://jobs.micro1.ai/post/69d83070-37aa-407b-abec-5c06edfaaac0?referralCode=426482fa-85cd-43a8-8f03-d1f8b4ba37cd&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "id": "bm-lithiumsoft-com",
@@ -595,7 +945,12 @@
       "url": "https://lithiumsoft.com/",
       "host": "lithiumsoft.com",
       "hits": 2,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://lithiumsoft.com/"
     },
     {
       "id": "bm-app-niuro-io",
@@ -604,7 +959,12 @@
       "url": "https://app.niuro.io/source/AxymU6Dc",
       "host": "app.niuro.io",
       "hits": 2,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://app.niuro.io/source/AxymU6Dc"
     },
     {
       "id": "bm-www-matildaexp-com",
@@ -613,7 +973,12 @@
       "url": "https://www.matildaexp.com/",
       "host": "www.matildaexp.com",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.matildaexp.com/"
     },
     {
       "id": "bm-applicants-bairesdev-com",
@@ -622,7 +987,12 @@
       "url": "https://applicants.bairesdev.com/job/1048/160029/apply",
       "host": "applicants.bairesdev.com",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://applicants.bairesdev.com/job/1048/160029/apply"
     },
     {
       "id": "bm-developers-turing-com",
@@ -631,7 +1001,12 @@
       "url": "https://developers.turing.com/?s=outbound",
       "host": "developers.turing.com",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://work.turing.com/?s=outbound"
     },
     {
       "id": "bm-www-tecla-io",
@@ -640,7 +1015,12 @@
       "url": "https://www.tecla.io/jobs/",
       "host": "www.tecla.io",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://app.tecla.io/jobs"
     },
     {
       "id": "bm-app-vanhack-com",
@@ -649,7 +1029,12 @@
       "url": "https://app.vanhack.com/",
       "host": "app.vanhack.com",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "timeout"
     },
     {
       "id": "bm-dreamdev-io",
@@ -658,7 +1043,12 @@
       "url": "https://dreamdev.io/",
       "host": "dreamdev.io",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.dreamdev.io/"
     },
     {
       "id": "bm-www-finney-taylor-com",
@@ -667,7 +1057,12 @@
       "url": "https://www.finney-taylor.com/JobSearchNew.aspx",
       "host": "www.finney-taylor.com",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "timeout"
     },
     {
       "id": "bm-www-smoothwall-com",
@@ -676,7 +1071,12 @@
       "url": "https://www.smoothwall.com/",
       "host": "www.smoothwall.com",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://smoothwall.com/"
     },
     {
       "id": "bm-technicalprospects-co-uk",
@@ -685,7 +1085,12 @@
       "url": "https://technicalprospects.co.uk/",
       "host": "technicalprospects.co.uk",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://technicalprospects.co.uk/"
     },
     {
       "id": "bm-dxctechnology-wd1-myworkdayjobs-com",
@@ -694,7 +1099,12 @@
       "url": "https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/0/refreshFacet/318c8bb6f553100021d223d9780d30be",
       "host": "dxctechnology.wd1.myworkdayjobs.com",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/0/refreshFacet/318c8bb6f553100021d223d9780d30be"
     },
     {
       "id": "bm-flatworld-co",
@@ -703,7 +1113,12 @@
       "url": "https://flatworld.co/job/maisha-labs-backend-developer-csharp/?utm_source=LI&utm_medium=SC&li_fat_id=3b3078fa-4596-4115-898f-20a88f97961d",
       "host": "flatworld.co",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "fetch failed"
     },
     {
       "id": "bm-www-napratica-org-br",
@@ -712,7 +1127,12 @@
       "url": "https://www.napratica.org.br/sites-para-encontrar-trabalho-remoto/",
       "host": "www.napratica.org.br",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://napratica.org.br/noticias/sites-para-encontrar-trabalho-remoto"
     },
     {
       "id": "bm-www-revelo-com-br",
@@ -721,7 +1141,12 @@
       "url": "https://www.revelo.com.br/",
       "host": "www.revelo.com.br",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.revelo.com.br/"
     },
     {
       "id": "bm-www-jointheambitious-com",
@@ -730,7 +1155,12 @@
       "url": "https://www.jointheambitious.com/remote-jobs-europe",
       "host": "www.jointheambitious.com",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "fetch failed"
     },
     {
       "id": "bm-www-europelanguagejobs-com",
@@ -739,7 +1169,12 @@
       "url": "https://www.europelanguagejobs.com/jobs-with-Remote",
       "host": "www.europelanguagejobs.com",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.europelanguagejobs.com/jobs-with-Remote"
     },
     {
       "id": "bm-remote-europe-com",
@@ -748,7 +1183,12 @@
       "url": "https://remote-europe.com/",
       "host": "remote-europe.com",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "fetch failed"
     },
     {
       "id": "bm-www-workopolis-com",
@@ -757,7 +1197,12 @@
       "url": "https://www.workopolis.com/jobsearch/remote-office-jobs/canada?job=7yTQqgGGk-Gao0oh9rG-4w3eB9rfs2dpjJZ1-fr2Q1sVTsCaFdtU_Q",
       "host": "www.workopolis.com",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": false,
+      "linkStatus": 403,
+      "linkState": "blocked",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.workopolis.com/jobsearch/remote-office-jobs/canada?job=7yTQqgGGk-Gao0oh9rG-4w3eB9rfs2dpjJZ1-fr2Q1sVTsCaFdtU_Q"
     },
     {
       "id": "bm-www-reed-co-uk",
@@ -766,7 +1211,12 @@
       "url": "https://www.reed.co.uk/jobs/remote-jobs",
       "host": "www.reed.co.uk",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.reed.co.uk/jobs/remote-jobs"
     },
     {
       "id": "bm-www-monster-co-uk",
@@ -775,7 +1225,12 @@
       "url": "https://www.monster.co.uk/jobs/q-remote-work-jobs",
       "host": "www.monster.co.uk",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": false,
+      "linkStatus": 403,
+      "linkState": "blocked",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.monster.co.uk/jobs/q-remote-work-jobs"
     },
     {
       "id": "bm-jobs-theguardian-com",
@@ -784,7 +1239,12 @@
       "url": "https://jobs.theguardian.com/landingpage/2879819/jobs-remote-html/",
       "host": "jobs.theguardian.com",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": false,
+      "linkStatus": 403,
+      "linkState": "blocked",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://jobs.theguardian.com/landingpage/2879819/jobs-remote-html/"
     },
     {
       "id": "bm-hirewells-com",
@@ -793,7 +1253,12 @@
       "url": "https://hirewells.com/new-page-78",
       "host": "hirewells.com",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": false,
+      "linkStatus": 404,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://jonahmanning.co/new-page-78"
     },
     {
       "id": "bm-remoteok-com",
@@ -802,7 +1267,12 @@
       "url": "https://remoteok.com/",
       "host": "remoteok.com",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://remoteok.com/"
     },
     {
       "id": "bm-www-workana-com",
@@ -811,7 +1281,12 @@
       "url": "https://www.workana.com/",
       "host": "www.workana.com",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.workana.com/"
     },
     {
       "id": "bm-www-totaljobs-com",
@@ -820,7 +1295,12 @@
       "url": "https://www.totaljobs.com/jobs/remote-net/in-europe?q=Remote+.Net",
       "host": "www.totaljobs.com",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": false,
+      "linkStatus": 403,
+      "linkState": "blocked",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.totaljobs.com/jobs/remote-net/in-europe?q=Remote+.Net"
     },
     {
       "id": "bm-thelokenbergs-com",
@@ -829,7 +1309,12 @@
       "url": "https://thelokenbergs.com/",
       "host": "thelokenbergs.com",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://thelokenbergs.com/"
     },
     {
       "id": "bm-challengerocket-com",
@@ -838,7 +1323,12 @@
       "url": "https://challengerocket.com/jobs/wroclaw/other/midsenior-flutter-developer-deviniti?utm_source=fb&utm_medium=post&utm_campaign=deviniti&utm_term=mar&utm_content=post_fb_groups_mid_senior_flutter_developer_deviniti_int",
       "host": "challengerocket.com",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://challengerocket.com/jobs/wroclaw/other/midsenior-flutter-developer-deviniti?utm_source=fb&utm_medium=post&utm_campaign=deviniti&utm_term=mar&utm_content=post_fb_groups_mid_senior_flutter_developer_deviniti_int"
     },
     {
       "id": "bm-jobs-crelate-com",
@@ -847,7 +1337,12 @@
       "url": "https://jobs.crelate.com/portal/prediktive/job/7o7u5nyde1ddneepkispe11d6y",
       "host": "jobs.crelate.com",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://jobs.crelate.com/portal/prediktive"
     },
     {
       "id": "bm-www-mbrpartners-com",
@@ -856,7 +1351,12 @@
       "url": "https://www.mbrpartners.com/",
       "host": "www.mbrpartners.com",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.mbrpartners.com/"
     },
     {
       "id": "bm-relocate-me",
@@ -865,7 +1365,12 @@
       "url": "https://relocate.me/",
       "host": "relocate.me",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://relocate.me/"
     },
     {
       "id": "bm-meetfrank-com",
@@ -874,7 +1379,12 @@
       "url": "https://meetfrank.com/",
       "host": "meetfrank.com",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": false,
+      "linkStatus": 403,
+      "linkState": "blocked",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://meetfrank.com/"
     },
     {
       "id": "bm-www-jamrecruitment-co-uk",
@@ -883,7 +1393,12 @@
       "url": "https://www.jamrecruitment.co.uk/?utm_source=JAM%20RECRUITMENT%20LIMITED&utm_medium=email&utm_campaign=9417471_Update%20CV%20-%202%20years%20since%20last%20update&utm_content=JAM&dm_t=0,0,0,0,0",
       "host": "www.jamrecruitment.co.uk",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://jamrecruitment.co.uk/?dm_t=0%2C0%2C0%2C0%2C0"
     },
     {
       "id": "bm-jobs-bairesdev-com",
@@ -892,7 +1407,12 @@
       "url": "https://jobs.bairesdev.com/",
       "host": "jobs.bairesdev.com",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://talent.bairesdev.com/"
     },
     {
       "id": "bm-housing-com",
@@ -901,7 +1421,12 @@
       "url": "https://housing.com/",
       "host": "housing.com",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://housing.com/"
     },
     {
       "id": "bm-expansionus-com",
@@ -910,7 +1435,12 @@
       "url": "https://expansionus.com/Home/Job?JobId=115&o=5",
       "host": "expansionus.com",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "fetch failed"
     },
     {
       "id": "bm-www-henlowgroup-com",
@@ -919,7 +1449,12 @@
       "url": "https://www.henlowgroup.com/",
       "host": "www.henlowgroup.com",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": false,
+      "linkStatus": 403,
+      "linkState": "blocked",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.gcstechtalent.com/"
     },
     {
       "id": "bm-talentlp-bairesdev-com",
@@ -928,7 +1463,12 @@
       "url": "https://talentlp.bairesdev.com/bd-fast-track",
       "host": "talentlp.bairesdev.com",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "fetch failed"
     },
     {
       "id": "bm-www-geekhunter-com-br",
@@ -937,7 +1477,12 @@
       "url": "https://www.geekhunter.com.br/contratar-programador?utm_source=google&utm_medium=cpc&utm_campaign=empresas-branding&utm_term=geekhunter&gclid=Cj0KCQjwl92XBhC7ARIsAHLl9amfQ4dEATLYwxFG7x4VYKWv6CD3D-WB9O8bnpqdoIPiqq1h3hOyUHkaAsCDEALw_wcB",
       "host": "www.geekhunter.com.br",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.geekhunter.com/pt/contratar-programador?utm_source=google&utm_medium=cpc&utm_campaign=empresas-branding&utm_term=geekhunter&gclid=Cj0KCQjwl92XBhC7ARIsAHLl9amfQ4dEATLYwxFG7x4VYKWv6CD3D-WB9O8bnpqdoIPiqq1h3hOyUHkaAsCDEALw_wcB"
     },
     {
       "id": "bm-www-contabilizei-com-br",
@@ -946,7 +1491,12 @@
       "url": "https://www.contabilizei.com.br/parcerias/calculadora-geekhunter-imposto-ti/?utm_source=geekhunter&utm_medium=comarketing&utm_campaign=parcerias_marketing&utm_content=calculadora_clt_pj_ti",
       "host": "www.contabilizei.com.br",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.contabilizei.com.br/parcerias/calculadora-geekhunter-imposto-ti/?utm_source=geekhunter&utm_medium=comarketing&utm_campaign=parcerias_marketing&utm_content=calculadora_clt_pj_ti"
     },
     {
       "id": "bm-agiletechteam-com",
@@ -955,7 +1505,12 @@
       "url": "https://agiletechteam.com/",
       "host": "agiletechteam.com",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://agiletechteam.com/"
     },
     {
       "id": "bm-gyan-com-br",
@@ -964,7 +1519,12 @@
       "url": "https://gyan.com.br/",
       "host": "gyan.com.br",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.icasei.com.br/"
     },
     {
       "id": "bm-www-oliverparks-com",
@@ -973,7 +1533,12 @@
       "url": "https://www.oliverparks.com/",
       "host": "www.oliverparks.com",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.oliverparks.com/"
     },
     {
       "id": "bm-www-notion-so",
@@ -982,7 +1547,12 @@
       "url": "https://www.notion.so/roamler/Dependency-Management-29bf6146464740cdb6b924068551826c",
       "host": "www.notion.so",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "fetch failed"
     },
     {
       "id": "bm-hired-com",
@@ -991,7 +1561,12 @@
       "url": "https://hired.com/",
       "host": "hired.com",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.lhh.com/en-us/about-us/our-story"
     },
     {
       "id": "bm-jobspresso-co",
@@ -1000,7 +1575,12 @@
       "url": "https://jobspresso.co/",
       "host": "jobspresso.co",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://jobspresso.co/"
     },
     {
       "id": "bm-justremote-co",
@@ -1009,7 +1589,12 @@
       "url": "https://justremote.co/",
       "host": "justremote.co",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://justremote.co/"
     },
     {
       "id": "bm-jsremotely-com",
@@ -1018,7 +1603,12 @@
       "url": "https://jsremotely.com/",
       "host": "jsremotely.com",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://javascript.jobs/remote"
     },
     {
       "id": "bm-remoteleaf-com",
@@ -1027,7 +1617,12 @@
       "url": "https://remoteleaf.com/",
       "host": "remoteleaf.com",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://remoteleaf.com/"
     },
     {
       "id": "bm-remote-co",
@@ -1036,7 +1631,12 @@
       "url": "https://remote.co/",
       "host": "remote.co",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "timeout"
     },
     {
       "id": "bm-remoteleads-io",
@@ -1045,7 +1645,12 @@
       "url": "https://remoteleads.io/",
       "host": "remoteleads.io",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://remoteleads.io/"
     },
     {
       "id": "bm-remotive-com",
@@ -1054,7 +1659,12 @@
       "url": "https://remotive.com/",
       "host": "remotive.com",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://remotive.com/"
     },
     {
       "id": "bm-odeskwork-com",
@@ -1063,7 +1673,12 @@
       "url": "https://odeskwork.com/",
       "host": "odeskwork.com",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "timeout"
     },
     {
       "id": "bm-www-welovesalt-com",
@@ -1072,7 +1687,12 @@
       "url": "https://www.welovesalt.com/nl/",
       "host": "www.welovesalt.com",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://welovesalt.com/nl/"
     },
     {
       "id": "bm-dribbble-com",
@@ -1081,7 +1701,12 @@
       "url": "https://dribbble.com/remote-design-jobs",
       "host": "dribbble.com",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://dribbble.com/remote-design-jobs"
     },
     {
       "id": "bm-in-indeed-com",
@@ -1090,7 +1715,12 @@
       "url": "https://in.indeed.com/?from=mobRdr&utm_source=%2Fm%2F&utm_medium=redir&utm_campaign=dt",
       "host": "in.indeed.com",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": false,
+      "linkStatus": 403,
+      "linkState": "blocked",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://in.indeed.com/?from=mobRdr&utm_source=%2Fm%2F&utm_medium=redir&utm_campaign=dt"
     },
     {
       "id": "bm-www-outsourcely-com",
@@ -1099,7 +1729,12 @@
       "url": "https://www.outsourcely.com/",
       "host": "www.outsourcely.com",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "fetch failed"
     },
     {
       "id": "bm-www-skipthedrive-com",
@@ -1108,7 +1743,12 @@
       "url": "https://www.skipthedrive.com/",
       "host": "www.skipthedrive.com",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.skipthedrive.com/"
     },
     {
       "id": "bm-cord-co",
@@ -1117,7 +1757,12 @@
       "url": "https://cord.co/",
       "host": "cord.co",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://cord.com/"
     },
     {
       "id": "bm-problogger-com",
@@ -1126,7 +1771,12 @@
       "url": "https://problogger.com/jobs/",
       "host": "problogger.com",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://problogger.com/jobs/"
     },
     {
       "id": "bm-www-freelancer-in",
@@ -1135,7 +1785,12 @@
       "url": "https://www.freelancer.in/",
       "host": "www.freelancer.in",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.freelancer.in/"
     },
     {
       "id": "bm-www-fiverr-com",
@@ -1144,7 +1799,12 @@
       "url": "https://www.fiverr.com/?referral_campaign=RPCampaign1&referral_invitee=social&referral_inviter=92974899&referral_key=6f04b6354fcbfbb56b4879696252d50fd4baab12&show_join=true&utm_campaign=referral_program_show&utm_content=&utm_medium=shared&utm_source=get_url&utm_term=",
       "host": "www.fiverr.com",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": false,
+      "linkStatus": 403,
+      "linkState": "blocked",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.fiverr.com/?referral_campaign=RPCampaign1&referral_invitee=social&referral_inviter=92974899&referral_key=6f04b6354fcbfbb56b4879696252d50fd4baab12&show_join=true&utm_campaign=referral_program_show&utm_content=&utm_medium=shared&utm_source=get_url&utm_term="
     },
     {
       "id": "bm-blog-otta-com",
@@ -1153,7 +1813,12 @@
       "url": "https://blog.otta.com/100-uk-tech-companies-hiring-nov22/",
       "host": "blog.otta.com",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://uk.welcometothejungle.com/blog/100-uk-tech-companies-hiring-nov22"
     },
     {
       "id": "bm-www-flexworkweb-com",
@@ -1162,7 +1827,12 @@
       "url": "https://www.flexworkweb.com/talent",
       "host": "www.flexworkweb.com",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "fetch failed"
     },
     {
       "id": "bm-www-tabnews-com-br",
@@ -1171,7 +1841,12 @@
       "url": "https://www.tabnews.com.br/leomuniz/como-consegui-trabalhar-remotamente-para-uma-empresa-internacional",
       "host": "www.tabnews.com.br",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.tabnews.com.br/leomuniz/como-consegui-trabalhar-remotamente-para-uma-empresa-internacional"
     },
     {
       "id": "bm-rightbalance-io",
@@ -1180,7 +1855,12 @@
       "url": "https://rightbalance.io/join/",
       "host": "rightbalance.io",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://rightbalance.io/join/"
     },
     {
       "id": "bm-laskie-com",
@@ -1189,7 +1869,12 @@
       "url": "https://laskie.com/",
       "host": "laskie.com",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://laskie.com/"
     },
     {
       "id": "bm-evolvesquads-com",
@@ -1198,7 +1883,12 @@
       "url": "https://evolvesquads.com/jobs/senior-c-net-core-engineer/",
       "host": "evolvesquads.com",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": false,
+      "linkStatus": 404,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://evolvesquads.com/jobs/senior-c-net-core-engineer"
     },
     {
       "id": "bm-app-facet-net",
@@ -1207,7 +1897,12 @@
       "url": "https://app.facet.net/jobs/bdAgwlmsoMXfj2EDPE?from=UMZamSUqS9ouTtHVvn",
       "host": "app.facet.net",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "fetch failed"
     },
     {
       "id": "bm-www-findasync-com",
@@ -1216,7 +1911,12 @@
       "url": "https://www.findasync.com/",
       "host": "www.findasync.com",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.findasync.com/"
     },
     {
       "id": "bm-remote-com",
@@ -1225,7 +1925,12 @@
       "url": "https://remote.com/lp/entity?utm_term=employ%20remote&utm_campaign=AW_BENELUX_NU_CL_Remote_en_GSN_DTMB_MAXCONV_Generic_Broad&utm_source=google&utm_medium=cpc&utm_content=584414417015&hsa_acc=3739679445&hsa_cam=16410909326&hsa_grp=136865973354&hsa_ad=584414417015&hsa_src=g&hsa_tgt=kwd-1449456194854&hsa_kw=employ%20remote&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAiAjPyfBhBMEiwAB2CCIn1ztYWJH_iwNe5crOryFJvb0H8XkMULeTcjUym3BnFc4Pk3gqK6thoCjssQAvD_BwE",
       "host": "remote.com",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://remote.com/lp/entity?utm_term=employ%20remote&utm_campaign=AW_BENELUX_NU_CL_Remote_en_GSN_DTMB_MAXCONV_Generic_Broad&utm_source=google&utm_medium=cpc&utm_content=584414417015&hsa_acc=3739679445&hsa_cam=16410909326&hsa_grp=136865973354&hsa_ad=584414417015&hsa_src=g&hsa_tgt=kwd-1449456194854&hsa_kw=employ%20remote&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAiAjPyfBhBMEiwAB2CCIn1ztYWJH_iwNe5crOryFJvb0H8XkMULeTcjUym3BnFc4Pk3gqK6thoCjssQAvD_BwE"
     },
     {
       "id": "bm-nl-indeed-com",
@@ -1234,7 +1939,12 @@
       "url": "https://nl.indeed.com/?r=us",
       "host": "nl.indeed.com",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": false,
+      "linkStatus": 403,
+      "linkState": "blocked",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://nl.indeed.com/?r=us"
     },
     {
       "id": "bm-workfromhomejobs-me",
@@ -1243,7 +1953,12 @@
       "url": "https://workfromhomejobs.me/",
       "host": "workfromhomejobs.me",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "fetch failed"
     },
     {
       "id": "bm-www-talentinternational-com",
@@ -1252,7 +1967,12 @@
       "url": "https://www.talentinternational.com/",
       "host": "www.talentinternational.com",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.talentinternational.com/"
     },
     {
       "id": "bm-www-omnipresent-com",
@@ -1261,7 +1981,12 @@
       "url": "https://www.omnipresent.com/",
       "host": "www.omnipresent.com",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.deel.com/"
     },
     {
       "id": "bm-admin-develop-roamler-com",
@@ -1270,7 +1995,12 @@
       "url": "https://admin.develop.roamler.com/Job/Details/95066",
       "host": "admin.develop.roamler.com",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://admin.develop.roamler.com/Account/LogOn?ReturnUrl=%2fJob%2fDetails%2f95066"
     },
     {
       "id": "bm-jobs-devtalent-ca",
@@ -1279,7 +2009,12 @@
       "url": "https://jobs.devtalent.ca/",
       "host": "jobs.devtalent.ca",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "fetch failed"
     },
     {
       "id": "bm-join-agileengine-com",
@@ -1288,7 +2023,12 @@
       "url": "https://join.agileengine.com/",
       "host": "join.agileengine.com",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://join.agileengine.com/"
     },
     {
       "id": "bm-agileengine-com",
@@ -1297,7 +2037,12 @@
       "url": "https://agileengine.com/",
       "host": "agileengine.com",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://agileengine.com/"
     },
     {
       "id": "bm-duckduckgo-com",
@@ -1306,7 +2051,12 @@
       "url": "https://duckduckgo.com/?q=back-end+.net+remote+global&va=b&t=hc&ia=web",
       "host": "duckduckgo.com",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://duckduckgo.com/?q=back-end+.net+remote+global&va=b&t=hc&ia=web"
     },
     {
       "id": "bm-himalayas-app",
@@ -1315,7 +2065,12 @@
       "url": "https://himalayas.app/",
       "host": "himalayas.app",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://himalayas.app/"
     },
     {
       "id": "bm-www-guru-com",
@@ -1324,7 +2079,12 @@
       "url": "https://www.guru.com/",
       "host": "www.guru.com",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.guru.com/"
     },
     {
       "id": "bm-remotehub-io",
@@ -1333,7 +2093,12 @@
       "url": "https://remotehub.io/",
       "host": "remotehub.io",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": false,
+      "linkStatus": 520,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://remotehub.io/"
     },
     {
       "id": "bm-www-freelancermap-com",
@@ -1342,7 +2107,12 @@
       "url": "https://www.freelancermap.com/",
       "host": "www.freelancermap.com",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.freelancermap.com/"
     },
     {
       "id": "bm-remoteworkhub-com",
@@ -1351,7 +2121,12 @@
       "url": "https://remoteworkhub.com/",
       "host": "remoteworkhub.com",
       "hits": 1,
-      "region": "unknown"
+      "region": "unknown",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://remoteworkhub.com/"
     }
   ],
   "stats": {
@@ -1361,5 +2136,12 @@
     "lever": 17,
     "ashby": 8,
     "workable": 10
+  },
+  "linkHealth": {
+    "checkedAt": "2026-08-04T15:27:59.698Z",
+    "boardsOk": 28,
+    "boardsTotal": 35,
+    "bookmarksOk": 83,
+    "bookmarksTotal": 120
   }
 }

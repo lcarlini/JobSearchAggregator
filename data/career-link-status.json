@@ -1,0 +1,248 @@
+{
+  "generatedAt": "2026-08-04T15:27:59.698Z",
+  "total": 24,
+  "ok": 16,
+  "fail": 8,
+  "links": [
+    {
+      "id": "career-avenga",
+      "name": "Avenga",
+      "url": "https://www.avenga.com/careers/",
+      "linkOk": false,
+      "linkStatus": 404,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.avenga.com/careers/"
+    },
+    {
+      "id": "career-belvo",
+      "name": "Belvo",
+      "url": "https://belvo.com/careers/",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://belvo.com/careers/"
+    },
+    {
+      "id": "career-csg-workday",
+      "name": "CSG Careers",
+      "url": "https://csgi.wd5.myworkdayjobs.com/CSGCareers",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://csgi.wd5.myworkdayjobs.com/CSGCareers"
+    },
+    {
+      "id": "career-deel",
+      "name": "Deel",
+      "url": "https://jobs.ashbyhq.com/Deel",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://jobs.ashbyhq.com/Deel"
+    },
+    {
+      "id": "career-dxc-workday",
+      "name": "DXC Technology",
+      "url": "https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs"
+    },
+    {
+      "id": "career-ebanx",
+      "name": "EBANX",
+      "url": "https://ebanx.com/careers/",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.ebanx.com/en/careers/"
+    },
+    {
+      "id": "career-enroute",
+      "name": "Enroute",
+      "url": "https://apply.workable.com/enroute/",
+      "linkOk": false,
+      "linkStatus": 429,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://apply.workable.com/enroute/"
+    },
+    {
+      "id": "career-fidelity-workday",
+      "name": "Fidelity Careers",
+      "url": "https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers"
+    },
+    {
+      "id": "career-gitlab",
+      "name": "GitLab",
+      "url": "https://about.gitlab.com/jobs/",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://about.gitlab.com/jobs/"
+    },
+    {
+      "id": "career-grafana",
+      "name": "Grafana Labs",
+      "url": "https://grafana.com/about/careers/",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://grafana.com/careers/"
+    },
+    {
+      "id": "career-hotmart",
+      "name": "Hotmart",
+      "url": "https://careers.hotmart.com/",
+      "linkOk": false,
+      "linkStatus": 0,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkError": "fetch failed"
+    },
+    {
+      "id": "career-ifood",
+      "name": "iFood",
+      "url": "https://carreiras.ifood.com.br/",
+      "linkOk": false,
+      "linkStatus": 404,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://carreiras.ifood.com.br/"
+    },
+    {
+      "id": "career-jalasoft",
+      "name": "Jalasoft",
+      "url": "https://apply.workable.com/jalasoft/",
+      "linkOk": false,
+      "linkStatus": 429,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://apply.workable.com/jalasoft/"
+    },
+    {
+      "id": "career-neon",
+      "name": "Neon",
+      "url": "https://neon.com.br/carreiras",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://site.neon.com.br/carreira"
+    },
+    {
+      "id": "career-nubank",
+      "name": "Nubank",
+      "url": "https://international.nubank.com.br/careers/",
+      "linkOk": false,
+      "linkStatus": 403,
+      "linkState": "blocked",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://international.nubank.com.br/careers/"
+    },
+    {
+      "id": "career-oowlish",
+      "name": "Oowlish",
+      "url": "https://jobs.lever.co/oowlish",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://jobs.lever.co/oowlish"
+    },
+    {
+      "id": "career-pismo",
+      "name": "Pismo",
+      "url": "https://www.pismo.io/careers/",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.pismo.io/careers/"
+    },
+    {
+      "id": "career-planet-workday",
+      "name": "Planet",
+      "url": "https://planet.wd3.myworkdayjobs.com/Planet",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://planet.wd3.myworkdayjobs.com/Planet"
+    },
+    {
+      "id": "career-stone",
+      "name": "Stone",
+      "url": "https://www.stone.com.br/carreiras/",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.stone.com.br/"
+    },
+    {
+      "id": "career-talkdesk",
+      "name": "Talkdesk",
+      "url": "https://www.talkdesk.com/careers/",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://job-boards.greenhouse.io/talkdesk2/"
+    },
+    {
+      "id": "career-tractian",
+      "name": "TRACTIAN",
+      "url": "https://tractian.com/careers",
+      "linkOk": false,
+      "linkStatus": 404,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://tractian.com/careers"
+    },
+    {
+      "id": "career-ubiminds",
+      "name": "Ubiminds",
+      "url": "https://ubiminds.com/careers/",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://ubiminds.com/en-us/careers/"
+    },
+    {
+      "id": "career-wizeline",
+      "name": "Wizeline",
+      "url": "https://www.wizeline.com/careers/",
+      "linkOk": true,
+      "linkStatus": 200,
+      "linkState": "ok",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://www.wizeline.ai/careers/"
+    },
+    {
+      "id": "career-zenvia",
+      "name": "Zenvia",
+      "url": "https://www.zenvia.com/carreiras/",
+      "linkOk": false,
+      "linkStatus": 404,
+      "linkState": "fail",
+      "linkCheckedAt": "2026-08-04T15:27:59.698Z",
+      "linkFinalUrl": "https://zenvia.com/carreiras/"
+    }
+  ]
+}
