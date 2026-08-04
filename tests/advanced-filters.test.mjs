@@ -119,6 +119,34 @@ describe("advanced filters", () => {
     assert.equal(out.length, 1);
   });
 
+  it("soft Brazil geo keeps worldwide remotes (not only ApInfo-style BR text)", () => {
+    const world = makeJob({
+      source: "remoteok",
+      title: "Senior .NET Engineer",
+      company: "Globex",
+      url: "https://ex.com/world",
+      description: "Fully remote. Work from anywhere. C# Azure.",
+      location: "Worldwide",
+      postedAt: Date.now() - 3600e3,
+    });
+    const onsiteUk = makeJob({
+      source: "t",
+      title: "Office .NET",
+      company: "UK Co",
+      url: "https://ex.com/uk",
+      description: "Onsite London office only.",
+      location: "London, UK",
+      postedAt: Date.now() - 3600e3,
+    });
+    const out = applyFilters([world, onsiteUk], {
+      geo: "brazil",
+      workplace: "remote",
+      recency: "any",
+    });
+    assert.ok(out.some((j) => j.title.includes("Senior .NET")));
+    assert.ok(!out.some((j) => j.title.includes("Office")));
+  });
+
   it("keeps jobs with unknown postedAt when recency is set", () => {
     const undated = makeJob({
       source: "t",

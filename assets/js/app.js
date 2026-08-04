@@ -1,14 +1,24 @@
 import { initLang, setLang, getLang, t, applyI18n } from "./i18n.js";
-import { defaultFilters, splitTerms } from "./filters.js";
+import { defaultFilters, splitTerms, sortJobs } from "./filters.js";
 import { searchJobs, ADAPTERS } from "./search-engine.js";
 import { applySearchHacks } from "./apply-hacks.js";
 import { SEARCH_PRESETS } from "./presets.js";
 import {
   loadInterests,
   hasInterest,
-  toggleInterest,
+  getInterest,
+  addInterest,
+  removeInterest,
+  updateInterest,
   clearInterests,
+  INTEREST_STATUSES,
 } from "./interests.js";
+import { computeMatchScore, matchTier, isFreshJob } from "./match-score.js";
+import {
+  writeFiltersToUrl,
+  shareUrl,
+  searchParamsToFilters,
+} from "./url-filters.js";
 
 const $ = (sel) => document.querySelector(sel);
 
@@ -28,6 +38,7 @@ let currentPage = 1;
 let pageSize = 20;
 let activeView = "results"; // results | interests
 let searching = false;
+let selectedJobUrl = null;
 
 function readFilters() {
   const form = $("#filters-form");
@@ -162,6 +173,60 @@ function applyFilterObject(d) {
   setMultiChips("remoteScope", d.remoteScope || "any");
   setMultiChips("seniority", d.seniority || "any");
   setMultiChips("jobType", d.jobType || "any");
+  syncSalaryChips(d.salaryMin);
+  const toolbarSort = $("#toolbar-sort");
+  if (toolbarSort && d.sortBy) toolbarSort.value = d.sortBy;
+}
+
+function syncSalaryChips(min) {
+  const val = min == null || min === "" || Number(min) === 0 ? "" : String(min);
+  document.querySelectorAll("#salary-quick [data-salary]").forEach((btn) => {
+    btn.classList.toggle("active", btn.dataset.salary === val);
+  });
+}
+
+function renderActiveFilters(filters) {
+  const box = $("#active-filters");
+  if (!box) return;
+  const chips = [];
+  const push = (key, label, clearable = true) => {
+    chips.push({ key, label, clearable });
+  };
+  if (filters.keywords) push("keywords", filters.keywords.slice(0, 40));
+  for (const g of String(filters.geo || "").split(",").filter((x) => x && x !== "any")) {
+    push("geo", g);
+  }
+  for (const w of String(filters.workplace || "").split(",").filter((x) => x && x !== "any")) {
+    push("workplace", w);
+  }
+  for (const s of String(filters.remoteScope || "").split(",").filter((x) => x && x !== "any")) {
+    push("remoteScope", s);
+  }
+  for (const s of String(filters.seniority || "").split(",").filter((x) => x && x !== "any")) {
+    push("seniority", s);
+  }
+  if (filters.recency && filters.recency !== "any") push("recency", filters.recency);
+  if (filters.salaryMin) push("salaryMin", `$${Number(filters.salaryMin) / 1000}k+`);
+  if (filters.brazilOk) push("brazilOk", "Brazil OK");
+  if (filters.noAgency) push("noAgency", t("noAgency"));
+  if (filters.skillsMust) push("skillsMust", filters.skillsMust.slice(0, 28));
+
+  if (!chips.length) {
+    box.hidden = true;
+    box.innerHTML = "";
+    return;
+  }
+  box.hidden = false;
+  box.innerHTML = `
+    <span class="active-filters-label">${t("activeFilters")}</span>
+    ${chips
+      .map(
+        (c) =>
+          `<button type="button" class="active-chip" data-clear="${escapeAttr(c.key)}" data-value="${escapeAttr(c.label)}">${escapeHtml(c.label)} <span aria-hidden="true">×</span></button>`
+      )
+      .join("")}
+    <button type="button" class="active-chip clear-all" data-clear="__all__">${t("clearFilters")}</button>
+  `;
 }
 
 function fillDefaults() {
@@ -348,34 +413,85 @@ function renderPagination(total) {
 function renderExternalBoards(external = []) {
   const box = $("#external-boards");
   if (!box) return;
-  const primary = external.filter((e) =>
-    /linkedin|indeed|google|glassdoor|apinfo|remotar/i.test(`${e.id} ${e.name}`)
-  );
-  const list = (primary.length ? primary : external).slice(0, 8);
-  if (!list.length) {
+  // Always rebuild from current filters so LinkedIn/Indeed/Google match the form
+  const { external: hacked } = applySearchHacks(readFilters());
+  const pool = hacked.length ? hacked : external;
+  const pick = (re) => pool.find((e) => re.test(`${e.id} ${e.name}`));
+  const mega = [
+    pick(/^linkedin$/i) || pick(/linkedin(?!.*under|.*br|.*ca|.*ae)/i),
+    pick(/^indeed$/i) || pick(/indeed(?!.*br|.*ca|.*nz|.*ae)/i),
+    pick(/googlejobs|^google$/i),
+    pick(/glassdoor/i),
+    pick(/linkedin-br/i),
+    pick(/indeed-br/i),
+  ].filter(Boolean);
+  // Dedupe by id
+  const seen = new Set();
+  const heroes = mega.filter((e) => {
+    if (seen.has(e.id)) return false;
+    seen.add(e.id);
+    return true;
+  });
+  const extras = pool
+    .filter((e) => !seen.has(e.id) && /apinfo|remotar|gupy|linkedin|indeed|google/i.test(`${e.id}${e.name}`))
+    .slice(0, 6);
+
+  if (!heroes.length && !extras.length) {
     box.hidden = true;
     box.innerHTML = "";
     return;
   }
   box.hidden = false;
   box.innerHTML = `
-    <div class="external-boards-label">${t("externalBoardsTitle")}</div>
-    <p class="external-boards-hint">${t("externalBoardsHint")}</p>
-    <div class="deeplink-grid">
-      ${list
+    <div class="external-hero">
+      <div class="external-hero-copy">
+        <div class="external-boards-label">${t("externalBoardsTitle")}</div>
+        <p class="external-boards-hint">${t("externalBoardsHint")}</p>
+        <p class="external-boards-warn">${t("externalNoApiWarn")}</p>
+      </div>
+      <button type="button" class="btn btn-primary" id="btn-open-big3">${t("openBig3")}</button>
+    </div>
+    <div class="deeplink-grid deeplink-grid-hero">
+      ${heroes
         .map(
           (e) => `
-        <a class="deeplink${/linkedin|indeed|google|glassdoor|apinfo/i.test(`${e.id}${e.name}`) ? " featured" : ""}" href="${escapeAttr(e.url)}" target="_blank" rel="noopener noreferrer">
+        <a class="deeplink featured mega" data-mega="1" href="${escapeAttr(e.url)}" target="_blank" rel="noopener noreferrer">
+          <strong>${escapeHtml(e.name)}</strong>
+          <span>${escapeHtml(e.query || e.description || t("externalOpen"))}</span>
+          <em>${t("externalClickOpen")}</em>
+        </a>`
+        )
+        .join("")}
+    </div>
+    ${
+      extras.length
+        ? `<div class="deeplink-grid">
+      ${extras
+        .map(
+          (e) => `
+        <a class="deeplink" href="${escapeAttr(e.url)}" target="_blank" rel="noopener noreferrer">
           <strong>${escapeHtml(e.name)}</strong>
           <span>${escapeHtml(e.query || e.description || t("externalOpen"))}</span>
         </a>`
         )
         .join("")}
-    </div>`;
+    </div>`
+        : ""
+    }`;
+
+  $("#btn-open-big3")?.addEventListener("click", () => {
+    const urls = heroes.slice(0, 4).map((e) => e.url);
+    for (const url of urls) window.open(url, "_blank", "noopener,noreferrer");
+    toast(`${urls.length} ${t("hacksOpened")}`);
+  });
 }
 
 function jobTableRowHtml(job, filters, absoluteIndex) {
   const interested = hasInterest(interests, job);
+  const saved = getInterest(interests, job);
+  const match = job.matchScore ?? computeMatchScore(job, filters).score;
+  const tier = matchTier(match);
+  const fresh = isFreshJob(job, 48);
   const locBits = [];
   if (job.location) locBits.push(job.location);
   if (job.workplace && job.workplace !== "unknown") locBits.push(job.workplace);
@@ -389,12 +505,21 @@ function jobTableRowHtml(job, filters, absoluteIndex) {
           ? `<span class="badge scope-region">${t("remoteScopeRegion")}</span>`
           : "";
   const snippet = highlight(job.description || "", filters);
+  const statusBadge =
+    saved?.status && saved.status !== "saved"
+      ? `<span class="badge status-${escapeAttr(saved.status)}">${escapeHtml(t(`status_${saved.status}`))}</span>`
+      : interested
+        ? `<span class="badge status-saved">${escapeHtml(t("status_saved"))}</span>`
+        : "";
 
   return `
-  <tr class="job-row${interested ? " in-interests" : ""}" data-url="${escapeAttr(job.url)}" data-job-id="${escapeAttr(job.id || job.url)}">
+  <tr class="job-row${interested ? " in-interests" : ""}${selectedJobUrl === job.url ? " is-selected" : ""}" data-url="${escapeAttr(job.url)}" data-job-id="${escapeAttr(job.id || job.url)}" title="${escapeAttr(t("clickForDetails"))}">
     <td class="col-index">${absoluteIndex}</td>
+    <td class="col-match"><span class="match-pill match-${tier}" title="${t("matchScore")}">${match}%</span></td>
     <td class="col-title">
-      <a class="job-title-link" href="${escapeAttr(job.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(job.title)}</a>
+      <span class="job-title-btn">${escapeHtml(job.title)}</span>
+      ${fresh ? `<span class="badge badge-new">${t("badgeNew")}</span>` : ""}
+      ${statusBadge}
       ${snippet ? `<div class="job-snippet">${snippet}</div>` : ""}
     </td>
     <td class="col-company">${escapeHtml(job.company || "—")}</td>
@@ -405,8 +530,7 @@ function jobTableRowHtml(job, filters, absoluteIndex) {
     <td class="col-actions">
       <div class="job-actions">
         <a class="btn btn-small btn-primary" href="${escapeAttr(job.url)}" target="_blank" rel="noopener noreferrer">${t("open")}</a>
-        <button type="button" class="btn btn-small btn-ghost btn-copy">${t("copy")}</button>
-        <button type="button" class="btn btn-small ${interested ? "btn-interest active" : "btn-ghost"} btn-interest-toggle">${interested ? t("inInterests") : t("addInterest")}</button>
+        <button type="button" class="btn btn-small btn-ghost btn-open-drawer">${t("details")}</button>
       </div>
     </td>
   </tr>`;
@@ -419,6 +543,7 @@ function jobsTableHtml(rowsHtml) {
       <thead>
         <tr>
           <th scope="col">${t("colIndex")}</th>
+          <th scope="col">${t("colMatch")}</th>
           <th scope="col">${t("colTitle")}</th>
           <th scope="col">${t("colCompany")}</th>
           <th scope="col">${t("colLocation")}</th>
@@ -433,6 +558,135 @@ function jobsTableHtml(rowsHtml) {
       </tbody>
     </table>
   </div>`;
+}
+
+function enrichJobs(jobs, filters) {
+  return jobs.map((job) => {
+    const m = computeMatchScore(job, filters);
+    return { ...job, matchScore: m.score, matchHits: m.hits };
+  });
+}
+
+function openDrawer(job, filters) {
+  const modal = $("#job-modal");
+  if (!modal || !job) return;
+  selectedJobUrl = job.url;
+  const match = computeMatchScore(job, filters);
+  const saved = getInterest(interests, job);
+  const interested = Boolean(saved);
+  const facts = [];
+  if (job.source) facts.push(`<span class="badge source">${escapeHtml(job.source)}</span>`);
+  if (job.workplace && job.workplace !== "unknown") {
+    facts.push(`<span class="badge">${escapeHtml(job.workplace)}</span>`);
+  }
+  if (job.remoteScope && job.remoteScope !== "unknown") {
+    facts.push(`<span class="badge">${escapeHtml(job.remoteScope)}</span>`);
+  }
+  if (job.jobType && job.jobType !== "unknown") {
+    facts.push(`<span class="badge">${escapeHtml(job.jobType)}</span>`);
+  }
+  if (job.geo?.brazil || job.geo?.latamFriendly) {
+    facts.push(`<span class="badge">LATAM/BR</span>`);
+  }
+
+  $("#drawer-title").textContent = job.title || "—";
+  $("#drawer-meta").innerHTML = `
+    <div><strong>${escapeHtml(job.company || "—")}</strong></div>
+    <div class="drawer-sub">${escapeHtml(job.location || "—")} · ${formatDate(job.postedAt)}</div>
+    ${job.salary ? `<div class="drawer-salary">${escapeHtml(job.salary)}</div>` : ""}
+    ${facts.length ? `<div class="drawer-facts">${facts.join("")}</div>` : ""}
+  `;
+  $("#drawer-match").innerHTML = `
+    <div class="match-bar"><span class="match-pill match-${matchTier(match.score)}">${match.score}% ${t("matchScore")}</span></div>
+    ${
+      match.hits.length
+        ? `<div class="match-hits">${t("matchHits")}: ${match.hits
+            .slice(0, 8)
+            .map((h) => `<span class="badge">${escapeHtml(h)}</span>`)
+            .join(" ")}</div>`
+        : ""
+    }
+  `;
+  $("#drawer-actions").innerHTML = `
+    ${interested ? `<p class="drawer-already">${t("alreadySaved")}</p>` : ""}
+    <a class="btn btn-primary" href="${escapeAttr(job.url)}" target="_blank" rel="noopener noreferrer">${t("open")}</a>
+    ${
+      interested
+        ? `<button type="button" class="btn btn-ghost btn-unsave-job" data-url="${escapeAttr(job.url)}">${t("removeInterest")}</button>`
+        : `<button type="button" class="btn btn-primary btn-save-job" data-url="${escapeAttr(job.url)}">${t("saveJob")}</button>`
+    }
+    <button type="button" class="btn btn-ghost btn-copy" data-url="${escapeAttr(job.url)}">${t("copy")}</button>
+    ${
+      interested
+        ? `<button type="button" class="btn btn-ghost btn-goto-saved">${t("viewInterests")}</button>`
+        : ""
+    }
+  `;
+  const statusBox = $("#drawer-status");
+  if (saved) {
+    statusBox.hidden = false;
+    statusBox.innerHTML = `
+      <label>${t("applicationStatus")}
+        <select id="drawer-status-select">
+          ${INTEREST_STATUSES.map(
+            (s) =>
+              `<option value="${s}" ${saved.status === s ? "selected" : ""}>${t(`status_${s}`)}</option>`
+          ).join("")}
+        </select>
+      </label>
+      <label>${t("notes")}
+        <textarea id="drawer-notes" rows="3" placeholder="${t("notesPh")}">${escapeHtml(saved.notes || "")}</textarea>
+      </label>
+      <button type="button" class="btn btn-small btn-ghost" id="drawer-save-meta">${t("saveNotes")}</button>
+    `;
+  } else {
+    statusBox.hidden = true;
+    statusBox.innerHTML = "";
+  }
+  const desc = job.description || "";
+  $("#drawer-body").innerHTML = `
+    <h4>${t("jobDescription")}</h4>
+    <p>${escapeHtml(desc.slice(0, 2800))}${desc.length > 2800 ? "…" : ""}</p>
+  `;
+  modal.hidden = false;
+  document.body.classList.add("modal-open");
+  $("#drawer-close")?.focus();
+  document.querySelectorAll(".job-row").forEach((r) => {
+    r.classList.toggle("is-selected", r.dataset.url === job.url);
+  });
+}
+
+function closeDrawer() {
+  selectedJobUrl = null;
+  const modal = $("#job-modal");
+  if (modal) modal.hidden = true;
+  document.body.classList.remove("modal-open");
+  document.querySelectorAll(".job-row.is-selected").forEach((r) => r.classList.remove("is-selected"));
+}
+
+function exportCsv(jobs) {
+  const rows = [
+    ["title", "company", "location", "source", "salary", "postedAt", "match", "url"],
+    ...jobs.map((j) => [
+      j.title,
+      j.company,
+      j.location,
+      j.source,
+      j.salary || "",
+      j.postedAt ? new Date(j.postedAt).toISOString() : "",
+      j.matchScore ?? "",
+      j.url,
+    ]),
+  ];
+  const csv = rows
+    .map((r) => r.map((c) => `"${String(c ?? "").replace(/"/g, '""')}"`).join(","))
+    .join("\n");
+  const blob = new Blob([csv], { type: "text/csv;charset=utf-8" });
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(blob);
+  a.download = `jobs-${new Date().toISOString().slice(0, 10)}.csv`;
+  a.click();
+  URL.revokeObjectURL(a.href);
 }
 
 function setActiveView(view) {
@@ -473,19 +727,39 @@ function renderJobs(jobs, filters, external = lastExternal) {
 
 function renderJobList(jobs, filters, { emptyKey, showExternal }) {
   const list = $("#job-list");
-  const slice = pageSlice(jobs);
-  updateStats(slice, jobs.length);
-  updateResultsSummary(jobs.length, slice);
+  const enriched = enrichJobs(jobs, filters);
+  let sorted = enriched;
+  const sortBy = filters.sortBy || "recency";
+  if (sortBy === "hack-relevance") {
+    sorted = [...enriched].sort((a, b) => {
+      const ds = (b.matchScore || 0) - (a.matchScore || 0);
+      if (ds) return ds;
+      return (b.hackScore || 0) - (a.hackScore || 0) || (b.postedAt || 0) - (a.postedAt || 0);
+    });
+  } else {
+    sorted = sortJobs(enriched, sortBy);
+  }
+
+  const slice = pageSlice(sorted);
+  updateStats(slice, sorted.length);
+  updateResultsSummary(sorted.length, slice);
   updateInterestsBadge();
+  renderActiveFilters(filters);
+  const toolbar = $("#results-toolbar");
+  if (toolbar) toolbar.hidden = !sorted.length;
+  const toolbarSort = $("#toolbar-sort");
+  if (toolbarSort && filters.sortBy) toolbarSort.value = filters.sortBy;
+
   if (showExternal) renderExternalBoards(lastExternal);
   else {
     const boards = $("#external-boards");
     if (boards) boards.hidden = true;
   }
-  renderPagination(jobs.length);
+  renderPagination(sorted.length);
 
-  if (!jobs.length) {
+  if (!sorted.length) {
     list.innerHTML = `<div class="empty">${t(emptyKey)}</div>`;
+    closeDrawer();
     return;
   }
 
@@ -493,6 +767,11 @@ function renderJobList(jobs, filters, { emptyKey, showExternal }) {
     .map((job, idx) => jobTableRowHtml(job, filters, slice.start + idx + 1))
     .join("");
   list.innerHTML = jobsTableHtml(rows);
+
+  if (selectedJobUrl) {
+    const still = sorted.find((j) => j.url === selectedJobUrl);
+    if (still) openDrawer(still, filters);
+  }
 }
 
 function findJobByUrl(url) {
@@ -657,13 +936,14 @@ async function runSearch(overrideFilters) {
       etaMs: 0,
       sources: result.sources,
     });
-    renderJobs(
-      result.jobs,
-      result.effectiveFilters || filters,
-      result.externalHacks || []
-    );
+    const effective = result.effectiveFilters || filters;
+    writeFiltersToUrl(effective);
+    renderJobs(result.jobs, effective, result.externalHacks || []);
     renderHacksApplied(result.hacksApplied || [], result.expandedKeywords || []);
-    $("#results-panel").scrollIntoView({ behavior: "smooth", block: "start" });
+    // Surface LinkedIn/Indeed/Google first — they never appear as table rows
+    const ext = $("#external-boards");
+    if (ext && !ext.hidden) ext.scrollIntoView({ behavior: "smooth", block: "center" });
+    else $("#results-panel").scrollIntoView({ behavior: "smooth", block: "start" });
   } finally {
     searching = false;
     setSearchingUi(false);
@@ -702,6 +982,125 @@ function wireEvents() {
 
   $("#btn-open-hacks").addEventListener("click", openTopHacks);
 
+  $("#btn-share-search")?.addEventListener("click", async () => {
+    const url = shareUrl(readFilters());
+    try {
+      await navigator.clipboard.writeText(url);
+      toast(t("shareCopied"));
+    } catch {
+      toast(url);
+    }
+  });
+
+  $("#salary-quick")?.addEventListener("click", (e) => {
+    const btn = e.target.closest("[data-salary]");
+    if (!btn) return;
+    const val = btn.dataset.salary || "";
+    setFormValue("salaryMin", val);
+    syncSalaryChips(val);
+  });
+
+  $("#active-filters")?.addEventListener("click", (e) => {
+    const chip = e.target.closest("[data-clear]");
+    if (!chip) return;
+    const key = chip.dataset.clear;
+    if (key === "__all__") {
+      applyFilterObject(defaultFilters());
+      renderActiveFilters(readFilters());
+      return;
+    }
+    if (["geo", "workplace", "remoteScope", "seniority", "jobType"].includes(key)) {
+      setMultiChips(key, "any");
+    } else if (key === "brazilOk" || key === "noAgency" || key === "latamOnly") {
+      setFormValue(key, false);
+    } else if (key === "salaryMin") {
+      setFormValue("salaryMin", "");
+      syncSalaryChips("");
+    } else {
+      setFormValue(key, key === "recency" ? "any" : "");
+    }
+    renderActiveFilters(readFilters());
+  });
+
+  $("#toolbar-sort")?.addEventListener("change", (e) => {
+    setFormValue("sortBy", e.target.value);
+    currentPage = 1;
+    renderActiveView();
+  });
+
+  $("#btn-export-csv")?.addEventListener("click", () => {
+    const filters = readFilters();
+    const jobs = enrichJobs(activeView === "interests" ? interests : lastJobs, filters);
+    if (!jobs.length) return toast(t("noResults"));
+    exportCsv(jobs);
+    toast(t("exportOk"));
+  });
+
+  $("#btn-copy-links")?.addEventListener("click", async () => {
+    const jobs = activeView === "interests" ? interests : lastJobs;
+    const text = jobs.map((j) => j.url).filter(Boolean).join("\n");
+    if (!text) return;
+    try {
+      await navigator.clipboard.writeText(text);
+      toast(t("copyOk"));
+    } catch {
+      toast(text.slice(0, 120));
+    }
+  });
+
+  $("#drawer-close")?.addEventListener("click", closeDrawer);
+  $("#job-modal-backdrop")?.addEventListener("click", closeDrawer);
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape" && !$("#job-modal")?.hidden) closeDrawer();
+  });
+
+  $("#job-modal")?.addEventListener("click", async (e) => {
+    if (e.target.classList.contains("btn-copy")) {
+      const url = e.target.dataset.url || selectedJobUrl;
+      try {
+        await navigator.clipboard.writeText(url);
+        toast(t("copyOk"));
+      } catch {
+        toast(url);
+      }
+    }
+    if (e.target.classList.contains("btn-save-job")) {
+      const url = e.target.dataset.url || selectedJobUrl;
+      const job = findJobByUrl(url);
+      if (!job) return;
+      const { list, added, already } = addInterest(interests, job);
+      interests = list;
+      if (already) toast(t("alreadySaved"));
+      else if (added) toast(t("interestAdded"));
+      updateInterestsBadge();
+      renderActiveView();
+      const again = findJobByUrl(url);
+      if (again) openDrawer(again, readFilters());
+    }
+    if (e.target.classList.contains("btn-unsave-job")) {
+      const url = e.target.dataset.url || selectedJobUrl;
+      interests = removeInterest(interests, url);
+      toast(t("interestRemoved"));
+      updateInterestsBadge();
+      renderActiveView();
+      const again = findJobByUrl(url);
+      if (again) openDrawer(again, readFilters());
+      else closeDrawer();
+    }
+    if (e.target.classList.contains("btn-goto-saved")) {
+      closeDrawer();
+      setActiveView("interests");
+      $("#results-panel")?.scrollIntoView({ behavior: "smooth", block: "start" });
+    }
+    if (e.target.id === "drawer-save-meta" && selectedJobUrl) {
+      const status = $("#drawer-status-select")?.value || "saved";
+      const notes = $("#drawer-notes")?.value || "";
+      interests = updateInterest(interests, selectedJobUrl, { status, notes });
+      toast(t("notesSaved"));
+      renderActiveView();
+    }
+  });
+
   $("#tab-results")?.addEventListener("click", () => setActiveView("results"));
   $("#tab-interests")?.addEventListener("click", () => setActiveView("interests"));
 
@@ -709,8 +1108,8 @@ function wireEvents() {
     interests = clearInterests();
     toast(t("interestsCleared"));
     updateInterestsBadge();
-    if (activeView === "interests") renderActiveView();
-    else renderActiveView();
+    closeDrawer();
+    renderActiveView();
   });
 
   $("#page-size")?.addEventListener("change", (e) => {
@@ -750,23 +1149,10 @@ function wireEvents() {
     const row = e.target.closest(".job-row");
     if (!row) return;
     const url = row.dataset.url;
-    if (e.target.classList.contains("btn-copy")) {
-      try {
-        await navigator.clipboard.writeText(url);
-        toast(t("copyOk"));
-      } catch {
-        toast(url);
-      }
-    }
-    if (e.target.classList.contains("btn-interest-toggle")) {
-      const job = findJobByUrl(url);
-      if (!job) return;
-      const { list, added } = toggleInterest(interests, job);
-      interests = list;
-      toast(added ? t("interestAdded") : t("interestRemoved"));
-      updateInterestsBadge();
-      renderActiveView();
-    }
+    // Keep native link / explicit action buttons from being swallowed
+    if (e.target.closest("a") || e.target.closest("button:not(.btn-open-drawer)")) return;
+    const job = findJobByUrl(url);
+    if (job) openDrawer(job, readFilters());
   });
 }
 
@@ -777,11 +1163,19 @@ function boot() {
     b.classList.toggle("active", b.dataset.lang === getLang());
   });
   fillDefaults();
+  const fromUrl = searchParamsToFilters();
+  if (Object.keys(fromUrl).length) {
+    applyFilterObject({ ...defaultFilters(), ...fromUrl });
+  }
   renderSourceToggles();
   applyI18n();
   renderPresets();
   updateInterestsBadge();
+  renderActiveFilters(readFilters());
   wireEvents();
+  if (fromUrl.keywords || fromUrl.geo) {
+    runSearch();
+  }
 }
 
 boot();

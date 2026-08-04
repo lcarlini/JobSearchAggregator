@@ -63,7 +63,27 @@ function matchSingleGeo(job, geo) {
   const loc = `${job.location || ""} ${job.description || ""}`.toLowerCase();
   switch (geo) {
     case "brazil":
-      return g.brazil || /\bbrasil|brazil\b/.test(loc);
+      // Soft like LATAM: BR mention OR remote/worldwide (international boards rarely say "Brazil")
+      if (g.brazil || /\bbrasil|brazil\b/.test(loc)) return true;
+      if (g.latamFriendly || g.worldwide || job.remoteScope === "worldwide" || job.remotePolicy === "anywhere") {
+        return job.workplace !== "onsite";
+      }
+      if (
+        job.remotePolicy === "country-restricted" ||
+        job.remotePolicy === "emea-only" ||
+        job.remotePolicy === "us-only"
+      ) {
+        return false;
+      }
+      // Keep generic remotes from global boards; drop clear foreign onsite
+      if (
+        job.workplace === "onsite" &&
+        (g.uk || g.us || g.australia || g.europe || g.canada || g.uae || g.newZealand) &&
+        !/\bbrazil|brasil|latam\b/.test(loc)
+      ) {
+        return false;
+      }
+      return job.workplace === "remote" || job.workplace === "unknown" || job.workplace === "hybrid";
     case "worldwide":
       return true;
     case "latam":

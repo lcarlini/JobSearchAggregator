@@ -14,10 +14,10 @@
       href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600;9..40,700&family=Syne:wght@700;800&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="./assets/css/styles.css?v=markets3" />
+    <link rel="stylesheet" href="./assets/css/styles.css?v=modal1" />
   </head>
   <body>
-    <div class="wrap">
+    <div class="wrap wrap-wide">
       <header class="topbar">
         <div class="brand">
           <span class="brand-mark" aria-hidden="true"></span>
@@ -54,7 +54,21 @@
             <button type="submit" class="btn btn-primary" id="btn-search" data-i18n="ctaSearch">
               Buscar
             </button>
+            <button type="button" class="btn btn-ghost" id="btn-share-search" data-i18n="shareSearch">
+              Compartilhar
+            </button>
           </div>
+
+          <div class="salary-quick" id="salary-quick" role="group" aria-label="Salary">
+            <span class="chip-row-label" data-i18n="salaryQuick">Salário mín.</span>
+            <button type="button" class="chip-btn chip-sm" data-salary="0">Any</button>
+            <button type="button" class="chip-btn chip-sm" data-salary="50000">$50k+</button>
+            <button type="button" class="chip-btn chip-sm" data-salary="80000">$80k+</button>
+            <button type="button" class="chip-btn chip-sm" data-salary="100000">$100k+</button>
+            <button type="button" class="chip-btn chip-sm" data-salary="140000">$140k+</button>
+            <input type="hidden" id="salaryMinQuick" value="" />
+          </div>
+          <div class="active-filters" id="active-filters" hidden></div>
 
           <div class="filter-row">
             <span class="filter-row-label" data-i18n="geo">Mercados</span>
@@ -370,12 +384,12 @@
                 Resultados
               </button>
               <button type="button" class="btn btn-small view-tab" id="tab-interests" data-view="interests">
-                <span data-i18n="viewInterests">Interesses</span>
+                <span data-i18n="viewInterests">Salvos</span>
                 <span class="count-badge" id="interests-badge">0</span>
               </button>
             </div>
             <button type="button" class="btn btn-small btn-ghost" id="btn-clear-interests" hidden data-i18n="clearInterests">
-              Limpar lista
+              Limpar salvos
             </button>
             <button type="button" class="btn btn-small btn-ghost" id="btn-open-hacks" data-i18n="ctaOpenHacks">
               Abrir top hacks
@@ -425,23 +439,43 @@
 
         <div class="external-boards" id="external-boards" hidden></div>
 
-        <div class="results-table-wrap" id="job-list">
-          <div class="empty" data-i18n="emptyStart">
-            Escolha uma pesquisa pronta ou digite uma stack e clique em Buscar.
-          </div>
-        </div>
-        <div class="pagination-wrap" id="pagination-wrap" hidden>
-          <div class="pagination-meta" id="pagination-meta"></div>
-          <nav class="pagination" id="pagination" aria-label="Pagination"></nav>
-          <label class="page-size">
-            <span data-i18n="pageSizeLabel">por página</span>
-            <select id="page-size" aria-label="Page size">
-              <option value="10">10</option>
-              <option value="20" selected>20</option>
-              <option value="40">40</option>
-              <option value="60">60</option>
+        <div class="results-toolbar" id="results-toolbar" hidden>
+          <label class="toolbar-sort">
+            <span data-i18n="sortBy">Ordenar</span>
+            <select id="toolbar-sort" aria-label="Sort">
+              <option value="hack-relevance" data-i18n="sortRelevance">Match / relevância</option>
+              <option value="recency" data-i18n="sortRecency">Mais recente</option>
+              <option value="salary" data-i18n="sortSalary">Salário</option>
+              <option value="company" data-i18n="sortCompany">Empresa</option>
             </select>
           </label>
+          <div class="toolbar-actions">
+            <button type="button" class="btn btn-small btn-ghost" id="btn-export-csv" data-i18n="exportCsv">Exportar CSV</button>
+            <button type="button" class="btn btn-small btn-ghost" id="btn-copy-links" data-i18n="copyLinks">Copiar links</button>
+          </div>
+        </div>
+
+        <div class="results-layout">
+          <div class="results-main">
+            <div class="results-table-wrap" id="job-list">
+              <div class="empty" data-i18n="emptyStart">
+                Escolha uma pesquisa pronta ou digite uma stack e clique em Buscar.
+              </div>
+            </div>
+            <div class="pagination-wrap" id="pagination-wrap" hidden>
+              <div class="pagination-meta" id="pagination-meta"></div>
+              <nav class="pagination" id="pagination" aria-label="Pagination"></nav>
+              <label class="page-size">
+                <span data-i18n="pageSizeLabel">por página</span>
+                <select id="page-size" aria-label="Page size">
+                  <option value="10">10</option>
+                  <option value="20" selected>20</option>
+                  <option value="40">40</option>
+                  <option value="60">60</option>
+                </select>
+              </label>
+            </div>
+          </div>
         </div>
       </section>
 
@@ -456,7 +490,28 @@
       </footer>
     </div>
 
+    <div class="job-modal" id="job-modal" hidden>
+      <div class="job-modal-backdrop" id="job-modal-backdrop" tabindex="-1"></div>
+      <div
+        class="job-modal-panel"
+        role="dialog"
+        aria-modal="true"
+        aria-labelledby="drawer-title"
+        id="job-drawer"
+      >
+        <div class="drawer-head">
+          <h3 id="drawer-title">—</h3>
+          <button type="button" class="btn btn-small btn-ghost" id="drawer-close" aria-label="Close">✕</button>
+        </div>
+        <div class="drawer-meta" id="drawer-meta"></div>
+        <div class="drawer-match" id="drawer-match"></div>
+        <div class="drawer-actions" id="drawer-actions"></div>
+        <div class="drawer-status" id="drawer-status" hidden></div>
+        <div class="drawer-body" id="drawer-body"></div>
+      </div>
+    </div>
+
     <div class="toast" id="toast" role="status"></div>
-    <script type="module" src="./assets/js/app.js?v=filtersync4"></script>
+    <script type="module" src="./assets/js/app.js?v=modal1"></script>
   </body>
 </html>

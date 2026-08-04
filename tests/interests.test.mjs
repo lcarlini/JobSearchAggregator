@@ -5,6 +5,7 @@ import {
   saveInterests,
   hasInterest,
   toggleInterest,
+  addInterest,
   clearInterests,
 } from "../assets/js/interests.js";
 
@@ -70,5 +71,23 @@ describe("interests list", () => {
     const list = clearInterests();
     assert.equal(list.length, 0);
     assert.equal(loadInterests().length, 0);
+  });
+
+  it("addInterest never duplicates the same url", () => {
+    const job = {
+      url: "https://example.com/job/dup",
+      title: "Backend",
+      company: "Acme",
+      source: "apinfo",
+    };
+    const first = addInterest([], job);
+    assert.equal(first.added, true);
+    assert.equal(first.already, false);
+    assert.equal(first.list.length, 1);
+    const second = addInterest(first.list, { ...job, title: "Backend again" });
+    assert.equal(second.added, false);
+    assert.equal(second.already, true);
+    assert.equal(second.list.length, 1);
+    assert.equal(second.list[0].title, "Backend");
   });
 });

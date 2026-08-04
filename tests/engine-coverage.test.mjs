@@ -85,6 +85,33 @@ describe("search engine coverage", () => {
     assert.ok(us.length >= 5, `us too empty: ${us.length}`);
   });
 
+  it("Brazil + remote soft geo returns multi-source jobs + LinkedIn deeplink", () => {
+    const hacked = applySearchHacks({
+      ...defaultFilters(),
+      keywords: ".NET",
+      geo: "brazil",
+      workplace: "remote",
+      recency: "any",
+      applyHacks: true,
+    });
+    const out = applyFilters(pool, hacked.filters);
+    const sources = new Set(out.map((j) => j.source));
+    assert.ok(out.length >= 10, `brazil soft too empty: ${out.length}`);
+    assert.ok(sources.size >= 2, `expected >1 source, got ${[...sources].join(",")}`);
+    assert.ok(
+      hacked.external.some((e) => /linkedin/i.test(e.id + e.name)),
+      "LinkedIn must be in external boards"
+    );
+    assert.ok(
+      hacked.external.some((e) => /indeed/i.test(e.id + e.name)),
+      "Indeed must be in external boards"
+    );
+    assert.ok(
+      hacked.external.some((e) => /google/i.test(e.id + e.name)),
+      "Google must be in external boards"
+    );
+  });
+
   it("always exposes LinkedIn deeplink even with hacks off", () => {
     const { external } = applySearchHacks({
       keywords: ".NET",

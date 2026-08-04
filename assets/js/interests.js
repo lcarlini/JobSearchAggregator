@@ -1,7 +1,9 @@
-/** Persistência local da lista de interesses (vagas salvas). */
+/** Persistência local da lista de interesses (vagas salvas) + status de candidatura. */
 
 const KEY = "jsa-interests";
 const LEGACY_KEY = "jsa-saved";
+
+export const INTEREST_STATUSES = ["saved", "applied", "interview", "offer", "rejected"];
 
 function compactJob(job) {
   return {
@@ -11,13 +13,16 @@ function compactJob(job) {
     company: job.company || "",
     source: job.source || "",
     location: job.location || "",
-    description: (job.description || "").slice(0, 400),
+    description: (job.description || "").slice(0, 800),
     salary: job.salary || null,
     workplace: job.workplace || "unknown",
     jobType: job.jobType || "unknown",
+    remoteScope: job.remoteScope || "unknown",
     postedAt: job.postedAt || null,
     geo: job.geo || null,
     savedAt: job.savedAt || Date.now(),
+    status: INTEREST_STATUSES.includes(job.status) ? job.status : "saved",
+    notes: typeof job.notes === "string" ? job.notes.slice(0, 500) : "",
   };
 }
 
@@ -49,7 +54,7 @@ export function loadInterests() {
     const raw = localStorage.getItem(KEY);
     if (raw) {
       const list = JSON.parse(raw);
-      if (Array.isArray(list)) return list.filter((j) => j?.url);
+      if (Array.isArray(list)) return list.filter((j) => j?.url).map(compactJob);
     }
   } catch {
     /* fall through */
@@ -72,6 +77,11 @@ export function hasInterest(list, jobOrUrl) {
   return list.some((j) => j.url === key);
 }
 
+export function getInterest(list, jobOrUrl) {
+  const key = interestKey(jobOrUrl);
+  return list.find((j) => j.url === key) || null;
+}
+
 export function toggleInterest(list, job) {
   const key = interestKey(job);
   if (!key) return { list, added: false };
@@ -84,6 +94,27 @@ export function toggleInterest(list, job) {
   const next = [compactJob(job), ...list];
   saveInterests(next);
   return { list: next, added: true };
+}
+
+/** Add once by URL — never duplicates an already-saved job. */
+export function addInterest(list, job) {
+  const key = interestKey(job);
+  if (!key) return { list, added: false, already: false };
+  if (list.some((j) => j.url === key)) {
+    return { list, added: false, already: true };
+  }
+  const next = [compactJob(job), ...list];
+  saveInterests(next);
+  return { list: next, added: true, already: false };
+}
+
+export function updateInterest(list, url, patch) {
+  const next = list.map((j) => {
+    if (j.url !== url) return j;
+    return compactJob({ ...j, ...patch, url: j.url });
+  });
+  saveInterests(next);
+  return next;
 }
 
 export function removeInterest(list, url) {
