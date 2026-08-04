@@ -76,8 +76,16 @@ function buildExternalLinks(filters, recipes = []) {
     external.push(item);
   };
 
-  // LinkedIn first — highest-value board we cannot scrape
-  for (const id of ["linkedin", "linkedin-br", "linkedin-under10"]) {
+  // Consolidated platforms first — always mirror aggregator filters
+  for (const id of [
+    "linkedin",
+    "indeed",
+    "googlejobs",
+    "glassdoor",
+    "linkedin-br",
+    "linkedin-under10",
+    "indeed-br-remoto",
+  ]) {
     const d = deep.find((x) => x.id === id);
     if (d) push({ id: d.id, name: d.name, titleKey: null, url: d.url, query: d.description });
   }
@@ -85,7 +93,20 @@ function buildExternalLinks(filters, recipes = []) {
     const r = recipes.find((x) => x.id === id);
     if (r) push({ id: r.id, name: r.platform, titleKey: r.titleKey, url: r.url, query: r.query });
   }
-  for (const id of ["indeed", "apinfo", "googlejobs", "remotar", "gupy", "g-gupy", "g-indeed-br", "indeed-br", "apinfo-direct"]) {
+  for (const id of [
+    "apinfo",
+    "remotar",
+    "gupy",
+    "linkedin-ca",
+    "indeed-ca",
+    "indeed-nz",
+    "linkedin-ae",
+    "indeed-ae",
+    "g-gupy",
+    "g-indeed-br",
+    "indeed-br",
+    "apinfo-direct",
+  ]) {
     const d = deep.find((x) => x.id === id);
     if (d) push({ id: d.id, name: d.name, titleKey: null, url: d.url, query: d.description });
     const r = recipes.find((x) => x.id === id);

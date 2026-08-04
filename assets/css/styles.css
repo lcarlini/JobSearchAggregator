@@ -274,6 +274,36 @@ a:hover {
   background: rgba(61, 220, 151, 0.12);
 }
 
+.chip-btn.chip-sm {
+  font-size: 0.74rem;
+  padding: 0.28rem 0.55rem;
+}
+
+.market-presets-eu {
+  margin-top: 0.45rem;
+}
+
+.chip-row-label {
+  font-size: 0.72rem;
+  color: var(--muted);
+  margin-right: 0.15rem;
+}
+
+.badge.scope-world {
+  color: var(--accent-2);
+  border-color: rgba(92, 200, 255, 0.4);
+}
+
+.badge.scope-country {
+  color: #ffb020;
+  border-color: rgba(255, 176, 32, 0.4);
+}
+
+.badge.scope-region {
+  color: var(--accent);
+  border-color: rgba(61, 220, 151, 0.4);
+}
+
 .check {
   display: flex;
   align-items: center;

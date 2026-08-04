@@ -135,12 +135,20 @@ export function detectEngagement(text = "") {
 
 export function detectRemotePolicy(text = "") {
   const t = text.toLowerCase();
-  if (/\b(work from anywhere|anywhere in the world|worldwide|global remote|no location restriction)\b/.test(t)) {
+  if (
+    /\b(work from anywhere|anywhere in the world|worldwide|global remote|remote[- ]?worldwide|no location restriction|candidates? (from )?anywhere)\b/.test(
+      t
+    )
+  ) {
     return "anywhere";
   }
   if (/\b(latam only|latin america only|only latam|remote[- ]?latam)\b/.test(t)) return "latam-only";
-  if (/\b(emea only|europe only|eu only|eu\/uk only)\b/.test(t)) return "emea-only";
-  if (/\b(us only|united states only|must be (located )?in the (us|usa|united states)|remote us only)\b/.test(t)) {
+  if (/\b(emea only|europe only|eu only|eu\/uk only|remote[- ]?europe only)\b/.test(t)) return "emea-only";
+  if (
+    /\b(us only|united states only|must be (located|based) in the (us|usa|united states)|remote us only|uk only|canada only|australia only|germany only|portugal only|uae only|remote within (the )?country)\b/.test(
+      t
+    )
+  ) {
     return "country-restricted";
   }
   if (/\b(brazil ok|brasil ok|candidates? from brazil|hire from brazil|aceita .*brasil)\b/.test(t)) {
@@ -148,6 +156,64 @@ export function detectRemotePolicy(text = "") {
   }
   if (/\b(async|asynchronous|no timezone|timezone flexible)\b/.test(t)) return "async";
   if (/\b(overlap|timezone|time zone|core hours|working hours)\b/.test(t)) return "timezone-bound";
+  return "unknown";
+}
+
+/**
+ * Classifies remote openness:
+ * - worldwide: hire from anywhere / global remote
+ * - region: LATAM-only, EMEA-only, APAC-only, etc.
+ * - country: remote but only within one country
+ * - unknown: remote without clear geographic bound
+ */
+export function detectRemoteScope(text = "", location = "", extras = {}) {
+  const { workplace, remotePolicy, geo } = extras;
+  const t = `${text} ${location}`.toLowerCase();
+  const loc = String(location || "").toLowerCase();
+
+  if (
+    remotePolicy === "anywhere" ||
+    geo?.worldwide ||
+    /\b(work from anywhere|anywhere in the world|worldwide|global remote|remote[- ]?worldwide|no location restriction|candidates? (from )?anywhere|hire (from )?anywhere)\b/.test(
+      t
+    )
+  ) {
+    return "worldwide";
+  }
+
+  if (
+    remotePolicy === "latam-only" ||
+    remotePolicy === "emea-only" ||
+    /\b(latam only|latin america only|emea only|europe only|eu only|apac only|remote[- ]?(latam|emea|europe|eu|apac)( only)?)\b/.test(
+      t
+    )
+  ) {
+    return "region";
+  }
+
+  if (
+    remotePolicy === "country-restricted" ||
+    /\b(remote (us|usa|uk|canada|australia|brazil|brasil|germany|portugal|netherlands|ireland|spain|france|uae|nz|new zealand) only|must be (based|located) in|only (candidates|applicants) (in|from)|us[- ]based remote|uk[- ]based remote|canada[- ]based remote|remote within|remoto (apenas|somente) (no|em))\b/.test(
+      t
+    )
+  ) {
+    return "country";
+  }
+
+  // Location like "Remote - Germany" / "Toronto, Canada (Remote)" without worldwide
+  if (
+    (workplace === "remote" || /\bremote|remoto\b/.test(loc)) &&
+    loc &&
+    !/^(remote|remoto)$/i.test(loc.trim()) &&
+    !/\b(worldwide|anywhere|global)\b/.test(loc)
+  ) {
+    const countryLoc =
+      /\b(brazil|brasil|united states|usa|u\.s\.|united kingdom|\buk\b|canada|australia|new zealand|uae|dubai|germany|portugal|netherlands|ireland|spain|france|lisbon|lisboa|berlin|amsterdam|dublin|madrid|paris|toronto|vancouver|auckland|sydney|melbourne|london|new york|são paulo|sao paulo)\b/i.test(
+        loc
+      );
+    if (countryLoc) return "country";
+  }
+
   return "unknown";
 }
 
@@ -172,6 +238,10 @@ export function detectTimezone(text = "") {
   if (/\b(aest|aedt|australian eastern|sydney time|utc\s*\+?\s*10|utc\s*\+?\s*11)\b/.test(t)) {
     zones.push("AEST");
   }
+  if (/\b(nzst|nzdt|new zealand (time|standard)|auckland time|utc\s*\+?\s*12|utc\s*\+?\s*13)\b/.test(t)) {
+    zones.push("NZST");
+  }
+  if (/\b(gst|gulf standard|dubai time|utc\s*\+?\s*4|asia\/dubai)\b/.test(t)) zones.push("GST");
   if (/\b(gmt|bst|london time|uk time)\b/.test(t)) zones.push("GMT");
   return zones;
 }
@@ -278,19 +348,43 @@ export function detectLanguage(text = "") {
 const LATAM_RE =
   /\b(latam|latin america|américa latina|america latina|brazil|brasil|argentina|colombia|colômbia|mexico|méxico|chile|peru|uruguay|paraguay|remote[- ]?latam|anywhere in latam|candidates? from brazil|brazilian|aceita (candidato )?do brasil|hire from brazil)\b/i;
 
+// Explicit global eligibility — do NOT treat "fully remote" as worldwide
 const WORLDWIDE_RE =
-  /\b(worldwide|anywhere|work from anywhere|remote[- ]?global|fully remote|100% remote|global remote)\b/i;
+  /\b(worldwide|work from anywhere|anywhere in the world|remote[- ]?global|global remote|remote worldwide|candidates? (from )?anywhere|no location restriction)\b/i;
+
+const EU_COUNTRY_RE =
+  /\b(europe|eu only|emea|germany|berlin|munich|netherlands|amsterdam|portugal|lisbon|lisboa|porto|spain|madrid|barcelona|ireland|dublin|france|paris|belgium|brussels|sweden|stockholm|poland|warsaw|italy|milan|rome|austria|vienna|switzerland|zurich|denmark|copenhagen|finland|helsinki|norway|oslo|remote europe)\b/i;
 
 export function detectGeoFlags(text = "", location = "") {
   const blob = `${text} ${location}`;
+  const portugal = /\b(portugal|lisbon|lisboa|porto|remote portugal)\b/i.test(blob);
+  const germany = /\b(germany|berlin|munich|hamburg|remote germany|deutschland)\b/i.test(blob);
+  const netherlands = /\b(netherlands|amsterdam|rotterdam|remote netherlands|holland)\b/i.test(blob);
+  const ireland = /\b(ireland|dublin|remote ireland)\b/i.test(blob);
+  const spain = /\b(spain|madrid|barcelona|valencia|remote spain|españa|espana)\b/i.test(blob);
+  const france = /\b(france|paris|lyon|remote france)\b/i.test(blob);
+  const canada = /\b(canada|toronto|vancouver|montreal|ottawa|remote canada)\b/i.test(blob);
+  const newZealand = /\b(new zealand|auckland|wellington|christchurch|remote nz)\b/i.test(blob);
+  const uae = /\b(uae|united arab emirates|dubai|abu dhabi|remote uae|middle east)\b/i.test(blob);
+  const europe =
+    EU_COUNTRY_RE.test(blob) || portugal || germany || netherlands || ireland || spain || france;
   return {
     latamFriendly: LATAM_RE.test(blob),
     worldwide: WORLDWIDE_RE.test(blob),
     brazil: /\b(brazil|brasil|são paulo|sao paulo|rio de janeiro|remoto brasil)\b/i.test(blob),
     uk: /\b(united kingdom|uk|london|england|manchester|remote uk)\b/i.test(blob),
     australia: /\b(australia|sydney|melbourne|brisbane|remote au)\b/i.test(blob),
-    europe: /\b(europe|eu only|emea|germany|netherlands|portugal|spain|ireland|remote europe)\b/i.test(blob),
+    europe,
     us: /\b(united states|usa|u\.s\.|new york|san francisco|remote us)\b/i.test(blob),
+    canada,
+    newZealand,
+    uae,
+    portugal,
+    germany,
+    netherlands,
+    ireland,
+    spain,
+    france,
   };
 }
 
@@ -317,6 +411,11 @@ export function makeJob(partial) {
   const geo = detectGeoFlags(blob, location);
   const postedAt = toEpoch(partial.postedAt);
   const salaryInfo = parseSalary(partial.salary || "", blob);
+  const workplace = partial.workplace || detectWorkplace(blob);
+  const remotePolicy = partial.remotePolicy || detectRemotePolicy(blob);
+  const remoteScope =
+    partial.remoteScope ||
+    detectRemoteScope(blob, location, { workplace, remotePolicy, geo });
 
   return {
     id: partial.id || `${partial.source}:${title}:${company}`.toLowerCase().replace(/\s+/g, "-"),
@@ -330,9 +429,10 @@ export function makeJob(partial) {
     salary: salaryInfo.raw || partial.salary || null,
     salaryInfo,
     jobType: partial.jobType || detectJobType(blob),
-    workplace: partial.workplace || detectWorkplace(blob),
+    workplace,
     engagement: partial.engagement || detectEngagement(blob),
-    remotePolicy: partial.remotePolicy || detectRemotePolicy(blob),
+    remotePolicy,
+    remoteScope,
     sponsorship: partial.sponsorship || detectSponsorship(blob),
     timezones: partial.timezones || detectTimezone(blob),
     englishLevel: partial.englishLevel || detectEnglishLevel(blob),

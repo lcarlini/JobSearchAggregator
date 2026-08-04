@@ -97,7 +97,8 @@ describe("advanced filters", () => {
     assert.equal(marketPreset("europe").engagement, "any");
     assert.equal(marketPreset("europe").language, "any");
     assert.equal(marketPreset("australia").geo, "au-br");
-    assert.equal(marketPreset("worldwide").remotePolicy, "any");
+    assert.equal(marketPreset("worldwide").remotePolicy, "anywhere");
+    assert.equal(marketPreset("worldwide").remoteScope, "worldwide");
   });
 
   it("keeps remote US-tagged jobs under soft LATAM geo", () => {

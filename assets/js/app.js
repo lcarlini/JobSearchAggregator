@@ -56,6 +56,7 @@ function readFilters() {
     state: str("state"),
     city: str("city"),
     workplace: str("workplace", "any"),
+    remoteScope: str("remoteScope", "any"),
     remotePolicy: str("remotePolicy", "any"),
     timezone: str("timezone", "any"),
     language: str("language", "any"),
@@ -110,7 +111,9 @@ function syncMultiChip(name) {
 }
 
 function syncAllMultiChips() {
-  for (const name of ["geo", "workplace", "seniority", "jobType"]) syncMultiChip(name);
+  for (const name of ["geo", "workplace", "remoteScope", "seniority", "jobType"]) {
+    syncMultiChip(name);
+  }
 }
 
 function setMultiChips(name, value) {
@@ -156,6 +159,7 @@ function applyFilterObject(d) {
   }
   setMultiChips("geo", d.geo || d.market || "latam");
   setMultiChips("workplace", d.workplace || "remote");
+  setMultiChips("remoteScope", d.remoteScope || "any");
   setMultiChips("seniority", d.seniority || "any");
   setMultiChips("jobType", d.jobType || "any");
 }
@@ -345,9 +349,9 @@ function renderExternalBoards(external = []) {
   const box = $("#external-boards");
   if (!box) return;
   const primary = external.filter((e) =>
-    /linkedin|indeed|apinfo|google|remotar/i.test(`${e.id} ${e.name}`)
+    /linkedin|indeed|google|glassdoor|apinfo|remotar/i.test(`${e.id} ${e.name}`)
   );
-  const list = (primary.length ? primary : external).slice(0, 6);
+  const list = (primary.length ? primary : external).slice(0, 8);
   if (!list.length) {
     box.hidden = true;
     box.innerHTML = "";
@@ -361,7 +365,7 @@ function renderExternalBoards(external = []) {
       ${list
         .map(
           (e) => `
-        <a class="deeplink${/linkedin|apinfo/i.test(`${e.id}${e.name}`) ? " featured" : ""}" href="${escapeAttr(e.url)}" target="_blank" rel="noopener noreferrer">
+        <a class="deeplink${/linkedin|indeed|google|glassdoor|apinfo/i.test(`${e.id}${e.name}`) ? " featured" : ""}" href="${escapeAttr(e.url)}" target="_blank" rel="noopener noreferrer">
           <strong>${escapeHtml(e.name)}</strong>
           <span>${escapeHtml(e.query || e.description || t("externalOpen"))}</span>
         </a>`
@@ -376,6 +380,14 @@ function jobTableRowHtml(job, filters, absoluteIndex) {
   if (job.location) locBits.push(job.location);
   if (job.workplace && job.workplace !== "unknown") locBits.push(job.workplace);
   if (job.geo?.latamFriendly || job.geo?.brazil) locBits.push("LATAM/BR");
+  const scopeBadge =
+    job.remoteScope === "worldwide"
+      ? `<span class="badge scope-world">${t("remoteScopeWorldwide")}</span>`
+      : job.remoteScope === "country"
+        ? `<span class="badge scope-country">${t("remoteScopeCountry")}</span>`
+        : job.remoteScope === "region"
+          ? `<span class="badge scope-region">${t("remoteScopeRegion")}</span>`
+          : "";
   const snippet = highlight(job.description || "", filters);
 
   return `
@@ -386,7 +398,7 @@ function jobTableRowHtml(job, filters, absoluteIndex) {
       ${snippet ? `<div class="job-snippet">${snippet}</div>` : ""}
     </td>
     <td class="col-company">${escapeHtml(job.company || "—")}</td>
-    <td class="col-location">${escapeHtml(locBits.join(" · ") || "—")}</td>
+    <td class="col-location">${escapeHtml(locBits.join(" · ") || "—")}${scopeBadge ? ` ${scopeBadge}` : ""}</td>
     <td class="col-source"><span class="badge source">${escapeHtml(job.source || "—")}</span></td>
     <td class="col-date">${escapeHtml(formatDate(job.postedAt))}</td>
     <td class="col-salary">${escapeHtml(job.salary || "—")}</td>

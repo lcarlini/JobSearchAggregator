@@ -47,6 +47,17 @@ function filterValues(value) {
   return parts;
 }
 
+function softCountryMatch(job, flag, locRe) {
+  const g = job.geo || {};
+  const loc = `${job.location || ""} ${job.description || ""}`.toLowerCase();
+  if (g[flag] || locRe.test(loc)) return true;
+  // Soft: worldwide remote often open to these markets
+  if (job.remoteScope === "worldwide" || g.worldwide || job.remotePolicy === "anywhere") {
+    return job.workplace !== "onsite";
+  }
+  return false;
+}
+
 function matchSingleGeo(job, geo) {
   const g = job.geo || {};
   const loc = `${job.location || ""} ${job.description || ""}`.toLowerCase();
@@ -57,7 +68,7 @@ function matchSingleGeo(job, geo) {
       return true;
     case "latam":
       // Soft geo: keep remote/worldwide boards. Only drop clearly non-LATAM onsite roles.
-      if (g.latamFriendly || g.brazil || g.worldwide) return true;
+      if (g.latamFriendly || g.brazil || g.worldwide || job.remoteScope === "worldwide") return true;
       if (
         job.remotePolicy === "country-restricted" ||
         job.remotePolicy === "emea-only" ||
@@ -67,31 +78,93 @@ function matchSingleGeo(job, geo) {
       }
       if (
         job.workplace === "onsite" &&
-        (g.uk || g.us || g.australia || g.europe) &&
+        (g.uk || g.us || g.australia || g.europe || g.canada || g.uae || g.newZealand) &&
         !/\bbrazil|brasil|latam|latin america\b/.test(loc)
       ) {
         return false;
       }
       return true;
+    case "uk":
     case "uk-br":
-      return (
-        g.uk ||
-        (/\buk\b|united kingdom|london/.test(loc) &&
-          (g.latamFriendly || g.brazil || g.worldwide || /brazil|brasil|latam|anywhere/.test(loc)))
-      );
+      return softCountryMatch(job, "uk", /\buk\b|united kingdom|london|manchester|england/);
     case "au-br":
-      return (
-        g.australia ||
-        (/\baustralia|sydney|melbourne/.test(loc) &&
-          (g.latamFriendly || g.brazil || g.worldwide || /brazil|brasil|latam|anywhere/.test(loc)))
-      );
+    case "australia":
+      return softCountryMatch(job, "australia", /\baustralia|sydney|melbourne|brisbane/);
     case "europe":
-      return g.europe || /\beurope|emea|portugal|germany|netherlands|ireland|spain\b/.test(loc);
+      if (
+        g.europe ||
+        /\beurope|emea|portugal|germany|netherlands|ireland|spain|france|belgium|sweden|poland\b/.test(
+          loc
+        )
+      ) {
+        return true;
+      }
+      return (
+        (job.remoteScope === "worldwide" || g.worldwide || job.remotePolicy === "anywhere") &&
+        job.workplace !== "onsite"
+      );
+    case "portugal":
+    case "pt":
+      return softCountryMatch(job, "portugal", /\bportugal|lisbon|lisboa|porto\b/);
+    case "germany":
+    case "de":
+      return softCountryMatch(job, "germany", /\bgermany|berlin|munich|hamburg|deutschland\b/);
+    case "netherlands":
+    case "nl":
+      return softCountryMatch(job, "netherlands", /\bnetherlands|amsterdam|rotterdam|holland\b/);
+    case "ireland":
+    case "ie":
+      return softCountryMatch(job, "ireland", /\bireland|dublin\b/);
+    case "spain":
+    case "es":
+      return softCountryMatch(job, "spain", /\bspain|madrid|barcelona|españa|espana\b/);
+    case "france":
+    case "fr":
+      return softCountryMatch(job, "france", /\bfrance|paris|lyon\b/);
+    case "canada":
+    case "ca":
+    case "ca-br":
+      return softCountryMatch(job, "canada", /\bcanada|toronto|vancouver|montreal|ottawa\b/);
+    case "nz":
+    case "new-zealand":
+    case "nz-br":
+      return softCountryMatch(job, "newZealand", /\bnew zealand|auckland|wellington|christchurch\b/);
+    case "uae":
+    case "ae":
+    case "dubai":
+      return softCountryMatch(job, "uae", /\buae|united arab emirates|dubai|abu dhabi\b/);
     case "us":
-      return g.us || /\bunited states|usa|u\.s\./.test(loc);
+      return softCountryMatch(job, "us", /\bunited states|usa|u\.s\.|new york|san francisco\b/);
     default:
       return loc.includes(String(geo).toLowerCase());
   }
+}
+
+/** Filter by remote geographic openness (worldwide vs country vs region). */
+function matchRemoteScope(job, scope) {
+  const wanted = filterValues(scope);
+  if (!wanted.length) return true;
+  const rs = job.remoteScope || "unknown";
+  return wanted.some((s) => {
+    if (s === "worldwide") {
+      return (
+        rs === "worldwide" ||
+        job.geo?.worldwide ||
+        job.remotePolicy === "anywhere"
+      );
+    }
+    if (s === "country") {
+      return rs === "country" || job.remotePolicy === "country-restricted";
+    }
+    if (s === "region") {
+      return (
+        rs === "region" ||
+        job.remotePolicy === "latam-only" ||
+        job.remotePolicy === "emea-only"
+      );
+    }
+    return rs === s;
+  });
 }
 
 /** Multi-geo: OR — job matches if it fits any selected market. */
@@ -138,7 +211,12 @@ function matchRemotePolicy(job, policy) {
   const blob = `${job.description} ${job.location}`.toLowerCase();
   switch (policy) {
     case "anywhere":
-      return p === "anywhere" || job.geo?.worldwide || /\bwork from anywhere|worldwide\b/.test(blob);
+      return (
+        p === "anywhere" ||
+        job.remoteScope === "worldwide" ||
+        job.geo?.worldwide ||
+        /\bwork from anywhere|worldwide\b/.test(blob)
+      );
     case "brazil-ok":
       return (
         p === "brazil-ok" ||
@@ -149,7 +227,11 @@ function matchRemotePolicy(job, policy) {
     case "latam-only":
       return p === "latam-only" || (job.geo?.latamFriendly && !job.geo?.worldwide);
     case "country-restricted":
-      return p === "country-restricted" || p === "emea-only";
+      return (
+        p === "country-restricted" ||
+        p === "emea-only" ||
+        job.remoteScope === "country"
+      );
     case "async":
       return p === "async" || /\basync|asynchronous\b/.test(blob);
     case "timezone-bound":
@@ -340,6 +422,7 @@ export function applyFilters(jobs, filtersIn = {}) {
     if (!matchGeo(job, filters.geo)) return false;
     if (!matchJobType(job, filters.jobType)) return false;
     if (!matchWorkplace(job, filters.workplace)) return false;
+    if (!matchRemoteScope(job, filters.remoteScope)) return false;
     if (!matchEngagement(job, filters.engagement)) return false;
     if (!matchRemotePolicy(job, filters.remotePolicy)) return false;
     if (!matchLanguage(job, filters.language)) return false;
@@ -412,7 +495,8 @@ function scoreRelevance(job) {
   let s = 0;
   if (job.postedAt) s += Math.min(50, (job.postedAt / Date.now()) * 50);
   if (job.geo?.latamFriendly || job.geo?.brazil) s += 20;
-  if (job.geo?.worldwide) s += 10;
+  if (job.geo?.worldwide || job.remoteScope === "worldwide") s += 12;
+  if (job.remoteScope === "country") s += 4;
   if (job.salaryInfo?.min) s += 15;
   if (job.workplace === "remote") s += 10;
   if (job.easyApply) s += 5;
@@ -439,6 +523,7 @@ export function defaultFilters() {
     state: "",
     city: "",
     workplace: "remote",
+    remoteScope: "any",
     remotePolicy: "any",
     timezone: "any",
     language: "any",
@@ -480,7 +565,6 @@ export function marketPreset(market) {
       currency: "BRL",
       language: "any",
       engagement: "any",
-      // Soft boost only — hard brazilOk drops most international remotes
       brazilOk: false,
       recency: "any",
     },
@@ -502,9 +586,88 @@ export function marketPreset(market) {
       country: "any",
       workplace: "remote",
       currency: "any",
-      timezone: "any",
+      timezone: "CET",
       language: "any",
       engagement: "any",
+      recency: "any",
+    },
+    portugal: {
+      market: "portugal",
+      geo: "portugal",
+      workplace: "remote",
+      currency: "EUR",
+      timezone: "CET",
+      language: "any",
+      recency: "any",
+    },
+    germany: {
+      market: "germany",
+      geo: "germany",
+      workplace: "remote",
+      currency: "EUR",
+      timezone: "CET",
+      language: "any",
+      recency: "any",
+    },
+    netherlands: {
+      market: "netherlands",
+      geo: "netherlands",
+      workplace: "remote",
+      currency: "EUR",
+      timezone: "CET",
+      language: "en",
+      recency: "any",
+    },
+    ireland: {
+      market: "ireland",
+      geo: "ireland",
+      workplace: "remote",
+      currency: "EUR",
+      language: "en",
+      recency: "any",
+    },
+    spain: {
+      market: "spain",
+      geo: "spain",
+      workplace: "remote",
+      currency: "EUR",
+      language: "any",
+      recency: "any",
+    },
+    uk: {
+      market: "uk",
+      geo: "uk",
+      workplace: "remote",
+      currency: "GBP",
+      timezone: "GMT",
+      language: "en",
+      recency: "any",
+    },
+    canada: {
+      market: "canada",
+      geo: "canada",
+      workplace: "remote",
+      currency: "USD",
+      language: "en",
+      englishLevel: "professional",
+      recency: "any",
+    },
+    "new-zealand": {
+      market: "new-zealand",
+      geo: "nz",
+      workplace: "remote",
+      currency: "any",
+      timezone: "NZST",
+      language: "en",
+      recency: "any",
+    },
+    uae: {
+      market: "uae",
+      geo: "uae",
+      workplace: "remote",
+      currency: "any",
+      timezone: "GST",
+      language: "en",
       recency: "any",
     },
     australia: {
@@ -513,7 +676,7 @@ export function marketPreset(market) {
       country: "any",
       workplace: "remote",
       currency: "any",
-      timezone: "any",
+      timezone: "AEST",
       language: "any",
       englishLevel: "any",
       recency: "any",
@@ -523,7 +686,8 @@ export function marketPreset(market) {
       geo: "worldwide",
       country: "remote",
       workplace: "remote",
-      remotePolicy: "any",
+      remoteScope: "worldwide",
+      remotePolicy: "anywhere",
       currency: "USD",
       brazilOk: false,
       recency: "any",
@@ -533,7 +697,6 @@ export function marketPreset(market) {
       geo: "latam",
       workplace: "remote",
       remotePolicy: "any",
-      // boost via hacks/ranking — do NOT hard-filter or we drop most remote boards
       brazilOk: false,
       currency: "USD",
       recency: "any",

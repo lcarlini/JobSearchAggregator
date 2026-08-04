@@ -14,7 +14,7 @@
       href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600;9..40,700&family=Syne:wght@700;800&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="./assets/css/styles.css?v=progress2" />
+    <link rel="stylesheet" href="./assets/css/styles.css?v=markets3" />
   </head>
   <body>
     <div class="wrap">
@@ -63,8 +63,21 @@
               <button type="button" class="chip-btn" data-multi="geo" data-value="brazil" data-i18n="marketBrazil">Brasil</button>
               <button type="button" class="chip-btn" data-multi="geo" data-value="us" data-i18n="marketUs">EUA</button>
               <button type="button" class="chip-btn" data-multi="geo" data-value="europe" data-i18n="marketEurope">Europa</button>
+              <button type="button" class="chip-btn" data-multi="geo" data-value="uk" data-i18n="marketUk">UK</button>
+              <button type="button" class="chip-btn" data-multi="geo" data-value="canada" data-i18n="marketCanada">Canadá</button>
               <button type="button" class="chip-btn" data-multi="geo" data-value="au-br" data-i18n="marketAustralia">Austrália</button>
+              <button type="button" class="chip-btn" data-multi="geo" data-value="nz" data-i18n="marketNz">Nova Zelândia</button>
+              <button type="button" class="chip-btn" data-multi="geo" data-value="uae" data-i18n="marketUae">Emirados</button>
               <button type="button" class="chip-btn" data-multi="geo" data-value="worldwide" data-i18n="marketWorldwide">Global</button>
+            </div>
+            <div class="market-presets multi-chips market-presets-eu" id="market-presets-eu" role="group" aria-label="Europe countries">
+              <span class="chip-row-label" data-i18n="marketEuropeCountries">Europa · países</span>
+              <button type="button" class="chip-btn chip-sm" data-multi="geo" data-value="portugal" data-i18n="marketPortugal">Portugal</button>
+              <button type="button" class="chip-btn chip-sm" data-multi="geo" data-value="germany" data-i18n="marketGermany">Alemanha</button>
+              <button type="button" class="chip-btn chip-sm" data-multi="geo" data-value="netherlands" data-i18n="marketNetherlands">Holanda</button>
+              <button type="button" class="chip-btn chip-sm" data-multi="geo" data-value="ireland" data-i18n="marketIreland">Irlanda</button>
+              <button type="button" class="chip-btn chip-sm" data-multi="geo" data-value="spain" data-i18n="marketSpain">Espanha</button>
+              <button type="button" class="chip-btn chip-sm" data-multi="geo" data-value="france" data-i18n="marketFrance">França</button>
             </div>
             <input type="hidden" name="geo" id="geo" value="latam" />
             <input type="hidden" name="market" id="market" value="latam" />
@@ -88,6 +101,13 @@
               <button type="button" class="chip-btn" data-multi="workplace" data-value="onsite" data-i18n="workplaceOnsite">Presencial</button>
             </div>
             <input type="hidden" name="workplace" id="workplace" value="remote" />
+
+            <div class="multi-chips" id="remoteScope-chips" role="group" aria-label="Remote scope">
+              <button type="button" class="chip-btn chip-sm" data-multi="remoteScope" data-value="worldwide" data-i18n="remoteScopeWorldwide">Mundial</button>
+              <button type="button" class="chip-btn chip-sm" data-multi="remoteScope" data-value="country" data-i18n="remoteScopeCountry">Só no país</button>
+              <button type="button" class="chip-btn chip-sm" data-multi="remoteScope" data-value="region" data-i18n="remoteScopeRegion">Região</button>
+            </div>
+            <input type="hidden" name="remoteScope" id="remoteScope" value="any" />
 
             <div class="multi-chips" id="seniority-chips" role="group">
               <button type="button" class="chip-btn" data-multi="seniority" data-value="junior" data-i18n="senJunior">Júnior</button>
@@ -176,10 +196,10 @@
                 <label for="remotePolicy" data-i18n="remotePolicy">Política remota</label>
                 <select id="remotePolicy" name="remotePolicy">
                   <option value="any" selected>Any</option>
-                  <option value="anywhere">Anywhere</option>
-                  <option value="brazil-ok">Brazil OK</option>
-                  <option value="latam-only">LATAM only</option>
-                  <option value="country-restricted">Country-restricted</option>
+                  <option value="anywhere" data-i18n="policyAnywhere">Anywhere / mundial</option>
+                  <option value="brazil-ok" data-i18n="policyBrazilOk">Brazil OK</option>
+                  <option value="latam-only" data-i18n="policyLatamOnly">LATAM only</option>
+                  <option value="country-restricted" data-i18n="policyRestricted">Só no país</option>
                   <option value="async">Async</option>
                   <option value="timezone-bound">Timezone</option>
                 </select>
@@ -192,6 +212,10 @@
                   <option value="EST">EST</option>
                   <option value="PST">PST</option>
                   <option value="CET">CET</option>
+                  <option value="GMT">GMT</option>
+                  <option value="AEST">AEST</option>
+                  <option value="NZST">NZST</option>
+                  <option value="GST">GST (Dubai)</option>
                   <option value="GMT">GMT</option>
                   <option value="AEST">AEST</option>
                 </select>
@@ -433,6 +457,6 @@
     </div>
 
     <div class="toast" id="toast" role="status"></div>
-    <script type="module" src="./assets/js/app.js?v=progress2"></script>
+    <script type="module" src="./assets/js/app.js?v=filtersync4"></script>
   </body>
 </html>
