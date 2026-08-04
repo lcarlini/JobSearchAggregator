@@ -144,6 +144,16 @@
       "countKey": "byAts.workable",
       "weight": 18,
       "note": "Codurance, Jalasoft, DevPro…"
+    },
+    {
+      "id": "workday",
+      "name": "Workday Careers",
+      "mode": "auto",
+      "how": "POST /wday/cxs/{tenant}/{site}/jobs — cache",
+      "url": "https://www.workday.com/",
+      "countKey": "byAts.workday",
+      "weight": 55,
+      "note": "CSG, DXC, Planet, Fidelity…"
     }
   ],
   "manual": [
@@ -152,9 +162,9 @@
       "name": "LinkedIn",
       "mode": "manual",
       "why": "Sem API pública de busca de vagas; scrape viola ToS",
-      "url": "https://www.linkedin.com/jobs/",
+      "url": "./manual.html",
       "weight": 100,
-      "note": "Abra o card verde após Buscar — mesmos filtros"
+      "note": "Import manual: script no console → JSON → tabela (manual.html)"
     },
     {
       "id": "indeed",

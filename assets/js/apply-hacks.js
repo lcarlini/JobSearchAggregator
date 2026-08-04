@@ -112,6 +112,10 @@ function buildExternalLinks(filters, recipes = []) {
     const r = recipes.find((x) => x.id === id);
     if (r) push({ id: r.id, name: r.platform, titleKey: r.titleKey, url: r.url, query: r.query });
   }
+  // Company career sites (Workday / ATS) — after Big3, before long-tail boards
+  for (const d of deep.filter((x) => x.group === "careers")) {
+    push({ id: d.id, name: d.name, titleKey: null, url: d.url, query: d.description });
+  }
   return external;
 }
 

@@ -1,4 +1,5 @@
 /** Build external search URLs with the same filters used in the aggregator. */
+import { careerLinksForFilters } from "./company-careers.js";
 
 function enc(s) {
   return encodeURIComponent(s || "");
@@ -580,13 +581,19 @@ export function buildDeepLinks(filters = {}) {
   push(links, "trademe-jobs", "Trade Me Jobs", `https://www.trademe.co.nz/a/jobs/search?search_string=${enc(shortQ)}`, "NZ marketplace", "nz");
   push(links, "gulftalent", "GulfTalent", `https://www.gulftalent.com/jobs?keywords=${enc(shortQ)}`, "Gulf tech", "uae");
 
+  // Official company career sites (Workday / ATS / careers pages)
+  for (const c of careerLinksForFilters(filters)) {
+    push(links, c.id, c.name, c.url, c.description, "careers");
+  }
+
   return links;
 }
 
 export function groupDeepLinks(links) {
-  const order = ["primary", "brazil", "worldwide", "us-br", "eu-br", "au-br", "canada", "nz", "uae"];
+  const order = ["primary", "careers", "brazil", "worldwide", "us-br", "eu-br", "au-br", "canada", "nz", "uae"];
   const labels = {
     primary: "groupPrimary",
+    careers: "groupCareers",
     brazil: "groupBrazil",
     worldwide: "groupWorldwide",
     "us-br": "groupUsBr",

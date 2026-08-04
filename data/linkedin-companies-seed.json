@@ -1,0 +1,3547 @@
+{
+  "generatedAt": "2026-08-04T14:48:15.544Z",
+  "source": "linkedin-following-export-paste",
+  "stats": {
+    "total": 589,
+    "employer": 501,
+    "board": 55,
+    "agency": 22,
+    "skip": 11
+  },
+  "companies": [
+    {
+      "name": "Halian",
+      "slug": "halian",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Caju",
+      "slug": "caju",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Buildbox IT Solutions",
+      "slug": "buildboxitsolutions",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Embraer",
+      "slug": "embraer",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "EXA",
+      "slug": "exa",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "GX2 Tecnologia",
+      "slug": "gx2tecnologia",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Vindi",
+      "slug": "vindi",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Entrust it - Consultoria em TI",
+      "slug": "entrustitconsultoriaemti",
+      "kind": "agency",
+      "reason": "staffing"
+    },
+    {
+      "name": "_nology",
+      "slug": "nology",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Privacy",
+      "slug": "privacy",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "SONDA",
+      "slug": "sonda",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "Avanade",
+      "slug": "avanade",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "Daitan Group Brasil",
+      "slug": "daitangroupbrasil",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "hackajob",
+      "slug": "hackajob",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Softtek",
+      "slug": "softtek",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "Cedro Technologies",
+      "slug": "cedrotechnologies",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Coforge",
+      "slug": "coforge",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "UDS Technology",
+      "slug": "udstechnology",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "trinks.com",
+      "slug": "trinkscom",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Keyrus",
+      "slug": "keyrus",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "Intelex Technologies ULC",
+      "slug": "intelextechnologiesulc",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Mirante Tecnologia",
+      "slug": "mirantetecnologia",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Info Services",
+      "slug": "infoservices",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Omnesoft",
+      "slug": "omnesoft",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "CBTW",
+      "slug": "cbtw",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Niuro",
+      "slug": "niuro",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Jobgether",
+      "slug": "jobgether",
+      "kind": "board",
+      "reason": "job-board"
+    },
+    {
+      "name": "Sherborne Talent Solutions",
+      "slug": "sherbornetalentsolutions",
+      "kind": "agency",
+      "reason": "staffing"
+    },
+    {
+      "name": "NOUS LATAM",
+      "slug": "nouslatam",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "RELQ TECHNOLOGIES",
+      "slug": "relqtechnologies",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Squadra Digital",
+      "slug": "squadradigital",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Luma Health",
+      "slug": "lumahealth",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Hire Feed",
+      "slug": "hirefeed",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Soluevo",
+      "slug": "soluevo",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Amil",
+      "slug": "amil",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "Extractta",
+      "slug": "extractta",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "EY",
+      "slug": "ey",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "Infios",
+      "slug": "infios",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Discover Soft",
+      "slug": "discoversoft",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "AB InBev",
+      "slug": "abinbev",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Blite Tecnologia",
+      "slug": "blitetecnologia",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Carta",
+      "slug": "carta",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Zallpy Digital",
+      "slug": "zallpydigital",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "YO IT Consulting",
+      "slug": "yoitconsulting",
+      "kind": "agency",
+      "reason": "staffing"
+    },
+    {
+      "name": "Cera",
+      "slug": "cera",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Insi",
+      "slug": "insi",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Meta",
+      "slug": "meta",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "3S Checkout",
+      "slug": "3scheckout",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Avance Consulting",
+      "slug": "avanceconsulting",
+      "kind": "agency",
+      "reason": "staffing"
+    },
+    {
+      "name": "TechJobs360 - Global Remote & International Tech Jobs",
+      "slug": "techjobs360globalremoteandinternationaltechjobs",
+      "kind": "board",
+      "reason": "job-board"
+    },
+    {
+      "name": "Tiger Resourcing Group",
+      "slug": "tigerresourcinggroup",
+      "kind": "agency",
+      "reason": "staffing"
+    },
+    {
+      "name": "Proxify",
+      "slug": "proxify",
+      "kind": "board",
+      "reason": "job-board"
+    },
+    {
+      "name": "RemoteDevsBR",
+      "slug": "remotedevsbr",
+      "kind": "board",
+      "reason": "job-board"
+    },
+    {
+      "name": "Falkor (formerly Kongsberg Digital)",
+      "slug": "falkorformerlykongsbergdigital",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "CodeTact Recruit",
+      "slug": "codetactrecruit",
+      "kind": "agency",
+      "reason": "staffing"
+    },
+    {
+      "name": "TRACTIAN",
+      "slug": "tractian",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "IFIT Solutions",
+      "slug": "ifitsolutions",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Marlabs",
+      "slug": "marlabs",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "CodeRoad Inc",
+      "slug": "coderoadinc",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "RemoteYeah",
+      "slug": "remoteyeah",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "ADSTRA",
+      "slug": "adstra",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "3i-Vision",
+      "slug": "3ivision",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Management Solutions",
+      "slug": "managementsolutions",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Caylent",
+      "slug": "caylent",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Ruby Labs",
+      "slug": "rubylabs",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Grafana Labs",
+      "slug": "grafanalabs",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "Circle",
+      "slug": "circle",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "Premier Group",
+      "slug": "premiergroup",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Tech Mahindra",
+      "slug": "techmahindra",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Tuppl",
+      "slug": "tuppl",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Ethos",
+      "slug": "ethos",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Benner",
+      "slug": "benner",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Transcenda",
+      "slug": "transcenda",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Luxoft Mexico",
+      "slug": "luxoftmexico",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "ClassPass",
+      "slug": "classpass",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Nortal",
+      "slug": "nortal",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Hyland",
+      "slug": "hyland",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "DaCodes.",
+      "slug": "dacodes",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Dev.Pro",
+      "slug": "devpro",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Index.dev",
+      "slug": "indexdev",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Resilient Co.",
+      "slug": "resilientco",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "nstech",
+      "slug": "nstech",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Qoria",
+      "slug": "qoria",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "INDI Staffing Services",
+      "slug": "indistaffingservices",
+      "kind": "agency",
+      "reason": "staffing"
+    },
+    {
+      "name": "TotalPass Brasil",
+      "slug": "totalpassbrasil",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Ejam Inc",
+      "slug": "ejaminc",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Ibope",
+      "slug": "ibope",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Manage Resources",
+      "slug": "manageresources",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Best Buy Canada",
+      "slug": "bestbuycanada",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Emerging Travel Group",
+      "slug": "emergingtravelgroup",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Thermo Fisher Scientific",
+      "slug": "thermofisherscientific",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Sanmina",
+      "slug": "sanmina",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Senior Sistemas",
+      "slug": "seniorsistemas",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Crossing Hurdles",
+      "slug": "crossinghurdles",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Going2 Tech",
+      "slug": "going2tech",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Footbao",
+      "slug": "footbao",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Fanatics",
+      "slug": "fanatics",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Arkestro",
+      "slug": "arkestro",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "SCIGON",
+      "slug": "scigon",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Talent Four Consulting",
+      "slug": "talentfourconsulting",
+      "kind": "agency",
+      "reason": "staffing"
+    },
+    {
+      "name": "GCS",
+      "slug": "gcs",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "SigNoz",
+      "slug": "signoz",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Aditi Consulting",
+      "slug": "aditiconsulting",
+      "kind": "agency",
+      "reason": "staffing"
+    },
+    {
+      "name": "SEEKR",
+      "slug": "seekr",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Making Sense LLC",
+      "slug": "makingsensellc",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Almaviva Solutions",
+      "slug": "almavivasolutions",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Nextpower",
+      "slug": "nextpower",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Wipro",
+      "slug": "wipro",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "Edvenswa Tech Inc",
+      "slug": "edvenswatechinc",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Avalon Software Services",
+      "slug": "avalonsoftwareservices",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Quadrant Technologies",
+      "slug": "quadranttechnologies",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "PayPal",
+      "slug": "paypal",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "John Deere",
+      "slug": "johndeere",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "PX.com",
+      "slug": "pxcom",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "saphira.tech",
+      "slug": "saphiratech",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Advancis Software & Services",
+      "slug": "advancissoftwareandservices",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Mi-Case",
+      "slug": "micase",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Rithum",
+      "slug": "rithum",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "We Are META",
+      "slug": "wearemeta",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "Wellhub",
+      "slug": "wellhub",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Tarmac.IO",
+      "slug": "tarmacio",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Alpha Technologies Inc.",
+      "slug": "alphatechnologiesinc",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Xogito Group, Inc",
+      "slug": "xogitogroupinc",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Swisslinx",
+      "slug": "swisslinx",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Approach People Recruitment",
+      "slug": "approachpeoplerecruitment",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Ubiminds: You, International.",
+      "slug": "ubimindsyouinternational",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "The Walt Disney Company",
+      "slug": "thewaltdisneycompany",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "Vsoft Tecnologia",
+      "slug": "vsofttecnologia",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "VSoft Corporation",
+      "slug": "vsoftcorporation",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "EBANX",
+      "slug": "ebanx",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "Locaweb",
+      "slug": "locaweb",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "Birlasoft",
+      "slug": "birlasoft",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "TechBridge",
+      "slug": "techbridge",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "The Carlyle Group",
+      "slug": "thecarlylegroup",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Target Software - Technology Solutions",
+      "slug": "targetsoftwaretechnologysolutions",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Uber",
+      "slug": "uber",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "Swovo",
+      "slug": "swovo",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Flex",
+      "slug": "flex",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Digital Waffle",
+      "slug": "digitalwaffle",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Morson Edge (Technology)",
+      "slug": "morsonedgetechnology",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Allata",
+      "slug": "allata",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Philips",
+      "slug": "philips",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "Circulor",
+      "slug": "circulor",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Hiring Brazil",
+      "slug": "hiringbrazil",
+      "kind": "board",
+      "reason": "job-board"
+    },
+    {
+      "name": "E-Solutions",
+      "slug": "esolutions",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "GlobalLogic",
+      "slug": "globallogic",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "First Derivative",
+      "slug": "firstderivative",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "CESAR",
+      "slug": "cesar",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Capmation Inc.",
+      "slug": "capmationinc",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Qualitara",
+      "slug": "qualitara",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "wynwood tech",
+      "slug": "wynwoodtech",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Skillable",
+      "slug": "skillable",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "DevSignal",
+      "slug": "devsignal",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Talently",
+      "slug": "talently",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "TELUS Digital",
+      "slug": "telusdigital",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Abstra",
+      "slug": "abstra",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Perform",
+      "slug": "perform",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Appstract",
+      "slug": "appstract",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "GFT Brasil",
+      "slug": "gftbrasil",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Zup Innovation",
+      "slug": "zupinnovation",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Certisign",
+      "slug": "certisign",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "HealthEquity",
+      "slug": "healthequity",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "jobnagringa",
+      "slug": "jobnagringa",
+      "kind": "board",
+      "reason": "job-board"
+    },
+    {
+      "name": "Freestar",
+      "slug": "freestar",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Red Ventures",
+      "slug": "redventures",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "IntellectEU",
+      "slug": "intellecteu",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Snap Inc.",
+      "slug": "snapinc",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "DB1 Global Software",
+      "slug": "db1globalsoftware",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "CustomerX",
+      "slug": "customerx",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Mouts IT",
+      "slug": "moutsit",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Riwi.io",
+      "slug": "riwiio",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "B3",
+      "slug": "b3",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Taggy",
+      "slug": "taggy",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "BeGlobal",
+      "slug": "beglobal",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Artifact AI",
+      "slug": "artifactai",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "JetBridge AI",
+      "slug": "jetbridgeai",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Tecnologia Única",
+      "slug": "tecnologiaunica",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Softplan",
+      "slug": "softplan",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Kake",
+      "slug": "kake",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Pismo",
+      "slug": "pismo",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "SGI",
+      "slug": "sgi",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "StartSe",
+      "slug": "startse",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "MAS Global Consulting",
+      "slug": "masglobalconsulting",
+      "kind": "agency",
+      "reason": "staffing"
+    },
+    {
+      "name": "WillDom",
+      "slug": "willdom",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Games Global",
+      "slug": "gamesglobal",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Beacon Hill",
+      "slug": "beaconhill",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "RedCloud",
+      "slug": "redcloud",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "GenTwo",
+      "slug": "gentwo",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Parker Hannifin",
+      "slug": "parkerhannifin",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Reckitt",
+      "slug": "reckitt",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Paramount Commerce",
+      "slug": "paramountcommerce",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "will bank",
+      "slug": "willbank",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "R1 RCM",
+      "slug": "r1rcm",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Hyqoo",
+      "slug": "hyqoo",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Bayer",
+      "slug": "bayer",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "Taller",
+      "slug": "taller",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "SoftwareHut",
+      "slug": "softwarehut",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Stefanini Group",
+      "slug": "stefaninigroup",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "Avalara Brasil",
+      "slug": "avalarabrasil",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "Darwin Seguros",
+      "slug": "darwinseguros",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Lateral Group",
+      "slug": "lateralgroup",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Kaizen Gaming",
+      "slug": "kaizengaming",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Tachyonix",
+      "slug": "tachyonix",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "DOMVS iT",
+      "slug": "domvsit",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Talution Group",
+      "slug": "talutiongroup",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "iFood",
+      "slug": "ifood",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "SoftServe",
+      "slug": "softserve",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "ACRELEC",
+      "slug": "acrelec",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Pitaco",
+      "slug": "pitaco",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Deloitte",
+      "slug": "deloitte",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "DraftKings Inc.",
+      "slug": "draftkingsinc",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Munich Re Automation Solutions",
+      "slug": "munichreautomationsolutions",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Sierra Studio",
+      "slug": "sierrastudio",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Belvo",
+      "slug": "belvo",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "Jalasoft",
+      "slug": "jalasoft",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "AgilityFeat",
+      "slug": "agilityfeat",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Harvey Nash",
+      "slug": "harveynash",
+      "kind": "agency",
+      "reason": "staffing"
+    },
+    {
+      "name": "Just Digital People",
+      "slug": "justdigitalpeople",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Bring IT",
+      "slug": "bringit",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Waverley Software",
+      "slug": "waverleysoftware",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Recluta Talenthunter / Latin America",
+      "slug": "reclutatalenthunterlatinamerica",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Accenture España",
+      "slug": "accentureespana",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "Infotree Global Solutions",
+      "slug": "infotreeglobalsolutions",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Alto (Acq. by Revelo)",
+      "slug": "altoacqbyrevelo",
+      "kind": "board",
+      "reason": "job-board"
+    },
+    {
+      "name": "Wizeline",
+      "slug": "wizeline",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "intive",
+      "slug": "intive",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Thaloz",
+      "slug": "thaloz",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "deRecruiters",
+      "slug": "derecruiters",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Switch Software",
+      "slug": "switchsoftware",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "QAT Global",
+      "slug": "qatglobal",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Stateside",
+      "slug": "stateside",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Advision Development",
+      "slug": "advisiondevelopment",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Oceans Code Experts",
+      "slug": "oceanscodeexperts",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Rockcruit",
+      "slug": "rockcruit",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "BigCheese",
+      "slug": "bigcheese",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Novacomp",
+      "slug": "novacomp",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Avenga",
+      "slug": "avenga",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "1000heads",
+      "slug": "1000heads",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Jaumo - Community-Based Dating App",
+      "slug": "jaumocommunitybaseddatingapp",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Mindera",
+      "slug": "mindera",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Lilo Social",
+      "slug": "lilosocial",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Colored Byte",
+      "slug": "coloredbyte",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Kajae",
+      "slug": "kajae",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Pazu Games",
+      "slug": "pazugames",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Magic Media",
+      "slug": "magicmedia",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Cognitivo AI",
+      "slug": "cognitivoai",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "TIVIT LATAM",
+      "slug": "tivitlatam",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Voxy",
+      "slug": "voxy",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Oppizi",
+      "slug": "oppizi",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "BruntWork",
+      "slug": "bruntwork",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Codekeeper",
+      "slug": "codekeeper",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Hired Remoteli",
+      "slug": "hiredremoteli",
+      "kind": "board",
+      "reason": "job-board"
+    },
+    {
+      "name": "micro1",
+      "slug": "micro1",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Remobi",
+      "slug": "remobi",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "NetForemost",
+      "slug": "netforemost",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "unosquare",
+      "slug": "unosquare",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "TATEEDA | GLOBAL",
+      "slug": "tateedaglobal",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Treinta",
+      "slug": "treinta",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "PALO IT",
+      "slug": "paloit",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Venon Solutions",
+      "slug": "venonsolutions",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Paystand",
+      "slug": "paystand",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Wizdaa",
+      "slug": "wizdaa",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Toyota North America",
+      "slug": "toyotanorthamerica",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Enroute",
+      "slug": "enroute",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "Darwoft",
+      "slug": "darwoft",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Outsource Argentina",
+      "slug": "outsourceargentina",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Acid Labs",
+      "slug": "acidlabs",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Golabs Tech",
+      "slug": "golabstech",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Cognizant",
+      "slug": "cognizant",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "ParallelStaff",
+      "slug": "parallelstaff",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "K2 Partnering Solutions",
+      "slug": "k2partneringsolutions",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "DataArt",
+      "slug": "dataart",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Infinite Computer Solutions",
+      "slug": "infinitecomputersolutions",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Luflox",
+      "slug": "luflox",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "JoVE",
+      "slug": "jove",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "GlobalTask",
+      "slug": "globaltask",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "TeamUp",
+      "slug": "teamup",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Apex Systems",
+      "slug": "apexsystems",
+      "kind": "agency",
+      "reason": "staffing"
+    },
+    {
+      "name": "OTSI - Object Technology Solutions Inc.",
+      "slug": "otsiobjecttechnologysolutionsinc",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Encora Inc.",
+      "slug": "encorainc",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Trabajo en Remoto",
+      "slug": "trabajoenremoto",
+      "kind": "board",
+      "reason": "job-board"
+    },
+    {
+      "name": "Remote Talent LATAM",
+      "slug": "remotetalentlatam",
+      "kind": "board",
+      "reason": "job-board"
+    },
+    {
+      "name": "WeRemoto",
+      "slug": "weremoto",
+      "kind": "board",
+      "reason": "job-board"
+    },
+    {
+      "name": "In All Media",
+      "slug": "inallmedia",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Boston Scientific en Costa Rica",
+      "slug": "bostonscientificencostarica",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Loymark",
+      "slug": "loymark",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Puzzle",
+      "slug": "puzzle",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Flylance",
+      "slug": "flylance",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Appcues",
+      "slug": "appcues",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Netcracker Technology",
+      "slug": "netcrackertechnology",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Unico ID",
+      "slug": "unicoid",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Oowlish",
+      "slug": "oowlish",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "levva",
+      "slug": "levva",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Nova Ltd.",
+      "slug": "novaltd",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "WA FENIX",
+      "slug": "wafenix",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Kantar IBOPE Media",
+      "slug": "kantaribopemedia",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Yelum Seguradora, antiga Liberty Seguros",
+      "slug": "yelumseguradoraantigalibertyseguros",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Banco Bradesco",
+      "slug": "bancobradesco",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "ROLLER",
+      "slug": "roller",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Fujitsu",
+      "slug": "fujitsu",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Princeton IT Services, Inc",
+      "slug": "princetonitservicesinc",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "200DEV",
+      "slug": "200dev",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Immigrant Québec",
+      "slug": "immigrantquebec",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "act digital EMEA - Alter Solutions",
+      "slug": "actdigitalemeaaltersolutions",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Brazink",
+      "slug": "brazink",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "BSI Tecnologia",
+      "slug": "bsitecnologia",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Tatango",
+      "slug": "tatango",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Jampp",
+      "slug": "jampp",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "SMART Technologies",
+      "slug": "smarttechnologies",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Avanti Software Inc.",
+      "slug": "avantisoftwareinc",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "S&P Global",
+      "slug": "sandpglobal",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Teem",
+      "slug": "teem",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Compunnel Inc.",
+      "slug": "compunnelinc",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Sensiple",
+      "slug": "sensiple",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Pierpoint International",
+      "slug": "pierpointinternational",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "The Phoenix Group",
+      "slug": "thephoenixgroup",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Eneco",
+      "slug": "eneco",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "SIS Innov & Tech",
+      "slug": "sisinnovandtech",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "iSystems",
+      "slug": "isystems",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "ZenQMS",
+      "slug": "zenqms",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Neon",
+      "slug": "neon",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "DevSquad",
+      "slug": "devsquad",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "DEPT®",
+      "slug": "dept",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Tenth Revolution Group",
+      "slug": "tenthrevolutiongroup",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "GreenFlux",
+      "slug": "greenflux",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Itaú USA",
+      "slug": "itauusa",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Luxoft",
+      "slug": "luxoft",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "Way2 Technology",
+      "slug": "way2technology",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Vivid Resourcing",
+      "slug": "vividresourcing",
+      "kind": "agency",
+      "reason": "staffing"
+    },
+    {
+      "name": "UST",
+      "slug": "ust",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Quero Home - Vagas Home Office",
+      "slug": "querohomevagashomeoffice",
+      "kind": "board",
+      "reason": "job-board"
+    },
+    {
+      "name": "Nerdin Vagas de TI",
+      "slug": "nerdinvagasdeti",
+      "kind": "board",
+      "reason": "job-board"
+    },
+    {
+      "name": "Vaga Remota",
+      "slug": "vagaremota",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Home Office - Vagas Remotas",
+      "slug": "homeofficevagasremotas",
+      "kind": "board",
+      "reason": "job-board"
+    },
+    {
+      "name": "Vagas Remotas",
+      "slug": "vagasremotas",
+      "kind": "board",
+      "reason": "job-board"
+    },
+    {
+      "name": "LATAM Jobs",
+      "slug": "latamjobs",
+      "kind": "board",
+      "reason": "job-board"
+    },
+    {
+      "name": "Techwarely",
+      "slug": "techwarely",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Pentasia",
+      "slug": "pentasia",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Avenue",
+      "slug": "avenue",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Improving South America",
+      "slug": "improvingsouthamerica",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "IT Lab Brasil",
+      "slug": "itlabbrasil",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Growth Acceleration Partners",
+      "slug": "growthaccelerationpartners",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "NLB Services",
+      "slug": "nlbservices",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Dexian",
+      "slug": "dexian",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Robert Half",
+      "slug": "roberthalf",
+      "kind": "agency",
+      "reason": "staffing"
+    },
+    {
+      "name": "CrowdStrike",
+      "slug": "crowdstrike",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Teamit Inc.",
+      "slug": "teamitinc",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Modus Create",
+      "slug": "moduscreate",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Find Job Latam",
+      "slug": "findjoblatam",
+      "kind": "board",
+      "reason": "job-board"
+    },
+    {
+      "name": "Vacantes Remotas: Trabajo remoto",
+      "slug": "vacantesremotastrabajoremoto",
+      "kind": "board",
+      "reason": "job-board"
+    },
+    {
+      "name": "Vagas PJ",
+      "slug": "vagaspj",
+      "kind": "board",
+      "reason": "job-board"
+    },
+    {
+      "name": "HireLATAM",
+      "slug": "hirelatam",
+      "kind": "board",
+      "reason": "job-board"
+    },
+    {
+      "name": "Revelo",
+      "slug": "revelo",
+      "kind": "board",
+      "reason": "job-board"
+    },
+    {
+      "name": "team.blue",
+      "slug": "teamblue",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Nymbl",
+      "slug": "nymbl",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Programadores Brasil",
+      "slug": "programadoresbrasil",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "ZENVIA",
+      "slug": "zenvia",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "Kyndryl",
+      "slug": "kyndryl",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "Integer Consulting",
+      "slug": "integerconsulting",
+      "kind": "agency",
+      "reason": "staffing"
+    },
+    {
+      "name": "Juniper Networks",
+      "slug": "junipernetworks",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Avalara",
+      "slug": "avalara",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "Sovos",
+      "slug": "sovos",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "Fiserv",
+      "slug": "fiserv",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "Ontop",
+      "slug": "ontop",
+      "kind": "board",
+      "reason": "job-board"
+    },
+    {
+      "name": "Strider Technologies",
+      "slug": "stridertechnologies",
+      "kind": "board",
+      "reason": "job-board"
+    },
+    {
+      "name": "Higlobe",
+      "slug": "higlobe",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "TechFX",
+      "slug": "techfx",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Mercado Livre Brasil",
+      "slug": "mercadolivrebrasil",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "Grace Technologies",
+      "slug": "gracetechnologies",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Lumenalta",
+      "slug": "lumenalta",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "CareMessage",
+      "slug": "caremessage",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "adidas",
+      "slug": "adidas",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "Q2",
+      "slug": "q2",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Workleap",
+      "slug": "workleap",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Rescale",
+      "slug": "rescale",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Shopware",
+      "slug": "shopware",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "MVST",
+      "slug": "mvst",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Version 1",
+      "slug": "version1",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Packt",
+      "slug": "packt",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "DBC Company",
+      "slug": "dbccompany",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Hotmart",
+      "slug": "hotmart",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "Azion",
+      "slug": "azion",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Siemens",
+      "slug": "siemens",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "Techunting",
+      "slug": "techunting",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "White Prompt",
+      "slug": "whiteprompt",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Talkdesk",
+      "slug": "talkdesk",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "Rocket Lawyer Brasil",
+      "slug": "rocketlawyerbrasil",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "ChannelEngine",
+      "slug": "channelengine",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Sticker Mule",
+      "slug": "stickermule",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "SimplyHired",
+      "slug": "simplyhired",
+      "kind": "board",
+      "reason": "job-board"
+    },
+    {
+      "name": "Lemon.io",
+      "slug": "lemonio",
+      "kind": "board",
+      "reason": "job-board"
+    },
+    {
+      "name": "G2i Inc.",
+      "slug": "g2iinc",
+      "kind": "board",
+      "reason": "job-board"
+    },
+    {
+      "name": "Bocada",
+      "slug": "bocada",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Rocketseat",
+      "slug": "rocketseat",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Lingoda GmbH",
+      "slug": "lingodagmbh",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "TomTom",
+      "slug": "tomtom",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Trustly",
+      "slug": "trustly",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "Sophos Solutions",
+      "slug": "sophossolutions",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Realtime Robotics, Inc.",
+      "slug": "realtimeroboticsinc",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Pasquali Solution",
+      "slug": "pasqualisolution",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Mottu",
+      "slug": "mottu",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "ConveyorNow",
+      "slug": "conveyornow",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "BookedBy",
+      "slug": "bookedby",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "LettrLabs",
+      "slug": "lettrlabs",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "3Pillar",
+      "slug": "3pillar",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Husky",
+      "slug": "husky",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "SOCi.ai",
+      "slug": "sociai",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Relocate.me",
+      "slug": "relocateme",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "ISS A/S",
+      "slug": "issas",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "CrackedDevs",
+      "slug": "crackeddevs",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "FactoryFix",
+      "slug": "factoryfix",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Wiser Solutions, Inc.",
+      "slug": "wisersolutionsinc",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "OneShot.ai",
+      "slug": "oneshotai",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Nomad",
+      "slug": "nomad",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "KnowBe4",
+      "slug": "knowbe4",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "CloudTalk",
+      "slug": "cloudtalk",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "YER",
+      "slug": "yer",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Randstad Digital | Torc",
+      "slug": "randstaddigitaltorc",
+      "kind": "agency",
+      "reason": "staffing"
+    },
+    {
+      "name": "Innova Solutions",
+      "slug": "innovasolutions",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Dice",
+      "slug": "dice",
+      "kind": "board",
+      "reason": "job-board"
+    },
+    {
+      "name": "Remotely.works",
+      "slug": "remotelyworks",
+      "kind": "board",
+      "reason": "job-board"
+    },
+    {
+      "name": "Infisical",
+      "slug": "infisical",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Klue",
+      "slug": "klue",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Ensono",
+      "slug": "ensono",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Miratech",
+      "slug": "miratech",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Notably",
+      "slug": "notably",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Reply",
+      "slug": "reply",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Dock",
+      "slug": "dock",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "Luby",
+      "slug": "luby",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Scalac",
+      "slug": "scalac",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Mindbody",
+      "slug": "mindbody",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "symphony.is",
+      "slug": "symphonyis",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "GoodTime",
+      "slug": "goodtime",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Incognia",
+      "slug": "incognia",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Tecton",
+      "slug": "tecton",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "MetaMap",
+      "slug": "metamap",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Thoughtful AI",
+      "slug": "thoughtfulai",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Tesorio",
+      "slug": "tesorio",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "YellowIpe",
+      "slug": "yellowipe",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "PrimeIT",
+      "slug": "primeit",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Liferay",
+      "slug": "liferay",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Apollo.io",
+      "slug": "apolloio",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Infosys",
+      "slug": "infosys",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "Workday",
+      "slug": "workday",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "TagoIO",
+      "slug": "tagoio",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Toptal",
+      "slug": "toptal",
+      "kind": "board",
+      "reason": "job-board"
+    },
+    {
+      "name": "OpenAI",
+      "slug": "openai",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "Teladoc Health",
+      "slug": "teladochealth",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Pulley",
+      "slug": "pulley",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "FullStack",
+      "slug": "fullstack",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Exadel",
+      "slug": "exadel",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Aptiv",
+      "slug": "aptiv",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Rivian",
+      "slug": "rivian",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Metabase",
+      "slug": "metabase",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Inclusion Cloud",
+      "slug": "inclusioncloud",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Lean Tech, a Lean Solutions Group Division",
+      "slug": "leantechaleansolutionsgroupdivision",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Praxis",
+      "slug": "praxis",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Quorum",
+      "slug": "quorum",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Revelo LATAM",
+      "slug": "revelolatam",
+      "kind": "board",
+      "reason": "job-board"
+    },
+    {
+      "name": "Revelo Brasil",
+      "slug": "revelobrasil",
+      "kind": "board",
+      "reason": "job-board"
+    },
+    {
+      "name": "thinkbridge",
+      "slug": "thinkbridge",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Interfell",
+      "slug": "interfell",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "AlphaSense",
+      "slug": "alphasense",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Gopuff",
+      "slug": "gopuff",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "NTConsult",
+      "slug": "ntconsult",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "ING",
+      "slug": "ing",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "ABN AMRO Bank N.V.",
+      "slug": "abnamrobanknv",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Rabobank",
+      "slug": "rabobank",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Accion Labs",
+      "slug": "accionlabs",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "SoFi",
+      "slug": "sofi",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Motion Recruitment",
+      "slug": "motionrecruitment",
+      "kind": "agency",
+      "reason": "staffing"
+    },
+    {
+      "name": "Firstbase",
+      "slug": "firstbase",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Amdaris",
+      "slug": "amdaris",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Landing.Jobs",
+      "slug": "landingjobs",
+      "kind": "board",
+      "reason": "job-board"
+    },
+    {
+      "name": "Impulso",
+      "slug": "impulso",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Akkodis",
+      "slug": "akkodis",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Compass UOL",
+      "slug": "compassuol",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "SITA",
+      "slug": "sita",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Personio",
+      "slug": "personio",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "Strider",
+      "slug": "strider",
+      "kind": "board",
+      "reason": "job-board"
+    },
+    {
+      "name": "Actian",
+      "slug": "actian",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Bees Brasil",
+      "slug": "beesbrasil",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Indeed",
+      "slug": "indeed",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "FindAsync - Async Remote Jobs",
+      "slug": "findasyncasyncremotejobs",
+      "kind": "board",
+      "reason": "job-board"
+    },
+    {
+      "name": "Remote Workmate",
+      "slug": "remoteworkmate",
+      "kind": "board",
+      "reason": "job-board"
+    },
+    {
+      "name": "Experis",
+      "slug": "experis",
+      "kind": "agency",
+      "reason": "staffing"
+    },
+    {
+      "name": "Rocket Lawyer",
+      "slug": "rocketlawyer",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "99x Portugal",
+      "slug": "99xportugal",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Adyen",
+      "slug": "adyen",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Nethermind",
+      "slug": "nethermind",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Evolve Squads",
+      "slug": "evolvesquads",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Wellfound",
+      "slug": "wellfound",
+      "kind": "board",
+      "reason": "job-board"
+    },
+    {
+      "name": "Yardi",
+      "slug": "yardi",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "DuckDuckGo",
+      "slug": "duckduckgo",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Doist",
+      "slug": "doist",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Toggl",
+      "slug": "toggl",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Canny",
+      "slug": "canny",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Omnipresent",
+      "slug": "omnipresent",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Stone",
+      "slug": "stone",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "Qlik",
+      "slug": "qlik",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "PostHog",
+      "slug": "posthog",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "We Work Remotely",
+      "slug": "weworkremotely",
+      "kind": "board",
+      "reason": "job-board"
+    },
+    {
+      "name": "Remotive",
+      "slug": "remotive",
+      "kind": "board",
+      "reason": "job-board"
+    },
+    {
+      "name": "Working Nomads",
+      "slug": "workingnomads",
+      "kind": "board",
+      "reason": "job-board"
+    },
+    {
+      "name": "Crossover",
+      "slug": "crossover",
+      "kind": "board",
+      "reason": "job-board"
+    },
+    {
+      "name": "Dynamite Jobs",
+      "slug": "dynamitejobs",
+      "kind": "board",
+      "reason": "job-board"
+    },
+    {
+      "name": "DailyRemote",
+      "slug": "dailyremote",
+      "kind": "board",
+      "reason": "job-board"
+    },
+    {
+      "name": "Torre.ai",
+      "slug": "torreai",
+      "kind": "board",
+      "reason": "job-board"
+    },
+    {
+      "name": "PowerToFly",
+      "slug": "powertofly",
+      "kind": "board",
+      "reason": "job-board"
+    },
+    {
+      "name": "GitHub",
+      "slug": "github",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "Stack Overflow",
+      "slug": "stackoverflow",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "OSF Digital",
+      "slug": "osfdigital",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Baker Hughes",
+      "slug": "bakerhughes",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Kforce Inc",
+      "slug": "kforceinc",
+      "kind": "agency",
+      "reason": "staffing"
+    },
+    {
+      "name": "Forte Group",
+      "slug": "fortegroup",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Voiceflow",
+      "slug": "voiceflow",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Brunel",
+      "slug": "brunel",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Adecco",
+      "slug": "adecco",
+      "kind": "agency",
+      "reason": "staffing"
+    },
+    {
+      "name": "Engtal",
+      "slug": "engtal",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Braintrust",
+      "slug": "braintrust",
+      "kind": "board",
+      "reason": "job-board"
+    },
+    {
+      "name": "Xebia",
+      "slug": "xebia",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "X-Team",
+      "slug": "xteam",
+      "kind": "board",
+      "reason": "job-board"
+    },
+    {
+      "name": "AgileEngine",
+      "slug": "agileengine",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Just Eat Takeaway.com",
+      "slug": "justeattakeawaycom",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "FARFETCH",
+      "slug": "farfetch",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "Monster",
+      "slug": "monster",
+      "kind": "board",
+      "reason": "job-board"
+    },
+    {
+      "name": "PeoplePerHour",
+      "slug": "peopleperhour",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Fiverr",
+      "slug": "fiverr",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "FlexJobs",
+      "slug": "flexjobs",
+      "kind": "board",
+      "reason": "job-board"
+    },
+    {
+      "name": "AngelList",
+      "slug": "angellist",
+      "kind": "board",
+      "reason": "job-board"
+    },
+    {
+      "name": "Trampar na Gringa",
+      "slug": "tramparnagringa",
+      "kind": "board",
+      "reason": "job-board"
+    },
+    {
+      "name": "Booking.com",
+      "slug": "bookingcom",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "TecnoSpeed TI",
+      "slug": "tecnospeedti",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Morgan Stanley",
+      "slug": "morganstanley",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "HTEC",
+      "slug": "htec",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "King",
+      "slug": "king",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "NiCE",
+      "slug": "nice",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "CSG",
+      "slug": "csg",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "LeasePlan",
+      "slug": "leaseplan",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Robert Walters",
+      "slug": "robertwalters",
+      "kind": "agency",
+      "reason": "staffing"
+    },
+    {
+      "name": "Nigel Frank International",
+      "slug": "nigelfrankinternational",
+      "kind": "agency",
+      "reason": "staffing"
+    },
+    {
+      "name": "GeekHunter",
+      "slug": "geekhunter",
+      "kind": "board",
+      "reason": "job-board"
+    },
+    {
+      "name": "HubSpot",
+      "slug": "hubspot",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "Nuvemshop",
+      "slug": "nuvemshop",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "MJV Technology & Innovation",
+      "slug": "mjvtechnologyandinnovation",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Devoteam",
+      "slug": "devoteam",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "HelloFresh",
+      "slug": "hellofresh",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Andela",
+      "slug": "andela",
+      "kind": "board",
+      "reason": "job-board"
+    },
+    {
+      "name": "Workato",
+      "slug": "workato",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Lokalise",
+      "slug": "lokalise",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Help Scout",
+      "slug": "helpscout",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Automattic",
+      "slug": "automattic",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "GitLab",
+      "slug": "gitlab",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "Buffer",
+      "slug": "buffer",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "Multiplier",
+      "slug": "multiplier",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Atlassian",
+      "slug": "atlassian",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "Meesho",
+      "slug": "meesho",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Quora",
+      "slug": "quora",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Zillow",
+      "slug": "zillow",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Upwork",
+      "slug": "upwork",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Square",
+      "slug": "square",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Chargebee",
+      "slug": "chargebee",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Zapier",
+      "slug": "zapier",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "Coinbase",
+      "slug": "coinbase",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "Airbnb",
+      "slug": "airbnb",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "Shopify",
+      "slug": "shopify",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "Deel",
+      "slug": "deel",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "Oyster®",
+      "slug": "oyster",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "BrowserStack",
+      "slug": "browserstack",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Turing",
+      "slug": "turing",
+      "kind": "board",
+      "reason": "job-board"
+    },
+    {
+      "name": "Remote",
+      "slug": "remote",
+      "kind": "board",
+      "reason": "job-board"
+    },
+    {
+      "name": "Sprinklr",
+      "slug": "sprinklr",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Wise",
+      "slug": "wise",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Bolt",
+      "slug": "bolt",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "TourRadar",
+      "slug": "tourradar",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Freelancer.com",
+      "slug": "freelancercom",
+      "kind": "employer",
+      "reason": "default"
+    },
+    {
+      "name": "Jooble",
+      "slug": "jooble",
+      "kind": "board",
+      "reason": "job-board"
+    },
+    {
+      "name": "Grafana",
+      "slug": "grafana",
+      "kind": "employer",
+      "reason": "known-employer"
+    },
+    {
+      "name": "Freelance | Self-Employed",
+      "slug": "freelanceselfemployed",
+      "kind": "skip",
+      "reason": "noise"
+    },
+    {
+      "name": "Empresa Confidencial",
+      "slug": "empresaconfidencial",
+      "kind": "skip",
+      "reason": "noise"
+    },
+    {
+      "name": "TI Inside",
+      "slug": "tiinside",
+      "kind": "skip",
+      "reason": "noise"
+    },
+    {
+      "name": "Entrepreneur Stories",
+      "slug": "entrepreneurstories",
+      "kind": "skip",
+      "reason": "noise"
+    },
+    {
+      "name": "Business Insider Advertising",
+      "slug": "businessinsideradvertising",
+      "kind": "skip",
+      "reason": "noise"
+    },
+    {
+      "name": "GenAI Works",
+      "slug": "genaiworks",
+      "kind": "skip",
+      "reason": "noise"
+    },
+    {
+      "name": ".NET Foundation",
+      "slug": "netfoundation",
+      "kind": "skip",
+      "reason": "noise"
+    },
+    {
+      "name": ".NET Developers",
+      "slug": "netdevelopers",
+      "kind": "skip",
+      "reason": "noise"
+    },
+    {
+      "name": "LinkedIn Nieuws",
+      "slug": "linkedinnieuws",
+      "kind": "skip",
+      "reason": "noise"
+    },
+    {
+      "name": "mano deyvin",
+      "slug": "manodeyvin",
+      "kind": "skip",
+      "reason": "noise"
+    },
+    {
+      "name": "fischerafael",
+      "slug": "fischerafael",
+      "kind": "skip",
+      "reason": "noise"
+    }
+  ]
+}

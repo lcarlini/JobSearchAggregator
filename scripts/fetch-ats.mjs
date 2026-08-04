@@ -14,6 +14,11 @@
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import {
+  normalizeWorkdayBoard,
+  workdayJobsUrl,
+  workdayPublicJobUrl,
+} from "./lib/workday.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const root = path.resolve(__dirname, "..");
@@ -323,6 +328,69 @@ async function fetchPersonio(slug) {
   return parsePersonioXml(typeof xml === "string" ? xml : "", slug);
 }
 
+/**
+ * Workday public CXS (career site JSON the UI calls).
+ * Board: { id, host, tenant, site } — never guess wdN/site from a company name.
+ */
+async function fetchWorkday(boardIn) {
+  const board = normalizeWorkdayBoard(boardIn);
+  if (!board) throw new Error("invalid workday board");
+  const api = workdayJobsUrl(board);
+  const jobs = [];
+  const seen = new Set();
+  const limit = 20;
+  // Workday CXS often breaks offset pagination past ~2 pages; fan-out via searchText.
+  const searches = ["", "software", "engineer", "developer", ".NET", "backend", "remote"];
+
+  for (const searchText of searches) {
+    let offset = 0;
+    let total = Infinity;
+    for (let page = 0; page < 8 && offset < total; page++) {
+      const res = await fetch(api, {
+        method: "POST",
+        headers: {
+          Accept: "application/json",
+          "Content-Type": "application/json",
+          "User-Agent": "JobSearchAggregator/1.0 (+https://github.com/lcarlini/JobSearchAggregator)",
+          Referer: `https://${board.host}/${board.site}`,
+        },
+        body: JSON.stringify({
+          appliedFacets: {},
+          limit,
+          offset,
+          searchText,
+        }),
+      });
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const data = await res.json();
+      total = Number(data.total) || 0;
+      const postings = data.jobPostings || [];
+      if (!postings.length) break;
+      for (const j of postings) {
+        const path = j.externalPath || "";
+        const idPart = path.split("/").filter(Boolean).pop() || `${offset}`;
+        const id = `workday:${board.id}:${idPart}`;
+        if (seen.has(id)) continue;
+        seen.add(id);
+        jobs.push({
+          id,
+          ats: "workday",
+          company: board.tenant,
+          title: j.title || "Untitled",
+          url: workdayPublicJobUrl(board, path),
+          description: "",
+          location: j.locationsText || j.bulletFields?.[0] || "Remote",
+          tags: [board.tenant, "workday", board.site],
+          postedAt: j.postedOn || j.publishedAt || null,
+        });
+      }
+      offset += postings.length;
+      if (postings.length < limit) break;
+    }
+  }
+  return jobs;
+}
+
 async function settleAll(label, slugs, fn, { concurrency = CONCURRENCY, delayMs = 0 } = {}) {
   const jobs = [];
   const errors = [];
@@ -341,6 +409,41 @@ async function settleAll(label, slugs, fn, { concurrency = CONCURRENCY, delayMs 
       } catch (e) {
         errors.push({ board: `${label}/${slug}`, error: e.message });
         console.warn(`  ${label}/${slug}: FAIL ${e.message}`);
+      }
+      if (delayMs) await new Promise((r) => setTimeout(r, delayMs));
+    }
+  }
+
+  const n = Math.min(concurrency, list.length);
+  await Promise.all(Array.from({ length: n }, () => worker()));
+  return { jobs, errors };
+}
+
+async function settleWorkday(boards, { concurrency = 3, delayMs = 120 } = {}) {
+  const jobs = [];
+  const errors = [];
+  const seen = new Set();
+  const list = [];
+  for (const raw of boards || []) {
+    const b = normalizeWorkdayBoard(raw);
+    if (!b || seen.has(b.id)) continue;
+    seen.add(b.id);
+    list.push(b);
+  }
+  if (!list.length) return { jobs, errors };
+  let cursor = 0;
+
+  async function worker() {
+    while (cursor < list.length) {
+      const idx = cursor++;
+      const board = list[idx];
+      try {
+        const rows = await fetchWorkday(board);
+        console.log(`  workday/${board.id}: ${rows.length}`);
+        jobs.push(...rows);
+      } catch (e) {
+        errors.push({ board: `workday/${board.id}`, error: e.message });
+        console.warn(`  workday/${board.id}: FAIL ${e.message}`);
       }
       if (delayMs) await new Promise((r) => setTimeout(r, delayMs));
     }
@@ -377,6 +480,7 @@ const pe = await settleAll("personio", companies.personio || [], fetchPersonio, 
   concurrency: 2,
   delayMs: 350,
 });
+const wd = await settleWorkday(companies.workday || [], { concurrency: 3, delayMs: 120 });
 
 const raw = [
   ...gh.jobs,
@@ -388,6 +492,7 @@ const raw = [
   ...br.jobs,
   ...bb.jobs,
   ...pe.jobs,
+  ...wd.jobs,
 ];
 const jobs = raw.filter(isItJob).map(compact);
 const countIt = (arr) => arr.filter(isItJob).length;
@@ -406,6 +511,7 @@ const payload = {
     breezy: countIt(br.jobs),
     bamboohr: countIt(bb.jobs),
     personio: countIt(pe.jobs),
+    workday: countIt(wd.jobs),
   },
   errors: [
     ...gh.errors,
@@ -417,6 +523,7 @@ const payload = {
     ...br.errors,
     ...bb.errors,
     ...pe.errors,
+    ...wd.errors,
   ],
   jobs,
 };

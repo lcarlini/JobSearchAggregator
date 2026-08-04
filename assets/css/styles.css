@@ -1957,3 +1957,175 @@ footer {
     flex: 1 1 calc(50% - 0.5rem);
   }
 }
+
+/* —— Manual import (LinkedIn / Indeed / Glassdoor) —— */
+.manual-warn {
+  border-color: rgba(240, 163, 94, 0.35);
+  margin-bottom: 1rem;
+}
+
+.manual-warn p {
+  margin: 0.35rem 0 0;
+  color: var(--muted);
+  line-height: 1.45;
+}
+
+.manual-step-title {
+  font-family: var(--font-display);
+  font-size: 1.2rem;
+  margin: 0 0 0.75rem;
+  display: flex;
+  align-items: center;
+  gap: 0.55rem;
+}
+
+.manual-step {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.6rem;
+  height: 1.6rem;
+  border-radius: 8px;
+  background: linear-gradient(135deg, var(--accent), var(--accent-2));
+  color: #0b1220;
+  font-size: 0.85rem;
+  font-weight: 800;
+}
+
+.manual-boards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.manual-board {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.55rem 0.9rem;
+  border-radius: 10px;
+  border: 1px solid var(--line);
+  cursor: pointer;
+  color: var(--muted);
+  user-select: none;
+}
+
+.manual-board input {
+  accent-color: var(--accent-2);
+}
+
+.manual-board.active {
+  border-color: rgba(92, 200, 255, 0.45);
+  color: var(--ink);
+  background: rgba(92, 200, 255, 0.08);
+}
+
+.manual-hint,
+.manual-howto {
+  color: var(--muted);
+  font-size: 0.92rem;
+  line-height: 1.45;
+}
+
+.manual-howto {
+  margin: 0.85rem 0 0;
+  padding-left: 1.2rem;
+}
+
+.manual-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 0.75rem 0;
+}
+
+.manual-script-label {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  margin: 0.5rem 0 0.35rem;
+  font-size: 0.85rem;
+  color: var(--muted);
+}
+
+.manual-script-meta {
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-size: 0.78rem;
+  color: var(--accent-2);
+}
+
+.manual-script {
+  width: 100%;
+  box-sizing: border-box;
+  resize: vertical;
+  min-height: 220px;
+  padding: 0.85rem 1rem;
+  border-radius: 12px;
+  border: 1px solid var(--line);
+  background: #070c14;
+  color: #d7e4f7;
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-size: 0.78rem;
+  line-height: 1.45;
+}
+
+.manual-upload {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+  min-height: 140px;
+  padding: 1.25rem;
+  border-radius: 14px;
+  border: 1.5px dashed rgba(92, 200, 255, 0.35);
+  background: rgba(92, 200, 255, 0.04);
+  text-align: center;
+  color: var(--muted);
+  cursor: pointer;
+  transition: border-color 0.15s ease, background 0.15s ease;
+}
+
+.manual-upload.is-drag,
+.manual-upload:hover {
+  border-color: rgba(61, 220, 151, 0.55);
+  background: rgba(61, 220, 151, 0.06);
+}
+
+.manual-upload-status {
+  margin: 0.65rem 0 0;
+  color: var(--accent);
+  font-size: 0.92rem;
+}
+
+.inline-field {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  color: var(--muted);
+  font-size: 0.85rem;
+}
+
+.inline-field input {
+  width: 5rem;
+  padding: 0.35rem 0.45rem;
+  border-radius: 8px;
+  border: 1px solid var(--line);
+  background: rgba(0, 0, 0, 0.25);
+  color: var(--ink);
+}
+
+.jsa-toast {
+  position: fixed;
+  z-index: 50;
+  right: 1rem;
+  bottom: 1rem;
+  padding: 0.75rem 1rem;
+  border-radius: 12px;
+  background: #0b1220;
+  border: 1px solid rgba(61, 220, 151, 0.4);
+  color: var(--ink);
+  box-shadow: var(--shadow);
+  font-size: 0.9rem;
+}

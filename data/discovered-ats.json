@@ -1,0 +1,657 @@
+{
+  "generatedAt": "2026-08-04T14:49:05.293Z",
+  "greenhouse": [
+    "abinbev",
+    "caylent",
+    "classpass",
+    "nortal",
+    "nubank",
+    "truelogic"
+  ],
+  "lever": [
+    "codelitt",
+    "resilientco",
+    "tractian"
+  ],
+  "ashby": [
+    "exa",
+    "keyrock"
+  ],
+  "workable": [
+    "jalasoft",
+    "nology"
+  ],
+  "smartrecruiters": [],
+  "recruitee": [
+    "elementinsuranceag",
+    "jobs"
+  ],
+  "breezy": [],
+  "bamboohr": [
+    "mojix",
+    "www"
+  ],
+  "personio": [],
+  "workday": [
+    {
+      "id": "fmr/FidelityCareers",
+      "host": "wd1.myworkdaysite.com",
+      "tenant": "fmr",
+      "site": "FidelityCareers",
+      "url": "https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers"
+    },
+    {
+      "id": "planet/Planet",
+      "host": "planet.wd3.myworkdayjobs.com",
+      "tenant": "planet",
+      "site": "Planet",
+      "url": "https://planet.wd3.myworkdayjobs.com/Planet"
+    },
+    {
+      "id": "dxctechnology/DXCJobs",
+      "host": "dxctechnology.wd1.myworkdayjobs.com",
+      "tenant": "dxctechnology",
+      "site": "DXCJobs",
+      "url": "https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs"
+    },
+    {
+      "id": "csgi/CSGCareers",
+      "host": "csgi.wd5.myworkdayjobs.com",
+      "tenant": "csgi",
+      "site": "CSGCareers",
+      "url": "https://csgi.wd5.myworkdayjobs.com/CSGCareers"
+    }
+  ],
+  "employers": [
+    {
+      "name": "EXA",
+      "slug": "exa",
+      "ats": "ashby",
+      "jobs": 41,
+      "source": "probe"
+    },
+    {
+      "name": "_nology",
+      "slug": "nology",
+      "ats": "workable",
+      "jobs": 6,
+      "source": "probe"
+    },
+    {
+      "name": "AB InBev",
+      "slug": "abinbev",
+      "ats": "greenhouse",
+      "jobs": 56,
+      "source": "probe"
+    },
+    {
+      "name": "TRACTIAN",
+      "slug": "tractian",
+      "ats": "lever",
+      "jobs": 111,
+      "source": "probe"
+    },
+    {
+      "name": "Caylent",
+      "slug": "caylent",
+      "ats": "greenhouse",
+      "jobs": 80,
+      "source": "probe"
+    },
+    {
+      "name": "ClassPass",
+      "slug": "classpass",
+      "ats": "greenhouse",
+      "jobs": 59,
+      "source": "probe"
+    },
+    {
+      "name": "Nortal",
+      "slug": "nortal",
+      "ats": "greenhouse",
+      "jobs": 49,
+      "source": "probe"
+    },
+    {
+      "name": "Resilient Co.",
+      "slug": "resilientco",
+      "ats": "lever",
+      "jobs": 27,
+      "source": "probe"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Entrust it - Consultoria em TI",
+      "kind": "agency",
+      "slug": "entrustitconsultoriaemti"
+    },
+    {
+      "name": "Jobgether",
+      "kind": "board",
+      "slug": "jobgether"
+    },
+    {
+      "name": "Sherborne Talent Solutions",
+      "kind": "agency",
+      "slug": "sherbornetalentsolutions"
+    },
+    {
+      "name": "YO IT Consulting",
+      "kind": "agency",
+      "slug": "yoitconsulting"
+    },
+    {
+      "name": "Avance Consulting",
+      "kind": "agency",
+      "slug": "avanceconsulting"
+    },
+    {
+      "name": "TechJobs360 - Global Remote & International Tech Jobs",
+      "kind": "board",
+      "slug": "techjobs360globalremoteandinternationaltechjobs"
+    },
+    {
+      "name": "Tiger Resourcing Group",
+      "kind": "agency",
+      "slug": "tigerresourcinggroup"
+    },
+    {
+      "name": "Proxify",
+      "kind": "board",
+      "slug": "proxify"
+    },
+    {
+      "name": "RemoteDevsBR",
+      "kind": "board",
+      "slug": "remotedevsbr"
+    },
+    {
+      "name": "CodeTact Recruit",
+      "kind": "agency",
+      "slug": "codetactrecruit"
+    },
+    {
+      "name": "INDI Staffing Services",
+      "kind": "agency",
+      "slug": "indistaffingservices"
+    },
+    {
+      "name": "Talent Four Consulting",
+      "kind": "agency",
+      "slug": "talentfourconsulting"
+    },
+    {
+      "name": "Aditi Consulting",
+      "kind": "agency",
+      "slug": "aditiconsulting"
+    },
+    {
+      "name": "Hiring Brazil",
+      "kind": "board",
+      "slug": "hiringbrazil"
+    },
+    {
+      "name": "jobnagringa",
+      "kind": "board",
+      "slug": "jobnagringa"
+    },
+    {
+      "name": "MAS Global Consulting",
+      "kind": "agency",
+      "slug": "masglobalconsulting"
+    },
+    {
+      "name": "Harvey Nash",
+      "kind": "agency",
+      "slug": "harveynash"
+    },
+    {
+      "name": "Alto (Acq. by Revelo)",
+      "kind": "board",
+      "slug": "altoacqbyrevelo"
+    },
+    {
+      "name": "Hired Remoteli",
+      "kind": "board",
+      "slug": "hiredremoteli"
+    },
+    {
+      "name": "Apex Systems",
+      "kind": "agency",
+      "slug": "apexsystems"
+    },
+    {
+      "name": "Trabajo en Remoto",
+      "kind": "board",
+      "slug": "trabajoenremoto"
+    },
+    {
+      "name": "Remote Talent LATAM",
+      "kind": "board",
+      "slug": "remotetalentlatam"
+    },
+    {
+      "name": "WeRemoto",
+      "kind": "board",
+      "slug": "weremoto"
+    },
+    {
+      "name": "Vivid Resourcing",
+      "kind": "agency",
+      "slug": "vividresourcing"
+    },
+    {
+      "name": "Quero Home - Vagas Home Office",
+      "kind": "board",
+      "slug": "querohomevagashomeoffice"
+    },
+    {
+      "name": "Nerdin Vagas de TI",
+      "kind": "board",
+      "slug": "nerdinvagasdeti"
+    },
+    {
+      "name": "Home Office - Vagas Remotas",
+      "kind": "board",
+      "slug": "homeofficevagasremotas"
+    },
+    {
+      "name": "Vagas Remotas",
+      "kind": "board",
+      "slug": "vagasremotas"
+    },
+    {
+      "name": "LATAM Jobs",
+      "kind": "board",
+      "slug": "latamjobs"
+    },
+    {
+      "name": "Robert Half",
+      "kind": "agency",
+      "slug": "roberthalf"
+    },
+    {
+      "name": "Find Job Latam",
+      "kind": "board",
+      "slug": "findjoblatam"
+    },
+    {
+      "name": "Vacantes Remotas: Trabajo remoto",
+      "kind": "board",
+      "slug": "vacantesremotastrabajoremoto"
+    },
+    {
+      "name": "Vagas PJ",
+      "kind": "board",
+      "slug": "vagaspj"
+    },
+    {
+      "name": "HireLATAM",
+      "kind": "board",
+      "slug": "hirelatam"
+    },
+    {
+      "name": "Revelo",
+      "kind": "board",
+      "slug": "revelo"
+    },
+    {
+      "name": "Integer Consulting",
+      "kind": "agency",
+      "slug": "integerconsulting"
+    },
+    {
+      "name": "Ontop",
+      "kind": "board",
+      "slug": "ontop"
+    },
+    {
+      "name": "Strider Technologies",
+      "kind": "board",
+      "slug": "stridertechnologies"
+    },
+    {
+      "name": "SimplyHired",
+      "kind": "board",
+      "slug": "simplyhired"
+    },
+    {
+      "name": "Lemon.io",
+      "kind": "board",
+      "slug": "lemonio"
+    },
+    {
+      "name": "G2i Inc.",
+      "kind": "board",
+      "slug": "g2iinc"
+    },
+    {
+      "name": "Randstad Digital | Torc",
+      "kind": "agency",
+      "slug": "randstaddigitaltorc"
+    },
+    {
+      "name": "Dice",
+      "kind": "board",
+      "slug": "dice"
+    },
+    {
+      "name": "Remotely.works",
+      "kind": "board",
+      "slug": "remotelyworks"
+    },
+    {
+      "name": "Toptal",
+      "kind": "board",
+      "slug": "toptal"
+    },
+    {
+      "name": "Revelo LATAM",
+      "kind": "board",
+      "slug": "revelolatam"
+    },
+    {
+      "name": "Revelo Brasil",
+      "kind": "board",
+      "slug": "revelobrasil"
+    },
+    {
+      "name": "Motion Recruitment",
+      "kind": "agency",
+      "slug": "motionrecruitment"
+    },
+    {
+      "name": "Landing.Jobs",
+      "kind": "board",
+      "slug": "landingjobs"
+    },
+    {
+      "name": "Strider",
+      "kind": "board",
+      "slug": "strider"
+    },
+    {
+      "name": "FindAsync - Async Remote Jobs",
+      "kind": "board",
+      "slug": "findasyncasyncremotejobs"
+    },
+    {
+      "name": "Remote Workmate",
+      "kind": "board",
+      "slug": "remoteworkmate"
+    },
+    {
+      "name": "Experis",
+      "kind": "agency",
+      "slug": "experis"
+    },
+    {
+      "name": "Wellfound",
+      "kind": "board",
+      "slug": "wellfound"
+    },
+    {
+      "name": "We Work Remotely",
+      "kind": "board",
+      "slug": "weworkremotely"
+    },
+    {
+      "name": "Remotive",
+      "kind": "board",
+      "slug": "remotive"
+    },
+    {
+      "name": "Working Nomads",
+      "kind": "board",
+      "slug": "workingnomads"
+    },
+    {
+      "name": "Crossover",
+      "kind": "board",
+      "slug": "crossover"
+    },
+    {
+      "name": "Dynamite Jobs",
+      "kind": "board",
+      "slug": "dynamitejobs"
+    },
+    {
+      "name": "DailyRemote",
+      "kind": "board",
+      "slug": "dailyremote"
+    },
+    {
+      "name": "Torre.ai",
+      "kind": "board",
+      "slug": "torreai"
+    },
+    {
+      "name": "PowerToFly",
+      "kind": "board",
+      "slug": "powertofly"
+    },
+    {
+      "name": "Kforce Inc",
+      "kind": "agency",
+      "slug": "kforceinc"
+    },
+    {
+      "name": "Adecco",
+      "kind": "agency",
+      "slug": "adecco"
+    },
+    {
+      "name": "Braintrust",
+      "kind": "board",
+      "slug": "braintrust"
+    },
+    {
+      "name": "X-Team",
+      "kind": "board",
+      "slug": "xteam"
+    },
+    {
+      "name": "Monster",
+      "kind": "board",
+      "slug": "monster"
+    },
+    {
+      "name": "FlexJobs",
+      "kind": "board",
+      "slug": "flexjobs"
+    },
+    {
+      "name": "AngelList",
+      "kind": "board",
+      "slug": "angellist"
+    },
+    {
+      "name": "Trampar na Gringa",
+      "kind": "board",
+      "slug": "tramparnagringa"
+    },
+    {
+      "name": "Robert Walters",
+      "kind": "agency",
+      "slug": "robertwalters"
+    },
+    {
+      "name": "Nigel Frank International",
+      "kind": "agency",
+      "slug": "nigelfrankinternational"
+    },
+    {
+      "name": "GeekHunter",
+      "kind": "board",
+      "slug": "geekhunter"
+    },
+    {
+      "name": "Andela",
+      "kind": "board",
+      "slug": "andela"
+    },
+    {
+      "name": "Turing",
+      "kind": "board",
+      "slug": "turing"
+    },
+    {
+      "name": "Remote",
+      "kind": "board",
+      "slug": "remote"
+    },
+    {
+      "name": "Jooble",
+      "kind": "board",
+      "slug": "jooble"
+    }
+  ],
+  "notes": [
+    {
+      "ats": "recruitee",
+      "slug": "jobs",
+      "from": "empresas",
+      "name": "Careers"
+    },
+    {
+      "ats": "workday",
+      "id": "fmr/FidelityCareers",
+      "from": "empresas",
+      "name": "CAREERS"
+    },
+    {
+      "ats": "bamboohr",
+      "slug": "www",
+      "from": "empresas",
+      "name": "HR Software with Heart. Focus on people, not processes"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "nubank",
+      "from": "empresas",
+      "name": "Jobs at Nubank"
+    },
+    {
+      "ats": "recruitee",
+      "slug": "elementinsuranceag",
+      "from": "empresas",
+      "name": "Karrieren"
+    },
+    {
+      "ats": "workday",
+      "id": "planet/Planet",
+      "from": "empresas",
+      "name": "Search for Jobs"
+    },
+    {
+      "ats": "lever",
+      "slug": "codelitt",
+      "from": "sources",
+      "name": "Codelitt"
+    },
+    {
+      "ats": "workable",
+      "slug": "jalasoft",
+      "from": "sources",
+      "name": ".NET C# Senior Web Developer"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "truelogic",
+      "from": "sources",
+      "name": "Job Application for Full"
+    },
+    {
+      "ats": "ashby",
+      "slug": "keyrock",
+      "from": "sources",
+      "name": "Network Architect"
+    },
+    {
+      "ats": "bamboohr",
+      "slug": "mojix",
+      "from": "sources",
+      "name": "BambooHR"
+    },
+    {
+      "ats": "workday",
+      "id": "dxctechnology/DXCJobs",
+      "from": "sources",
+      "name": "Search for Jobs"
+    },
+    {
+      "ats": "workday",
+      "id": "csgi/CSGCareers",
+      "from": "seed",
+      "name": "CSG"
+    },
+    {
+      "ats": "ashby",
+      "slug": "exa",
+      "from": "probe",
+      "name": "EXA",
+      "jobs": 41
+    },
+    {
+      "ats": "workable",
+      "slug": "nology",
+      "from": "probe",
+      "name": "_nology",
+      "jobs": 6
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "abinbev",
+      "from": "probe",
+      "name": "AB InBev",
+      "jobs": 56
+    },
+    {
+      "ats": "lever",
+      "slug": "tractian",
+      "from": "probe",
+      "name": "TRACTIAN",
+      "jobs": 111
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "caylent",
+      "from": "probe",
+      "name": "Caylent",
+      "jobs": 80
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "classpass",
+      "from": "probe",
+      "name": "ClassPass",
+      "jobs": 59
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "nortal",
+      "from": "probe",
+      "name": "Nortal",
+      "jobs": 49
+    },
+    {
+      "ats": "lever",
+      "slug": "resilientco",
+      "from": "probe",
+      "name": "Resilient Co.",
+      "jobs": 27
+    }
+  ],
+  "stats": {
+    "greenhouse": 6,
+    "lever": 3,
+    "ashby": 2,
+    "workable": 2,
+    "workday": 4,
+    "employersFound": 8,
+    "boardsListed": 77,
+    "linkOk": 228,
+    "linkFail": 145
+  }
+}

@@ -65,15 +65,27 @@ describe("expanded ATS payloads", () => {
           postedAt: new Date().toISOString(),
           tags: ["celonis", "personio"],
         },
+        {
+          id: "workday:csgi/CSGCareers:Software-Dev-II_32238",
+          ats: "workday",
+          title: "Software Dev II",
+          company: "csgi",
+          url: "https://csgi.wd5.myworkdayjobs.com/CSGCareers/job/Brazil-Remote/Software-Dev-II_32238",
+          description: ".NET remote Brazil",
+          location: "Brazil Remote",
+          postedAt: new Date().toISOString(),
+          tags: ["csgi", "workday", "CSGCareers"],
+        },
       ],
     });
-    assert.equal(jobs.length, 5);
+    assert.equal(jobs.length, 6);
     assert.ok(jobs.every((j) => j.source === "static-ats"));
     assert.ok(jobs.some((j) => j.tags.includes("workable")));
     assert.ok(jobs.some((j) => j.tags.includes("smartrecruiters")));
     assert.ok(jobs.some((j) => j.tags.includes("recruitee")));
     assert.ok(jobs.some((j) => j.tags.includes("bamboohr")));
     assert.ok(jobs.some((j) => j.tags.includes("personio")));
+    assert.ok(jobs.some((j) => j.tags.includes("workday")));
     assert.ok(jobs.some((j) => j.salary && j.salary.includes("120")));
   });
 

@@ -49,6 +49,7 @@ coverage/
 
 # Generated health report
 data/source-health.json
+data/link-health.json
 
 # OS / editor
 .DS_Store

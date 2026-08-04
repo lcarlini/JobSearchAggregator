@@ -6,6 +6,8 @@
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import { parseAtsUrl } from "./lib/ats-url-parse.mjs";
+import { normalizeWorkdayBoard } from "./lib/workday.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const root = path.resolve(__dirname, "..");
@@ -42,7 +44,7 @@ function extractRemote(html) {
     if (h3) {
       const name = h3[1].trim();
       folderStack.push(name);
-      if (name.toLowerCase() === "remote" && !capture) {
+      if ((name.toLowerCase() === "remote" || name.toLowerCase() === "remoto") && !capture) {
         capture = true;
         depthAtRemote = folderStack.length;
       }
@@ -174,6 +176,19 @@ for (const s of curatedGreenhouse) greenhouse.add(s.toLowerCase());
 for (const s of curatedLever) lever.add(s);
 for (const s of curatedAshby) ashby.add(s);
 
+const workday = new Map();
+for (const { url } of links) {
+  const parsed = parseAtsUrl(url);
+  if (!parsed) continue;
+  if (parsed.ats === "workday") {
+    const b = normalizeWorkdayBoard(parsed.board);
+    if (b) workday.set(b.id, b);
+  } else if (parsed.ats === "greenhouse" && parsed.slug) greenhouse.add(parsed.slug.toLowerCase());
+  else if (parsed.ats === "lever" && parsed.slug) lever.add(parsed.slug);
+  else if (parsed.ats === "ashby" && parsed.slug) ashby.add(parsed.slug);
+  else if (parsed.ats === "workable" && parsed.slug) workable.add(parsed.slug.toLowerCase());
+}
+
 const companies = {
   generatedAt: new Date().toISOString(),
   source: path.basename(input),
@@ -181,6 +196,7 @@ const companies = {
   lever: [...lever].sort(),
   ashby: [...ashby].sort(),
   workable: [...workable].sort(),
+  workday: [...workday.values()].sort((a, b) => a.id.localeCompare(b.id)),
   latamFriendly: [
     "BairesDev",
     "Turing",
@@ -454,14 +470,47 @@ const sources = {
 
 const dataDir = path.join(root, "data");
 fs.mkdirSync(dataDir, { recursive: true });
-fs.writeFileSync(
-  path.join(dataDir, "companies.json"),
-  JSON.stringify(companies, null, 2)
-);
+
+/** Preserve hire-signal / discovery keys that extract alone does not rebuild */
+const companiesPath = path.join(dataDir, "companies.json");
+let mergedCompanies = { ...companies };
+try {
+  const prev = JSON.parse(fs.readFileSync(companiesPath, "utf8"));
+  const uniq = (a, b) =>
+    [...new Set([...(a || []), ...(b || [])].filter(Boolean).map(String))].sort((x, y) =>
+      x.localeCompare(y)
+    );
+  for (const key of [
+    "greenhouse",
+    "lever",
+    "ashby",
+    "workable",
+    "smartrecruiters",
+    "recruitee",
+    "breezy",
+    "bamboohr",
+    "personio",
+    "latamFriendly",
+  ]) {
+    mergedCompanies[key] = uniq(prev[key], companies[key]);
+  }
+  const wdMap = new Map();
+  for (const raw of [...(prev.workday || []), ...(companies.workday || [])]) {
+    const b = normalizeWorkdayBoard(raw);
+    if (b) wdMap.set(b.id, b);
+  }
+  mergedCompanies.workday = [...wdMap.values()].sort((a, b) => a.id.localeCompare(b.id));
+  mergedCompanies.source = `${path.basename(input)} + preserved prior ATS keys`;
+  mergedCompanies.generatedAt = new Date().toISOString();
+} catch {
+  mergedCompanies = companies;
+}
+
+fs.writeFileSync(companiesPath, JSON.stringify(mergedCompanies, null, 2));
 fs.writeFileSync(
   path.join(dataDir, "sources.json"),
   JSON.stringify(sources, null, 2)
 );
 
-console.log("Wrote data/companies.json and data/sources.json");
+console.log("Wrote data/companies.json and data/sources.json (extra ATS keys preserved)");
 console.log(JSON.stringify(sources.stats, null, 2));

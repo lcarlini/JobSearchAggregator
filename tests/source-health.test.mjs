@@ -176,6 +176,8 @@ describe("source catalog completeness", () => {
     assert.ok(c.greenhouse.length >= 50);
     assert.ok(c.ashby.length >= 20);
     assert.ok(c.lever.length >= 5);
+    assert.ok(Array.isArray(c.workday) && c.workday.length >= 1);
+    assert.ok(ATS_SAMPLES.some((s) => s.ats === "workday"));
   });
 });
 

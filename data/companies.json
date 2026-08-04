@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-08-04T00:28:00.598Z",
-  "source": "hire-signal (AndrewPalet) + job-scanner Ashby boards + LATAM curated; endpoints from noble-ronin/ats-job-apis",
+  "generatedAt": "2026-08-04T14:51:04.474Z",
+  "source": "hire-signal (AndrewPalet) + job-scanner Ashby boards + LATAM curated; endpoints from noble-ronin/ats-job-apis + Workday CXS seeds + discovered-ats merge",
   "greenhouse": [
     "2k",
     "6sense",
+    "abinbev",
     "abnormalsecurity",
     "actblue",
     "addepar1",
@@ -46,6 +47,7 @@
     "carbon",
     "careaccess",
     "carta",
+    "caylent",
     "cerebrassystems",
     "chainguard",
     "charliehealth",
@@ -53,6 +55,7 @@
     "checkr",
     "chime",
     "cision",
+    "classpass",
     "clear",
     "clearstreet",
     "cleerlyhealth",
@@ -183,6 +186,7 @@
     "nexhealth",
     "nextdoor",
     "ngrokinc",
+    "nortal",
     "novacredit",
     "nubank",
     "offerup",
@@ -257,6 +261,7 @@
     "togetherai",
     "tripactions",
     "truebill",
+    "truelogic",
     "tubitv",
     "tvscientificpoweredbypinterest",
     "twilio",
@@ -300,6 +305,7 @@
     "bluelightconsulting",
     "chownow",
     "ciandt",
+    "codelitt",
     "coupa",
     "crypto",
     "farfetch",
@@ -325,6 +331,7 @@
     "peerspace",
     "quizlet-2",
     "regrello",
+    "resilientco",
     "ro",
     "secureframe",
     "sideinc",
@@ -332,6 +339,7 @@
     "spotify",
     "sprucesystems",
     "sysdig",
+    "tractian",
     "Ubiminds",
     "veeva",
     "wealthfront",
@@ -375,6 +383,7 @@
     "docker",
     "eliseai",
     "envoy",
+    "exa",
     "finalis",
     "fleetworks",
     "frontcareers",
@@ -482,54 +491,87 @@
     "codurance",
     "devpro",
     "enroute",
-    "jalasoft"
+    "jalasoft",
+    "nology"
   ],
   "smartrecruiters": [
-    "Visa",
     "BoschGroup",
-    "Uber",
+    "Philips",
     "SchneiderElectric",
-    "Philips"
+    "Uber",
+    "Visa"
   ],
-  "recruitee": [],
+  "recruitee": [
+    "elementinsuranceag"
+  ],
   "breezy": [],
   "bamboohr": [
-    "remote"
+    "mojix"
   ],
   "personio": [
-    "getyourguide",
     "celonis",
+    "getyourguide",
     "taxfix"
   ],
   "latamFriendly": [
-    "BairesDev",
-    "Turing",
-    "Toptal",
-    "Tecla",
-    "VanHack",
-    "Revelo",
-    "TrueLogic",
-    "NearShore",
-    "Oowlish",
-    "FullStack Labs",
-    "Deel",
-    "Remotely",
-    "OnStrider",
-    "Proxify",
-    "Andela",
-    "Crossover",
-    "EPAM Anywhere",
-    "Globant",
-    "CI&T",
     "Accenture",
-    "Ubiminds",
+    "Andela",
+    "BairesDev",
     "Bluelight Consulting",
-    "Nubank",
-    "iFood",
-    "Hotmart",
-    "VTEX",
+    "CI&T",
+    "Crossover",
+    "Deel",
     "dLocal",
+    "EPAM Anywhere",
+    "FullStack Labs",
+    "Globant",
+    "Hotmart",
+    "iFood",
+    "NearShore",
+    "Nubank",
+    "OnStrider",
+    "Oowlish",
+    "Proxify",
+    "QuintoAndar",
+    "Remotely",
+    "Revelo",
     "Stone",
-    "QuintoAndar"
+    "Tecla",
+    "Toptal",
+    "TrueLogic",
+    "Turing",
+    "Ubiminds",
+    "VanHack",
+    "VTEX"
+  ],
+  "workday": [
+    {
+      "id": "csgi/CSGCareers",
+      "host": "csgi.wd5.myworkdayjobs.com",
+      "tenant": "csgi",
+      "site": "CSGCareers",
+      "url": "https://csgi.wd5.myworkdayjobs.com/CSGCareers"
+    },
+    {
+      "id": "dxctechnology/DXCJobs",
+      "host": "dxctechnology.wd1.myworkdayjobs.com",
+      "tenant": "dxctechnology",
+      "site": "DXCJobs",
+      "url": "https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs"
+    },
+    {
+      "id": "fmr/FidelityCareers",
+      "host": "wd1.myworkdaysite.com",
+      "tenant": "fmr",
+      "site": "FidelityCareers",
+      "url": "https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers"
+    },
+    {
+      "id": "planet/Planet",
+      "host": "planet.wd3.myworkdayjobs.com",
+      "tenant": "planet",
+      "site": "Planet",
+      "url": "https://planet.wd3.myworkdayjobs.com/Planet"
+    }
   ]
 }

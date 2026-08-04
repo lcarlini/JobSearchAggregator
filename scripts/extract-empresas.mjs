@@ -270,6 +270,31 @@ const payload = {
 };
 
 const out = path.join(root, "data", "empresas.json");
+/** Keep linkedin-seed / discovered-ats rows that bookmark extract does not rebuild */
+try {
+  const prev = JSON.parse(fs.readFileSync(out, "utf8"));
+  const byId = new Map(payload.companies.map((c) => [c.id || c.host, c]));
+  for (const c of prev.companies || []) {
+    const key = c.id || c.host;
+    const src = String(c.source || "");
+    if (!key) continue;
+    if (!byId.has(key) && /linkedin-seed|discovered-ats/i.test(src)) {
+      byId.set(key, c);
+    }
+  }
+  payload.companies = [...byId.values()].sort((a, b) => {
+    const pa = a.featured ? a.priority ?? 0 : 1000;
+    const pb = b.featured ? b.priority ?? 0 : 1000;
+    if (pa !== pb) return pa - pb;
+    return a.name.localeCompare(b.name);
+  });
+  payload.featured = payload.companies.filter((c) => c.featured);
+  payload.stats.total = payload.companies.length;
+  payload.stats.featured = payload.featured.length;
+  payload.source = `${payload.source} + preserved linkedin/discovered`;
+} catch {
+  /* first write */
+}
 fs.writeFileSync(out, JSON.stringify(payload, null, 2));
 console.log(`Wrote ${payload.companies.length} companies → data/empresas.json`);
 console.log(JSON.stringify(payload.stats, null, 2));

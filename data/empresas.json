@@ -1,11 +1,12 @@
 {
-  "generatedAt": "2026-08-03T22:20:08.388Z",
+  "generatedAt": "2026-08-04T14:51:04.477Z",
   "source": "bookmarks_8_3_26.html",
   "stats": {
     "bookmarkLinks": 297,
     "bookmarkCompanies": 200,
-    "total": 253,
-    "featured": 1
+    "total": 335,
+    "featured": 1,
+    "linkedinMerged": 82
   },
   "featured": [
     {
@@ -24,17 +25,15 @@
   ],
   "companies": [
     {
-      "id": "co-apinfo-com",
-      "name": "ApInfo",
-      "url": "https://www.apinfo.com/",
-      "host": "apinfo.com",
-      "region": "brazil",
-      "type": "board",
-      "source": "bookmark+curated",
-      "searchUrl": "https://www.apinfo2.com/apinfo/inc/resultados_pesquisas.cfm",
-      "featured": true,
-      "priority": 1,
-      "note": "Clássico BR de TI — vagas .NET/Java/SAP, home office e CLT/PJ"
+      "id": "co-apply-workable-com",
+      "name": "_nology",
+      "url": "https://apply.workable.com/nology",
+      "host": "apply.workable.com",
+      "region": "latam",
+      "type": "company",
+      "source": "linkedin-seed",
+      "searchUrl": "https://apply.workable.com/nology",
+      "note": "ATS workable"
     },
     {
       "id": "co-seek-com-au",
@@ -136,6 +135,26 @@
       "source": "empresas-bookmark"
     },
     {
+      "id": "board-adecco",
+      "name": "Adecco",
+      "url": "https://www.google.com/search?q=Adecco%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "agency"
+    },
+    {
+      "id": "board-aditiconsulting",
+      "name": "Aditi Consulting",
+      "url": "https://www.google.com/search?q=Aditi%20Consulting%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "agency"
+    },
+    {
       "id": "co-afterpay-com",
       "name": "Afterpay",
       "url": "https://www.afterpay.com/careers",
@@ -152,6 +171,16 @@
       "region": "bookmark",
       "type": "company",
       "source": "empresas-bookmark"
+    },
+    {
+      "id": "board-altoacqbyrevelo",
+      "name": "Alto (Acq. by Revelo)",
+      "url": "https://www.google.com/search?q=Alto%20(Acq.%20by%20Revelo)%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "board"
     },
     {
       "id": "co-aluguetemporada-com-br",
@@ -172,6 +201,26 @@
       "source": "empresas-bookmark"
     },
     {
+      "id": "board-andela",
+      "name": "Andela",
+      "url": "https://www.google.com/search?q=Andela%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "board"
+    },
+    {
+      "id": "board-angellist",
+      "name": "AngelList",
+      "url": "https://www.google.com/search?q=AngelList%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "board"
+    },
+    {
       "id": "co-angel-co",
       "name": "AngelList (Wellfound)",
       "url": "https://angel.co/",
@@ -181,6 +230,29 @@
       "source": "bookmark+curated",
       "featured": false,
       "priority": 100
+    },
+    {
+      "id": "board-apexsystems",
+      "name": "Apex Systems",
+      "url": "https://www.google.com/search?q=Apex%20Systems%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "agency"
+    },
+    {
+      "id": "co-apinfo-com",
+      "name": "ApInfo",
+      "url": "https://www.apinfo.com/",
+      "host": "apinfo.com",
+      "region": "brazil",
+      "type": "board",
+      "source": "bookmark+curated",
+      "searchUrl": "https://www.apinfo2.com/apinfo/inc/resultados_pesquisas.cfm",
+      "featured": true,
+      "priority": 1,
+      "note": "Clássico BR de TI — vagas .NET/Java/SAP, home office e CLT/PJ"
     },
     {
       "id": "co-vagaspelomundo-com-br",
@@ -217,6 +289,16 @@
       "type": "company",
       "host": "automattic.com",
       "source": "curated"
+    },
+    {
+      "id": "board-avanceconsulting",
+      "name": "Avance Consulting",
+      "url": "https://www.google.com/search?q=Avance%20Consulting%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "agency"
     },
     {
       "id": "co-praxent-com",
@@ -271,6 +353,16 @@
       "type": "company",
       "host": "usebraintrust.com",
       "source": "curated"
+    },
+    {
+      "id": "board-braintrust",
+      "name": "Braintrust",
+      "url": "https://www.google.com/search?q=Braintrust%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "board"
     },
     {
       "id": "co-buffer-com",
@@ -367,15 +459,6 @@
       "name": "Careers",
       "url": "https://jobs.recruitee.com/",
       "host": "jobs.recruitee.com",
-      "region": "bookmark",
-      "type": "company",
-      "source": "empresas-bookmark"
-    },
-    {
-      "id": "co-wd1-myworkdaysite-com",
-      "name": "CAREERS",
-      "url": "https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Dublin-Ireland/Software-Engineers_2002600",
-      "host": "wd1.myworkdaysite.com",
       "region": "bookmark",
       "type": "company",
       "source": "empresas-bookmark"
@@ -480,6 +563,16 @@
       "source": "empresas-bookmark"
     },
     {
+      "id": "board-codetactrecruit",
+      "name": "CodeTact Recruit",
+      "url": "https://www.google.com/search?q=CodeTact%20Recruit%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "agency"
+    },
+    {
       "id": "co-codingame-com",
       "name": "Coding Games and Programming Challenges to Code Better",
       "url": "https://www.codingame.com/start",
@@ -552,6 +645,16 @@
       "source": "empresas-bookmark"
     },
     {
+      "id": "board-crossover",
+      "name": "Crossover",
+      "url": "https://www.google.com/search?q=Crossover%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "board"
+    },
+    {
       "id": "co-crowd-br-com",
       "name": "Crowd",
       "url": "https://crowd.br.com/",
@@ -559,6 +662,17 @@
       "type": "board",
       "host": "crowd.br.com",
       "source": "curated"
+    },
+    {
+      "id": "co-wd-csgi-csgcareers",
+      "name": "csgi",
+      "url": "https://csgi.wd5.myworkdayjobs.com/CSGCareers",
+      "host": "csgi.wd5.myworkdayjobs.com",
+      "region": "worldwide",
+      "type": "company",
+      "source": "discovered-ats",
+      "searchUrl": "https://csgi.wd5.myworkdayjobs.com/CSGCareers",
+      "note": "Workday csgi/CSGCareers"
     },
     {
       "id": "co-github-com",
@@ -606,6 +720,16 @@
       "source": "empresas-bookmark"
     },
     {
+      "id": "board-dailyremote",
+      "name": "DailyRemote",
+      "url": "https://www.google.com/search?q=DailyRemote%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "board"
+    },
+    {
       "id": "co-agileandart-com",
       "name": "DDD",
       "url": "http://www.agileandart.com/2010/07/16/ddd-introducao-a-domain-driven-design/",
@@ -651,6 +775,16 @@
       "source": "empresas-bookmark"
     },
     {
+      "id": "board-dice",
+      "name": "Dice",
+      "url": "https://www.google.com/search?q=Dice%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "board"
+    },
+    {
       "id": "co-shawandpartners-com",
       "name": "Do you know English? We&#39;re interested in talking.",
       "url": "https://shawandpartners.com/join-shaw-and-partners/",
@@ -658,6 +792,17 @@
       "region": "bookmark",
       "type": "company",
       "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-wd-dxctechnology-dxcjobs",
+      "name": "dxctechnology",
+      "url": "https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs",
+      "host": "dxctechnology.wd1.myworkdayjobs.com",
+      "region": "worldwide",
+      "type": "company",
+      "source": "discovered-ats",
+      "searchUrl": "https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs",
+      "note": "Workday dxctechnology/DXCJobs"
     },
     {
       "id": "co-templafy-com",
@@ -676,6 +821,16 @@
       "type": "board",
       "host": "dynamitejobs.com",
       "source": "curated"
+    },
+    {
+      "id": "board-dynamitejobs",
+      "name": "Dynamite Jobs",
+      "url": "https://www.google.com/search?q=Dynamite%20Jobs%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "board"
     },
     {
       "id": "co-eduzz-com",
@@ -732,6 +887,16 @@
       "source": "empresas-bookmark"
     },
     {
+      "id": "board-entrustitconsultoriaemti",
+      "name": "Entrust it - Consultoria em TI",
+      "url": "https://www.google.com/search?q=Entrust%20it%20-%20Consultoria%20em%20TI%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "agency"
+    },
+    {
       "id": "co-envato-com",
       "name": "Envato",
       "url": "https://envato.com/about/careers",
@@ -766,6 +931,27 @@
       "region": "bookmark",
       "type": "link",
       "source": "empresas-bookmark"
+    },
+    {
+      "id": "co-jobs-ashbyhq-com",
+      "name": "EXA",
+      "url": "https://jobs.ashbyhq.com/exa",
+      "host": "jobs.ashbyhq.com",
+      "region": "latam",
+      "type": "company",
+      "source": "linkedin-seed",
+      "searchUrl": "https://jobs.ashbyhq.com/exa",
+      "note": "ATS ashby"
+    },
+    {
+      "id": "board-experis",
+      "name": "Experis",
+      "url": "https://www.google.com/search?q=Experis%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "agency"
     },
     {
       "id": "co-checkout-com",
@@ -804,6 +990,26 @@
       "source": "empresas-bookmark"
     },
     {
+      "id": "board-findjoblatam",
+      "name": "Find Job Latam",
+      "url": "https://www.google.com/search?q=Find%20Job%20Latam%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "board"
+    },
+    {
+      "id": "board-findasyncasyncremotejobs",
+      "name": "FindAsync - Async Remote Jobs",
+      "url": "https://www.google.com/search?q=FindAsync%20-%20Async%20Remote%20Jobs%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "board"
+    },
+    {
       "id": "co-fit-tecnologia-org-br",
       "name": "FIT",
       "url": "http://www.fit-tecnologia.org.br/trabalhe-conosco",
@@ -833,6 +1039,27 @@
       "source": "curated"
     },
     {
+      "id": "board-flexjobs",
+      "name": "FlexJobs",
+      "url": "https://www.google.com/search?q=FlexJobs%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "board"
+    },
+    {
+      "id": "co-wd1-myworkdaysite-com",
+      "name": "fmr",
+      "url": "https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers",
+      "host": "wd1.myworkdaysite.com",
+      "region": "worldwide",
+      "type": "company",
+      "source": "empresas-bookmark+linkedin-seed",
+      "searchUrl": "https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers",
+      "note": "Workday fmr/FidelityCareers"
+    },
+    {
       "id": "co-gpnet-com-br",
       "name": "G&amp;P",
       "url": "http://www.gpnet.com.br/mural-de-vagas",
@@ -840,6 +1067,16 @@
       "region": "bookmark",
       "type": "company",
       "source": "empresas-bookmark"
+    },
+    {
+      "id": "board-g2iinc",
+      "name": "G2i Inc.",
+      "url": "https://www.google.com/search?q=G2i%20Inc.%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "board"
     },
     {
       "id": "co-geekhunter-com-br",
@@ -851,6 +1088,16 @@
       "source": "bookmark+curated",
       "featured": false,
       "priority": 100
+    },
+    {
+      "id": "board-geekhunter",
+      "name": "GeekHunter",
+      "url": "https://www.google.com/search?q=GeekHunter%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "board"
     },
     {
       "id": "co-gft-com",
@@ -990,6 +1237,16 @@
       "priority": 100
     },
     {
+      "id": "board-harveynash",
+      "name": "Harvey Nash",
+      "url": "https://www.google.com/search?q=Harvey%20Nash%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "agency"
+    },
+    {
       "id": "co-himalayas-app",
       "name": "Himalayas",
       "url": "https://himalayas.app/",
@@ -997,6 +1254,46 @@
       "type": "board",
       "host": "himalayas.app",
       "source": "curated"
+    },
+    {
+      "id": "board-hiredremoteli",
+      "name": "Hired Remoteli",
+      "url": "https://www.google.com/search?q=Hired%20Remoteli%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "board"
+    },
+    {
+      "id": "board-hirelatam",
+      "name": "HireLATAM",
+      "url": "https://www.google.com/search?q=HireLATAM%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "board"
+    },
+    {
+      "id": "board-hiringbrazil",
+      "name": "Hiring Brazil",
+      "url": "https://www.google.com/search?q=Hiring%20Brazil%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "board"
+    },
+    {
+      "id": "board-homeofficevagasremotas",
+      "name": "Home Office - Vagas Remotas",
+      "url": "https://www.google.com/search?q=Home%20Office%20-%20Vagas%20Remotas%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "board"
     },
     {
       "id": "co-honeypot-io",
@@ -1125,6 +1422,16 @@
       "source": "empresas-bookmark"
     },
     {
+      "id": "board-indistaffingservices",
+      "name": "INDI Staffing Services",
+      "url": "https://www.google.com/search?q=INDI%20Staffing%20Services%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "agency"
+    },
+    {
       "id": "co-infojobs-com-br",
       "name": "InfoJobs",
       "url": "https://www.infojobs.com.br/",
@@ -1134,6 +1441,16 @@
       "source": "bookmark+curated",
       "featured": false,
       "priority": 100
+    },
+    {
+      "id": "board-integerconsulting",
+      "name": "Integer Consulting",
+      "url": "https://www.google.com/search?q=Integer%20Consulting%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "agency"
     },
     {
       "id": "co-intranet-deal-com-br",
@@ -1246,6 +1563,26 @@
       "priority": 100
     },
     {
+      "id": "board-jobgether",
+      "name": "Jobgether",
+      "url": "https://www.google.com/search?q=Jobgether%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "board"
+    },
+    {
+      "id": "board-jobnagringa",
+      "name": "jobnagringa",
+      "url": "https://www.google.com/search?q=jobnagringa%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "board"
+    },
+    {
       "id": "co-monster-ie",
       "name": "Jobs",
       "url": "https://www.monster.ie/",
@@ -1282,15 +1619,6 @@
       "source": "empresas-bookmark"
     },
     {
-      "id": "co-boards-greenhouse-io",
-      "name": "Jobs at Nubank",
-      "url": "https://boards.greenhouse.io/nubank",
-      "host": "boards.greenhouse.io",
-      "region": "bookmark",
-      "type": "company",
-      "source": "empresas-bookmark"
-    },
-    {
       "id": "co-de-jooble-org",
       "name": "Jobs in Deutschland",
       "url": "https://de.jooble.org/",
@@ -1309,6 +1637,16 @@
       "source": "curated"
     },
     {
+      "id": "board-jooble",
+      "name": "Jooble",
+      "url": "https://www.google.com/search?q=Jooble%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "board"
+    },
+    {
       "id": "co-elementinsuranceag-recruitee-com",
       "name": "Karrieren",
       "url": "https://elementinsuranceag.recruitee.com/#section-70671",
@@ -1316,6 +1654,16 @@
       "region": "bookmark",
       "type": "company",
       "source": "empresas-bookmark"
+    },
+    {
+      "id": "board-kforceinc",
+      "name": "Kforce Inc",
+      "url": "https://www.google.com/search?q=Kforce%20Inc%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "agency"
     },
     {
       "id": "co-klarna-com",
@@ -1345,6 +1693,26 @@
       "source": "empresas-bookmark"
     },
     {
+      "id": "board-landingjobs",
+      "name": "Landing.Jobs",
+      "url": "https://www.google.com/search?q=Landing.Jobs%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "board"
+    },
+    {
+      "id": "board-latamjobs",
+      "name": "LATAM Jobs",
+      "url": "https://www.google.com/search?q=LATAM%20Jobs%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "board"
+    },
+    {
       "id": "co-learngitbranching-js-org",
       "name": "Learn Git Branching",
       "url": "http://learngitbranching.js.org/?DEMO",
@@ -1352,6 +1720,16 @@
       "region": "bookmark",
       "type": "link",
       "source": "empresas-bookmark"
+    },
+    {
+      "id": "board-lemonio",
+      "name": "Lemon.io",
+      "url": "https://www.google.com/search?q=Lemon.io%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "board"
     },
     {
       "id": "co-br-linkedin-com",
@@ -1453,6 +1831,16 @@
       "source": "empresas-bookmark"
     },
     {
+      "id": "board-masglobalconsulting",
+      "name": "MAS Global Consulting",
+      "url": "https://www.google.com/search?q=MAS%20Global%20Consulting%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "agency"
+    },
+    {
       "id": "co-meuhome-com-br",
       "name": "MeuHome",
       "url": "https://www.meuhome.com.br/",
@@ -1462,6 +1850,16 @@
       "source": "curated"
     },
     {
+      "id": "board-monster",
+      "name": "Monster",
+      "url": "https://www.google.com/search?q=Monster%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "board"
+    },
+    {
       "id": "co-brasileiraspelomundo-com",
       "name": "Morar legalmente através de trabalho e estudo na Alemanha",
       "url": "https://www.brasileiraspelomundo.com/morar-legalmente-atraves-de-trabalho-e-estudo-na-alemanha-311515569",
@@ -1469,6 +1867,16 @@
       "region": "bookmark",
       "type": "link",
       "source": "empresas-bookmark"
+    },
+    {
+      "id": "board-motionrecruitment",
+      "name": "Motion Recruitment",
+      "url": "https://www.google.com/search?q=Motion%20Recruitment%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "agency"
     },
     {
       "id": "co-n26-com",
@@ -1489,6 +1897,16 @@
       "source": "empresas-bookmark"
     },
     {
+      "id": "board-nerdinvagasdeti",
+      "name": "Nerdin Vagas de TI",
+      "url": "https://www.google.com/search?q=Nerdin%20Vagas%20de%20TI%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "board"
+    },
+    {
       "id": "co-glassdoor-com",
       "name": "NET Denmark Jobs",
       "url": "https://www.glassdoor.com/Job/jobs.htm?suggestCount=0&suggestChosen=false&clickSource=searchBtn&typedKeyword=.net&sc.keyword=.net&locT=N&locId=63&jobType=",
@@ -1496,6 +1914,37 @@
       "region": "bookmark",
       "type": "company",
       "source": "empresas-bookmark"
+    },
+    {
+      "id": "board-nigelfrankinternational",
+      "name": "Nigel Frank International",
+      "url": "https://www.google.com/search?q=Nigel%20Frank%20International%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "agency"
+    },
+    {
+      "id": "co-boards-greenhouse-io",
+      "name": "Nortal",
+      "url": "https://boards.greenhouse.io/nortal",
+      "host": "boards.greenhouse.io",
+      "region": "latam",
+      "type": "company",
+      "source": "empresas-bookmark+linkedin-seed",
+      "searchUrl": "https://boards.greenhouse.io/nortal",
+      "note": "ATS greenhouse"
+    },
+    {
+      "id": "board-ontop",
+      "name": "Ontop",
+      "url": "https://www.google.com/search?q=Ontop%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "board"
     },
     {
       "id": "co-robertwalters-com-br",
@@ -1570,6 +2019,27 @@
       "source": "empresas-bookmark"
     },
     {
+      "id": "co-planet-wd3-myworkdayjobs-com",
+      "name": "planet",
+      "url": "https://planet.wd3.myworkdayjobs.com/Planet",
+      "host": "planet.wd3.myworkdayjobs.com",
+      "region": "worldwide",
+      "type": "company",
+      "source": "empresas-bookmark+linkedin-seed",
+      "searchUrl": "https://planet.wd3.myworkdayjobs.com/Planet",
+      "note": "Workday planet/Planet"
+    },
+    {
+      "id": "board-powertofly",
+      "name": "PowerToFly",
+      "url": "https://www.google.com/search?q=PowerToFly%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "board"
+    },
+    {
       "id": "co-prediktive-com",
       "name": "Prediktive",
       "url": "https://www.prediktive.com/",
@@ -1608,6 +2078,16 @@
       "source": "empresas-bookmark"
     },
     {
+      "id": "board-proxify",
+      "name": "Proxify",
+      "url": "https://www.google.com/search?q=Proxify%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "board"
+    },
+    {
       "id": "co-ltm-dts0nz1",
       "name": "QA NewAccount Credit Points",
       "url": "http://ltm-dts0nz1/Reports_MSSQLSERVER2016/report/SSRS_ProjectPremiacao/QA%20NewAccount%20Credit%20Points",
@@ -1615,6 +2095,26 @@
       "region": "bookmark",
       "type": "link",
       "source": "empresas-bookmark"
+    },
+    {
+      "id": "board-querohomevagashomeoffice",
+      "name": "Quero Home - Vagas Home Office",
+      "url": "https://www.google.com/search?q=Quero%20Home%20-%20Vagas%20Home%20Office%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "board"
+    },
+    {
+      "id": "board-randstaddigitaltorc",
+      "name": "Randstad Digital | Torc",
+      "url": "https://www.google.com/search?q=Randstad%20Digital%20%7C%20Torc%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "agency"
     },
     {
       "id": "co-iamexpat-nl",
@@ -1635,6 +2135,16 @@
       "source": "bookmark+curated",
       "featured": false,
       "priority": 100
+    },
+    {
+      "id": "board-remote",
+      "name": "Remote",
+      "url": "https://www.google.com/search?q=Remote%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "board"
     },
     {
       "id": "co-arc-dev",
@@ -1664,6 +2174,26 @@
       "source": "curated"
     },
     {
+      "id": "board-remotetalentlatam",
+      "name": "Remote Talent LATAM",
+      "url": "https://www.google.com/search?q=Remote%20Talent%20LATAM%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "board"
+    },
+    {
+      "id": "board-remoteworkmate",
+      "name": "Remote Workmate",
+      "url": "https://www.google.com/search?q=Remote%20Workmate%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "board"
+    },
+    {
       "id": "co-remote-com",
       "name": "Remote.com Jobs",
       "url": "https://remote.com/jobs",
@@ -1671,6 +2201,26 @@
       "type": "board",
       "host": "remote.com",
       "source": "curated"
+    },
+    {
+      "id": "board-remotedevsbr",
+      "name": "RemoteDevsBR",
+      "url": "https://www.google.com/search?q=RemoteDevsBR%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "board"
+    },
+    {
+      "id": "board-remotelyworks",
+      "name": "Remotely.works",
+      "url": "https://www.google.com/search?q=Remotely.works%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "board"
     },
     {
       "id": "co-remoters-com-br",
@@ -1691,6 +2241,27 @@
       "source": "curated"
     },
     {
+      "id": "board-remotive",
+      "name": "Remotive",
+      "url": "https://www.google.com/search?q=Remotive%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "board"
+    },
+    {
+      "id": "co-jobs-lever-co",
+      "name": "Resilient Co.",
+      "url": "https://jobs.lever.co/resilientco",
+      "host": "jobs.lever.co",
+      "region": "latam",
+      "type": "company",
+      "source": "linkedin-seed",
+      "searchUrl": "https://jobs.lever.co/resilientco",
+      "note": "ATS lever"
+    },
+    {
       "id": "co-revelo-com-br",
       "name": "Revelo",
       "url": "https://revelo.com.br/",
@@ -1698,6 +2269,36 @@
       "type": "board",
       "host": "revelo.com.br",
       "source": "curated"
+    },
+    {
+      "id": "board-revelo",
+      "name": "Revelo",
+      "url": "https://www.google.com/search?q=Revelo%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "board"
+    },
+    {
+      "id": "board-revelobrasil",
+      "name": "Revelo Brasil",
+      "url": "https://www.google.com/search?q=Revelo%20Brasil%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "board"
+    },
+    {
+      "id": "board-revelolatam",
+      "name": "Revelo LATAM",
+      "url": "https://www.google.com/search?q=Revelo%20LATAM%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "board"
     },
     {
       "id": "co-revolut-com",
@@ -1709,6 +2310,26 @@
       "source": "curated"
     },
     {
+      "id": "board-roberthalf",
+      "name": "Robert Half",
+      "url": "https://www.google.com/search?q=Robert%20Half%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "agency"
+    },
+    {
+      "id": "board-robertwalters",
+      "name": "Robert Walters",
+      "url": "https://www.google.com/search?q=Robert%20Walters%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "agency"
+    },
+    {
       "id": "co-safetyculture-com",
       "name": "SafetyCulture",
       "url": "https://safetyculture.com/careers/",
@@ -1716,15 +2337,6 @@
       "type": "company",
       "host": "safetyculture.com",
       "source": "curated"
-    },
-    {
-      "id": "co-planet-wd3-myworkdayjobs-com",
-      "name": "Search for Jobs",
-      "url": "https://planet.wd3.myworkdayjobs.com/en-US/Planet",
-      "host": "planet.wd3.myworkdayjobs.com",
-      "region": "bookmark",
-      "type": "company",
-      "source": "empresas-bookmark"
     },
     {
       "id": "co-careerbuilder-ca",
@@ -1770,6 +2382,26 @@
       "region": "bookmark",
       "type": "link",
       "source": "empresas-bookmark"
+    },
+    {
+      "id": "board-sherbornetalentsolutions",
+      "name": "Sherborne Talent Solutions",
+      "url": "https://www.google.com/search?q=Sherborne%20Talent%20Solutions%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "agency"
+    },
+    {
+      "id": "board-simplyhired",
+      "name": "SimplyHired",
+      "url": "https://www.google.com/search?q=SimplyHired%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "board"
     },
     {
       "id": "co-skipthedrive-com",
@@ -1889,6 +2521,26 @@
       "source": "empresas-bookmark"
     },
     {
+      "id": "board-strider",
+      "name": "Strider",
+      "url": "https://www.google.com/search?q=Strider%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "board"
+    },
+    {
+      "id": "board-stridertechnologies",
+      "name": "Strider Technologies",
+      "url": "https://www.google.com/search?q=Strider%20Technologies%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "board"
+    },
+    {
       "id": "co-youtube-com",
       "name": "Sunstone Talent IT Jobs in Christchurch, NZ",
       "url": "https://www.youtube.com/watch?v=cbQbR26XfBs",
@@ -1898,6 +2550,16 @@
       "source": "empresas-bookmark"
     },
     {
+      "id": "board-talentfourconsulting",
+      "name": "Talent Four Consulting",
+      "url": "https://www.google.com/search?q=Talent%20Four%20Consulting%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "agency"
+    },
+    {
       "id": "co-meta-ats-peoplenect-com",
       "name": "Talentos",
       "url": "http://meta.ats.peoplenect.com/cgi-bin/a/searchjobs.cgi",
@@ -1905,6 +2567,16 @@
       "region": "bookmark",
       "type": "company",
       "source": "empresas-bookmark"
+    },
+    {
+      "id": "board-techjobs360globalremoteandinternationaltechjobs",
+      "name": "TechJobs360 - Global Remote & International Tech Jobs",
+      "url": "https://www.google.com/search?q=TechJobs360%20-%20Global%20Remote%20%26%20International%20Tech%20Jobs%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "board"
     },
     {
       "id": "co-career-luxoft-com",
@@ -1979,6 +2651,16 @@
       "source": "empresas-bookmark"
     },
     {
+      "id": "board-tigerresourcinggroup",
+      "name": "Tiger Resourcing Group",
+      "url": "https://www.google.com/search?q=Tiger%20Resourcing%20Group%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "agency"
+    },
+    {
       "id": "co-toplanguagejobs-com",
       "name": "Top Language Jobs; Multilingual jobs &amp; Bilingual Jobs in London &amp; UK",
       "url": "https://www.toplanguagejobs.com/",
@@ -1999,6 +2681,26 @@
       "priority": 100
     },
     {
+      "id": "board-toptal",
+      "name": "Toptal",
+      "url": "https://www.google.com/search?q=Toptal%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "board"
+    },
+    {
+      "id": "board-torreai",
+      "name": "Torre.ai",
+      "url": "https://www.google.com/search?q=Torre.ai%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "board"
+    },
+    {
       "id": "co-torre-co",
       "name": "Torre.co",
       "url": "https://torre.co/",
@@ -2006,6 +2708,26 @@
       "type": "board",
       "host": "torre.co",
       "source": "curated"
+    },
+    {
+      "id": "board-trabajoenremoto",
+      "name": "Trabajo en Remoto",
+      "url": "https://www.google.com/search?q=Trabajo%20en%20Remoto%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "board"
+    },
+    {
+      "id": "board-tramparnagringa",
+      "name": "Trampar na Gringa",
+      "url": "https://www.google.com/search?q=Trampar%20na%20Gringa%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "board"
     },
     {
       "id": "co-trampos-co",
@@ -2024,6 +2746,16 @@
       "region": "bookmark",
       "type": "company",
       "source": "empresas-bookmark"
+    },
+    {
+      "id": "board-turing",
+      "name": "Turing",
+      "url": "https://www.google.com/search?q=Turing%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "board"
     },
     {
       "id": "co-ubisoft-com",
@@ -2062,6 +2794,16 @@
       "region": "bookmark",
       "type": "company",
       "source": "empresas-bookmark"
+    },
+    {
+      "id": "board-vacantesremotastrabajoremoto",
+      "name": "Vacantes Remotas: Trabajo remoto",
+      "url": "https://www.google.com/search?q=Vacantes%20Remotas%3A%20Trabajo%20remoto%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "board"
     },
     {
       "id": "co-nerdin-com-br",
@@ -2118,6 +2860,16 @@
       "source": "empresas-bookmark"
     },
     {
+      "id": "board-vagaspj",
+      "name": "Vagas PJ",
+      "url": "https://www.google.com/search?q=Vagas%20PJ%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "board"
+    },
+    {
       "id": "co-parceriasocialdeempregos-com-br",
       "name": "Vagas por WhatsApp!",
       "url": "http://parceriasocialdeempregos.com.br/vagas-por-whatsapp/",
@@ -2136,6 +2888,16 @@
       "source": "curated"
     },
     {
+      "id": "board-vagasremotas",
+      "name": "Vagas Remotas",
+      "url": "https://www.google.com/search?q=Vagas%20Remotas%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "board"
+    },
+    {
       "id": "co-verxrh-com-br",
       "name": "Verx Consulting",
       "url": "http://www.verxrh.com.br/vagas_profissional/busca/inicio.do?command=buscar",
@@ -2152,6 +2914,16 @@
       "type": "board",
       "host": "virtualvocations.com",
       "source": "curated"
+    },
+    {
+      "id": "board-vividresourcing",
+      "name": "Vivid Resourcing",
+      "url": "https://www.google.com/search?q=Vivid%20Resourcing%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "agency"
     },
     {
       "id": "co-ca-indeed-com",
@@ -2217,6 +2989,16 @@
       "source": "curated"
     },
     {
+      "id": "board-weworkremotely",
+      "name": "We Work Remotely",
+      "url": "https://www.google.com/search?q=We%20Work%20Remotely%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "board"
+    },
+    {
       "id": "co-webmail-grupoltm-com-br",
       "name": "WebMail",
       "url": "http://webmail.grupoltm.com.br/",
@@ -2242,6 +3024,26 @@
       "type": "board",
       "host": "wellfound.com",
       "source": "curated"
+    },
+    {
+      "id": "board-wellfound",
+      "name": "Wellfound",
+      "url": "https://www.google.com/search?q=Wellfound%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "board"
+    },
+    {
+      "id": "board-weremoto",
+      "name": "WeRemoto",
+      "url": "https://www.google.com/search?q=WeRemoto%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "board"
     },
     {
       "id": "co-wise-com",
@@ -2271,6 +3073,16 @@
       "source": "curated"
     },
     {
+      "id": "board-workingnomads",
+      "name": "Working Nomads",
+      "url": "https://www.google.com/search?q=Working%20Nomads%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "board"
+    },
+    {
       "id": "co-reddit-com",
       "name": "working/findingajob",
       "url": "https://www.reddit.com/r/Germany/wiki/working/findingajob",
@@ -2287,6 +3099,16 @@
       "region": "bookmark",
       "type": "link",
       "source": "empresas-bookmark"
+    },
+    {
+      "id": "board-xteam",
+      "name": "X-Team",
+      "url": "https://www.google.com/search?q=X-Team%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "board"
     },
     {
       "id": "co-xero-com",
@@ -2314,6 +3136,16 @@
       "type": "board",
       "host": "ycombinator.com",
       "source": "curated"
+    },
+    {
+      "id": "board-yoitconsulting",
+      "name": "YO IT Consulting",
+      "url": "https://www.google.com/search?q=YO%20IT%20Consulting%20remote%20jobs",
+      "host": "www.google.com",
+      "region": "worldwide",
+      "type": "board",
+      "source": "linkedin-seed",
+      "note": "agency"
     },
     {
       "id": "co-zapier-com",

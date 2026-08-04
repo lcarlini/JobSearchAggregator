@@ -121,6 +121,15 @@ export const ATS_SAMPLES = [
     minItems: 1,
     pick: (d) => d.content || [],
   },
+  {
+    id: "workday:csgi",
+    critical: false,
+    ats: "workday",
+    kind: "workday-cxs",
+    url: "https://csgi.wd5.myworkdayjobs.com/wday/cxs/csgi/CSGCareers/jobs",
+    minItems: 1,
+    pick: (d) => d.jobPostings || [],
+  },
 ];
 
 /** RSS feeds used by fetch-rss.mjs */

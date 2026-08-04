@@ -95,7 +95,16 @@
       "type": "static",
       "url": "./data/ats-jobs.json",
       "region": "worldwide",
-      "notes": "Public ATS JSON/XML (noble-ronin pattern): Greenhouse, Lever(+EU), Ashby+comp, Workable, SmartRecruiters, Recruitee, BambooHR, Personio, Breezy. Slugs merged from hire-signal + LATAM curated."
+      "notes": "Public ATS JSON/XML: Greenhouse, Lever(+EU), Ashby, Workable, SmartRecruiters, Recruitee, BambooHR, Personio, Breezy, Workday CXS. Slugs from hire-signal + LATAM + discovery."
+    },
+    {
+      "id": "workday",
+      "name": "Workday Careers (CXS)",
+      "type": "static",
+      "url": "https://www.workday.com/",
+      "api": "POST https://{host}/wday/cxs/{tenant}/{site}/jobs",
+      "region": "worldwide",
+      "notes": "Public career-site JSON (CSG, DXC, Planet, Fidelity…). Needs host+tenant+site — never guess from company name alone."
     },
     {
       "id": "linkedin",

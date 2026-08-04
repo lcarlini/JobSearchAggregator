@@ -41,7 +41,68 @@ export async function fetchText(url, { timeoutMs = 15000, method = "GET" } = {})
   }
 }
 
+export async function checkWorkdayCxs(src) {
+  const ctrl = new AbortController();
+  const t = setTimeout(() => ctrl.abort(), src.timeoutMs || 20000);
+  const started = Date.now();
+  try {
+    const res = await fetch(src.url, {
+      method: "POST",
+      signal: ctrl.signal,
+      headers: {
+        Accept: "application/json",
+        "Content-Type": "application/json",
+        "User-Agent": UA,
+      },
+      body: JSON.stringify({ appliedFacets: {}, limit: 20, offset: 0, searchText: "" }),
+    });
+    const ms = Date.now() - started;
+    if (!res.ok) {
+      return {
+        id: src.id,
+        critical: !!src.critical,
+        kind: "workday-cxs",
+        ok: false,
+        status: res.status,
+        ms,
+        error: `HTTP ${res.status}`,
+        count: 0,
+      };
+    }
+    const data = await res.json();
+    const items = typeof src.pick === "function" ? src.pick(data) : data.jobPostings || [];
+    const min = src.minItems ?? 1;
+    const ok = Array.isArray(items) && items.length >= min;
+    return {
+      id: src.id,
+      critical: !!src.critical,
+      kind: "workday-cxs",
+      ok,
+      status: res.status,
+      ms,
+      count: Array.isArray(items) ? items.length : 0,
+      error: ok ? null : `expected ≥${min} items, got ${Array.isArray(items) ? items.length : 0}`,
+    };
+  } catch (e) {
+    return {
+      id: src.id,
+      critical: !!src.critical,
+      kind: "workday-cxs",
+      ok: false,
+      status: 0,
+      ms: Date.now() - started,
+      error: e.name === "AbortError" ? "timeout" : e.message,
+      count: 0,
+    };
+  } finally {
+    clearTimeout(t);
+  }
+}
+
 export async function checkJsonSource(src) {
+  if (src.kind === "workday-cxs" || src.ats === "workday") {
+    return checkWorkdayCxs(src);
+  }
   const hit = await fetchText(src.url, { timeoutMs: src.timeoutMs || 20000 });
   if (!hit.ok) {
     return {

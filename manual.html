@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="Importação manual LinkedIn / Indeed / Glassdoor via script no console."
+    />
+    <title>Import manual — JobSearchAggregator</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600;9..40,700&family=Syne:wght@700;800&family=IBM+Plex+Mono:wght@400;500&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./assets/css/styles.css?v=manual1" />
+  </head>
+  <body>
+    <div class="wrap wrap-wide">
+      <header class="topbar">
+        <a class="brand" href="./index.html">
+          <span class="brand-mark" aria-hidden="true"></span>
+          <span>JobSearchAggregator</span>
+        </a>
+        <nav class="top-nav">
+          <a href="./index.html" data-i18n="navSearch">Busca</a>
+          <a href="./manual.html" aria-current="page" data-i18n="navManual">Import manual</a>
+          <a href="./fontes.html" data-i18n="navFontes">Fontes</a>
+          <a href="./hacks.html" data-i18n="navHacks">Hacks</a>
+          <a href="./empresas.html" data-i18n="navEmpresas">Empresas</a>
+          <div class="lang-switch" role="group">
+            <button type="button" data-lang="pt" class="active">PT</button>
+            <button type="button" data-lang="en">EN</button>
+          </div>
+        </nav>
+      </header>
+
+      <section class="hero hero-compact">
+        <h1 data-i18n="manualTitle">Import manual</h1>
+        <p class="hero-lead" data-i18n="manualLead">
+          LinkedIn, Indeed e Glassdoor não têm API pública. Gere um script, rode no console do
+          navegador (sua sessão), baixe o JSON e envie aqui — resultados na mesma tabela.
+        </p>
+      </section>
+
+      <section class="panel manual-warn" role="note">
+        <strong data-i18n="manualWarnTitle">Uso pessoal · sua sessão</strong>
+        <p data-i18n="manualWarnBody">
+          O script roda só no seu browser, logado na sua conta. Não enviamos dados a servidores
+          nossos. Respeite os termos de uso dos sites e evite volumes abusivos.
+        </p>
+      </section>
+
+      <section class="panel">
+        <h2 class="manual-step-title"><span class="manual-step">1</span> <span data-i18n="manualStep1">Board + filtros</span></h2>
+        <form id="manual-form" class="manual-form">
+          <div class="manual-boards" id="manual-boards" role="radiogroup" aria-label="Board">
+            <label class="manual-board active">
+              <input type="radio" name="board" value="linkedin" checked />
+              <span>LinkedIn</span>
+            </label>
+            <label class="manual-board">
+              <input type="radio" name="board" value="indeed" />
+              <span>Indeed</span>
+            </label>
+            <label class="manual-board">
+              <input type="radio" name="board" value="glassdoor" />
+              <span>Glassdoor</span>
+            </label>
+          </div>
+
+          <div class="search-row">
+            <input
+              id="keywords"
+              name="keywords"
+              class="search-input"
+              data-i18n-placeholder="keywordsPh"
+              placeholder=".NET, React, DevOps…"
+              autocomplete="off"
+            />
+          </div>
+
+          <div class="filter-row">
+            <span class="filter-row-label" data-i18n="geo">Mercados</span>
+            <div class="market-presets multi-chips" id="market-presets" role="group">
+              <button type="button" class="chip-btn active" data-multi="geo" data-value="latam">LATAM</button>
+              <button type="button" class="chip-btn" data-multi="geo" data-value="brazil" data-i18n="marketBrazil">Brasil</button>
+              <button type="button" class="chip-btn" data-multi="geo" data-value="us" data-i18n="marketUs">EUA</button>
+              <button type="button" class="chip-btn" data-multi="geo" data-value="europe" data-i18n="marketEurope">Europa</button>
+              <button type="button" class="chip-btn" data-multi="geo" data-value="uk" data-i18n="marketUk">UK</button>
+              <button type="button" class="chip-btn" data-multi="geo" data-value="canada" data-i18n="marketCanada">Canadá</button>
+              <button type="button" class="chip-btn" data-multi="geo" data-value="worldwide" data-i18n="marketWorldwide">Global</button>
+            </div>
+            <input type="hidden" name="geo" id="geo" value="latam" />
+          </div>
+
+          <div class="quick-filters">
+            <select id="recency" name="recency" aria-label="Recency">
+              <option value="2h" data-i18n="recency2h">2h</option>
+              <option value="8h" data-i18n="recency8h">8h</option>
+              <option value="24h" selected data-i18n="recency24h">24h</option>
+              <option value="3d" data-i18n="recency3d">3d</option>
+              <option value="7d" data-i18n="recency7d">7d</option>
+              <option value="14d" data-i18n="recency14d">14d</option>
+              <option value="30d" data-i18n="recency30d">30d</option>
+              <option value="any" data-i18n="recencyAny">Qualquer</option>
+            </select>
+
+            <div class="multi-chips" id="workplace-chips" role="group">
+              <button type="button" class="chip-btn active" data-multi="workplace" data-value="remote" data-i18n="workplaceRemote">Remoto</button>
+              <button type="button" class="chip-btn" data-multi="workplace" data-value="hybrid" data-i18n="workplaceHybrid">Híbrido</button>
+              <button type="button" class="chip-btn" data-multi="workplace" data-value="onsite" data-i18n="workplaceOnsite">Presencial</button>
+            </div>
+            <input type="hidden" name="workplace" id="workplace" value="remote" />
+
+            <div class="multi-chips" id="seniority-chips" role="group">
+              <button type="button" class="chip-btn" data-multi="seniority" data-value="mid" data-i18n="senMid">Pleno</button>
+              <button type="button" class="chip-btn active" data-multi="seniority" data-value="senior" data-i18n="senSeniorOnly">Sênior</button>
+              <button type="button" class="chip-btn" data-multi="seniority" data-value="lead" data-i18n="senLead">Lead</button>
+              <button type="button" class="chip-btn" data-multi="seniority" data-value="senior+" data-i18n="senSenior">Senior+</button>
+            </div>
+            <input type="hidden" name="seniority" id="seniority" value="senior" />
+
+            <div class="multi-chips" id="jobType-chips" role="group">
+              <button type="button" class="chip-btn" data-multi="jobType" data-value="full-time" data-i18n="typeFull">Full-time</button>
+              <button type="button" class="chip-btn" data-multi="jobType" data-value="freelance" data-i18n="typeFreelance">Contract</button>
+            </div>
+            <input type="hidden" name="jobType" id="jobType" value="any" />
+
+            <label class="field inline-field">
+              <span data-i18n="manualMaxJobs">Máx. vagas</span>
+              <input type="number" id="maxJobs" name="maxJobs" min="20" max="300" value="120" />
+            </label>
+          </div>
+
+          <div class="filters-grid" style="margin-top: 0.75rem">
+            <div class="field">
+              <label for="titleInclude" data-i18n="titleInclude">Título inclui</label>
+              <input id="titleInclude" name="titleInclude" placeholder=".NET, C#" />
+            </div>
+            <div class="field">
+              <label for="titleExclude" data-i18n="titleExclude">Título exclui</label>
+              <input id="titleExclude" name="titleExclude" placeholder="junior, estágio" />
+            </div>
+            <div class="field">
+              <label for="skillsMust" data-i18n="skillsMust">Skills obrigatórias</label>
+              <input id="skillsMust" name="skillsMust" placeholder="Azure, SQL" />
+            </div>
+            <div class="field">
+              <label for="company" data-i18n="company">Empresa</label>
+              <input id="company" name="company" placeholder="opcional" />
+            </div>
+          </div>
+        </form>
+      </section>
+
+      <section class="panel">
+        <h2 class="manual-step-title"><span class="manual-step">2</span> <span data-i18n="manualStep2">Gerar script do console</span></h2>
+        <p class="manual-hint" data-i18n="manualStep2Hint">
+          Abra a URL no board → F12 → Console → cole o script → Enter. O JSON baixa sozinho.
+        </p>
+        <div class="manual-actions">
+          <button type="button" class="btn btn-primary" id="btn-generate" data-i18n="manualGenerate">
+            Gerar script
+          </button>
+          <a class="btn btn-ghost" id="btn-open-search" href="#" target="_blank" rel="noopener" data-i18n="manualOpenSearch">
+            Abrir busca no board
+          </a>
+          <button type="button" class="btn btn-ghost" id="btn-copy-script" data-i18n="manualCopyScript" disabled>
+            Copiar script
+          </button>
+        </div>
+        <label class="manual-script-label" for="script-out">
+          <span data-i18n="manualScriptLabel">Script JavaScript</span>
+          <span class="manual-script-meta" id="script-meta"></span>
+        </label>
+        <textarea id="script-out" class="manual-script" readonly spellcheck="false" rows="14" placeholder="// Gere o script acima"></textarea>
+        <ol class="manual-howto">
+          <li data-i18n="manualHow1">Clique “Abrir busca no board” (faça login se pedir).</li>
+          <li data-i18n="manualHow2">F12 → aba Console → cole o script → Enter.</li>
+          <li data-i18n="manualHow3">Espere o toast “arquivo baixado” e volte aqui para o upload.</li>
+        </ol>
+      </section>
+
+      <section class="panel">
+        <h2 class="manual-step-title"><span class="manual-step">3</span> <span data-i18n="manualStep3">Upload do JSON</span></h2>
+        <div class="manual-upload" id="upload-zone">
+          <input type="file" id="file-input" accept="application/json,.json" hidden />
+          <p data-i18n="manualDropHint">Arraste o arquivo jsa-*.json ou clique para escolher</p>
+          <button type="button" class="btn btn-primary" id="btn-pick-file" data-i18n="manualPickFile">
+            Escolher arquivo
+          </button>
+        </div>
+        <p class="manual-upload-status" id="upload-status" hidden></p>
+      </section>
+
+      <section class="panel results-panel" id="results-panel">
+        <div class="results-head">
+          <div class="results-title-block">
+            <h2 data-i18n="results">Resultados</h2>
+            <p class="results-summary" id="results-summary" hidden></p>
+          </div>
+          <div class="results-actions">
+            <button type="button" class="btn btn-small btn-ghost" id="btn-export-csv" data-i18n="exportCsv" disabled>
+              Exportar CSV
+            </button>
+            <button type="button" class="btn btn-small btn-ghost" id="btn-clear-import" data-i18n="manualClear" disabled>
+              Limpar import
+            </button>
+          </div>
+        </div>
+        <div class="stats-bar" id="stats-bar" hidden>
+          <div class="stat"><strong id="stat-total">0</strong><span data-i18n="statJobs">encontradas</span></div>
+          <div class="stat"><strong id="stat-source">—</strong><span data-i18n="colSource">fonte</span></div>
+          <div class="stat"><strong id="stat-showing">0</strong><span data-i18n="statShowing">nesta página</span></div>
+        </div>
+        <div class="results-table-wrap" id="job-list">
+          <div class="empty" data-i18n="manualEmpty">
+            Gere o script, exporte o JSON no board e faça o upload aqui.
+          </div>
+        </div>
+        <div class="pagination-wrap" id="pagination-wrap" hidden>
+          <div class="pagination-meta" id="pagination-meta"></div>
+          <nav class="pagination" id="pagination" aria-label="Pagination"></nav>
+        </div>
+      </section>
+
+      <footer>
+        <p>
+          <a href="./index.html" data-i18n="navSearch">Busca</a>
+          ·
+          <a href="./fontes.html" data-i18n="navFontes">Fontes</a>
+          ·
+          <span data-i18n="manualFooter">Engine console → JSON → tabela local.</span>
+        </p>
+      </footer>
+    </div>
+
+    <div class="job-modal" id="job-modal" hidden>
+      <div class="job-modal-backdrop" id="job-modal-backdrop" tabindex="-1"></div>
+      <div class="job-modal-panel" role="dialog" aria-modal="true" aria-labelledby="drawer-title" id="job-drawer">
+        <div class="drawer-head">
+          <h3 id="drawer-title">—</h3>
+          <button type="button" class="btn btn-small btn-ghost" id="drawer-close" aria-label="Close">✕</button>
+        </div>
+        <div class="drawer-meta" id="drawer-meta"></div>
+        <div class="drawer-match" id="drawer-match" hidden></div>
+        <div class="drawer-actions" id="drawer-actions"></div>
+        <div class="drawer-status" id="drawer-status" hidden></div>
+        <div class="drawer-body" id="drawer-body"></div>
+      </div>
+    </div>
+
+    <script type="module" src="./assets/js/manual-import-page.js?v=manual1"></script>
+  </body>
+</html>
