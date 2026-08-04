@@ -26,6 +26,7 @@
 
 html {
   scroll-behavior: smooth;
+  color-scheme: dark;
 }
 
 body {
@@ -212,9 +213,19 @@ a:hover {
 .toolbar-sort select {
   border: 1px solid var(--line);
   border-radius: 8px;
-  background: rgba(0, 0, 0, 0.2);
-  color: var(--ink);
+  background: #121c2e;
+  color: #e8eef8;
   padding: 0.35rem 0.5rem;
+  color-scheme: dark;
+}
+
+.toolbar-sort select option,
+.quick-filters select option,
+.field select option,
+.page-size select option,
+select option {
+  background-color: #121c2e;
+  color: #e8eef8;
 }
 
 .toolbar-actions {
@@ -479,11 +490,12 @@ body.modal-open {
   width: 100%;
   border: 1px solid var(--line);
   border-radius: 12px;
-  background: rgba(8, 14, 24, 0.55);
-  color: var(--ink);
+  background: rgba(8, 14, 24, 0.9);
+  color: #e8eef8;
   font: inherit;
   padding: 0.75rem 0.9rem;
   outline: none;
+  color-scheme: dark;
 }
 
 .search-input:focus,
@@ -1273,15 +1285,18 @@ body.modal-open {
 .table-scroll {
   width: 100%;
   overflow-x: auto;
+  overflow-y: visible;
   border: 1px solid var(--line);
   border-radius: 12px;
   background: rgba(0, 0, 0, 0.14);
+  -webkit-overflow-scrolling: touch;
 }
 
 .jobs-table {
-  width: 100%;
-  border-collapse: collapse;
-  min-width: 920px;
+  width: max-content;
+  min-width: max(100%, 1080px);
+  border-collapse: separate;
+  border-spacing: 0;
   font-size: 0.86rem;
 }
 
@@ -1372,9 +1387,31 @@ body.modal-open {
   color: var(--muted);
 }
 
-.col-actions {
-  width: 1%;
+.col-actions,
+.jobs-table thead th:last-child,
+.jobs-table tbody td.col-actions {
+  width: 7.75rem;
+  min-width: 7.75rem;
+  max-width: 8.5rem;
   white-space: nowrap;
+  position: sticky;
+  right: 0;
+  z-index: 2;
+  box-shadow: -10px 0 14px rgba(0, 0, 0, 0.28);
+  padding-right: 0.85rem;
+}
+
+.jobs-table thead th:last-child {
+  background: rgba(8, 14, 24, 0.98);
+  z-index: 3;
+}
+
+.jobs-table tbody td.col-actions {
+  background: rgba(10, 16, 28, 0.97);
+}
+
+.jobs-table tbody tr:hover td.col-actions {
+  background: rgba(14, 24, 40, 0.98);
 }
 
 .badge {
@@ -1417,7 +1454,17 @@ body.modal-open {
   display: flex;
   flex-direction: column;
   gap: 0.3rem;
-  min-width: 96px;
+  min-width: 6.75rem;
+  width: 100%;
+}
+
+.job-actions .btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  white-space: nowrap;
+  box-sizing: border-box;
 }
 
 .empty {
@@ -1491,10 +1538,11 @@ body.modal-open {
 }
 
 .page-size select {
+  color-scheme: dark;
   border: 1px solid var(--line);
   border-radius: 8px;
-  background: rgba(0, 0, 0, 0.2);
-  color: var(--ink);
+  background: #121c2e;
+  color: #e8eef8;
   padding: 0.3rem 0.45rem;
 }
 
@@ -1747,11 +1795,12 @@ footer {
     grid-template-columns: 1fr;
   }
   .jobs-table {
-    min-width: 780px;
+    min-width: max(100%, 960px);
   }
-  .job-actions {
-    flex-direction: row;
-    flex-wrap: wrap;
+  .col-actions,
+  .jobs-table thead th:last-child,
+  .jobs-table tbody td.col-actions {
+    min-width: 7.25rem;
   }
   .pagination-wrap {
     flex-direction: column;
