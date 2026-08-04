@@ -12,6 +12,7 @@ import { normalizeStaticAts } from "../assets/js/sources/static-ats.js";
 import { normalizeApinfo } from "../assets/js/sources/apinfo.js";
 import { normalizeHimalayas } from "../assets/js/sources/himalayas.js";
 import { normalizeTheMuse } from "../assets/js/sources/themuse.js";
+import { normalizeWeWorkRemotely } from "../assets/js/sources/weworkremotely.js";
 import { buildDeepLinks } from "../assets/js/sources/deeplinks.js";
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
@@ -23,7 +24,10 @@ const load = (rel) => {
 describe("search engine coverage", () => {
   const ats = normalizeStaticAts(load("data/ats-jobs.json"));
   const apinfo = normalizeApinfo(load("data/apinfo-jobs.json"));
-  const pool = dedupeJobs([...ats, ...apinfo]);
+  const hima = normalizeHimalayas(load("data/himalayas-jobs.json"));
+  const muse = normalizeTheMuse(load("data/themuse-jobs.json"));
+  const wwr = normalizeWeWorkRemotely(load("data/weworkremotely-jobs.json"));
+  const pool = dedupeJobs([...ats, ...apinfo, ...hima, ...muse, ...wwr]);
 
   it("registers all expected adapters including ApInfo", () => {
     const ids = ADAPTERS.map((a) => a.id);
@@ -97,7 +101,11 @@ describe("search engine coverage", () => {
     const out = applyFilters(pool, hacked.filters);
     const sources = new Set(out.map((j) => j.source));
     assert.ok(out.length >= 10, `brazil soft too empty: ${out.length}`);
-    assert.ok(sources.size >= 2, `expected >1 source, got ${[...sources].join(",")}`);
+    assert.ok(sources.size >= 3, `expected ≥3 sources, got ${[...sources].join(",")}`);
+    assert.ok(
+      [...sources].some((s) => s !== "apinfo"),
+      "must not be ApInfo-only"
+    );
     assert.ok(
       hacked.external.some((e) => /linkedin/i.test(e.id + e.name)),
       "LinkedIn must be in external boards"

@@ -30,8 +30,21 @@ export function computeMatchScore(job, filters = {}) {
     return { score: Math.min(99, soft), hits: [], total: 0 };
   }
 
-  const hits = uniq.filter((term) => blob.includes(term));
-  let score = Math.round((hits.length / uniq.length) * 100);
+  const title = `${job.title || ""}`.toLowerCase();
+  const hits = [];
+  let weighted = 0;
+  let max = 0;
+  for (const term of uniq) {
+    max += title.includes(term) ? 2 : 1;
+    if (title.includes(term)) {
+      hits.push(term);
+      weighted += 2;
+    } else if (blob.includes(term)) {
+      hits.push(term);
+      weighted += 1;
+    }
+  }
+  let score = max ? Math.round((weighted / max) * 100) : 40;
 
   // Soft bonuses inspired by LinkedIn "top applicant" signals
   if (job.workplace === "remote" && String(filters.workplace || "").includes("remote")) score += 4;
@@ -40,6 +53,9 @@ export function computeMatchScore(job, filters = {}) {
   }
   if (job.salary) score += 3;
   if (job.postedAt && Date.now() - job.postedAt < 48 * 3600 * 1000) score += 3;
+  const src = String(job.source || "").toLowerCase();
+  if (src === "static-ats" || src === "ashby") score += 3;
+  else if (src === "apinfo" && !hits.some((h) => title.includes(h))) score -= 4;
 
   return {
     score: Math.max(0, Math.min(100, score)),

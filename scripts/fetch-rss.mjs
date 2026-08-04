@@ -32,6 +32,16 @@ const FEEDS = [
     category: "product",
     url: "https://weworkremotely.com/categories/remote-product-jobs.rss",
   },
+  {
+    source: "weworkremotely",
+    category: "full-stack",
+    url: "https://weworkremotely.com/categories/remote-full-stack-programming-jobs.rss",
+  },
+  {
+    source: "weworkremotely",
+    category: "management",
+    url: "https://weworkremotely.com/categories/remote-management-and-finance-jobs.rss",
+  },
 ];
 
 function decodeXml(s = "") {

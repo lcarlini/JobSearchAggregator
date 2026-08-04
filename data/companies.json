@@ -1,38 +1,43 @@
 {
-  "generatedAt": "2026-08-03T22:10:00.000Z",
-  "source": "bookmarks_8_3_26.html + curated IT boards",
+  "generatedAt": "2026-08-04T00:30:00.000Z",
+  "source": "curated IT/LATAM remote-friendly ATS boards (verified public endpoints)",
   "greenhouse": [
     "affirm",
     "airbnb",
     "airtable",
+    "asana",
     "block",
+    "brex",
     "calendly",
     "cloudflare",
     "coinbase",
+    "databricks",
     "datadog",
     "discord",
+    "dropbox",
     "duolingo",
+    "elastic",
     "figma",
     "gitlab",
     "growe",
     "gusto",
     "instacart",
     "launchpadtechnologiesinc",
-    "rdstation",
-    "remotecom",
-    "robinhood",
-    "stripe",
-    "twilio",
-    "vercel",
-    "webflow",
-    "elastic",
     "mongodb",
     "okta",
     "pagerduty",
+    "quintoandar",
+    "rdstation",
+    "remote",
+    "remotecom",
+    "robinhood",
+    "stone",
+    "stripe",
+    "twilio",
     "twitch",
-    "dropbox",
-    "asana",
-    "brex"
+    "vercel",
+    "vtex",
+    "webflow"
   ],
   "lever": [
     "Ubiminds",
@@ -48,20 +53,25 @@
   "ashby": [
     "keyrock",
     "sierra-studio",
-    "truelogic"
+    "truelogic",
+    "ramp",
+    "openai",
+    "linear",
+    "notion",
+    "benchling"
   ],
   "workable": [
-    "bandlabtechnologies",
     "codurance",
     "devpro",
     "enroute",
-    "immedis",
-    "jalasoft",
-    "paneratech-inc",
-    "qualco",
-    "shippo",
-    "xe"
+    "jalasoft"
   ],
+  "smartrecruiters": [
+    "Visa",
+    "BoschGroup",
+    "Uber"
+  ],
+  "recruitee": [],
   "latamFriendly": [
     "BairesDev",
     "Turing",
@@ -84,6 +94,13 @@
     "CI&T",
     "Accenture",
     "Ubiminds",
-    "Bluelight Consulting"
+    "Bluelight Consulting",
+    "Nubank",
+    "iFood",
+    "Hotmart",
+    "VTEX",
+    "dLocal",
+    "Stone",
+    "QuintoAndar"
   ]
 }

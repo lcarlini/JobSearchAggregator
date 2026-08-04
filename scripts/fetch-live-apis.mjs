@@ -25,23 +25,45 @@ function write(name, payload) {
   console.log(`Wrote ${payload.count ?? payload.jobs?.length ?? "?"} → data/${name}`);
 }
 
-// —— Himalayas (paginated via offset) ——
+// —— Himalayas (browse pagination + stack searches) ——
 const himalayasJobs = [];
+const himalayasSeen = new Set();
+function pushHimalayas(batch) {
+  for (const j of batch || []) {
+    const id = String(j.id || j.slug || j.guid || j.url || "");
+    if (!id || himalayasSeen.has(id)) continue;
+    himalayasSeen.add(id);
+    himalayasJobs.push(j);
+  }
+}
 try {
   let offset = 0;
-  // API caps page size around 20 even if limit=100
   const limit = 20;
-  for (let i = 0; i < 25; i++) {
+  for (let i = 0; i < 50; i++) {
     const data = await getJson(
       `https://himalayas.app/jobs/api?limit=${limit}&offset=${offset}`
     );
     const batch = data.jobs || [];
     console.log(`Himalayas offset=${offset} → ${batch.length} (total ${data.totalCount ?? "?"})`);
     if (!batch.length) break;
-    himalayasJobs.push(...batch);
+    pushHimalayas(batch);
     offset += batch.length;
     if (batch.length < limit) break;
     await new Promise((r) => setTimeout(r, 200));
+  }
+  // Targeted searches for stacks that browse feed often under-represents
+  for (const q of [".NET", "C#", "Azure", "React", "TypeScript", "DevOps", "Python"]) {
+    try {
+      const data = await getJson(
+        `https://himalayas.app/jobs/api/search?q=${encodeURIComponent(q)}&sort=recent&page=1`
+      );
+      const batch = data.jobs || data.results || [];
+      console.log(`Himalayas search "${q}" → ${batch.length}`);
+      pushHimalayas(batch);
+      await new Promise((r) => setTimeout(r, 250));
+    } catch (e) {
+      console.warn(`Himalayas search "${q}" failed:`, e.message);
+    }
   }
   write("himalayas-jobs.json", {
     generatedAt: new Date().toISOString(),

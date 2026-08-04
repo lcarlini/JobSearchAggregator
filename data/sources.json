@@ -58,9 +58,44 @@
     {
       "id": "weworkremotely",
       "name": "We Work Remotely",
-      "type": "deeplink",
+      "type": "rss",
       "url": "https://weworkremotely.com/",
-      "region": "worldwide"
+      "region": "worldwide",
+      "notes": "RSS → data/weworkremotely-jobs.json via GitHub Action"
+    },
+    {
+      "id": "apinfo",
+      "name": "ApInfo",
+      "type": "static",
+      "url": "https://www.apinfo.com/",
+      "region": "brazil",
+      "notes": "Server-side scrape → data/apinfo-jobs.json"
+    },
+    {
+      "id": "remotejobsorg",
+      "name": "RemoteJobs.org",
+      "type": "api",
+      "url": "https://remotejobs.org/",
+      "api": "https://remotejobs.org/api/v1/jobs",
+      "region": "worldwide",
+      "cors": false
+    },
+    {
+      "id": "ashby",
+      "name": "Ashby boards",
+      "type": "api",
+      "url": "https://www.ashbyhq.com/",
+      "api": "https://api.ashbyhq.com/posting-api/job-board/{slug}",
+      "region": "worldwide",
+      "cors": true
+    },
+    {
+      "id": "static-ats",
+      "name": "Company ATS cache",
+      "type": "static",
+      "url": "./data/ats-jobs.json",
+      "region": "worldwide",
+      "notes": "Greenhouse, Lever, Ashby, Workable, SmartRecruiters, Recruitee"
     },
     {
       "id": "linkedin",
@@ -68,7 +103,7 @@
       "type": "deeplink",
       "url": "https://www.linkedin.com/jobs/",
       "region": "worldwide",
-      "notes": "No public API; deep-links only"
+      "notes": "No public jobs search API; official deep-links only (no scrape)"
     },
     {
       "id": "indeed",
@@ -83,7 +118,16 @@
       "name": "Google Jobs",
       "type": "deeplink",
       "url": "https://www.google.com/search",
-      "region": "worldwide"
+      "region": "worldwide",
+      "notes": "Deep-link only"
+    },
+    {
+      "id": "glassdoor",
+      "name": "Glassdoor",
+      "type": "deeplink",
+      "url": "https://www.glassdoor.com/Job/index.htm",
+      "region": "worldwide",
+      "notes": "Deep-link only"
     },
     {
       "id": "reed",

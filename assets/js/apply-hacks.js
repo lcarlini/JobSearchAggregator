@@ -236,14 +236,13 @@ export function applySearchHacks(filters = {}) {
 export function hackScore(job, enhancedFilters, expandedKeywords = []) {
   let s = 0;
   const blob = `${job.title} ${job.company} ${job.tags?.join(" ") || ""} ${job.description}`.toLowerCase();
-
-  for (const kw of expandedKeywords) {
-    if (blob.includes(kw.toLowerCase())) s += 8;
-  }
-  // title matches weigh more (intitle: style)
   const title = (job.title || "").toLowerCase();
-  for (const kw of expandedKeywords.slice(0, 12)) {
-    if (title.includes(kw.toLowerCase())) s += 12;
+  const kws = expandedKeywords.slice(0, 16);
+
+  for (const kw of kws) {
+    const k = kw.toLowerCase();
+    if (title.includes(k)) s += 18; // intitle: style — dominate description-only hits
+    else if (blob.includes(k)) s += 6;
   }
 
   for (const term of enhancedFilters._remoteBoost || []) {
@@ -253,8 +252,21 @@ export function hackScore(job, enhancedFilters, expandedKeywords = []) {
     if (blob.includes(term)) s += 6;
   }
   if (job.geo?.latamFriendly || job.geo?.brazil) s += 15;
-  if (job.geo?.worldwide || job.remotePolicy === "anywhere") s += 8;
+  if (job.geo?.worldwide || job.remotePolicy === "anywhere" || job.remoteScope === "worldwide") {
+    s += 10;
+  }
   if (job.workplace === "remote") s += 6;
+
+  // Prefer multi-source international boards over local scrapes drowning the list
+  const src = String(job.source || "").toLowerCase();
+  if (src === "static-ats" || src === "ashby") s += 14;
+  else if (["remoteok", "remotive", "jobicy", "himalayas", "weworkremotely"].includes(src)) s += 10;
+  else if (src === "apinfo") {
+    // Keep ApInfo when title truly matches; otherwise demote so BR filter ≠ ApInfo-only tops
+    const titleHit = kws.some((kw) => title.includes(kw.toLowerCase()));
+    s += titleHit ? 4 : -8;
+  }
+
   if (job.postedAt && Date.now() - job.postedAt < 86400000) s += 20;
   else if (job.postedAt && Date.now() - job.postedAt < 7 * 86400000) s += 10;
   if (job.salaryInfo?.min) s += 5;

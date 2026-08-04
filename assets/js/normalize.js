@@ -448,8 +448,29 @@ export function makeJob(partial) {
   };
 }
 
+function jobFingerprint(job) {
+  const norm = (s) =>
+    String(s || "")
+      .toLowerCase()
+      .replace(/[^a-z0-9+#.]+/g, " ")
+      .replace(/\s+/g, " ")
+      .trim();
+  return `fp:${norm(job.title)}|${norm(job.company)}`;
+}
+
+/** Prefer international/ATS boards over local-only scrapes when fingerprints collide. */
+function sourcePriority(source) {
+  const s = String(source || "").toLowerCase();
+  if (s === "static-ats" || s === "ashby") return 3;
+  if (["remoteok", "remotive", "jobicy", "himalayas", "weworkremotely", "arbeitnow"].includes(s)) {
+    return 2;
+  }
+  if (s === "apinfo") return 0;
+  return 1;
+}
+
 export function dedupeJobs(jobs) {
-  const seen = new Set();
+  const keyToIdx = new Map();
   const out = [];
   for (const job of jobs) {
     const keys = [];
@@ -460,12 +481,28 @@ export function dedupeJobs(jobs) {
       keys.push(
         /[?&](codvaga|gh_jid)=/i.test(u) ? `url:${u}` : `url:${u.split("?")[0]}`
       );
-    } else {
-      keys.push(`tc:${job.title}|${job.company}`.toLowerCase());
     }
-    if (keys.some((k) => seen.has(k))) continue;
-    for (const k of keys) seen.add(k);
+    // Cross-source collapse: same role at same company from ATS + boards
+    keys.push(jobFingerprint(job));
+
+    let existingIdx = -1;
+    for (const k of keys) {
+      if (keyToIdx.has(k)) {
+        existingIdx = keyToIdx.get(k);
+        break;
+      }
+    }
+    if (existingIdx >= 0) {
+      const prev = out[existingIdx];
+      if (sourcePriority(job.source) > sourcePriority(prev.source)) {
+        out[existingIdx] = job;
+        for (const k of keys) keyToIdx.set(k, existingIdx);
+      }
+      continue;
+    }
+    const idx = out.length;
     out.push(job);
+    for (const k of keys) keyToIdx.set(k, idx);
   }
   return out;
 }

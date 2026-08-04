@@ -230,9 +230,9 @@ const dict = {
     external: "Buscas externas (sem scrape)",
     externalBoardsTitle: "LinkedIn · Indeed · Google · Glassdoor",
     externalBoardsHint:
-      "Estes sites NÃO entram na tabela (bloqueiam scrape/API). Os botões abaixo abrem a MESMA busca (.NET, Brasil, remoto…) na plataforma oficial.",
+      "LinkedIn/Indeed/Google não têm API pública de busca. Os cards abrem a MESMA busca com seus filtros no site oficial (sem scrape).",
     externalNoApiWarn:
-      "A lista abaixo = só APIs públicas (RemoteOK, ApInfo, ATS…). Para LinkedIn/Indeed/Google clique nos cards verdes — é lá que estão as milhares de vagas.",
+      "Tabela = APIs públicas + boards ATS (Greenhouse/Lever/Ashby/Workable…). LinkedIn/Indeed/Google = clique nos cards — cobertura sustentável e legal.",
     externalClickOpen: "Clique para abrir →",
     openBig3: "Abrir LinkedIn + Indeed + Google",
     externalOpen: "Abrir busca com seus filtros",
@@ -263,10 +263,10 @@ const dict = {
     searchingOverlay: "Carregando resultados…",
     cacheHint: "Resultados e fontes ficam em cache local (~45 min) para não repetir downloads.",
     footerNote:
-      "LinkedIn, Indeed e Google bloqueiam scraping — usamos deep-links oficiais. APIs públicas e ATS via JSON estático.",
+      "LinkedIn/Indeed/Google: deep-links oficiais (sem scrape). Tabela: APIs públicas + ATS (Greenhouse, Lever, Ashby, Workable, SmartRecruiters, Recruitee) atualizados via GitHub Action.",
     aboutTitle: "Como funciona",
     aboutBody:
-      "Busca paralela em RemoteOK, Remotive, Arbeitnow, Jobicy, Himalayas, The Muse, Ashby e boards Greenhouse/Lever atualizados por GitHub Action. Filtros avançados de título/descrição, recência 24h, geo LATAM/UK/AU e tipo freelance vs full-time.",
+      "Busca paralela em RemoteOK, Remotive, Arbeitnow, Jobicy, Himalayas, The Muse, WWR e boards ATS (Greenhouse/Lever/Ashby/Workable/SmartRecruiters/Recruitee) via GitHub Action. LinkedIn/Indeed/Google abrem a mesma busca no site oficial — não há API pública de leitura.",
     clearSaved: "Limpar interesses",
     copyOk: "Link copiado",
     applyFilters: "Aplicar filtros",
@@ -636,9 +636,9 @@ const dict = {
     external: "External searches (no scrape)",
     externalBoardsTitle: "LinkedIn · Indeed · Google · Glassdoor",
     externalBoardsHint:
-      "These sites do NOT appear in the table (they block scrape/API). The buttons below open the SAME search (.NET, Brazil, remote…) on the official site.",
+      "LinkedIn/Indeed/Google have no public search API. Cards open the SAME filtered search on the official site (no scraping).",
     externalNoApiWarn:
-      "The job table = public APIs only (RemoteOK, ApInfo, ATS…). For LinkedIn/Indeed/Google click the green cards — that's where the thousands of listings are.",
+      "Table = public APIs + ATS boards (Greenhouse/Lever/Ashby/Workable…). LinkedIn/Indeed/Google = click the cards — legal, sustainable coverage.",
     externalClickOpen: "Click to open →",
     openBig3: "Open LinkedIn + Indeed + Google",
     externalOpen: "Open search with your filters",
@@ -669,10 +669,10 @@ const dict = {
     searchingOverlay: "Loading results…",
     cacheHint: "Results and sources are cached locally (~45 min) to avoid repeat downloads.",
     footerNote:
-      "LinkedIn, Indeed, and Google block scraping — we use official deep-links. Public APIs + ATS via static JSON.",
+      "LinkedIn/Indeed/Google: official deep-links (no scrape). Table: public APIs + ATS (Greenhouse, Lever, Ashby, Workable, SmartRecruiters, Recruitee) refreshed via GitHub Action.",
     aboutTitle: "How it works",
     aboutBody:
-      "Parallel search across RemoteOK, Remotive, Arbeitnow, Jobicy, Himalayas, The Muse, Ashby, and Greenhouse/Lever boards refreshed by GitHub Action. Advanced title/description filters, 24h recency, LATAM/UK/AU geo, freelance vs full-time.",
+      "Parallel search across RemoteOK, Remotive, Arbeitnow, Jobicy, Himalayas, The Muse, WWR, and ATS boards (Greenhouse/Lever/Ashby/Workable/SmartRecruiters/Recruitee) via GitHub Action. LinkedIn/Indeed/Google open the same search on the official site — there is no public read API.",
     clearSaved: "Clear interests",
     copyOk: "Link copied",
     applyFilters: "Apply filters",

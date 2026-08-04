@@ -427,6 +427,27 @@ export function buildDeepLinks(filters = {}) {
       "Indeed Brazil com a mesma query",
       "brazil"
     );
+    // Curated LATAM employers — official LinkedIn company job search (no scrape)
+    const latamLiCompanies = [
+      ["li-co-nubank", "LinkedIn · Nubank", "nubank"],
+      ["li-co-ifood", "LinkedIn · iFood", "ifood"],
+      ["li-co-ciandt", "LinkedIn · CI&T", "ciandt"],
+      ["li-co-globant", "LinkedIn · Globant", "globant"],
+      ["li-co-ubiminds", "LinkedIn · Ubiminds", "ubiminds"],
+      ["li-co-oowlish", "LinkedIn · Oowlish", "oowlish"],
+      ["li-co-deel", "LinkedIn · Deel", "deel"],
+      ["li-co-turing", "LinkedIn · Turing", "turing"],
+    ];
+    for (const [id, name, company] of latamLiCompanies) {
+      push(
+        links,
+        id,
+        name,
+        `https://www.linkedin.com/jobs/search/?keywords=${enc(shortQ)}&f_C=${enc(company)}&f_WT=2&sortBy=DD`,
+        "Empresa LATAM no LinkedIn (busca oficial)",
+        "brazil"
+      );
+    }
   }
 
   // Always include Canada / NZ / UAE with the same filter builder
