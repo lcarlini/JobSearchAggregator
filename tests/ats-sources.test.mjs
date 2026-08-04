@@ -6,7 +6,7 @@ import { hackScore } from "../assets/js/apply-hacks.js";
 import { buildDeepLinks } from "../assets/js/sources/deeplinks.js";
 
 describe("expanded ATS payloads", () => {
-  it("normalizes Workable / SmartRecruiters / Recruitee static rows", () => {
+  it("normalizes Workable / SmartRecruiters / Recruitee / Bamboo / Personio rows", () => {
     const jobs = normalizeStaticAts({
       jobs: [
         {
@@ -42,13 +42,39 @@ describe("expanded ATS payloads", () => {
           postedAt: new Date().toISOString(),
           tags: ["typeform", "recruitee"],
         },
+        {
+          id: "bamboohr:remote:12",
+          ats: "bamboohr",
+          title: "Platform Engineer",
+          company: "remote",
+          url: "https://remote.bamboohr.com/careers/12",
+          description: "Remote Kubernetes",
+          location: "Worldwide",
+          salary: "$120k – $160k",
+          postedAt: new Date().toISOString(),
+          tags: ["remote", "bamboohr"],
+        },
+        {
+          id: "personio:celonis:3",
+          ats: "personio",
+          title: "Software Engineer",
+          company: "celonis",
+          url: "https://celonis.jobs.personio.com/job/3",
+          description: "Java remote EMEA",
+          location: "Remote, Germany",
+          postedAt: new Date().toISOString(),
+          tags: ["celonis", "personio"],
+        },
       ],
     });
-    assert.equal(jobs.length, 3);
+    assert.equal(jobs.length, 5);
     assert.ok(jobs.every((j) => j.source === "static-ats"));
     assert.ok(jobs.some((j) => j.tags.includes("workable")));
     assert.ok(jobs.some((j) => j.tags.includes("smartrecruiters")));
     assert.ok(jobs.some((j) => j.tags.includes("recruitee")));
+    assert.ok(jobs.some((j) => j.tags.includes("bamboohr")));
+    assert.ok(jobs.some((j) => j.tags.includes("personio")));
+    assert.ok(jobs.some((j) => j.salary && j.salary.includes("120")));
   });
 
   it("dedupe prefers ATS over ApInfo for same title+company", () => {

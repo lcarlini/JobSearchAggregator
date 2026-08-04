@@ -479,7 +479,7 @@ export function buildDeepLinks(filters = {}) {
     ["vagasremotas", "Vagas Remotas", "https://vagasremotas.com.br/", "Aggregator BR"],
     ["jobatus", "Jobatus", "https://www.jobatus.com.br/", "Vagas BR"],
     ["infojobs", "InfoJobs", `https://www.infojobs.com.br/vagas-de-emprego-${enc(firstKw)}.aspx`, "Board BR"],
-    ["catho", "Catho", `https://www.catho.com.br/vagas/?q=${enc(shortQ)}`, "Board geral BR"],
+    ["catho", "Catho", `https://www.catho.com.br/vagas/empregos/${enc(firstKw)}.html`, "Board geral BR"],
     ["glassdoor-br", "Glassdoor BR", buildGlassdoorSearch({ ...filters, geo: "brazil" }), "Salários + reviews BR"],
   ];
   for (const [id, name, url, desc] of brazilBoards) {
@@ -522,7 +522,7 @@ export function buildDeepLinks(filters = {}) {
 
   const usBr = [
     ["tecla", "Tecla", "https://www.tecla.io/pt/join", "US↔LATAM engineers"],
-    ["gitlab", "GitLab", "https://about.gitlab.com/careers/", "All-remote pioneer"],
+    ["gitlab", "GitLab", "https://about.gitlab.com/jobs/", "All-remote pioneer"],
     ["automattic", "Automattic", "https://automattic.com/work-with-us/", "WordPress / remote"],
     ["zapier", "Zapier", "https://zapier.com/jobs", "Remote-first"],
     ["buffer", "Buffer", "https://buffer.com/journey", "Distributed"],

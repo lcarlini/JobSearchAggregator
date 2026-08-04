@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="Fontes do JobSearchAggregator — consulta automática vs manual."
+    />
+    <title>Fontes — JobSearchAggregator</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600;9..40,700&family=Syne:wght@700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./assets/css/styles.css?v=fontes1" />
+  </head>
+  <body>
+    <div class="wrap wrap-wide">
+      <header class="topbar">
+        <a class="brand" href="./index.html">
+          <span class="brand-mark" aria-hidden="true"></span>
+          <span>JobSearchAggregator</span>
+        </a>
+        <nav class="top-nav">
+          <a href="./index.html" data-i18n="navSearch">Busca</a>
+          <a href="./fontes.html" aria-current="page" data-i18n="navFontes">Fontes</a>
+          <a href="./hacks.html" data-i18n="navHacks">Hacks</a>
+          <a href="./empresas.html" data-i18n="navEmpresas">Empresas</a>
+          <div class="lang-switch" role="group">
+            <button type="button" data-lang="pt" class="active">PT</button>
+            <button type="button" data-lang="en">EN</button>
+          </div>
+        </nav>
+      </header>
+
+      <section class="hero hero-compact fontes-hero">
+        <h1 data-i18n="fontesTitle">Fontes</h1>
+        <p class="hero-lead" data-i18n="fontesLead">
+          O que o agregador consulta sozinho — e o que você abre manualmente.
+          Tamanho = importância (mais relevante = maior).
+        </p>
+      </section>
+
+      <section class="panel fontes-legend" aria-label="Legenda">
+        <div class="fontes-legend-item">
+          <span class="fontes-dot auto" aria-hidden="true"></span>
+          <div>
+            <strong data-i18n="fontesAutoLegend">Consulta automática</strong>
+            <p data-i18n="fontesAutoLegendHint">
+              Entram na tabela de resultados (API / RSS / ATS / cache).
+            </p>
+          </div>
+        </div>
+        <div class="fontes-legend-item">
+          <span class="fontes-dot manual" aria-hidden="true"></span>
+          <div>
+            <strong data-i18n="fontesManualLegend">Manual / deep-link</strong>
+            <p data-i18n="fontesManualLegendHint">
+              Sem ingest legal estável — abra no site oficial (cards após Buscar).
+            </p>
+          </div>
+        </div>
+        <div class="fontes-stats" id="fontes-stats" hidden>
+          <span><strong id="stat-auto-count">0</strong> <span data-i18n="fontesAutoStat">auto</span></span>
+          <span><strong id="stat-manual-count">0</strong> <span data-i18n="fontesManualStat">manual</span></span>
+          <span><strong id="stat-jobs-count">0</strong> <span data-i18n="fontesJobsStat">vagas em cache</span></span>
+        </div>
+      </section>
+
+      <section class="panel fontes-section">
+        <header class="fontes-section-head">
+          <h2 data-i18n="fontesAutoTitle">Consultamos de verdade</h2>
+          <p data-i18n="fontesAutoSub">
+            Rankeado por volume e impacto na busca. Esses dados alimentam a tabela.
+          </p>
+        </header>
+        <div class="fontes-cloud" id="fontes-auto" role="list"></div>
+      </section>
+
+      <section class="panel fontes-section fontes-section-manual">
+        <header class="fontes-section-head">
+          <h2 data-i18n="fontesManualTitle">Manual — abra você</h2>
+          <p data-i18n="fontesManualSub">
+            Rankeado por importância na busca de emprego. Não entram como linhas na tabela.
+          </p>
+        </header>
+        <div class="fontes-cloud" id="fontes-manual" role="list"></div>
+      </section>
+
+      <footer>
+        <p>
+          <a href="./index.html" data-i18n="navSearch">Busca</a>
+          ·
+          <a href="./hacks.html" data-i18n="navHacks">Hacks</a>
+          ·
+          <a href="./empresas.html" data-i18n="navEmpresas">Empresas</a>
+          ·
+          <span data-i18n="fontesFooter">Atualiza a cada fetch-jobs / GitHub Action.</span>
+        </p>
+      </footer>
+    </div>
+    <script type="module" src="./assets/js/fontes-page.js?v=fontes1"></script>
+  </body>
+</html>

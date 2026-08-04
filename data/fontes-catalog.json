@@ -1,0 +1,304 @@
+{
+  "generatedAt": "2026-08-04T01:00:00.000Z",
+  "auto": [
+    {
+      "id": "greenhouse",
+      "name": "Greenhouse ATS",
+      "mode": "auto",
+      "how": "GET boards-api.greenhouse.io — cache GitHub Action",
+      "url": "https://boards-api.greenhouse.io/",
+      "countKey": "byAts.greenhouse",
+      "weight": 100,
+      "note": "Maior volume; vagas diretas das empresas"
+    },
+    {
+      "id": "ashby",
+      "name": "Ashby ATS",
+      "mode": "auto",
+      "how": "GET api.ashbyhq.com/posting-api — live + cache",
+      "url": "https://www.ashbyhq.com/",
+      "countKey": "byAts.ashby",
+      "weight": 85,
+      "note": "Startups/AI; salary quando disponível"
+    },
+    {
+      "id": "lever",
+      "name": "Lever ATS",
+      "mode": "auto",
+      "how": "GET api.lever.co (+ EU fallback)",
+      "url": "https://www.lever.co/",
+      "countKey": "byAts.lever",
+      "weight": 72,
+      "note": "Boards LATAM/EU (Ubiminds, CI&T, Spotify…)"
+    },
+    {
+      "id": "himalayas",
+      "name": "Himalayas",
+      "mode": "auto",
+      "how": "API pública + cache Actions",
+      "url": "https://himalayas.app/jobs",
+      "countKey": "himalayas",
+      "weight": 58,
+      "note": "Remoto global com busca por stack"
+    },
+    {
+      "id": "apinfo",
+      "name": "ApInfo",
+      "mode": "auto",
+      "how": "Scrape server-side → apinfo-jobs.json",
+      "url": "https://www.apinfo.com/",
+      "countKey": "apinfo",
+      "weight": 52,
+      "note": "TI Brasil (Home Office / CLT / PJ)"
+    },
+    {
+      "id": "smartrecruiters",
+      "name": "SmartRecruiters",
+      "mode": "auto",
+      "how": "GET api.smartrecruiters.com — cache",
+      "url": "https://www.smartrecruiters.com/",
+      "countKey": "byAts.smartrecruiters",
+      "weight": 45,
+      "note": "Corporates (Visa, Bosch, Uber…)"
+    },
+    {
+      "id": "weworkremotely",
+      "name": "We Work Remotely",
+      "mode": "auto",
+      "how": "RSS → weworkremotely-jobs.json",
+      "url": "https://weworkremotely.com/",
+      "countKey": "wwr",
+      "weight": 42,
+      "note": "Programming / fullstack / devops RSS"
+    },
+    {
+      "id": "themuse",
+      "name": "The Muse",
+      "mode": "auto",
+      "how": "API pública + cache",
+      "url": "https://www.themuse.com/search/jobs",
+      "countKey": "themuse",
+      "weight": 36,
+      "note": "Software Eng / Design"
+    },
+    {
+      "id": "remotejobsorg",
+      "name": "RemoteJobs.org",
+      "mode": "auto",
+      "how": "API v1 + cache",
+      "url": "https://remotejobs.org/",
+      "countKey": "remotejobsorg",
+      "weight": 32,
+      "note": "programming / devops / data"
+    },
+    {
+      "id": "remoteok",
+      "name": "RemoteOK",
+      "mode": "auto",
+      "how": "Live GET remoteok.com/api (CORS)",
+      "url": "https://remoteok.com/",
+      "countKey": "live",
+      "liveEstimate": 100,
+      "weight": 30,
+      "note": "Consulta ao vivo no browser"
+    },
+    {
+      "id": "arbeitnow",
+      "name": "Arbeitnow",
+      "mode": "auto",
+      "how": "Live GET job-board-api (CORS)",
+      "url": "https://www.arbeitnow.com/",
+      "countKey": "live",
+      "liveEstimate": 175,
+      "weight": 28,
+      "note": "Europa / remoto — ao vivo"
+    },
+    {
+      "id": "remotive",
+      "name": "Remotive",
+      "mode": "auto",
+      "how": "Live GET remotive.com/api (CORS)",
+      "url": "https://remotive.com/",
+      "countKey": "live",
+      "liveEstimate": 80,
+      "weight": 26,
+      "note": "software-dev + buscas multi"
+    },
+    {
+      "id": "jobicy",
+      "name": "Jobicy",
+      "mode": "auto",
+      "how": "Live GET jobicy.com/api (CORS)",
+      "url": "https://jobicy.com/",
+      "countKey": "live",
+      "liveEstimate": 40,
+      "weight": 22,
+      "note": "geo=brazil/latam + tags"
+    },
+    {
+      "id": "workable",
+      "name": "Workable",
+      "mode": "auto",
+      "how": "GET apply.workable.com widget — cache",
+      "url": "https://www.workable.com/",
+      "countKey": "byAts.workable",
+      "weight": 18,
+      "note": "Codurance, Jalasoft, DevPro…"
+    }
+  ],
+  "manual": [
+    {
+      "id": "linkedin",
+      "name": "LinkedIn",
+      "mode": "manual",
+      "why": "Sem API pública de busca de vagas; scrape viola ToS",
+      "url": "https://www.linkedin.com/jobs/",
+      "weight": 100,
+      "note": "Abra o card verde após Buscar — mesmos filtros"
+    },
+    {
+      "id": "indeed",
+      "name": "Indeed",
+      "mode": "manual",
+      "why": "Sem API pública; bloqueia scrape",
+      "url": "https://br.indeed.com/",
+      "weight": 90,
+      "note": "Deep-link BR / país com a query do agregador"
+    },
+    {
+      "id": "googlejobs",
+      "name": "Google Jobs",
+      "mode": "manual",
+      "why": "Só via busca Google (ibp=htl;jobs)",
+      "url": "https://www.google.com/search?ibp=htl;jobs",
+      "weight": 82,
+      "note": "Deep-link com after: e keywords"
+    },
+    {
+      "id": "glassdoor",
+      "name": "Glassdoor",
+      "mode": "manual",
+      "why": "Sem feed público estável",
+      "url": "https://www.glassdoor.com.br/",
+      "weight": 68,
+      "note": "Salários + reviews — deep-link"
+    },
+    {
+      "id": "gupy",
+      "name": "Gupy",
+      "mode": "manual",
+      "why": "Portal corporativo BR sem API aberta",
+      "url": "https://portal.gupy.io/",
+      "weight": 55,
+      "note": "Busca remota no site oficial"
+    },
+    {
+      "id": "remotar",
+      "name": "Remotar",
+      "mode": "manual",
+      "why": "Board BR sem JSON público",
+      "url": "https://remotar.com.br/",
+      "weight": 48,
+      "note": "Curadoria remoto Brasil"
+    },
+    {
+      "id": "programathor",
+      "name": "Programathor",
+      "mode": "manual",
+      "why": "Sem API",
+      "url": "https://programathor.com.br/",
+      "weight": 40,
+      "note": "TI Brasil"
+    },
+    {
+      "id": "geekhunter",
+      "name": "GeekHunter",
+      "mode": "manual",
+      "why": "Sem API",
+      "url": "https://geekhunter.com.br/",
+      "weight": 36,
+      "note": "Recruiting tech BR"
+    },
+    {
+      "id": "revelo",
+      "name": "Revelo",
+      "mode": "manual",
+      "why": "Sem API pública de vagas",
+      "url": "https://revelo.com.br/",
+      "weight": 34,
+      "note": "Talento tech BR / LATAM"
+    },
+    {
+      "id": "wellfound",
+      "name": "Wellfound",
+      "mode": "manual",
+      "why": "Sem feed público estável",
+      "url": "https://wellfound.com/jobs",
+      "weight": 32,
+      "note": "Startups / AngelList"
+    },
+    {
+      "id": "torre",
+      "name": "Torre",
+      "mode": "manual",
+      "why": "Sem ingest automático",
+      "url": "https://torre.co/",
+      "weight": 28,
+      "note": "Matching AI"
+    },
+    {
+      "id": "workana",
+      "name": "Workana",
+      "mode": "manual",
+      "why": "Marketplace freelance",
+      "url": "https://www.workana.com/",
+      "weight": 24,
+      "note": "LATAM freelance"
+    },
+    {
+      "id": "catho",
+      "name": "Catho",
+      "mode": "manual",
+      "why": "Sem API; URL instável",
+      "url": "https://www.catho.com.br/vagas/",
+      "weight": 20,
+      "note": "Board geral BR — abrir no site"
+    },
+    {
+      "id": "recruitee",
+      "name": "Recruitee",
+      "mode": "manual",
+      "why": "Endpoint público falhou nos slugs testados",
+      "url": "https://recruitee.com/",
+      "weight": 16,
+      "note": "ATS — precisa slug válido da empresa"
+    },
+    {
+      "id": "breezy",
+      "name": "Breezy HR",
+      "mode": "manual",
+      "why": "API JSON retorna 403 nestes hosts",
+      "url": "https://breezy.hr/",
+      "weight": 14,
+      "note": "Conferir careers page da empresa"
+    },
+    {
+      "id": "personio",
+      "name": "Personio",
+      "mode": "manual",
+      "why": "XML público rate-limit / slugs falharam",
+      "url": "https://www.personio.com/careers/",
+      "weight": 12,
+      "note": "EU HR tech — abrir careers"
+    },
+    {
+      "id": "bamboohr",
+      "name": "BambooHR",
+      "mode": "manual",
+      "why": "careers/list não retorna JSON nos slugs testados",
+      "url": "https://www.bamboohr.com/",
+      "weight": 10,
+      "note": "Usar página de carreiras da empresa"
+    }
+  ]
+}

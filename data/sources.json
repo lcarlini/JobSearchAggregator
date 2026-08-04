@@ -95,7 +95,7 @@
       "type": "static",
       "url": "./data/ats-jobs.json",
       "region": "worldwide",
-      "notes": "Greenhouse, Lever, Ashby, Workable, SmartRecruiters, Recruitee"
+      "notes": "Public ATS JSON/XML (noble-ronin pattern): Greenhouse, Lever(+EU), Ashby+comp, Workable, SmartRecruiters, Recruitee, BambooHR, Personio, Breezy. Slugs merged from hire-signal + LATAM curated."
     },
     {
       "id": "linkedin",

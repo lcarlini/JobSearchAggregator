@@ -23,6 +23,10 @@ export function normalizeAshby(payload, board) {
         "",
       tags: j.department ? [j.department] : [],
       jobType: j.employmentType,
+      salary:
+        j.compensation?.summary ||
+        j.compensationTierSummary ||
+        (typeof j.compensation === "string" ? j.compensation : null),
       postedAt: j.publishedAt || j.updatedAt,
       raw: j,
     })
@@ -43,10 +47,12 @@ export async function fetchJobs({ signal, boards } = {}) {
     }
   }
   list = list?.length ? list : DEFAULT_BOARDS;
+  // Browser: only a slice — full board set is in static ATS cache (GitHub Action)
+  list = list.slice(0, 24);
 
   const results = await Promise.allSettled(
     list.map(async (board) => {
-      const url = `https://api.ashbyhq.com/posting-api/job-board/${encodeURIComponent(board)}`;
+      const url = `https://api.ashbyhq.com/posting-api/job-board/${encodeURIComponent(board)}?includeCompensation=true`;
       const res = await fetch(url, { headers: { Accept: "application/json" }, signal });
       if (!res.ok) throw new Error(`${board}: HTTP ${res.status}`);
       return normalizeAshby(await res.json(), board);

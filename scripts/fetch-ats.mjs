@@ -1,7 +1,14 @@
 #!/usr/bin/env node
 /**
- * Fetch Greenhouse / Lever / Ashby / Workable / SmartRecruiters / Recruitee
- * boards into data/ats-jobs.json
+ * Fetch public ATS job boards → data/ats-jobs.json
+ *
+ * Patterns from open-source aggregators (no LinkedIn scrape):
+ * - noble-ronin/ats-job-apis — Greenhouse/Lever/Ashby/SR/Recruitee/Breezy/Bamboo/Personio
+ * - AndrewPalet/hire-signal — large verified slug lists (merged into companies.json)
+ * - Babak-hasani/company-career-scraper — ATS probe order, Lever/Greenhouse EU quirks,
+ *   SmartRecruiters false-positive guard (require ≥1 job), concurrency + User-Agent
+ * - bonus414/job-scanner — Ashby boards (pinecone/modal/posthog/sentry)
+ *
  * Usage: node scripts/fetch-ats.mjs
  */
 import fs from "node:fs";
@@ -12,6 +19,7 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const root = path.resolve(__dirname, "..");
 const companiesPath = path.join(root, "data", "companies.json");
 const outPath = path.join(root, "data", "ats-jobs.json");
+const CONCURRENCY = 8;
 
 const companies = JSON.parse(fs.readFileSync(companiesPath, "utf8"));
 
@@ -45,6 +53,7 @@ function compact(job) {
     location: job.location || "Remote",
     tags: (job.tags || []).filter(Boolean).slice(0, 8),
     jobType: job.jobType || null,
+    salary: job.salary || null,
     postedAt: job.postedAt || null,
   };
 }
@@ -52,18 +61,30 @@ function compact(job) {
 async function fetchJson(url) {
   const res = await fetch(url, {
     headers: {
-      Accept: "application/json",
+      Accept: "application/json, application/xml, text/xml, */*",
       "User-Agent": "JobSearchAggregator/1.0 (+https://github.com/lcarlini/JobSearchAggregator)",
     },
   });
   if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  const ct = res.headers.get("content-type") || "";
+  if (ct.includes("xml") || url.endsWith("/xml")) return res.text();
   return res.json();
 }
 
 async function fetchGreenhouse(slug) {
-  const data = await fetchJson(
-    `https://boards-api.greenhouse.io/v1/boards/${encodeURIComponent(slug)}/jobs?content=true`
-  );
+  // Standard US API; EU boards often still answer here (Babak notes job-boards.eu as alternate UI)
+  let data;
+  try {
+    data = await fetchJson(
+      `https://boards-api.greenhouse.io/v1/boards/${encodeURIComponent(slug)}/jobs?content=true`
+    );
+  } catch (e) {
+    // Greenhouse EU job board JSON mirror used by some EU tenants
+    if (!String(e.message).includes("404")) throw e;
+    data = await fetchJson(
+      `https://job-boards.greenhouse.io/${encodeURIComponent(slug)}/jobs?content=true`
+    );
+  }
   return (data.jobs || []).map((j) => ({
     id: `greenhouse:${slug}:${j.id}`,
     ats: "greenhouse",
@@ -78,9 +99,18 @@ async function fetchGreenhouse(slug) {
 }
 
 async function fetchLever(slug) {
-  const data = await fetchJson(
-    `https://api.lever.co/v0/postings/${encodeURIComponent(slug)}?mode=json`
-  );
+  // US host first; EU accounts live on api.eu.lever.co (DEV/community pattern)
+  let data;
+  try {
+    data = await fetchJson(
+      `https://api.lever.co/v0/postings/${encodeURIComponent(slug)}?mode=json`
+    );
+  } catch (e) {
+    if (!String(e.message).includes("404")) throw e;
+    data = await fetchJson(
+      `https://api.eu.lever.co/v0/postings/${encodeURIComponent(slug)}?mode=json`
+    );
+  }
   return (Array.isArray(data) ? data : []).map((j) => ({
     id: `lever:${slug}:${j.id}`,
     ats: "lever",
@@ -88,29 +118,49 @@ async function fetchLever(slug) {
     title: j.text,
     url: j.hostedUrl || j.applyUrl,
     description: stripHtml(j.descriptionPlain || j.description || ""),
-    location: j.categories?.location || "Remote",
-    tags: [slug, "lever", j.categories?.commitment].filter(Boolean),
+    location: j.categories?.location || j.workplaceType || "Remote",
+    tags: [slug, "lever", j.categories?.commitment, j.workplaceType].filter(Boolean),
     jobType: j.categories?.commitment,
     postedAt: j.createdAt || null,
   }));
 }
 
+function ashbySalary(j) {
+  const c = j.compensation || j.compensationTierSummary;
+  if (!c) return null;
+  if (typeof c === "string") return c;
+  if (c.summary) return c.summary;
+  if (c.compensationTierSummary) return c.compensationTierSummary;
+  const min = c.minSalary ?? c.minCash ?? c.salaryMin;
+  const max = c.maxSalary ?? c.maxCash ?? c.salaryMax;
+  if (min || max) return [min, max].filter((x) => x != null).join(" – ");
+  return null;
+}
+
 async function fetchAshby(slug) {
+  // includeCompensation=true — pattern from noble-ronin + Ashby docs
   const data = await fetchJson(
-    `https://api.ashbyhq.com/posting-api/job-board/${encodeURIComponent(slug)}`
+    `https://api.ashbyhq.com/posting-api/job-board/${encodeURIComponent(slug)}?includeCompensation=true`
   );
-  return (data.jobs || []).map((j) => ({
-    id: `ashby:${slug}:${j.id}`,
-    ats: "ashby",
-    company: slug,
-    title: j.title,
-    url: j.jobUrl || j.applyUrl,
-    description: j.descriptionPlain || stripHtml(j.descriptionHtml || ""),
-    location: j.location || (j.isRemote ? "Remote" : ""),
-    tags: [slug, "ashby", j.department].filter(Boolean),
-    jobType: j.employmentType,
-    postedAt: j.publishedAt || j.updatedAt || null,
-  }));
+  return (data.jobs || []).map((j) => {
+    const loc =
+      typeof j.location === "string"
+        ? j.location
+        : j.location?.name || (j.isRemote ? "Remote" : "");
+    return {
+      id: `ashby:${slug}:${j.id}`,
+      ats: "ashby",
+      company: slug,
+      title: j.title,
+      url: j.jobUrl || j.applyUrl,
+      description: j.descriptionPlain || stripHtml(j.descriptionHtml || ""),
+      location: loc || "Remote",
+      tags: [slug, "ashby", j.department].filter(Boolean),
+      jobType: j.employmentType,
+      salary: ashbySalary(j),
+      postedAt: j.publishedAt || j.updatedAt || null,
+    };
+  });
 }
 
 async function fetchWorkable(slug) {
@@ -124,7 +174,7 @@ async function fetchWorkable(slug) {
     company: companyName,
     title: j.title,
     url: j.url || `https://apply.workable.com/${slug}/j/${j.shortcode}/`,
-    description: stripHtml(j.description || j.shortcode || ""),
+    description: stripHtml(j.description || ""),
     location: [j.city, j.state, j.country, j.workplace].filter(Boolean).join(", ") || "Remote",
     tags: [slug, "workable", j.department, j.function].filter(Boolean),
     jobType: j.employment_type || j.type || null,
@@ -133,6 +183,7 @@ async function fetchWorkable(slug) {
 }
 
 async function fetchSmartRecruiters(slug) {
+  // Babak: SR returns 200 + 0 jobs for invalid names — only keep real postings
   const jobs = [];
   let offset = 0;
   const limit = 100;
@@ -151,7 +202,9 @@ async function fetchSmartRecruiters(slug) {
         description: stripHtml(j.jobAd?.sections?.jobDescription?.text || j.description || ""),
         location: j.location?.city
           ? `${j.location.city}${j.location.country ? ", " + j.location.country : ""}`
-          : j.location?.remote ? "Remote" : "Remote",
+          : j.location?.remote
+            ? "Remote"
+            : "Remote",
         tags: [slug, "smartrecruiters", j.department?.label, j.function?.label].filter(Boolean),
         jobType: j.typeOfEmployment?.label || null,
         postedAt: j.releasedDate || j.createdOn || null,
@@ -159,7 +212,7 @@ async function fetchSmartRecruiters(slug) {
     }
     if (!batch.length || batch.length < limit) break;
     offset += batch.length;
-    await new Promise((r) => setTimeout(r, 150));
+    await new Promise((r) => setTimeout(r, 120));
   }
   return jobs;
 }
@@ -183,31 +236,125 @@ async function fetchRecruitee(slug) {
   }));
 }
 
-async function settleAll(label, slugs, fn) {
+async function fetchBreezy(slug) {
+  const data = await fetchJson(`https://${encodeURIComponent(slug)}.breezy.hr/json`);
+  const list = Array.isArray(data) ? data : data.positions || data.jobs || [];
+  return list.map((j) => ({
+    id: `breezy:${slug}:${j.id || j._id || j.friendly_id || j.name}`,
+    ats: "breezy",
+    company: slug,
+    title: j.name || j.title,
+    url: j.url || j.application_url || `https://${slug}.breezy.hr/p/${j.friendly_id || j.id}`,
+    description: stripHtml(j.description || ""),
+    location: j.location?.name || j.location || (j.is_remote ? "Remote" : "Remote"),
+    tags: [slug, "breezy", j.department].filter(Boolean),
+    jobType: j.type?.name || j.type || null,
+    postedAt: j.published_date || j.created_date || null,
+  }));
+}
+
+async function fetchBamboo(slug) {
+  // BambooHR public careers list (noble-ronin / builder-jobs-scraper)
+  const data = await fetchJson(
+    `https://${encodeURIComponent(slug)}.bamboohr.com/careers/list`
+  );
+  const list = data.result || data.meta?.result || data.jobs || [];
+  return (Array.isArray(list) ? list : []).map((j) => ({
+    id: `bamboohr:${slug}:${j.id || j.jobOpeningId || j.atsLocationId || j.jobSharingTitle}`,
+    ats: "bamboohr",
+    company: slug,
+    title: j.jobOpeningName || j.title || j.jobSharingTitle,
+    url:
+      j.jobOpeningShareUrl ||
+      `https://${slug}.bamboohr.com/careers/${j.id || j.jobOpeningId}`,
+    description: stripHtml(j.description || j.jobOpeningName || ""),
+    location: j.location?.city
+      ? `${j.location.city}${j.location.state ? ", " + j.location.state : ""}`
+      : j.locationLabel || "Remote",
+    tags: [slug, "bamboohr", j.departmentLabel].filter(Boolean),
+    jobType: j.employmentStatusLabel || null,
+    postedAt: j.datePosted || null,
+  }));
+}
+
+function parsePersonioXml(xml, slug) {
+  const jobs = [];
+  const blocks = String(xml).match(/<position[\s>][\s\S]*?<\/position>/gi) || [];
+  for (const block of blocks) {
+    const tag = (name) => {
+      const m = block.match(new RegExp(`<${name}[^>]*>([\\s\\S]*?)</${name}>`, "i"));
+      return m ? stripHtml(m[1].replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, "$1")) : "";
+    };
+    const id = tag("id") || tag("name");
+    const title = tag("name") || tag("title");
+    if (!title) continue;
+    const office = tag("office") || tag("city") || "";
+    const country = tag("country") || "";
+    const schedule = tag("schedule") || "";
+    const desc = [tag("jobDescription"), tag("description"), tag("responsibilities")]
+      .filter(Boolean)
+      .join(" ");
+    jobs.push({
+      id: `personio:${slug}:${id || title}`,
+      ats: "personio",
+      company: slug,
+      title,
+      url: `https://${slug}.jobs.personio.com/job/${id}`,
+      description: desc,
+      location: [office, country, schedule].filter(Boolean).join(", ") || "Remote",
+      tags: [slug, "personio", tag("department"), tag("employmentType")].filter(Boolean),
+      jobType: tag("employmentType") || null,
+      postedAt: tag("createdAt") || tag("updatedAt") || null,
+    });
+  }
+  return jobs;
+}
+
+async function fetchPersonio(slug) {
+  // Personio public XML feed — try .com then .de (EU)
+  let xml;
+  try {
+    xml = await fetchJson(`https://${encodeURIComponent(slug)}.jobs.personio.com/xml`);
+  } catch (e) {
+    if (!String(e.message).includes("404") && !String(e.message).includes("429")) throw e;
+    await new Promise((r) => setTimeout(r, 400));
+    xml = await fetchJson(`https://${encodeURIComponent(slug)}.jobs.personio.de/xml`);
+  }
+  return parsePersonioXml(typeof xml === "string" ? xml : "", slug);
+}
+
+async function settleAll(label, slugs, fn, { concurrency = CONCURRENCY, delayMs = 0 } = {}) {
   const jobs = [];
   const errors = [];
   const list = [...new Set((slugs || []).filter(Boolean))];
-  const results = await Promise.allSettled(
-    list.map(async (slug) => {
+  if (!list.length) return { jobs, errors };
+  let cursor = 0;
+
+  async function worker() {
+    while (cursor < list.length) {
+      const idx = cursor++;
+      const slug = list[idx];
       try {
         const rows = await fn(slug);
         console.log(`  ${label}/${slug}: ${rows.length}`);
-        return rows;
+        jobs.push(...rows);
       } catch (e) {
         errors.push({ board: `${label}/${slug}`, error: e.message });
         console.warn(`  ${label}/${slug}: FAIL ${e.message}`);
-        return [];
       }
-    })
-  );
-  for (const r of results) {
-    if (r.status === "fulfilled") jobs.push(...r.value);
+      if (delayMs) await new Promise((r) => setTimeout(r, delayMs));
+    }
   }
+
+  const n = Math.min(concurrency, list.length);
+  await Promise.all(Array.from({ length: n }, () => worker()));
   return { jobs, errors };
 }
 
 const started = Date.now();
-console.log("Fetching ATS boards…");
+console.log(
+  `Fetching ATS boards (concurrency=${CONCURRENCY}) from ${companies.source || "companies.json"}…`
+);
 
 const gh = await settleAll("greenhouse", companies.greenhouse || [], fetchGreenhouse);
 const lv = await settleAll("lever", companies.lever || [], fetchLever);
@@ -216,31 +363,66 @@ const wk = await settleAll("workable", companies.workable || [], fetchWorkable);
 const sr = await settleAll(
   "smartrecruiters",
   companies.smartrecruiters || [],
-  fetchSmartRecruiters
+  fetchSmartRecruiters,
+  { concurrency: 4, delayMs: 80 }
 );
-const rc = await settleAll("recruitee", companies.recruitee || [], fetchRecruitee);
+const rc = await settleAll("recruitee", companies.recruitee || [], fetchRecruitee, {
+  concurrency: 4,
+});
+const br = await settleAll("breezy", companies.breezy || [], fetchBreezy, { concurrency: 4 });
+const bb = await settleAll("bamboohr", companies.bamboohr || [], fetchBamboo, {
+  concurrency: 4,
+});
+const pe = await settleAll("personio", companies.personio || [], fetchPersonio, {
+  concurrency: 2,
+  delayMs: 350,
+});
 
-const raw = [...gh.jobs, ...lv.jobs, ...ash.jobs, ...wk.jobs, ...sr.jobs, ...rc.jobs];
+const raw = [
+  ...gh.jobs,
+  ...lv.jobs,
+  ...ash.jobs,
+  ...wk.jobs,
+  ...sr.jobs,
+  ...rc.jobs,
+  ...br.jobs,
+  ...bb.jobs,
+  ...pe.jobs,
+];
 const jobs = raw.filter(isItJob).map(compact);
+const countIt = (arr) => arr.filter(isItJob).length;
 const payload = {
   generatedAt: new Date().toISOString(),
   elapsedMs: Date.now() - started,
   count: jobs.length,
   rawCount: raw.length,
   byAts: {
-    greenhouse: gh.jobs.filter(isItJob).length,
-    lever: lv.jobs.filter(isItJob).length,
-    ashby: ash.jobs.filter(isItJob).length,
-    workable: wk.jobs.filter(isItJob).length,
-    smartrecruiters: sr.jobs.filter(isItJob).length,
-    recruitee: rc.jobs.filter(isItJob).length,
+    greenhouse: countIt(gh.jobs),
+    lever: countIt(lv.jobs),
+    ashby: countIt(ash.jobs),
+    workable: countIt(wk.jobs),
+    smartrecruiters: countIt(sr.jobs),
+    recruitee: countIt(rc.jobs),
+    breezy: countIt(br.jobs),
+    bamboohr: countIt(bb.jobs),
+    personio: countIt(pe.jobs),
   },
-  errors: [...gh.errors, ...lv.errors, ...ash.errors, ...wk.errors, ...sr.errors, ...rc.errors],
+  errors: [
+    ...gh.errors,
+    ...lv.errors,
+    ...ash.errors,
+    ...wk.errors,
+    ...sr.errors,
+    ...rc.errors,
+    ...br.errors,
+    ...bb.errors,
+    ...pe.errors,
+  ],
   jobs,
 };
 
 fs.writeFileSync(outPath, JSON.stringify(payload));
 console.log(
-  `Wrote ${jobs.length} IT jobs (from ${raw.length} raw) → data/ats-jobs.json`,
+  `Wrote ${jobs.length} IT jobs (from ${raw.length} raw) in ${(payload.elapsedMs / 1000).toFixed(1)}s → data/ats-jobs.json`,
   payload.byAts
 );

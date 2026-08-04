@@ -47,6 +47,9 @@ bookmarks_*.html
 node_modules/
 coverage/
 
+# Generated health report
+data/source-health.json
+
 # OS / editor
 .DS_Store
 Thumbs.db

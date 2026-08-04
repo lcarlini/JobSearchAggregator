@@ -786,6 +786,7 @@ function setSearchingUi(on) {
   const btn = $("#btn-search");
   const list = $("#job-list");
   const wrap = $("#progress-wrap");
+  const tableLoading = $("#results-loading");
   if (btn) {
     btn.disabled = !!on;
     btn.classList.toggle("is-searching", !!on);
@@ -794,10 +795,17 @@ function setSearchingUi(on) {
     list.classList.toggle("is-loading", !!on);
     list.dataset.loadingLabel = t("searchingOverlay");
   }
+  if (tableLoading) {
+    tableLoading.hidden = !on;
+    tableLoading.setAttribute("aria-busy", on ? "true" : "false");
+  }
   if (wrap && on) {
     wrap.hidden = false;
     wrap.dataset.state = "running";
     wrap.scrollIntoView({ behavior: "smooth", block: "nearest" });
+  }
+  if (tableLoading && on) {
+    tableLoading.scrollIntoView({ behavior: "smooth", block: "nearest" });
   }
 }
 

@@ -16,7 +16,7 @@ export function normalizeStaticAts(payload) {
       description: j.description || "",
       location: j.location || "Remote",
       tags: [...(j.tags || []), j.ats].filter(Boolean),
-      salary: j.salary || null,
+      salary: j.salary || j.compensation || null,
       jobType: j.jobType,
       postedAt: j.postedAt,
       language: j.language,
