@@ -217,6 +217,7 @@ export const DEEPLINK_HOMES = [
   { id: "apinfo", url: "https://www.apinfo.com/", critical: true },
   { id: "remotar", url: "https://remotar.com.br/", critical: false },
   { id: "gupy", url: "https://portal.gupy.io/", critical: false },
+  { id: "reply-quickin", url: "https://jobs.quickin.io/reply/jobs", critical: false },
   { id: "remoteok-web", url: "https://remoteok.com/", critical: false },
   { id: "wwr-web", url: "https://weworkremotely.com/", critical: false },
   { id: "himalayas-web", url: "https://himalayas.app/jobs", critical: false },

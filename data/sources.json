@@ -435,6 +435,14 @@
       "linkFinalUrl": "https://www.monster.co.uk/"
     },
     {
+      "id": "reply-quickin",
+      "name": "Reply (Quickin)",
+      "type": "deeplink",
+      "url": "https://jobs.quickin.io/reply/jobs",
+      "region": "brazil",
+      "notes": "Reply BR careers board on Quickin ATS"
+    },
+    {
       "id": "landingjobs",
       "name": "Landing.jobs",
       "type": "deeplink",

@@ -32,6 +32,13 @@ export const COMPANY_CAREER_PACK = [
     region: "worldwide",
   },
   {
+    id: "career-reply-quickin",
+    name: "Reply (Quickin)",
+    url: "https://jobs.quickin.io/reply/jobs",
+    description: "Vagas BR — .NET, dados, SAP, remoto/híbrido",
+    region: "brazil",
+  },
+  {
     id: "career-ifood",
     name: "iFood",
     url: "https://carreiras.ifood.com.br/",

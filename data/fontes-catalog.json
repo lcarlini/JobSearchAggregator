@@ -311,6 +311,15 @@
       "note": "Usar página de carreiras da empresa"
     },
     {
+      "id": "reply-quickin",
+      "name": "Reply (Quickin)",
+      "mode": "manual",
+      "why": "Quickin ATS exige token — deep-link oficial",
+      "url": "https://jobs.quickin.io/reply/jobs",
+      "weight": 47,
+      "note": "Consultoria BR — .NET, dados, SAP"
+    },
+    {
       "id": "landingjobs",
       "name": "Landing.jobs",
       "mode": "manual",
