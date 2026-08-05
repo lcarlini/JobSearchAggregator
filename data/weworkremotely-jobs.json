@@ -1,7 +1,37 @@
 {
-  "generatedAt": "2026-08-05T14:13:12.254Z",
-  "count": 380,
+  "generatedAt": "2026-08-05T19:34:18.336Z",
+  "count": 378,
   "jobs": [
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/gusto-inc-enterprise-application-ai-architect",
+      "source": "weworkremotely",
+      "title": "Enterprise Application AI Architect",
+      "company": "Gusto, Inc.",
+      "url": "https://weworkremotely.com/remote-jobs/gusto-inc-enterprise-application-ai-architect",
+      "description": "Headquarters: Denver, CO;San Francisco, CA;New York, NY;Los Angeles, CA;Seattle, WA;Ontario, CAN - Remote;Toronto, Ontario, CAN - Remote;United States - Remote &nbsp; About Gusto At Gusto, we're on a mission to grow the small business economy. We handle the hard stuff — payroll, health insurance, 401(k)s, and HR — so owners can focus on their craft and their customers. With teams in Denver, San Francisco, and New York, we support more than 500,000 small businesses nationwide and are building a workplace that reflects the people we serve. &nbsp; All full-time employees receive competitive base pay, benefits, and equity (RSUs) — because everyone who helps build Gusto should share in its success. Offer amounts are determined by role, level, and location. Learn more about our Total Rewards phi",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "programming"
+      ],
+      "postedAt": "Wed, 22 Jul 2026 07:01:14 +0000",
+      "category": "programming"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/stripe-backend-engineer-core-technology",
+      "source": "weworkremotely",
+      "title": "Backend Engineer, Core Technology",
+      "company": "Stripe",
+      "url": "https://weworkremotely.com/remote-jobs/stripe-backend-engineer-core-technology",
+      "description": "Headquarters: US-Remote, Chicago, Seattle, San Francisco Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team Stripe Infrastructure is responsible for the reliability, scale, performance, and cost of Stripe's systems and the productivity and sentiment of Stripe's people. You may work on a wide variety of critical bus",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Back-End Programming",
+        "programming"
+      ],
+      "postedAt": "Wed, 22 Jul 2026 07:01:13 +0000",
+      "category": "programming"
+    },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/stripe-backend-engineer-ai-security",
       "source": "weworkremotely",
@@ -345,36 +375,6 @@
         "programming"
       ],
       "postedAt": "Tue, 07 Jul 2026 12:39:09 +0000",
-      "category": "programming"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/a-team-senior-independent-ai-engineer-architect",
-      "source": "weworkremotely",
-      "title": "Senior Independent AI Engineer / Architect",
-      "company": "A.Team",
-      "url": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-ai-engineer-architect",
-      "description": "Headquarters: NYC and TLV URL: http://a.team/ai-jobs?utm_source=wwr&utm_medium=post&utm_campaign=wwrai Senior Independent AI Engineer / Architect Remote | Americas, Europe, or Israel Most AI engineers can find work. Finding work worth doing is harder. A.Team is an invite-only network of senior AI engineers, ML engineers, and AI architects working on production AI systems for startups, scale-ups, and global companies. Since 2020, builders in the network have earned more than $200M working with companies including Lyft, Google X, HCA, Unilever, Sightful, D-ID, and others. The Work You'll join small teams tackling problems that matter. Not demos. Not prototypes that never ship. Not another chatbot wrapper. Real systems. Real users. Real outcomes. Recent work has included: - LLM-powered produc",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "programming"
-      ],
-      "postedAt": "Sun, 16 Jun 2024 18:08:52 +0000",
-      "category": "programming"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr",
-      "source": "weworkremotely",
-      "title": "Senior Independent Software Developer ($90-$170/hr)",
-      "company": "A.Team",
-      "url": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr",
-      "description": "Headquarters: NYC and TLV URL: https://build.a.team/wwrfastrackreferral Imagine choosing your projects, collaborating with the best, and keeping every dollar you earn. At A·Team, we’ve turned this vision into reality for top-tier independent software builders. Since May 2020, A·Teamers have earned over $108 million working on high-impact projects for companies backed by a16z, YC, Insight Partners, Tiger Global, Softbank, General Catalyst, and more. Why A·Team? High-paying, meaningful missions: Earn $90-$170/hr with over 500 companies—from trailblazing startups like Sightful, D-ID, and Apprentice to enterprise innovators like Lyft, Google X, and HCA. Collaborate with trusted peers: Work in small, elite teams for high-impact projects, ensuring top-tier collaboration. Full autonomy: Choose pr",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "programming"
-      ],
-      "postedAt": "Sun, 16 Jun 2024 17:30:51 +0000",
       "category": "programming"
     },
     {
@@ -1143,36 +1143,6 @@
       "category": "design"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/wing-assistant-full-stack-web-developer",
-      "source": "weworkremotely",
-      "title": "Full Stack Web Developer",
-      "company": "Wing Assistant",
-      "url": "https://weworkremotely.com/remote-jobs/wing-assistant-full-stack-web-developer",
-      "description": "Headquarters: Manila, Philippines / New Delhi, India / Dhaka, Bangladesh URL: http://wingassistant.com Wing Assistant is seeking a Full Stack Web Developer with experience in developing web applications on LAMP Stack. This role will focus on creating a Property Management System for our client. &nbsp; Job Requirements: - Extensive knowledge of PHP, MySQL, JavaScript, and CSS. - Experience in building applications using LAMP (Linux, Apache, MySQL, PHP) Stack. - Ability to develop both front-end and back-end of web applications. - Knowledge of APIs and MySQL for data integration. - Must be familiar with Ubuntu operating system. - Able to work independently and has a self-starter attitude. &nbsp; Preferred qualifications include: - Having experience in developing property management systems. ",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Design",
-        "design"
-      ],
-      "postedAt": "Tue, 04 Aug 2026 22:13:00 +0000",
-      "category": "design"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/jobs-for-lebanon-web-developer",
-      "source": "weworkremotely",
-      "title": "web developer",
-      "company": "Jobs for Lebanon",
-      "url": "https://weworkremotely.com/remote-jobs/jobs-for-lebanon-web-developer",
-      "description": "Headquarters: Beirut, Lebanon URL: http://jobsforlebanon.com &nbsp; Company Description softwaregpt &nbsp; Job Description Supervisory-level web development work overseeing web specialists creating, programming, testing, and documenting a website and web applications. An employee in this class is responsible for supervising assigned projects for the development and maintenance of the website. Working with staff in order to plan and implement assigned web development responsibilities is a significant aspect of the work. The employee is responsible for training, assigning project and permanent system responsibilities, and reviewing the work products of subordinates. Work is performed under the direction of a technical superior. &nbsp; Qualifications languages such as PHP, Python, Java, or Ru",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Design",
-        "design"
-      ],
-      "postedAt": "Tue, 04 Aug 2026 22:13:00 +0000",
-      "category": "design"
-    },
-    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/algaecal-automation-qa-engineer-lead",
       "source": "weworkremotely",
       "title": "Automation QA Engineer (Lead)",
@@ -1315,21 +1285,6 @@
       "url": "https://weworkremotely.com/remote-jobs/jobgether-real-estate-photo-editor-2",
       "description": "Headquarters: Finland URL: http://jobgether.com This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Real Estate Photo Editor based in Finland. This fully remote opportunity is ideal for a detail-oriented photo editing professional with experience in the real estate industry. In this role, you will produce high-quality visual assets that help showcase residential and commercial properties through expertly enhanced photography. Working in a fast-paced, collaborative environment, you will edit large volumes of images while maintaining exceptional consistency and accuracy. You will also contribute to drone image enhancement, architectural document interpretation, and visual storytelling that supports real estate mark",
       "location": "Anywhere in the World",
-      "tags": [
-        "Design",
-        "design"
-      ],
-      "postedAt": "Tue, 04 Aug 2026 20:13:16 +0000",
-      "category": "design"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/uptalent-io-revit-expert-for-interior-design-documentation-2",
-      "source": "weworkremotely",
-      "title": "Revit Expert for Interior Design Documentation",
-      "company": "Uptalent.io",
-      "url": "https://weworkremotely.com/remote-jobs/uptalent-io-revit-expert-for-interior-design-documentation-2",
-      "description": "Headquarters: Santo Domingo, Distrito Nacional, Dominican Republic URL: http://uptalent.io Description Uptalent.io, a global platform that provides top-tier talent from Latam to the most exciting companies in the world, is seeking a skilled Revit Expert to work for a High-level Interior Design Company in the US. As a Revit Expert, you will play a crucial role in creating detailed documentation for interior design projects, ensuring accuracy and efficiency in the process. Uptalent.io offers a dynamic and supportive work environment, where you will have the chance to work with leading companies while ensuring work-life balance. Responsibilities Develop and implement Revit models for interior design projects, focusing on accurate and detailed documentation. Collaborate with cross-functional t",
-      "location": "Distrito Nacional",
       "tags": [
         "Design",
         "design"
@@ -5103,18 +5058,33 @@
       "category": "full-stack"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/gusto-inc-enterprise-application-ai-architect",
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/a-team-senior-independent-ai-engineer-architect",
       "source": "weworkremotely",
-      "title": "Enterprise Application AI Architect",
-      "company": "Gusto, Inc.",
-      "url": "https://weworkremotely.com/remote-jobs/gusto-inc-enterprise-application-ai-architect",
-      "description": "Headquarters: Denver, CO;San Francisco, CA;New York, NY;Los Angeles, CA;Seattle, WA;Ontario, CAN - Remote;Toronto, Ontario, CAN - Remote;United States - Remote &nbsp; About Gusto At Gusto, we're on a mission to grow the small business economy. We handle the hard stuff — payroll, health insurance, 401(k)s, and HR — so owners can focus on their craft and their customers. With teams in Denver, San Francisco, and New York, we support more than 500,000 small businesses nationwide and are building a workplace that reflects the people we serve. &nbsp; All full-time employees receive competitive base pay, benefits, and equity (RSUs) — because everyone who helps build Gusto should share in its success. Offer amounts are determined by role, level, and location. Learn more about our Total Rewards phi",
+      "title": "Senior Independent AI Engineer / Architect",
+      "company": "A.Team",
+      "url": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-ai-engineer-architect",
+      "description": "Headquarters: NYC and TLV URL: http://a.team/ai-jobs?utm_source=wwr&utm_medium=post&utm_campaign=wwrai Senior Independent AI Engineer / Architect Remote | Americas, Europe, or Israel Most AI engineers can find work. Finding work worth doing is harder. A.Team is an invite-only network of senior AI engineers, ML engineers, and AI architects working on production AI systems for startups, scale-ups, and global companies. Since 2020, builders in the network have earned more than $200M working with companies including Lyft, Google X, HCA, Unilever, Sightful, D-ID, and others. The Work You'll join small teams tackling problems that matter. Not demos. Not prototypes that never ship. Not another chatbot wrapper. Real systems. Real users. Real outcomes. Recent work has included: - LLM-powered produc",
       "location": "Anywhere in the World",
       "tags": [
         "Full-Stack Programming",
         "full-stack"
       ],
-      "postedAt": "Wed, 22 Jul 2026 07:01:14 +0000",
+      "postedAt": "Sun, 16 Jun 2024 18:08:52 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr",
+      "source": "weworkremotely",
+      "title": "Senior Independent Software Developer ($90-$170/hr)",
+      "company": "A.Team",
+      "url": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr",
+      "description": "Headquarters: NYC and TLV URL: https://build.a.team/wwrfastrackreferral Imagine choosing your projects, collaborating with the best, and keeping every dollar you earn. At A·Team, we’ve turned this vision into reality for top-tier independent software builders. Since May 2020, A·Teamers have earned over $108 million working on high-impact projects for companies backed by a16z, YC, Insight Partners, Tiger Global, Softbank, General Catalyst, and more. Why A·Team? High-paying, meaningful missions: Earn $90-$170/hr with over 500 companies—from trailblazing startups like Sightful, D-ID, and Apprentice to enterprise innovators like Lyft, Google X, and HCA. Collaborate with trusted peers: Work in small, elite teams for high-impact projects, ensuring top-tier collaboration. Full autonomy: Choose pr",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Sun, 16 Jun 2024 17:30:51 +0000",
       "category": "full-stack"
     },
     {
