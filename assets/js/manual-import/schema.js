@@ -26,6 +26,24 @@ export const MANUAL_SOURCES = [
     hostHint: "glassdoor.",
     notes: "Abra a busca Glassdoor gerada e cole o script no console",
   },
+  {
+    id: "seek",
+    name: "SEEK (AU/NZ)",
+    hostHint: "seek.",
+    notes: "Abra seek.com.au ou seek.co.nz e cole o script — sem API pública",
+  },
+  {
+    id: "stepstone",
+    name: "StepStone",
+    hostHint: "stepstone.",
+    notes: "Abra stepstone.de com a busca gerada e cole o script no console",
+  },
+  {
+    id: "eurojobs",
+    name: "EuroJobs",
+    hostHint: "eurojobs.com",
+    notes: "SPA sem feed estável — abra a busca, filtre What/Where e cole o script",
+  },
 ];
 
 /**

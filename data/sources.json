@@ -435,6 +435,110 @@
       "linkFinalUrl": "https://www.monster.co.uk/"
     },
     {
+      "id": "landingjobs",
+      "name": "Landing.jobs",
+      "type": "deeplink",
+      "url": "https://landing.jobs/",
+      "region": "europe",
+      "notes": "Tech EU — salaries on listings"
+    },
+    {
+      "id": "eurojobs",
+      "name": "EuroJobs",
+      "type": "deeplink",
+      "url": "https://eurojobs.com/",
+      "region": "europe",
+      "notes": "EU aggregator; SPA — optional console import on manual.html"
+    },
+    {
+      "id": "stepstone",
+      "name": "StepStone",
+      "type": "deeplink",
+      "url": "https://www.stepstone.de/",
+      "region": "europe",
+      "notes": "DE / Europe; console scraper on manual.html"
+    },
+    {
+      "id": "jobfluent",
+      "name": "JobFluent",
+      "type": "deeplink",
+      "url": "https://jobfluent.com/",
+      "region": "europe",
+      "notes": "Spanish / EU remote — PT UI"
+    },
+    {
+      "id": "eures",
+      "name": "EURES",
+      "type": "deeplink",
+      "url": "https://europa.eu/eures/portal/jv-se/home",
+      "region": "europe",
+      "notes": "Official EU job mobility portal"
+    },
+    {
+      "id": "gulftalent",
+      "name": "GulfTalent",
+      "type": "deeplink",
+      "url": "https://www.gulftalent.com/",
+      "region": "uae",
+      "notes": "Middle East / Gulf recruitment"
+    },
+    {
+      "id": "naukrigulf",
+      "name": "NaukriGulf",
+      "type": "deeplink",
+      "url": "https://www.naukrigulf.com/",
+      "region": "uae",
+      "notes": "Gulf tech, finance, engineering, health"
+    },
+    {
+      "id": "bayt",
+      "name": "Bayt",
+      "type": "deeplink",
+      "url": "https://www.bayt.com/",
+      "region": "uae",
+      "notes": "Leading Middle East jobs site"
+    },
+    {
+      "id": "laimoon",
+      "name": "Laimoon",
+      "type": "deeplink",
+      "url": "https://jobs.laimoon.com/uae",
+      "region": "uae",
+      "notes": "MENA careers channel"
+    },
+    {
+      "id": "seek",
+      "name": "SEEK",
+      "type": "deeplink",
+      "url": "https://www.seek.com.au/",
+      "region": "australia",
+      "notes": "AU/NZ market leader; console scraper on manual.html"
+    },
+    {
+      "id": "jora",
+      "name": "Jora",
+      "type": "deeplink",
+      "url": "https://au.jora.com/",
+      "region": "australia",
+      "notes": "AU/NZ job aggregator"
+    },
+    {
+      "id": "trademe-jobs",
+      "name": "Trade Me Jobs",
+      "type": "deeplink",
+      "url": "https://www.trademe.co.nz/a/jobs",
+      "region": "nz",
+      "notes": "Popular NZ jobs marketplace"
+    },
+    {
+      "id": "jobsearch-gov-au",
+      "name": "Workforce Australia",
+      "type": "deeplink",
+      "url": "https://www.workforceaustralia.gov.au/individuals/jobs/search",
+      "region": "australia",
+      "notes": "Official AU government jobs (successor to jobsearch.gov.au)"
+    },
+    {
       "id": "static-ats",
       "name": "Company ATS (Greenhouse/Lever/Ashby)",
       "type": "static",

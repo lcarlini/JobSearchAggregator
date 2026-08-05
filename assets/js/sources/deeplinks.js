@@ -345,6 +345,48 @@ export function buildGlassdoorSearch(filters = {}) {
   return `${host}/Job/jobs.htm?sc.keyword=${enc(q)}&locT=C&locKeyword=${enc(loc)}&remoteWorkType=1`;
 }
 
+function slugify(s) {
+  return (
+    String(s || "software engineer")
+      .toLowerCase()
+      .replace(/["']/g, "")
+      .replace(/\s+OR\s+/gi, " ")
+      .replace(/[^a-z0-9]+/g, "-")
+      .replace(/^-+|-+$/g, "")
+      .slice(0, 60) || "software-engineer"
+  );
+}
+
+/** SEEK AU / NZ search URL */
+export function buildSeekSearch(filters = {}, overrides = {}) {
+  const geo = firstGeo(overrides.geo || filters.geo);
+  const host =
+    overrides.host ||
+    (geo === "nz" || geo === "new-zealand"
+      ? "https://www.seek.co.nz"
+      : "https://www.seek.com.au");
+  const where =
+    overrides.where ||
+    (host.includes("seek.co.nz") ? "All+New+Zealand" : "All+Australia");
+  const keywords = overrides.keywords || keywordQuery(filters);
+  return `${host}/jobs?keywords=${enc(keywords)}&where=${where}`;
+}
+
+/** StepStone DE search URL (path slug + home office facet) */
+export function buildStepStoneSearch(filters = {}, overrides = {}) {
+  const q = overrides.keywords || keywordQuery(filters);
+  const slug = slugify(q);
+  const wps = splitCsv(filters.workplace);
+  const wfh = wps.includes("remote") || !wps.length ? "?wfh=1" : "";
+  return overrides.url || `https://www.stepstone.de/jobs/${slug}${wfh}`;
+}
+
+/** EuroJobs SPA search (keyword filter is client-side — use console script to ingest) */
+export function buildEuroJobsSearch(filters = {}) {
+  const q = keywordQuery(filters);
+  return `https://eurojobs.com/jobs?q=${enc(q)}`;
+}
+
 function push(links, id, name, url, description, group) {
   links.push({ id, name, url, description, group });
 }
@@ -454,11 +496,14 @@ export function buildDeepLinks(filters = {}) {
   // Always include Canada / NZ / UAE with the same filter builder
   push(links, "linkedin-ca", "LinkedIn Canada", buildLinkedInSearch({ ...filters, geo: "canada" }, { location: "Canada", geoId: "101174742" }), "CA + mesmos filtros", "canada");
   push(links, "indeed-ca", "Indeed Canada", buildIndeedSearch({ ...filters, geo: "canada" }), "CA + mesmos filtros", "canada");
-  push(links, "seek-nz", "Seek NZ", `https://www.seek.co.nz/jobs?keywords=${enc(shortQ)}&where=All+New+Zealand`, "NZ board", "nz");
+  push(links, "seek-nz", "SEEK NZ", buildSeekSearch({ ...filters, geo: "nz" }), "Líder NZ + keywords", "nz");
+  push(links, "jora-nz", "Jora NZ", `https://nz.jora.com/j?q=${enc(shortQ)}&l=`, "Agregador NZ", "nz");
   push(links, "indeed-nz", "Indeed NZ", buildIndeedSearch({ ...filters, geo: "nz" }), "NZ + mesmos filtros", "nz");
-  push(links, "bayt", "Bayt", `https://www.bayt.com/en/international/jobs/?keyword=${enc(shortQ)}`, "MENA jobs", "uae");
+  push(links, "bayt", "Bayt", `https://www.bayt.com/en/international/jobs/?keyword=${enc(shortQ)}`, "Principal MENA (40M+ CVs)", "uae");
+  push(links, "naukrigulf", "NaukriGulf", `https://www.naukrigulf.com/jobs-search?Keywords=${enc(shortQ)}&Location=${enc("UAE")}`, "Golfo — tech, finanças, engenharia", "uae");
+  push(links, "laimoon", "Laimoon", `https://jobs.laimoon.com/uae/${enc(slugify(firstKw))}`, "Carreiras MENA em crescimento", "uae");
   push(links, "indeed-ae", "Indeed UAE", buildIndeedSearch({ ...filters, geo: "uae" }), "UAE + mesmos filtros", "uae");
-  push(links, "linkedin-ae", "LinkedIn UAE", buildLinkedInSearch({ ...filters, geo: "uae" }, { location: "United Arab Emirates", geoId: "104305776" }), "UAE + mesmos filtros", "uae");
+  push(links, "linkedin-ae", "LinkedIn UAE", buildLinkedInSearch({ ...filters, geo: "uae" }, { location: "United Arab Emirates", geoId: "104305776" }), "Dubai / UAE + mesmos filtros", "uae");
 
   // —— Brasil ——
   const brazilBoards = [
@@ -542,6 +587,11 @@ export function buildDeepLinks(filters = {}) {
   }
 
   const eu = [
+    ["landingjobs-eu", "Landing.jobs", `https://landing.jobs/offers?q=${enc(shortQ)}&remote=true`, "Tech EU — salários nas vagas (PT/DE/ES/UK)"],
+    ["eurojobs", "EuroJobs", buildEuroJobsSearch(filters), "Agregador UE — país + remoto/híbrido"],
+    ["stepstone", "StepStone", buildStepStoneSearch(filters), "Principal portal DE / Europa"],
+    ["jobfluent", "JobFluent", `https://jobfluent.com/jobs?q=${enc(shortQ)}`, "Remoto ES/EU — UI em português"],
+    ["eures", "EURES (UE)", `https://europa.eu/eures/portal/jv-se/search?page=1&resultsPerPage=50&orderBy=MOST_RECENT&keywordsEverywhere=${enc(shortQ)}&lang=en`, "Portal oficial União Europeia"],
     ["spotify", "Spotify", "https://www.spotifyjobs.com/", "EU tech"],
     ["klarna", "Klarna", "https://klarna.com/careers/", "Fintech SE"],
     ["revolut", "Revolut", "https://www.revolut.com/careers", "Fintech UK/EU"],
@@ -554,7 +604,6 @@ export function buildDeepLinks(filters = {}) {
     ["farfetch", "Farfetch", "https://www.farfetchgroup.com/careers", "Fashion tech"],
     ["reed", "Reed UK", `https://www.reed.co.uk/jobs/${enc(firstKw.toLowerCase())}-jobs`, "UK board"],
     ["monsteruk", "Monster UK", `https://www.monster.co.uk/jobs/search?q=${enc(shortQ)}&where=Remote`, "UK remote"],
-    ["landingjobs-eu", "Landing.jobs", `https://landing.jobs/offers?q=${enc(shortQ)}&remote=true`, "PT / EU remote"],
     ["relocateme", "Relocate.me", `https://relocate.me/search?query=${enc(shortQ)}`, "EU relocation + remote"],
     ["berlinstartup", "Berlin Startup Jobs", "https://berlinstartupjobs.com/", "DE startups"],
     ["workinstartups", "WorkInStartups", `https://workinstartups.com/?s=${enc(shortQ)}`, "UK startups"],
@@ -564,6 +613,10 @@ export function buildDeepLinks(filters = {}) {
   }
 
   const au = [
+    ["seek-au", "SEEK Australia", buildSeekSearch({ ...filters, geo: "australia" }), "Líder absoluto AU"],
+    ["jora-au", "Jora Australia", `https://au.jora.com/j?q=${enc(shortQ)}&l=`, "Agregador AU + app"],
+    ["indeed-au", "Indeed Australia", buildIndeedSearch({ ...filters, geo: "au-br" }), "AU + mesmos filtros"],
+    ["jobsearch-gov-au", "Workforce Australia", `https://www.workforceaustralia.gov.au/individuals/jobs/search?keywords=${enc(shortQ)}`, "Portal governo AU (ex-jobsearch.gov.au)"],
     ["atlassian", "Atlassian", "https://www.atlassian.com/company/careers", "AU remote-friendly"],
     ["canva", "Canva", "https://www.canva.com/careers/", "AU design/tech"],
     ["xero", "Xero", "https://www.xero.com/au/about/careers/", "Accounting SaaS"],
@@ -578,8 +631,8 @@ export function buildDeepLinks(filters = {}) {
 
   push(links, "wellfound-ca", "Wellfound", `https://wellfound.com/jobs?remote=true&query=${enc(shortQ)}`, "Startups remote", "canada");
   push(links, "shopify-careers", "Shopify", "https://www.shopify.com/careers", "CA remote-friendly", "canada");
-  push(links, "trademe-jobs", "Trade Me Jobs", `https://www.trademe.co.nz/a/jobs/search?search_string=${enc(shortQ)}`, "NZ marketplace", "nz");
-  push(links, "gulftalent", "GulfTalent", `https://www.gulftalent.com/jobs?keywords=${enc(shortQ)}`, "Gulf tech", "uae");
+  push(links, "trademe-jobs", "Trade Me Jobs", `https://www.trademe.co.nz/a/jobs/search?search_string=${enc(shortQ)}`, "NZ — salário + carreira", "nz");
+  push(links, "gulftalent", "GulfTalent", `https://www.gulftalent.com/jobs?keywords=${enc(shortQ)}`, "Líder Oriente Médio / Golfo", "uae");
 
   // Official company career sites (Workday / ATS / careers pages)
   for (const c of careerLinksForFilters(filters)) {

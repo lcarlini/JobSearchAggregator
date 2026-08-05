@@ -84,4 +84,18 @@ describe("console script generator", () => {
     assert.match(gd.searchUrl, /glassdoor\./i);
     assert.match(gd.script, /jobListing|JobCard_/);
   });
+
+  it("builds SEEK, StepStone and EuroJobs scripts", () => {
+    const seek = generateConsoleScript("seek", { ...filters, geo: "australia" }, { maxJobs: 40 });
+    assert.match(seek.searchUrl, /seek\.com\.au/);
+    assert.match(seek.script, /data-automation="jobTitle"|seek\\./);
+
+    const step = generateConsoleScript("stepstone", { ...filters, geo: "germany" }, { maxJobs: 40 });
+    assert.match(step.searchUrl, /stepstone\.de/);
+    assert.match(step.script, /job-item-title|stepstone\\./);
+
+    const euro = generateConsoleScript("eurojobs", { ...filters, geo: "europe" }, { maxJobs: 40 });
+    assert.match(euro.searchUrl, /eurojobs\.com/);
+    assert.match(euro.script, /eurojobs\\.com/);
+  });
 });

@@ -236,9 +236,20 @@ export const DEEPLINK_HOMES = [
   { id: "gitlab", url: "https://about.gitlab.com/jobs/", critical: false },
   { id: "shopify", url: "https://www.shopify.com/careers", critical: false },
   { id: "seek-nz", url: "https://www.seek.co.nz/", critical: false },
+  { id: "seek-au", url: "https://www.seek.com.au/", critical: false },
   { id: "bayt", url: "https://www.bayt.com/", critical: false },
+  { id: "gulftalent", url: "https://www.gulftalent.com/", critical: false },
+  { id: "naukrigulf", url: "https://www.naukrigulf.com/", critical: false },
+  { id: "laimoon", url: "https://jobs.laimoon.com/uae", critical: false },
   { id: "reed", url: "https://www.reed.co.uk/", critical: false },
   { id: "landingjobs", url: "https://landing.jobs/", critical: false },
+  { id: "eurojobs", url: "https://eurojobs.com/", critical: false },
+  { id: "stepstone", url: "https://www.stepstone.de/", critical: false },
+  { id: "jobfluent", url: "https://jobfluent.com/", critical: false },
+  { id: "eures", url: "https://europa.eu/eures/portal/jv-se/home", critical: false },
+  { id: "jora-au", url: "https://au.jora.com/", critical: false },
+  { id: "trademe-jobs", url: "https://www.trademe.co.nz/a/jobs", critical: false },
+  { id: "jobsearch-gov-au", url: "https://www.workforceaustralia.gov.au/individuals/jobs/search", critical: false },
 ];
 
 export function builtDeeplinkUrls(filters = { keywords: ".NET", geo: "brazil", workplace: "remote" }) {

@@ -309,6 +309,123 @@
       "url": "https://www.bamboohr.com/",
       "weight": 10,
       "note": "Usar página de carreiras da empresa"
+    },
+    {
+      "id": "landingjobs",
+      "name": "Landing.jobs",
+      "mode": "manual",
+      "why": "Sem API pública",
+      "url": "https://landing.jobs/",
+      "weight": 52,
+      "note": "Tech Europa — salários nas vagas"
+    },
+    {
+      "id": "eurojobs",
+      "name": "EuroJobs",
+      "mode": "manual",
+      "why": "SPA sem feed estável — script no console",
+      "url": "./manual.html",
+      "weight": 50,
+      "note": "Agregador UE + import manual"
+    },
+    {
+      "id": "stepstone",
+      "name": "StepStone",
+      "mode": "manual",
+      "why": "Sem API pública; bloqueia scrape server-side",
+      "url": "./manual.html",
+      "weight": 54,
+      "note": "DE/EU — script console como LinkedIn"
+    },
+    {
+      "id": "jobfluent",
+      "name": "JobFluent",
+      "mode": "manual",
+      "why": "Sem API pública",
+      "url": "https://jobfluent.com/",
+      "weight": 46,
+      "note": "Remoto ES/EU — UI em português"
+    },
+    {
+      "id": "eures",
+      "name": "EURES",
+      "mode": "manual",
+      "why": "Portal oficial UE — deep-link (não scrape)",
+      "url": "https://europa.eu/eures/portal/jv-se/home",
+      "weight": 48,
+      "note": "Rede oficial de mobilidade UE"
+    },
+    {
+      "id": "gulftalent",
+      "name": "GulfTalent",
+      "mode": "manual",
+      "why": "Sem API pública",
+      "url": "https://www.gulftalent.com/",
+      "weight": 44,
+      "note": "Líder recrutamento Oriente Médio"
+    },
+    {
+      "id": "naukrigulf",
+      "name": "NaukriGulf",
+      "mode": "manual",
+      "why": "Sem API pública",
+      "url": "https://www.naukrigulf.com/",
+      "weight": 42,
+      "note": "Golfo — tech, finanças, engenharia"
+    },
+    {
+      "id": "bayt",
+      "name": "Bayt",
+      "mode": "manual",
+      "why": "Sem API pública",
+      "url": "https://www.bayt.com/",
+      "weight": 43,
+      "note": "Principal site de empregos MENA"
+    },
+    {
+      "id": "laimoon",
+      "name": "Laimoon",
+      "mode": "manual",
+      "why": "Sem API pública",
+      "url": "https://jobs.laimoon.com/uae",
+      "weight": 38,
+      "note": "Carreiras MENA"
+    },
+    {
+      "id": "seek",
+      "name": "SEEK",
+      "mode": "manual",
+      "why": "Sem API pública; scrape bloqueado — script console",
+      "url": "./manual.html",
+      "weight": 56,
+      "note": "Líder AU/NZ — import via manual.html"
+    },
+    {
+      "id": "jora",
+      "name": "Jora",
+      "mode": "manual",
+      "why": "Sem API pública",
+      "url": "https://au.jora.com/",
+      "weight": 40,
+      "note": "Agregador AU/NZ"
+    },
+    {
+      "id": "trademe-jobs",
+      "name": "Trade Me Jobs",
+      "mode": "manual",
+      "why": "Sem API pública",
+      "url": "https://www.trademe.co.nz/a/jobs",
+      "weight": 39,
+      "note": "Marketplace NZ"
+    },
+    {
+      "id": "jobsearch-gov-au",
+      "name": "Workforce Australia",
+      "mode": "manual",
+      "why": "Portal governo — deep-link oficial",
+      "url": "https://www.workforceaustralia.gov.au/individuals/jobs/search",
+      "weight": 41,
+      "note": "Sucessor de jobsearch.gov.au"
     }
   ]
 }

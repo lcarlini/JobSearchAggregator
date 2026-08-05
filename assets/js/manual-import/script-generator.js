@@ -9,6 +9,9 @@ import {
   buildLinkedInSearch,
   buildIndeedSearch,
   buildGlassdoorSearch,
+  buildSeekSearch,
+  buildStepStoneSearch,
+  buildEuroJobsSearch,
 } from "../sources/deeplinks.js";
 import { MANUAL_BRAND, MANUAL_SCHEMA_VERSION } from "./schema.js";
 
@@ -394,14 +397,222 @@ ${commonHelpers()}
 })();`;
 }
 
+function seekScript(filters, searchUrl, maxJobs) {
+  return `/* JobSearchAggregator · SEEK console scraper
+ * 1) Abra: ${searchUrl}
+ * 2) F12 → Console → cole → Enter
+ * Uso pessoal na sua sessão. Respeite o ToS do SEEK.
+ */
+(async () => {
+${commonHelpers()}
+  const FILTERS = ${JSON.stringify(filters)};
+  const MAX = ${Number(maxJobs) || 100};
+  const SEARCH_URL = ${esc(searchUrl)};
+
+  if (!/seek\\.(com\\.au|co\\.nz)/i.test(location.hostname)) {
+    alert("Abra o SEEK primeiro:\\n" + SEARCH_URL);
+    location.href = SEARCH_URL;
+    return;
+  }
+
+  toast("JSA SEEK: coletando…");
+  const byId = new Map();
+
+  function scrape() {
+    const cards = document.querySelectorAll([
+      'article[data-automation="normalJob"]',
+      'article[data-testid="job-card"]',
+      '[data-automation="jobListing"] article',
+      'div[data-automation="job-card"]',
+      'a[data-automation="jobTitle"]',
+    ].join(","));
+    cards.forEach((card) => {
+      const root = card.closest("article") || card.closest("[data-automation]") || card;
+      const titleEl = root.querySelector('a[data-automation="jobTitle"], h3 a, a[id^="job-title"]') || (card.matches?.("a") ? card : null);
+      const companyEl = root.querySelector('[data-automation="jobCompany"], [data-automation="job-company"], span[class*="company"]');
+      const locEl = root.querySelector('[data-automation="jobLocation"], [data-automation="job-location"]');
+      const salEl = root.querySelector('[data-automation="jobSalary"], [data-automation="job-salary"]');
+      const snipEl = root.querySelector('[data-automation="jobShortDescription"], [data-automation="job-description"]');
+      const href = titleEl?.href || "";
+      const title = text(titleEl);
+      if (!title || !href) return;
+      const id = href.replace(/[?#].*$/, "");
+      if (byId.has(id)) return;
+      byId.set(id, {
+        id,
+        title,
+        company: text(companyEl) || "—",
+        location: text(locEl) || "Remote",
+        url: absUrl(href),
+        description: text(snipEl),
+        salary: text(salEl) || null,
+        postedAt: text(root.querySelector('[data-automation="jobListingDate"], time')) || null,
+        source: "seek",
+      });
+    });
+  }
+
+  for (let page = 0; page < 15 && byId.size < MAX; page++) {
+    scrape();
+    toast("JSA SEEK: " + byId.size + " vagas (pág " + (page + 1) + ")");
+    window.scrollBy(0, 1800);
+    await sleep(700);
+    const next = document.querySelector('a[aria-label="Next"], a[data-automation="page-next"], a[rel="next"]');
+    if (!next || next.getAttribute("aria-disabled") === "true") break;
+    next.click();
+    await sleep(1600 + Math.random() * 700);
+  }
+  scrape();
+  return finish("seek", [...byId.values()].slice(0, MAX), location.href, FILTERS, { method: "dom" });
+})();`;
+}
+
+function stepstoneScript(filters, searchUrl, maxJobs) {
+  return `/* JobSearchAggregator · StepStone console scraper
+ * 1) Abra: ${searchUrl}
+ * 2) F12 → Console → cole → Enter
+ * Uso pessoal na sua sessão. Respeite o ToS do StepStone.
+ */
+(async () => {
+${commonHelpers()}
+  const FILTERS = ${JSON.stringify(filters)};
+  const MAX = ${Number(maxJobs) || 100};
+  const SEARCH_URL = ${esc(searchUrl)};
+
+  if (!/stepstone\\./i.test(location.hostname)) {
+    alert("Abra o StepStone primeiro:\\n" + SEARCH_URL);
+    location.href = SEARCH_URL;
+    return;
+  }
+
+  toast("JSA StepStone: coletando…");
+  const byId = new Map();
+
+  function scrape() {
+    const cards = document.querySelectorAll([
+      'article[data-at="job-item"]',
+      'div[data-at="job-item"]',
+      'article[class*="JobItem"]',
+      'li[class*="JobListItem"]',
+      'a[data-at="job-item-title"]',
+    ].join(","));
+    cards.forEach((card) => {
+      const root = card.closest("article, li, div[data-at]") || card;
+      const titleEl = root.querySelector('a[data-at="job-item-title"], h2 a, a[href*="stellenangebote"]') || (card.matches?.("a") ? card : null);
+      const companyEl = root.querySelector('[data-at="job-item-company-name"], [class*="CompanyName"], span[class*="company"]');
+      const locEl = root.querySelector('[data-at="job-item-location"], [class*="Location"]');
+      const salEl = root.querySelector('[data-at="job-item-salary"], [class*="Salary"]');
+      const snipEl = root.querySelector('[data-at="job-item-description"], [class*="Description"], p');
+      const href = titleEl?.href || "";
+      const title = text(titleEl);
+      if (!title || !href) return;
+      const id = href.replace(/[?#].*$/, "");
+      if (byId.has(id)) return;
+      byId.set(id, {
+        id,
+        title,
+        company: text(companyEl) || "—",
+        location: text(locEl) || "Germany / Remote",
+        url: absUrl(href),
+        description: text(snipEl).slice(0, 2000),
+        salary: text(salEl) || null,
+        postedAt: text(root.querySelector("time, [data-at='job-item-date']")) || null,
+        source: "stepstone",
+      });
+    });
+  }
+
+  for (let page = 0; page < 12 && byId.size < MAX; page++) {
+    scrape();
+    toast("JSA StepStone: " + byId.size + " vagas (pág " + (page + 1) + ")");
+    window.scrollBy(0, 1600);
+    await sleep(700);
+    const next = document.querySelector('a[data-at="pagination-next"], a[aria-label="Next"], button[aria-label="Next"]');
+    if (!next || next.disabled || next.getAttribute("aria-disabled") === "true") break;
+    next.click();
+    await sleep(1700 + Math.random() * 800);
+  }
+  scrape();
+  return finish("stepstone", [...byId.values()].slice(0, MAX), location.href, FILTERS, { method: "dom" });
+})();`;
+}
+
+function eurojobsScript(filters, searchUrl, maxJobs) {
+  return `/* JobSearchAggregator · EuroJobs console scraper
+ * SPA sem feed público estável — colete na página de resultados.
+ * 1) Abra: ${searchUrl}
+ * 2) Digite keywords no campo What se a URL não filtrar
+ * 3) F12 → Console → cole → Enter
+ */
+(async () => {
+${commonHelpers()}
+  const FILTERS = ${JSON.stringify(filters)};
+  const MAX = ${Number(maxJobs) || 100};
+  const SEARCH_URL = ${esc(searchUrl)};
+
+  if (!/eurojobs\\.com/i.test(location.hostname)) {
+    alert("Abra o EuroJobs primeiro:\\n" + SEARCH_URL);
+    location.href = SEARCH_URL;
+    return;
+  }
+
+  toast("JSA EuroJobs: coletando…");
+  const byId = new Map();
+
+  function scrape() {
+    const links = document.querySelectorAll('a[href*="/jobs/"]');
+    links.forEach((a) => {
+      const href = a.href || "";
+      if (!/\\/jobs\\/\\d+/i.test(href) && !/\\/job-/i.test(href)) return;
+      const title = text(a);
+      if (!title || title.length < 3) return;
+      const id = href.replace(/[?#].*$/, "");
+      if (byId.has(id)) return;
+      const root = a.closest("article, li, div, tr") || a.parentElement;
+      const companyEl = root?.querySelector('[class*="company"], [class*="Company"]');
+      const locEl = root?.querySelector('[class*="location"], [class*="Location"]');
+      byId.set(id, {
+        id,
+        title,
+        company: text(companyEl) || "—",
+        location: text(locEl) || "Europe",
+        url: absUrl(href),
+        description: text(root).slice(0, 500),
+        salary: null,
+        postedAt: null,
+        source: "eurojobs",
+      });
+    });
+  }
+
+  for (let page = 0; page < 10 && byId.size < MAX; page++) {
+    scrape();
+    toast("JSA EuroJobs: " + byId.size + " vagas");
+    window.scrollBy(0, 1400);
+    await sleep(800);
+    const next = [...document.querySelectorAll("a, button")].find((el) =>
+      /next|próxim|›|»/i.test(text(el)) && !el.disabled
+    );
+    if (!next) break;
+    next.click();
+    await sleep(1500 + Math.random() * 600);
+  }
+  scrape();
+  return finish("eurojobs", [...byId.values()].slice(0, MAX), location.href, FILTERS, { method: "dom" });
+})();`;
+}
+
 /**
- * @param {'linkedin'|'indeed'|'glassdoor'} source
+ * @param {'linkedin'|'indeed'|'glassdoor'|'seek'|'stepstone'|'eurojobs'} source
  * @param {object} filters
  * @param {{ maxJobs?: number }} [opts]
  */
 export function buildSearchUrl(source, filters) {
   if (source === "indeed") return buildIndeedSearch(filters);
   if (source === "glassdoor") return buildGlassdoorSearch(filters);
+  if (source === "seek") return buildSeekSearch(filters);
+  if (source === "stepstone") return buildStepStoneSearch(filters);
+  if (source === "eurojobs") return buildEuroJobsSearch(filters);
   return buildLinkedInSearch(filters);
 }
 
@@ -410,5 +621,8 @@ export function generateConsoleScript(source, filters, opts = {}) {
   const searchUrl = buildSearchUrl(source, filters);
   if (source === "indeed") return { searchUrl, script: indeedScript(filters, searchUrl, maxJobs) };
   if (source === "glassdoor") return { searchUrl, script: glassdoorScript(filters, searchUrl, maxJobs) };
+  if (source === "seek") return { searchUrl, script: seekScript(filters, searchUrl, maxJobs) };
+  if (source === "stepstone") return { searchUrl, script: stepstoneScript(filters, searchUrl, maxJobs) };
+  if (source === "eurojobs") return { searchUrl, script: eurojobsScript(filters, searchUrl, maxJobs) };
   return { searchUrl, script: linkedInScript(filters, searchUrl, maxJobs) };
 }
