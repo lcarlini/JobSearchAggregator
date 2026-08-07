@@ -1,7 +1,82 @@
 {
-  "generatedAt": "2026-08-07T07:16:10.486Z",
+  "generatedAt": "2026-08-07T13:06:37.197Z",
   "count": 150,
   "data": [
+    {
+      "id": "2ba01ca7-7110-4706-9689-10e7274ed734",
+      "title": "Game Logic Server Developer (Remote, Full-Time) [AS303]",
+      "url": "https://remotejobs.org/remote-jobs/game-logic-server-developer-remote-full-time-as303-smart-working",
+      "apply_url": "https://remotejobs.org/remote-jobs/game-logic-server-developer-remote-full-time-as303-smart-working",
+      "company": {
+        "name": "Smart Working",
+        "logo_url": null,
+        "website": "https://smartworking.io",
+        "url": "https://remotejobs.org/companies/smart-working"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "India",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "type": "Full-time",
+      "description": "About Smart WorkingAt Smart Working, we believe your job should not only look right on paper but also feel right every day. This isn’t just another remote opportunity - it’s about finding where you truly belong, no matter where you are. From day one, you’re welcomed into a genuine community that values your growth and well-being.\nOur mission is simple: to break down geographic barriers and connect skilled professionals with outstanding global teams and products for full-time, long-term roles. We help you discover meaningful work with teams that invest in your success, where you’re empowered to grow personally and professionally.\nJoin one of the highest-rated workplaces on Glassdoor and experience what it means to thrive in a truly remote-first world.\nAbout the RoleAs a Game Logic Server Developer, you will play a key role in bringing industry-leading online slot games to life, taking game concepts and design specifications and building them into fully working games on a Java code base. You will own the server-side game logic from the first commit through to release and take responsibility for delivering a client-ready final product.\nYou will work closely with Game Mathematicians to build game mechanics and prepare games for balancing, as well as collaborating with Client Developers, Designers, QA Engineers, and Producers to ensure the implementation aligns with the client, artwork, and intended player experience.\nAlongside developing new games, you will spend a meaningful amount of time improving, refactoring, and modernising the platform, helping maintain a healthy, consistent, and maintainable code base.\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/game-logic-server-developer-remote-full-time-as303-smart-working</p>",
+      "posted_at": "2026-08-07T10:55:49.278+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "e9abd1d9-333a-44f8-b4a0-a2929d279527",
+      "title": "Forward Deployed Engineer - APAC",
+      "url": "https://remotejobs.org/remote-jobs/forward-deployed-engineer-apac-deploy-ashby_",
+      "apply_url": "https://remotejobs.org/remote-jobs/forward-deployed-engineer-apac-deploy-ashby_",
+      "company": {
+        "name": "Deploy",
+        "logo_url": null,
+        "website": "https://deploy.co",
+        "url": "https://remotejobs.org/companies/deploy"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "Remote",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "type": "Full-time",
+      "description": "About the Company\n\nThe OpenAI Deployment Company (\"DeployCo\") is the deployment arm of OpenAI, purpose-built to deliver enterprise AI transformation at scale. As model capabilities accelerate, deployment has become the primary constraint to realizing AI value creation within large enterprises. DeployCo bridges that gap.\n\nOur ambition is to build the company that defines AI deployment. We operate at the intersection of cutting-edge AI, enterprise transformation, and scaled services delivery. We partner with enterprise customers to identify where AI can transform their businesses and build solutions leveraging OpenAI's models and products. We work with many of the world's largest and most influential companies to solve their most complex business challenges using the latest advances in AI.\n\nPeople who thrive at DeployCo get excited about ambitious and complex work. We are deep believers in the future with AI. We execute quickly, value intellectual honesty and empathy, and obsess over the solutions we build for our customers.\n\nDeployCo is being built from the ground up as a subsidiary of OpenAI and funded with a partnership of outside investors.\n\nAbout the Role\n\nWe are seeking a Senior Applied AI Software Engineer to lead the design, build, and deployment of enterprise AI systems. In this role, you will operate as a senior technical owner across customer engagements, shaping architecture, setting engineering standards, and helping teams move from prototypes to durable production AI systems. DeployCo is one of the few places where engineers can work with the autonomy of a small startup while building for the scale, complexity, and impact of the world’s largest enterprises.\n\nYour day-to-day will include leading technical discovery, designing solution architecture, building production-grade agentic AI applications, mentoring engineers, evaluating model behavior, and translating field learning into reusable platform and delivery patterns. We typically use existing closed- and open-source foundation models, including OpenAI models and APIs, and focus on turning state-of-the-art capabilities into reliable products.\n\nWe're looking for engineers who deploy high-quality agentic systems into real customer workflows and business critical decisions and deliver reusable components that help future deployments move faster.\n\nThis role is based in Singapore, with hybrid work and customer travel shaped by deployment needs.\n\nIn this role, you will:\n\n - Lead software engineering workstreams for customer deployments, owning architecture, implementation quality, evaluation strategy, and production readiness for LLM-powered systems.\n\n - Build AI applications, agents, and workflow tools using LLMs, retrieval, orchestration, APIs, data systems, and production software practices.\n\n - Guide engineers through ambiguous technical problems, reviewing designs, code, tradeoffs, and operating assumptions.\n\n - Work directly with customer technical teams and business stakeholders to translate workflows into reliable AI systems.\n\n - Prototype quickly, identify what is reusable, and harden successful patterns into reference architectures and implementation assets.\n\n - Design evaluation and monitoring approaches that improve quality, reliability, safety, and customer trust.\n\n - Surface field insights to Product and Research, connecting deployment reality to roadmap priorities and model/system improvements.\n\nYou may thrive in this role if you:\n\n - Bring senior software engineering experience building production applications and microservices, including APIs, scalable data pipelines, data systems, and cloud infrastructure.\n\n - Use your expertise in Python and SQL to design and build robust data applications in enterprise environments.\n\n - Bring production LLM experience, including leading teams delivering generative AI systems with hands-on understanding in agents, retrieval, evaluation, fine-tuning, prompt engineering, and model integration.\n\n - Have led software engineering projects from prototype to production and can set a high-quality bar while keeping teams moving quickly.\n\n - Are comfortable as a hands-on player-coach: writing code, reviewing designs, mentoring engineers, and owning customer outcomes.\n\n - Communicate clearly with executive, product, research, customer, and engineering audiences when decisions involve risk or ambiguity.\n\n - Make disciplined standardization-versus-customization decisions instead of defaulting to bespoke work.\n\n - Operate calmly under pressure and turn messy deployment problems into practical, reusable engineering patterns.\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/forward-deployed-engineer-apac-deploy-ashby_</p>",
+      "posted_at": "2026-08-07T09:50:18.155+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "8b2962db-4630-45ba-9029-b8f55259e5dd",
+      "title": "Senior Game Mathematician (Remote, Full-Time) [AS302]",
+      "url": "https://remotejobs.org/remote-jobs/senior-game-mathematician-remote-full-time-as302-smart-working",
+      "apply_url": "https://remotejobs.org/remote-jobs/senior-game-mathematician-remote-full-time-as302-smart-working",
+      "company": {
+        "name": "Smart Working",
+        "logo_url": null,
+        "website": "https://smartworking.io",
+        "url": "https://remotejobs.org/companies/smart-working"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "India",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "type": "Full-time",
+      "description": "About Smart Working\n \nAt Smart Working, we believe your job should not only look right on paper but also feel right every day. This isn’t just another remote opportunity - it’s about finding where you truly belong, no matter where you are. From day one, you’re welcomed into a genuine community that values your growth and well-being.\n \nOur mission is simple: to break down geographic barriers and connect skilled professionals with outstanding global teams and products for full-time, long-term roles. We help you discover meaningful work with teams that invest in your success, where you’re empowered to grow personally and professionally.\nJoin one of the highest-rated workplaces on Glassdoor and experience what it means to thrive in a truly remote-first world.\n \nAbout the Role\nAs a Senior Game Mathematician, you will create mathematical models for high-quality, mobile-optimised online casino games and analyse them from a mathematical balancing and design perspective. You will own the end-to-end mathematical design process for complex titles, ensuring models deliver the right player experience while meeting commercial goals.\nYou will work closely with Product Owners, Game Designers, Game Developers, QA, Artists and the Commercial Team to develop innovative games and mathematically sound slot mechanics. You will also use sophisticated simulation and quantitative analysis to validate models and identify opportunities in the market.\nThe role is hybrid in London or Warsaw, with a negotiable salary depending on experience. While there is currently no people management responsibility, the role may grow to include managing and developing a small team of junior mathematicians.\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-game-mathematician-remote-full-time-as302-smart-working</p>",
+      "posted_at": "2026-08-07T09:41:59.854+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
     {
       "id": "90cd9aa8-320b-4666-9944-6e8ccbae7646",
       "title": "QA Automation Engineer (Remote, Full-Time) [HR189] (PK)",
@@ -110,7 +185,7 @@
       "company": {
         "name": "University of Chicago",
         "logo_url": null,
-        "website": null,
+        "website": "https://university.com",
         "url": "https://remotejobs.org/companies/university-of-chicago"
       },
       "category": {
@@ -135,7 +210,7 @@
       "company": {
         "name": "Genesis Digital",
         "logo_url": null,
-        "website": null,
+        "website": "https://genesisdigital.com",
         "url": "https://remotejobs.org/companies/genesis-digital"
       },
       "category": {
@@ -1174,81 +1249,6 @@
       "type": "Full-time",
       "description": "About Goodie AI:\n\nGoodie helps leading brands win AI search. As billions of people use ChatGPT, Perplexity, Gemini, and other AI systems to discover products and make buying decisions, brands need a way to understand and influence how they’re represented.\n\nGoodie gives teams a full AI control plane: real-time visibility into how AI models speak about their brand and products, how competitors show up, and an optimization engine to improve visibility and performance. This category didn’t exist two years ago - we were early, and we’re defining it.\n\nWe’re backed by strong investors, trusted by category-leading customers, and scaling fast. We’re hiring curious, ambitious builders to help shape the future of AI search.\n\nWe are looking for:\n\nWe're seeking an exceptional Senior Software Engineer to join our rapidly growing AI Lab. You will play a critical role in driving and accelerating the development of cutting-edge AI use cases, working closely with our Product Lead, Designers and Machine Learning Engineers to design and build scalable, industry-leading AI solutions.\n\nYou'll do:\n\n- Lead the development of our AI platform, focusing on scalability, speed, and user experience.\n\n- Architect and develop front-end solutions using React to create smooth, engaging, and intentional user experiences.\n\n- Implement back-end infrastructure with a focus on speed, scalability, security, and seamless integration with various platforms via robust API connections.\n\n- Utilize DevOps practices to manage the deployment pipeline, ensuring efficient, reliable, and secure software delivery.\n\n- Collaborate with UX/UI Designers to translate web designs into functional, intuitive user interfaces.\n\n- Work closely with Data Scientists to ensure accurate data collection, analysis, and application within the platform.\n\n- Participate in the entire application lifecycle, from coding to debugging and testing, with an emphasis on quality and performance.\n\n- Maintain and optimize the performance of existing applications.\n\n- Stay up-to-date with emerging technologies and explore potential integrations to enhance our operations.\n\nYou have:\n\n- 5+ years of full-stack development experience with a proven track record of building high usage B2B software applications.\n\n- Proficiency in React for front-end development, with a strong understanding of how to build responsive, high-performance web applications.\n\n- Experience with server-side languages such as Python, Node.js, or Java.\n\n- Strong understanding of DevOps practices and experience in software deployment, including CI/CD pipelines, containerization (e.g., Docker), and cloud infrastructure (AWS, Google Cloud, or Azure).\n\n- Solid knowledge of database management systems (e.g., MySQL, PostgreSQL, MongoDB).\n\n- Experience with RESTful APIs, API integration, and data exchange formats (JSON, XML).\n\n- Familiarity with software development best practices, including version control (Git), testing, and continuous integration/deployment (CI/CD).\n\n- Excellent problem-solving skills and the ability to debug complex systems.\n\n- Strong leadership and communication skills, with the ability to collaborate effectively with cross-functional teams.\n\n- Passion for ad tech and a desire to work in a fast-paced, innovative startup environment.\n\n- BSc in Computer Science, Engineering, or a relevant field.\n\nBEWARE OF FRAUD! Please be aware of potentially fraudulent job postings or suspicious activity by persons that are posing as Goodie AI team members, recruiters, and HR employees. Our team will contact you regarding job opportunities from email addresses ending in @ or @. Additionally, we do utilize our ATS- Ashby- to help us schedule initial screening calls. Job seeking is hard- we’re sorry that scammers have added this element to your search for something new. Stay vigilant out there!\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/front-end-engineer-nogood</p>",
       "posted_at": "2026-08-05T20:32:02+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "71062e2f-05f0-48f9-bd95-2d0f0f26e3eb",
-      "title": "G51 - Full Stack Engineer",
-      "url": "https://remotejobs.org/remote-jobs/g51-full-stack-engineer-fpt-asia-pacific-pte-ltd",
-      "apply_url": "https://remotejobs.org/remote-jobs/g51-full-stack-engineer-fpt-asia-pacific-pte-ltd",
-      "company": {
-        "name": "FPT Asia Pacific Pte Ltd",
-        "logo_url": null,
-        "website": "https://fpt.com",
-        "url": "https://remotejobs.org/companies/fpt-asia-pacific-pte-ltd"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "Remote",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "type": "Full-time",
-      "description": "As a Software Engineer, you will be part of a multi-disciplinary team working on a long-term initiative to build and enhance a Governance, Risk, and Compliance (GRC) platform. The platform focuses on automating workflows and simplifying compliance processes through intuitive, user-centric design.\n\nYou will contribute to the design and development of modern, scalable systems that integrate compliance early into the development lifecycle, enabling faster, more secure delivery of applications. The work involves building reusable services, automating control checks, and continuously improving system reliability and performance.\n\nYou will collaborate closely with engineers, designers, product owners, and DevOps practitioners to deliver high-quality features and continuously raise engineering standards.\n\nResponsibilities\n\n- Design and implement scalable      system architectures\n\n- Write clean, maintainable, and      well-structured code\n\n- Conduct code reviews and      contribute to engineering best practices\n\n- Develop unit tests and      integration tests to ensure system quality\n\n- Tackle a wide range of technical      challenges across the full stack\n\n- Participate in regular      tech-sharing sessions and team retrospectives\n\nCollaboration\n\nYou will work closely with cross-functional team members to:\n\n- Partner with designers to      understand user pain points, prototype solutions, and iterate based on      feedback\n\n- Collaborate with DevOps engineers      to manage CI/CD pipelines and support smooth deployments\n\n- Support Product Owners and      Business Analysts with technical input and solution design\n\n- Contribute to a positive and      collaborative team culture within an Agile environment\n\nRequirements\n\n- Strong understanding of      programming fundamentals\n\n- Experience building and deploying      full-stack enterprise applications\n\n- Hands-on experience with modern      web application stacks (preferably Django and React)\n\n- Experience working with AWS      services\n\n- Familiarity with Agile software      development practices\n\n- Experience with automated testing      frameworks\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/g51-full-stack-engineer-fpt-asia-pacific-pte-ltd</p>",
-      "posted_at": "2026-08-05T20:32:01+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "50c2f336-4eac-45aa-8b5b-4cac17032503",
-      "title": "Senior Back-End Developer - Backbase and .Net",
-      "url": "https://remotejobs.org/remote-jobs/senior-back-end-developer-backbase-and-net-aequilibrium",
-      "apply_url": "https://remotejobs.org/remote-jobs/senior-back-end-developer-backbase-and-net-aequilibrium",
-      "company": {
-        "name": "Aequilibrium",
-        "logo_url": "https://cdn-images.himalayas.app/82tj9qsvykv8mk085pqmzw9u9paj",
-        "website": "https://aequilibrium.com",
-        "url": "https://remotejobs.org/companies/aequilibrium"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "Remote",
-      "salary_min": 90000,
-      "salary_max": 130000,
-      "salary_text": "CAD 90,000 - 130,000",
-      "type": "Full-time",
-      "description": "Senior Back-End Developer – Backbase and .NET\n\nWe're looking for a Senior Back-End Developer with expertise in the Backbase digital banking platform and the Microsoft .NET ecosystem. When you join Aequilibrium, you'll be part of a fun and agile technology professional services company driving innovation in financial services.\n\nWe're seeking a consultative, client-facing developer who can design, build, integrate, and extend enterprise banking solutions using Backbase and .NET technologies. You'll work closely with clients, product teams, architects, and fellow engineers to deliver scalable, secure, and modern digital banking experiences.\n\nWho You Are\n\n- You have experience integrating, extending, and implementing the Backbase digital banking platform.\n\n- You have strong experience designing and developing enterprise-grade applications using .NET and C#.\n\n- You have worked in professional services, consulting, or agency environments and are comfortable interacting directly with clients.\n\n- You can manage multiple projects and priorities while maintaining high-quality deliverables.\n\n- You are passionate about technology and solving complex business challenges.\n\n- You can translate business requirements into scalable technical solutions and architecture.\n\n- You collaborate effectively with Product Managers, Designers, Architects, and Engineers.\n\n- You are proactive, consultative, and comfortable leading technical discussions with stakeholders.\n\n- You value writing clean, maintainable, testable code and mentoring other developers.\n\n- You have strong analytical, troubleshooting, and problem-solving skills.\n\n- You enjoy participating in peer code reviews and promoting engineering best practices.\n\n- You embrace Agile principles and contribute positively to team success.\n\nMust-Have Qualifications\n\n- Experience implementing, integrating, and extending the Backbase digital banking platform.\n\n- \n5+ years of professional software development experience with:\n\n- C#\n\n- .NET Core / .NET 6+\n\n- ASP.NET Core\n\n- Entity Framework\n\n- Strong experience designing and building RESTful APIs and microservices.\n\n- Experience with SOAP and REST integrations, JSON, XML, and modern API design practices.\n\n- Strong understanding of distributed systems and microservices architecture.\n\n- Experience with event-driven architectures and messaging technologies.\n\n- Experience writing automated unit and integration tests using frameworks such as xUnit, NUnit, or MSTest.\n\n- Strong knowledge of Git and modern source control workflows.\n\n- Experience developing large-scale, enterprise-grade applications.\n\n- Experience working with cloud platforms such as Azure, AWS, or GCP.\n\n- Experience with containerization technologies including Docker and Kubernetes.\n\n- Understanding of application security, authentication, authorization, OAuth2, OpenID Connect, and systems handling sensitive customer data.\n\n- Experience with CI/CD pipelines and DevOps practices.\n\n- Experience working in financial services, fintech, banking, or professional services environments.\n\n- Bachelor's degree in Computer Science, Software Engineering, or a related field (or equivalent practical experience).\n\n- Experience working within Agile teams using Scrum and/or Kanban.\n\n- Knowledge of Test-Driven Development (TDD) and Continuous Integration practices.\n\nNice-to-Have Qualifications\n\n- Experience with Azure cloud-native services.\n\n- Experience with event streaming technologies such as Kafka.\n\n- Experience with OpenShift.\n\n- Experience leading technical initiatives or mentoring developers.\n\n- Banking or digital banking domain expertise.\n\nLocation\n\nThis is a 100% remote full-time position for candidates based in the Americas. Candidates located outside of Canada will only be able to work for the company as independent contractors.\n\nCompensation\n\nThe salary range for this position is CAD $90K–$130K annually (or the equivalent hourly rate for candidates outside of Canada, who will be working as contractors). Compensation will be based on skills, experience, and qualifications.\n\nAbout AEQ\n\nAequilibrium is a technology professional services organization voted multiple times among the Top 5 Best Companies to Work For, Top 5 Digital Agencies, and Fastest Growing Tech Companies in BC, and winner of multiple VancouverUX Awards for product design.\n\nWe bring together product and project managers, designers, and developers dedicated to creating winning web, mobile, and emerging technology solutions. Our team uses Agile methodologies and Lean Startup principles to deliver our clients' projects faster and with less risk.\n\nIf you feel you'll thrive in this environment and can make a meaningful contribution, please apply today!\n\nSome of Our Benefits\n\nWe offer our full-time employees:\n\n- Competitive compensation\n\n- Remote-first workplace\n\n- Medical, dental, and extended health benefits (premiums fully covered by the company)\n\n- Employee bonus programs\n\n- Team-bonding events\n\nLearn more about our team: aequilibrium.com/careers\n\nPlease Note\n\nAt Aequilibrium, we seek candidates who will contribute to our culture of valuing, respecting, supporting, and caring for each other. Diversity of thought and perspectives is critical to our success, and all applicants are considered regardless of sexual orientation, gender identity, race, color, age, disability, marital status, heritage, religious, or political beliefs.\n\nAequilibrium is trusted with highly sensitive information. Upon joining our team, you may be asked to undergo security screenings, including a criminal record check.\n\nGet Social with Us!\n\nLinkedIn | Twitter | Instagram | Facebook\n\nCheck out some of our recent press:\n\nBC Business | Thought Leadership articles, about XR, and other interesting content on our blog\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-back-end-developer-backbase-and-net-aequilibrium</p>",
-      "posted_at": "2026-08-05T20:31:59+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "11b30163-bc54-4b78-9fef-331085229334",
-      "title": "Frontend Software Engineer (React)",
-      "url": "https://remotejobs.org/remote-jobs/frontend-software-engineer-react-softeta",
-      "apply_url": "https://remotejobs.org/remote-jobs/frontend-software-engineer-react-softeta",
-      "company": {
-        "name": "Softeta",
-        "logo_url": "https://cdn-images.himalayas.app/jeyagncszw0rskgac2edfkpggn70",
-        "website": "https://softeta.com",
-        "url": "https://remotejobs.org/companies/softeta"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "Remote",
-      "salary_min": 42000,
-      "salary_max": 54000,
-      "salary_text": "EUR 42,000 - 54,000",
-      "type": "Full-time",
-      "description": "About the company\n\nSofteta is a custom development company that provides web and mobile software solutions. Softeta has been serving start-ups, medium-sized and large companies.\n\nWe are a team of 35 professionals who use the latest tools, technologies and industry trends to create reliable and secure software solutions that meet all business requirements. \n\nAbout the  role\n\nWe’re looking for a Senior or Mid Frontend  Software Engineer to join our Engineering team who will work with enterprise-level privacy and security solutions. \n\nOur technology stack - ﻿React, Redux, Typescript. Material UI, Styled Components, Jest and Cypress.﻿﻿\n\nResponsibilities\n\n- Write reusable and efficient code with ReactJS\n\n- Collaborate with Product Owners, Designers and QA to build large scale products\n\n- Be involved in the user experience design process\n\n- Follow high engineering standards and best practices\n\nSkills\n\n- Extensive work experience with JavaScript or Typescript\n\n- Experience with React or any modern JS framework\n\n- Knowledge of state management tools (Redux, MobX)\n\n- Familiar with various design and architectural patterns and best practices\n\n- Ability to build clean and tested code\n\n- Good English skills\n\nWe offer\n\n- Diverse and technically challenging projects\n\n- Agile/SCRUM working environment\n\n- Training budget for conferences, books, workshops\n\n- Flexible working hours and opportunity to work from home \n\n- Health insurance\n\nSalary range\n\n- For Mid Level Engineer -  from 3500 EUR  to 4500 EUR gross/monthly\n\n- For Senior Level Engineer -  from 5000 EUR  to 6600 EUR gross/monthly.\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/frontend-software-engineer-react-softeta</p>",
-      "posted_at": "2026-08-05T20:31:59+00:00",
       "is_translated": false,
       "original_language": null
     },
@@ -2585,7 +2585,7 @@
       "company": {
         "name": "Franklin Institute of Applied Sciences",
         "logo_url": null,
-        "website": null,
+        "website": "https://franklin.com",
         "url": "https://remotejobs.org/companies/franklin-institute-of-applied-sciences"
       },
       "category": {
