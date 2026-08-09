@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T06:56:18.953Z",
+  "generatedAt": "2026-08-09T12:49:54.670Z",
   "count": 150,
   "data": [
     {
@@ -10,7 +10,7 @@
       "company": {
         "name": "Constellation West",
         "logo_url": null,
-        "website": null,
+        "website": "https://constellationwest.com",
         "url": "https://remotejobs.org/companies/constellation-west"
       },
       "category": {
@@ -153,31 +153,6 @@
       "original_language": null
     },
     {
-      "id": "b1657fff-138b-415f-9cd8-4319d786a0f1",
-      "title": "IFS Cloud / Oracle PL/SQL Developer - Remote Work Type",
-      "url": "https://remotejobs.org/remote-jobs/ifs-cloud-oracle-plsql-developer-remote-work-type-directio-sp-z-oo",
-      "apply_url": "https://remotejobs.org/remote-jobs/ifs-cloud-oracle-plsql-developer-remote-work-type-directio-sp-z-oo",
-      "company": {
-        "name": "Directio Sp. z o.o.",
-        "logo_url": null,
-        "website": "https://directio.com",
-        "url": "https://remotejobs.org/companies/directio-sp-z-oo"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "Poland / Remotely",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "type": "Full-time",
-      "description": "# IFS Cloud / Oracle PL/SQL Developer - Remote Work Type\n\n## About the Project\n\nDirectio is a global IT services company. We consult, code, test, deploy, and manage mainly cloud-based and mobile applications, providing around-the-clock support from our offices in Poland, the Philippines, Mexico, and the USA. We prepare our FMCG, retail, automotive, and SaaS clients for the future by accelerating their digital transformation. Operating under the \"We Code Success\" principle, we prioritize the success of our clients, consultants, and partners.\n\nWe are looking for an IFS Cloud / Oracle PL/SQL Developer for our Polish client, a manufacturer of modern acoustic pods and soundproofing solutions for offices. The role involves developing and maintaining IFS Cloud solutions that support the company's key business processes.\n\nThis is a direct placement project - not outsourcing!\n\n## Responsibilities\n\n• You will be developing and maintaining solutions within the IFS Cloud system, supporting the organization's business processes and ongoing IT transformation initiatives;\n• You will be designing, modifying, and optimizing Oracle PL/SQL queries, procedures, and packages, as well as analyzing and resolving system errors;\n• You will be creating and maintaining reports using IFS Report Designer, providing business users with reliable information that supports their day-to-day operations and decision-making;\n• You will be developing and maintaining system integrations using REST API, XML, and JSON, while cooperating with the IT team, business users, and process owners;\n• You will be supporting business users and participating in the standardization and continuous improvement of IT solutions and development practices.\n\n## Requirements\n\n• Practical experience with IFS Cloud is required; experience limited to IFS Applications 10 will not be sufficient for this position;\n• Good knowledge of Oracle PL/SQL and Oracle Database, including the ability to develop and modify queries, procedures, and packages;\n• Familiarity with integration technologies and data formats, particularly REST API, JSON, and XML;\n• Experience in report development using IFS Report Designer or a similar reporting solution;\n• Understanding of business processes in at least one of the following areas: manufacturing, finance, warehousing, logistics, or HR;\n• Good command of English, sufficient to work effectively with technical documentation;\n• Basic knowledge of Java is considered an advantage;\n• Knowledge of Marble or IFS Developer Studio is considered an advantage;\n• Experience with Git repositories and an understanding of version control concepts, including branching and pull requests, is considered an advantage;\n• Knowledge of clean code principles and basic familiarity with Agile or Scrum methodologies are considered an advantage;\n• Awareness of AI tools supporting software development, such as code assistants or code analysis tools, is considered an advantage.\n\n## We Offer\n\n• Salary: 26,000 – 28,000 PLN netto / B2B\n\n## Position Details\n\n**Department:** Database Department  \n**Location:** Warsaw  \n**Remote Status:** Fully Remote  \n**Seniority Level:** Mid-level  \n**Jobs - Location:** Poland\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/ifs-cloud-oracle-plsql-developer-remote-work-type-directio-sp-z-oo</p>",
-      "posted_at": "2026-08-09T00:03:27.724+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
       "id": "46462883-1c3f-4b43-841a-c578763cc2d1",
       "title": "Automation Developer - Hybrid Work Type",
       "url": "https://remotejobs.org/remote-jobs/automation-developer-hybrid-work-type-directio-sp-z-oo",
@@ -248,6 +223,31 @@
       "salary_text": null,
       "type": "Full-time",
       "description": "# Senior AI/Python Developer - Remote Work Type\n\n**Department:** Backend Department\n**Location:** Warsaw\n**Remote Status:** Fully Remote\n**Seniority Level:** Senior\n\n## About Directio\n\nDirectio is a global IT services company. We consult, code, test, deploy, and manage mainly cloud-based and mobile applications, providing around-the-clock support from our offices in Poland, the Philippines, Mexico, and the USA. We prepare our FMCG, retail, automotive, and SaaS clients for the future by accelerating their digital transformation. Operating under the \"We Code Success\" principle, we prioritize the success of our clients, consultants, and partners.\n\n## About the Project\n\nWe are looking for an AI/Python Developer for our Swedish client who will participate in developing a platform for collecting employee and customer feedback. Our client helps other companies make informed decisions based on data to obtain useful information.\n\n## Responsibilities\n\n- As an AI/Python Developer, you will be designing, developing, and deploying smart, scalable, and production-ready AI-powered services using Python, ensuring optimal performance, maintainability, and adaptability to evolving business needs\n- You will be leveraging cutting-edge AI tools such as Claude, Cursor, GitHub Copilot, and other emerging technologies to accelerate development workflows, enhance code quality, and drive innovation\n- You will be architecting and optimizing hybrid retrieval systems to support LLM-based agents, large-scale knowledge bases, and enterprise data lake exploration, focusing on speed, relevance, and scalability\n- You will be collaborating closely with the core product development team—working in a tech stack that includes React and Node.js to seamlessly integrate AI capabilities into end-user experiences\n- You will be leading new AI initiatives from concept to deployment—rapidly prototyping solutions, conducting feasibility testing, refining designs, and driving continuous improvements in alignment with product and business objectives\n- You will be utilizing Azure cloud infrastructure to deploy, monitor, and manage AI workloads, applying best practices for scalability, cost-efficiency, and security\n- You will be staying ahead of the rapidly evolving LLM/AI ecosystem, continuously evaluating new frameworks, models, and approaches to keep the organization at the forefront of AI adoption\n- You will be developing advanced AI agents using LangGraph, MCP, gRPC, and a combination of proprietary and open-source models, ensuring robust performance in complex environments\n- You will be building scalable and resilient data services using Kafka, RabbitMQ, and a variety of ELT platforms to support high-throughput, real-time data processing\n- You will be implementing CI/CD workflows with GitHub Actions, Azure services, ArgoCD, and Argo Workflows, working closely with the SRE team to ensure smooth deployments and operational stability\n\n## Requirements\n\n- 5+ years of professional experience with Python, demonstrating deep expertise in designing, building, and optimizing backend services, automation scripts, and AI-driven applications\n- Proven experience working with Generative AI tools such as Claude, Cursor, GitHub Copilot, or similar, with the ability to integrate them effectively into real-world solutions\n- Strong background in modern data retrieval architectures, including hands-on experience with vector databases, embedding stores, and hybrid search systems\n- Expertise in indexing, querying, and retrieving data from large-scale data lakes, with an emphasis on optimizing relevance and efficiency for LLMs and AI agents\n- Solid understanding of APIs, microservices, and distributed backend architecture for building scalable, fault-tolerant systems\n- Hands-on experience deploying and managing solutions in Azure or equivalent cloud platforms\n- Excellent English communication skills, both written and verbal, with the ability to clearly convey complex concepts to technical and non-technical audiences\n- Collaborative and team-oriented mindset, with a focus on collective success and a willingness to share knowledge\n\n## Nice to Have\n\n- Knowledge of NLP technologies such as Word2Vec, CBOW, LSTM, ML, RNNs, NLTK, and related AI/ML frameworks\n- Experience with data processing frameworks like Apache Flink, Apache Spark, and Superset, as well as ELT/ETL tools such as Airflow or Meltano\n- Strong working knowledge of PostgreSQL, including query optimization and advanced data modeling techniques\n\n## We Offer\n\n- Salary: 25,000 - 28,000 PLN + VAT on B2B\n- Professional trainings\n- Flexible working conditions\n- Private healthcare and Multisport card\n\n**Please be advised that we will only contact selected candidates**\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-aipython-developer-remote-work-type-directio-sp-z-oo</p>",
+      "posted_at": "2026-08-09T00:03:27.724+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "b1657fff-138b-415f-9cd8-4319d786a0f1",
+      "title": "IFS Cloud / Oracle PL/SQL Developer - Remote Work Type",
+      "url": "https://remotejobs.org/remote-jobs/ifs-cloud-oracle-plsql-developer-remote-work-type-directio-sp-z-oo",
+      "apply_url": "https://remotejobs.org/remote-jobs/ifs-cloud-oracle-plsql-developer-remote-work-type-directio-sp-z-oo",
+      "company": {
+        "name": "Directio Sp. z o.o.",
+        "logo_url": null,
+        "website": "https://directio.com",
+        "url": "https://remotejobs.org/companies/directio-sp-z-oo"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "Poland / Remotely",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "type": "Full-time",
+      "description": "# IFS Cloud / Oracle PL/SQL Developer - Remote Work Type\n\n## About the Project\n\nDirectio is a global IT services company. We consult, code, test, deploy, and manage mainly cloud-based and mobile applications, providing around-the-clock support from our offices in Poland, the Philippines, Mexico, and the USA. We prepare our FMCG, retail, automotive, and SaaS clients for the future by accelerating their digital transformation. Operating under the \"We Code Success\" principle, we prioritize the success of our clients, consultants, and partners.\n\nWe are looking for an IFS Cloud / Oracle PL/SQL Developer for our Polish client, a manufacturer of modern acoustic pods and soundproofing solutions for offices. The role involves developing and maintaining IFS Cloud solutions that support the company's key business processes.\n\nThis is a direct placement project - not outsourcing!\n\n## Responsibilities\n\n• You will be developing and maintaining solutions within the IFS Cloud system, supporting the organization's business processes and ongoing IT transformation initiatives;\n• You will be designing, modifying, and optimizing Oracle PL/SQL queries, procedures, and packages, as well as analyzing and resolving system errors;\n• You will be creating and maintaining reports using IFS Report Designer, providing business users with reliable information that supports their day-to-day operations and decision-making;\n• You will be developing and maintaining system integrations using REST API, XML, and JSON, while cooperating with the IT team, business users, and process owners;\n• You will be supporting business users and participating in the standardization and continuous improvement of IT solutions and development practices.\n\n## Requirements\n\n• Practical experience with IFS Cloud is required; experience limited to IFS Applications 10 will not be sufficient for this position;\n• Good knowledge of Oracle PL/SQL and Oracle Database, including the ability to develop and modify queries, procedures, and packages;\n• Familiarity with integration technologies and data formats, particularly REST API, JSON, and XML;\n• Experience in report development using IFS Report Designer or a similar reporting solution;\n• Understanding of business processes in at least one of the following areas: manufacturing, finance, warehousing, logistics, or HR;\n• Good command of English, sufficient to work effectively with technical documentation;\n• Basic knowledge of Java is considered an advantage;\n• Knowledge of Marble or IFS Developer Studio is considered an advantage;\n• Experience with Git repositories and an understanding of version control concepts, including branching and pull requests, is considered an advantage;\n• Knowledge of clean code principles and basic familiarity with Agile or Scrum methodologies are considered an advantage;\n• Awareness of AI tools supporting software development, such as code assistants or code analysis tools, is considered an advantage.\n\n## We Offer\n\n• Salary: 26,000 – 28,000 PLN netto / B2B\n\n## Position Details\n\n**Department:** Database Department  \n**Location:** Warsaw  \n**Remote Status:** Fully Remote  \n**Seniority Level:** Mid-level  \n**Jobs - Location:** Poland\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/ifs-cloud-oracle-plsql-developer-remote-work-type-directio-sp-z-oo</p>",
       "posted_at": "2026-08-09T00:03:27.724+00:00",
       "is_translated": false,
       "original_language": null
@@ -2560,7 +2560,7 @@
       "company": {
         "name": "Staritas",
         "logo_url": null,
-        "website": null,
+        "website": "https://staritas.com",
         "url": "https://remotejobs.org/companies/staritas"
       },
       "category": {
