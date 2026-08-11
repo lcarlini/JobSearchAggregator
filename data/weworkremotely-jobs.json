@@ -1,7 +1,22 @@
 {
-  "generatedAt": "2026-08-11T01:45:36.921Z",
-  "count": 380,
+  "generatedAt": "2026-08-11T07:08:03.057Z",
+  "count": 369,
   "jobs": [
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/airtable-program-manager-professional-services-west",
+      "source": "weworkremotely",
+      "title": "Program Manager, Professional Services - West",
+      "company": "Airtable",
+      "url": "https://weworkremotely.com/remote-jobs/airtable-program-manager-professional-services-west",
+      "description": "Headquarters: San Francisco, CA; Remote - US Airtable is the no-code app platform that empowers people closest to the work to accelerate their most critical business processes. More than 500,000 organizations, including 80% of the Fortune 100, rely on Airtable to transform how work gets done. Work is being redesigned, and Airtable is built for that moment: the same platform humans run their most critical workflows on is where agents now operate alongside them. Professional Services is where that redesign happens. The Technical Project Manager runs delivery on our most complex engagements. This is not a coordination role; it's a technical delivery lead position with accountability across an Airtable PS team, external development partners, and enterprise customer stakeholders, all moving tow",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "programming"
+      ],
+      "postedAt": "Wed, 22 Jul 2026 07:01:44 +0000",
+      "category": "programming"
+    },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/stripe-credit-risk-analyst-commercial-underwriter-west-coast",
       "source": "weworkremotely",
@@ -30,21 +45,6 @@
         "programming"
       ],
       "postedAt": "Wed, 22 Jul 2026 07:01:35 +0000",
-      "category": "programming"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/airtable-manager-sales-strategy-planning",
-      "source": "weworkremotely",
-      "title": "Manager, Sales Strategy & Planning",
-      "company": "Airtable",
-      "url": "https://weworkremotely.com/remote-jobs/airtable-manager-sales-strategy-planning",
-      "description": "Headquarters: Remote - US Airtable is the no-code app platform that empowers people closest to the work to accelerate their most critical business processes. More than 500,000 organizations, including 80% of the Fortune 100, rely on Airtable to transform how work gets done. Airtable's Sales Strategy & Planning team operates as the analytical backbone of the sales organization — building the reporting infrastructure, operational frameworks, and strategic insights that sales leaders rely on to make decisions. We are looking for a Manager, Sales Strategy & Planning to join this team as a versatile strategist and analyst who can plug into the highest-priority work across the sales org at any given time. You will build and maintain sources of truth, generate actionable insights from complex dat",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "programming"
-      ],
-      "postedAt": "Wed, 22 Jul 2026 07:01:32 +0000",
       "category": "programming"
     },
     {
@@ -435,21 +435,6 @@
         "devops"
       ],
       "postedAt": "Fri, 24 Jul 2026 07:01:22 +0000",
-      "category": "devops"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/abnormal-content-strategist",
-      "source": "weworkremotely",
-      "title": "Content Strategist",
-      "company": "Abnormal",
-      "url": "https://weworkremotely.com/remote-jobs/abnormal-content-strategist",
-      "description": "Headquarters: Remote - USA About the Role Abnormal AI is looking for a Content Strategist to join our Content Marketing team and help connect messaging to activation across the business. This role sits at the intersection of campaign strategy, content development, and amplification: you’ll partner with Integrated Marketing and Content Marketing leadership to support campaign messaging, contribute to downstream execution, and help ensure content across channels is cohesive and ready for market. This is an individual contributor role for someone who is excited to operate in an AI-native environment. You’ll help take raw inputs — including research, customer stories, webinars, and internal materials — and turn them into activation-ready content and derivative assets using modern tools and wor",
-      "location": "Anywhere in the World",
-      "tags": [
-        "DevOps and Sysadmin",
-        "devops"
-      ],
-      "postedAt": "Fri, 24 Jul 2026 07:01:02 +0000",
       "category": "devops"
     },
     {
@@ -1141,6 +1126,36 @@
       ],
       "postedAt": "Thu, 28 May 2026 07:25:37 +0000",
       "category": "devops"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/pixel-one-senior-visual-designer",
+      "source": "weworkremotely",
+      "title": "Senior Visual designer",
+      "company": "Pixel One",
+      "url": "https://weworkremotely.com/remote-jobs/pixel-one-senior-visual-designer",
+      "description": "Headquarters: Canada URL: https://pixel-one.com/ Full-time · Remote (Canada based preferred) Pixel One is a design studio for ambitious B2B SaaS teams. We embed with our clients, join their standups, and stay with their product as it evolves. Average client retention is 24+ months, which means you'll see what your work does to a business over years, not weeks. We're looking for a Senior Visual Designer to own client work from concept through final delivery. This is not a role where you execute someone else's brief. You'll understand the business strategy behind each project, identify the user experience problems our client's customers have been stuck on, and use design to solve them. You'll work directly with our leadership, our client's leadership, our design leads and you'll direct speci",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Design",
+        "design"
+      ],
+      "postedAt": "Tue, 11 Aug 2026 03:24:55 +0000",
+      "category": "design"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/pixel-one-senior-product-designer",
+      "source": "weworkremotely",
+      "title": "Senior Product Designer",
+      "company": "Pixel One",
+      "url": "https://weworkremotely.com/remote-jobs/pixel-one-senior-product-designer",
+      "description": "Headquarters: Canada URL: https://pixel-one.com/ Full-time · Remote (Canada based preferred) Pixel One is a design studio for ambitious B2B SaaS teams. We embed with our clients, join their standups, and stay with their product as it evolves. Average client retention is 24+ months, which means you'll see what your work does to a business over years, not weeks. We're looking for a Senior Product Designer to own client work from concept through final delivery. This is not a role where you execute someone else's brief. You'll understand the business strategy behind each project, identify the user experience problems our client's customers have been stuck on, and use design to solve them. You'll work directly with our leadership, our client's leadership, our design leads and you'll direct spec",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Design",
+        "design"
+      ],
+      "postedAt": "Tue, 11 Aug 2026 02:51:33 +0000",
+      "category": "design"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/food-service-specialties-back-office-support-1",
@@ -2040,21 +2055,6 @@
         "design"
       ],
       "postedAt": "Thu, 23 Jul 2026 07:01:32 +0000",
-      "category": "design"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/twilio-principal-presales-engineer-1",
-      "source": "weworkremotely",
-      "title": "Principal Presales Engineer",
-      "company": "Twilio",
-      "url": "https://weworkremotely.com/remote-jobs/twilio-principal-presales-engineer-1",
-      "description": "Headquarters: Remote - US Who we are&nbsp; At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to &nbsp;hundreds of thousands of businesses&nbsp; and empower millions of developers worldwide to craft personalized customer experiences. Our dedication to remote-first work , and strong culture of connection and global inclusion means that no matter your location, you’re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we’re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands. We use Artificial Intelligence (AI) to help make our hiring process efficient. That said, every hiring",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Design",
-        "design"
-      ],
-      "postedAt": "Thu, 23 Jul 2026 07:01:26 +0000",
       "category": "design"
     },
     {
@@ -3153,21 +3153,6 @@
       "category": "product"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/coinbase-group-product-manager-payments-core",
-      "source": "weworkremotely",
-      "title": "Group Product Manager, Payments Core",
-      "company": "Coinbase",
-      "url": "https://weworkremotely.com/remote-jobs/coinbase-group-product-manager-payments-core",
-      "description": "Headquarters: Remote - USA Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.”&nbsp; learn more about working at Coinbase . The Payments Core team within Coinbase's Platform product group owns the heart of how fiat money moves at Coinbase, processing hundreds of billions of dollars ann",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Product",
-        "product"
-      ],
-      "postedAt": "Wed, 22 Jul 2026 07:03:14 +0000",
-      "category": "product"
-    },
-    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/coinbase-group-product-manager-financial-engineering",
       "source": "weworkremotely",
       "title": "Group Product Manager, Financial Engineering",
@@ -3315,21 +3300,6 @@
         "product"
       ],
       "postedAt": "Wed, 22 Jul 2026 07:02:04 +0000",
-      "category": "product"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/airtable-senior-partner-solutions-architect",
-      "source": "weworkremotely",
-      "title": "Senior Partner Solutions Architect",
-      "company": "Airtable",
-      "url": "https://weworkremotely.com/remote-jobs/airtable-senior-partner-solutions-architect",
-      "description": "Headquarters: London, England UK, Remote - US Airtable is the no-code app platform that empowers people closest to the work to accelerate their most critical business processes. More than 500,000 organizations, including 80% of the Fortune 100, rely on Airtable to transform how work gets done. As one of Airtable's Partner Solutions Architects, you will serve as a critical technical bridge between our partner ecosystem and Enterprise clients. You'll work at the intersection of our Professional Services, Partner, Product and Account teams to design and deliver scalable solutions that ensure strong customer outcomes across Partner-delivered engagements. This role combines deep Airtable technical expertise, advanced AI fluency, partner enablement, and customer-facing solution architecture to a",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Product",
-        "product"
-      ],
-      "postedAt": "Wed, 22 Jul 2026 07:01:51 +0000",
       "category": "product"
     },
     {
@@ -3678,21 +3648,6 @@
       "category": "full-stack"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/lithic-senior-compliance-analyst",
-      "source": "weworkremotely",
-      "title": "Senior Compliance Analyst",
-      "company": "Lithic",
-      "url": "https://weworkremotely.com/remote-jobs/lithic-senior-compliance-analyst",
-      "description": "Headquarters: Remote Lithic is the modern card issuing and processing platform empowering ambitious financial companies to build the future of payments. Our infrastructure powers card programs for 100+ innovative clients, from fintechs reimagining credit and digital banking to platforms transforming disbursements and spend management. Companies like Mercury, Flex, and Novo rely on Lithic's developer-friendly APIs, direct network connections, and flawless reconciliation to launch and scale card programs in weeks, not years. We're building a future where access to better financial products materially improves people's lives, free from the constraints of 30-year-old mainframes and legacy processors. We're proud to be backed by world-class investors who share that vision, including Bessemer Ve",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Tue, 04 Aug 2026 07:30:56 +0000",
-      "category": "full-stack"
-    },
-    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/faire-senior-staff-data-engineer-platform-data-and-analytics",
       "source": "weworkremotely",
       "title": "Senior Staff Data Engineer - Platform Data and Analytics",
@@ -3888,21 +3843,6 @@
       "category": "full-stack"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/collibra-director-facility-security-officer",
-      "source": "weworkremotely",
-      "title": "Director, Facility Security Officer",
-      "company": "Collibra",
-      "url": "https://weworkremotely.com/remote-jobs/collibra-director-facility-security-officer",
-      "description": "Headquarters: Remote, East Coast USA Joining Collibra Public Sector LLC (CPS) Collibra Public Sector LLC (CPS) is a DCSA-cleared entity operating under an approved Proxy Agreement (PA) and Affiliated Operations Plan (AOP) as a FOCI-mitigated subsidiary.&nbsp; The Director, Facility Security Officer (FSO) will serve as the principal security advisor to CPS’s Government Security Committee (GSC) and the company's primary interface with the Defense Counterintelligence and Security Agency (DCSA) and other cognizant security authorities. Additionally, the Director will be responsible for developing, implementing, and ensuring compliance with our Insider Threat Program and be the designated FSO and Insider Threat Security Officer (ITPSO). This is a foundational leadership role within CPS.&nbsp; T",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Fri, 24 Jul 2026 07:01:12 +0000",
-      "category": "full-stack"
-    },
-    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/gitlab-ai-transformation-owner-cro",
       "source": "weworkremotely",
       "title": "AI Transformation Owner, CRO",
@@ -4044,21 +3984,6 @@
       "company": "Coinbase",
       "url": "https://weworkremotely.com/remote-jobs/coinbase-senior-sourcing-analyst",
       "description": "Headquarters: Remote - USA Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.”&nbsp; learn more about working at Coinbase . As a Senior Sourcing Analyst, you'll join the Source to Pay (S2P) organization within the Finance team and lead strategic sourcing across Coinbase's third-party s",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Thu, 23 Jul 2026 07:05:02 +0000",
-      "category": "full-stack"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/twilio-senior-software-engineer",
-      "source": "weworkremotely",
-      "title": "Senior Software Engineer",
-      "company": "Twilio",
-      "url": "https://weworkremotely.com/remote-jobs/twilio-senior-software-engineer",
-      "description": "Headquarters: Remote - Estonia Who we are&nbsp; At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to &nbsp;hundreds of thousands of businesses&nbsp; and empower millions of developers worldwide to craft personalized customer experiences. Our dedication to remote-first work , and strong culture of connection and global inclusion means that no matter your location, you’re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we’re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands. We use Artificial Intelligence (AI) to help make our hiring process efficient. That said, every h",
       "location": "Anywhere in the World",
       "tags": [
         "Full-Stack Programming",
@@ -4215,21 +4140,6 @@
         "full-stack"
       ],
       "postedAt": "Thu, 23 Jul 2026 07:03:34 +0000",
-      "category": "full-stack"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/stripe-staff-full-stack-engineer-identity",
-      "source": "weworkremotely",
-      "title": "Staff Full Stack Engineer, Identity",
-      "company": "Stripe",
-      "url": "https://weworkremotely.com/remote-jobs/stripe-staff-full-stack-engineer-identity",
-      "description": "Headquarters: Remote Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team Before Stripe, every growing internet platform had a payments team. Today, every growing internet platform has an Identity team. Identity verification has become core economic infrastructure for online businesses — enabling them to digitally ve",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Thu, 23 Jul 2026 07:03:19 +0000",
       "category": "full-stack"
     },
     {
@@ -4878,42 +4788,12 @@
       "category": "full-stack"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/airtable-software-engineer-infrastructure-8-yoe",
-      "source": "weworkremotely",
-      "title": "Software Engineer, Infrastructure (8+ YOE)",
-      "company": "Airtable",
-      "url": "https://weworkremotely.com/remote-jobs/airtable-software-engineer-infrastructure-8-yoe",
-      "description": "Headquarters: San Francisco, CA; New York, NY; Remote - US (Seattle, WA only) Airtable is the no-code app platform that empowers people closest to the work to accelerate their most critical business processes. More than 500,000 organizations, including 80% of the Fortune 100, rely on Airtable to transform how work gets done. Airtable’s infrastructure is evolving to meet the needs of our fast growing engineering org. We are looking for backend engineers to join our team to help improve critical product infrastructure, with a focus on building systems that have a great developer experience and will scale as we grow. We currently have openings on: Asynchronous Serving:&nbsp; The Asynchronous Serving team is scaling critical systems used by Airtable’s most essential and up-and-coming product f",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Wed, 22 Jul 2026 07:02:10 +0000",
-      "category": "full-stack"
-    },
-    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/stripe-executive-engagement-lead-office-of-the-cro",
       "source": "weworkremotely",
       "title": "Executive Engagement Lead, Office of the CRO",
       "company": "Stripe",
       "url": "https://weworkremotely.com/remote-jobs/stripe-executive-engagement-lead-office-of-the-cro",
       "description": "Headquarters: NYC, SF, SEA, CHI, Remote Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team The Office of the CRO sits at the center of Stripe's global revenue organization and operates on two tracks: running the operating rhythm that keeps a global GTM motion on-cadence, and serving as the CRO's thinking partner on",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Wed, 22 Jul 2026 07:02:05 +0000",
-      "category": "full-stack"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/airtable-software-engineer-compute-8-yoe",
-      "source": "weworkremotely",
-      "title": "Software Engineer, Compute (8+ YOE)",
-      "company": "Airtable",
-      "url": "https://weworkremotely.com/remote-jobs/airtable-software-engineer-compute-8-yoe",
-      "description": "Headquarters: San Francisco, CA; New York, NY; Remote - US Airtable is the no-code app platform that empowers people closest to the work to accelerate their most critical business processes. More than 500,000 organizations, including 80% of the Fortune 100, rely on Airtable to transform how work gets done. The Compute Platform team is responsible for building and evolving the infrastructure that powers Airtable’s services at scale. We enable engineers across the company to build, deploy, and operate reliable services on Kubernetes with strong security, governance, and performance guardrails. We are looking for an engineer to help lead the next phase of platform maturity in how we run Kubernetes at Airtable. This is a role that has engineering wide impact. If you’re excited about building i",
       "location": "Anywhere in the World",
       "tags": [
         "Full-Stack Programming",
@@ -4998,21 +4878,6 @@
       "category": "full-stack"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/airtable-senior-manager-marketing-ai-operations",
-      "source": "weworkremotely",
-      "title": "Senior Manager, Marketing AI Operations",
-      "company": "Airtable",
-      "url": "https://weworkremotely.com/remote-jobs/airtable-senior-manager-marketing-ai-operations",
-      "description": "Headquarters: San Francisco, CA; New York, NY; Austin, TX; Remote - US Airtable is the no-code app platform that empowers people closest to the work to accelerate their most critical business processes. More than 500,000 organizations, including 80% of the Fortune 100, rely on Airtable to transform how work gets done. We're hiring a Senior Manager to use marketing operations as a lever to change what's possible, combining agent-native systems, rigorous pipeline intelligence, and disciplined execution to make an agile marketing org run like it's twice the size. You'll stand up and drive Marketing's Agent Center of Excellence, manage the ICs who run our MarTech, Marketing Ops, and Airtable campaign-management systems, and own the highest-stakes work that doesn't fit neatly inside any one fun",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Wed, 22 Jul 2026 07:01:49 +0000",
-      "category": "full-stack"
-    },
-    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/coinbase-communications-manager-policy-public-affairs",
       "source": "weworkremotely",
       "title": "Communications Manager, Policy & Public Affairs",
@@ -5064,21 +4929,6 @@
       "company": "Coinbase",
       "url": "https://weworkremotely.com/remote-jobs/coinbase-business-operations-senior-associate-institutional",
       "description": "Headquarters: Remote - USA Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.”&nbsp; learn more about working at Coinbase . As a Business Operations Senior Associate on the Business Operations & Strategy team within the Institutional group, you'll partner directly with senior leadershi",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Wed, 22 Jul 2026 07:01:44 +0000",
-      "category": "full-stack"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/airtable-program-manager-professional-services-west",
-      "source": "weworkremotely",
-      "title": "Program Manager, Professional Services - West",
-      "company": "Airtable",
-      "url": "https://weworkremotely.com/remote-jobs/airtable-program-manager-professional-services-west",
-      "description": "Headquarters: San Francisco, CA; Remote - US Airtable is the no-code app platform that empowers people closest to the work to accelerate their most critical business processes. More than 500,000 organizations, including 80% of the Fortune 100, rely on Airtable to transform how work gets done. Work is being redesigned, and Airtable is built for that moment: the same platform humans run their most critical workflows on is where agents now operate alongside them. Professional Services is where that redesign happens. The Technical Project Manager runs delivery on our most complex engagements. This is not a coordination role; it's a technical delivery lead position with accountability across an Airtable PS team, external development partners, and enterprise customer stakeholders, all moving tow",
       "location": "Anywhere in the World",
       "tags": [
         "Full-Stack Programming",
@@ -5190,21 +5040,6 @@
         "management"
       ],
       "postedAt": "Fri, 31 Jul 2026 07:31:03 +0000",
-      "category": "management"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/clickhouse-accounts-receivable-and-billing-operations-manager",
-      "source": "weworkremotely",
-      "title": "Accounts Receivable and Billing Operations Manager",
-      "company": "ClickHouse",
-      "url": "https://weworkremotely.com/remote-jobs/clickhouse-accounts-receivable-and-billing-operations-manager",
-      "description": "Headquarters: United States (remote) About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how comp",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Management and Finance",
-        "management"
-      ],
-      "postedAt": "Thu, 30 Jul 2026 07:31:03 +0000",
       "category": "management"
     },
     {
