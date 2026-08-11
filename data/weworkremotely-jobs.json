@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-11T07:08:03.057Z",
-  "count": 369,
+  "generatedAt": "2026-08-11T13:08:35.950Z",
+  "count": 371,
   "jobs": [
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/airtable-program-manager-professional-services-west",
@@ -3421,6 +3421,36 @@
       ],
       "postedAt": "Wed, 03 Jun 2026 09:11:44 +0000",
       "category": "product"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/toptal-tech-lead-manufacturing-data-ai-platforms-global-pharmaceutical-company",
+      "source": "weworkremotely",
+      "title": "Tech Lead - Manufacturing Data & AI Platforms - Global Pharmaceutical Company",
+      "company": "Toptal",
+      "url": "https://weworkremotely.com/remote-jobs/toptal-tech-lead-manufacturing-data-ai-platforms-global-pharmaceutical-company",
+      "description": "Headquarters: Summary We are looking for a Tech Lead to take ownership of a delivery portfolio within a Manufacturing Engineering group that builds the data products the plant depends on. This is a hands-on leadership role focused on shipping and operating manufacturing data products in a validated production environment, while applying AI with sound judgment in a regulated context. General information This group builds manufacturing data products including real-time batch progression monitoring, process anomaly detection, and analytics that drive yield and throughput improvement. The team owns the data pipelines, cloud platform, environments, and delivery, and works closely with data science colleagues to define problems, provide data, and run the infrastructure required for production us",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Tue, 11 Aug 2026 12:58:39 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/toptal-data-scientist-for-top-cosmetic-firm",
+      "source": "weworkremotely",
+      "title": "Data Scientist for Top Cosmetic firm",
+      "company": "Toptal",
+      "url": "https://weworkremotely.com/remote-jobs/toptal-data-scientist-for-top-cosmetic-firm",
+      "description": "Headquarters: Summary We are seeking a Data Scientist to analyze anonymized consumer interaction data and uncover patterns in unstructured language across call center and cross-channel conversations. The primary goal is to identify intent, surface trends, and turn language into structured insights that can inform content strategy and web experiences. General information This engagement focuses on a large historical dataset collected over 10 years across consumer information and interaction touchpoints. The data includes call center and cross-channel interactions, with existing KPI reporting around areas such as conflict types and call duration, but limited analysis of the underlying unstructured language. The data sits in a homegrown database and Azure environment, with an anonymized seman",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Tue, 11 Aug 2026 12:40:35 +0000",
+      "category": "full-stack"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/lithic-software-engineer-treasury",
