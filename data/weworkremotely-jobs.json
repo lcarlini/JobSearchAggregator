@@ -1,7 +1,37 @@
 {
-  "generatedAt": "2026-08-12T07:26:18.882Z",
-  "count": 365,
+  "generatedAt": "2026-08-12T13:09:43.102Z",
+  "count": 368,
   "jobs": [
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/stripe-credit-risk-analyst-north-american-underwriter",
+      "source": "weworkremotely",
+      "title": "Credit Risk Analyst, North American Underwriter",
+      "company": "Stripe",
+      "url": "https://weworkremotely.com/remote-jobs/stripe-credit-risk-analyst-north-american-underwriter",
+      "description": "Headquarters: Toronto, Remote-Canada Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team The Credit team protects Stripe by managing the end-to-end risk of our largest and most complex users. We leverage deep underwriting expertise and data-driven stress heuristics to make informed decisions at every stage of the us",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "programming"
+      ],
+      "postedAt": "Wed, 22 Jul 2026 07:01:44 +0000",
+      "category": "programming"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/coinbase-business-operations-senior-associate-institutional",
+      "source": "weworkremotely",
+      "title": "Business Operations Senior Associate, Institutional",
+      "company": "Coinbase",
+      "url": "https://weworkremotely.com/remote-jobs/coinbase-business-operations-senior-associate-institutional",
+      "description": "Headquarters: Remote - USA Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.”&nbsp; learn more about working at Coinbase . As a Business Operations Senior Associate on the Business Operations & Strategy team within the Institutional group, you'll partner directly with senior leadershi",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "programming"
+      ],
+      "postedAt": "Wed, 22 Jul 2026 07:01:44 +0000",
+      "category": "programming"
+    },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/airtable-program-manager-professional-services-west",
       "source": "weworkremotely",
@@ -345,36 +375,6 @@
         "programming"
       ],
       "postedAt": "Mon, 13 Jul 2026 13:31:24 +0000",
-      "category": "programming"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-8",
-      "source": "weworkremotely",
-      "title": "Senior Backend Developer (Python)",
-      "company": "Proxify AB",
-      "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-8",
-      "description": "Headquarters: Sweden URL: http://career.proxify.io The Role: &nbsp; We are looking for a Senior Python Developer for one of our clients. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy working on new ideas to develop exciting products. &nbsp; What we are looking for: 5+ years of experience building products with Python and Django. High proficiency in SQL with experience using databases like PostgreSQL. Experience scaling cloud infrastructures with Docker or Kubernetes is a plus. Experience managing cloud infrastructures, specifically AWS or GCP. You follow the best practices and conventions. Relevant experience in CI/CD and related tools. Ability to work with minimal supervision. Intermediate-advanced English level. You can communicate well with ",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Back-End Programming",
-        "programming"
-      ],
-      "postedAt": "Mon, 13 Jul 2026 12:54:38 +0000",
-      "category": "programming"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3",
-      "source": "weworkremotely",
-      "title": "Software engineer",
-      "company": "Sticker Mule",
-      "url": "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3",
-      "description": "Headquarters: New York, NY URL: https://www.stickermule.com Sticker Mule is building the Internet's most lucrative commerce platform by combining software, manufacturing, and AI into one fully integrated stack. No print company, or pure software company for that matter, can match what we're doing. We're privately owned, profitable, and doing 9-figures in annual revenue with no meddlesome investors. &nbsp; How we work Small, autonomous teams that own products end-to-end. Prioritize what matters right now and pivot instantly when needed. Ship across web and mobile from the same codebase. We use Go, TypeScript, React, Expo, GraphQL, Postgres, and run on GCP. Use AI aggressively to push the limit of what we can do. Move fast, build for the masses, and deprioritize edge cases. Fully remote from",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "programming"
-      ],
-      "postedAt": "Thu, 14 May 2026 09:14:28 +0000",
       "category": "programming"
     },
     {
@@ -3423,6 +3423,66 @@
       "category": "product"
     },
     {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/toptal-senior-software-engineer-for-ai-powered-banking-platform",
+      "source": "weworkremotely",
+      "title": "Senior Software Engineer for AI-Powered Banking Platform",
+      "company": "Toptal",
+      "url": "https://weworkremotely.com/remote-jobs/toptal-senior-software-engineer-for-ai-powered-banking-platform",
+      "description": "Headquarters: We are seeking a Senior Software Engineer to build and scale production-grade AI-powered financial products. This is a hands-on engineering role focused on backend platform development, AI integration, and distributed systems. The ideal candidate has strong experience with TypeScript, Python, cloud-native architectures, and applying LLMs in real-world production environments. General Information Our client is a fast-growing, Series A-backed AI company delivering agentic AI solutions to banks and credit unions. Their platform is already serving over 100 financial institutions and more than 10 million end users. The Senior Software Engineer will work closely with the VP of Engineering, CTO, and CEO to design, build, and operate scalable backend services and AI-powered applicati",
+      "location": "North America Only",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Wed, 12 Aug 2026 12:18:51 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/sofi-influencer-strategist-contract",
+      "source": "weworkremotely",
+      "title": "Influencer Strategist (Contract)",
+      "company": "SoFi",
+      "url": "https://weworkremotely.com/remote-jobs/sofi-influencer-strategist-contract",
+      "description": "Headquarters: CA - San Francisco; CA - Remote; NY - New York City Employee Applicant Privacy Notice Who we are: Shape a brighter financial future with us. Together with our members, we’re changing the way people think about and interact with personal finance. We’re a next-generation financial services company and national bank using innovative, mobile-first technology to help our millions of members reach their goals. The industry is going through an unprecedented transformation, and we’re at the forefront. We’re proud to come to work every day knowing that what we do has a direct impact on people’s lives, with our core values guiding us every step of the way. Join us to invest in yourself, your career, and the financial world. The role SoFi is hiring an Influencer Strategist to help run i",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Wed, 12 Aug 2026 07:31:04 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/netlify-senior-financial-analyst",
+      "source": "weworkremotely",
+      "title": "Senior Financial Analyst",
+      "company": "Netlify",
+      "url": "https://weworkremotely.com/remote-jobs/netlify-senior-financial-analyst",
+      "description": "Headquarters: Remote About the Team Netlify's Finance team is responsible for the financial infrastructure that keeps the business running with clarity, managing the operating model, monthly reporting, budget management, and the KPI layer that leadership relies on to make decisions. We are looking for this role to own that corporate finance cadence, and beyond that, to help reimagine what that cycle looks like in the age of AI. Netlify is leading the change of how software gets built with AI, and we believe our own finance function should be transformed the same way. If you're excited about owning critical financial processes and then rebuilding them to be faster, smarter, and more automated, this role is for you.&nbsp; What You'll Do Own the monthly reporting cycle end to end - actuals lo",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Wed, 12 Aug 2026 07:31:02 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/sofi-director-learning-and-development-operations",
+      "source": "weworkremotely",
+      "title": "Director, Learning and Development - Operations",
+      "company": "SoFi",
+      "url": "https://weworkremotely.com/remote-jobs/sofi-director-learning-and-development-operations",
+      "description": "Headquarters: UT - Cottonwood Heights; FL - Jacksonville, TX - Frisco; CA - San Francisco; NY - New York; DE - Greenville; NC - Charlotte; WA - Seattle; US - Remote Employee Applicant Privacy Notice Who we are: Shape a brighter financial future with us. Together with our members, we’re changing the way people think about and interact with personal finance. We’re a next-generation financial services company and national bank using innovative, mobile-first technology to help our millions of members reach their goals. The industry is going through an unprecedented transformation, and we’re at the forefront. We’re proud to come to work every day knowing that what we do has a direct impact on people’s lives, with our core values guiding us every step of the way. Join us to invest in yourself, y",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Wed, 12 Aug 2026 07:30:59 +0000",
+      "category": "full-stack"
+    },
+    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/toptal-tech-lead-manufacturing-data-ai-platforms-global-pharmaceutical-company",
       "source": "weworkremotely",
       "title": "Tech Lead - Manufacturing Data & AI Platforms - Global Pharmaceutical Company",
@@ -4848,36 +4908,6 @@
       "category": "full-stack"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/stripe-credit-risk-analyst-north-american-underwriter",
-      "source": "weworkremotely",
-      "title": "Credit Risk Analyst, North American Underwriter",
-      "company": "Stripe",
-      "url": "https://weworkremotely.com/remote-jobs/stripe-credit-risk-analyst-north-american-underwriter",
-      "description": "Headquarters: Toronto, Remote-Canada Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team The Credit team protects Stripe by managing the end-to-end risk of our largest and most complex users. We leverage deep underwriting expertise and data-driven stress heuristics to make informed decisions at every stage of the us",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Wed, 22 Jul 2026 07:01:44 +0000",
-      "category": "full-stack"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/coinbase-business-operations-senior-associate-institutional",
-      "source": "weworkremotely",
-      "title": "Business Operations Senior Associate, Institutional",
-      "company": "Coinbase",
-      "url": "https://weworkremotely.com/remote-jobs/coinbase-business-operations-senior-associate-institutional",
-      "description": "Headquarters: Remote - USA Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.”&nbsp; learn more about working at Coinbase . As a Business Operations Senior Associate on the Business Operations & Strategy team within the Institutional group, you'll partner directly with senior leadershi",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Wed, 22 Jul 2026 07:01:44 +0000",
-      "category": "full-stack"
-    },
-    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/wonderdog-full-stack-product-engineer-agentic-first",
       "source": "weworkremotely",
       "title": "Full-Stack Product Engineer - Agentic First",
@@ -4890,6 +4920,21 @@
         "full-stack"
       ],
       "postedAt": "Thu, 09 Jul 2026 17:03:38 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3",
+      "source": "weworkremotely",
+      "title": "Software engineer",
+      "company": "Sticker Mule",
+      "url": "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3",
+      "description": "Headquarters: New York, NY URL: https://www.stickermule.com Sticker Mule is building the Internet's most lucrative commerce platform by combining software, manufacturing, and AI into one fully integrated stack. No print company, or pure software company for that matter, can match what we're doing. We're privately owned, profitable, and doing 9-figures in annual revenue with no meddlesome investors. &nbsp; How we work Small, autonomous teams that own products end-to-end. Prioritize what matters right now and pivot instantly when needed. Ship across web and mobile from the same codebase. We use Go, TypeScript, React, Expo, GraphQL, Postgres, and run on GCP. Use AI aggressively to push the limit of what we can do. Move fast, build for the masses, and deprioritize edge cases. Fully remote from",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Thu, 14 May 2026 09:14:28 +0000",
       "category": "full-stack"
     },
     {
