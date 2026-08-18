@@ -1,7 +1,57 @@
 {
-  "generatedAt": "2026-08-18T06:43:54.445Z",
+  "generatedAt": "2026-08-18T12:55:46.184Z",
   "count": 150,
   "data": [
+    {
+      "id": "d26ebc88-1ee6-4f24-bbb1-262b0681a1b3",
+      "title": "LLM Systems / AI Agent Engineer (Remote, Full-Time) [AS311]",
+      "url": "https://remotejobs.org/remote-jobs/llm-systems-ai-agent-engineer-remote-full-time-as311-smart-working",
+      "apply_url": "https://remotejobs.org/remote-jobs/llm-systems-ai-agent-engineer-remote-full-time-as311-smart-working",
+      "company": {
+        "name": "Smart Working",
+        "logo_url": null,
+        "website": "https://smartworking.io",
+        "url": "https://remotejobs.org/companies/smart-working"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "India",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "type": "Full-time",
+      "description": "About Smart Working\nAt Smart Working, we believe your job should not only look right on paper but also feel right every day. We're one of the highest-rated workplaces on Glassdoor, connecting exceptional professionals with outstanding global teams and products through long-term remote opportunities.\nOur mission is to break down geographical barriers and create meaningful career opportunities where talented individuals can thrive, grow, and make a genuine impact. When you join Smart Working, you become part of a supportive and collaborative community that values integrity, excellence, continuous learning, and professional growth. We provide the tools, support, and environment needed to help you succeed while enjoying the flexibility of a truly remote-first workplace.\nAbout the Role\nAs an LLM Systems / AI Agent Engineer, you will focus on building and evolving production AI agents on foundation models, covering orchestration, context engineering, evaluation pipelines, and production observability and monitoring. This is an LLM systems and AI agent engineering position rather than a traditional ML model-training role. You will be the first dedicated AI-agenting hire, working directly alongside the engineer who currently leads this function. The product currently uses a custom orchestration layer, and your knowledge of agent architecture patterns will help inform whether to continue with this approach or adopt a production framework such as LangGraph or LangChain. Roadmap timings are somewhat tentative, but you will be assigned measurable deliverables immediately upon onboarding.\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/llm-systems-ai-agent-engineer-remote-full-time-as311-smart-working</p>",
+      "posted_at": "2026-08-18T09:48:34.738+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "2e14a321-f48d-45c2-a79c-c2f0bf858e6b",
+      "title": "Parametric Engineer (Remote, Full-Time) [AS310]",
+      "url": "https://remotejobs.org/remote-jobs/parametric-engineer-remote-full-time-as310-smart-working",
+      "apply_url": "https://remotejobs.org/remote-jobs/parametric-engineer-remote-full-time-as310-smart-working",
+      "company": {
+        "name": "Smart Working",
+        "logo_url": null,
+        "website": "https://smartworking.io",
+        "url": "https://remotejobs.org/companies/smart-working"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "India",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "type": "Full-time",
+      "description": "About Smart Working\nAt Smart Working, we believe your job should not only look right on paper but also feel right every day. This isn’t just another remote opportunity - it’s about finding where you truly belong, no matter where you are. From day one, you’re welcomed into a genuine community that values your growth and well-being. Our mission is simple: to break down geographic barriers and connect skilled professionals with outstanding global teams and products for full-time, long-term roles. We help you discover meaningful work with teams that invest in your success, where you’re empowered to grow personally and professionally.\nJoin one of the highest-rated workplaces on Glassdoor and experience what it means to thrive in a truly remote-first world.\nAbout the Role\nAs a Senior Parametric Engineer, you will work on a standalone product within a dedicated product team, collaborating directly with the product lead and in-house specialists. The team operates separately from a new AI/Full-Stack product team for now, although the two teams are expected to connect in future.\nThe role combines geometry algorithm development, computational optimisation, internal tooling, and cloud/backend development. The precise balance will depend on your skills and interests and may evolve as priorities change. Around 99% of the role is software development on the standalone product, with your work also interacting with its 3D interface.\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/parametric-engineer-remote-full-time-as310-smart-working</p>",
+      "posted_at": "2026-08-18T09:03:11.603+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
     {
       "id": "ab471e42-f27d-4c24-b21e-250c9c9779f1",
       "title": "Senior/Staff Software Engineer, Front End",
@@ -1199,56 +1249,6 @@
       "type": "Full-time",
       "description": "is the largest institutional staking provider with a TVL of over $10B and a market share exceeding 20% in restaking.\n\nWe are continually focused on researching and improving our infrastructure to extract maximum APR while enhancing security. For instance, in ETH and SOL, our NRR is on average 10% higher than the market, and in DOT, it's 20% higher.\n\nWe also place significant focus and resources on launching new networks such as TON, Avail, Monad, Babylon, Story, Berachain, and others, along with yield products. From restaking, where we are the largest operator with a 20+% market share, to yield aggregators on stablecoins.\n\nOur clients include BitGo, Copper, , Ledger, ByBit, Bitget, OKX, HTX, Bitvavo, SBI, and others, who choose us for our client-centric approach and extensive product line from unified API to widgets and custom dApps.\n\nWe are also actively expanding our product line, exploring RWA, data, yield, and service products for banks, exchanges, custodians, and wallets.\n\n unites talented individuals globally.\n\nDespite our distributed team, we share a passion for decentralized finance - a fairer system for all. We code, learn, create, and connect to shape finance's future.\n\n boasts a strong reputation and network. We prioritize customer satisfaction and, as tech enthusiasts, develop innovative solutions that bolster our brand.\n\nYou will 🚀\n\n- Own the architecture and write the core low-latency code across Syncro (Rust).\n\n- Cut latency by design: validator submission path, network routing/peering, node co-location, direct QUIC/TPU ingress.\n\n- Cut latency in code: optimal algorithms and data structures, tight time/space complexity, language- and OS-level performance (memory layout, allocations, cache, syscalls, lock-free concurrency).\n\n- Lead the multi-region rollout on bare-metal and cloud, co-located near client trading venues.\n\n- Eliminate single points of failure with HA and automatic failover.\n\n- Automate safe, self-serve releases; own latency/uptime SLOs, observability, and alerting.\n\n- Set the technical bar through design and code review. \n\nYou have 🧩\n\n- 8+ years building distributed backend/infrastructure, with low-latency systems shipped to production.\n\n- Write highly efficient code — algorithms and data structures, time/space complexity, and language-runtime + OS-level performance (memory, cache, allocations, syscalls, concurrency).\n\n- Deep Solana internals — validator/TPU, stake-weighted QoS (SWQoS), QUIC, shreds, transaction landing. Priority.\n\n- Trading / MEV / market-data infrastructure — orderflow, searchers, latency-sensitive paths.\n\n- Expert in a systems language — production Rust (or C/C++/Go moving to Rust).\n\n- Networking and latency tuning — TCP/QUIC, routing, peering, co-location, kernel/NIC tuning.\n\n- Production infrastructure — Linux, bare-metal and cloud (GCP/AWS), Kubernetes, IaC.\n\n- PostgreSQL; RabbitMQ/Kafka in HA.\n\n- Owned a complex system's architecture end-to-end.\n\n- English C1+; remote, async.\n\nNice to have 🧩\n\n- Solana validator operations / staking infrastructure.\n\n- MEV ecosystem — relayers, bundles, block engines.\n\n- SUI, Hyperliquid, or other high-throughput chains.\n\n- Real-time market-data / streaming systems at scale.\n\n- Low-level profiling and benchmarking (perf, flamegraphs).\n\n- Blockchain open-source contributions.\n\nAt  we have a team of experts with their own unique approach and ownership culture. Together we gain experience and make dreams come true! \n\n- Fully remote\n\n- Full-time contractor (Indefinite-term Consultancy Agreement)\n\n- Competitive salary level in $ (we can also pay in crypto)\n\n- Paid vacation and sick leave\n\n- Well-being program\n\n- Mental Health care program\n\n- Compensation for education, including foreign language & professional growth courses\n\n- Equipment & co-working reimbursement program\n\n- Overseas conferences, community immersion\n\n is committed to providing equal opportunities. All applicants will be considered without regard to race, color, national origin, religion, sex, sexual orientation, gender identity, veteran status, or disability.\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/staff-engineer-syncro-p2p-org-himala</p>",
       "posted_at": "2026-08-17T03:25:54+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "f34a6365-e925-4174-8637-9ab05e88bfc9",
-      "title": "Senior Applied Research Scientist – GPU Native Numerical Algorithms",
-      "url": "https://remotejobs.org/remote-jobs/senior-applied-research-scientist-gpu-native-numerical-algorithms-nvidia",
-      "apply_url": "https://remotejobs.org/remote-jobs/senior-applied-research-scientist-gpu-native-numerical-algorithms-nvidia",
-      "company": {
-        "name": "NVIDIA",
-        "logo_url": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/52745899-221.jpeg",
-        "website": "https://nvidia.com",
-        "url": "https://remotejobs.org/companies/nvidia"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "Remote",
-      "salary_min": 192000,
-      "salary_max": 356500,
-      "salary_text": "USD 192,000 - 356,500",
-      "type": "Full-time",
-      "description": "NVIDIA pioneered accelerated computing. Today, we are building software, systems, and research platforms that help scientists and engineers solve problems that were once out of reach. We are looking for an Applied Research Scientist to join our computational engineering applied research team! In this role, we will work together to design GPU-native numerical methods that make engineering simulation faster, more reliable, and easier to use across NVIDIA platforms, while providing the numerical foundations for emerging AI-native engineering algorithms. You will explore solver algorithms, build research prototypes, compare approaches on representative workloads, and help move promising ideas into software used by researchers, engineers, and partners. The goal is not simply to port established CPU algorithms, but to rethink methods around massive parallelism, hierarchical memory, reduced synchronization, mixed precision, tensor-core computation, and multi-GPU systems.\n\nThis role connects numerical analysis, accelerated computing, production-minded software engineering, and the co-design of future AI-native engineering methods. We are interested in candidates who enjoy working across math, code, hardware, and real engineering applications. Come help us shape the future of simulation on GPUs!\n\nWhat you'll be doing:\n\nWe work as a team, and you will help us:\n\n- Invent and reformulate numerical algorithms whose mathematical and computational structure is co-designed for modern NVIDIA GPU architectures, including implicit and explicit engineering simulation.\n\n- Develop linear and nonlinear solver approaches, including Newton-Krylov methods, multigrid and AMG, domain decomposition, matrix-free algorithms, mixed precision methods, sparse iterative and direct methods, and preconditioning strategies.\n\n- Investigate when established CPU-oriented numerical methods should be reformulated or replaced for GPU architectures, including new approaches to synchronization-avoiding Krylov methods, GPU-native multigrid and domain decomposition, matrix-free implicit methods, mixed-precision algorithms, and sparse direct/iterative hybrids.\n\n- Evaluate algorithms on workloads in mechanics, contact, thermal-fluid systems, electromagnetics, semiconductor process and device simulation, EDA, multiphysics, and related CAE domains.\n\n- Collaborate with CUDA-X, Warp, solver engineering, NVIDIA Research, universities, and industry partners to move useful research from prototype to NVIDIA software capabilities.\n\n- Help shape the long-term applied research roadmap for GPU-native numerical methods and their evolution toward AI-native computational engineering.\n\nWhat we need to see:\n\n- PhD or equivalent experience in computational mechanics, applied mathematics, scientific computing, computer science, aerospace, mechanical, civil engineering, or a related technical field.\n\n- 5+ years of relevant work/research experience.\n\n- Research or engineering experience with PDE discretization, finite element, finite volume, discontinuous Galerkin methods, nonlinear solvers, sparse linear algebra, preconditioning, or high-performance computing.\n\n- Experience writing numerical software in C++ and Python, plus experience developing or optimizing CUDA or GPU code.\n\n- Experience using profiling, benchmarking, numerical validation, or performance analysis to improve algorithms on GPU or multi-GPU systems.\n\n- Ability to communicate technical tradeoffs clearly and collaborate across research, engineering, product, and partner teams.\n\nWays to stand out from the crowd:\n\n- Experience with implicit structural dynamics, nonlinear mechanics, contact, CFD, electromagnetics, multiphysics, semiconductor simulation, EDA, CAE, or CAD-connected engineering workflows.\n\n- Contributions to or practical experience with PETSc, Trilinos, MFEM, libCEED, OpenFOAM, NVIDIA Warp, CUDA-X, cuSPARSE, cuSOLVER, or related computational science frameworks.\n\n- Experience with industrial simulation, EDA, semiconductor, CAE, or CAD ecosystems, including Ansys, Abaqus, LS-DYNA, Siemens Simcenter, Dassault SIMULIA, Altair, Cadence, Synopsys, COMSOL, MathWorks, or comparable internal solver and design platforms.\n\n- Experience with distributed solvers using MPI, NCCL, asynchronous methods, or performance analysis on GPU clusters.\n\n- Publications, patents, open-source work, or deployed software in computational science venues or communities such as SC, SIAM CSE, SIAM SISC, CMAME, IJNME, JCP, AIAA, USNCCM, WCCM, or related areas.\n\nYour base salary will be determined based on your location, experience, and the pay of employees in similar positions. The base salary range is 192,000 USD - 304,750 USD for Level 4, and 224,000 USD - 356,500 USD for Level 5.You will also be eligible for equity and benefits.\n\nApplications for this job will be accepted at least until August 17, 2026.This posting is for an existing vacancy. \n\nNVIDIA uses AI tools in its recruiting processes.\n\nNVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-applied-research-scientist-gpu-native-numerical-algorithms-nvidia</p>",
-      "posted_at": "2026-08-17T03:25:38+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "fcbc52b9-e9a5-4c68-bfc6-50e168d72dbc",
-      "title": "Software Engineering Lead",
-      "url": "https://remotejobs.org/remote-jobs/software-engineering-lead-bright-vision-technologies",
-      "apply_url": "https://remotejobs.org/remote-jobs/software-engineering-lead-bright-vision-technologies",
-      "company": {
-        "name": "Bright Vision Technologies",
-        "logo_url": "https://we-work-remotely.imgix.net/logos/0171/5655/logo.gif",
-        "website": "https://bright.com",
-        "url": "https://remotejobs.org/companies/bright-vision-technologies"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "Remote",
-      "salary_min": 205000,
-      "salary_max": 230000,
-      "salary_text": "USD 205,000 - 230,000",
-      "type": "Full-time",
-      "description": "Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and enterprise solutions across the United States.\n\nThis is a fantastic opportunity to join an established and well-respected organization offering tremendous career growth potential.\n\nJob Title: Software Engineering Lead\n\nLocation: 100% Remote (U.S.)\nPosition Type: Full-time, Direct W2\nSalary Range: $205,000–$230,000 Annually\nExperience Required: 6+ years\n\nJob Summary\nWe are seeking an experienced Staff Software Engineer to provide deep technical leadership across multiple teams and drive the design and execution of complex, cross-cutting engineering initiatives. As a Staff engineer you will be a key technical voice in shaping architecture, raising the engineering bar, and helping the organization deliver ambitious technical roadmaps. The ideal candidate will combine deep technical depth with strong organizational judgment, and will be comfortable operating at the intersection of strategy, architecture, and hands-on execution. In this role you will work closely with cross-functional partners — product, design, engineering, operations, and business stakeholders — to translate ambiguous requirements into well-engineered solutions, and will be expected to raise the bar through code review, design review, and mentorship of more junior engineers. The successful candidate brings strong engineering discipline, a clear communication style, and a track record of shipping meaningful work that holds up well in production.\n\nRequired Qualifications\n- Bachelor’s or Master’s degree in Computer Science or a related discipline.\n\n- Eight or more years of professional software engineering experience.\n\n- Proven track record of leading complex, cross-team engineering initiatives.\n\n- Deep expertise in at least one of distributed systems, cloud platforms, or large-scale data systems.\n\n- Strong programming skills in at least one major backend language.\n\n- Excellent system-design and architecture skills.\n\n- Demonstrated mentorship and technical leadership of senior engineers.\n\n- Strong understanding of operational excellence, reliability, and observability.\n\n- Excellent written and verbal communication skills.\n\n- Track record of influencing engineering culture and standards.\n\nPreferred Qualifications\n- Experience driving multi-year platform modernization initiatives.\n\n- Public technical contributions (talks, papers, OSS) in relevant areas.\n\n- Hands-on experience operating large-scale production systems.\n\n- Exposure to building engineering organizations as well as platforms.\n\n- Familiarity with FinOps and cost-aware engineering practices.\n\nHow to Apply\n\nWould you like to know more about this opportunity? For immediate consideration, please send your resume to  or contact us at (908)676-4399. Learn more about Bright Vision Technologies at .\n\nBright Vision Technologies is an Equal Opportunity Employer.Equal Employment Opportunity (EEO) Statement\n\nBright Vision Technologies (BV Teck) is committed to equal employment opportunity (EEO) for all employees and applicants without regard to race, color, religion, sex, sexual orientation, gender identity or expression, national origin, age, genetic information, disability, veteran status, or any other protected status as defined by applicable federal, state, or local laws. This commitment extends to all aspects of employment, including recruitment, hiring, training, compensation, promotion, transfer, leaves of absence, termination, layoffs, and recall.\n\nBV Teck expressly prohibits any form of workplace harassment or discrimination. Any improper interference with employees' ability to perform their job duties may result in disciplinary action up to and including termination of employment.\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/software-engineering-lead-bright-vision-technologies</p>",
-      "posted_at": "2026-08-17T03:25:32+00:00",
       "is_translated": false,
       "original_language": null
     },
@@ -2585,7 +2585,7 @@
       "company": {
         "name": "Saks OFF 5TH",
         "logo_url": null,
-        "website": null,
+        "website": "https://saksoff5th.com",
         "url": "https://remotejobs.org/companies/saks-off-5th"
       },
       "category": {
