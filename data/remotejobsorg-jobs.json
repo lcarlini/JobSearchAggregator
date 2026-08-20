@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T06:45:05.503Z",
+  "generatedAt": "2026-08-20T12:54:17.511Z",
   "count": 150,
   "data": [
     {
@@ -260,7 +260,7 @@
       "company": {
         "name": "Brightwheel",
         "logo_url": null,
-        "website": null,
+        "website": "https://forbes.com",
         "url": "https://remotejobs.org/companies/brightwheel"
       },
       "category": {
@@ -310,7 +310,7 @@
       "company": {
         "name": "Las Vegas Sands",
         "logo_url": null,
-        "website": null,
+        "website": "https://lasvegassands.com",
         "url": "https://remotejobs.org/companies/las-vegas-sands"
       },
       "category": {
@@ -335,7 +335,7 @@
       "company": {
         "name": "Reliance Health",
         "logo_url": null,
-        "website": null,
+        "website": "https://reliancehealth.com",
         "url": "https://remotejobs.org/companies/reliance-health"
       },
       "category": {
@@ -360,7 +360,7 @@
       "company": {
         "name": "VolksByte",
         "logo_url": null,
-        "website": null,
+        "website": "https://volksbyte.com",
         "url": "https://remotejobs.org/companies/volksbyte"
       },
       "category": {
@@ -1260,7 +1260,7 @@
       "company": {
         "name": "Reliance Health",
         "logo_url": null,
-        "website": null,
+        "website": "https://reliancehealth.com",
         "url": "https://remotejobs.org/companies/reliance-health"
       },
       "category": {
@@ -2503,31 +2503,6 @@
       "original_language": null
     },
     {
-      "id": "35901092-a557-47b1-a846-c98de4965d94",
-      "title": "Associate Data Scientist",
-      "url": "https://remotejobs.org/remote-jobs/associate-data-scientist-reliance-health",
-      "apply_url": "https://remotejobs.org/remote-jobs/associate-data-scientist-reliance-health",
-      "company": {
-        "name": "Reliance Health",
-        "logo_url": null,
-        "website": null,
-        "url": "https://remotejobs.org/companies/reliance-health"
-      },
-      "category": {
-        "name": "Data Science",
-        "slug": "data-science"
-      },
-      "location": "Remote",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "type": "Full-time",
-      "description": "Reliance Health’s mission is to make quality healthcare delightful, affordable, and accessible in emerging markets. From Nigeria, Egypt, Senegal and beyond, we offer comprehensive health plans tailored to both employers’ and employees’ needs through an integrated approach that includes telemedicine, affordable health insurance, and a combination of partner and proprietary healthcare facilities. By leveraging advanced technology, we are transforming the healthcare landscape, making it more efficient and accessible for everyone.\n\nWe are hiring an Associate Data Scientist to transform complex data into actionable insights, partnering with stakeholders to solve business challenges through statistical analysis, machine learning, and compelling data storytelling. The ideal candidate is analytical, curious, and collaborative, skilled in data analysis, visualization, and communication, and able to translate raw data into clear, impactful recommendations.\n\nAs an Associate Data Scientist, you will do the following:\n\n- Collect, clean, and preprocess structured and unstructured datasets for analysis and modeling.\n\n- Build, validate, and deploy statistical and machine learning models to solve business problems.\n\n- Write optimized SQL queries to extract and manipulate data from relational databases.\n\n- Develop insightful dashboards and visualizations using tools such as Power BI, Tableau, or similar.\n\n- Translate technical findings into clear, actionable insights for both technical and non-technical stakeholders.\n\n- Collaborate with cross-functional teams (engineering, product, operations) to define data requirements and deliver analytical solutions.\n\n- Continuously monitor model performance and retrain or improve algorithms as needed.\n\n- Document methodologies, workflows, and data dictionaries to ensure reproducibility.\n\n- Stay updated with emerging data science, AI/ML, and analytics best practices.\n\nRequirements\n\n- Bachelor’s degree (or higher) in Data Science, Computer Science, Statistics, Mathematics, Engineering, or a related field.\n\n- Minimum 2-3 years of proven experience in data analysis, business intelligence, or data science roles.\n\n- Strong SQL skills with hands-on experience querying and joining large datasets.\n\n- Proficiency in Python or R for data manipulation, statistical analysis, and modeling.\n\n- Experience with data visualization tools (e.g., Tableau, Power BI, matplotlib, seaborn).\n\n- Solid understanding of statistical concepts, hypothesis testing, and data modeling.\n\n- Familiarity with machine learning frameworks (e.g., scikit-learn, TensorFlow, PyTorch).\n\n- Experience with version control tools (e.g., Git).\n\n- Strong communication skills for technical and non-technical audiences\n\nBenefits\n\nAt Reliance Health, we prioritize our people and their well-being. Our benefits package is designed to support your success, growth, and happiness. Here’s what you’ll enjoy:\n\n- \nRemote-First Environment\nWork from anywhere while staying connected to a vibrant, collaborative team.\n\n- Competitive Salary and BenefitsWe offer a salary that’s benchmarked against the best in the industry, ensuring your expertise and impact are fully rewarded.\n\n- Premium Health Insurance\nComprehensive health coverage for you and your family, because your well-being comes first.\n\n- Unlimited Leave\nTake the time you need when you need it—no limits, no questions.\n\n- Meaningful Impact\nPlay a key role in transforming customer experiences and shaping healthcare innovation.\n\n- Collaborative Work Culture\nJoin a supportive, inclusive, and team-focused environment that celebrates diversity.\n\n- Growth Opportunities\nAccess tools, mentorship, and resources to elevate your skills and career.\n\n- Learning & Development Allowance\nWe provide an allowance to support your ongoing professional growth and skill enhancement.\n\nThis is more than a job—it's a chance to grow, thrive, and make a real difference. At Reliance Health, your journey matters.\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/associate-data-scientist-reliance-health</p>",
-      "posted_at": "2026-08-19T20:32:26+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
       "id": "8f97ce5a-89bb-4570-96d2-84d2d67201a1",
       "title": "Principal Data Engineer",
       "url": "https://remotejobs.org/remote-jobs/principal-data-engineer-greensky",
@@ -2535,7 +2510,7 @@
       "company": {
         "name": "GreenSky",
         "logo_url": null,
-        "website": null,
+        "website": "https://greensky.com",
         "url": "https://remotejobs.org/companies/greensky"
       },
       "category": {
@@ -2553,6 +2528,31 @@
       "original_language": null
     },
     {
+      "id": "35901092-a557-47b1-a846-c98de4965d94",
+      "title": "Associate Data Scientist",
+      "url": "https://remotejobs.org/remote-jobs/associate-data-scientist-reliance-health",
+      "apply_url": "https://remotejobs.org/remote-jobs/associate-data-scientist-reliance-health",
+      "company": {
+        "name": "Reliance Health",
+        "logo_url": null,
+        "website": "https://reliancehealth.com",
+        "url": "https://remotejobs.org/companies/reliance-health"
+      },
+      "category": {
+        "name": "Data Science",
+        "slug": "data-science"
+      },
+      "location": "Remote",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "type": "Full-time",
+      "description": "Reliance Health’s mission is to make quality healthcare delightful, affordable, and accessible in emerging markets. From Nigeria, Egypt, Senegal and beyond, we offer comprehensive health plans tailored to both employers’ and employees’ needs through an integrated approach that includes telemedicine, affordable health insurance, and a combination of partner and proprietary healthcare facilities. By leveraging advanced technology, we are transforming the healthcare landscape, making it more efficient and accessible for everyone.\n\nWe are hiring an Associate Data Scientist to transform complex data into actionable insights, partnering with stakeholders to solve business challenges through statistical analysis, machine learning, and compelling data storytelling. The ideal candidate is analytical, curious, and collaborative, skilled in data analysis, visualization, and communication, and able to translate raw data into clear, impactful recommendations.\n\nAs an Associate Data Scientist, you will do the following:\n\n- Collect, clean, and preprocess structured and unstructured datasets for analysis and modeling.\n\n- Build, validate, and deploy statistical and machine learning models to solve business problems.\n\n- Write optimized SQL queries to extract and manipulate data from relational databases.\n\n- Develop insightful dashboards and visualizations using tools such as Power BI, Tableau, or similar.\n\n- Translate technical findings into clear, actionable insights for both technical and non-technical stakeholders.\n\n- Collaborate with cross-functional teams (engineering, product, operations) to define data requirements and deliver analytical solutions.\n\n- Continuously monitor model performance and retrain or improve algorithms as needed.\n\n- Document methodologies, workflows, and data dictionaries to ensure reproducibility.\n\n- Stay updated with emerging data science, AI/ML, and analytics best practices.\n\nRequirements\n\n- Bachelor’s degree (or higher) in Data Science, Computer Science, Statistics, Mathematics, Engineering, or a related field.\n\n- Minimum 2-3 years of proven experience in data analysis, business intelligence, or data science roles.\n\n- Strong SQL skills with hands-on experience querying and joining large datasets.\n\n- Proficiency in Python or R for data manipulation, statistical analysis, and modeling.\n\n- Experience with data visualization tools (e.g., Tableau, Power BI, matplotlib, seaborn).\n\n- Solid understanding of statistical concepts, hypothesis testing, and data modeling.\n\n- Familiarity with machine learning frameworks (e.g., scikit-learn, TensorFlow, PyTorch).\n\n- Experience with version control tools (e.g., Git).\n\n- Strong communication skills for technical and non-technical audiences\n\nBenefits\n\nAt Reliance Health, we prioritize our people and their well-being. Our benefits package is designed to support your success, growth, and happiness. Here’s what you’ll enjoy:\n\n- \nRemote-First Environment\nWork from anywhere while staying connected to a vibrant, collaborative team.\n\n- Competitive Salary and BenefitsWe offer a salary that’s benchmarked against the best in the industry, ensuring your expertise and impact are fully rewarded.\n\n- Premium Health Insurance\nComprehensive health coverage for you and your family, because your well-being comes first.\n\n- Unlimited Leave\nTake the time you need when you need it—no limits, no questions.\n\n- Meaningful Impact\nPlay a key role in transforming customer experiences and shaping healthcare innovation.\n\n- Collaborative Work Culture\nJoin a supportive, inclusive, and team-focused environment that celebrates diversity.\n\n- Growth Opportunities\nAccess tools, mentorship, and resources to elevate your skills and career.\n\n- Learning & Development Allowance\nWe provide an allowance to support your ongoing professional growth and skill enhancement.\n\nThis is more than a job—it's a chance to grow, thrive, and make a real difference. At Reliance Health, your journey matters.\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/associate-data-scientist-reliance-health</p>",
+      "posted_at": "2026-08-19T20:32:26+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
       "id": "93aaa801-add1-4c09-8edd-a4817dbae7bc",
       "title": "Vice President, Data & AI Strategy (Fully Remote)",
       "url": "https://remotejobs.org/remote-jobs/vice-president-data-ai-strategy-fully-remote-padsplit",
@@ -2560,7 +2560,7 @@
       "company": {
         "name": "PadSplit",
         "logo_url": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2021/06/da525286873130ed0b95212896ef55d4.jpg",
-        "website": null,
+        "website": "https://padsplit.com",
         "url": "https://remotejobs.org/companies/padsplit"
       },
       "category": {
@@ -2585,7 +2585,7 @@
       "company": {
         "name": "Reliance Health",
         "logo_url": null,
-        "website": null,
+        "website": "https://reliancehealth.com",
         "url": "https://remotejobs.org/companies/reliance-health"
       },
       "category": {
