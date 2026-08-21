@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T01:18:42.441Z",
+  "generatedAt": "2026-08-21T06:46:47.758Z",
   "count": 202,
   "jobs": [
     {
@@ -1336,6 +1336,40 @@
         "id": 15000202,
         "short_name": "glossgenius",
         "name": "GlossGenius"
+      }
+    },
+    {
+      "contents": "<p><b><strong>About the Role</strong></b><br><br>Uber is launching AV Labs to accelerate the autonomous technology ecosystem. We're building out a high-velocity team of multi-disciplinary experts to turn real-world operations into high-quality data for our autonomous partners. This team is focused on the hardest problem in AV today: unlocking real-world, long-tail driving data. Autonomy is now a data race-and Uber has an edge: We collect rare, real-world driving data at a scale and capital efficiency no one else can match.<br><br>As a <strong>Staff Software Engineer,</strong> you will be at the forefront of Physical AI, architecting the AV performance frameworks that support fast iteration on high-performance standards for the autonomous industry. You will drive the development of high-velocity driving performance and validation pipelines, move beyond solving isolated bugs to building collaborative system software designs, and establish innovative automated methodologies that empower our partners to accelerate the safe, reliable, and scalable deployment of autonomous vehicles across global markets.<br><br><b><strong>What the Candidate Will Do</strong></b><br><ul><li><strong>Software-Driven Evaluation Frameworks</strong>: Lead the design and implementation of automated software frameworks for benchmarking autonomous system capabilities. Audit partner software performance against Uber AV Labs' safety and efficiency KPIs using high-throughput data analysis.</li><li><strong>Data Pipeline Optimization</strong>: Architect and optimize high-velocity data pipelines and software stack throughput. Ensure that autonomous stacks meet rigorous software interface, processing latency, and data fidelity requirements within our collection fleet.</li><li><strong>Advanced Driving Behavior Metrics</strong>: Develop multi-modal software metrics to independently benchmark autonomous software performance against human capabilities and internal safety standards across both road and simulation environments.</li><li><strong>Cross Team Collaboration</strong>: Communicate benefits and limitations of new models and metrics to partner teams</li></ul><br><b><strong>Basic Qualifications</strong></b><br><ul><li>8+ years of professional software engineering experience, specifically in developing large-scale data systems or autonomous software stacks.</li><li>Strong expertise in software architecture, distributed computing, and the ability to decompose complex capability challenges into scalable software solutions.</li><li>Proficiency in C++ or Python, and Linux environments, with experience in high-performance software development.</li><li>Ability to employ AI tools and champion efficiency.</li><li>Bachelor's or Master's degree in Computer Science, Software Engineering, or a related technical field.</li></ul><br><b><strong>Preferred Qualifications</strong></b><br><ul><li>Experience with large-scale distributed systems, cloud infrastructure (e.g., AWS/GCP), and optimizing software for low-latency performance.</li><li>Hands-on experience developing evaluation metrics,, data mining tools, and automated validation software for autonomous vehicles.</li><li>Proven track record of defining software release processes, automated safety criteria, and CI/CD pipelines for safety-critical systems.</li></ul> <br>For Sunnyvale, CA-based roles: The base salary range for this role is USD $232,000 per year - USD $258,000 per year.<br><br>You will be eligible to participate in Uber's bonus program, and may be offered an equity award &amp; other types of comp. All full-time employees are eligible to participate in a 401(k) plan. You will also be eligible for various benefits.<br> <br><strong>Ready to Ride?</strong><br> <br>This isn't the kind of place where you follow a playbook - it's where you help write one. If you're driven by impact, energized by challenge, and ready to shape how the world moves - we'd love to hear from you.<br> <br>You may be eligible for bonuses, equity, and other compensation, as well as a range of benefits. Explore our benefits. <br> <br>Offices remain key to collaboration and Uber's culture. Unless approved for full remote work, employees must spend at least 50% of their time in-office. Some roles, like those at greenlight hubs, require full-time in-office presence. Ask your Recruiter for details about this role's requirements.<br> <br>Uber is proud to be an Equal Opportunity employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you have a disability or special need that requires accommodation, please let us know by completing this form.</p>",
+      "name": "Staff Software Engineer - AV Labs",
+      "type": "external",
+      "publication_date": "2026-08-21T06:22:30Z",
+      "short_name": "staff-software-engineer-av-labs-d5f36c",
+      "model_type": "jobs",
+      "id": 22053735,
+      "locations": [
+        {
+          "name": "Sunnyvale, CA"
+        }
+      ],
+      "categories": [
+        {
+          "name": "Software Engineering"
+        }
+      ],
+      "levels": [
+        {
+          "name": "Senior Level",
+          "short_name": "senior"
+        }
+      ],
+      "tags": [],
+      "refs": {
+        "landing_page": "https://www.themuse.com/jobs/uber/staff-software-engineer-av-labs-d5f36c"
+      },
+      "company": {
+        "id": 61,
+        "short_name": "uber",
+        "name": "Uber"
       }
     },
     {
@@ -3603,46 +3637,6 @@
         "id": 15000190,
         "short_name": "spacex",
         "name": "SpaceX"
-      }
-    },
-    {
-      "contents": "<p><strong>About the Role</strong> <br><br>As a <strong>Staff Engineer (5B)</strong> in Core Infrastructure, you will be a key technical leader responsible for the architecture and evolution of the systems that power Uber's global business. You will engage with stakeholders across the company to lead the development of backend solutions that support every trip, delivery, and infrastructure tool used at Uber.<br> <br>We are moving to build a \\\"cloud-native by default\\\" ecosystem that is secure, reliable, and hyperscale-efficient. You will own the technical roadmap for critical sub-systems, ensuring they are prepared for 1M+ concurrent trips and the massive compute demands of Generative AI and Autonomous Vehicle data.<br><br><strong>About the Team</strong> <br><br>The <strong>Core Infrastructure Platform</strong> team builds the next generation of Uber's orchestration, foundation, and networking layers. We manage a complex fleet spanning on-prem data centers and multiple public clouds, supporting a diverse variety of workloads (stateless, batch, streaming, and ML).<br> <br>Our goal is to create abstractions so that Uber developers can deploy anywhere in the world with the touch of a button-making infrastructure \\\"just work.\\\" We are active contributors to the open-source community (Kubernetes, CNCF) and regularly present our innovations at industry conferences like KubeCon.<br><br><strong>What the Candidate Will Do</strong> <br><ul> <li><strong>Lead Architectural Evolution:</strong> Identify architectural gaps in our compute and networking stacks; lead projects from ideation to global execution to fill those gaps (e.g., migrating to standardized CNI/Envoy or implementing shared GPU pools).</li> <li><strong>Drive Efficiency at Scale:</strong> Design and implement solutions to increase fleet-wide CPU utilization (targeting 40%+) and accelerate ARM adoption to optimize Uber's unit costs.</li> <li><strong>Modernize for Multi-Cloud:</strong> Lead the technical strategy for \\\"Thrive in Cloud,\\\" ensuring our foundations are resilient, active-active across providers, and support rapid regional failover.</li> <li><strong>Integrate AIOps &amp; Automation:</strong> Drive the development of \\\"Agentic\\\" infrastructure tools (e.g., Project Eve for network quality) to automate 80% of alert triaging and incident response.</li> <li><strong>Champion \\\"Security by Design\\\":</strong> Ensure 100% service-to-service authorization and zero-trust networking are baked into the core fabric of our container and networking platforms.</li> <li><strong>Cross-Functional Influence:</strong> Collaborate with Storage, Data, and Product teams to ensure the infrastructure can support 300x larger ranking models and L4 AV data ingestion.</li> <li><strong>Mentor &amp; Scale Talent:</strong> Act as a force multiplier by mentoring 5A and mid-level engineers, fostering a culture of \\\"100% Done-Done\\\" and operational excellence.</li> </ul><br><strong>Minimum Qualifications</strong> <br><ul> <li><strong>8+ years of full-time Software Engineering work experience</strong> (inclusive of PhD research or equivalent specialized education).</li> <li><strong>Expertise in Systems Languages:</strong> Deep proficiency in <strong>Go, Java, or C++</strong>.</li> <li><strong>Distributed Systems Mastery:</strong> Demonstrated experience designing and productionizing large-scale, high-availability infrastructure services.</li> <li><strong>Execution Excellence:</strong> A track record of leading complex, multi-quarter technical initiatives from design to fleet-wide rollout.</li> </ul><br><strong>Preferred Qualifications</strong> <br><ul> <li><strong>Cloud-Native Depth:</strong> Deep knowledge of <strong>Kubernetes internals</strong>, container runtimes (CRI), and networking (CNI/Envoy).</li> <li><strong>Infrastructure Strategy:</strong> Prior experience with hybrid-cloud or multi-cloud migrations and cost-optimization at scale.</li> <li><strong>Linux &amp; Kernel Knowledge:</strong> Understanding of operating systems, Linux kernel performance tuning, or eBPF.</li> <li><strong>AI/ML Infrastructure:</strong> Experience building or managing compute platforms tailored for GPU scheduling and large-scale model training.</li> </ul> <br><strong>Community Influence:</strong> Contributions to open-source infrastructure projects or a history of presenting at major technical conferences.<br><br> ~~ ~~ <br><br>For San Francisco, CA-based roles: The base salary range for this role is USD $232,000 per year - USD $258,000 per year.<br> <br>For Seattle, WA-based roles: The base salary range for this role is USD $232,000 per year - USD $258,000 per year.<br> <br>For Sunnyvale, CA-based roles: The base salary range for this role is USD $232,000 per year - USD $258,000 per year.<br> <br>For all US locations, you will be eligible to participate in Uber's bonus program, and may be offered an equity award &amp; other types of comp. All full-time employees are eligible to participate in a 401(k) plan. You will also be eligible for various benefits.<br> <br><strong>Ready to Ride?</strong><br> <br>This isn't the kind of place where you follow a playbook - it's where you help write one. If you're driven by impact, energized by challenge, and ready to shape how the world moves - we'd love to hear from you.<br> <br>You may be eligible for bonuses, equity, and other compensation, as well as a range of benefits. Explore our benefits. <br> <br>Offices remain key to collaboration and Uber's culture. Unless approved for full remote work, employees must spend at least 50% of their time in-office. Some roles, like those at greenlight hubs, require full-time in-office presence. Ask your Recruiter for details about this role's requirements.<br> <br>Uber is proud to be an Equal Opportunity employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you have a disability or special need that requires accommodation, please let us know by completing this form.</p>",
-      "name": "Staff Engineer - Core Infrastructure",
-      "type": "external",
-      "publication_date": "2026-07-08T00:32:51Z",
-      "short_name": "staff-engineer-core-infrastructure",
-      "model_type": "jobs",
-      "id": 21533607,
-      "locations": [
-        {
-          "name": "San Francisco, CA"
-        },
-        {
-          "name": "Seattle, WA"
-        },
-        {
-          "name": "Sunnyvale, CA"
-        }
-      ],
-      "categories": [
-        {
-          "name": "Software Engineering"
-        }
-      ],
-      "levels": [
-        {
-          "name": "Senior Level",
-          "short_name": "senior"
-        }
-      ],
-      "tags": [],
-      "refs": {
-        "landing_page": "https://www.themuse.com/jobs/uber/staff-engineer-core-infrastructure"
-      },
-      "company": {
-        "id": 61,
-        "short_name": "uber",
-        "name": "Uber"
       }
     },
     {
