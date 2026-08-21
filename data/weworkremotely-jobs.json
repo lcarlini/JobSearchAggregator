@@ -1,7 +1,22 @@
 {
-  "generatedAt": "2026-08-21T12:52:25.697Z",
-  "count": 320,
+  "generatedAt": "2026-08-21T18:36:38.353Z",
+  "count": 309,
   "jobs": [
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/coinbase-senior-software-engineer-backend-consumer-risk",
+      "source": "weworkremotely",
+      "title": "Senior Software Engineer, Backend (Consumer - Risk)",
+      "company": "Coinbase",
+      "url": "https://weworkremotely.com/remote-jobs/coinbase-senior-software-engineer-backend-consumer-risk",
+      "description": "Headquarters: Remote - Canada Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.”&nbsp; learn more about working at Coinbase . As a Senior Software Engineer on the Risk Engineering team within the Consumer & Business group, you'll build and optimize the systems that detect and prevent ",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Back-End Programming",
+        "programming"
+      ],
+      "postedAt": "Thu, 23 Jul 2026 07:03:54 +0000",
+      "category": "programming"
+    },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/coinbase-senior-software-engineer-backend-platform-core-ai-automation",
       "source": "weworkremotely",
@@ -333,21 +348,6 @@
       "category": "programming"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/speechify-inc-senior-software-engineer-web-1",
-      "source": "weworkremotely",
-      "title": "Senior Software Engineer, Web",
-      "company": "Speechify Inc",
-      "url": "https://weworkremotely.com/remote-jobs/speechify-inc-senior-software-engineer-web-1",
-      "description": "Headquarters: Florida URL: http://www.speechify.com Overview With that growth comes the need for a Javascript Engineer to join the existing Web team and continue supporting the growing user base as well as building new and exciting features. &nbsp; This is a key role and ideal for someone who thinks strategically, enjoys high-pace environments, passionate about owning product decisions and has experience building and scaling complex engineering systems. What You’ll Do Actively ship production code to the web products Work closely with your dedicated product team Participate in product discussions to shape the product roadmap Have the opportunity to work on new and exciting features that will impact millions of lives An Ideal Candidate Should Have Experience. You've built and ship products ",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Front-End Programming",
-        "programming"
-      ],
-      "postedAt": "Sat, 23 May 2026 13:43:59 +0000",
-      "category": "programming"
-    },
-    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/zenara-health-devops-security-engineer-ai-native-healthcare-saas",
       "source": "weworkremotely",
       "title": "DevOps & Security Engineer - AI-Native Healthcare SaaS",
@@ -495,81 +495,6 @@
         "devops"
       ],
       "postedAt": "Thu, 23 Jul 2026 07:01:07 +0000",
-      "category": "devops"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/brightorder-full-stack-developer-devops-cloud-systems",
-      "source": "weworkremotely",
-      "title": "Full Stack Developer - DevOps & Cloud Systems",
-      "company": "BrightOrder",
-      "url": "https://weworkremotely.com/remote-jobs/brightorder-full-stack-developer-devops-cloud-systems",
-      "description": "Headquarters: Canada URL: http://brightorder.com Description DevOps Developer (AWS) Fully Remote Opportunity About BrightOrder We build technology that keeps fleets safer, smarter, and more profitable. Our platform connects maintenance, telematics, and data to help operators make real-time decisions. We’re scaling fast across North America and we need exceptional builders who code, automate, and optimize systems end-to-end. The Role We’re looking for a Full Stack Developer with strong DevOps and AWS experience to help build, automate, and scale BrightOrder’s cloud-based platform. This role is ideal for someone who can contribute across the stack — building backend services, APIs, integrations, internal tools, and frontend components — while also supporting cloud infrastructure, deployments",
-      "location": "Anywhere in the World",
-      "tags": [
-        "DevOps and Sysadmin",
-        "devops"
-      ],
-      "postedAt": "Wed, 22 Jul 2026 15:08:54 +0000",
-      "category": "devops"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/proctoru-devops-engineer",
-      "source": "weworkremotely",
-      "title": "DevOps Engineer",
-      "company": "ProctorU",
-      "url": "https://weworkremotely.com/remote-jobs/proctoru-devops-engineer",
-      "description": "Headquarters: Remote India, IN URL: http://meazurelearning.com &nbsp; At Meazure Learning, we believe in transforming learning and assessment experiences to unlock human potential. As a global leader in online testing and exam services, we support credentialing, licensure, workforce education, and higher education through purpose-built solutions that are secure, accessible, and deeply human-centered. With a global footprint across the U.S., Canada, India, and the U.K., our team is united by a passion for innovation and a commitment to integrity, quality, and learner success. &nbsp; About the Role&nbsp; We are looking for a seasoned DevOps Engineer to help us scale, secure, and optimize our infrastructure and deployment processes. This role is critical to enabling fast, reliable, and high-q",
-      "location": "Anywhere in the World",
-      "tags": [
-        "DevOps and Sysadmin",
-        "devops"
-      ],
-      "postedAt": "Wed, 22 Jul 2026 15:08:54 +0000",
-      "category": "devops"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/sailpoint-manager-devops",
-      "source": "weworkremotely",
-      "title": "Manager, DevOps",
-      "company": "SailPoint",
-      "url": "https://weworkremotely.com/remote-jobs/sailpoint-manager-devops",
-      "description": "Headquarters: Remote (Colorado, USA) URL: http://sailpoint.com About the Team &nbsp; Our CI/CD team sets clear delivery and release standards, providing the necessary tools, systems, and hands-on developer support to safely and securely release software assets for SailPoint's SaaS business and supporting functionality. By managing platforms that enable developers to deliver secure code in an incremental fashion while maintaining compliance, our team plays a critical role in fostering a seamless developer experience and helping SailPoint deliver high-quality, resilient services to our customers. &nbsp; About the Role At SailPoint, we are building the most comprehensive suite of identity governance & management SaaS products in the world. As the undisputed leader in identity governance and m",
-      "location": "Colorado",
-      "tags": [
-        "DevOps and Sysadmin",
-        "devops"
-      ],
-      "postedAt": "Wed, 22 Jul 2026 15:08:54 +0000",
-      "category": "devops"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/ppg-it-team-manager-devops-m-f-x",
-      "source": "weworkremotely",
-      "title": "IT Team Manager (DevOps) (m/f/x)",
-      "company": "PPG",
-      "url": "https://weworkremotely.com/remote-jobs/ppg-it-team-manager-devops-m-f-x",
-      "description": "Headquarters: POL - Wrocław URL: http://ppg.com As IT Manager, you will define and architect the deployment, automation, and management of our cloud applications portfolio and infrastructure. The DevOps team works closely with platform engineering teams, infrastructure architects, product owners, and stakeholders to establish and maintain efficient CI/CD pipelines, deployments. Supports the DevOps team with scripting and automating all environments, software deployments, and it's supporting infrastructure. This is a fully remote role with flexibility to be located in Poland, the Czech Republic, or Spain. ROLES AND RESPONSIBILITIES Lead a global team of fifteen DevOps engineers distributed over different geographies towards the success of different initiatives. Develop and implement the Dev",
-      "location": "Anywhere in the World",
-      "tags": [
-        "DevOps and Sysadmin",
-        "devops"
-      ],
-      "postedAt": "Wed, 22 Jul 2026 15:08:54 +0000",
-      "category": "devops"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/coders-brain-technology-devops-eng_roji",
-      "source": "weworkremotely",
-      "title": "Devops eng_roji",
-      "company": "Coders Brain Technology",
-      "url": "https://weworkremotely.com/remote-jobs/coders-brain-technology-devops-eng_roji",
-      "description": "Headquarters: Remote URL: http://codersbrain.com Python (language) Helm Charts Terraform Puppet OpenStack JD: DevOps Engineer Required skills: Expert in Terraform, and Puppet. Expert in infrastructure as code technology. Experience with end to end infrastructure deployment automation. Expert in Kubernetes and Docker. Experience of deploying Kubernetes cluster with terraform and OpenStack. Very good at Helm charts. Coding: Good to have skills: Experienced with REST APIs What you will get: Exposure to state-of-the-art deep learning technology. Working with Top deep learning engineers in India. Full ownership of the task assigned. To apply: https://weworkremotely.com/remote-jobs/coders-brain-technology-devops-eng_roji",
-      "location": "Anywhere in the World",
-      "tags": [
-        "DevOps and Sysadmin",
-        "devops"
-      ],
-      "postedAt": "Wed, 22 Jul 2026 15:08:54 +0000",
       "category": "devops"
     },
     {
@@ -1605,21 +1530,6 @@
         "design"
       ],
       "postedAt": "Thu, 23 Jul 2026 07:01:32 +0000",
-      "category": "design"
-    },
-    {
-      "id": "weworkremotely:10",
-      "source": "weworkremotely",
-      "title": "Principal Design Engineer, Storytelling",
-      "company": "10 Ancestry.com Operations",
-      "url": "https://weworkremotely.com/remote-jobs/10-ancestry-com-operations-principal-design-engineer-storytelling",
-      "description": "Headquarters: Draper, Utah URL: http://ancestry.com About Ancestry: When you join Ancestry, you join a human-centered company where every person’s story is important. Ancestry®, the global leader in family history, connects everyone with their past so they can discover, preserve, and share their unique family stories. With our unparalleled collection of more than 65 billion records, over 3.5 million subscribers, and over 27 million people in our growing DNA network, customers can discover their family story and gain a new level of understanding about their lives. Over the past 40 years, we’ve built trusted relationships with millions of people who have chosen us as the platform for discovering, preserving, and sharing the most important information about themselves and their families. We a",
-      "location": "Utah",
-      "tags": [
-        "Design",
-        "design"
-      ],
-      "postedAt": "Wed, 22 Jul 2026 15:08:21 +0000",
       "category": "design"
     },
     {
@@ -4680,81 +4590,6 @@
         "management"
       ],
       "postedAt": "Thu, 23 Jul 2026 07:02:51 +0000",
-      "category": "management"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/ameris-bank-equipment-finance-regional-sales-manager-san-ramon-sales",
-      "source": "weworkremotely",
-      "title": "Equipment Finance Regional Sales Manager - San Ramon Sales",
-      "company": "Ameris Bank",
-      "url": "https://weworkremotely.com/remote-jobs/ameris-bank-equipment-finance-regional-sales-manager-san-ramon-sales",
-      "description": "Headquarters: CA-CostaMesa-AntonBlvd URL: http://amerisbank.com Ameris Bank is a purpose-driven company, dedicated to bringing financial peace of mind to communities, one person at a time. Whether a customer wants to grow their business, buy a home, or feel confident in their retirement plan, they have a partner in Ameris Bank. We serve customers in our locations across the Southeast, Mid-Atlantic and nationwide through our extensive digital offerings and mobile app. Delivering financial peace of mind starts with a team that values integrity and rewards ingenuity. At Ameris, you’ll find teammates who are inclusive, collaborative problem-solvers who go the extra mile to support one another and to meet every customer’s needs. When teammates are empowered and bring their diverse perspectives ",
-      "location": "California",
-      "tags": [
-        "Management and Finance",
-        "management"
-      ],
-      "postedAt": "Wed, 22 Jul 2026 15:09:26 +0000",
-      "category": "management"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/flagstar-bank-director-executive-sales-officer-flagstar-financial-leasing-technology-vendor",
-      "source": "weworkremotely",
-      "title": "Director - Executive Sales Officer - Flagstar Financial & Leasing (Technology Vendor)",
-      "company": "Flagstar Bank",
-      "url": "https://weworkremotely.com/remote-jobs/flagstar-bank-director-executive-sales-officer-flagstar-financial-leasing-technology-vendor",
-      "description": "Headquarters: Work From Home United States URL: http://flagstar.com Position Title Director - Executive Sales Officer - Flagstar Financial & Leasing (Technology Vendor) Location Nationwide, MI 48098 Job Summary The Director – Executive Sales Officer within Flagstar Financial & Leasing (Technology Vendor) is responsible for leading strategy, execution, and growth. This position will be accountable to the Sr. Director - Business Segment Head for execution of the segment’s strategy for new business development, client/portfolio exposure management and P&L contribution. This role will focus on originating, structuring, building relationships with strategic partners, identifying market opportunities, and executing transactions that optimize risk-adjusted returns. The ideal candidate has deep ex",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Management and Finance",
-        "management"
-      ],
-      "postedAt": "Wed, 22 Jul 2026 15:09:26 +0000",
-      "category": "management"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/highmark-health-business-analyst-sponsored-programs-financial-services-clinical-trials",
-      "source": "weworkremotely",
-      "title": "Business Analyst - Sponsored Programs Financial Services - Clinical Trials",
-      "company": "Highmark Health",
-      "url": "https://weworkremotely.com/remote-jobs/highmark-health-business-analyst-sponsored-programs-financial-services-clinical-trials",
-      "description": "Headquarters: PA, Working at Home - Pennsylvania URL: http://highmarkhealth.org Company : Allegheny Health Network Job Description :&nbsp; Looking for candidates located in Central or Eastern time zones GENERAL OVERVIEW: The incumbent is responsible for implementation and execution of various post-award and financial management activities for grants, contracts and/or clinical trials within the Sponsored Programs Financial Services (SPFS) supporting Allegheny-Singer Research Institute and Allegheny Health Network. Responsibilities include award set-up, transaction processing, compliance review, cash management, collections, financial reporting and project close-out. Responsible for material accuracy of financial statements /reports. Analyze financial results and outcomes, trends/projections",
-      "location": "Pennsylvania",
-      "tags": [
-        "Management and Finance",
-        "management"
-      ],
-      "postedAt": "Wed, 22 Jul 2026 15:09:26 +0000",
-      "category": "management"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/allstate-personal-financial-representative-nj",
-      "source": "weworkremotely",
-      "title": "Personal Financial Representative - NJ",
-      "company": "Allstate",
-      "url": "https://weworkremotely.com/remote-jobs/allstate-personal-financial-representative-nj",
-      "description": "Headquarters: USA - NJ (Remote) URL: http://allstate.com Job Description Would you like to own a meaningful financial services practice under the Allstate brand? Scale your existing practice with proven support, flexibility and access to new customers. We’re looking for professionals with a growing practice who would like to use the Allstate brand and resources to expand, in your community. Your Practice. As an Allstate Financial Specialist, you’ll build your own financial services practice with support from Allstate. Your partnership with Allstate Agency owners will drive new business in your community and support your access to new revenue streams. Your Support Team. We support our Financial Specialists across the nation with a variety of product offerings and continued education that he",
-      "location": "New Jersey",
-      "tags": [
-        "Management and Finance",
-        "management"
-      ],
-      "postedAt": "Wed, 22 Jul 2026 15:09:26 +0000",
-      "category": "management"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/yale-university-financial-assistant-4",
-      "source": "weworkremotely",
-      "title": "Financial Assistant 4",
-      "company": "Yale University",
-      "url": "https://weworkremotely.com/remote-jobs/yale-university-financial-assistant-4",
-      "description": "Headquarters: Off Campus within Connecticut URL: http://yale.edu Working at Yale means contributing to a better tomorrow. Whether you are a current resident of our New Haven-based community, eligible for opportunities through the New Haven Hiring Initiative, or a newcomer, interested in exploring all that Yale has to offer, your talents and contributions are welcome. Discover your opportunities at Yale! Overview Working under the general direction of the finance manager and exercising a considerable amount of discretion and independent judgment, provides a high level of financial and administrative support for the PET USP and MR USP, which fall under the Yale Biomedical Imaging Institute. The Financial Assistant IV will provide day-to-day financial oversight and guidance over PET and MR US",
-      "location": "Connecticut",
-      "tags": [
-        "Management and Finance",
-        "management"
-      ],
-      "postedAt": "Wed, 22 Jul 2026 15:09:26 +0000",
       "category": "management"
     },
     {
