@@ -1,7 +1,37 @@
 {
-  "generatedAt": "2026-08-23T01:20:21.250Z",
-  "count": 252,
+  "generatedAt": "2026-08-23T06:40:55.384Z",
+  "count": 250,
   "jobs": [
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/azumo-java-engineer-latin-america",
+      "source": "weworkremotely",
+      "title": "Java Engineer - Latin America",
+      "company": "Azumo",
+      "url": "https://weworkremotely.com/remote-jobs/azumo-java-engineer-latin-america",
+      "description": "Headquarters: Dominican Republic URL: http://azumo.com Description Azumo is currently looking for highly motivated Java Senior Engineers to develop and enhance high performing and scalable backend infrastructure used by millions of users. The position is fully remote based in Latin America . We will only be considering candidates based in Latin America, as most of our engineers are based there. This position will give you the opportunity to collaborate with a growing team and bright engineering minds. You will enjoy the role if you love designing and developing scalable, high performant backend infrastructure using enterprise class frameworks. Responsibilities: Design, develop and test robust Java APIs Evaluate multiple approaches and technologies to solving a problem Understand data pipel",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "programming"
+      ],
+      "postedAt": "Tue, 04 Aug 2026 22:12:17 +0000",
+      "category": "programming"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/lmg-staffing-solutions-ai-assisted-software-engineer-web-applications",
+      "source": "weworkremotely",
+      "title": "AI-Assisted Software Engineer, Web Applications",
+      "company": "LMG Staffing Solutions",
+      "url": "https://weworkremotely.com/remote-jobs/lmg-staffing-solutions-ai-assisted-software-engineer-web-applications",
+      "description": "Headquarters: Medellín, Medellin, Colombia URL: http://logicalmediagroup.com Description Overview We are looking for a software engineer to build and scale our internal web applications. Your mission is to deliver high-quality, maintainable solutions using a Next.js front end and a Django back end, while actively using AI tools and Model Context Protocols (MCPs) to accelerate development and enforce clean architecture. What Success Looks Like Seamless integration between the Next.js front end and Django back end, maintaining high performance and security. Proactive use of AI coding assistants and MCPs to accelerate development cycles and improve code quality, rather than relying on them as a crutch. Code is clean, modular, thoroughly tested, and ready for production with minimal technical ",
+      "location": "Medellin",
+      "tags": [
+        "Full-Stack Programming",
+        "programming"
+      ],
+      "postedAt": "Tue, 04 Aug 2026 22:12:17 +0000",
+      "category": "programming"
+    },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/azumo-data-engineer-databricks-aws-gaming-liveops-latin-america",
       "source": "weworkremotely",
@@ -345,36 +375,6 @@
         "programming"
       ],
       "postedAt": "Fri, 24 Jul 2026 07:00:48 +0000",
-      "category": "programming"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/reddit-ads-conversion-modeling-machine-learning-engineering-manager",
-      "source": "weworkremotely",
-      "title": "Ads Conversion Modeling, Machine Learning Engineering Manager",
-      "company": "Reddit",
-      "url": "https://weworkremotely.com/remote-jobs/reddit-ads-conversion-modeling-machine-learning-engineering-manager",
-      "description": "Headquarters: Remote - United States Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 126 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit www.redditinc.com . Reddit’s lower funnel business is rapidly growing and pushing the heavy ranking web conversion models towards state-of-the-art is critical for continued growth. The Conversion modeling Team plays a pivotal role in developing and maintaining machine learning models that drive user conversions from Reddit Ads",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "programming"
-      ],
-      "postedAt": "Fri, 24 Jul 2026 05:21:03 +0000",
-      "category": "programming"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/coinbase-senior-software-engineer-data-layer",
-      "source": "weworkremotely",
-      "title": "Senior Software Engineer, Data Layer",
-      "company": "Coinbase",
-      "url": "https://weworkremotely.com/remote-jobs/coinbase-senior-software-engineer-data-layer",
-      "description": "Headquarters: Remote - USA Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.”&nbsp; learn more about working at Coinbase . Senior Software Engineer, Data Layer As a Senior Software Engineer on the Data Layer team within the Platform group, you'll shape the API (GraphQL) platform that ",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Back-End Programming",
-        "programming"
-      ],
-      "postedAt": "Fri, 24 Jul 2026 05:20:50 +0000",
       "category": "programming"
     },
     {
@@ -3415,36 +3415,6 @@
       "url": "https://weworkremotely.com/remote-jobs/azumo-data-engineer-latin-america",
       "description": "Headquarters: Buenos Aires, Argentina URL: http://azumo.com Description Azumo is currently looking for a highly motivated Big Data Engineer to develop and enhance data and analytics infrastructure. The position is FULLY REMOTE based in Latin America . This position will give you the opportunity to collaborate with a growing team and bright engineering minds in big data computing. You will enjoy the role if you love designing and developing scalable, high performant big data infrastructure using Spark, Kafka, Snowflake or any similar frameworks , both on premise and in the cloud. Experience in building data pipelines, data services, data warehouses, BI and ML platforms is what we are looking for. At Azumo we strive for excellence and strongly believe in professional and personal growth. We ",
       "location": "Buenos Aires",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Tue, 04 Aug 2026 22:12:17 +0000",
-      "category": "full-stack"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/azumo-java-engineer-latin-america",
-      "source": "weworkremotely",
-      "title": "Java Engineer - Latin America",
-      "company": "Azumo",
-      "url": "https://weworkremotely.com/remote-jobs/azumo-java-engineer-latin-america",
-      "description": "Headquarters: Dominican Republic URL: http://azumo.com Description Azumo is currently looking for highly motivated Java Senior Engineers to develop and enhance high performing and scalable backend infrastructure used by millions of users. The position is fully remote based in Latin America . We will only be considering candidates based in Latin America, as most of our engineers are based there. This position will give you the opportunity to collaborate with a growing team and bright engineering minds. You will enjoy the role if you love designing and developing scalable, high performant backend infrastructure using enterprise class frameworks. Responsibilities: Design, develop and test robust Java APIs Evaluate multiple approaches and technologies to solving a problem Understand data pipel",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Tue, 04 Aug 2026 22:12:17 +0000",
-      "category": "full-stack"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/lmg-staffing-solutions-ai-assisted-software-engineer-web-applications",
-      "source": "weworkremotely",
-      "title": "AI-Assisted Software Engineer, Web Applications",
-      "company": "LMG Staffing Solutions",
-      "url": "https://weworkremotely.com/remote-jobs/lmg-staffing-solutions-ai-assisted-software-engineer-web-applications",
-      "description": "Headquarters: Medellín, Medellin, Colombia URL: http://logicalmediagroup.com Description Overview We are looking for a software engineer to build and scale our internal web applications. Your mission is to deliver high-quality, maintainable solutions using a Next.js front end and a Django back end, while actively using AI tools and Model Context Protocols (MCPs) to accelerate development and enforce clean architecture. What Success Looks Like Seamless integration between the Next.js front end and Django back end, maintaining high performance and security. Proactive use of AI coding assistants and MCPs to accelerate development cycles and improve code quality, rather than relying on them as a crutch. Code is clean, modular, thoroughly tested, and ready for production with minimal technical ",
-      "location": "Medellin",
       "tags": [
         "Full-Stack Programming",
         "full-stack"
