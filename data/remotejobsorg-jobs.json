@@ -1,7 +1,32 @@
 {
-  "generatedAt": "2026-08-25T06:45:59.189Z",
+  "generatedAt": "2026-08-25T12:50:32.784Z",
   "count": 150,
   "data": [
+    {
+      "id": "1bb3031c-2b66-4303-8a3e-e3c2ed170ed6",
+      "title": "Frontend-Focused Full Stack Developer - Angular / .NET (Remote, Full-Time) [AS313]",
+      "url": "https://remotejobs.org/remote-jobs/frontend-focused-full-stack-developer-angular-net-remote-full-time-as313-smart-working",
+      "apply_url": "https://remotejobs.org/remote-jobs/frontend-focused-full-stack-developer-angular-net-remote-full-time-as313-smart-working",
+      "company": {
+        "name": "Smart Working",
+        "logo_url": null,
+        "website": "https://smartworking.io",
+        "url": "https://remotejobs.org/companies/smart-working"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "India",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "type": "Full-time",
+      "description": "About Smart Working\nAt Smart Working, we believe your job should not only look right on paper but also feel right every day. This isn’t just another remote opportunity - it’s about finding where you truly belong, no matter where you are. From day one, you’re welcomed into a genuine community that values your growth and well-being.\nOur mission is simple: to break down geographic barriers and connect skilled professionals with outstanding global teams and products for full-time, long-term roles. We help you discover meaningful work with teams that invest in your success, where you’re empowered to grow personally and professionally.\nJoin one of the highest-rated workplaces on Glassdoor and experience what it means to thrive in a truly remote-first world.\nAbout the Role\nAs a Frontend-Focused Full Stack Developer (Angular / .NET), you’ll work on a live recruitment platform covering an ATS, careers sites and a job board used every day by schools, trusts and candidates. This is an established product with real traffic rather than a new build.\nA key focus of the role is modernising the frontend. A large part of the platform currently runs on AngularJS and is being progressively migrated to Angular 21. You’ll maintain the existing AngularJS codebase, translate existing functionality into the modern Angular stack and build new Angular 21 features.\nWhile the role is primarily frontend-focused, .NET Core and ASP.NET MVC development experience are also required. You’ll contribute to the platform while helping deliver the migration in stages, maintaining performance and keeping the live product stable throughout the transition.\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/frontend-focused-full-stack-developer-angular-net-remote-full-time-as313-smart-working</p>",
+      "posted_at": "2026-08-25T07:15:54.02+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
     {
       "id": "93b18355-7b2c-44ad-9d5e-4d7d173ecb79",
       "title": "Project Mechanical Engineer V",
@@ -10,7 +35,7 @@
       "company": {
         "name": "CannonDesign",
         "logo_url": null,
-        "website": null,
+        "website": "https://cannondesign.com",
         "url": "https://remotejobs.org/companies/cannondesign"
       },
       "category": {
@@ -35,7 +60,7 @@
       "company": {
         "name": "Relay",
         "logo_url": "https://cdn-images.himalayas.app/3t1lk4rtngf8jcs3h70gcgnxh0kk",
-        "website": null,
+        "website": "https://relay.com",
         "url": "https://remotejobs.org/companies/relay"
       },
       "category": {
@@ -1228,31 +1253,6 @@
       "original_language": null
     },
     {
-      "id": "85eb5f3c-8be5-47d3-a974-f36e00f11913",
-      "title": "PeopleTools Consultant",
-      "url": "https://remotejobs.org/remote-jobs/peopletools-consultant-bright-vision-technologies",
-      "apply_url": "https://remotejobs.org/remote-jobs/peopletools-consultant-bright-vision-technologies",
-      "company": {
-        "name": "Bright Vision Technologies",
-        "logo_url": "https://we-work-remotely.imgix.net/logos/0171/5655/logo.gif",
-        "website": "https://bright.com",
-        "url": "https://remotejobs.org/companies/bright-vision-technologies"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "Remote",
-      "salary_min": 95000,
-      "salary_max": 110000,
-      "salary_text": "USD 95,000 - 110,000",
-      "type": "Full-time",
-      "description": "PeopleTools Consultant – Remote\n\nBright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and enterprise solutions across the United States.\nThis is a fantastic opportunity to join an established and well-respected organization offering tremendous career growth potential.\n\nJob Title: PeopleTools Consultant\nLocation: 100% Remote (U.S.)\nPosition Type: Full-time, Direct W2\nSalary Range: $95,000–$110,000 Annually\nExperience Required: 6+ years\n\nSponsorship: U.S. Citizens, Green Card Holders, EAD Holders, and H-1B transfer candidates are encouraged to apply. We are unable to sponsor new H-1B visa petitions for this position.\n\nJob Summary\nWe are seeking an experienced PeopleTools Consultant responsible for the architecture, installation, configuration, upgrade, and ongoing technical operation of enterprise PeopleSoft environments. In this role you will own the technical backbone of the PeopleSoft platform — including PeopleTools upgrades, image applications, security configurations, search server operations, and integration with cloud and middleware platforms. The ideal candidate will combine deep PeopleTools and PeopleSoft administration experience with strong fundamentals in Oracle database, Linux/Unix, and modern DevOps practices. In this role you will work closely with cross-functional partners — product, design, engineering, operations, and business stakeholders — to translate ambiguous requirements into well-engineered solutions, and will be expected to raise the bar through code review, design review, and mentorship of more junior engineers. The successful candidate brings strong engineering discipline, a clear communication style, and a track record of shipping meaningful work that holds up well in production.\n\nRequired Qualifications\n- Bachelor’s degree in Computer Science, Engineering, or a related technical discipline.\n\n- Five or more years of PeopleSoft PeopleTools administration experience.\n\n- Hands-on experience with PeopleTools upgrades and PeopleSoft Update Manager (PUM).\n\n- Strong experience with WebLogic, Tuxedo, and PeopleSoft application/process scheduler servers.\n\n- Experience administering Elasticsearch / OpenSearch in support of PeopleSoft.\n\n- Working knowledge of Oracle Database administration.\n\n- Strong Linux/Unix skills and shell scripting experience.\n\n- Familiarity with PeopleSoft Cloud Manager or equivalent automation tooling.\n\n- Experience operating HA/DR for PeopleSoft.\n\n- Strong troubleshooting, communication, and documentation skills.\n\nPreferred Qualifications\n- PeopleSoft certifications.\n\n- Experience operating PeopleSoft on OCI, AWS, or Azure.\n\n- Exposure to infrastructure-as-code (Terraform, Ansible).\n\n- Familiarity with CI/CD patterns for PeopleSoft change management.\n\n- Experience with PeopleSoft Selective Adoption strategy.\n\nHow to Apply\nWould you like to know more about this opportunity? For immediate consideration, please send your resume to \n Vision Technologies is an Equal Opportunity Employer.Equal Employment Opportunity (EEO) Statement\n\nBright Vision Technologies (BV Teck) is committed to equal employment opportunity (EEO) for all employees and applicants without regard to race, color, religion, sex, sexual orientation, gender identity or expression, national origin, age, genetic information, disability, veteran status, or any other protected status as defined by applicable federal, state, or local laws. This commitment extends to all aspects of employment, including recruitment, hiring, training, compensation, promotion, transfer, leaves of absence, termination, layoffs, and recall.\n\nBV Teck expressly prohibits any form of workplace harassment or discrimination. Any improper interference with employees' ability to perform their job duties may result in disciplinary action up to and including termination of employment.\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/peopletools-consultant-bright-vision-technologies</p>",
-      "posted_at": "2026-08-24T03:50:42+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
       "id": "63fdc59d-6b14-48fb-a06a-c0b5f9487c2d",
       "title": "Senior Federal Platform Engineer",
       "url": "https://remotejobs.org/remote-jobs/senior-federal-platform-engineer-keeper-security-inc",
@@ -1260,7 +1260,7 @@
       "company": {
         "name": "Keeper Security",
         "logo_url": null,
-        "website": null,
+        "website": "https://keepersecurity.com",
         "url": "https://remotejobs.org/companies/keeper-security"
       },
       "category": {
@@ -1310,7 +1310,7 @@
       "company": {
         "name": "Keeper Security",
         "logo_url": null,
-        "website": null,
+        "website": "https://keepersecurity.com",
         "url": "https://remotejobs.org/companies/keeper-security"
       },
       "category": {
@@ -2535,7 +2535,7 @@
       "company": {
         "name": "Capital Bank",
         "logo_url": null,
-        "website": null,
+        "website": "https://capitalbank.com",
         "url": "https://remotejobs.org/companies/capital-bank"
       },
       "category": {
