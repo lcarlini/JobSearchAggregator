@@ -1,7 +1,398 @@
 {
-  "generatedAt": "2026-08-26T12:55:32.828Z",
-  "count": 1020,
+  "generatedAt": "2026-08-26T19:51:50.714Z",
+  "count": 1028,
   "jobs": [
+    {
+      "title": "MCP Expert",
+      "excerpt": "Job Title: MCP Expert Job Type: Contractor (~15 hrs a week) Location: Remote Schedule: Flexible, you pick the hours and days (including weekends if desired) Job Summary: In this role, you'll apply your expertise to help train next-generation AI systems.",
+      "companyName": "micro1",
+      "companySlug": "micro1",
+      "companyLogo": "https://cdn-images.himalayas.app/91oa56akgt3qjqc1nh3uoruub40c",
+      "employmentType": "Contractor",
+      "minSalary": 60,
+      "maxSalary": 120,
+      "salaryPeriod": "hourly",
+      "seniority": [
+        "Mid-level"
+      ],
+      "currency": "USD",
+      "locationRestrictions": [],
+      "timezoneRestrictions": [
+        -11,
+        -10,
+        -9.5,
+        -9,
+        -8,
+        -7,
+        -6,
+        -5,
+        -4,
+        -3.5,
+        -3,
+        -2,
+        -1,
+        0,
+        1,
+        2,
+        3,
+        3.5,
+        4,
+        4.5,
+        5,
+        5.5,
+        5.75,
+        6,
+        6.5,
+        7,
+        8,
+        8.75,
+        9,
+        9.5,
+        10,
+        10.5,
+        11,
+        12,
+        12.75,
+        13,
+        14
+      ],
+      "categories": [
+        "MCP-Developer",
+        "MCP-Solutions-Architect",
+        "MCP-Agent-Development",
+        "MCP-Server-Development"
+      ],
+      "parentCategories": [],
+      "description": "<p><strong>Job Title:</strong> MCP Expert</p><p><strong>Job Type:</strong> Contractor (~15 hrs a week)</p><p><strong>Location:</strong> Remote</p><p><strong>Schedule: </strong>Flexible, you pick the hours and days (including weekends if desired)</p><p><strong>Job Summary:</strong> In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.</p><p>As an expert you will be creating Reinforcement Learning Environments which test an AI model’s ability to solve complex software engineering problems using Model Context Protocol (MCP) tools. Tasks may involve fixing bugs, implementing features, refactoring code, or optimizing performance while requiring agents to discover and reason over information from real MCP servers. You will design reproducible environments, deterministic verification, and golden reference solutions that accurately measure both MCP tool use and software engineering ability.</p><h3>Required Skills and Qualifications:</h3><ol>\n<li>Proficiency in C++, Python, JAVA, GoLang, Typescript, or Rust.</li>\n<li>Deep understanding of algorithms, data structures, and performance tuning.</li>\n<li>Demonstrated experience in debugging complex software issues and delivering maintainable solutions.</li>\n<li>Strong background in feature development and codebase refactoring.</li>\n<li>Proven ability to optimize software for performance and scalability.</li>\n<li>Exceptional written and verbal communication skills, with a keen attention to detail.</li>\n<li>Track record of success in collaborative, cross-functional teams, ideally in remote settings.</li>\n</ol><h3>Preferred Qualifications:</h3><ol>\n<li>Previous experience working on large-scale, distributed codebases.</li>\n<li>Familiarity with modern AI or machine learning systems is a plus, though not required.</li>\n<li>Background in participating in rigorous code reviews and contributing to the development of software best practices.</li>\n</ol><h3>Process:</h3><ol>\n<li>Apply to the role, filling out the screening questions</li>\n<li>Complete AI Interview (approx. 30 minutes)</li>\n<li>Technical Assessment (Tentative)</li>\n<li>Hiring Manager review</li>\n</ol><h3>Compensation Structure</h3><p>Compensation is output-based; experts are paid per task that meets the project specifications. The time required to complete work may vary depending on the expert’s experience and workflow. Minimum submission requirements apply. Experts must submit a minimum of tasks per week.</p><h3>Start Timeline &amp; Availability</h3><p>We typically fill roles within 48 hours and are looking for experts ready to jump in right away. If selected, we expect you to start your first tasks within 24–48 hours of completing onboarding.</p><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+      "pubDate": 1787759425,
+      "expiryDate": 1792801347,
+      "applicationLink": "https://himalayas.app/companies/micro1/jobs/mcp-expert",
+      "guid": "https://himalayas.app/companies/micro1/jobs/mcp-expert"
+    },
+    {
+      "title": "Bengali Bilingual Expert",
+      "excerpt": "Role Title: Bengali Bilingual ExpertRole Type: ContractorLocation: Remotemicro1 is engaging Bengali Bilingual Experts to contribute to an impactful language and AI training project for a valued customer.",
+      "companyName": "micro1",
+      "companySlug": "micro1",
+      "companyLogo": "https://cdn-images.himalayas.app/91oa56akgt3qjqc1nh3uoruub40c",
+      "employmentType": "Contractor",
+      "minSalary": null,
+      "maxSalary": null,
+      "salaryPeriod": "hourly",
+      "seniority": [
+        "Mid-level"
+      ],
+      "currency": "USD",
+      "locationRestrictions": [
+        "Bangladesh"
+      ],
+      "timezoneRestrictions": [
+        6
+      ],
+      "categories": [
+        "Bengali-Language-Specialist",
+        "Bengali-Linguistic-Expert",
+        "Bengali-Language-Services",
+        "Bengali-Translation-Services",
+        "Bilingual-Translation-Specialist",
+        "Bilingual-Linguist",
+        "Bilingual-Translator",
+        "Bilingual-Specialist",
+        "Language-Expert"
+      ],
+      "parentCategories": [],
+      "description": "<h3>Role Title: Bengali Bilingual Expert</h3><h3>Role Type: Contractor</h3><h3>Location: Remote</h3><p><a href=\"https://himalayas.app/companies/micro1\">micro1</a> is engaging Bengali  Bilingual Experts to contribute to an impactful language and AI training project for a valued customer. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.</p><h3>Scope of Work</h3><ol>\n<li>Listen to audio clips in Bengali and evaluate the nativeness and fluency of the speaker or model output.</li>\n<li>Assess pronunciation, intonation, and linguistic authenticity according to established guidelines.</li>\n<li>Document your assessments with clear, concise written feedback in English, noting key linguistic factors.</li>\n<li>Provide detailed justifications for each evaluation to ensure clarity and consistency in results.</li>\n<li>Collaborate with project coordinators to clarify requirements or address ambiguities in language content.</li>\n<li>Contribute insights to help improve AI model performance in Bengali language understanding and generation.</li>\n<li>Ensure timely and accurate completion of assigned audio review tasks, maintaining high standards of quality.</li>\n</ol><h3>Preferred Qualifications</h3><ol>\n<li>Native-level proficiency in Bengali, with strong command of both spoken and written language.</li>\n<li>Minimum B2 level proficiency in English, especially for written and verbal communication.</li>\n<li>Background in voice specialization, linguistics, phonetics, music/audio engineering, or related fields is prefered.</li>\n<li>Experience with audio analysis, transcription, or linguistic assessment is highly valued.</li>\n<li>Strong attention to detail and ability to articulate nuanced language differences.</li>\n<li>Excellent written and verbal communication skills, with a focus on clarity and accuracy.</li>\n<li>Familiarity with media, communications, or teaching is considered an asset.</li>\n</ol><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+      "pubDate": 1787759425,
+      "expiryDate": 1791910400,
+      "applicationLink": "https://himalayas.app/companies/micro1/jobs/bengali-bilingual-expert",
+      "guid": "https://himalayas.app/companies/micro1/jobs/bengali-bilingual-expert"
+    },
+    {
+      "title": "Federal Reporting & Staff Writing Expert",
+      "excerpt": "Role Title: Federal Reporting & Staff Writing Expert Role Type: ContractorLocation: Remote (US Only)micro1 is engaging Federal Reporting & Staff Writing Experts to contribute to a dynamic project.",
+      "companyName": "micro1",
+      "companySlug": "micro1",
+      "companyLogo": "https://cdn-images.himalayas.app/91oa56akgt3qjqc1nh3uoruub40c",
+      "employmentType": "Contractor",
+      "minSalary": null,
+      "maxSalary": null,
+      "salaryPeriod": "hourly",
+      "seniority": [
+        "Senior"
+      ],
+      "currency": "USD",
+      "locationRestrictions": [
+        "United States"
+      ],
+      "timezoneRestrictions": [
+        -10,
+        -9,
+        -8,
+        -7,
+        -6,
+        -5,
+        14
+      ],
+      "categories": [
+        "Federal-Technical-Writer",
+        "Federal-Documentation-Writer",
+        "Government-Technical-Writer",
+        "Federal-IT-Technical-Writing",
+        "Federal-Proposal-Writing",
+        "Government-Proposal-Writer"
+      ],
+      "parentCategories": [],
+      "description": "<p>Role Title: Federal Reporting &amp; Staff Writing Expert</p><h3>Role Type: Contractor</h3><h3>Location: Remote (US Only)</h3><p><a href=\"https://himalayas.app/companies/micro1\">micro1</a> is engaging Federal Reporting &amp; Staff Writing Experts to contribute to a dynamic project. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.</p><h3>Scope of Work</h3><ol>\n<li>Create, review, and refine authentic federal reporting artifacts such as Weekly Action Reports (WARs), Situation Reports (SITREPs), after-action summaries, and executive briefings, based on provided prompts and documentation.</li>\n<li>Develop high-quality, clear written responses and summaries that reflect the nuanced styles and standards of federal and military reporting practices.</li>\n<li>Evaluate and grade sample project submissions, utilizing detailed grading guidelines to assess clarity, accuracy, compliance, and adherence to reporting conventions.</li>\n<li>Contribute input artifacts and golden reference responses for a variety of status, activity, and compliance report types often used across federal agencies and military branches.</li>\n<li>Support the creation of guidelines, criteria, and evaluative rubrics for training AI models in federal report generation and staff writing.</li>\n<li>Consult on task design and requirements, lending insights from specialized reporting experience to improve project outputs.</li>\n<li>Participate in feedback cycles to ensure deliverables consistently meet evolving project and client standards.</li>\n</ol><h3>Preferred Qualifications</h3><ol>\n<li>Prior experience as a federal professional in the US Department of War/Defense, with a minimum of 3 years engaged in federal reporting or staff writing functions.</li>\n<li>Demonstrated expertise producing templated reports, such as WARs, MARs, SITREPs, after-action reports, executive summaries, and similar documents.</li>\n<li>Background with one or more branches of the US military; a diverse range of experiences across branches and positions is especially valued.</li>\n<li>Exceptional written and verbal communication skills, with a strong attention to clarity, tone, and compliance with federal style guides.</li>\n<li>Experience using Microsoft Office suite (PowerPoint, Excel, Word) in producing official reports, memos, and presentations.</li>\n<li>Ability to articulate reporting methodology and provide feedback for training and assessment purposes.</li>\n<li>Based in the United States with a proven track record of confidential and compliant report handling in a federal or military context.</li>\n</ol><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+      "pubDate": 1787759425,
+      "expiryDate": 1791726847,
+      "applicationLink": "https://himalayas.app/companies/micro1/jobs/federal-reporting-staff-writing-expert",
+      "guid": "https://himalayas.app/companies/micro1/jobs/federal-reporting-staff-writing-expert"
+    },
+    {
+      "title": "AI Consulting Domain Expert",
+      "excerpt": "Role Title: AI Consulting Domain ExpertRole Type: Contractor (Part Time)Location: Remotemicro1 is engaging AI Consulting Domain Experts to partner on a customer-facing project focused on the evaluation and optimization of AI-driven outputs.",
+      "companyName": "micro1",
+      "companySlug": "micro1",
+      "companyLogo": "https://cdn-images.himalayas.app/91oa56akgt3qjqc1nh3uoruub40c",
+      "employmentType": "Contractor",
+      "minSalary": null,
+      "maxSalary": null,
+      "salaryPeriod": "hourly",
+      "seniority": [
+        "Senior"
+      ],
+      "currency": "USD",
+      "locationRestrictions": [],
+      "timezoneRestrictions": [
+        -11,
+        -10,
+        -9.5,
+        -9,
+        -8,
+        -7,
+        -6,
+        -5,
+        -4,
+        -3.5,
+        -3,
+        -2,
+        -1,
+        0,
+        1,
+        2,
+        3,
+        3.5,
+        4,
+        4.5,
+        5,
+        5.5,
+        5.75,
+        6,
+        6.5,
+        7,
+        8,
+        8.75,
+        9,
+        9.5,
+        10,
+        10.5,
+        11,
+        12,
+        12.75,
+        13,
+        14
+      ],
+      "categories": [
+        "AI-Domain-Expert",
+        "AI-Consultant",
+        "AI-Subject-Matter-Expert",
+        "Artificial-Intelligence-Consulting"
+      ],
+      "parentCategories": [
+        "Data Science"
+      ],
+      "description": "<h3>Role Title: AI Consulting Domain Expert</h3><h3>Role Type: Contractor (Part Time)</h3><h3>Location: Remote</h3><p><a href=\"https://himalayas.app/companies/micro1\">micro1</a> is engaging AI Consulting Domain Experts to partner on a customer-facing project focused on the evaluation and optimization of AI-driven outputs. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.</p><h3>Scope of Work</h3><ol>\n<li>Evaluate and refine AI-generated responses, ensuring accuracy, clarity, and alignment with business objectives.</li>\n<li>Author, review, and enhance technical documentation, strategy reports, market analyses, business cases, and executive summaries.</li>\n<li>Develop and improve prompts for large language models, leveraging structured problem-solving and analytical rigor.</li>\n<li>Conduct detailed content review, quality assurance, and rubric-based assessment of AI outputs.</li>\n<li>Annotate data, interpret findings, and provide fact-checking to ensure high standards of quality and reliability.</li>\n<li>Deliver professional, actionable written feedback and recommendations on AI performance and content suitability.</li>\n</ol><h3>Preferred Qualifications</h3><ol>\n<li>3+ years of delivery in strategy consulting, management consulting, corporate strategy, business transformation, or operations in analytically rigorous settings.</li>\n<li>Demonstrated excellence in professional writing, business communication, and report creation for senior audiences.</li>\n<li>Strong critical thinking, analytical reasoning, independent research, and logical reasoning capabilities.</li>\n<li>Exceptional attention to detail, quality assurance, and technical or business editing skills.</li>\n<li>Proven experience constructing client presentations, recommendation memos, or market analyses using structured methodologies.</li>\n<li>Bachelor’s degree or equivalent professional experience required; an advanced degree such as a Master’s, JD, MBA, or PhD is a plus.</li>\n<li>Candidates from highly selective academic programs or with equivalent achievements are encouraged to participate.</li>\n</ol><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+      "pubDate": 1787759424,
+      "expiryDate": 1791286414,
+      "applicationLink": "https://himalayas.app/companies/micro1/jobs/ai-consulting-domain-expert-7128968890",
+      "guid": "https://himalayas.app/companies/micro1/jobs/ai-consulting-domain-expert-7128968890"
+    },
+    {
+      "title": "Clinician  (Oncology / Hematology)",
+      "excerpt": "Role Title: Clinician (Oncology / Hematology) Role Type: ContractorLocation: Remotemicro1 is engaging Clinician (Oncology / Hematology)s to contribute to a customer’s project at the forefront of AI in healthcare.",
+      "companyName": "micro1",
+      "companySlug": "micro1",
+      "companyLogo": "https://cdn-images.himalayas.app/91oa56akgt3qjqc1nh3uoruub40c",
+      "employmentType": "Contractor",
+      "minSalary": null,
+      "maxSalary": null,
+      "salaryPeriod": "hourly",
+      "seniority": [
+        "Mid-level"
+      ],
+      "currency": "USD",
+      "locationRestrictions": [],
+      "timezoneRestrictions": [
+        -11,
+        -10,
+        -9.5,
+        -9,
+        -8,
+        -7,
+        -6,
+        -5,
+        -4,
+        -3.5,
+        -3,
+        -2,
+        -1,
+        0,
+        1,
+        2,
+        3,
+        3.5,
+        4,
+        4.5,
+        5,
+        5.5,
+        5.75,
+        6,
+        6.5,
+        7,
+        8,
+        8.75,
+        9,
+        9.5,
+        10,
+        10.5,
+        11,
+        12,
+        12.75,
+        13,
+        14
+      ],
+      "categories": [
+        "Hematology-Oncology-Specialist",
+        "Hematology-Oncology",
+        "Oncology-Physician",
+        "Medical-Clinician"
+      ],
+      "parentCategories": [],
+      "description": "<p>Role Title: Clinician (Oncology / Hematology)</p><h3>Role Type: Contractor</h3><h3>Location: Remote</h3><p><a href=\"https://himalayas.app/companies/micro1\">micro1</a> is engaging Clinician (Oncology / Hematology)s to contribute to a customer’s project at the forefront of AI in healthcare. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.</p><h3>Scope of Work</h3><ol>\n<li>Author and review evaluation tasks that require nuanced clinical judgment, leveraging Clinical Study Reports, periodic safety reports, and regulatory correspondence in oncology and haematology.</li>\n<li>Assess the clinical defensibility of efficacy and safety conclusions, ensuring endpoints and effect sizes reflect true clinical significance.</li>\n<li>Apply advanced judgment to dose escalation, dose-limiting toxicity, modifications, adverse event grading and attribution, and the coherence of patient narratives.</li>\n<li>Evaluate benefit-risk reasoning, scrutinizing the durability of conclusions in light of new events, and the realism of described management strategies.</li>\n<li>Identify and flag content that is clinically implausible or internally inconsistent, distinguishing these from legitimate clinical variation.</li>\n<li>Provide structured, guideline-based written rationales that clearly explain the validity or limitations of clinical interpretations for a non-clinical audience.</li>\n</ol><h3>Preferred Qualifications</h3><ol>\n<li>Specialist registration or board certification in medical oncology and/or haematology, with 5+ years of post-training clinical experience.</li>\n<li>Direct involvement in clinical trials as investigator, sub-investigator, or sponsor-side medical monitor, safety physician, or clinical development physician.</li>\n<li>Proficiency with CTCAE grading, relevant response criteria (RECIST, Lugano, IMWG, IWCLL, ELN), and outcome endpoints (ORR, DoR, PFS, OS, MRD).</li>\n<li>Hands-on experience with trial documents such as protocols, investigator brochures, CSRs, safety narratives, or DSMB/IDMC materials.</li>\n<li>Demonstrated excellence in written communication, with clear, structured explanations of clinical reasoning tailored for non-clinical readers.</li>\n<li>Previous roles in medical monitoring or as medical director on oncology or haematology programmes, and committee participation (IDMC, DSMB, adjudication, or independent review committees).</li>\n<li>Peer-reviewed publication record or authorship on clinical trial manuscripts, with any exposure to AI-assisted clinical review tools seen as a plus.</li>\n</ol><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+      "pubDate": 1787759424,
+      "expiryDate": 1791063445,
+      "applicationLink": "https://himalayas.app/companies/micro1/jobs/clinician-oncology-hematology",
+      "guid": "https://himalayas.app/companies/micro1/jobs/clinician-oncology-hematology"
+    },
+    {
+      "title": "Physics Expert (Postdoc / Junior professor)",
+      "excerpt": "Role Title: Physics Expert (Postdoc / Junior professor) Role Type: ContractorLocation: Remote (US, Canada, UK focused) micro1 is engaging Physics Experts (Postdoc / Junior professor) to participate in a high-impact project supporting a customer in the science and technology sector.",
+      "companyName": "micro1",
+      "companySlug": "micro1",
+      "companyLogo": "https://cdn-images.himalayas.app/91oa56akgt3qjqc1nh3uoruub40c",
+      "employmentType": "Contractor",
+      "minSalary": null,
+      "maxSalary": null,
+      "salaryPeriod": "hourly",
+      "seniority": [
+        "Mid-level",
+        "Senior"
+      ],
+      "currency": "USD",
+      "locationRestrictions": [
+        "United Kingdom"
+      ],
+      "timezoneRestrictions": [
+        0
+      ],
+      "categories": [
+        "Research-Physics-Expert",
+        "Physics-Research-Specialist",
+        "Physics-Expert",
+        "Research-Physicist",
+        "Physics-Researcher",
+        "Senior-Research-Physicist"
+      ],
+      "parentCategories": [],
+      "description": "<p>Role Title: Physics Expert (Postdoc / Junior professor)</p><h3>Role Type: Contractor</h3><p>Location: Remote (US, Canada, UK focused)</p><p><a href=\"https://himalayas.app/companies/micro1\">micro1</a> is engaging Physics Experts (Postdoc / Junior professor) to participate in a high-impact project supporting a customer in the science and technology sector. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.</p><h3>Scope of Work</h3><ol>\n<li>Critically evaluate and review physics solutions, mathematical derivations, and theoretical arguments generated by researchers or AI platforms.</li>\n<li>Detect errors, unjustified steps, missing assumptions, dimensional inconsistencies, and weaknesses in logic or methodology.</li>\n<li>Delineate between substantive scientific issues and stylistic or cosmetic matters, providing technically precise written feedback.</li>\n<li>Articulate and document the reasoning behind any identified flaws, ensuring actionable guidance for improvement.</li>\n<li>Recognize when correct reasoning can be optimized, and offer suggestions to sharpen or clarify the argument.</li>\n<li>Utilize LaTeX, SymPy, Python, and Jupyter to independently verify or counter-check scientific claims as appropriate.</li>\n<li>Deliver structured feedback designed to support iterative enhancement of submitted work and project outcomes.</li>\n</ol><h3>Preferred Qualifications</h3><ol>\n<li>PhD in physics and an active record of independent research within a specialized subfield (e.g., High Energy/Mathematical Physics, Biophysics/Statistical Physics, Condensed Matter, AMO/Quantum Optics, Gravitation/Cosmology, Quantum Information, or Optical Materials).</li>\n<li>Experience as a postdoctoral researcher, research fellow, junior/assistant professor, or senior research scientist.</li>\n<li>Recent (last ~5 years) representative publications in the relevant subfield, with arXiv or DOI links.</li>\n<li>Advanced proficiency with LaTeX, SymPy, Python, and Jupyter for theoretical modeling and computational validation.</li>\n<li>Demonstrated skill in reviewing the work of others—through peer review, supervision, dissertation committees, or group seminars.</li>\n<li>Exceptional written communication skills with the ability to convey nuanced, constructive feedback with technical rigor.</li>\n<li>Reliable access to high-speed internet and a computer suitable for rigorous technical work.</li>\n</ol><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+      "pubDate": 1787759424,
+      "expiryDate": 1791031880,
+      "applicationLink": "https://himalayas.app/companies/micro1/jobs/physics-expert-postdoc-junior-professor-6971997972",
+      "guid": "https://himalayas.app/companies/micro1/jobs/physics-expert-postdoc-junior-professor-6971997972"
+    },
+    {
+      "title": "Senior Red Team Offensive Security Specialist",
+      "excerpt": "About the Role We are actively seeking an experienced Senior Red Team Offensive Security Specialist to join our remote cybersecurity team.",
+      "companyName": "Techno Vista Dinamics",
+      "companySlug": "techno-vista-dinamics",
+      "companyLogo": "https://cdn-images.himalayas.app/3la0ty717wbzqm08uya4dxfkwi0u",
+      "employmentType": "Full Time",
+      "minSalary": 300,
+      "maxSalary": 2200,
+      "salaryPeriod": "weekly",
+      "seniority": [
+        "Senior",
+        "Mid-level",
+        "Manager",
+        "Director",
+        "Executive"
+      ],
+      "currency": "USD",
+      "locationRestrictions": [],
+      "timezoneRestrictions": [
+        -11,
+        -10,
+        -9.5,
+        -9,
+        -8,
+        -7,
+        -6,
+        -5,
+        -4,
+        -3.5,
+        -3,
+        -2,
+        -1,
+        0,
+        1,
+        2,
+        3,
+        3.5,
+        4,
+        4.5,
+        5,
+        5.5,
+        5.75,
+        6,
+        6.5,
+        7,
+        8,
+        8.75,
+        9,
+        9.5,
+        10,
+        10.5,
+        11,
+        12,
+        12.75,
+        13,
+        14
+      ],
+      "categories": [
+        "Senior-Offensive-Security-Specialist",
+        "Red-Team-Security-Engineer",
+        "Red-Team-Specialist",
+        "Red-Team-Engineer",
+        "Senior-Penetration-Tester",
+        "Red-Team-Lead"
+      ],
+      "parentCategories": [],
+      "description": "<p><strong>About the Role</strong> <br>We are actively seeking an experienced Senior Red Team Offensive Security Specialist to join our remote cybersecurity team. In this role, you will conduct deep-dive, authorized offensive security assessments to identify and validate critical vulnerabilities within active production environments. We are a results-oriented team that values practical findings, clear communication, and long-term collaboration with independent professionals.</p><p><strong>Responsibilities</strong></p><ul class=\"list-disc list-outside leading-3 -mt-2\">\n<li class=\"leading-normal -mb-2\"><p>Conduct comprehensive, authorized security assessments on assigned client targets to identify critical security gaps.</p></li>\n<li class=\"leading-normal -mb-2\"><p>Identify, analyze, and chain complex vulnerabilities (including server-side misconfigurations, advanced logic flaws, and access control issues).</p></li>\n<li class=\"leading-normal -mb-2\"><p>Provide verified, stable Proof of Concept (PoC) demonstrations to illustrate the real-world business impact of identified vulnerabilities.</p></li>\n<li class=\"leading-normal -mb-2\"><p>Document assessment steps clearly and collaborate asynchronously with the internal review team for technical validation.</p></li>\n<li class=\"leading-normal -mb-2\"><p>Work independently and maintain a consistent, high-quality weekly output.</p></li>\n</ul><p><strong>Requirements</strong></p><ul class=\"list-disc list-outside leading-3 -mt-2\">\n<li class=\"leading-normal -mb-2\"><p>Proven Track Record: Extensive, hands-on experience in real-world, authorized penetration testing and Red Team operations. <em>(Please note: Experience limited solely to CTFs, training labs, or simulated environments does not meet the requirements for this position).</em></p></li>\n<li class=\"leading-normal -mb-2\"><p>Technical Expertise: Deep understanding of web application vulnerabilities, server infrastructure misconfigurations, and advanced privilege escalation methodologies.</p></li>\n<li class=\"leading-normal -mb-2\"><p>Autonomy: Strong ability to work independently with minimal supervision in a fast-paced, remote environment.</p></li>\n<li class=\"leading-normal -mb-2\"><p>Professionalism: High sense of operational security, responsibility, and strict adherence to client confidentiality.</p></li>\n</ul><p>Keywords: Red Team, Penetration Tester, Penetration Testing, Offensive Security, Cybersecurity Consultant, Web Application Security, Vulnerability Assessment, Security Engineer, InfoSec Jobs, Remote Cybersecurity, Ethical Hacking, AppSec.</p><p></p><p><strong>How to Apply</strong> :</p><p>Please send your updated resume to  with the exact subject line: <strong>Application: Senior Red Team Specialist - [Your Name]</strong>.</p><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+      "pubDate": 1787757107,
+      "expiryDate": 1788493642,
+      "applicationLink": "https://himalayas.app/companies/techno-vista-dinamics/jobs/senior-red-team-offensive-security-specialist",
+      "guid": "https://himalayas.app/companies/techno-vista-dinamics/jobs/senior-red-team-offensive-security-specialist"
+    },
     {
       "title": "Speech to Text Audio Collection - Malay Speakers",
       "excerpt": "TELUS Digital is seeking Malay speakers to participate in a Speech-to-Text (STT) audio collection project.",
@@ -20958,52 +21349,6 @@
       "guid": "https://himalayas.app/companies/scalejet/jobs/customer-care-specialist-5648879406"
     },
     {
-      "title": "Software Engineer I",
-      "excerpt": "About RenaissanceWhen you join Renaissance®, you join a global leader in pre-K–12 education technology!",
-      "companyName": "Renaissance",
-      "companySlug": "renaissance",
-      "companyLogo": "https://cdn-images.himalayas.app/787qgw8yc04gf8dyrh2z67xftpiw",
-      "employmentType": "Full Time",
-      "minSalary": 68000,
-      "maxSalary": 93500,
-      "salaryPeriod": "annual",
-      "seniority": [
-        "Entry-level"
-      ],
-      "currency": "USD",
-      "locationRestrictions": [
-        "United States"
-      ],
-      "timezoneRestrictions": [
-        -10,
-        -9,
-        -8,
-        -7,
-        -6,
-        -5,
-        14
-      ],
-      "categories": [
-        "Frontend-Engineer",
-        "Backend-Engineering",
-        "Web-Development",
-        "Software-Engineer-I",
-        "Associate-Software-Engineer",
-        "Entry-Level-Software-Engineer",
-        "Junior-Software-Engineer",
-        "Fullstack-Development",
-        "Software-Engineer"
-      ],
-      "parentCategories": [
-        "Developer"
-      ],
-      "description": "<div class=\"content-intro\">\n<h3>About <a href=\"https://himalayas.app/companies/renaissance\">Renaissance</a>\n</h3>\n<p>When you join <a href=\"https://himalayas.app/companies/renaissance\">Renaissance</a>®, you join a global leader in pre-K–12 education technology! <a href=\"https://himalayas.app/companies/renaissance\">Renaissance</a>’s solutions help educators analyze, customize, and plan personalized learning paths for students, allowing time for what matters—creating energizing learning experiences in the classroom. Our fiercely passionate employees and educational partners have helped drive phenomenal student growth, with <a href=\"https://himalayas.app/companies/renaissance\">Renaissance</a> solutions being used in over one-third of US schools and in more than 100 countries worldwide.</p>\n<p>Every day, we are connected to our mission by exemplifying our values: trust each other, win together, strive for the best, own our actions, and grow and evolve.</p>\n</div><div><h3>Job Description</h3></div><div>\n<div class=\"wysiwyg spl-whitespace-normal [word-break:break-word]\">\n<p>We are seeking a Full Stack Software Engineer with strong backend experience in .NET Core and frontend experience in React to build and maintain scalable services and APIs. The role focuses on backend service development, API implementation, testing, and collaboration with frontend teams, while using modern AI‑assisted development tools to improve productivity and code quality.</p>\n<h3>In this role as a Software Engineer I, you will: </h3>\n<ul>\n<li>Design, develop, and maintain backend services and RESTful APIs using .NET Core/.NET 5+.</li>\n<li>Implement and consume APIs that support React-based frontend applications.</li>\n<li>Write and maintain unit and integration tests for backend and frontend components.</li>\n<li>Work with existing SQL Server and PostgreSQL databases by querying and consuming data.</li>\n<li>Collaborate with cross-functional teams to translate requirements into technical solutions.</li>\n<li>Participate in code reviews, agile ceremonies, and continuous improvement initiatives.</li>\n<li>Use AI-assisted development tools (e.g., Copilot, Cursor, Claude Code) to accelerate development and improve code quality.</li>\n</ul>\n<p><strong>For this role as a Software Engineer I, you should have: </strong></p>\n<ul>\n<li>Bachelor’s degree in Computer Science or a related field, or equivalent practical experience.</li>\n<li>3+ years of experience developing backend applications using .NET Core or .NET 5+.</li>\n<li>2+ years of experience building frontend applications with React and modern JavaScript/TypeScript.</li>\n<li>Experience building and consuming RESTful APIs.</li>\n<li>Working knowledge of SQL Server or PostgreSQL.</li>\n<li>Experience writing unit tests and familiarity with common testing frameworks.</li>\n<li>Proficiency with Git and standard version control workflows.</li>\n</ul>\n<h3>Preferred Qualifications:</h3>\n<ul>\n<li>Familiarity with AI-assisted development tools and modern developer productivity workflows.</li>\n<li>Exposure to microservices or service-oriented architecture.</li>\n<li>Experience with CI/CD pipelines and containerized development (Docker).</li>\n<li>Cloud experience with AWS or similar platforms.</li>\n<li>Familiarity with authentication and authorization concepts (OAuth, JWT, RBAC).</li>\n<li>Experience with GraphQL, message queues, or event-driven systems is a plus.</li>\n<li>Prior experience or domain knowledge in K–12 education, Student Information Systems, or EdTech is preferred.</li>\n</ul>\n</div>\n<h3>Additional information</h3>\n<p>All your information will be kept confidential according to EEO guidelines. </p>\n</div><div class=\"content-pay-transparency\"><div class=\"pay-input\">\n<div class=\"description\"><p><strong>The below compensation range is based on national market data and may vary by experience and location. </strong></p></div>\n<div class=\"title\">Salary Range</div>\n<div class=\"pay-range\">$68,000—$93,500 USD</div>\n</div></div><div class=\"content-conclusion\">\n<h3>Benefits for eligible US employees include:</h3>\n<ul>\n<li>World Class Health Benefits: Medical, Prescription, Dental, Vision, Telehealth</li>\n<li>Health Savings and Flexible Spending Accounts</li>\n<li>401(k) and Roth 401(k) with company match</li>\n<li>Paid Vacation and Sick Time Off</li>\n<li>12 Paid Holidays</li>\n<li>Parental Leave (20 total weeks with 14 weeks paid) &amp; Milk Stork program</li>\n<li>Tuition Reimbursement</li>\n<li>Life &amp; Disability Insurance</li>\n<li>Well-being and Employee Assistance Programs</li>\n</ul>\n<div><strong><em>Benefits listed apply to eligible U.S. employees in accordance with <a href=\"https://himalayas.app/companies/renaissance\">Renaissance</a>’s benefits eligibility criteria. Contractor and other non‑employee roles are not eligible for <a href=\"https://himalayas.app/companies/renaissance\">Renaissance</a> employee benefits.</em></strong></div>\n<p>Frequently cited statistics show that some women, underrepresented individuals, protected veterans and individuals with disabilities may only apply to roles if they meet 100% of the qualifications. At <a href=\"https://himalayas.app/companies/renaissance\">Renaissance</a>, we encourage all applications. Roles evolve over time, especially with innovation, and you may be just the person we need for the future!</p>\n<h3>Equal Opportunity Employer </h3>\n<p><a href=\"https://himalayas.app/companies/renaissance\">Renaissance</a> is an equal opportunity employer and does not discriminate with respect to any term, condition or privilege of employment based on race, color, religion, sex, sexual orientation, gender identity or expression, age, disability, military or veteran status, marital status, or status of an individual in any group or class protected by applicable federal, state, or local law.</p>\n<p>For California Residents, please see our Privacy Notice for California Job Candidates here. </p>\n<h3>Reasonable Accommodations </h3>\n<p><a href=\"https://himalayas.app/companies/renaissance\">Renaissance</a> also provides reasonable accommodations for qualified individuals with disabilities in accordance with the Americans with Disabilities Act and applicable state and local laws. If accommodation is needed to participate in the job application or interview process, please contact Talent Acquisition.</p>\n<h3>Employment Authorization </h3>\n<p>Applicants must be authorized to work for any employer in the United States. We are unable to sponsor or take over sponsorship of an employment Visa at this time.</p>\n<p>For more information about <a href=\"https://himalayas.app/companies/renaissance\">Renaissance</a>, visit: </p>\n</div><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
-      "pubDate": 1787689901,
-      "expiryDate": 1790216517,
-      "applicationLink": "https://himalayas.app/companies/renaissance/jobs/software-engineer-i",
-      "guid": "https://himalayas.app/companies/renaissance/jobs/software-engineer-i"
-    },
-    {
       "title": "Sales Enablement Trainer",
       "excerpt": "Wing Assistant is hiring a hands on Sales Enablement Trainer to level up our sales team — not with generic intro decks, but by improving the actual emails, calls, and cadences our reps use every day.",
       "companyName": "Wing Assistant",
@@ -25498,49 +25843,6 @@
       "expiryDate": 1790213875,
       "applicationLink": "https://himalayas.app/companies/power-digital-marketing/jobs/senior-abm-strategist",
       "guid": "https://himalayas.app/companies/power-digital-marketing/jobs/senior-abm-strategist"
-    },
-    {
-      "title": "Business Development Representative",
-      "excerpt": "Under the leadership of the Velotic Proficy Business Development Manager, we are hiring a Business Development Representative (BDR) to drive outbound pipeline creation and revenue growth across the Velotic Proficy Portfolio.",
-      "companyName": "Cielo",
-      "companySlug": "cielo",
-      "companyLogo": "https://cdn-images.himalayas.app/lg0u55boql7ac4eaf4yynymcf4qo",
-      "employmentType": "Full Time",
-      "minSalary": 52500,
-      "maxSalary": 77000,
-      "salaryPeriod": "annual",
-      "seniority": [
-        "Mid-level"
-      ],
-      "currency": "USD",
-      "locationRestrictions": [
-        "United States"
-      ],
-      "timezoneRestrictions": [
-        -10,
-        -9,
-        -8,
-        -7,
-        -6,
-        -5,
-        14
-      ],
-      "categories": [
-        "Business-Development",
-        "Business-Development-Representative",
-        "Sales-Development",
-        "B2B-Sales",
-        "Outbound-Sales",
-        "Sales-Development-Representative"
-      ],
-      "parentCategories": [
-        "Sales"
-      ],
-      "description": "<p>Under the leadership of the Velotic Proficy Business Development Manager, we are hiring a <strong>Business Development Representative (BDR)</strong> to drive outbound pipeline creation and revenue growth across the Velotic Proficy Portfolio.</p><p>This role is critical to scaling Velotic’s growth by generating new logo opportunities and expanding existing customer relationships.</p><h3>Key Responsibilities</h3><p>• <strong>Outbound Pipeline Creation &amp; Qualification</strong></p><ul>\n<li>Execute structured outbound prospecting across Velotic Proficy Portfolio</li>\n<li>Engage prospects via email, phone, social, events, and targeted campaigns</li>\n<li>Follow up on marketing-generated leads, partner referrals, and product usage signals</li>\n<li>Identify, qualify, and advance opportunities aligned to ICPs and sales plays</li>\n<li>Build and maintain a consistent, high-quality outbound pipeline</li>\n</ul><p><strong>Opportunity Ownership &amp; Closing (Mid-Tier Accounts)</strong></p><ul>\n<li>Lead discovery calls, articulate solution, determine compelling reason to act</li>\n<li>Determine and deliver a clear point of view on how Velotic can help a customer optimize their industrial operations.</li>\n<li>Progress deals efficiently while adhering to commercial guidelines</li>\n<li>Maintain accurate forecasting, pipeline tracking, and CRM hygiene</li>\n<li>Deliver a professional and consistent customer buying experience</li>\n<li>Navigate complex organizations to find the right prospects and deliver compelling value proposition to solve their pain points</li>\n</ul><h3>Cross-Sell &amp; “Better Together” Execution</h3><ul>\n<li>Identify opportunities to introduce different elements of Velotic portfolio based on customer needs</li>\n<li>Articulate integrated use cases across IIoT, analytics, and application workflows</li>\n<li>Execute cross-sell motions independently and in partnership with Account Executives</li>\n<li>Document use cases, stakeholders, and buying criteria</li>\n</ul><h3>Partnering with Account Executives</h3><ul>\n<li>Support Account Executives on strategic enterprise opportunities</li>\n<li>Deliver well-qualified, sales-ready opportunities with strong discovery</li>\n<li>Ensure seamless handoffs for larger or more complex deals</li>\n<li>Maintain alignment throughout the opportunity lifecycle</li>\n</ul><h3>Sales Process, Tools &amp; Discipline</h3><ul>\n<li>Follow defined outbound cadences and qualification frameworks</li>\n<li>Maintain accurate CRM data including activities, pipeline, and forecasts</li>\n<li>Utilize sales engagement and enablement tools consistently</li>\n<li>Participate in onboarding, training, and coaching sessions</li>\n<li>Provide feedback on messaging, lead quality, and performance</li>\n</ul><h3>Success Metrics</h3><ul>\n<li>Qualified Opportunities delivered to Account Executives</li>\n<li>Pipeline generated</li>\n<li>Pipeline conversion rates</li>\n<li>Forecast accuracy and CRM data quality</li>\n<li>Volume and quality of customer interactions</li>\n</ul><h3>Required Qualifications</h3><ul>\n<li>2–5 years of business development, outbound sales, or account management experience</li>\n<li>Demonstrated success generating qualified pipeline and closing mid-market B2B deals</li>\n<li>Strong discovery, qualification, and deal management capabilities</li>\n<li>Experience in a team-based or overlay sales model with clear accountability for pipeline and revenue</li>\n<li>Proficiency with CRM platforms and sales engagement tools</li>\n<li>Ability to thrive in a metrics-driven environment with consistent forecasting and pipeline management</li>\n<li>Bachelor's degree or equivalent professional experience</li>\n</ul><h3>Preferred Qualifications</h3><ul>\n<li>Experience selling B2B software, SaaS, or industrial technology solutions</li>\n<li>Familiarity with manufacturing, industrial automation, or IIoT</li>\n<li>Experience with expansion or cross-sell sales motions</li>\n<li>Salesforce or similar CRM experience</li>\n</ul><h3>Why This Role Matters</h3><p>The Business Development Representative role is a critical driver of Velotic’s growth strategy. By combining outbound pipeline creation with ownership of mid-tier opportunities, this role increases sales velocity, expands revenue coverage, and ensures customers are effectively developed into larger opportunities—while enabling Account Executives to focus on strategic enterprise deals.</p><h3>Why Join Velotic</h3><p>Velotic is uniquely positioned at the intersection of industrial operations, advanced connectivity, and AI. Joining now means you can help shape:</p><h3>Culture &amp; Growth</h3><ul>\n<li>Build foundational People Ops systems, processes, and culture from day one.</li>\n<li>Work within a team defined by ambition, collaboration, authenticity, and speed.</li>\n<li>Influence global operating models and employee experience at scale.</li>\n</ul><h3>Work-Life Balance</h3><ul>\n<li>Flexible work arrangements</li>\n<li>Discretionary Time Off (DTO)</li>\n<li>Global paid parental leave</li>\n<li>Employee Assistance Program (EAP)</li>\n</ul><h3>Financial &amp; Health Benefits</h3><ul>\n<li>OTE range is from $75,000 to $110,000 (70/30% Split)</li>\n<li>401(k) with employer match (50% up to 8%)</li>\n<li>Medical, dental &amp; vision</li>\n<li>HSA with company contribution</li>\n<li>Life and AD&amp;D (2x salary up to $1M)</li>\n</ul><h3>Join Us</h3><p>Help build the People Operations foundation for a global industrial tech leader—and play a direct role in shaping the future of modern manufacturing.</p><p>Learn more at: </p><p>Apply today to be part of the transformation.</p><p>Velotic™ is a leading independent industrial software company providing data‑driven solutions that improve manufacturing efficiency, productivity, and operational insight. Serving customers across manufacturing, oil &amp; gas, utilities, and infrastructure, the company generates more than $300 million in revenue. Velotic’s portfolio, anchored by Proficy, Kepware, and ThingWorx, supports the growing data and performance requirements of industrial operators globally, with an emphasis on AI‑enabled manufacturing and industrial software.</p><p>We’re building our People Operations function from the ground up, and we’re looking for exceptional talent who want to shape the future of our culture, systems, and global operating model during one of the most exciting transformation moments in the industrial technology space.</p><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
-      "pubDate": 1787689887,
-      "expiryDate": 1790213854,
-      "applicationLink": "https://himalayas.app/companies/cielo/jobs/business-development-representative",
-      "guid": "https://himalayas.app/companies/cielo/jobs/business-development-representative"
     },
     {
       "title": "Senior ABM Strategist",
@@ -30745,44 +31047,6 @@
       "expiryDate": 1790140139,
       "applicationLink": "https://himalayas.app/companies/medina-talent-group/jobs/utilities-project-manager",
       "guid": "https://himalayas.app/companies/medina-talent-group/jobs/utilities-project-manager"
-    },
-    {
-      "title": "Lifecycle Specialist: Time & Attendance",
-      "excerpt": "About RemoteRemote is solving modern organizations’ biggest challenge – navigating global employment compliantly with ease.",
-      "companyName": "Remote",
-      "companySlug": "remote",
-      "companyLogo": "https://cdn-images.himalayas.app/02y7tpdl1w6yjl8jb3ytnakxcf33",
-      "employmentType": "Full Time",
-      "minSalary": 29750,
-      "maxSalary": 67000,
-      "salaryPeriod": "annual",
-      "seniority": [
-        "Mid-level"
-      ],
-      "currency": "USD",
-      "locationRestrictions": [
-        "Germany"
-      ],
-      "timezoneRestrictions": [
-        1
-      ],
-      "categories": [
-        "Time-Attendance",
-        "Employee-Relations-Management",
-        "Human-Resources-Specialist",
-        "HR-Operations",
-        "Lifecycle-Management",
-        "Time-And-Attendance-Specialist",
-        "Time-and-Attendance-Analyst",
-        "Time-and-Labor-Specialist",
-        "Time-and-Attendance-Management"
-      ],
-      "parentCategories": [],
-      "description": "<div class=\"content-intro\">\n<h3><strong>About <a href=\"https://himalayas.app/companies/remote\">Remote</a></strong></h3>\n<div>\n<a href=\"https://himalayas.app/companies/remote\">Remote</a> is solving modern organizations’ biggest challenge – navigating global employment compliantly with ease. We make it possible for businesses of all sizes to recruit, pay, and manage international teams. With our core values at heart and future focused work culture, our team works tirelessly on ambitious problems, asynchronously, around the world. You can find <a href=\"https://himalayas.app/companies/remote\">Remote</a>rs working from 6 different continents (Antarctica left to go!) and all of our positions are fully remote.<br><br>With Innovation as one of the core values, we have built Automation and AI capabilities into the requirements for every role.<br><br>We encourage every member of the <a href=\"https://himalayas.app/companies/remote\">Remote</a> team to bring their talents, experiences and culture to the table to help us build the best-in-class HR platform.</div>\n<div>If you are energetic, curious, motivated and ambitious, be part of our world. Apply now and define the future of work!</div>\n</div><h3>What this job can offer you</h3><p class=\"font-claude-response-body break-words whitespace-normal\">The Time &amp; Attendance Specialist will play an essential role in ensuring the accurate and efficient management of Time &amp; Attendance activities for <a href=\"https://himalayas.app/companies/remote\">Remote</a>'s external employees and clients. This individual contributor position places a strong emphasis on legal compliance and delivering an exceptional employee experience while maintaining efficient processes.</p><p class=\"font-claude-response-body break-words whitespace-normal\">When joining the Time &amp; Attendance team you will be reporting to the Manager Lifecycle: Time &amp; Attendance.</p><h3>What you bring</h3><ul class=\"[li_&amp;]:mb-0 [li_&amp;]:mt-1 [li_&amp;]:gap-1 [&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-disc flex flex-col gap-1 pl-8 mb-3\">\n<li class=\"font-claude-response-body whitespace-normal break-words pl-2\">Demonstrate proven experience with a strong background in managing employee lifecycle events with care, sensitivity and legal compliance; and providing comprehensive HR support and guidance on employment laws and regulations, spanning various jurisdictions.</li>\n<li class=\"font-claude-response-body whitespace-normal break-words pl-2\">Display excellent communication, influencing, conflict management, and negotiation skills, with the ability to confidently lead difficult conversations to a positive outcome, often where parties have conflicting interests, maintaining professionalism and strict confidentiality.</li>\n<li class=\"font-claude-response-body whitespace-normal break-words pl-2\">Possess advanced proficiency in written and spoken English at a business level, with additional languages considered a plus.</li>\n<li class=\"font-claude-response-body whitespace-normal break-words pl-2\">Show an an aptitude and enthusiasm for innovating and optimizing processes, consistently identifying and implementing opportunities for automation and promoting best practices.</li>\n<li class=\"font-claude-response-body whitespace-normal break-words pl-2\">Demonstrate efficiency in operations, with an awareness of the importance of thorough documentation and data integrity.</li>\n<li class=\"font-claude-response-body whitespace-normal break-words pl-2\">Be Tech-savvy, with the ability to successfully collaborate asynchronously on various tools, and adapt to new and evolving systems.</li>\n<li class=\"font-claude-response-body whitespace-normal break-words pl-2\">Capable of working independently and cohesively in an international team in a fast-paced, asynchronous, remote environment with multiple priorities. Willingness to work flexible hours as needed.</li>\n<li class=\"font-claude-response-body whitespace-normal break-words pl-2\">Familiar with communication, documentation, and project management tools such as Notion, Slack, Zendesk and G-suite.</li>\n<li class=\"font-claude-response-body whitespace-normal break-words pl-2\">AI Fluency: Actively use AI-assisted tools in day-to-day work (e.g., drafting, knowledge retrieval, case research, or workflow automation) and understand where AI can be applied safely in an HR context — including when human judgment and review are required. Familiarity with responsible AI use practices (data handling, confidentiality, redaction) is expected at this level.</li>\n<li class=\"font-claude-response-body whitespace-normal break-words pl-2\">Experience managing long-term sick leave or extended absence cases end-to-end, including complex eligibility, documentation, pay and benefits impacts, and stakeholder coordination preferred.</li>\n</ul><h3>Key responsibilities</h3><h3>Employee Relations Management</h3><ul class=\"[li_&amp;]:mb-0 [li_&amp;]:mt-1 [li_&amp;]:gap-1 [&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-disc flex flex-col gap-1 pl-8 mb-3\">\n<li class=\"font-claude-response-body whitespace-normal break-words pl-2\">Serve as an expert on Time &amp; Attendance matters, and assist Senior Specialists and Experts on complex projects, including implementing and advising clients and employees on employment law changes from Collective Bargaining Agreement updates.</li>\n<li class=\"font-claude-response-body whitespace-normal break-words pl-2\">Be case manager for all employee lifecycle leave and working hours matters with accuracy and attention to detail for both internal and external employees of <a href=\"https://himalayas.app/companies/remote\">Remote</a> through out the employee lifecycle including but not limited to Family Leave, Sick Leave, Time Tracking, Public Holidays, Working Time.</li>\n<li class=\"font-claude-response-body whitespace-normal break-words pl-2\">Advise on employment legislation and provide guidance on both basic and complex legal interpretations as outlined in employment agreements and labor law as a trusted consultant to clients and employees.</li>\n</ul><h3>Team and Operational Excellence</h3><ul class=\"[li_&amp;]:mb-0 [li_&amp;]:mt-1 [li_&amp;]:gap-1 [&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-disc flex flex-col gap-1 pl-8 mb-3\">\n<li class=\"font-claude-response-body whitespace-normal break-words pl-2\">Collaborate with and coordinate various internal and external stakeholders to ensure compliance in employee lifecycle activities, including but not limited to payroll, legal counsel and government bodies.</li>\n<li class=\"font-claude-response-body whitespace-normal break-words pl-2\">Assist Senior Specialists to manage critical initiatives that impact numerous employees across multiple countries and support HR and financial audits to ensure compliance with local employment regulations.</li>\n<li class=\"font-claude-response-body whitespace-normal break-words pl-2\">Develop and update global internal documentation pertaining to Time &amp; Attendance, based on legislative changes, referenced by all internal teams. Proactively address internal and external inquiries on all employment matters in collaboration with Lifecycle's internal stakeholders.</li>\n<li class=\"font-claude-response-body whitespace-normal break-words pl-2\">Actively identify opportunities for and contribute to process improvements, automation, and product development across the employee lifecycle — including trialling and adopting AI-assisted tools where they can improve quality, speed, or consistency, in line with <a href=\"https://himalayas.app/companies/remote\">Remote</a>'s data handling and compliance guidelines.</li>\n<li class=\"font-claude-response-body whitespace-normal break-words pl-2\">Safely manage and maintain employee data and confidential information, adhering to established protocols, and ensuring utmost professionalism and discretion in handling and accessing such information</li>\n<li class=\"font-claude-response-body whitespace-normal break-words pl-2\">Promote and exemplify <a href=\"https://himalayas.app/companies/remote\">Remote</a>'s values both internally and externally, actively contributing to the success of the Lifecycle team's goals.</li>\n</ul><h3><strong>Practicals</strong></h3><ul class=\"[li_&amp;]:mb-0 [li_&amp;]:mt-1 [li_&amp;]:gap-1 [&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-disc flex flex-col gap-1 pl-8 mb-3\">\n<li class=\"font-claude-response-body whitespace-normal break-words pl-2\">\n<strong>You'll report to:</strong> Manager Lifecycle: Time &amp; Attendance</li>\n<li class=\"font-claude-response-body whitespace-normal break-words pl-2\">\n<strong>Team:</strong> Lifecycle, Time &amp; Attendance</li>\n<li class=\"font-claude-response-body whitespace-normal break-words pl-2\">\n<strong>Location</strong>: Germany</li>\n<li>\n<strong>Start date:</strong> As soon as possible</li>\n</ul><h3>Application process</h3><ol class=\"[li_&amp;]:mb-0 [li_&amp;]:mt-1 [li_&amp;]:gap-1 [&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-decimal flex flex-col gap-1 pl-8 mb-3\">\n<li class=\"font-claude-response-body whitespace-normal break-words pl-2\">Interview with Recruiter</li>\n<li class=\"font-claude-response-body whitespace-normal break-words pl-2\">Interview with Hiring Manager (Manager Lifecycle: Time &amp; Attendance) <em>(includes AI fluency conversation: how you currently use or have applied AI tools in an HR or operations context)</em>\n</li>\n<li class=\"font-claude-response-body whitespace-normal break-words pl-2\">Interview with Senior Manager (Senior Manager Lifecycle: Time &amp; Attendance)</li>\n<li class=\"font-claude-response-body whitespace-normal break-words pl-2\">Bar Raiser Interview</li>\n<li>Prior employment verification check</li>\n<li class=\"font-claude-response-body whitespace-normal break-words pl-2\">Offer</li>\n</ol><div class=\"content-pay-transparency\"><div class=\"pay-input\">\n<div class=\"description\">\n<p><a href=\"https://himalayas.app/companies/remote\">Remote</a>'s Total Rewards philosophy is to ensure fair, unbiased compensation and fair equity pay along with competitive benefits in all locations in which we operate. We do not agree to or encourage cheap-labor practices and therefore we ensure to pay above in-location rates. We hope to inspire other companies to support global talent-hiring and bring local wealth to developing countries.</p>\n<p>At first glance our salary bands seem quite wide - here is some context. At <a href=\"https://himalayas.app/companies/remote\">Remote</a> we have international operations and a globally distributed workforce.  We use geo ranges to consider geographic pay differentials as part of our global compensation strategy to remain competitive in various markets while we hiring globally.<br><br>Our salary ranges are determined by role, level and location, and our job titles may span more than one career level. The actual base pay for the successful candidate in this role is dependent upon many factors such as location, transferable or job-related skills, work experience, relevant training, business needs, and market demands. The base salary range may be subject to change.<br><br><em>At <a href=\"https://himalayas.app/companies/remote\">Remote</a>, we foster internal mobility as a key element of our culture of employee growth and development, supported by a compensation philosophy that guarantees pay equity and fairness. Therefore, all compensation changes associated with an internal move will be reviewed by the Total Rewards &amp; People Enablement team on a case by case basis.</em></p>\n</div>\n<div class=\"title\">The annual salary range for this full-time position is</div>\n<div class=\"pay-range\">$29,750—$67,000 USD</div>\n</div></div><div class=\"content-conclusion\">\n<h3><strong>Benefits</strong></h3>\n<div class=\"p-rich_text_section\">\n<div class=\"p-rich_text_section\">Our full benefits &amp; perks are explained in our handbook at . As a global company, each country works differently, but some benefits/perks are for all <a href=\"https://himalayas.app/companies/remote\">Remote</a>rs:</div>\n<ul class=\"p-rich_text_list p-rich_text_list__bullet\">\n<li>work from anywhere</li>\n<li>flexible paid time off</li>\n<li>flexible working hours (we are async)</li>\n<li>16 weeks paid parental leave</li>\n<li>mental health support services</li>\n<li>stock options</li>\n<li>learning budget</li>\n<li>home office budget &amp; IT equipment</li>\n<li>budget for local in-person social events or co-working spaces</li>\n</ul>\n</div>\n<h3><strong>How you’ll plan your day (and life)</strong></h3>\n<p>We work async at <a href=\"https://himalayas.app/companies/remote\">Remote</a> which means you can plan your schedule around your life (and not around meetings). Read more at .</p>\n<p>You will be empowered to take ownership and be proactive. When in doubt you will default to action instead of waiting. Your <strong>life-work balance</strong> is important and you will be encouraged to put yourself and your family first, and fit work around your needs.</p>\n<p>If that sounds like something you want, apply now!</p>\n<h3><strong>How to apply</strong></h3>\n<ol>\n<li>Please fill out the form below and upload your CV with a PDF format.</li>\n<li><strong>We kindly ask you to submit your application and CV in English, as this is the standardised language we use here at <a href=\"https://himalayas.app/companies/remote\">Remote</a>.</strong></li>\n<li>If you don’t have an up to date CV but you are still interested in talking to us, please feel free to add a copy of your LinkedIn profile instead.</li>\n</ol>\n<p>Not only do we encourage folks from all ethnic groups, genders, sexuality, age, abilities, disability status and any other under-represented group to apply, but we prioritize a sense of belonging. We have 4 ERGs (Women, Disability, Queer, Minorities in Tech) who meet regularly with the People team. During your interviews and beyond, we ask &amp; encourage anybody who needs an accommodation to request one from their recruiter.</p>\n<p>We will ask you to voluntarily tell us your pronouns at interview stage, and you will have the option to answer our anonymous demographic questionnaire when you apply below. As an equal employment opportunity employer it’s important to us that our workforce reflects people of all backgrounds, identities, and experiences and this data will help us to stay accountable. We thank you for providing this data, if you chose to.</p>\n<p>At <a href=\"https://himalayas.app/companies/remote\">Remote</a>, we embrace AI as a valuable tool while prioritizing human creativity and authenticity. We look forward to meeting candidates who balance innovation with genuine expertise and experience. To learn more about <a href=\"https://himalayas.app/companies/remote\">Remote</a>'s AI guidelines check see here. <br><br><em>Please note we accept applications on an ongoing basis. </em></p>\n</div><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
-      "pubDate": 1787689866,
-      "expiryDate": 1790140115,
-      "applicationLink": "https://himalayas.app/companies/remote/jobs/lifecycle-specialist-time-attendance-6592443427",
-      "guid": "https://himalayas.app/companies/remote/jobs/lifecycle-specialist-time-attendance-6592443427"
     },
     {
       "title": "ServiceNow Developer",
@@ -40102,73 +40366,6 @@
       "guid": "https://himalayas.app/companies/s2tech/jobs/sales-executive-public-sector-health-human-services-hhs"
     },
     {
-      "title": "MCP Expert",
-      "excerpt": "Job Title: MCP Expert Job Type: Contractor (~15 hrs a week) Location: Remote Schedule: Flexible, you pick the hours and days (including weekends if desired) Job Summary: In this role, you'll apply your expertise to help train next-generation AI systems.",
-      "companyName": "micro1",
-      "companySlug": "micro1",
-      "companyLogo": "https://cdn-images.himalayas.app/91oa56akgt3qjqc1nh3uoruub40c",
-      "employmentType": "Contractor",
-      "minSalary": 60,
-      "maxSalary": 120,
-      "salaryPeriod": "hourly",
-      "seniority": [
-        "Mid-level"
-      ],
-      "currency": "USD",
-      "locationRestrictions": [],
-      "timezoneRestrictions": [
-        -11,
-        -10,
-        -9.5,
-        -9,
-        -8,
-        -7,
-        -6,
-        -5,
-        -4,
-        -3.5,
-        -3,
-        -2,
-        -1,
-        0,
-        1,
-        2,
-        3,
-        3.5,
-        4,
-        4.5,
-        5,
-        5.5,
-        5.75,
-        6,
-        6.5,
-        7,
-        8,
-        8.75,
-        9,
-        9.5,
-        10,
-        10.5,
-        11,
-        12,
-        12.75,
-        13,
-        14
-      ],
-      "categories": [
-        "MCP-Developer",
-        "MCP-Solutions-Architect",
-        "MCP-Agent-Development",
-        "MCP-Server-Development"
-      ],
-      "parentCategories": [],
-      "description": "<p><strong>Job Title:</strong> MCP Expert</p><p><strong>Job Type:</strong> Contractor (~15 hrs a week)</p><p><strong>Location:</strong> Remote</p><p><strong>Schedule: </strong>Flexible, you pick the hours and days (including weekends if desired)</p><p><strong>Job Summary:</strong> In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.</p><p>As an expert you will be creating Reinforcement Learning Environments which test an AI model’s ability to solve complex software engineering problems using Model Context Protocol (MCP) tools. Tasks may involve fixing bugs, implementing features, refactoring code, or optimizing performance while requiring agents to discover and reason over information from real MCP servers. You will design reproducible environments, deterministic verification, and golden reference solutions that accurately measure both MCP tool use and software engineering ability.</p><h3>Required Skills and Qualifications:</h3><ol>\n<li>Proficiency in C++, Python, JAVA, GoLang, Typescript, or Rust.</li>\n<li>Deep understanding of algorithms, data structures, and performance tuning.</li>\n<li>Demonstrated experience in debugging complex software issues and delivering maintainable solutions.</li>\n<li>Strong background in feature development and codebase refactoring.</li>\n<li>Proven ability to optimize software for performance and scalability.</li>\n<li>Exceptional written and verbal communication skills, with a keen attention to detail.</li>\n<li>Track record of success in collaborative, cross-functional teams, ideally in remote settings.</li>\n</ol><h3>Preferred Qualifications:</h3><ol>\n<li>Previous experience working on large-scale, distributed codebases.</li>\n<li>Familiarity with modern AI or machine learning systems is a plus, though not required.</li>\n<li>Background in participating in rigorous code reviews and contributing to the development of software best practices.</li>\n</ol><h3>Process:</h3><ol>\n<li>Apply to the role, filling out the screening questions</li>\n<li>Complete AI Interview (approx. 30 minutes)</li>\n<li>Technical Assessment (Tentative)</li>\n<li>Hiring Manager review</li>\n</ol><h3>Compensation Structure</h3><p>Compensation is output-based; experts are paid per task that meets the project specifications. The time required to complete work may vary depending on the expert’s experience and workflow. Minimum submission requirements apply. Experts must submit a minimum of tasks per week.</p><h3>Start Timeline &amp; Availability</h3><p>We typically fill roles within 48 hours and are looking for experts ready to jump in right away. If selected, we expect you to start your first tasks within 24–48 hours of completing onboarding.</p><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
-      "pubDate": 1787673028,
-      "expiryDate": 1792801347,
-      "applicationLink": "https://himalayas.app/companies/micro1/jobs/mcp-expert",
-      "guid": "https://himalayas.app/companies/micro1/jobs/mcp-expert"
-    },
-    {
       "title": "Transactional Attorney",
       "excerpt": "Job Title: Transactional Attorney Job Type: Contractor Location: Remote Job Summary:We are seeking seasoned in-house transactional attorneys for a part-time role at the forefront of legal AI.",
       "companyName": "micro1",
@@ -40328,109 +40525,6 @@
       "expiryDate": 1792553454,
       "applicationLink": "https://himalayas.app/companies/micro1/jobs/mergers-acquisitions-m-a-attorney-biglaw-firms",
       "guid": "https://himalayas.app/companies/micro1/jobs/mergers-acquisitions-m-a-attorney-biglaw-firms"
-    },
-    {
-      "title": "Clinician  (Oncology / Hematology)",
-      "excerpt": "Role Title: Clinician (Oncology / Hematology) Role Type: ContractorLocation: Remotemicro1 is engaging Clinician (Oncology / Hematology)s to contribute to a customer’s project at the forefront of AI in healthcare.",
-      "companyName": "micro1",
-      "companySlug": "micro1",
-      "companyLogo": "https://cdn-images.himalayas.app/91oa56akgt3qjqc1nh3uoruub40c",
-      "employmentType": "Contractor",
-      "minSalary": null,
-      "maxSalary": null,
-      "salaryPeriod": "hourly",
-      "seniority": [
-        "Mid-level"
-      ],
-      "currency": "USD",
-      "locationRestrictions": [],
-      "timezoneRestrictions": [
-        -11,
-        -10,
-        -9.5,
-        -9,
-        -8,
-        -7,
-        -6,
-        -5,
-        -4,
-        -3.5,
-        -3,
-        -2,
-        -1,
-        0,
-        1,
-        2,
-        3,
-        3.5,
-        4,
-        4.5,
-        5,
-        5.5,
-        5.75,
-        6,
-        6.5,
-        7,
-        8,
-        8.75,
-        9,
-        9.5,
-        10,
-        10.5,
-        11,
-        12,
-        12.75,
-        13,
-        14
-      ],
-      "categories": [
-        "Hematology-Oncology-Specialist",
-        "Hematology-Oncology",
-        "Oncology-Physician",
-        "Medical-Clinician"
-      ],
-      "parentCategories": [],
-      "description": "<p>Role Title: Clinician (Oncology / Hematology)</p><h3>Role Type: Contractor</h3><h3>Location: Remote</h3><p><a href=\"https://himalayas.app/companies/micro1\">micro1</a> is engaging Clinician (Oncology / Hematology)s to contribute to a customer’s project at the forefront of AI in healthcare. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.</p><h3>Scope of Work</h3><ol>\n<li>Author and review evaluation tasks that require nuanced clinical judgment, leveraging Clinical Study Reports, periodic safety reports, and regulatory correspondence in oncology and haematology.</li>\n<li>Assess the clinical defensibility of efficacy and safety conclusions, ensuring endpoints and effect sizes reflect true clinical significance.</li>\n<li>Apply advanced judgment to dose escalation, dose-limiting toxicity, modifications, adverse event grading and attribution, and the coherence of patient narratives.</li>\n<li>Evaluate benefit-risk reasoning, scrutinizing the durability of conclusions in light of new events, and the realism of described management strategies.</li>\n<li>Identify and flag content that is clinically implausible or internally inconsistent, distinguishing these from legitimate clinical variation.</li>\n<li>Provide structured, guideline-based written rationales that clearly explain the validity or limitations of clinical interpretations for a non-clinical audience.</li>\n</ol><h3>Preferred Qualifications</h3><ol>\n<li>Specialist registration or board certification in medical oncology and/or haematology, with 5+ years of post-training clinical experience.</li>\n<li>Direct involvement in clinical trials as investigator, sub-investigator, or sponsor-side medical monitor, safety physician, or clinical development physician.</li>\n<li>Proficiency with CTCAE grading, relevant response criteria (RECIST, Lugano, IMWG, IWCLL, ELN), and outcome endpoints (ORR, DoR, PFS, OS, MRD).</li>\n<li>Hands-on experience with trial documents such as protocols, investigator brochures, CSRs, safety narratives, or DSMB/IDMC materials.</li>\n<li>Demonstrated excellence in written communication, with clear, structured explanations of clinical reasoning tailored for non-clinical readers.</li>\n<li>Previous roles in medical monitoring or as medical director on oncology or haematology programmes, and committee participation (IDMC, DSMB, adjudication, or independent review committees).</li>\n<li>Peer-reviewed publication record or authorship on clinical trial manuscripts, with any exposure to AI-assisted clinical review tools seen as a plus.</li>\n</ol><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
-      "pubDate": 1787673025,
-      "expiryDate": 1791063445,
-      "applicationLink": "https://himalayas.app/companies/micro1/jobs/clinician-oncology-hematology",
-      "guid": "https://himalayas.app/companies/micro1/jobs/clinician-oncology-hematology"
-    },
-    {
-      "title": "Physics Expert (Postdoc / Junior professor)",
-      "excerpt": "Role Title: Physics Expert (Postdoc / Junior professor) Role Type: ContractorLocation: Remote (US, Canada, UK focused) micro1 is engaging Physics Experts (Postdoc / Junior professor) to participate in a high-impact project supporting a customer in the science and technology sector.",
-      "companyName": "micro1",
-      "companySlug": "micro1",
-      "companyLogo": "https://cdn-images.himalayas.app/91oa56akgt3qjqc1nh3uoruub40c",
-      "employmentType": "Contractor",
-      "minSalary": null,
-      "maxSalary": null,
-      "salaryPeriod": "hourly",
-      "seniority": [
-        "Mid-level",
-        "Senior"
-      ],
-      "currency": "USD",
-      "locationRestrictions": [
-        "United Kingdom"
-      ],
-      "timezoneRestrictions": [
-        0
-      ],
-      "categories": [
-        "Research-Physics-Expert",
-        "Physics-Research-Specialist",
-        "Physics-Expert",
-        "Research-Physicist",
-        "Physics-Researcher",
-        "Senior-Research-Physicist"
-      ],
-      "parentCategories": [],
-      "description": "<p>Role Title: Physics Expert (Postdoc / Junior professor)</p><h3>Role Type: Contractor</h3><p>Location: Remote (US, Canada, UK focused)</p><p><a href=\"https://himalayas.app/companies/micro1\">micro1</a> is engaging Physics Experts (Postdoc / Junior professor) to participate in a high-impact project supporting a customer in the science and technology sector. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.</p><h3>Scope of Work</h3><ol>\n<li>Critically evaluate and review physics solutions, mathematical derivations, and theoretical arguments generated by researchers or AI platforms.</li>\n<li>Detect errors, unjustified steps, missing assumptions, dimensional inconsistencies, and weaknesses in logic or methodology.</li>\n<li>Delineate between substantive scientific issues and stylistic or cosmetic matters, providing technically precise written feedback.</li>\n<li>Articulate and document the reasoning behind any identified flaws, ensuring actionable guidance for improvement.</li>\n<li>Recognize when correct reasoning can be optimized, and offer suggestions to sharpen or clarify the argument.</li>\n<li>Utilize LaTeX, SymPy, Python, and Jupyter to independently verify or counter-check scientific claims as appropriate.</li>\n<li>Deliver structured feedback designed to support iterative enhancement of submitted work and project outcomes.</li>\n</ol><h3>Preferred Qualifications</h3><ol>\n<li>PhD in physics and an active record of independent research within a specialized subfield (e.g., High Energy/Mathematical Physics, Biophysics/Statistical Physics, Condensed Matter, AMO/Quantum Optics, Gravitation/Cosmology, Quantum Information, or Optical Materials).</li>\n<li>Experience as a postdoctoral researcher, research fellow, junior/assistant professor, or senior research scientist.</li>\n<li>Recent (last ~5 years) representative publications in the relevant subfield, with arXiv or DOI links.</li>\n<li>Advanced proficiency with LaTeX, SymPy, Python, and Jupyter for theoretical modeling and computational validation.</li>\n<li>Demonstrated skill in reviewing the work of others—through peer review, supervision, dissertation committees, or group seminars.</li>\n<li>Exceptional written communication skills with the ability to convey nuanced, constructive feedback with technical rigor.</li>\n<li>Reliable access to high-speed internet and a computer suitable for rigorous technical work.</li>\n</ol><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
-      "pubDate": 1787673017,
-      "expiryDate": 1791031880,
-      "applicationLink": "https://himalayas.app/companies/micro1/jobs/physics-expert-postdoc-junior-professor-6971997972",
-      "guid": "https://himalayas.app/companies/micro1/jobs/physics-expert-postdoc-junior-professor-6971997972"
     },
     {
       "title": "German-Speaking Remote Sales Development Representative (SDR)",
@@ -43204,6 +43298,368 @@
       "guid": "https://himalayas.app/companies/keeper-security-inc/jobs/implementation-specialist-bilingual-spanish"
     },
     {
+      "title": "Specialist Mission Critical (Jericho, NY, US, 11753)",
+      "excerpt": "Working at Purolator International is more than a job.",
+      "companyName": "Purolator",
+      "companySlug": "purolator",
+      "companyLogo": "https://cdn-images.himalayas.app/rrmgvs64vy0to2ovf4idnhpxymga",
+      "employmentType": "Full Time",
+      "minSalary": 56000,
+      "maxSalary": 67000,
+      "salaryPeriod": "annual",
+      "seniority": [
+        "Mid-level"
+      ],
+      "currency": "USD",
+      "locationRestrictions": [
+        "United States"
+      ],
+      "timezoneRestrictions": [
+        -10,
+        -9,
+        -8,
+        -7,
+        -6,
+        -5,
+        14
+      ],
+      "categories": [
+        "Operations",
+        "Logistics",
+        "Supply-Chain-Management",
+        "Freight-Operations",
+        "Shipping-Coordination",
+        "Mission-Critical-Engineer",
+        "Mission-Critical-Facilities-Engineer"
+      ],
+      "parentCategories": [
+        "Operations"
+      ],
+      "description": "<p>Working at <a href=\"https://himalayas.app/companies/purolator\">Purolator</a> International is more than a job. It's an opportunity to be part of a winning team and to contribute to the success of our growing company. <a href=\"https://himalayas.app/companies/purolator\">Purolator</a> International is a leading U.S. based supply chain logistics solutions provider specializing in the air and ground forwarding of express, freight and parcel shipments, customs brokerage, and fulfillment and delivery services to, from and within North America. We are a subsidiary of <a href=\"https://himalayas.app/companies/purolator\">Purolator</a> Inc., Canada’s largest leading integrated freight, package, and logistics solutions provider. You can learn more about us on YouTube and LinkedIn.</p><p>When we say we’re the best, we’re not just tooting our own horn. We’re incredibly proud of the many awards we’ve won for shipping to, from, and within Canada.</p><p><a href=\"https://himalayas.app/companies/purolator\">Purolator</a> International provides a “Best in Class” Total Rewards package to employees and their families.</p><ul>\n<li>Medical &amp; Prescription Drugs (80%+ premium paid by Employer)</li>\n<li>Employer Funded Health Savings Account (H.S.A)</li>\n<li>Dental and Vision plans</li>\n<li>Employer funded Short/Long Term Disability &amp; Life Insurance</li>\n<li>Accident, Hospital &amp; Critical Illness Plans</li>\n<li>Retirement Plan Employer Contribution (50% Match up to 8% of Your Eligible Salary)</li>\n<li>Annual Bonus Incentive Plan</li>\n<li>Paid Time Off Including: 15 Vacation Days, 10 Sick Days, 4 Personal Days</li>\n<li>Paid Holidays</li>\n<li>100% Paid Extended Parental/Maternity Leave Program</li>\n<li>100% subsidized pay Military/Reserves Leave Program</li>\n<li>Tuition Assistance</li>\n<li>Wellness Program</li>\n<li>Identify Theft Protection Discount Program</li>\n<li>Pet Insurance Discount Program</li>\n</ul><p>We also offer social responsibility initiatives covering a wide range of business aspects and employee relationships such as supporting local communities, educating, and empowering workers, promoting gender equality and minorities, reducing our footprint, etc.</p><div>\n<div>\n<div><h2>Description</h2></div>\n<div>\n<p>The primary responsibility of this role is to provide coordination and oversight of all domestic air and ground, as well as import and export shipments at gateway, including shipment and document preparation, booking, coordination of customs clearance, and pick-up and delivery in a 24/7/365 environment.</p>\n<p>This is a remote position and we are open to various locations. </p>\n<p>The schedule for this role is Monday–Friday, 2:00 PM to 10:30 PM EST </p>\n</div>\n</div>\n<div>\n<div><h2>Responsibilities</h2></div>\n<div><ul>\n<li>Coordinate domestic and/or international shipments based on client requirements, via phone and email, ensuring coverage of assigned shifts in a 24/7/365 environment.</li>\n<li>Coordination with agents, carriers, and brokers to procure scheduling and rates, as well as administration of these activities.</li>\n<li>Routing of shipments and preparation of pre-alert documentation.</li>\n<li>Booking of all air and ground shipments with appropriate agent/carrier Coordinates pick-up and delivery of shipments with shipper/consignee.</li>\n<li>Enters all shipments and related information into the applicable TMS as required in a timely manner ensuring milestones are available in real-time.</li>\n<li>Follow up on all shipments to ensure customer commitments are met.</li>\n<li>Validate that critical connections are made. React to any delays to keep shipments moving. </li>\n<li>Update clients and others (sales, CRR’s, etc.) of changes in status.</li>\n<li>Document preparation specific to a given shipment, including but not limited to BOL, MAWB, HAWB, Commercial Invoice, and Certification of Origin.</li>\n<li>Develop pricing and routing for ground, NFO air freight including cargo airlines, passenger airlines, chartered aircraft, deferred air freight, OBC.</li>\n<li>Build and maintain relationships with customers, agents, and carriers.</li>\n<li>Prepare competitive and market-based solutions.</li>\n<li>Prepare and analyze reports on a daily, weekly, and monthly basis, as required.</li>\n<li>As a 24/7/365 operation, have a willingness to be flexible with scheduling and available to respond to and meet customer needs outside of traditional working hours.</li>\n</ul></div>\n</div>\n<div>\n<div><h2>Education</h2></div>\n<div><ul>\n<li>3 years experience in time-critical logistics environment, preferably air/express/courier or same-day logistics. </li>\n<li><p> Strong working knowledge of Import/Export operations, including point‑to‑point movements</p></li>\n<li>Make quick decisions and innovative solutions to complex client logistics needs</li>\n<li>Strong customer service skills (world class Customer service, performant under pressure, swift thinker, multitasker, attention to details, self-motivated, collaborative)</li>\n<li>Previous experience working with Microsoft Outlook, Word/Excel.</li>\n<li>Ability to multitask and adapt to change in a high stress environment. </li>\n<li>Ability to work independently </li>\n<li>Collaborate with all team members to get shipments from point A to point B with a team mindset</li>\n<li>Demonstrate the ability to quickly move from one task to another Is successful under pressure  </li>\n<li> Dangerous Goods knowledge (strongly preferred) </li>\n</ul></div>\n</div>\n<div>\n<div><h3>Experience</h3></div>\n<div>\n<p>Bachelor’s degree and/or a min of 3 years of position-related, logistics experience is required</p>\n<p>The base salary range for this role is $56,000 to $67,000.  Actual base pay offered may vary depending on job-related knowledge, skills, experience, and other factors permitted by law.</p>\n</div>\n</div>\n</div><p><a href=\"https://himalayas.app/companies/purolator\">Purolator</a> International values diverse perspective and life experiences. <a href=\"https://himalayas.app/companies/purolator\">Purolator</a> International encourages candidates of all backgrounds to apply, including people of color, immigrants, refugees, women, people who identify as LGBTQ, people with disabilities, veterans, and those with diverse life experiences.</p><p>Candidates applying will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.</p><p>If you require an accommodation during the recruitment process, we will work with you to meet your needs.</p><p><a href=\"https://himalayas.app/companies/purolator\">Purolator</a> International participates in the E-Verify program in certain locations as required by law. Learn more about the E-Verify program www.e-verify.gov.</p><p>Any offer of employment is contingent upon the results of the Company’s lawful preemployment checks, which may include background and reference checks, in compliance with applicable federal, state and local law.</p><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+      "pubDate": 1787643306,
+      "expiryDate": 1792827305,
+      "applicationLink": "https://himalayas.app/companies/purolator/jobs/specialist-mission-critical-jericho-ny-us-11753",
+      "guid": "https://himalayas.app/companies/purolator/jobs/specialist-mission-critical-jericho-ny-us-11753"
+    },
+    {
+      "title": "Director Solution Innovation Strategy",
+      "excerpt": "OverviewThe Director of Solution Innovation Strategy leads early-stage solution strategy and innovation shaping for emerging healthcare opportunities.",
+      "companyName": "Cotiviti",
+      "companySlug": "cotiviti",
+      "companyLogo": "https://cdn-images.himalayas.app/trgadbn304p1z5k3mse5mdsd6avg",
+      "employmentType": "Full Time",
+      "minSalary": 155000,
+      "maxSalary": 205000,
+      "salaryPeriod": "annual",
+      "seniority": [
+        "Director"
+      ],
+      "currency": "USD",
+      "locationRestrictions": [
+        "United States"
+      ],
+      "timezoneRestrictions": [
+        -10,
+        -9,
+        -8,
+        -7,
+        -6,
+        -5,
+        14
+      ],
+      "categories": [
+        "Strategy",
+        "Healthcare-Strategy",
+        "Innovation-Strategy",
+        "Solution-Strategy",
+        "Product-Strategy",
+        "Director-Of-Solution-Architecture",
+        "Strategic-Solutions-Director",
+        "Director-Of-Solutions",
+        "Solutions-Director"
+      ],
+      "parentCategories": [],
+      "description": "<h3>Overview</h3><p>The Director of Solution Innovation Strategy leads early-stage solution strategy and innovation shaping for emerging healthcare opportunities. This role identifies, frames, and advances high-value solution concepts at the intersection of healthcare business needs, operational realities, market direction, and enabling technology. The role is translational in nature: it is not a pure product role, pure research role, or pure technology strategy role. Instead, it bridges what is technically possible to what is strategically useful, operationally viable, and commercially meaningful for the business. </p><p>The Director helps the enterprise create solution optionality by preparing credible innovation pathways before demand becomes urgent. This role does not formally set business-unit strategy, own product delivery, or lead engineering execution. Rather, it works across business leaders, product stakeholders, healthcare subject matter experts, researchers, architects, AI specialists, and solution development teams to shape opportunities that may later become pilots, prototypes, MVPs, partnerships, or broader business investments. </p><p>The role is initially focused on supporting Project Vanguard, including Validiti 2.0 and Validiti 3.0 diversification of <a href=\"https://himalayas.app/companies/cotiviti\">Cotiviti</a> Specialized Domain Agents into new solution areas across Life Science Real-World Evidence and Pharmacovigilance, payer MLR/ALR optimization, provider performance optimization, and patient digital health. The Director will help ensure innovation efforts are aligned to enterprise priorities, real workflow needs, and future healthcare market direction.</p><h3>Responsibilities</h3><ul><li>Identify, frame, and refine high-value innovation opportunities across healthcare solution domains, including payer, provider, life science, and patient-facing markets. </li></ul><ul><li>Support Project Vanguard by shaping solution pathways for Validiti 2.0 and Validiti 3.0 diversification into adjacent and new healthcare markets. </li></ul><ul><li>Translate emerging technology capabilities into operationally credible, economically coherent, and commercially meaningful business narratives. </li></ul><ul><li>Bridge across business-unit leaders, product stakeholders, healthcare subject matter experts, researchers, architects, AI specialists, and solution builders to shape feasible innovation directions. </li></ul><ul><li>Work across lines of business to identify linked solution value, cross-business-unit leverage, and broader platform or ecosystem opportunities. </li></ul><ul><li>Help define solution opportunities that reduce friction between payers and providers and better leverage <a href=\"https://himalayas.app/companies/cotiviti\">Cotiviti</a>'s position across the healthcare ecosystem. </li></ul><ul><li>Ensure innovation concepts are grounded in healthcare operational realities, including workflow design, reimbursement dynamics, adoption barriers, staffing constraints, and business economics. </li></ul><ul><li>Partner with healthcare technology research, advanced AI research, architecture, and solution innovation development leaders to shape opportunities into actionable solution directions. </li></ul><ul><li>Develop future-facing solution hypotheses informed by healthcare market evolution, workflow change, and enabling technology. </li></ul><ul><li>Communicate and evangelize innovation opportunities clearly and credibly to executive and functional stakeholders, including building support for opportunities not yet widely understood. </li></ul><ul><li>Support evaluation of internal development, partnership, and ecosystem pathways for new solution innovation. </li></ul><ul><li>Hire, develop, coach, lead and retain top-tier talent, with a focus on building and improving a team and culture that is able to assist in employing best in class practices to support and drive high levels of internal and external customer satisfaction.  </li></ul><ul><li>Complete all responsibilities as outlined in the annual performance review and/or goal setting.  </li></ul><ul><li>Complete all special projects and other duties as assigned.  </li></ul><ul><li>Must be able to perform duties with or without reasonable accommodation.  </li></ul><p>This job description is intended to describe the general nature and level of work being performed and is not to be construed as an exhaustive list of responsibilities, duties and skills required. This job description does not constitute an employment agreement and is subject to change as the needs of <a href=\"https://himalayas.app/companies/cotiviti\">Cotiviti</a> and requirements of the job change.  </p><h3>Qualifications</h3><ul><li>Bachelor’s degree in business, healthcare administration, health informatics, information systems, engineering, public health, or a related field. Advanced degree preferred. </li></ul><ul><li>10+ years of experience in healthcare strategy, solution strategy, healthcare consulting, innovation strategy, product strategy, healthcare operations, or a closely related field. </li></ul><ul><li>5+ years of leadership experience working across cross-functional business and technical teams. </li></ul><ul><li>Demonstrated fluency across multiple healthcare domains such as payment integrity, risk adjustment, quality, fraud, waste and abuse, value-based care, consumer or patient engagement, payer operations, provider operations, revenue cycle, digital health, or related solution areas. </li></ul><ul><li>Experience translating between executive priorities, operational realities, technical possibilities, and commercial implications. </li></ul><ul><li>Experience framing solution opportunities, pilots, prototypes, business cases, or strategic options in complex enterprise environments. </li></ul><ul><li>Experience evaluating or shaping solutions involving AI, automation, analytics, workflow orchestration, predictive modeling, digital health ecosystems, or related emerging technologies. </li></ul><ul><li>Strong executive communication skills with the ability to influence business-unit leaders, product stakeholders, researchers, architects, and builders. </li></ul><ul><li>Strong analytical and synthetic thinking, with the ability to connect disparate signals into coherent opportunity spaces. </li></ul><ul><li>Experience working across matrixed enterprises and cross-business-unit initiatives preferred. </li></ul><ul><li>Experience across payer and provider environments preferred. </li></ul><ul><li>Experience in management consulting, enterprise transformation, or healthcare strategic advisory environments preferred. </li></ul><h3>Cognitive/Mental Requirements:</h3><ul><li>Strong strategic thinking and problem-solving capabilities, with a focus on practical, high-impact solution innovation. </li></ul><ul><li>Ability to move fluidly between healthcare business economics, workflow realities, market direction, and enabling technology. </li></ul><ul><li>Strong communication skills with the ability to explain and advocate complex solution concepts to executives and senior leaders. </li></ul><ul><li>Ability to distinguish between interesting ideas and viable solution pathways. </li></ul><ul><li>Bias to action with sound judgment in ambiguous and emerging problem spaces. </li></ul><ul><li>Ability to challenge assumptions, broker alignment, and build credibility across diverse stakeholder groups. </li></ul><ul><li>Strong innovation mindset balanced by practical discipline, operational realism, and commercial judgment. </li></ul><h3>Working Conditions and Physical Requirements:</h3><ul><li>Remaining in a stationary position, often standing or sitting for prolonged periods. </li></ul><ul><li>Repeating motions that may include the wrists, hands, and/or fingers. </li></ul><ul><li>Must be able to provide a dedicated, secure work area.  </li></ul><ul><li>Must be able to provide high-speed internet access / connectivity and office setup and maintenance. </li></ul><ul><li>Occasional travel for conferences, leadership meetings, and strategic planning sessions required. </li></ul><p>Base compensation ranges from $155,000 to $205,000 per year. Specific offers are determined by various factors, such as experience, education, skills, certifications, and other business needs. This role is eligible for discretionary bonus consideration.</p><p><a href=\"https://himalayas.app/companies/cotiviti\">Cotiviti</a> offers team members a competitive benefits package to address a wide range of personal and family needs, including medical, dental, vision, disability, and life insurance coverage, 401(k) savings plans, paid family leave, 9 paid holidays per year, and 17-27 days of Paid Time Off (PTO) per year, depending on specific level and length of service with <a href=\"https://himalayas.app/companies/cotiviti\">Cotiviti</a>. <em>For information about our benefits package, please refer to our </em><em>Careers page.</em></p><p>Since this job will be based remotely, all interviews will be conducted virtually.</p><h3>Date of posting: 8/21/2026</h3><p>Applications are assessed on a rolling basis. We anticipate that the application window will close on 11/21/2026, but the application window may change depending on the volume of applications received or close immediately if a qualified candidate is selected.</p><h3>#director</h3><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+      "pubDate": 1787643287,
+      "expiryDate": 1792827287,
+      "applicationLink": "https://himalayas.app/companies/cotiviti/jobs/director-solution-innovation-strategy",
+      "guid": "https://himalayas.app/companies/cotiviti/jobs/director-solution-innovation-strategy"
+    },
+    {
+      "title": "Senior Corporate Development Analyst (Remote, US)",
+      "excerpt": "Lumen is the trusted network for the AI‑powered world, connecting people, data, and applications through our expansive fiber network and connected ecosystem.",
+      "companyName": "CenturyLink",
+      "companySlug": "centurylink",
+      "companyLogo": "https://cdn-images.himalayas.app/osqrrufwljt595myhntnoip8puic",
+      "employmentType": "Full Time",
+      "minSalary": 82969,
+      "maxSalary": 121688,
+      "salaryPeriod": "annual",
+      "seniority": [
+        "Senior"
+      ],
+      "currency": "USD",
+      "locationRestrictions": [
+        "United States"
+      ],
+      "timezoneRestrictions": [
+        -10,
+        -9,
+        -8,
+        -7,
+        -6,
+        -5,
+        14
+      ],
+      "categories": [
+        "Corporate-Development",
+        "M&A-Advisory",
+        "Investment-Banking",
+        "Financial-Analysis",
+        "Corporate-Finance",
+        "Senior-Corporate-Development-Analyst",
+        "Corporate-Development-Senior-Associate",
+        "Corporate-Development-Analyst"
+      ],
+      "parentCategories": [],
+      "description": "<p>Lumen is the trusted network for the AI‑powered world, connecting people, data, and applications through our expansive fiber network and connected ecosystem. We enable secure, high‑performance connectivity across cloud, edge, and AI workloads for enterprises, governments, and communities.</p><p>At Lumen, you’ll work on infrastructure customers rely on today and build for what’s next, where performance, security, and resilience matter.</p><p>This is a high accountability environment where bold ideas drive real innovation for our customers, partners, and industry. The work is challenging, expectations are clear, and trust is built into how we operate. If you’re ready to take ownership, deliver meaningful impact, and help shape the future of AI‑ready connectivity, join us today.</p><div>\n<div>\n<div><h2><b>The Role</b></h2></div>\n<div>\n<p>Lumen’s Corporate Development team is responsible for driving the company’s inorganic growth strategy through the execution of impactful acquisition, divestiture and strategic investment opportunities aligned with the company’s strategy and priorities. The team partners closely with Lumen’s senior leadership team as well as product, strategy, technology, and other functional leads to evaluate, analyze and execute the company’s inorganic growth and strategic rationalization initiatives.</p>\n<p>The Senior Corporate Development Analyst will support all aspects of merger, acquisition, and divestiture transactions for Lumen. This is a highly visible role with broad exposure across multiple business and functional areas within Lumen, involving extensive collaboration across all levels. Over time it is expected the Senior Analyst will have opportunities for career advancement within Lumen, depending on interest, passion, and ability. </p>\n</div>\n</div>\n<div>\n<div><h2><b>Work Location</b></h2></div>\n<div><p>The Corporate Development team is Denver-based with a strong preference for a candidate located in or willing to relocate to the Denver metro area; however, highly-qualified remote candidates located in the U.S. will be considered. </p></div>\n</div>\n<div>\n<div><h2><b>The Main Responsibilities</b></h2></div>\n<div><ul>\n<li>Lead detailed financial modeling for M&amp;A and investment / partnership opportunities, including valuation analysis, scenario modeling, synergy assessment, and Lumen financial impact analysis</li>\n<li>Work with cross-functional groups to synthesize disparate information to develop financial models and assess target company fit and attractiveness</li>\n<li>Summarize financial modeling and analysis to help decision makers assess the strengths and risks in a given M&amp;A opportunity</li>\n<li>Assist in the structuring and management of projects from ideation through completion, including preparation of analysis and overview materials for review with Lumen senior leadership, due diligence process and data room management, and internal and external stakeholder coordination</li>\n<li>Develop and maintain a detailed understanding of Lumen’s industry, operations, and strategic focus to leverage in performing research and analysis of opportunities, competitors, and acquisition prospects</li>\n<li>Maintain thorough trading and transaction comps database, understand drivers of key trends and themes across the industry landscape, and publish executive-ready updates</li>\n<li>Communicate effectively and succinctly with project teams and Lumen’s senior leadership</li>\n<li>Maintain flexibility working in a fast-paced environment under tight time constraints as necessary</li>\n</ul></div>\n</div>\n<div>\n<div><h2><b>What We Look For in a Candidate</b></h2></div>\n<div><ul>\n<li>2+ years of experience in Investment Banking, Corporate Development, Private Equity, Valuation Advisory, or other M&amp;A-related roles</li>\n<li>Excellent analytic, problem solving, and communication skills coupled with a strong work ethic and intellectual curiosity</li>\n<li>Critical thinker with an ability to manage multiple projects simultaneously and adapt quickly in a fast-paced environment</li>\n<li>Strong understanding of the M&amp;A process and experience with financial modeling required</li>\n<li>High degree of proficiency with Microsoft Office suite, including but not limited to Excel and PowerPoint</li>\n<li>Prior experience in telecom or technology preferred</li>\n<li>Interest in understanding new and developing technology trends, desire to advance team initiatives, and passion to take initiative beyond what is asked</li>\n</ul></div>\n</div>\n<div>\n<div><h2><b>Compensation</b></h2></div>\n<div>\n<p>This information reflects the anticipated base salary range for this position based on current national data. Minimums and maximums may vary based on location. Individual pay is based on skills, experience and other relevant factors.</p>\n<h3>Location Based Pay Ranges:</h3>\n<p>$82,969 - $110,625 in these states: AL, AR, AZ, FL, GA, IA, ID, IN, KS, KY, LA, ME, MO, MS, MT, ND, NE, NM, OH, OK, PA, SC, SD, TN, UT, VT, WI, WV, and WY.<br>$87,117 - $116,156 in these states: CO, HI, MI, MN, NC, NH, NV, OR, and RI.<br>$91,266 - $121,688 in these states: AK, CA, CT, DC, DE, IL, MA, MD, NJ, NY, TX, VA, and WA.</p>\n<p>Lumen offers a comprehensive package featuring a broad range of Health, Life, Voluntary Lifestyle benefits and other perks that enhance your physical, mental, emotional and financial wellbeing. We're able to answer any additional questions you may have about our bonus structure (short-term incentives, long-term incentives and/or sales compensation) as you move through the selection process.</p>\n<h3>Learn more about Lumen's:</h3>\n<ul>\n<li>Benefits</li>\n<li>Bonus Structure</li>\n</ul>\n</div>\n</div>\n</div><h3>Requisition #: 343277</h3><h3>Life at Lumen</h3><p>Life at Lumen is human and connected, even in a fast moving, AI‑focused organization. We set clear expectations and trust people to meet them. With real support and shared accountability, teams collaborate better, move faster, and deliver meaningful outcomes. </p><p>Our Lumen 8 behaviors guide how we interact, make decisions, and work together, shaping a culture built to perform and win.  </p><p>To learn more about Life at Lumen and how we live the Lumen 8, please visit:  <br></p><h3>Background Screening</h3><p>If you are selected for a position, there will be a background screen, which may include checks for criminal records and/or motor vehicle reports and/or drug screening, depending on the position requirements. For more information on these checks, please refer to the Post Offer section of our FAQ page. Job-related concerns identified during the background screening may disqualify you from the new position or your current role. Background results will be evaluated on a case-by-case basis.</p><p>Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.</p><h3>Equal Employment Opportunities</h3><p>We are committed to providing equal employment opportunities to all persons regardless of race, color, ancestry, citizenship, national origin, religion, veteran status, disability, genetic characteristic or information, age, gender, sexual orientation, gender identity, gender expression, marital status, family status, pregnancy, or other legally protected status (collectively, “protected statuses”). We do not tolerate unlawful discrimination in any employment decisions, including recruiting, hiring, compensation, promotion, benefits, discipline, termination, job assignments or training.</p><h3>Privacy Notice</h3><p>Lumen is committed to protecting the privacy and security of personal information collected during the recruitment and hiring process. Our Applicant Privacy Notice explains how we collect, use, disclose, and protect applicant information, as well as how individuals may request access to or deletion of their personal data.</p><p>To review Lumen’s Global Employment Applicant and Talent Community Privacy Notice, please visit:<br></p><h3>Disclaimer</h3><p>The job responsibilities described above indicate the general nature and level of work performed by employees within this classification. It is not intended to include a comprehensive inventory of all duties and responsibilities for this job. Job duties and responsibilities are subject to change based on evolving business needs and conditions.</p><p>In any materials you submit, you may redact or remove age-identifying information such as age, date of birth, or dates of school attendance or graduation. You will not be penalized for redacting or removing this information.</p><p>Please be advised that Lumen does not require any form of payment from job applicants during the recruitment process. All legitimate job openings will be posted on our official website or communicated through official company email addresses. If you encounter any job offers that request payment in exchange for employment at Lumen, they are not for employment with us, but may relate to another company with a similar name.</p><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+      "pubDate": 1787643286,
+      "expiryDate": 1792827286,
+      "applicationLink": "https://himalayas.app/companies/centurylink/jobs/senior-corporate-development-analyst-remote-us",
+      "guid": "https://himalayas.app/companies/centurylink/jobs/senior-corporate-development-analyst-remote-us"
+    },
+    {
+      "title": "Financial Analysis Specialist",
+      "excerpt": "Business Unit:Cubic DefenseCompany Details:Join Cubic and help shape the future of defense technology!",
+      "companyName": "Cubic",
+      "companySlug": "cubic",
+      "companyLogo": "https://cdn-images.himalayas.app/tvc8917hsj763sovorpikwh2975g",
+      "employmentType": "Full Time",
+      "minSalary": 99000,
+      "maxSalary": 111000,
+      "salaryPeriod": "annual",
+      "seniority": [
+        "Mid-level"
+      ],
+      "currency": "USD",
+      "locationRestrictions": [
+        "United States"
+      ],
+      "timezoneRestrictions": [
+        -10,
+        -9,
+        -8,
+        -7,
+        -6,
+        -5,
+        14
+      ],
+      "categories": [
+        "Financial-Analysis",
+        "Financial-Planning-And-Analysis",
+        "Corporate-Finance",
+        "Defense-Finance",
+        "Business-Finance",
+        "Financial-Analysis-Specialist",
+        "Financial-Analytics-Specialist",
+        "Financial-Analyst",
+        "Financial-Analysis-Jobs",
+        "Financial-Statement-Analyst",
+        "FP&A-Analyst",
+        "Strategic-Financial-Analyst",
+        "Financial-Management-Analyst",
+        "Finance"
+      ],
+      "parentCategories": [
+        "Finance"
+      ],
+      "description": "<h3><b>Business Unit:</b></h3><a href=\"https://himalayas.app/companies/cubic\">Cubic</a> Defense<h3><b>Company Details:</b></h3>Join <a href=\"https://himalayas.app/companies/cubic\">Cubic</a> and help shape the future of defense technology! <br><br>At <a href=\"https://himalayas.app/companies/cubic\">Cubic</a> Defense, you become part of a global organization dedicated to advancing mission success, security, and safety through innovative technology solutions. Our teams around the world are united by a shared commitment to solving complex challenges and delivering meaningful outcomes for customers, partners, and those who serve their nations.<br><br><a href=\"https://himalayas.app/companies/cubic\">Cubic</a> provides a unique opportunity to develop and deliver transformative technologies for government and commercial customers worldwide. Through innovation, technical excellence, and operational expertise, we help address tomorrow's challenges today.<br><br>As a global leader in the defense sector, we are a trusted provider of realistic combat training systems, secure communications, networking solutions, and specialized mission support capabilities for the U.S. military and allied security forces.<br><br>We seek talented professionals who thrive in dynamic, innovation-driven environments and are passionate about making a meaningful impact. Our culture is built on collaboration, integrity, accountability, respect, and a relentless pursuit of excellence. If you are inspired by technology, driven by purpose, and motivated to contribute to mission-critical solutions, we invite you to explore a career with <a href=\"https://himalayas.app/companies/cubic\">Cubic</a>. Discover how you can help shape the future at <a href=\"https://himalayas.app/companies/cubic\">Cubic</a>.com.<h3><b>Job Details:</b></h3><p>The Financial Analysis Specialist plays a key role in supporting the financial planning, analysis, forecasting, reporting, and accounting activities of the business. This position develops a comprehensive understanding of operational performance, program economics, and key cost drivers to provide meaningful financial insights that support strategic decision-making and business growth.</p><p>Working closely with functional leaders, program teams, and corporate finance, the Financial Analysis Specialist analyzes financial performance across product lines and defense programs, identifies risks and opportunities, and contributes to the achievement of financial and operational objectives. The role serves as a trusted liaison between business operations and corporate finance, ensuring the timely delivery of accurate, actionable financial information and maintaining alignment with corporate reporting requirements.</p><p>The successful candidate combines strong analytical capabilities with sound business acumen, enabling informed decision support in a dynamic, mission-focused environment. Operating with a high degree of professionalism and independence under general direction, this role contributes to financial excellence, operational effectiveness, and the successful execution of <a href=\"https://himalayas.app/companies/cubic\">Cubic</a> Defense's strategic priorities.</p><h3>Essential Job Duties and Responsibilities:</h3><ul>\n<li><p>Support financial performance management and business operations through the development, maintenance, and enhancement of key financial and operational performance metrics, dashboards, and KPI reporting.</p></li>\n<li><p>Partner with business leaders and cross-functional stakeholders to support annual operating plans, quarterly outlooks, monthly forecasts, and long-range financial planning activities.</p></li>\n<li><p>Lead the preparation, consolidation, and reconciliation of monthly financial results, providing meaningful variance analysis and actionable recommendations to management.</p></li>\n<li><p>Coordinate and support the annual budgeting process, including budget development, performance tracking, and budget-to-actual reporting.</p></li>\n<li><p>Develop and deliver accurate, timely, and insightful financial reporting and analysis to support executive decision-making and strategic planning initiatives.</p></li>\n<li><p>Facilitate financial performance reviews with business leadership, communicating key financial results, risks, opportunities, and recommended corrective actions.</p></li>\n<li><p>Perform detailed financial analyses to evaluate operating performance, cost drivers, profitability trends, and business opportunities across programs and product lines.</p></li>\n<li><p>Support strategic business initiatives through financial modeling, scenario analysis, investment evaluations, and business case development.</p></li>\n<li><p>Prepare ad hoc financial analyses, presentations, and reporting packages for executive leadership, corporate finance, and other key stakeholders.</p></li>\n<li><p>Conduct financial evaluations and due diligence activities related to acquisitions, divestitures, capital investments, and other strategic projects as required.</p></li>\n<li><p>Collaborate with finance, accounting, program management, contracts, and operational teams to ensure financial integrity, compliance with corporate policies, and alignment with reporting requirements.</p></li>\n<li><p>Drive continuous improvement initiatives focused on enhancing financial processes, controls, reporting efficiency, forecasting accuracy, and overall business performance.</p></li>\n</ul><h3>Minimum Job Requirements:</h3><ul>\n<li><p>Bachelor's degree in Finance, Accounting, Economics, Business Administration, or a related discipline, or an equivalent combination of education and relevant professional experience.</p></li>\n<li><p>Minimum of six (6) years of progressive experience in financial planning and analysis, financial reporting, cost accounting, or a related finance function within a complex business environment.</p></li>\n<li><p>Demonstrated experience supporting financial planning, forecasting, budgeting, reporting, and performance analysis activities.</p></li>\n<li><p>Advanced proficiency in Microsoft Excel and ERP-based financial systems required; experience with SAP or comparable enterprise financial systems strongly preferred.</p></li>\n<li><p>Experience with business intelligence, planning, and analytics tools such as Tableau, Anaplan, Alteryx, or similar platforms is highly desirable.</p></li>\n<li><p>Proven ability to effectively communicate and collaborate with employees, management, executive leadership, and internal and external auditors.</p></li>\n<li><p>Experience supporting private equity-owned organizations, strategic finance initiatives, capital investment analyses, mergers and acquisitions activities, or other value-creation initiatives is a plus.</p></li>\n<li><p>Knowledge of foreign currency translation and multinational financial reporting concepts is preferred.</p></li>\n<li><p>Experience supporting U.S. Government contracts, Estimate-at-Completion (EAC) processes, indirect rate management, and program performance reporting is highly desirable.</p></li>\n<li><p>Demonstrated ability to analyze and reconcile complex financial statements, identify trends, and provide actionable business insights.</p></li>\n<li><p>Strong organizational and project management skills with a commitment to maintaining accurate, accessible, and auditable financial documentation.</p></li>\n<li><p>Demonstrated ability to manage competing priorities, work independently, and deliver high-quality results in a deadline-driven environment.</p></li>\n<li><p>Exhibits strong business acumen, a continuous improvement mindset, and a commitment to operational excellence and customer service.</p></li>\n<li><p>Maintains the highest standards of professionalism, ethics, and personal integrity.</p></li>\n</ul><p><i>The description provided above is not intended to be an exhaustive list of all job duties, responsibilities and requirements.  Duties, responsibilities and requirements may change over time and according to business need.</i></p><h3>‎ </h3><p><a href=\"https://himalayas.app/companies/cubic\">Cubic</a> Pay Range:</p>$99,000.00 - $111,000.00 + benefits.<h3>‎ </h3><p><i>The <a href=\"https://himalayas.app/companies/cubic\">Cubic</a> pay range for this job level is a general guideline only and not a guarantee of compensation or salary. Additional factors considered in extending an offer include (but are not limited to) responsibilities of the job, education, experience, knowledge, skills, and abilities, as well as internal equity, alignment with market data, applicable bargaining agreement (if any), or other law.</i></p><h3>‎ </h3><h3>‎ </h3><h3><b>Worker Type:</b></h3>Employee<h3>‎ </h3><p><i>We are committed to creating an inclusive workplace and welcome applications from people of all backgrounds. We do not discriminate based on any protected characteristic under applicable law.</i></p><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+      "pubDate": 1787643263,
+      "expiryDate": 1792827262,
+      "applicationLink": "https://himalayas.app/companies/cubic/jobs/financial-analysis-specialist-1067271408",
+      "guid": "https://himalayas.app/companies/cubic/jobs/financial-analysis-specialist-1067271408"
+    },
+    {
+      "title": "Staff Loads & Dynamics Analysis Engineer",
+      "excerpt": "The future of aerospace and defense starts here.  Ursa Major was founded to revolutionize how America and its allies access and apply high-performance propulsion, from hypersonics to solid rocket motors, satellite maneuvering and launch.",
+      "companyName": "Ursa Major",
+      "companySlug": "ursa-major",
+      "companyLogo": "https://cdn-images.himalayas.app/hyl0lsj1wnp5733mc9us4gxojlly",
+      "employmentType": "Full Time",
+      "minSalary": 140000,
+      "maxSalary": 170000,
+      "salaryPeriod": "annual",
+      "seniority": [
+        "Senior"
+      ],
+      "currency": "USD",
+      "locationRestrictions": [
+        "United States"
+      ],
+      "timezoneRestrictions": [
+        -10,
+        -9,
+        -8,
+        -7,
+        -6,
+        -5,
+        14
+      ],
+      "categories": [
+        "Loads-And-Dynamics-Analysis",
+        "Aerospace-Analysis",
+        "Propulsion-Engineering",
+        "Finite-Element-Analysis",
+        "Structural-Mechanics-(RDM)",
+        "Structural-Analysis-Engineer",
+        "Power-Load-Analysis-Engineer",
+        "Senior-Structural-Engineer",
+        "Finite-Element-Analysis-Engineer",
+        "Lead-Structural-Engineer"
+      ],
+      "parentCategories": [],
+      "description": "<div class=\"content-intro\">\n<p><strong>The future of aerospace and defense starts here. </strong></p>\n<p><strong><a href=\"https://himalayas.app/companies/ursa-major\">Ursa Major</a> was founded to revolutionize how America and its allies access and apply high-performance propulsion, from hypersonics to solid rocket motors, satellite maneuvering and launch. We design and deliver propulsion and defense systems that solve the most urgent and critical national security demands. </strong></p>\n</div><p><strong>As a Staff Loads and Dynamics Analysis Engineer, you will primarily focus on load development across vehicles and propulsion systems.  Your secondary focus will either be Global Finite Element Modeling or GN&amp;C. You will be exposed to multiple vehicles, systems, and engines, along with the unique challenges each present. We are looking for experienced analysts who bring new skills and best practices from their prior experience to Ursa and who, in time, will mentor others. You will be expected to lead verification and validation efforts and to provide proactive feedback to our design team based on the results of your work. Lastly, as Ursa ramps up its production rate and begins development on new engine platforms, you will be expected to assess nonconforming hardware, introduce approaches that could improve our team’s efficiency, and potentially venture into engine stress analysis to support others in our multi-disciplinary analysis team. You will report to our Propulsion Analysis Team Lead.</strong></p><h3><strong>Responsibilities:</strong></h3><ul><li><strong>You will perform loads development for vehicles and engine programs</strong></li></ul><ul><li><strong>You will lead load spectrum development for service life assessment</strong></li></ul><ul><li><strong>You will perform vehicle dynamics analysis</strong></li></ul><ul><li><strong>You will verify and validate your models</strong></li></ul><ul><li><strong>You will work closely with our test team to request the instrumentation necessary to anchor our analytical models</strong></li></ul><ul><li><strong>You will support GFEM development for vehicles and propulsion systems</strong></li></ul><ul><li><strong>You will propagate loads to vehicle and engine components</strong></li></ul><ul><li><strong>You will collaborate with other engineering teams to develop our systems while ensuring they meet requirements and comply with the structural standards we follow</strong></li></ul><ul><li><strong>You will collaborate with our manufacturing team to assess nonconforming hardware for development and flight components and provide recommended dispositions and repairs</strong></li></ul><ul><li><strong>You will improve our analytical methods and seek out new approaches and tools</strong></li></ul><ul><li><strong>You will provide professional development, mentorship, and technical guidance to peers</strong></li></ul><h3><strong>Minimum Experience/Requirements:</strong></h3><ul><li><strong>B.S. degree in mechanical, aerospace engineering, or a comparable field</strong></li></ul><ul><li><strong>8+ years of experience performing L&amp;D analysis</strong></li></ul><ul><li><strong>Comfortable working in a fast-paced, startup environment</strong></li></ul><ul><li><strong>Expertise in dynamic analysis methods (structural dynamics, dynamic loads,  acoustics , modal, random vibration, shock response)</strong></li></ul><ul><li><strong>Working experience in loads development for vehicle and/or engine applications</strong></li></ul><ul><li><strong>Experience anchoring analytical models to physical testing</strong></li></ul><h3><strong>Ideal Experience/Requirements:</strong></h3><ul><li><strong>M.S. degree or higher in Mechanical, Aerospace Engineering, or a comparable field, ideally focusing on solid mechanics, fatigue, fracture, or structural dynamics</strong></li></ul><ul><li><strong>Experience with flutter analysis</strong></li></ul><ul><li><strong>GFEM development and model grounding experience</strong></li></ul><ul><li><strong>Knowledge of turbomachinery-related analytical methods (e.g., generating Campbell diagrams to assess margins on rotordynamics or structural modes or rotating hardware).</strong></li></ul><ul><li><strong>High Cycle Fatigue Analysis (HCF, crack initiation predicted by a stress-life / SN approach)</strong></li></ul><ul><li><strong>Low Cycle Fatigue Analysis (LCF, crack initiation predicted by a strain-life / e-N approach)</strong></li></ul><ul><li><strong>Experience performing Finite Element Analysis (FEA / FEM) using commercial codes (e.g., ANSYS, Abaqus, or NASTRAN-based solvers)</strong></li></ul><ul><li><strong>Experience with Femap/Nastran</strong></li></ul><ul><li><strong>Fracture analysis (crack growth / safe-life and assessing for instability via LEFM, ideally with prior experience using NASGRO)</strong></li></ul><ul><li><strong>Experience with the ANSYS FEA suite</strong></li></ul><ul><li><strong>A strong theoretical background in heat transfer, fluid mechanics, and/or compressible flow</strong></li></ul><ul><li><strong>Prior experience working on safety-critical systems in production environments</strong></li></ul><ul><li><strong>Prior professional experience working on either rocketry or turbomachinery</strong></li></ul><ul><li><strong>Experience supporting failure investigations and root-cause analysis</strong></li></ul><ul><li><strong>A track record of working efficiently in fast-paced engineering environments</strong></li></ul><ul><li><strong>A track record of effective oral and written communications to support your recommendations</strong></li></ul><ul><li><strong>Thermal-Structural static analysis (particularly dealing with nonlinear materials and large strains </strong></li></ul><ul><li><strong>Fluid analysis (e.g. Computational Fluid Dynamics / CFD or 1-D transient analysis using SINDA/FLUINT or ROCETS)</strong></li></ul><ul><li><strong>Knowledge of composite materials, insulation, and ablative thermal protection systems</strong></li></ul><h3><strong> </strong></h3><p><strong>Colorado law requires us to tell you the base compensation range of this role, which is $140,000 - $170,000, determined by your education, experience, knowledge, skills, and abilities. What we <em>can’t </em>quantify for you are the exciting challenges, supportive team, and amazing culture we enjoy. </strong></p><h3><strong>Classification: Full-time Exempt</strong></h3><div class=\"content-conclusion\"><div>\n<div>\n<p><strong><strong>Benefits Include: (Please note, Interns are not eligible for benefits)</strong></strong></p>\n<ul>\n<li><strong>Unlimited PTO - Vacation, Sick, Personal, and Bereavement</strong></li>\n<li><strong>Paid Parental and Adoptive Leave</strong></li>\n<li><strong>Medical, Dental and Vision Insurance</strong></li>\n<li><strong>Tax Advantage Accounts (HSA/FSA)</strong></li>\n<li><strong>Employer Paid Short and Long Term Disability, Basic Life, AD&amp;D</strong></li>\n<li><strong>Additional Benefit Options Including Voluntary Life and Emergency Medical Transport</strong></li>\n<li><strong>EAP Program</strong></li>\n<li><strong>Retirement Savings Plan - 401k with Company Match</strong></li>\n<li><strong>Equity Grants in the Company</strong></li>\n</ul>\n<p><strong><strong>How To Apply: </strong><br>Interested candidates are encouraged to apply by filling out the application below and clicking \"Submit Application\". This position will be posted for a minimum of 3 days and will remain open until filled or adjusted based on the volume of applicants.</strong></p>\n<div><strong><strong>NOTE: </strong>Research suggests that women and BIPOC individuals may self-select out of opportunities if they don't meet 100% of the job requirements. We encourage anyone who believes they have the skills and the drive necessary to succeed here to apply for this role.</strong></div>\n</div>\n<div><strong><strong>Must be a U.S. Person (this includes U.S. Citizens and Permanent Residents).</strong></strong></div>\n<div><strong><strong>Eligibility to obtain and maintain a U.S. Security Clearance. </strong></strong></div>\n<div><strong><em>We’re an equal-opportunity employer. You will be considered for employment without attention to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran, or disability status.</em></strong></div>\n<div><strong>No outside recruiters, please.</strong></div>\n</div></div><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+      "pubDate": 1787643216,
+      "expiryDate": 1792827215,
+      "applicationLink": "https://himalayas.app/companies/ursa-major/jobs/staff-loads-dynamics-analysis-engineer",
+      "guid": "https://himalayas.app/companies/ursa-major/jobs/staff-loads-dynamics-analysis-engineer"
+    },
+    {
+      "title": "SPECIALIZED SALES II-VYVX (Remote, US)",
+      "excerpt": "Lumen is the trusted network for the AI‑powered world, connecting people, data, and applications through our expansive fiber network and connected ecosystem.",
+      "companyName": "CenturyLink",
+      "companySlug": "centurylink",
+      "companyLogo": "https://cdn-images.himalayas.app/osqrrufwljt595myhntnoip8puic",
+      "employmentType": "Full Time",
+      "minSalary": 122298,
+      "maxSalary": 179372,
+      "salaryPeriod": "annual",
+      "seniority": [
+        "Mid-level"
+      ],
+      "currency": "USD",
+      "locationRestrictions": [
+        "United States"
+      ],
+      "timezoneRestrictions": [
+        -10,
+        -9,
+        -8,
+        -7,
+        -6,
+        -5,
+        14
+      ],
+      "categories": [
+        "Sales-and-Marketing",
+        "Streaming-Services-Sales",
+        "Media-Sales",
+        "Channel-Sales",
+        "B2B-Sales",
+        "Remote-Sales-Specialist",
+        "Remote-B2B-Sales-Specialist",
+        "Virtual-Sales-Specialist",
+        "Sales"
+      ],
+      "parentCategories": [
+        "Sales"
+      ],
+      "description": "<p>Lumen is the trusted network for the AI‑powered world, connecting people, data, and applications through our expansive fiber network and connected ecosystem. We enable secure, high‑performance connectivity across cloud, edge, and AI workloads for enterprises, governments, and communities.</p><p>At Lumen, you’ll work on infrastructure customers rely on today and build for what’s next, where performance, security, and resilience matter.</p><p>This is a high accountability environment where bold ideas drive real innovation for our customers, partners, and industry. The work is challenging, expectations are clear, and trust is built into how we operate. If you’re ready to take ownership, deliver meaningful impact, and help shape the future of AI‑ready connectivity, join us today.</p><div>\n<div>\n<div><h2><b>The Role</b></h2></div>\n<div>\n<p>The role will identify and pursue new Streaming and Media sales opportunities, deliver product solutions, ensure customer satisfaction, and build lasting relationships to maximize company sales. You will present products and services to customers, manage accurate sales forecasts, and oversee quotas.</p>\n<p>You are expected to drive digital transformation on Lumen’s platform by prospecting and closing Vyvx, Storage, and Streaming &amp; Media deals within the assigned accounts. The ideal candidate should understand both business and technical needs to offer tailored Lumen or partner solutions.</p>\n</div>\n</div>\n<div>\n<div><h2><b>The Main Responsibilities</b></h2></div>\n<div>•Participate in reseller trainings, conferences, and other channel events to enhance partner and internal knowledge of the VYVX value proposition and product portfolio<br>•Build and maintain relationships with assigned partners, engaging with key product/sectors to help drive appropriate opportunities and participate in partner transactions<br>•Work with assigned partners to build a base of VYVX opportunities and clearly define sales and revenue goals for incremental Lumen product sales<br>•Provide partners with go-to-market strategies, identify new opportunities, and present solutions sales strategies<br>•Leverage internal systems and processes to understand end-customer opportunities and partner profitability<br>•Identify new business opportunities, through direct customer or partner interactions, interactions with product and market teams and/or mining existing customers<br>•Conduct sales presentations and solution demonstrations and develop customer proposals and RFP responses<br>•Follow up on all general leads and inquiries to maximize sales opportunities and credit partner-generated leads<br>•Driving incremental VYVX product sales and revenue through engagement with designated Partners<br>•Serve as liaison between organizations and internal stakeholders to resolve sales/channel conflicts, overlaps, and customer issues, ensuring an optimum partner and customer experience<br>•Perform ad-hoc duties as necessary</div>\n</div>\n<div>\n<div><h2><b>What We Look For in a Candidate</b></h2></div>\n<div><ul>\n<li>Five plus  years of industry-specific sales Streaming and Media experience with a demonstrated track record of success </li>\n<li>Attention to detail and good organizational capabilities; understanding of the telecom industry's competitive landscape. </li>\n<li>Ability to prioritize with good time management skills; Self-motivated, pro-active, results-oriented professional with an ability to work with minimum direction.</li>\n<li>Experience with Salesforce.com preferred.</li>\n<li>Demonstrated effective communication, written, and formal presentation skills as well as proficiency in closing sales. </li>\n<li>Proficiency in MS Office products: Outlook, Word, Excel, and PowerPoint </li>\n<li>Requires at least 50% or more of time conducting sales activities outside of the office. </li>\n<li>Understanding of basic Edge/Cloud architecture, SaaS and Streaming and Media delivery Technologies</li>\n<li>Ability to converse with business and operations managers about MES, IoT, Analytics, and Augmented Reality and the application of Lumen solutions to shop floor problems. </li>\n<li>Proficient selling with traditional Microsoft products and social media technologies in person, over the web, and via phone </li>\n<li>Communication skills to work with existing account managers, break into new accounts, educate customers, and partner stakeholders, and build relationships with sponsors. </li>\n</ul></div>\n</div>\n<div>\n<div><h2><b>Compensation</b></h2></div>\n<div>This information reflects the anticipated base salary range for this position based on current national data. Minimums and maximums may vary based on location. Individual pay is based on skills, experience and other relevant factors.<p></p>\n<h3>Location Based Pay Ranges</h3>\n<p>$122,298 - $163,061 in these states: AL  AR  AZ  FL  GA  IA  ID  IN  KS  KY  LA  ME  MO  MS  MT  ND  NE  NM  OH  OK  PA  SC  SD  TN  UT  VT  WI  WV  WY  <br>$128,425 - $171,222 in these states: CO  HI  MI  MN  NC  NH  NV  OR  RI  <br>$134,529 - $179,372 in these states: AK  CA  CT  DC  DE  IL  MA  MD  NJ  NY  TX  VA  WA  <br><br>Lumen offers a comprehensive package featuring a broad range of Health, Life, Voluntary Lifestyle benefits and other perks that enhance your physical, mental, emotional and financial wellbeing. We're able to answer any additional questions you may have about our bonus structure (short-term incentives, long-term incentives and/or sales compensation) as you move through the selection process.</p>Learn more about Lumen's:Benefits<p>Bonus Structure</p>\n</div>\n</div>\n<div><div><h2><b>What to Expect Next</b></h2></div></div>\n</div><h3>Requisition #: 343271</h3><h3>Life at Lumen</h3><p>Life at Lumen is human and connected, even in a fast moving, AI‑focused organization. We set clear expectations and trust people to meet them. With real support and shared accountability, teams collaborate better, move faster, and deliver meaningful outcomes. </p><p>Our Lumen 8 behaviors guide how we interact, make decisions, and work together, shaping a culture built to perform and win.  </p><p>To learn more about Life at Lumen and how we live the Lumen 8, please visit:  <br></p><h3>Background Screening</h3><p>If you are selected for a position, there will be a background screen, which may include checks for criminal records and/or motor vehicle reports and/or drug screening, depending on the position requirements. For more information on these checks, please refer to the Post Offer section of our FAQ page. Job-related concerns identified during the background screening may disqualify you from the new position or your current role. Background results will be evaluated on a case-by-case basis.</p><p>Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.</p><h3>Equal Employment Opportunities</h3><p>We are committed to providing equal employment opportunities to all persons regardless of race, color, ancestry, citizenship, national origin, religion, veteran status, disability, genetic characteristic or information, age, gender, sexual orientation, gender identity, gender expression, marital status, family status, pregnancy, or other legally protected status (collectively, “protected statuses”). We do not tolerate unlawful discrimination in any employment decisions, including recruiting, hiring, compensation, promotion, benefits, discipline, termination, job assignments or training.</p><h3>Privacy Notice</h3><p>Lumen is committed to protecting the privacy and security of personal information collected during the recruitment and hiring process. Our Applicant Privacy Notice explains how we collect, use, disclose, and protect applicant information, as well as how individuals may request access to or deletion of their personal data.</p><p>To review Lumen’s Global Employment Applicant and Talent Community Privacy Notice, please visit:<br></p><h3>Disclaimer</h3><p>The job responsibilities described above indicate the general nature and level of work performed by employees within this classification. It is not intended to include a comprehensive inventory of all duties and responsibilities for this job. Job duties and responsibilities are subject to change based on evolving business needs and conditions.</p><p>In any materials you submit, you may redact or remove age-identifying information such as age, date of birth, or dates of school attendance or graduation. You will not be penalized for redacting or removing this information.</p><p>Please be advised that Lumen does not require any form of payment from job applicants during the recruitment process. All legitimate job openings will be posted on our official website or communicated through official company email addresses. If you encounter any job offers that request payment in exchange for employment at Lumen, they are not for employment with us, but may relate to another company with a similar name.</p><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+      "pubDate": 1787643196,
+      "expiryDate": 1792827196,
+      "applicationLink": "https://himalayas.app/companies/centurylink/jobs/specialized-sales-ii-vyvx-remote-us",
+      "guid": "https://himalayas.app/companies/centurylink/jobs/specialized-sales-ii-vyvx-remote-us"
+    },
+    {
+      "title": "AI Workforce Enablement Lead",
+      "excerpt": "Progressive Leasing is a leading provider of in-store and e-commerce lease-to-own solutions.",
+      "companyName": "Progressive Leasing",
+      "companySlug": "progressive-leasing",
+      "companyLogo": "https://cdn-images.himalayas.app/djss6glxwpyhgk7nixmqmgv6h9rd",
+      "employmentType": "Full Time",
+      "minSalary": null,
+      "maxSalary": null,
+      "salaryPeriod": "annual",
+      "seniority": [
+        "Senior"
+      ],
+      "currency": null,
+      "locationRestrictions": [
+        "United States"
+      ],
+      "timezoneRestrictions": [
+        -10,
+        -9,
+        -8,
+        -7,
+        -6,
+        -5,
+        14
+      ],
+      "categories": [
+        "Workforce-Transformation",
+        "Change-Management",
+        "HR-Business-Partner",
+        "AI-Adoption",
+        "AI-Enablement-Lead",
+        "Enterprise-AI-Enablement-Lead",
+        "AI-Enablement-Manager",
+        "AI-Talent-Development-Lead",
+        "AI-Implementation-Lead",
+        "AI-Transformation-Lead"
+      ],
+      "parentCategories": [],
+      "description": "<p><b><a href=\"https://himalayas.app/companies/progressive-leasing\">Progressive Leasing</a> </b>is a leading provider of in-store and e-commerce lease-to-own solutions. With more than 20 years in FinTech, we’ve grown from start-up to industry leader by innovating, simplifying, and valuing people. We are a subsidiary of PROG Holdings (NYSE: PRG), a FinTech holding company with three business segments: <a href=\"https://himalayas.app/companies/progressive-leasing\">Progressive Leasing</a>, Purchasing Power (a leading employee purchase program for consumer products and services using payroll deduction), and Four, a Buy Now Pay Later (BNPL) platform.</p><p>We are currently hiring an <b>AI Workforce Enablement Consultant</b> to help support our enterprise AI transformation and ensure our people are set up to succeed as how work gets done evolves.</p><p><i>This role is a work‑from‑home position and can be performed remotely anywhere in the continental US.</i></p><p><i><b>Employee Value Proposition (EVP): </b></i> PROG is dedicated to providing people with opportunity — opportunity for inclusive collaboration, opportunity for innovation, and opportunity for development.</p><h3>Who We Are</h3><p>The People team at PROG is lean, deeply embedded with the business, and operating right at the center of this shift. We partner closely across Talent, HR, and Technology to redesign work thoughtfully and move our workforce forward with clarity and confidence. As a consultant, you'll plug directly into that partnership.</p><h3>Who You Are</h3><p>A workforce enablement and change-execution advisor who knows how to turn big transformation goals into real, on-the-ground behavior change. You're comfortable operating in ambiguity, you partner naturally with the business, and you own outcomes end-to-end. You think in terms of functionality — will managers actually use this toolkit, will employees actually shift behavior — not just deliverables checked off a list.</p><h3>Scope of the Engagement</h3><ul>\n<li>Shape and guide the workforce enablement approach for AI-driven workflow and role changes</li>\n<li>Design and run enablement programs that drive genuine adoption — not \"check-the-box\" training</li>\n<li>Equip managers to lead their teams through transition, including readiness, support, and the tougher conversations</li>\n<li>Translate redesigned workflows into clear role expectations, skills, and enablement plans</li>\n<li>Build practical, genuinely usable toolkits, learning experiences, and manager resources</li>\n<li>Advise across Talent, HR, and AI teams to ensure enablement lands <i>before</i> accountability shifts</li>\n<li>Measure progress with leading indicators — behavior change, readiness, friction — rather than vanity metrics</li>\n<li>Continuously refine the approach based on real signals from employees and managers</li>\n</ul><h3>What You Bring</h3><ul>\n<li>5+ years in workforce transformation, people enablement, or talent-side change execution</li>\n<li>A track record of driving real behavior change — not just delivering training or communications</li>\n<li>Fluency working inside or alongside HR/Talent systems (role design, skills, learning, performance)</li>\n<li>Strong judgment, autonomy, and follow-through in fast-moving environments</li>\n<li>The ability to diagnose resistance and tailor support to fit</li>\n<li>Practical curiosity and hands-on experience with AI-enabled ways of working (no engineering background required)</li>\n<li>A consultant's instinct for functionality — building things people will actually adopt and keep using</li>\n</ul><p><i><a href=\"https://himalayas.app/companies/progressive-leasing\">Progressive Leasing</a> welcomes and encourages diversity in the workplace. We do not discriminate in any aspect of employment on the basis of race, color, religion, national origin, ancestry, gender, sexual orientation, gender identity and/or expression, age, veteran status, disability, or any other characteristic protected by federal, state, or local employment discrimination laws where <a href=\"https://himalayas.app/companies/progressive-leasing\">Progressive Leasing</a> does business.</i></p><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+      "pubDate": 1787643180,
+      "expiryDate": 1792827180,
+      "applicationLink": "https://himalayas.app/companies/progressive-leasing/jobs/ai-workforce-enablement-lead",
+      "guid": "https://himalayas.app/companies/progressive-leasing/jobs/ai-workforce-enablement-lead"
+    },
+    {
+      "title": "Senior Software Engineer - Transaction Management",
+      "excerpt": "Senior Software Engineer, Transaction ManagementAbout UsTurnkey is developer-first infrastructure for private key management, making it simple to create wallets, sign transactions, and automate on-chain actions through one elegant API, without ever exposing sensitive key material.",
+      "companyName": "Turnkey",
+      "companySlug": "turnkey",
+      "companyLogo": "https://cdn-images.himalayas.app/5qiybwg98iqqtydcwflqfqpsix00",
+      "employmentType": "Full Time",
+      "minSalary": 200000,
+      "maxSalary": 250000,
+      "salaryPeriod": "annual",
+      "seniority": [
+        "Senior"
+      ],
+      "currency": "USD",
+      "locationRestrictions": [
+        "United States"
+      ],
+      "timezoneRestrictions": [
+        -10,
+        -9,
+        -8,
+        -7,
+        -6,
+        -5,
+        14
+      ],
+      "categories": [
+        "Software-Engineer",
+        "Blockchain-Engineering",
+        "GoLang-Engineer",
+        "Protocol-Engineering",
+        "Backend-Engineering",
+        "Senior-Software-Engineer-Financial-Services",
+        "Payments-Software-Engineer"
+      ],
+      "parentCategories": [
+        "Developer"
+      ],
+      "description": "<h3>Senior Software Engineer, Transaction Management</h3><h3>About Us</h3><p><a href=\"https://himalayas.app/companies/turnkey\">Turnkey</a> is developer-first infrastructure for private key management, making it simple to create wallets, sign transactions, and automate on-chain actions through one elegant API, without ever exposing sensitive key material. Founded by the team who scaled Coinbase Custody from zero to a $100M+ ARR business and helped protect over $100B in crypto assets, <a href=\"https://himalayas.app/companies/turnkey\">Turnkey</a> is tackling crypto security at its foundational level. Our mission is to make strong cryptography the default across the open internet the same way AWS made scalable computing the default for software.</p><p>Our team is low-ego, high-agency, and high-autonomy, with a significant amount of combined experience in cryptography, security, and low-level systems. We're building the trustless, programmable infrastructure that will power the next wave of mass-market crypto applications and we're looking for people who want to shape what that future looks like.</p><p>We are looking for a crypto-native engineer to join our Transaction Management team. This team is at the heart of what <a href=\"https://himalayas.app/companies/turnkey\">Turnkey</a> does, building the systems that orchestrate transactions and read onchain state across a wide range of blockchain protocols. We write primarily in Go and operate at the intersection of rigorous engineering and deep protocol knowledge.</p><h3>What You'll Do</h3><ul>\n<li>Design and build transaction parsing, validation, and broadcasting infrastructure across multiple blockchain protocols</li>\n<li>Develop and maintain protocol-specific libraries and abstractions that power <a href=\"https://himalayas.app/companies/turnkey\">Turnkey</a>'s transaction management layer</li>\n<li>Collaborate effectively across the company to design and deliver core product capabilities</li>\n<li>Write internal product specifications, external developer documentation, and technical whitepapers</li>\n<li>Design and build new product features end-to-end driven by customer requests and ecosystem developments</li>\n<li>Assist in scaling out a world-class engineering team</li>\n<li>Develop thoughtful deployment processes and infrastructure to reduce the risks inherent in the software development lifecycle</li>\n</ul><h3>What We're Looking For</h3><ul>\n<li>5+ years of production engineering experience</li>\n<li>Golang engineering skills, this team writes primarily in Go</li>\n<li>Deep, hands-on familiarity with crypto protocols; EVM fluency is a must, and breadth across other chains is a strong plus</li>\n<li>Experience working with AWS, GCP, or other cloud providers</li>\n<li>An understanding of modern application architectures with opinions on how they should be developed and deployed</li>\n<li>Experience building and operating large-scale, mission-critical infrastructure</li>\n<li>Prior experience building scaled crypto products</li>\n<li>A healthy amount of paranoia :-)</li>\n</ul><h3>Style Points</h3><ul>\n<li>Experience developing against TEEs, HSMs, and other secure computing environments</li>\n<li>Experience working with Temportal or other async workflow systems</li>\n<li>Expertise in threshold signing systems and a desire to stay on the cutting edge of production-grade cryptography</li>\n<li>Broad protocol fluency beyond EVM, Solana, Bitcoin, or others</li>\n<li>Actively tracking developments in the crypto ecosystem and strongly opinionated on where it is going</li>\n</ul><h3>What We Offer</h3><ul>\n<li>Full benefits, including medical, dental, vision, life, disability, HSA/FSA, 401(k) — detailed benefits overview available as we get further in the process</li>\n<li>Paid parental leave</li>\n<li>Unlimited PTO</li>\n<li>$3,000/yr learning and development budget to attend industry conferences</li>\n<li>Multiple team offsites per year</li>\n<li>Lunch stipend</li>\n</ul><p>Please note that while the team is remote, we are only considering candidates who are physically based in the United States and Canada at the current time.</p><p><a href=\"https://himalayas.app/companies/turnkey\">Turnkey</a> is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, protected veteran status, or any other characteristic protected by law. We encourage individuals of all backgrounds to apply.</p><div class=\"content-pay-transparency\"><div class=\"pay-input\">\n<div class=\"title\">Compensation range</div>\n<div class=\"pay-range\">$200,000—$250,000 USD</div>\n</div></div><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+      "pubDate": 1787643163,
+      "expiryDate": 1792827162,
+      "applicationLink": "https://himalayas.app/companies/turnkey/jobs/senior-software-engineer-transaction-management",
+      "guid": "https://himalayas.app/companies/turnkey/jobs/senior-software-engineer-transaction-management"
+    },
+    {
       "title": "Senior Software Development Engineer (AI & Agentic Systems)",
       "excerpt": "At Jamf, we believe in an open, flexible culture based on respect and trust.",
       "companyName": "Jamf",
@@ -44056,56 +44512,6 @@
       "expiryDate": 1792826735,
       "applicationLink": "https://himalayas.app/companies/auvik-networks-inc/jobs/director-channel-sales",
       "guid": "https://himalayas.app/companies/auvik-networks-inc/jobs/director-channel-sales"
-    },
-    {
-      "title": "Regional Vice President of Sales, Central Region (IC-Enterprise)",
-      "excerpt": "Since 2003, Entrata has evolved from a visionary, student-led startup into a global leader in AI-driven property management technology.",
-      "companyName": "Entrata",
-      "companySlug": "entrata",
-      "companyLogo": "https://cdn-images.himalayas.app/fo1mffz93j1bj49tza0jbt8h03wo",
-      "employmentType": "Full Time",
-      "minSalary": 105000,
-      "maxSalary": 135000,
-      "salaryPeriod": "annual",
-      "seniority": [
-        "Executive"
-      ],
-      "currency": "USD",
-      "locationRestrictions": [
-        "United States"
-      ],
-      "timezoneRestrictions": [
-        -10,
-        -9,
-        -8,
-        -7,
-        -6,
-        -5,
-        14
-      ],
-      "categories": [
-        "Enterprise-Sales",
-        "Software-Sales",
-        "Sales-Executive",
-        "B2B-Sales",
-        "Regional-Vice-President",
-        "Regional-Vice-President-Sales",
-        "Regional-Vice-President-Of-Sales",
-        "Regional-Sales-Vice-President",
-        "Vice-President-Of-Regional-Sales",
-        "Regional-Sales-VP",
-        "Regional-VP-Sales",
-        "Vice-President-Enterprise-Sales",
-        "Regional-Vice-President-Strategic-Accounts"
-      ],
-      "parentCategories": [
-        "Sales"
-      ],
-      "description": "<div>Since 2003, <a href=\"https://himalayas.app/companies/entrata\">Entrata</a> has evolved from a visionary, student-led startup into a global leader in AI-driven property management technology. Today, we power the industry's most essential operating system, serving owners and residents worldwide through a comprehensive suite of intelligent leasing, payment, and communication tools powered by cutting-edge AI. With a proven track record of sustained growth and a global team of more than 2,200 employees, we offer the rare combination of established stability and high-velocity innovation. Recognized by the Silicon Slopes Hall of Fame and the Utah Business Fast 50, <a href=\"https://himalayas.app/companies/entrata\">Entrata</a> fosters a culture of radical transparency and entrepreneurial energy. At <a href=\"https://himalayas.app/companies/entrata\">Entrata</a>, we create an environment where different perspectives are valued and respected. Those perspectives challenge assumptions, strengthen our decisions, and raise the bar as we reshape the global living experience through AI-powered solutions.</div><div>Join our esteemed team and become a pivotal force in transforming the property management industry! </div><div>As an Enterprise Sales Executive (RVP, Sales)  at <a href=\"https://himalayas.app/companies/entrata\">Entrata</a>, you'll have the opportunity to identify, establish, and nurture business sales relationships with property management companies in our Central Region. This is a pure hunting role.</div><div>This role allows you to work remotely from your home office while engaging in local and regional travel, as well as participating in apartment associations. Periodic visits to <a href=\"https://himalayas.app/companies/entrata\">Entrata</a> headquarters in Utah and attendance at national trade shows and events will also be part of your exciting journey.</div><div>\n<a href=\"https://himalayas.app/companies/entrata\">Entrata</a>, with nearly two decades of experience, has been at the forefront of property management technology. We continue to lead innovation in an industry that provides housing solutions to tens of thousands of apartment communities worldwide. </div><div>At <a href=\"https://himalayas.app/companies/entrata\">Entrata</a>, we value individuals who are forward-thinking, hardworking, and adept collaborators who also know how to enjoy their work. </div><h3>Responsibilities:</h3><ul>\n<li>Identifying prospective customers, generating leads, and converting them into clients.</li>\n<li>Contacting new and existing customers to discuss their needs.</li>\n<li>Emphasizing product features to showcase how they address customer challenges.</li>\n<li>Answering customer inquiries about our products.</li>\n<li>Negotiating prices and terms and preparing sales agreements.</li>\n<li>Collaborating with colleagues across various sectors.</li>\n<li>Maintaining contact lists and nurturing customer relationships through follow-ups.</li>\n</ul><h3>To excel in this role, you should possess:</h3><ul>\n<li>Experience in the multifamily housing industry (a plus).</li>\n<li>3-5 years of experience in technology/software sales (SaaS, PaaS, enterprise software, etc.).</li>\n<li>A bachelor's degree.</li>\n<li>A genuine passion for sales, exceptional presentation skills, and the ability to close deals.</li>\n<li>An understanding of how to cultivate client relationships.</li>\n<li>Demonstrated ambition, assertiveness, confidence, honesty, and discipline.</li>\n<li>Social intelligence and the capacity to build lasting, high-quality relationships with clients and colleagues.</li>\n<li>Proven sales results and a track record of success.</li>\n<li>The ability to work independently.</li>\n</ul><h3>The following skills and experiences would be advantageous:</h3><ul>\n<li>Experience selling CRM software.</li>\n<li>Sales Methodologies such as Sandler.</li>\n<li>Knowledge of property management software.</li>\n<li>Experience working with a remote team.</li>\n<li>Strong analytical and problem-solving skills.</li>\n<li>Existing relationships within the property management industry.</li>\n<li>Familiarity with the latest trends in property management technology.</li>\n<li>Multilingual proficiency to cater to diverse clients.</li>\n</ul><h3>Benefits:</h3><div>Flexible and transparent culture with remote and hybrid work options, generous vacation time, and frequent company recharge days for work-life balance.</div><div>Comprehensive medical, dental, and vision coverage, including fertility benefits, available for eligible employees and their families.</div><div>HSA/FSA options and employer-paid disability benefits provided for eligible employees.</div><div>Access to 401(k) or similar retirement plans with employer matching for eligible employees, ensuring long-term financial security.</div><div>Wellness initiatives promoting physical and mental well-being, access to an onsite gym at HQ, gym memberships, mental health resources, wellness challenges, and employee assistance programs.</div><div>\n<a href=\"https://himalayas.app/companies/entrata\">Entrata</a> Cares programs offers opportunities for volunteerism, charity events, and giving back to our community.</div><div>Exclusive Previ cell phone plan and discounts on services or local business partnerships for additional employee benefits.</div><div>Bi-annual swag drops for employees</div><div>Currently, <a href=\"https://himalayas.app/companies/entrata\">Entrata</a> hires in Arizona, Idaho, Utah, Wyoming, Texas, North Carolina, Florida, Georgia, South Carolina, Ohio, Pennsylvania, and Illinois for Exempt roles and Arizona, Idaho, Utah, Wyoming, Texas, North Carolina, and Florida for Non-Exempt roles. </div><div>\n<a href=\"https://himalayas.app/companies/entrata\">Entrata</a> is dedicated to creating a workplace where a diverse and inclusive team thrives in an environment free from discrimination. We provide equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, protected veteran status, or any other applicable characteristics protected by law.</div><div>It’s a great place to work! Will you join us?</div><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
-      "pubDate": 1787642720,
-      "expiryDate": 1792826719,
-      "applicationLink": "https://himalayas.app/companies/entrata/jobs/regional-vice-president-of-sales-central-region-ic-enterprise",
-      "guid": "https://himalayas.app/companies/entrata/jobs/regional-vice-president-of-sales-central-region-ic-enterprise"
     },
     {
       "title": "Senior UI & UX / Graphic Designer",
