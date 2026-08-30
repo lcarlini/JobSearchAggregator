@@ -1,7 +1,37 @@
 {
-  "generatedAt": "2026-08-30T11:24:30.316Z",
-  "count": 249,
+  "generatedAt": "2026-08-30T16:09:08.361Z",
+  "count": 247,
   "jobs": [
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/toptal-senior-software-engineer-for-ai-powered-banking-platform",
+      "source": "weworkremotely",
+      "title": "Senior Software Engineer for AI-Powered Banking Platform",
+      "company": "Toptal",
+      "url": "https://weworkremotely.com/remote-jobs/toptal-senior-software-engineer-for-ai-powered-banking-platform",
+      "description": "Headquarters: We are seeking a Senior Software Engineer to build and scale production-grade AI-powered financial products. This is a hands-on engineering role focused on backend platform development, AI integration, and distributed systems. The ideal candidate has strong experience with TypeScript, Python, cloud-native architectures, and applying LLMs in real-world production environments. General Information Our client is a fast-growing, Series A-backed AI company delivering agentic AI solutions to banks and credit unions. Their platform is already serving over 100 financial institutions and more than 10 million end users. The Senior Software Engineer will work closely with the VP of Engineering, CTO, and CEO to design, build, and operate scalable backend services and AI-powered applicati",
+      "location": "North America Only",
+      "tags": [
+        "Full-Stack Programming",
+        "programming"
+      ],
+      "postedAt": "Wed, 12 Aug 2026 12:18:51 +0000",
+      "category": "programming"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3",
+      "source": "weworkremotely",
+      "title": "Software engineer",
+      "company": "Sticker Mule",
+      "url": "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3",
+      "description": "Headquarters: New York, NY URL: https://www.stickermule.com Sticker Mule is building the Internet's most lucrative commerce platform by combining software, manufacturing, and AI into one fully integrated stack. No print company, or pure software company for that matter, can match what we're doing. We're privately owned, profitable, and doing 9-figures in annual revenue with no meddlesome investors. &nbsp; How we work Small, autonomous teams that own products end-to-end. Prioritize what matters right now and pivot instantly when needed. Ship across web and mobile from the same codebase. We use Go, TypeScript, React, Expo, GraphQL, Postgres, and run on GCP. Use AI aggressively to push the limit of what we can do. Move fast, build for the masses, and deprioritize edge cases. Fully remote from",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "programming"
+      ],
+      "postedAt": "Thu, 14 May 2026 09:14:28 +0000",
+      "category": "programming"
+    },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/mercury-counsel-product-regulatory-payments-aml",
       "source": "weworkremotely",
@@ -345,36 +375,6 @@
         "programming"
       ],
       "postedAt": "Mon, 13 May 2024 03:14:30 +0000",
-      "category": "programming"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/superplane-product-engineer-1",
-      "source": "weworkremotely",
-      "title": "Product Engineer",
-      "company": "SuperPlane",
-      "url": "https://weworkremotely.com/remote-jobs/superplane-product-engineer-1",
-      "description": "Headquarters: USA URL: https://superplane.com We are hiring a product engineer to join SuperPlane and own meaningful projects end to end. This is a remote role. We currently work across GMT+2 to GMT-3 and welcome candidates in that range. At SuperPlane, we don't split engineering into frontend and backend. Everyone is a well-rounded builder who moves across the stack, makes product and technical calls, asks for help when needed, and delivers features from start to finish. You might spend one day building an API endpoint or workflow engine improvement, and the next day polishing a React surface that users touch every day. We're looking for someone at a mid-level to senior level: you've shipped real products, you can work independently, and you're ready to grow fast in a high-trust, high-pac",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "programming"
-      ],
-      "postedAt": "Fri, 31 Jul 2026 13:30:28 +0000",
-      "category": "programming"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/hygraph-senior-fullstack-engineer-f-m-d-berlin-i-germany-emea-i-remote",
-      "source": "weworkremotely",
-      "title": "Senior Fullstack Engineer (f/m/d) - Berlin I Germany, EMEA I Remote",
-      "company": "Hygraph",
-      "url": "https://weworkremotely.com/remote-jobs/hygraph-senior-fullstack-engineer-f-m-d-berlin-i-germany-emea-i-remote",
-      "description": "Headquarters: Dircksenstraße 47, 10178 Berlin, Germany URL: https://hygraph.com How will you make an impact? As a Senior Full Stack Engineer, you'll work at the intersection of engineering and product to shape how our users build with Hygraph. You'll ship features that solve real customer problems, contribute to our CMS core, extend our platform capabilities, and help bring AI-powered features to life. You won't wait for perfect specs or pixel-perfect designs. You'll use your judgment, collaborate closely with product managers, designers, and customers, and move fast using modern AI-assisted development tools. This role is for someone who sees engineering as a team sport, takes ownership without waiting for permission, and thrives in an environment where initiative matters more than instru",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "programming"
-      ],
-      "postedAt": "Fri, 31 Jul 2026 11:59:36 +0000",
       "category": "programming"
     },
     {
@@ -3420,36 +3420,6 @@
         "full-stack"
       ],
       "postedAt": "Wed, 12 Aug 2026 18:38:32 +0000",
-      "category": "full-stack"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/toptal-senior-software-engineer-for-ai-powered-banking-platform",
-      "source": "weworkremotely",
-      "title": "Senior Software Engineer for AI-Powered Banking Platform",
-      "company": "Toptal",
-      "url": "https://weworkremotely.com/remote-jobs/toptal-senior-software-engineer-for-ai-powered-banking-platform",
-      "description": "Headquarters: We are seeking a Senior Software Engineer to build and scale production-grade AI-powered financial products. This is a hands-on engineering role focused on backend platform development, AI integration, and distributed systems. The ideal candidate has strong experience with TypeScript, Python, cloud-native architectures, and applying LLMs in real-world production environments. General Information Our client is a fast-growing, Series A-backed AI company delivering agentic AI solutions to banks and credit unions. Their platform is already serving over 100 financial institutions and more than 10 million end users. The Senior Software Engineer will work closely with the VP of Engineering, CTO, and CEO to design, build, and operate scalable backend services and AI-powered applicati",
-      "location": "North America Only",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Wed, 12 Aug 2026 12:18:51 +0000",
-      "category": "full-stack"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3",
-      "source": "weworkremotely",
-      "title": "Software engineer",
-      "company": "Sticker Mule",
-      "url": "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3",
-      "description": "Headquarters: New York, NY URL: https://www.stickermule.com Sticker Mule is building the Internet's most lucrative commerce platform by combining software, manufacturing, and AI into one fully integrated stack. No print company, or pure software company for that matter, can match what we're doing. We're privately owned, profitable, and doing 9-figures in annual revenue with no meddlesome investors. &nbsp; How we work Small, autonomous teams that own products end-to-end. Prioritize what matters right now and pivot instantly when needed. Ship across web and mobile from the same codebase. We use Go, TypeScript, React, Expo, GraphQL, Postgres, and run on GCP. Use AI aggressively to push the limit of what we can do. Move fast, build for the masses, and deprioritize edge cases. Fully remote from",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Thu, 14 May 2026 09:14:28 +0000",
       "category": "full-stack"
     },
     {
