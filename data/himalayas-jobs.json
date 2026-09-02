@@ -1,7 +1,344 @@
 {
-  "generatedAt": "2026-09-02T10:49:00.543Z",
-  "count": 1001,
+  "generatedAt": "2026-09-02T16:06:38.145Z",
+  "count": 1000,
   "jobs": [
+    {
+      "title": "STEM Expert",
+      "excerpt": "Hardware ExpertPay: $50–$100/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired We are looking for highly skilled STEM and scientific-domain experts to contribute to an AI training project involving technical problem-solving, scientific reasoning, data analysis, and Python.",
+      "companyName": "micro1",
+      "companySlug": "micro1",
+      "companyLogo": "https://cdn-images.himalayas.app/91oa56akgt3qjqc1nh3uoruub40c",
+      "employmentType": "Contractor",
+      "minSalary": 50,
+      "maxSalary": 100,
+      "salaryPeriod": "hourly",
+      "seniority": [
+        "Mid-level"
+      ],
+      "currency": "USD",
+      "locationRestrictions": [],
+      "timezoneRestrictions": [
+        -11,
+        -10,
+        -9.5,
+        -9,
+        -8,
+        -7,
+        -6,
+        -5,
+        -4,
+        -3.5,
+        -3,
+        -2,
+        -1,
+        0,
+        1,
+        2,
+        3,
+        3.5,
+        4,
+        4.5,
+        5,
+        5.5,
+        5.75,
+        6,
+        6.5,
+        7,
+        8,
+        8.75,
+        9,
+        9.5,
+        10,
+        10.5,
+        11,
+        12,
+        12.75,
+        13,
+        14
+      ],
+      "categories": [
+        "STEM-Expert",
+        "STEM-Specialist",
+        "STEM-Consultant",
+        "STEM-Domain-Expert",
+        "STEM-Researcher",
+        "STEM-Educator",
+        "STEM-AI-Specialist",
+        "Japanese-STEM-Specialist",
+        "STEM-Advisor",
+        "STEM-Instructor"
+      ],
+      "parentCategories": [],
+      "description": "<h3>Hardware Expert</h3><p><strong>Pay:</strong> $50–$100/hour</p><p><strong>Location:</strong> Global, fully remote</p><p><strong>Job Type:</strong> Contractor (~15 hours per week)</p><p><strong>Schedule:</strong> Flexible—you choose the hours and days you work, including weekends if desired</p><p>We are looking for highly skilled <strong>STEM and scientific-domain experts</strong> to contribute to an AI training project involving technical problem-solving, scientific reasoning, data analysis, and Python.</p><p>The work involves solving, reviewing, and validating challenging problems within your area of expertise. A representative task may require analyzing a scientific or mathematical problem, developing a rigorous solution, using Python to perform calculations or simulations, and evaluating whether an AI-generated answer is technically correct.</p><p>Candidates are <strong>not expected to be experts across every STEM discipline</strong>. We are looking for deep expertise in at least one of the following areas:</p><ol>\n<li><strong>Chemistry</strong></li>\n<li><strong>Biology</strong></li>\n<li><strong>Mathematics</strong></li>\n<li><strong>Physics</strong></li>\n<li><strong>Earth Science / Geoscience / Environmental Science</strong></li>\n<li><strong>Linguistics / Computational Linguistics</strong></li>\n<li><strong>Robotics</strong></li>\n</ol><p>Adjacent scientific or quantitative disciplines may also be considered where the candidate's expertise is directly relevant.</p><h3>What You’ll Work On</h3><ol>\n<li>Solve complex scientific, mathematical, or technical problems within your domain of expertise.</li>\n<li>Review AI-generated solutions for factual, mathematical, and scientific correctness.</li>\n<li>Identify incorrect assumptions, reasoning errors, missing constraints, and subtle technical mistakes.</li>\n<li>Develop clear and reproducible reference solutions.</li>\n<li>Use <strong>Python</strong> for scientific computation, data analysis, simulations, or solution validation.</li>\n<li>Interpret equations, experimental results, datasets, technical diagrams, or scientific literature where relevant.</li>\n<li>Perform sanity checks and validate numerical or analytical results.</li>\n<li>Compare alternative solution approaches and determine whether conclusions are supported by the evidence.</li>\n<li>Clearly explain technical reasoning and corrections.</li>\n</ol><h3>Required Qualifications</h3><ol>\n<li>Strong expertise in <strong>at least one relevant STEM or scientific domain</strong>.</li>\n<li>Practical proficiency with <strong>Python</strong>.</li>\n<li>Strong scientific, mathematical, or quantitative problem-solving ability.</li>\n<li>Ability to reason carefully about assumptions, constraints, edge cases, and sources of error.</li>\n<li>Ability to explain complex technical concepts and solutions clearly.</li>\n<li>Experience validating, reviewing, or troubleshooting technical work.</li>\n</ol><p>Relevant Python tools may include <strong>NumPy, SciPy, pandas, SymPy, Jupyter</strong>, or domain-specific scientific libraries. No particular Python library is mandatory.</p><p>Expertise may come from academic research, industry, teaching, engineering, independent technical work, or other demonstrated experience. A specific degree or number of years of experience is not strictly required if you can demonstrate strong expertise in your field.</p><h3>Process</h3><ol>\n<li>Apply to the role and complete the screening questions.</li>\n<li>Complete an AI interview of approximately 30 minutes.</li>\n<li>Complete the hiring manager review.</li>\n</ol><h3>Compensation Structure</h3><p>Compensation is output-based. Experts are paid per task that meets the project specifications. The time required to complete each task may vary depending on the expert’s experience and workflow.</p><h3>Minimum submission requirements apply.</h3><h3>Start Timeline &amp; Availability</h3><p>We typically fill roles within 48 hours and are looking for experts who are ready to begin immediately. If selected, you will be expected to start your first task within 24–48 hours of completing onboarding.</p><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+      "pubDate": 1788359214,
+      "expiryDate": 1793543213,
+      "applicationLink": "https://himalayas.app/companies/micro1/jobs/stem-expert-40695367",
+      "guid": "https://himalayas.app/companies/micro1/jobs/stem-expert-40695367"
+    },
+    {
+      "title": "Adolescent/Child Safeguarding & Exploitation Specialist",
+      "excerpt": "Role Title: Adolescent/Child Safeguarding & Exploitation Specialist Role Type: ContractorLocation: Remotemicro1 is engaging Adolescent/Child Safeguarding & Exploitation Specialists to contribute to a customer's project focused on assessing sexual safety and exploitation risk in adolescent scenarios.",
+      "companyName": "micro1",
+      "companySlug": "micro1",
+      "companyLogo": "https://cdn-images.himalayas.app/91oa56akgt3qjqc1nh3uoruub40c",
+      "employmentType": "Contractor",
+      "minSalary": 45,
+      "maxSalary": 95,
+      "salaryPeriod": "hourly",
+      "seniority": [
+        "Mid-level",
+        "Senior"
+      ],
+      "currency": "USD",
+      "locationRestrictions": [],
+      "timezoneRestrictions": [
+        -11,
+        -10,
+        -9.5,
+        -9,
+        -8,
+        -7,
+        -6,
+        -5,
+        -4,
+        -3.5,
+        -3,
+        -2,
+        -1,
+        0,
+        1,
+        2,
+        3,
+        3.5,
+        4,
+        4.5,
+        5,
+        5.5,
+        5.75,
+        6,
+        6.5,
+        7,
+        8,
+        8.75,
+        9,
+        9.5,
+        10,
+        10.5,
+        11,
+        12,
+        12.75,
+        13,
+        14
+      ],
+      "categories": [
+        "Safeguarding-Specialist",
+        "Safeguarding-Assessment-Specialist",
+        "Child-Protection-Specialist",
+        "Safeguarding-Advisor",
+        "Child-Protection-Consultant",
+        "Child-Protection-Advisor",
+        "Child-Welfare-Specialist",
+        "Child-Protection-and-Safeguarding"
+      ],
+      "parentCategories": [],
+      "description": "<p>Role Title: Adolescent/Child Safeguarding &amp; Exploitation Specialist</p><h3>Role Type: Contractor</h3><h3>Location: Remote</h3><p><a href=\"https://himalayas.app/companies/micro1\">micro1</a> is engaging Adolescent/Child Safeguarding &amp; Exploitation Specialists to contribute to a customer's project focused on assessing sexual safety and exploitation risk in adolescent scenarios. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.</p><h3>Scope of Work</h3><ol>\n<li>Review complex adolescent cases to assess sexual safety and exploitation (CSE/CSA) risks.</li>\n<li>Produce clear, defensible written safeguarding guidance suitable for non-specialists.</li>\n<li>Apply recognised risk-assessment and safeguarding frameworks to evaluate urgency and appropriate interventions.</li>\n<li>Identify indicators of grooming, coercion, and exploitation within nuanced case details.</li>\n<li>Recommend protective actions and escalation pathways, including when mandatory reporting is warranted.</li>\n<li>Utilise a trauma-informed lens, weighing developmental, capacity, and consent factors in each assessment.</li>\n<li>Benchmark your clinical judgments against peer standards and established protocols to ensure guidance accuracy and reliability.</li>\n</ol><h3>Preferred Qualifications</h3><ol>\n<li>3–5+ years post-qualification experience in child safeguarding, adolescent-protection, or relevant clinical roles.</li>\n<li>Specialty background in child protection, forensic child/adolescent psychiatry or psychology, or paediatric medicine with a safeguarding remit.</li>\n<li>Active clinical license or registration in good standing.</li>\n<li>Current or recent (within the last two years) adolescent caseload or safeguarding practice.</li>\n<li>Demonstrated expertise in CSE/CSA risk assessment and mandatory-reporting requirements.</li>\n<li>Strong skills in trauma-informed practice and documentation.</li>\n<li>Exceptional written communication in research-grade English (native, or IELTS 7.5+/writing 7.0+, TOEFL 100+, Cambridge C1–C2, or equivalent).</li>\n<li>Experience in a designated safeguarding or expert-witness capacity, and familiarity with ACEs and trauma frameworks, is a plus.</li>\n</ol><h3>Start Timeline &amp; Availability</h3><p>We typically fill roles within 48 hours and are looking for experts ready to jump in right away. If selected, we expect you to start your first tasks within 24 – 48 hours of completing onboarding.</p><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+      "pubDate": 1788351104,
+      "expiryDate": 1793535104,
+      "applicationLink": "https://himalayas.app/companies/micro1/jobs/adolescent-child-safeguarding-exploitation-specialist",
+      "guid": "https://himalayas.app/companies/micro1/jobs/adolescent-child-safeguarding-exploitation-specialist"
+    },
+    {
+      "title": "Member of Legal Staff, Corporate Counsel",
+      "excerpt": "Job Title: Member of Legal Staff, Corporate Counsel Job Type: Full-time Location: Remote (opportunity to work from SF office) The RoleWe are looking for a corporate counsel who combines strong transactional execution with a genuine interest in AI and legal operations.",
+      "companyName": "micro1",
+      "companySlug": "micro1",
+      "companyLogo": "https://cdn-images.himalayas.app/91oa56akgt3qjqc1nh3uoruub40c",
+      "employmentType": "Full Time",
+      "minSalary": 225000,
+      "maxSalary": 275000,
+      "salaryPeriod": "annual",
+      "seniority": [
+        "Mid-level",
+        "Senior"
+      ],
+      "currency": "USD",
+      "locationRestrictions": [
+        "United States"
+      ],
+      "timezoneRestrictions": [
+        -10,
+        -9,
+        -8,
+        -7,
+        -6,
+        -5,
+        14
+      ],
+      "categories": [
+        "Corporate-Legal-Counsel",
+        "Corporate-Counsel",
+        "Associate-Corporate-Counsel",
+        "Senior-Corporate-Counsel",
+        "Staff-Lawyer",
+        "Executive-Legal-Counsel",
+        "Associate-Legal-Counsel",
+        "Staff-Counsel",
+        "General-Legal-Counsel",
+        "Corporate-Counsel-Jobs",
+        "Legal"
+      ],
+      "parentCategories": [
+        "Legal"
+      ],
+      "description": "<p><strong>Job Title: </strong>Member of Legal Staff, Corporate Counsel</p><p><strong>Job Type:</strong> Full-time</p><p><strong>Location</strong>: Remote (opportunity to work from SF office)</p><h3>The Role</h3><p>We are looking for a corporate counsel who combines strong transactional execution with a genuine interest in AI and legal operations. The ideal candidate is an experienced corporate counsel with foundational training at a law firm and hands-on experience with venture financings, corporate governance, equity administration, and transaction closings.</p><p>This person will own the details that keep corporate matters moving, from drafting and signatures through filings, records, and closing organization. They will also help build AI-enabled workflows, self-service tools, and automations to reduce manual work, improve response times, and allow the legal team to focus on higher-value matters.</p><h3>What You’ll Do</h3><ol>\n<li>Support venture financings, secondary transactions, board and stockholder approvals, and other corporate matters, including drafting documents and coordinating with outside counsel.</li>\n<li>Own transaction execution from signatures, checklists, and document circulation through closing sets and post-closing matters.</li>\n<li>Maintain the company’s master data room and ensure corporate records remain accurate, organized, and current.</li>\n<li>Manage corporate governance and entity administration, including state filings, annual reports, minute books, organizational documents, and subsidiary records.</li>\n<li>Administer cap tables, equity plans, and equity grants, including grants, exercises, transfers, cancellations, and reconciliation of equity records.</li>\n<li>Independently draft and manage routine corporate and legal documents, exercising judgment around when to escalate or involve outside counsel.</li>\n<li>Design AI-enabled legal intake and triage workflows, particularly for a highly asynchronous and Slack-driven environment.</li>\n<li>Build self-service tools, templates, playbooks, and automation for recurring legal processes such as NDAs, approvals, and signature requests.</li>\n<li>Identify repetitive legal work and develop systems that make the legal function faster, more accurate, and more scalable.</li>\n</ol><h3>What We’re Looking For</h3><ol>\n<li>Significant experience supporting venture capital financings, M&amp;A, or similar corporate transactions, with strong knowledge of transaction documents, approvals, and closing processes.</li>\n<li>Strong experience with corporate governance, entity management, state filings, cap tables, and equity administration.</li>\n<li>Exceptional organization and attention to detail, with the ability to independently drive matters from start to finish.</li>\n<li>Strong drafting, proofreading, project management, and communication skills.</li>\n<li>Genuine interest in AI, legal technology, workflow design, and automation.</li>\n<li>Strong judgment and the ability to identify issues that require escalation or outside counsel.</li>\n<li>A hands-on, collaborative approach and willingness to work across both legal and operational responsibilities.</li>\n<li>Comfort operating autonomously in a fast-paced, highly asynchronous environment.</li>\n</ol><h3>Nice to Have</h3><ol>\n<li>JD + 3 years of corporate counsel experience supporting venture transactions across law firm and in-house environments.</li>\n<li>Experience supporting venture-backed or high-growth technology companies.</li>\n<li>Hands-on experience building workflows with AI tools, automation platforms, Slack integrations, or contract management systems.</li>\n<li>Experience improving or scaling legal processes through technology and automation.</li>\n</ol><h3>Compensation &amp; Benefits Notice</h3><p>The national pay range for this full-time position is base salary of $150,000 –$180,000. All employees are eligible for equity compensation, and employees may also receive performance-based bonuses, dependent on role and subject to company policies. <a href=\"https://himalayas.app/companies/micro1\">micro1</a> provides a comprehensive benefits package, including up to 100% reimbursement for health-insurance premiums, paid time off, a 401(K) plan with a company match, and additional benefits designed to support a high-performing, remote-first workforce.</p><p><a href=\"https://himalayas.app/companies/micro1\">micro1</a> is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex (including pregnancy, sexual orientation, or gender identity), national origin, age, disability, genetic information, veteran status, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation during the application process, reach out to .</p><p>Our hiring process utilizes artificial intelligence tools to assist in candidate screening and assessment. Our AI tools are designed to complement, not replace, human decision-making.</p><h3>Disclaimer</h3><p>The information contained in this job posting, including but not limited to role responsibilities, qualifications, compensation, and benefits, is provided for informational purposes only and does not constitute a binding offer of employment. <a href=\"https://himalayas.app/companies/micro1\">micro1</a> reserves the right to amend, modify, or withdraw any portion of this posting at its sole discretion and without prior notice. All employment decisions are made in accordance with applicable laws and regulations.</p><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+      "pubDate": 1788346378,
+      "expiryDate": 1793530378,
+      "applicationLink": "https://himalayas.app/companies/micro1/jobs/member-of-legal-staff-corporate-counsel",
+      "guid": "https://himalayas.app/companies/micro1/jobs/member-of-legal-staff-corporate-counsel"
+    },
+    {
+      "title": "Portuguese-Speaking Remote Sales Development Representative (SDR)",
+      "excerpt": "Portuguese-Speaking Remote Sales Development Representative (SDR) Start Date: October 2, 2026 Schedule: Part-time, 20 hours per week (Monday to Friday) Compensation: 15 Euros/hour + performance-based incentives Work Location: Fully Remote About the Role TalentWorldGroup is a people-first, multilingual contact center redefining remote work globally.",
+      "companyName": "TalentWorldGroup",
+      "companySlug": "talentworldgroup",
+      "companyLogo": "https://cdn-images.himalayas.app/4g7ltzhf2xcfr7rfdomb54o5g7a6",
+      "employmentType": "Full Time",
+      "minSalary": 15,
+      "maxSalary": 15,
+      "salaryPeriod": "hourly",
+      "seniority": [
+        "Mid-level"
+      ],
+      "currency": "EUR",
+      "locationRestrictions": [
+        "Portugal"
+      ],
+      "timezoneRestrictions": [
+        -11,
+        -10,
+        -9.5,
+        -9,
+        -8,
+        -7,
+        -6,
+        -5,
+        -4,
+        -3.5,
+        -3,
+        -2,
+        -1,
+        0,
+        1,
+        2,
+        3,
+        3.5,
+        4,
+        4.5,
+        5,
+        5.5,
+        5.75,
+        6,
+        6.5,
+        7,
+        8,
+        8.75,
+        9,
+        9.5,
+        10,
+        10.5,
+        11,
+        12,
+        12.75,
+        13,
+        14
+      ],
+      "categories": [
+        "Portuguese-Speaking-Sales-Development-Representative",
+        "Remote-Sales-Development-Representative",
+        "Bilingual-Sales-Development-Representative",
+        "Sales-Development-Representative",
+        "Sales-Development"
+      ],
+      "parentCategories": [
+        "Sales"
+      ],
+      "description": "<p>Portuguese-Speaking Remote Sales Development Representative (SDR)</p><p><strong>Start Date:</strong> October 2, 2026<br><strong>Schedule</strong>: Part-time, 20 hours per week (Monday to Friday)<br><strong>Compensation:</strong> 15 Euros/hour + performance-based incentives<br><strong>Work Location:</strong> Fully Remote</p><p><strong>About the Role</strong></p><p><strong>TalentWorldGroup</strong> is a people-first, multilingual contact center redefining remote work globally. We are currently hiring a Portuguese-speaking (Portugal) <strong>Sales Development Representative</strong> to support a client who is a leading player in the <strong>vacation rental industry.</strong></p><p>This is a pre-sales position, focused on outbound calling and lead qualification, not deal closing. You will engage with property owners, assess their interest, and pass qualified leads to the Sales Managers.</p><p><strong>Your Responsibilities</strong></p><ul class=\"list-disc list-outside leading-3 -mt-2\">\n<li class=\"leading-normal -mb-2\"><p>Make outbound calls to vacation rental homeowners to introduce the client</p></li>\n<li class=\"leading-normal -mb-2\"><p>Assess homeowner interest and prequalify leads based on defined criteria</p></li>\n<li class=\"leading-normal -mb-2\"><p>Build rapport and address initial questions or objections</p></li>\n<li class=\"leading-normal -mb-2\"><p>Transfer qualified leads to Sales Managers for follow-up and conversion</p></li>\n<li class=\"leading-normal -mb-2\"><p>Maintain and update lead information in the CRM system</p></li>\n<li class=\"leading-normal -mb-2\"><p>Manage call follow-ups and lead handovers efficiently</p></li>\n<li class=\"leading-normal -mb-2\"><p>Participate in monthly KPI reviews and performance discussions</p></li>\n</ul><p><strong>What You Bring</strong></p><ul class=\"list-disc list-outside leading-3 -mt-2\">\n<li class=\"leading-normal -mb-2\"><p>Professional Portuguese (C2) with strong English communication skills</p></li>\n<li class=\"leading-normal -mb-2\"><p>Previous experience in cold calling, outbound sales, or lead generation for at least three years in Portugal</p></li>\n<li class=\"leading-normal -mb-2\"><p>Confidence handling objections and engaging prospects by phone</p></li>\n<li class=\"leading-normal -mb-2\"><p>Comfortable working with CRMs and lead databases</p></li>\n<li class=\"leading-normal -mb-2\"><p>Goal-oriented, self-motivated, and well-organized</p></li>\n</ul><p><strong>Working Hours</strong> (Portugal Time – PT)&nbsp;</p><ul class=\"list-disc list-outside leading-3 -mt-2\">\n<li class=\"leading-normal -mb-2\"><p>Monday: 11:30 – 14:30</p></li>\n<li class=\"leading-normal -mb-2\"><p>Tuesday: 15:00 – 19:00</p></li>\n<li class=\"leading-normal -mb-2\"><p>Wednesday: 11:30 – 14:30 &amp; 15:00 – 18:00</p></li>\n<li class=\"leading-normal -mb-2\"><p>Thursday: 15:00 – 19:00</p></li>\n<li class=\"leading-normal -mb-2\"><p>Friday: 11:30 – 14:30</p></li>\n</ul><p>Total: 20 hours per week﻿</p><p><strong>Technical Setup Required</strong></p><ul class=\"list-disc list-outside leading-3 -mt-2\">\n<li class=\"leading-normal -mb-2\"><p>Stable broadband internet connection (LAN preferred)</p></li>\n<li class=\"leading-normal -mb-2\"><p>Processor: 1.8 GHz or higher (64-bit preferred)</p></li>\n<li class=\"leading-normal -mb-2\"><p>RAM: 8 GB minimum</p></li>\n<li class=\"leading-normal -mb-2\"><p>Storage: 10 GB available</p></li>\n<li class=\"leading-normal -mb-2\"><p>Screen resolution: 1920 × 1080 (recommended)</p></li>\n<li class=\"leading-normal -mb-2\"><p>Wired USB headset</p></li>\n<li class=\"leading-normal -mb-2\"><p>Operating System: Windows 11 or later or ﻿MacOS 13+<br>﻿</p></li>\n</ul><p><strong>What We Offer</strong></p><ul class=\"list-disc list-outside leading-3 -mt-2\">\n<li class=\"leading-normal -mb-2\"><p>Competitive hourly rate plus performance incentives</p></li>\n<li class=\"leading-normal -mb-2\"><p>Fully remote, long-term collaboration</p></li>\n<li class=\"leading-normal -mb-2\"><p>Freelance cooperation agreement</p></li>\n<li class=\"leading-normal -mb-2\"><p>Structured onboarding and ongoing support</p></li>\n<li class=\"leading-normal -mb-2\"><p>Access to additional projects within our global talent pool</p></li>\n<li class=\"leading-normal -mb-2\"><p>Career development and growth opportunities</p></li>\n<li class=\"leading-normal -mb-2\"><p>Gamification programs and performance rewards</p></li>\n</ul><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+      "pubDate": 1788344310,
+      "expiryDate": 1790935267,
+      "applicationLink": "https://himalayas.app/companies/talentworldgroup/jobs/portuguese-speaking-remote-sales-development-representative-sdr",
+      "guid": "https://himalayas.app/companies/talentworldgroup/jobs/portuguese-speaking-remote-sales-development-representative-sdr"
+    },
+    {
+      "title": "Physics Expert (Biophysics / Statistical Physics)",
+      "excerpt": "Role Title: Physics Expert (Biophysics / Statistical Physics) Role Type: Contractor Location: Remote micro1 is engaging Physics Experts (Biophysics / Statistical Physics) to contribute to a research-level project focused on modeling bacterial population growth, stochastic two-state growth-rate switching, cell-size regulation noise, and asymptotic population growth rate.",
+      "companyName": "micro1",
+      "companySlug": "micro1",
+      "companyLogo": "https://cdn-images.himalayas.app/91oa56akgt3qjqc1nh3uoruub40c",
+      "employmentType": "Contractor",
+      "minSalary": 80,
+      "maxSalary": 160,
+      "salaryPeriod": "hourly",
+      "seniority": [
+        "Mid-level"
+      ],
+      "currency": "USD",
+      "locationRestrictions": [],
+      "timezoneRestrictions": [
+        -11,
+        -10,
+        -9.5,
+        -9,
+        -8,
+        -7,
+        -6,
+        -5,
+        -4,
+        -3.5,
+        -3,
+        -2,
+        -1,
+        0,
+        1,
+        2,
+        3,
+        3.5,
+        4,
+        4.5,
+        5,
+        5.5,
+        5.75,
+        6,
+        6.5,
+        7,
+        8,
+        8.75,
+        9,
+        9.5,
+        10,
+        10.5,
+        11,
+        12,
+        12.75,
+        13,
+        14
+      ],
+      "categories": [
+        "Biophysics-Researcher",
+        "Research-Physics-Expert",
+        "Physics-Expert",
+        "Physics-Specialist",
+        "Physics-Consultant",
+        "Research-Physics-Specialist",
+        "Biopharmaceutical-Physicist",
+        "Physics-Research-Consultant"
+      ],
+      "parentCategories": [],
+      "description": "<p><strong>Role Title:</strong> Physics Expert (Biophysics / Statistical Physics)</p><p><strong>Role Type: </strong>Contractor</p><p><strong>Location:</strong> Remote</p><p><a href=\"https://himalayas.app/companies/micro1\">micro1</a> is engaging Physics Experts (Biophysics / Statistical Physics) to contribute to a research-level project focused on modeling bacterial population growth, stochastic two-state growth-rate switching, cell-size regulation noise, and asymptotic population growth rate. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. </p><p>No prior experience in AI is required — your domain knowledge is what matters. Participants may be considered for one or more assignments, including Solver, Auditor, or Adjudicator, based on subfield specialization, seniority, and hands-on experience with the relevant methods.</p><h3>Scope of Work</h3><ol>\n<li>Analyze and model stochastic two-state Markov processes with gamma-distributed waiting times in the context of bacterial population dynamics.</li>\n<li>Apply the Euler-Lotka equation to assess and benchmark asymptotic population growth rates under varying noise regimes.</li>\n<li>Develop or review analytical approaches using perturbative expansions in small division-noise variance and validate resulting predictions.</li>\n<li>Integrate renewal theory and first-passage-time analysis to derive key insights on population growth and cell-size regulation noise.</li>\n<li>Document detailed methodological steps, assumptions, and findings clearly for AI training and reproducibility purposes.</li>\n</ol><h3>Preferred Qualifications</h3><ol>\n<li>Advanced expertise in statistical physics, biophysics, or related quantitative biological modeling of stochastic processes.</li>\n<li>Proven experience working with two-state Markov models and gamma-distributed waiting times in biological or physical systems.</li>\n<li>Strong command of the Euler-Lotka equation, perturbative expansions, and renewal theory in the context of population or growth dynamics.</li>\n<li>Demonstrated ability to conduct first-passage-time analysis and interpret implications for growth-rate fluctuations and size control.</li>\n</ol><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+      "pubDate": 1788344076,
+      "expiryDate": 1793528076,
+      "applicationLink": "https://himalayas.app/companies/micro1/jobs/physics-expert-biophysics-statistical-physics-2951379076",
+      "guid": "https://himalayas.app/companies/micro1/jobs/physics-expert-biophysics-statistical-physics-2951379076"
+    },
     {
       "title": "Physics Expert (Statistical Physics / Quantum Information / Condensed Matter)",
       "excerpt": "Role Title: Physics Expert (Statistical Physics / Quantum Information / Condensed Matter) Role Type: Contractor Location: Remote micro1 is engaging Physics Experts (Statistical Physics / Quantum Information / Condensed Matter) to contribute to a research-driven customer project at the intersection of theoretical physics and numerical benchmarking.",
@@ -5651,10 +5988,21 @@
         "Manager"
       ],
       "currency": null,
-      "locationRestrictions": [],
-      "timezoneRestrictions": [],
-      "categories": null,
-      "parentCategories": [],
+      "locationRestrictions": [
+        "Pakistan"
+      ],
+      "timezoneRestrictions": [
+        5
+      ],
+      "categories": [
+        "Creator-Partnerships-Manager",
+        "Creator-Partnership-Manager",
+        "Creator-Acquisition",
+        "Sales"
+      ],
+      "parentCategories": [
+        "Sales"
+      ],
       "description": "<h3><strong>About Swipehouse</strong></h3><p>Swipehouse is a performance-driven creator platform built by <a href=\"https://himalayas.app/companies/hamster-garage\">Hamster Garage</a> - the affiliate agency behind programs for Uber, MasterClass, Xero, Reddit, and more. We connect social media creators with brand affiliate programs on a pure performance basis: creators get paid when they drive sales, and brands only pay for results. We currently run 15+ active brand programs across categories including travel, education, food, beauty, and SaaS. We're growing fast and we need a people-first team member to own the creator side of the business.</p><h3><strong>The Role</strong></h3><p>This is a 100% creator-facing role. Your job is to recruit, activate, and manage creators across Swipehouse's brand programs - making sure they have everything they need to start earning and keep creating. You'll be the main point of contact for creators on the platform: approving applications, reviewing content, answering questions, solving problems, and building relationships.</p><p>This role is not a sideline or a small part of a bigger job. It is the job. You'll be managing creators across multiple brand programs simultaneously, each with its own commission structure, content guidelines, and requirements. Strong organisation and the ability to context-switch quickly are essential.</p><h3><strong>What You'll Do</strong></h3><h3>Creator Recruitment &amp; Activation</h3><ul>\n<li><p>Review and approve creator applications across all active brand programs - evaluating content quality, follower count, platform presence, niche fit, and brand safety.</p></li>\n<li><p>Reach out to approved creators to get them activated - meaning they create their affiliate link and start posting content.</p></li>\n<li><p>Follow up with creators who have applied but not yet started, identifying what's blocking them and removing those blockers.</p></li>\n<li><p>Send targeted outreach to shortlisted creators for specific campaigns, especially flat fee + commission activations.</p></li>\n</ul><h3>Video Review &amp; Content Compliance</h3><p>For managed brand programs, creators must submit videos for review before they can post. You'll own this process end-to-end:</p><ul>\n<li><p>Conditionally approve creators and request a video submission via in-app messaging.</p></li>\n<li><p>Review submitted videos against brand-specific compliance checklists - checking CTAs, affiliate link placement, language guidelines, logo usage, disclosure requirements, and tone.</p></li>\n<li><p>Provide clear, specific feedback to creators when videos need revisions - keeping the conversation warm and helpful, not bureaucratic.</p></li>\n<li><p>Once the video passes review, fully approve the creator so their affiliate link activates.</p></li>\n<li><p>For brands that require it - share the approved video with the brand team for final sign-off and relay any feedback back to the creator.</p></li>\n</ul><h3>Creator Relationship Management</h3><ul>\n<li><p>Be the day-to-day contact for creators on the platform - reply to every message. Answer questions about programs, commissions, content guidelines, and payment in a tone that feels like a real person, not a script.</p></li>\n<li><p>Manage the creator email inbox - review AI-drafted replies, edit where needed, and send. Flag anything that needs human judgment or escalation.</p></li>\n<li><p>Coordinate bonus payments and any brand-specific requirements with internal teams.</p></li>\n<li><p>Flag creators who are strong performers so they can be prioritised for campaigns and higher commissions.</p></li>\n</ul><h3>Brand Program Support</h3><ul>\n<li><p>Manage creator pipelines across all active programs simultaneously - tracking who's applied, who's approved, who's posted, and who's converting.</p></li>\n<li><p>Coordinate with brand account managers to relay creator feedback, flag compliance issues, and share performance updates.</p></li>\n<li><p>Support campaign launches - messaging the right creators at the right time with the right brief.</p></li>\n<li><p>Help build out creator notes, messaging templates, and SOPs as programs scale.</p></li>\n</ul><h3>Operations &amp; Reporting</h3><ul>\n<li><p>Maintain creator tracking sheets/folers and dashboards - keeping records clean and up to date across all active programs.</p></li>\n<li><p>Flag patterns: creators who are stuck, programs that are underperforming, messaging that isn't converting.</p></li>\n<li><p>Eventually take on discrete ownership of entire brand programs as you ramp up.</p></li>\n</ul><h3><strong>Who We're Looking For</strong></h3><p>You don't need to have done this exact job before. You do need to be the kind of person who genuinely enjoys talking to people, takes ownership without being asked, and gets things done without a lot of hand-holding.</p><h3>Must-haves</h3><ul>\n<li><p>Recent college graduate or early-career professional with a degree in marketing, communications, business, or a related field.</p></li>\n<li><p>Outgoing, warm, and naturally good at building rapport - you should enjoy talking to creators, not find it draining.</p></li>\n<li><p>Excellent written communication in English - specifically in a casual, human, warm tone. You will be tested on this. Formal or scripted writing is a disqualifier.</p></li>\n<li><p>Highly organised - you'll be managing creator conversations across brand programs simultaneously, each with different rules and requirements.</p></li>\n<li><p>Comfortable working US-aligned hours since our creators are primarily US-based.</p></li>\n<li><p>Comfortable with ambiguity and building processes from scratch - this is an early-stage startup.</p></li>\n<li><p>Self-starter who doesn't need to be managed closely.</p></li>\n<li><p>Familiarity with social media platforms (TikTok, Instagram, YouTube) and how creators and influencers operate on them.</p></li>\n</ul><h3>Nice-to-haves</h3><ul>\n<li><p>Experience with affiliate marketing, influencer management, or creator economy platforms.</p></li>\n<li><p>Experience reviewing or evaluating social media content for brand fit, compliance, or quality.</p></li>\n<li><p>Familiarity with tools like Impact, Google Sheets, Slack, or similar.</p></li>\n<li><h3>Comfortable working alongside AI tools.</h3></li>\n</ul><h3><strong>What Success Looks Like</strong></h3><h3>In your first 20 days:</h3><ul>\n<li><p>You know the platform inside out - how creators apply, how links are generated, how commissions work, how video review works.</p></li>\n<li><p>You're responding to all creator messages within 24 hours across all active brand programs.</p></li>\n<li><p>You've helped activate at least 10 creators who were previously approved but hadn't started.</p></li>\n<li><p>Your messages to creators feel natural and human - not scripted.</p></li>\n</ul><h3>In your first 40 days:</h3><ul>\n<li><p>You own the creator pipeline for at least two brand programs end-to-end - from application review to video compliance to activation.</p></li>\n<li><p>You've contributed to the launch of a new brand program - onboarding and activating the first cohort of creators.</p></li>\n<li><p>You've built or improved at least one internal process or template that makes the team faster.</p></li>\n<li><p>The creator email inbox is consistently at or near zero.</p></li>\n</ul><h3><strong>What You'll Get</strong></h3><ul>\n<li><p>A front-row seat to building a creator commerce platform from the ground up.</p></li>\n<li><p>Opportunity to work with some of the biggest brands.</p></li>\n<li><p>Real ownership - your work directly impacts creator activation rates and brand revenue.</p></li>\n<li><p>A chance to grow into a senior role as the company scales. If this works, we hire more people under you.</p></li>\n<li><h3>Remote, flexible working environment.</h3></li>\n</ul><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
       "pubDate": 1788320817,
       "expiryDate": 1793504816,
@@ -5676,9 +6024,29 @@
         "Director"
       ],
       "currency": null,
-      "locationRestrictions": [],
-      "timezoneRestrictions": [],
-      "categories": null,
+      "locationRestrictions": [
+        "United States"
+      ],
+      "timezoneRestrictions": [
+        -10,
+        -9,
+        -8,
+        -7,
+        -6,
+        -5,
+        14
+      ],
+      "categories": [
+        "AI-Entrepreneur",
+        "AI-Entrepreneurship",
+        "Applied-AI-Entrepreneurship",
+        "AI-Researcher",
+        "AI-Research-Lab-Founder",
+        "AI-Startup-Founder",
+        "AI-Research-Scientist",
+        "AI-Research-Lab-Co-Founder",
+        "Research-AI-Scientist"
+      ],
       "parentCategories": [],
       "description": "<p>Join a small, fast-moving team where you’ll explore, invent, and discover.<br>We’re training foundational models for financial applications on unique, multimodal datasets. </p><h3>What you’ll do</h3><ul>\n<li>Formulate and pursue original research agendas (reasoning, tool connectivity, robustness, alignment, data/compute efficiency).<br>-Follow Ideas to PoC to MVP to training to validation, owning all steps of the process with deep collaboration with Research Engineers (see other open role).<br>-Build rigorous evaluation suites through simulated environments and real time evaluation.<br>-Prototype fast with real data; partner with Research Engineers to take promising ideas to production. </li>\n</ul><h3>You might be a fit if you</h3><ul>\n<li>Are a self-starter who thrives on coding autonomy and project collaboration within small-team, high velocity environments.<br>-Have strong ML research chops (theory and practice), and write clean, reproducible code (e.g. PyTorch/JAX).<br>-Think in systems: data quality, scaling laws, evaluation, and deployment constraints - not just model internals.<br>-Prefer clear principles, low ego and prefer collaboration over titles and politics. Helpful backgrounds (any of the following) </li>\n<li>Frontier labs experience (e.g., Anthropic, OpenAI, DeepMind); or </li>\n<li>Novel discovery through published work (NeurIPS/ICML/ICLR); or</li>\n<li>Led research in an applied setting (startups, open-source, or products at scale); or</li>\n<li>Standout independent achievement (notable OSS, benchmarks, or widely used methods).</li>\n</ul><h3>Research areas we’re excited about</h3><ul>\n<li>Efficient training (HRM, distillation, sparse/MoE, FSDP, etc.).<br>-Reasoning and tool use (automated trading and agentic interaction with data sources).<br>-Multimodal Inputs and Outputs (multiple forms of text and time-series both in and out).</li>\n</ul><h3>What we offer</h3><ul>\n<li>A well-funded trading firm expanding into AI research - your ideas set direction and standards.<br>-Real ownership from hypothesis to deployment.<br>-Competitive base with meaningful upside tied to research impact.<br>-A culture optimized for deep work, fast learning, and doing the right thing. </li>\n</ul><h3>If this sounds like you, apply.</h3><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
       "pubDate": 1788320776,
@@ -5790,10 +6158,26 @@
         "Manager"
       ],
       "currency": null,
-      "locationRestrictions": [],
-      "timezoneRestrictions": [],
-      "categories": null,
-      "parentCategories": [],
+      "locationRestrictions": [
+        "Ireland",
+        "Portugal",
+        "Spain",
+        "United Kingdom"
+      ],
+      "timezoneRestrictions": [
+        -1,
+        0,
+        1
+      ],
+      "categories": [
+        "People-Partner",
+        "HR-Technology-Partner",
+        "HR-Technology-Leadership",
+        "Human-Resources"
+      ],
+      "parentCategories": [
+        "Human Resources"
+      ],
       "description": "<div><img></div><p><strong>Join our growing People team! We're hiring a Lead People Partner to own the people agenda for our Technology organisation as <a href=\"https://himalayas.app/companies/m-kopa\">M-KOPA</a> scales the infrastructure behind financial inclusion for everyday earners across Africa.</strong></p><div><img></div><p><strong>The Impact</strong> 🌍</p><p>Your leadership will directly shape how we build, retain and grow the engineering talent powering our mission. We've now reached 10 million customers and unlocked $2+ billion in credit across five African markets. This role sits right at the centre of the machine that makes that growth possible.</p><div><img></div><h3>The Opportunity</h3><p>💚 <strong>Mission-driven HR</strong>: Partner directly with our CTO and their leadership team across Engineering, Data, Analytics, IT and Security — work that translates straight into digital and financial access for everyday earners</p><p>🏆 <strong>Global recognition</strong>: Join a company named by TIME 100 as one of the world's most influential, and by the Financial Times as Africa's fastest-growing company for <strong>5 consecutive years (2022–2026)</strong></p><p>🚀 <strong>Scale challenges</strong>: Design the org structure for a globally distributed, senior engineering population spread across Africa, Europe and the UK — scaling and reshaping at the same time</p><p>🌱 <strong>Environmental impact</strong>: Work for a carbon-negative company that has displaced over 2 million tonnes of CO₂ emissions</p><h3>What You'll Do </h3><p>You'll act as trusted advisor to our engineering, data and platform leaders, aligning people strategy to roadmap execution and organisational evolution. You'll hold overall accountability for people partnering across the full Technology and Product organisation, with one Senior People Partner reporting to you covering Product and adjacent functions. Your own focus is Engineering: a globally distributed, senior population where genuine fluency in how engineering organisations are built, levelled and retained matters far more than adjacency to them.</p><h3>Day to day, you'll:</h3><ul>\n<li><p><strong>Lead org design</strong>: workforce planning, levelling and team transformation in a function scaling and reshaping simultaneously</p></li>\n<li><p><strong>Own Engineering and Product end to end</strong>: full accountability for people partnering across both, with a Senior People Partner reporting to you</p></li>\n<li><p><strong>Lead and grow a partner</strong>: coach, develop and set direction for your direct report, building the partnering standard for the whole technology portfolio</p></li>\n<li><p><strong>Use people analytics to inform action</strong>: partner with Centres of Excellence to turn data into decisions on capability, attrition and cost</p></li>\n<li><p><strong>Drive distributed team effectiveness</strong>: optimise performance, engagement and team dynamics in a fast-paced, asynchronous, multi-country environment</p></li>\n<li><p><strong>Handle complex employee relations</strong>: own the senior and sensitive end of the ER caseload for your portfolio</p></li>\n</ul><p><strong>Your Environment</strong> 💻</p><ul>\n<li><p><strong>Reporting line</strong>: People Director, alongside a peer group of senior partners covering our operating markets</p></li>\n<li><p><strong>Client group</strong>: CTO and their leadership team across Engineering, Data, Analytics, IT and Security, plus accountability for Product via your direct report</p></li>\n<li><p><strong>Team</strong>: one Senior People Partner reporting to you</p></li>\n<li><p><strong>Population</strong>: globally distributed, senior engineering talent, majority based across Africa, Europe and the UK</p></li>\n</ul><p><strong>Our Approach</strong> 🚀</p><ul>\n<li><p>We scale and reshape our engineering function at the same time, so org design here is a live, ongoing discipline, not a one-off project</p></li>\n<li><p>We hold both a portfolio and a team in this role, which is unusual even within our own People function</p></li>\n<li><p>We lean on Centres of Excellence for data and specialist ER support, freeing you to focus on judgement and stakeholder relationships</p></li>\n<li><p>We expect direct engagement with C-level leaders, with genuine autonomy attached</p></li>\n</ul><h3>What You Need</h3><p>We're looking for someone who has partnered closely with engineering, data or platform leadership in a scaling technology or fintech business, and genuinely understands how those functions work.</p><h3>Required Experience:</h3><ul>\n<li><p>Senior HR experience partnering with engineering organisations in a scaling technology or fintech business</p></li>\n<li><p>Experience leading or formally coaching HR business partners, with the ability to raise the standard of someone else's work</p></li>\n<li><p>Proven org design depth: you've led real structural change (levelling, spans and layers, function redesign), not just supported it</p></li>\n<li><p>Strategic and operational range: equally comfortable designing long-term org strategy and working at team level</p></li>\n<li><p>Remote and global savvy: experience supporting cross-cultural teams across multiple regions</p></li>\n<li><p>Strong business acumen: able to translate between people priorities and business outcomes at leadership level</p></li>\n<li><p>Comfortable operating with autonomy at C-level</p></li>\n<li><p>Employee relations judgement across more than one jurisdiction, knowing when to own it and when to bring in specialists (UK/Europe employment law exposure is useful given where much of the engineering population sits, but not essential — we have an ER Centre of Excellence for statutory depth)</p></li>\n</ul><div><img></div><h3>Location &amp; Benefits</h3><ul>\n<li><p>Fully Remote role - Can be Based in the UK, Nigeria or specific locations across Europe</p></li>\n<li><h3>Reports to the People Director</h3></li>\n<li><p>Professional development and coaching partnerships</p></li>\n<li><p>Family-friendly policies and flexible working arrangements</p></li>\n<li><p>Well-being support and career growth opportunities</p></li>\n<li><p>Direct exposure to our CTO and CPO, with real influence over leadership-level people decisions</p></li>\n</ul><p><strong>Our Mission </strong>🌍</p><p>We create financial inclusion for the traditionally excluded through a fair, flexible, customer-centric financing model, driving greater inclusion of women, youth and low-income communities.</p><p><strong>Our Impact</strong> 💚</p><ul>\n<li><p><strong>Included</strong> 🔓: 10 million customers, $2+ billion in credit unlocked since 2010</p></li>\n<li><p><strong>Prosperous</strong> 💰: 70% of customers use their <a href=\"https://himalayas.app/companies/m-kopa\">M-KOPA</a> product for income generation, 35,000 livelihoods created for sales agents</p></li>\n<li><p><strong>Green</strong> 🌱: over 2.1 million tonnes of CO₂ avoided, with 127,700 circular economy products sold since 2010</p></li>\n</ul><p><strong>Ready to shape the people strategy behind a technology function scaling financial inclusion for millions? Apply today!</strong></p><h3><strong>Why <a href=\"https://himalayas.app/companies/m-kopa\">M-KOPA</a>?</strong></h3><p>At <a href=\"https://himalayas.app/companies/m-kopa\">M-KOPA</a>, we empower our people to own their careers through diverse development programs, coaching partnerships, and on-the-job training. We support individual journeys with family-friendly policies, prioritize well-being, and embrace flexibility.</p><p>Join us in shaping the future of <a href=\"https://himalayas.app/companies/m-kopa\">M-KOPA</a> as we grow together. Explore more at .</p><div><img></div><p><em>Recognized four times by the Financial Times as one Africa's fastest growing companies (2022, 2023, 2024, 2025 and 2026), named on CNBC's World’s Top Fintech Companies 2025 &amp; 2026 and by TIME100 Most influential companies in the world 2023 and 2024 , we've served over 10 million customers, unlocking $2 billion in cumulative credit for the everyday earners across Africa, in addition to over 10,000 e-bikes financed in Kenya.</em></p><div><img></div><p><em><strong>Important Notice</strong></em><br><br><em><a href=\"https://himalayas.app/companies/m-kopa\">M-KOPA</a> is an equal opportunity and affirmative action employer committed to assembling a diverse, broadly trained staff. Women, minorities, and people with disabilities are strongly encouraged to apply.</em></p><p><em><a href=\"https://himalayas.app/companies/m-kopa\">M-KOPA</a> explicitly prohibits the use of Forced or Child Labour and respects the rights of its employees to agree to terms and conditions of employment voluntarily, without coercion, and freely terminate their employment on appropriate notice. <a href=\"https://himalayas.app/companies/m-kopa\">M-KOPA</a> shall ensure that its Employees are of legal working age and shall comply with local laws for youth employment or student work, such as internships or apprenticeships. </em></p><p><em><a href=\"https://himalayas.app/companies/m-kopa\">M-KOPA</a> does not collect/charge any money as a pre-employment or post-employment requirement. This means that we never ask for ‘recruitment fees’, ‘processing fees’, ‘interview fees’, or any other kind of money in exchange for offer letters or interviews at any time during the hiring process.</em></p><p><em>Applications for this position will be reviewed on a rolling basis. Shortlisting and interviews will take place at any stage during the recruitment process. We reserve the right to close the vacancy early if a suitable candidate is selected before the advertised closing date.</em></p><p><em>If your application is successful <a href=\"https://himalayas.app/companies/m-kopa\">M-KOPA</a> undertakes pre-employment background checks as part of its recruitment process, these include; criminal records, identification verification, academic qualifications, employment dates and employer references.</em></p><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
       "pubDate": 1788320476,
       "expiryDate": 1793504475,
@@ -7260,9 +7644,9 @@
     {
       "title": "Supply Chain Manager",
       "excerpt": "Starbond is seeking a highly motivated and experienced Supply Chain Manager to oversee the end-to-end operations of our eCommerce supply chain.",
-      "companyName": null,
+      "companyName": "Starbond",
       "companySlug": "starbond",
-      "companyLogo": null,
+      "companyLogo": "https://cdn-images.himalayas.app/4jg9q79zs7rsae0shrzn5dsfa6qe",
       "employmentType": "Contractor",
       "minSalary": 15,
       "maxSalary": 17,
@@ -8212,9 +8596,9 @@
     {
       "title": "Senior Marketing Manager",
       "excerpt": "About Starbond Starbond is a high-speed direct-to-consumer brand on a mission to build incredible products and unforgettable customer experiences.",
-      "companyName": null,
+      "companyName": "Starbond",
       "companySlug": "starbond",
-      "companyLogo": null,
+      "companyLogo": "https://cdn-images.himalayas.app/4jg9q79zs7rsae0shrzn5dsfa6qe",
       "employmentType": "Contractor",
       "minSalary": 18,
       "maxSalary": 20,
@@ -18673,48 +19057,6 @@
       "expiryDate": 1790836613,
       "applicationLink": "https://himalayas.app/companies/intogreat-solutions-philippines/jobs/au-tax-manager-work-from-home-30k-sob",
       "guid": "https://himalayas.app/companies/intogreat-solutions-philippines/jobs/au-tax-manager-work-from-home-30k-sob"
-    },
-    {
-      "title": "Project Manager",
-      "excerpt": "Job Title: Project Manager Location: CA (Canada) Employment Type: Full-time About AlteraAltera, a member of the N.",
-      "companyName": "Harris",
-      "companySlug": "harris",
-      "companyLogo": "https://cdn-images.himalayas.app/nffmqfhnatgpzdd92z6kqwy505tj",
-      "employmentType": "Full Time",
-      "minSalary": 90000,
-      "maxSalary": 110000,
-      "salaryPeriod": "annual",
-      "seniority": [
-        "Manager"
-      ],
-      "currency": "CAD",
-      "locationRestrictions": [
-        "Canada"
-      ],
-      "timezoneRestrictions": [
-        -8,
-        -7,
-        -6,
-        -5,
-        -4,
-        -3.5
-      ],
-      "categories": [
-        "IT-Project-Manager",
-        "Project-Management",
-        "Project-Manager",
-        "Healthcare-Technology",
-        "Project-Program-Manager",
-        "Project-Management-Project-Managers"
-      ],
-      "parentCategories": [
-        "Operations"
-      ],
-      "description": "<p><b>Job Title:</b> Project Manager<br><b>Location:</b> CA (Canada)<br><b>Employment Type:</b> Full-time</p><br><h3>About Altera</h3><p>Altera, a member of the N. <a href=\"https://himalayas.app/companies/harris\">Harris</a> Computer Corporation family, delivers health IT solutions that support caregivers around the world. These include the Sunrise™, Paragon Daneli, TouchWorks EHR, Altera Opal, Ventus, HealthQuest™ and dbMotion™ solutions. At the intersection of technology and the human experience, Altera Digital Health is driving a new era of healthcare, in which innovation and expertise can elevate care delivery and inspire healthier communities across the globe. A new age in healthcare technology has just begun.</p><br><h3>Position Summary</h3><p>Altera is seeking a dynamic and detail-oriented Project Manager to drive the successful execution of projects, ensuring timely delivery, adherence to scope and budget, and uncompromising quality. This role is crucial for proactively collaborating with project teams and stakeholders to deliver solutions that meet business objectives, contractual obligations, and solidify client satisfaction. An ideal candidate will be a self-motivated problem-solver with strong organizational and communication skills, ready to build trusted relationships and contribute to process improvements.</p><br><h3>Key Responsibilities</h3><ul>\n<li>Deliver projects on schedule and within budget as defined by project plans.</li>\n<li>Ensure the consistent application of appropriate processes and standards throughout the project lifecycle.</li>\n<li>Proactively manage project risks through prioritization, planning, and delivery.</li>\n<li>Develop and implement effective communication plans tailored to project size and importance.</li>\n<li>Clearly define and document project scope at the outset, and manage scope changes and requests, escalating impacts on costs, schedules, and deliverables as necessary.</li>\n<li>Anticipate and communicate the impact of project decisions and actions on client commitments and expectations.</li>\n<li>Create and monitor risk logs, actively mitigating identified risks.</li>\n<li>Demonstrate robust project control through disciplined measurement, assessment, planning, and reporting.</li>\n<li>Establish and nurture trusted relationships with the project team, key influencers/stakeholders, and executive leadership.</li>\n<li>Consistently complete and distribute project status reports, both written and via meetings.</li>\n<li>Build strong relationships across internal and external organizational functions at various levels.</li>\n<li>Motivate the team to achieve success and overcome challenges.</li>\n<li>Share and encourage the use of lessons learned from projects.</li>\n<li>Identify, suggest, and implement improvements to existing processes.</li>\n</ul><br><h3>Role Requirements</h3><ul>\n<li>\n<b>Total Years of Experience:</b> 2-4 years of relevant work experience in project management.</li>\n<li>\n<b>Education:</b> Bachelor's Degree (Preferred).</li>\n<li>\n<b>Certifications (Preferred):</b> PMP, PMI-ACP, PRINCE2, or a similar project management certification.</li>\n<li>\n<b>Mandatory Skills:</b><ul>\n<li>Solid organizational and time management skills.</li>\n<li>Strong analytical and problem-solving abilities with a high attention to detail.</li>\n<li>Excellent communication, presentation, and interpersonal skills, with the ability to work effectively with diverse personality types.</li>\n<li>Proven ability to manage multiple projects and deadlines simultaneously.</li>\n<li>Demonstrated capability to build and maintain strong, trusting relationships with team members and stakeholders.</li>\n<li>Self-motivated, creative, and efficient in proposing solutions to complex, time-critical problems.</li>\n<li>Good negotiation skills, with the ability to facilitate discussions, identify alternative approaches, and resolve conflicts.</li>\n<li>Ability to identify and remove impediments, as well as prevent distractions for the team.</li>\n<li>Proficiency in MS Office Suite (PowerPoint, Word, Excel, Teams).</li>\n</ul>\n</li>\n<li>\n<b>Working Arrangements:</b> Primarily works in a standard office environment or remotely. May require after-hours, on-call support, and/or holidays during peak times, with limited PTO during these periods.</li>\n<li>\n<b>Travel:</b> Up to 10% travel may be required.</li>\n</ul><br><p><b>Salary range: </b>90K-110K CAD. The salary range reflects the anticipated base salary for this position at the time of posting. Final compensation may vary based on factors including experience, skills, education.</p><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
-      "pubDate": 1788294815,
-      "expiryDate": 1790836556,
-      "applicationLink": "https://himalayas.app/companies/harris/jobs/project-manager-772040704",
-      "guid": "https://himalayas.app/companies/harris/jobs/project-manager-772040704"
     },
     {
       "title": "Account Executive, Business Sales",
@@ -36681,94 +37023,6 @@
       "guid": "https://himalayas.app/companies/ccm-crosscountry-mortgage-llc/jobs/strategic-underwriting-specialist"
     },
     {
-      "title": "Principal Consultant, Strategic Advisory",
-      "excerpt": "Ready to Make Your Mark? Are you a strategic thinker and trusted advisor who thrives on solving complex business challenges and creating meaningful customer experiences?",
-      "companyName": "BlastX Consulting",
-      "companySlug": "blastx-consulting",
-      "companyLogo": "https://cdn-images.himalayas.app/vo5dop2iies56z3twuqxbn92yd1i",
-      "employmentType": "Full Time",
-      "minSalary": 140000,
-      "maxSalary": 180000,
-      "salaryPeriod": "annual",
-      "seniority": [
-        "Senior"
-      ],
-      "currency": "USD",
-      "locationRestrictions": [
-        "United States"
-      ],
-      "timezoneRestrictions": [
-        -10,
-        -9,
-        -8,
-        -7,
-        -6,
-        -5,
-        14
-      ],
-      "categories": [
-        "Strategic-Consulting",
-        "Management-Consulting",
-        "Strategic-Advisory",
-        "Business-Consulting",
-        "Customer-Experience-Consulting",
-        "Principal-Consultant",
-        "Strategic-Advisory-Lead",
-        "Professional-Services-Principal-Consultant",
-        "Strategic-Advisory-Specialist",
-        "Senior-Strategy-Consultant"
-      ],
-      "parentCategories": [],
-      "description": "<h3><strong>Ready to Make Your Mark?</strong></h3><p>Are you a strategic thinker and trusted advisor who thrives on solving complex business challenges and creating meaningful customer experiences? Join us as a Principal Consultant and lead high-impact strategic engagements that help clients unlock value, transform their businesses, and achieve measurable outcomes.</p><p>In this role, you’ll be at the center of how we help clients navigate their most critical challenges and evolve with purpose. As a client-facing leader, you’ll partner with stakeholders to understand their business goals, uncover opportunities, and identify the barriers preventing them from delivering exceptional experiences. From discovery through execution, you’ll guide clients in addressing challenges such as fragmented or untrusted data, broken customer experiences, and underutilized MarTech investments.</p><p>You’ll bring a consultative mindset, strong business acumen, and the ability to translate complex challenges into actionable strategies. Working closely with C-level executives, cross-functional teams, Consulting Leaders, and delivery teams, you’ll shape innovative solutions that drive business impact and bring our strategic vision to life.</p><p>The <strong>Principal Consultant </strong>has an opportunity to Make Your Mark every day solving challenges and seeing the positive impact of your work. Make Your Mark every day — on each other, our clients, our company, our industry, and the community.</p><h3><strong>What You'll Do</strong></h3><ul>\n<li>Lead strategic consulting engagements that solve complex business challenges and deliver transformative solutions that create measurable client impact.</li>\n<li>Partner with clients to understand their business objectives, uncover opportunities, and translate insights into actionable strategies that drive meaningful business outcomes.</li>\n<li>Serve as a trusted advisor and strategic partner to client stakeholders, building strong relationships across all levels of the organization, including executive leadership.</li>\n<li>Own and manage a portfolio of client accounts, serving as the primary point of contact and ensuring exceptional client experiences, alignment, and long-term partnerships.</li>\n<li>Develop and execute account strategies that drive client value, strengthen relationships, and grow consulting revenue across a portfolio of accounts.</li>\n<li>Lead discovery, strategy development, recommendations, and execution planning — ensuring solutions address client challenges related to fragmented data, broken customer experiences, and underutilized MarTech investments.</li>\n<li>Assess business opportunities, develop recommendations, and evaluate ROI to help clients prioritize initiatives that improve customer engagement, operational efficiency, revenue growth, and profitability.</li>\n<li>Apply deep expertise in digital transformation, customer experience, data, and technology ecosystems to guide clients through complex business decisions and evolving market landscapes.</li>\n<li>Collaborate with Consulting Leaders, delivery teams, partners, and cross-functional stakeholders to ensure solutions are practical, scalable, and successfully implemented.</li>\n<li>Identify opportunities to improve consulting methodologies, delivery approaches, and client outcomes through innovation, industry insights, and best practices.</li>\n<li>Stay current on emerging technologies, industry trends, and evolving customer experience practices; represent <a href=\"https://himalayas.app/companies/blastx-consulting\">BlastX Consulting</a> as a thought leader through industry participation and client engagement.</li>\n<li>Partner with the Growth team to support business development efforts, including client expansion opportunities, proposals, and strategic pursuits.</li>\n<li>Contribute to the growth and maturity of the consulting organization through knowledge sharing, mentorship, skill development, and continuous improvement.</li>\n<li>Note: Travel up to 10% for business purposes, determined by client requests or industry events. </li>\n</ul><strong>What you bring to the table</strong><ul>\n<li>8+ years of experience in management consulting, with a proven track record of delivering advanced solutions to complex client challenges.</li>\n<li>Hands-on expertise in MarTech, customer experience, and data-driven decision-making.</li>\n<li>Experience working with C-level executives and demonstrating strong business acumen in digital transformation, marketing strategy, and analytics.</li>\n<li>Demonstrated experience owning the full client lifecycle, from onboarding through renewal and expansion.</li>\n<li>Hands-on experience negotiating contracts, pricing and scope with mid-market or enterprise clients.</li>\n<li>Experience managing multiple accounts and competing priorities simultaneously.</li>\n<li>Experience leading client meetings, business reviews and executive presentations.</li>\n<li>Strong communication, presentation, and storytelling skills with the ability to engage and influence senior stakeholders and decision makers. </li>\n<li>The ability to lead multiple high-impact projects with confidence and agility.</li>\n<li>A passion for learning, evolving, and delivering value in every interaction.</li>\n<li>Ability to work independently and manage multiple high-profile clients and projects simultaneously.</li>\n<li>A degree in Business, Marketing, or a related field (preferred).</li>\n</ul><h3>You also bring</h3><ul>\n<li>A consultative mindset, with strong problem-solving skills and the ability to navigate ambiguity and complex client challenges.</li>\n<li>Experience leading conversations with stakeholders, influencing decisions, and translating technical concepts into business value. Excels at communicating complex ideas clearly and confidently, builds trust and alignment across client and internal teams.</li>\n<li>A collaborative approach, with experience mentoring team members and contributing to a strong team environment.</li>\n<li>Understanding how to grow accounts while staying anchored in client goals. You know when to listen, when to push and how to deliver outcomes that matter.</li>\n</ul><p><img alt=\"\"></p><h3><strong>Is <a href=\"https://himalayas.app/companies/blastx-consulting\">BlastX Consulting</a> Right for you? </strong></h3><p>We’re not a typical boutique consultancy, and that’s intentional. </p><p><a href=\"https://himalayas.app/companies/blastx-consulting\">BlastX Consulting</a> is a digital consultancy focused on advancing a new standard for customer experience. We combine human intelligence, AI, and data to drive measurable business outcomes. </p><p>Our clients come to us with real challenges. Fragmented data. Broken experiences. Underused MarTech. We help them fix what’s not working and build what’s next. </p><p>Our team is senior, hands-on, and purpose-driven. We show up for our clients, for each other, and for the work. If you want your work to matter, and you have the experience to back it up, we should talk.  </p><h3><strong>What Success looks like</strong></h3><h3>In this role, successful consultants: </h3><ul>\n<li>Act as trusted advisors to clients, connecting business challenges to unlock operational, CX and MarTech investments, to deliver real business outcomes and communicating in a way that resonates with both technical and non-technical stakeholders  </li>\n<li>Think strategically, translate outside-in market intelligence into client action, then shape those insights into business cases and execute against them. </li>\n<li>Take ownership of client engagements, managing delivery, navigating challenges, and maintaining strong client relationships  </li>\n<li>Contribute to team growth by mentoring others, sharing knowledge, and staying current on emerging trends and technologies </li>\n</ul><h3>\n<br><strong>A quick note on how we work</strong>\n</h3><p>This role is fully remote for <strong>US-based teammates only</strong>. We do ask that you work from your home location. Because of the nature of our work and client commitments, this is not a fit for digital nomads. </p><p><strong>Work Authorization -</strong> This role is only open to candidates who are currently authorized to work in the United States without sponsorship. We are not able to sponsor visas now or in the future for this position.</p><h3>\n<br><strong>You Will Work With</strong>\n</h3><p>This role involves working closely with our Vice President, Strategic Advisory, Consultants, Growth team members and other subject matter experts</p><h3>\n<br><strong>Compensation &amp; Benefits</strong>\n</h3><p>Salary Range: $140,000 - $180,000.00 USD annually DOE</p><p>We offer a competitive salary based on experience and a supportive, challenging, and fun work environment to ensure teamwork, productivity, and teammate happiness. We offer a flexible PTO policy, 60% employer paid medical insurance coverage options, 100% employer paid dental and vision insurance, 401k 4% company matching, profit sharing, education assistance, paid parental leave, performance-based salary increases, and year-end incentive bonuses.</p><p><strong>We are not interested in placement agencies or companies at this time.</strong> <a href=\"https://himalayas.app/companies/blastx-consulting\">BlastX Consulting</a> is an “at-will” employer. Compensation, benefits, and job descriptions are subject to change based on individual performance and business conditions. <a href=\"https://himalayas.app/companies/blastx-consulting\">BlastX Consulting</a> is an Equal Opportunity Employer (EEO).</p><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
-      "pubDate": 1788294761,
-      "expiryDate": 1790825684,
-      "applicationLink": "https://himalayas.app/companies/blastx-consulting/jobs/principal-consultant-strategic-advisory",
-      "guid": "https://himalayas.app/companies/blastx-consulting/jobs/principal-consultant-strategic-advisory"
-    },
-    {
-      "title": "Senior Demand Planning, Staff Analyst",
-      "excerpt": "Bring more to life. Are you ready to accelerate your potential and make a real difference within life sciences, diagnostics and biotechnology?",
-      "companyName": "Danaher",
-      "companySlug": "danaher",
-      "companyLogo": "https://cdn-images.himalayas.app/rhcvp7jjlzyl0n8zf6sba037iu76",
-      "employmentType": "Full Time",
-      "minSalary": null,
-      "maxSalary": null,
-      "salaryPeriod": "annual",
-      "seniority": [
-        "Senior"
-      ],
-      "currency": null,
-      "locationRestrictions": [
-        "Spain"
-      ],
-      "timezoneRestrictions": [
-        0,
-        1
-      ],
-      "categories": [
-        "demand-planning",
-        "Supply-Chain-Analysis",
-        "Demand-Forecasting",
-        "Supply-Chain-Management",
-        "Inventory-Planning",
-        "Demand-Planning-Manager",
-        "Senior-Sales-Forecasting-Analyst",
-        "Senior-Operations-Planner",
-        "Senior-Planning-Analyst",
-        "Demand-And-Supply-Planning-Manager",
-        "Supply-Chain-Analyst"
-      ],
-      "parentCategories": [
-        "Operations"
-      ],
-      "description": "<h3>Bring more to life.</h3><p>Are you ready to accelerate your potential and make a real difference within life sciences, diagnostics and biotechnology?</p><p>At Beckman Coulter Diagnostics, one of <a href=\"https://himalayas.app/companies/danaher\">Danaher</a>’s 15+ operating companies, our work saves lives—and we’re all united by a shared commitment to innovate for tangible impact. </p><p>You’ll thrive in a culture of belonging where you and your unique viewpoint matter. And by harnessing <a href=\"https://himalayas.app/companies/danaher\">Danaher</a>’s system of continuous improvement, you help turn ideas into impact – innovating at the speed of life.</p><p>As a global leader in clinical diagnostics, Beckman Coulter Diagnostics has challenged convention to elevate the diagnostic laboratory’s role in improving patient health for more than 90 years. Our diagnostic solutions are used in routine and complex clinical testing, and are used in hospitals, reference and research laboratories, and physician offices around the world. Every hour around the world, more than one million tests are run on Beckman Coulter Diagnostics systems, impacting 1.2 billion patients and more than three million clinicians per year. From uncovering the next clinical breakthrough, to rapid and reliable sample analysis, to more rigorous decision making—we are enabling clinicians to deliver the best possible care to their patients with improved efficiency, clinical confidence, adaptive collaboration, and accelerated intelligence.</p><p>Learn about the <a href=\"https://himalayas.app/companies/danaher\">Danaher</a> Business System which makes everything possible.</p><p>The <b>Demand Planning, Staff Analyst</b> is responsible for developing and managing demand forecasts across <b>Hardware, Consumables, and Service Parts</b> within their assigned region.</p><p>Acting as the critical link among commercial, finance, and supply chain teams, this role translates regional market insights into an actionable demand plan that supports revenue, service-level, and inventory objectives.</p><p>This is a highly collaborative role, partnering closely with regional commercial leaders while driving alignment into the broader S&amp;OP process.</p><p>This position reports to the <b>Senior Manager, Demand Planning,</b> and is part of the Global Supply Chain organization, located in Spain, and will be fully remote.</p><h3>In this role, you will have the opportunity to:</h3><ul>\n<li>Own the <b>end-to-end regional demand plan</b> for Hardware, Consumables, and Service Parts, ensuring alignment to commercial outlook and financial targets</li>\n<li>Analyze <b>statistical/market forecasts</b>, enriched with region-specific market intelligence and commercial inputs</li>\n<li>Partner with regional stakeholders (Sales, Marketing, Finance) to <b>align on assumptions, risks, and opportunities</b>\n</li>\n<li>Participate in and support the <b>S&amp;OP process</b>, ensuring clear visibility to demand drivers and variability</li>\n<li>Monitor and improve key KPIs, including <b>forecast accuracy (MAPE), bias, service level, and inventory health </b>and identify root causes of forecast variation and proactively <b>drive corrective actions</b>\n</li>\n</ul><h3>The essential requirements of the job include: </h3><ul>\n<li>Bachelor’s degree in supply chain, business, engineering, statistics, or related field (Master’s preferred)</li>\n<li>3+ years of experience in demand planning, supply chain, or S&amp;OP/IBP environments</li>\n<li>Strong analytical and problem-solving skills, with experience in forecasting tools or planning systems</li>\n<li>Working knowledge of APICS/ASCM principles (demand planning, inventory management, S&amp;OP/IBP)</li>\n<li>Language Requirement: Fluent in both written and spoken English</li>\n</ul><p><b>Travel, Motor Vehicle Record &amp; Physical/Environment Requirements:</b></p><ul><li>Ability to travel - 10-15%, overnight, globally</li></ul><p>Beckman Coulter Diagnostics, a <a href=\"https://himalayas.app/companies/danaher\">Danaher</a> operating company, offers a broad array of comprehensive, competitive benefit programs that add value to our lives. Whether it’s a health care program or paid time off, our programs contribute to life beyond the job. Check out our benefits at <a href=\"https://himalayas.app/companies/danaher\">Danaher</a> Benefits Info.</p><p>At Beckman Coulter Diagnostics we believe in designing a better, more sustainable workforce. We recognize the benefits of flexible, remote working arrangements for eligible roles and are committed to providing enriching careers, no matter the work arrangement. This position is eligible for a remote work arrangement in which you can work remotely from your home. Additional information about this remote work arrangement will be provided by your interview team. Explore the flexibility and challenge that working for Beckman Coulter Diagnostics can provide.</p><p>Join our winning team today. Together, we’ll accelerate the real-life impact of tomorrow’s science and technology. We partner with customers across the globe to help them solve their most complex challenges, architecting solutions that bring the power of science to life.</p><p>For more information, visit .</p><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
-      "pubDate": 1788294761,
-      "expiryDate": 1790825655,
-      "applicationLink": "https://himalayas.app/companies/danaher/jobs/senior-demand-planning-staff-analyst",
-      "guid": "https://himalayas.app/companies/danaher/jobs/senior-demand-planning-staff-analyst"
-    },
-    {
       "title": "Regional Sales Manager",
       "excerpt": "Bring more to life. Are you ready to accelerate your potential and make a real difference within life sciences, diagnostics and biotechnology?",
       "companyName": "Danaher",
@@ -42090,53 +42344,6 @@
       "guid": "https://himalayas.app/companies/verra/jobs/lead-or-senior-program-officer-jurisdictional-redd-development"
     },
     {
-      "title": "Social Media Specialist",
-      "excerpt": "Social Media Specialist Level: Journeyman | Work Location: Remote ⚠ This position is contingent upon contract award.",
-      "companyName": "Red Carrot",
-      "companySlug": "red-carrot",
-      "companyLogo": "https://cdn-images.himalayas.app/vvga850g4urutgh2vtrlt6qg11d2",
-      "employmentType": "Full Time",
-      "minSalary": null,
-      "maxSalary": null,
-      "salaryPeriod": "annual",
-      "seniority": [
-        "Senior"
-      ],
-      "currency": null,
-      "locationRestrictions": [
-        "United States"
-      ],
-      "timezoneRestrictions": [
-        -10,
-        -9,
-        -8,
-        -7,
-        -6,
-        -5,
-        14
-      ],
-      "categories": [
-        "Social-Media-Specialist",
-        "Social-Media-Manager",
-        "Digital-Content-Creator",
-        "Content-Marketing-Specialist",
-        "Communications-Specialist",
-        "Social-Media-Marketing-Specialist",
-        "Social-Media-Content-Specialist",
-        "SMM-Specialist",
-        "Social-Media-Engagement-Specialist",
-        "Content-and-Social-Media-Specialist"
-      ],
-      "parentCategories": [
-        "Content Creator"
-      ],
-      "description": "<b>Social Media Specialist</b><br><b>Level: Journeyman  |  Work Location: Remote</b><br><b>⚠ This position is contingent upon contract award.</b><br><b>ABOUT THE ROLE</b><br><a href=\"https://himalayas.app/companies/red-carrot\">Red Carrot</a> is seeking a Journeyman Social Media Specialist to support the customer's External Affairs office. This role leads social media content development and management for one of the federal government's most active and mission-critical communications programs.<br><b>KEY RESPONSIBILITIES</b><ul>\n<li>Develop and manage a content bank including social media posts, infographics, illustrations, photography, captions, blogs, and podcasts for customer's social and digital media channels</li>\n<li>Work with customer divisions and program offices to identify, produce, and coordinate content</li>\n<li>Create digital media content incorporating photo, video, audio, and animated elements to convey the agency mission</li>\n<li>Provide analytical, metrics, and scheduling support across all customer social platforms</li>\n<li>Provide edits, updates, and corrections to customer web content via the approved web publishing process</li>\n<li>Produce weekly social media analysis reports</li>\n<li>Monitor social media engagement metrics and provide strategic recommendations</li>\n</ul><b>MINIMUM QUALIFICATIONS</b><ul>\n<li>BS/BA in Communications, Marketing, Journalism, or related field</li>\n<li>Minimum 5 years of demonstrated experience managing and creating content for social media platforms</li>\n<li>Experience developing social media strategies, monitoring engagement metrics, writing posts, and creating multimedia content including videos, graphics, and infographics</li>\n<li>Federal government or public sector social media experience preferred</li>\n<li>Ability to obtain a DHS Fitness Determination</li>\n</ul><br><p><em><strong>Benefits at <a href=\"https://himalayas.app/companies/red-carrot\">Red Carrot</a>:     </strong></em></p><p>At <a href=\"https://himalayas.app/companies/red-carrot\">Red Carrot</a>, we empower you to be a leader. We attract and develop talent from all backgrounds because we believe there’s strength in diversity, offering different perspectives and skills. Together, we can solve our client’s biggest challenges. We offer a competitive compensation and benefits package.      </p><ul>\n<li>Training and Development – Tuition reimbursement and professional trainings for eligible employees. </li>\n<li>Healthcare – Top-tier medical, dental, vision, life insurance and long-term disability coverage.      </li>\n<li>401(k) Plan – 401(k)-retirement and Roth plan with company matching and no vesting period.      </li>\n<li>Profit Sharing – Discretionary profit-sharing plan to all eligible employees after one year of employment.           </li>\n<li>Paid Time Off – Provides flexible work hours, paid time off, and 11 federal holidays.   </li>\n</ul><p><em><strong>About Us:</strong></em></p><p><a href=\"https://himalayas.app/companies/red-carrot\">Red Carrot</a> is an award-winning, woman-owned small business built for the complexity of federal government work. We partner with clients to advance their goals — powered by a team fueled by passion, backed by intelligence, and grounded in expertise.</p><p>From day one, we've applied industrial engineering principles and data analytics to solve complex problems with precision. Our approach is research-centric, data-informed, and audience-oriented — and it's how we deliver work that actually moves the needle.</p><p>We exist to strengthen the organizations and communities we serve through trusted, purposeful communication. That's not a tagline — it's the standard we hold ourselves to on every engagement.</p><p>Headquartered in Miami, Florida, with a strong and growing presence in Washington, D.C., our team works with clients across the country. Distance doesn't dilute our service. We build capacity where our clients need it, delivering Strategic Communications, Customer Experience, Management Consulting, and Human Capital Solutions that fit their mission — and their moment.</p><p>We're the partner organizations turn to when communication challenges are real, the stakes are high, and the work has to matter.</p><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
-      "pubDate": 1788294745,
-      "expiryDate": 1790823475,
-      "applicationLink": "https://himalayas.app/companies/red-carrot/jobs/social-media-specialist",
-      "guid": "https://himalayas.app/companies/red-carrot/jobs/social-media-specialist"
-    },
-    {
       "title": "Cruise Travel Expert",
       "excerpt": "Role PurposeAs a cruise travel expert you will be responsible for ensuring each customer's journey is seamless, from the first phone call or email to when they depart using your extensive knowledge of cruise lines and destinations.",
       "companyName": "Iglu.com",
@@ -42229,6 +42436,94 @@
       "expiryDate": 1790823441,
       "applicationLink": "https://himalayas.app/companies/miebach-consulting-gmbh/jobs/project-manager-simulation",
       "guid": "https://himalayas.app/companies/miebach-consulting-gmbh/jobs/project-manager-simulation"
+    },
+    {
+      "title": "Vice President, Sales",
+      "excerpt": "About Modern Campus Modern Campus empowers institutions to move with confidence across the modern learner journey.",
+      "companyName": "Modern Campus",
+      "companySlug": "modern-campus",
+      "companyLogo": "https://cdn-images.himalayas.app/ykcbiwrsdqpvokv9631867nmfs76",
+      "employmentType": "Full Time",
+      "minSalary": 170000,
+      "maxSalary": 220000,
+      "salaryPeriod": "annual",
+      "seniority": [
+        "Executive"
+      ],
+      "currency": "USD",
+      "locationRestrictions": [
+        "United States"
+      ],
+      "timezoneRestrictions": [
+        -10,
+        -9,
+        -8,
+        -7,
+        -6,
+        -5,
+        14
+      ],
+      "categories": [
+        "VP-Sales",
+        "Sales-Leadership",
+        "SaaS-Sales",
+        "Higher-Education-Sales",
+        "Enterprise-Sales",
+        "Vice-President-Sales",
+        "Vice-President-Of-Sales",
+        "Senior-Vice-President-Sales",
+        "VP-Of-Sales",
+        "Executive-Vice-President-Of-Sales"
+      ],
+      "parentCategories": [
+        "Sales"
+      ],
+      "description": "<p><b><strong>About <a href=\"https://himalayas.app/companies/modern-campus\">Modern Campus</a></strong></b></p><p><a href=\"https://himalayas.app/companies/modern-campus\">Modern Campus</a> empowers institutions to move with confidence across the modern learner journey. Our platform spans web content management, curriculum and catalog management, student engagement and lifelong learning — giving more than 1,700 colleges and universities the infrastructure they need to support the entire learner-to-earner lifecycle and deliver personalized, scalable experiences.<br><br> We partner with the education community to create new pathways for learning and opportunity, reimagining how institutions serve the modern learner and shape the future of education.<br><br>Our purpose — our north star — is to empower institutions to confidently serve and support the modern learner.<br><br> This mission and purpose come to life through how we show up every day:</p><ul>\n<li>We exist to create empowerment through education.</li>\n<li>We lead with honesty and empathy.</li>\n<li>We shape the future through innovation.</li>\n<li>We become trusted partners.</li>\n<li>We make the complex feel possible.</li>\n</ul><p><b><strong>What's the role?</strong></b></p><p><a href=\"https://himalayas.app/companies/modern-campus\">Modern Campus</a> is seeking a results-driven, strategic, and experienced Vice President (VP) of Sales to lead our new logo acquisition and expansion sales efforts across North America. Reporting to the Chief Revenue Officer (CRO), the VP of Sales will be responsible for developing and executing the sales strategy, building and leading a high-performing sales team, driving significant revenue growth, and further establishing <a href=\"https://himalayas.app/companies/modern-campus\">Modern Campus</a> as the go-to partner for higher education institutions seeking to modernize their engagement strategies. This is a critical leadership role requiring a deep understanding of SaaS sales methodologies, the higher education market, and a proven ability to scale sales teams in a fast-paced environment.</p><ul>\n<li>\n<b><strong>Sales Strategy &amp; Execution:</strong></b> Execute and refine a comprehensive sales strategy aligned with <a href=\"https://himalayas.app/companies/modern-campus\">Modern Campus</a>'s overall business objectives to drive predictable and sustainable revenue growth.</li>\n<li>\n<b><strong>Leadership &amp; Team Development:</strong></b> Lead, mentor, coach, and scale a geographically distributed team of Regional Sales Directors (RD’s). Foster a culture of high performance, accountability, collaboration, and continuous learning.</li>\n<li>\n<b><strong>Revenue Growth:</strong></b> Own the  sales targets (new logo acquisition and cross-selling revenue) and ensure the team consistently meets or exceeds quota.</li>\n<li>\n<b><strong>Sales Process &amp; Operations:</strong></b> Refine, optimize, and manage the end-to-end sales process, including pipeline management, forecasting accuracy, territory planning, and deal coaching and support, in collaboration with CRO, Revenue Operations and Finance.</li>\n<li>\n<b><strong>Market Expertise:</strong></b> Maintain a deep understanding of the higher education landscape, including market trends, institutional challenges, funding cycles, competitive activities, and key buyer personas (e.g., VPs of Enrollment, Marketing, Student Affairs, Provosts, CIOs).</li>\n<li>\n<b><strong>Cross-Functional Collaboration:</strong></b> Partner closely with Marketing to ensure effective lead generation and GTM alignment, with Product to provide market feedback, and with Services to ensure smooth post-sale handoffs.</li>\n<li>\n<b><strong>Forecasting &amp; Reporting:</strong></b> Provide accurate and timely sales forecasts, pipeline analysis, and performance reporting to the executive team. Utilize CRM (e.g., Salesforce) data and other tools (e.g., Gong, ChatGPT) effectively to manage the sales process and gain insights.</li>\n<li>\n<b><strong>Executive Engagement:</strong></b> Engage with key prospects and customers at an executive level to build relationships and support strategic deal closures.</li>\n<li>\n<b><strong>Industry Presence:</strong></b> Represent <a href=\"https://himalayas.app/companies/modern-campus\">Modern Campus</a> at industry conferences, trade shows, and events to build brand awareness and network with potential clients.</li>\n</ul><p><b><strong>What you offer...</strong></b></p><ul>\n<li>Minimum 10+ years of experience in B2B software/SaaS sales, with at least 5+ years in a senior sales leadership role (VP or Director level) managing teams of 8+ salespeople.</li>\n<li>Bachelor’s degree required; MBA or relevant advanced degree is a plus.</li>\n<li>Demonstrable success in consistently meeting or exceeding multi-million dollar sales targets in a SaaS environment. Experience scaling a sales organization through significant growth.</li>\n<li>Significant experience and deep understanding of selling complex software solutions into the Higher Education market (colleges and universities) is <b><strong>required</strong></b>. Familiarity with university procurement processes, budget cycles, and key decision-makers is essential.</li>\n<li>Expertise in modern SaaS sales methodologies (e.g., MEDDIC, Challenger Sale, Value Selling) and managing complex, multi-stakeholder sales cycles.</li>\n<li>Exceptional leadership, coaching, and mentoring skills with a proven ability to build, motivate, and retain high-performing sales teams.</li>\n<li>Strong strategic thinking, analytical, and problem-solving skills. Ability to leverage data to make informed decisions.</li>\n<li>Advanced proficiency with CRM systems (Salesforce preferred) and sales engagement tools.</li>\n<li>Outstanding verbal, written, and presentation skills. Ability to articulate a clear value proposition to executive-level audiences.</li>\n<li>Ability to travel as needed for team meetings, client engagements, and industry events (estimated 30-40%).</li>\n<li>Experience selling EdTech solutions similar to <a href=\"https://himalayas.app/companies/modern-campus\">Modern Campus</a>'s portfolio (CMS, CRM, SIS, Enrollment Management, Student Engagement tools).</li>\n<li>Experience working in a private equity (PE) backed or high-growth technology company.</li>\n<li>An existing network of contacts within the North American higher education community.</li>\n<li>Experience leveraging AI to improve and enhance sales execution. </li>\n</ul><p><b><strong>What we offer...</strong></b></p><ul>\n<li>The base salary range* for this position is between $170,000-$220,000</li>\n<li>Remote first workplace!</li>\n<li>Rewards and recognition programs</li>\n<li>Learning and development opportunities</li>\n<li>The ability to make a difference every day for universities trying to grow and students trying to learn!</li>\n</ul><p><i><em>Only qualified candidates selected for interviews will be contacted.</em></i></p><p><b><strong>What we believe...</strong></b></p><p>At <a href=\"https://himalayas.app/companies/modern-campus\">Modern Campus</a>, we believe that a diverse, equitable and inclusive workplace furthers relevance, resilience, and longevity. We encourage people from all backgrounds, ages, abilities, and experiences to apply for our positions. <a href=\"https://himalayas.app/companies/modern-campus\">Modern Campus</a> is proud to be an equal opportunity workplace and is committed to bring on hires regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status (for US candidates).  If you require accommodations during any part of the interview process due to a disability, please let our recruiter know.<br><br><i><em>* Our salary ranges reflect the minimum and maximum target for new hires for the position within the US and Canada. Within the range, individual pay is determined by factors including job-related skills, experience, and relevant education or training.</em></i></p><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+      "pubDate": 1788294745,
+      "expiryDate": 1790823395,
+      "applicationLink": "https://himalayas.app/companies/modern-campus/jobs/vice-president-sales",
+      "guid": "https://himalayas.app/companies/modern-campus/jobs/vice-president-sales"
+    },
+    {
+      "title": "Gestionnaire | Gestionnaire de projet (Services professionnels)",
+      "excerpt": "Ce que nous recherchons : Nous cherchons une personne organisée, dynamique et motivée par les défis.",
+      "companyName": "Harris Global Business Services Inc.",
+      "companySlug": "harris-global-business-services-inc",
+      "companyLogo": "",
+      "employmentType": "Full Time",
+      "minSalary": null,
+      "maxSalary": null,
+      "salaryPeriod": "annual",
+      "seniority": [
+        "Manager"
+      ],
+      "currency": null,
+      "locationRestrictions": [
+        "Canada"
+      ],
+      "timezoneRestrictions": [
+        -8,
+        -7,
+        -6,
+        -5,
+        -4,
+        -3.5
+      ],
+      "categories": [
+        "Services-Professionnels",
+        "Logiciels-Municipaux",
+        "Leadership-D'équipe",
+        "Implantation-Logicielle",
+        "Gestion-de-projets",
+        "Gestionnaire-De-Prestation-De-Services",
+        "Manager-De-Projet"
+      ],
+      "parentCategories": [],
+      "description": "<p><b>Ce que nous recherchons </b><b>:</b> Nous cherchons une personne organisée, dynamique et motivée par les défis. Ainsi, tu agiras comme maître d’œuvre de l’implantation de nos solutions logicielles destinées aux villes, municipalités, MRC et régies intermunicipales du Québec. Tu assureras la coordination complète des projets, de la planification initiale à la mise en production, tout en jouant un rôle de leader auprès d’une équipe d'implantation de projet. Ton objectif : garantir une transition fluide, efficace et conforme aux besoins de nos clients.</p><p><b>Description du poste </b>: Dans un environnement de travail stimulant, axé sur la collaboration et le travail d’équipe, tu auras l’occasion de réaliser pleinement tes objectifs professionnels. Tu seras impliqué(e) dans plusieurs dossiers stimulants et stratégiques liés à l’implantation de nos solutions logicielles municipales. Tes principales responsabilités seront :</p><ul>\n<li><p>Superviser, mobiliser et accompagner une équipe d’implantation de projet;</p></li>\n<li><p>Encourager et encadrer l’utilisation des outils d’intelligence artificielle au sein de l’équipe, afin d’améliorer l’efficacité opérationnelle, la qualité des livrables et la prise de décision;</p></li>\n<li><p>Élaborer et suivre les plans de projet, échéanciers, budgets et indicateurs de performance;</p></li>\n<li><p>Assurer une communication continue et transparente avec les parties prenantes internes et externes;</p></li>\n<li><p>Identifier les risques, proposer des solutions et assurer la résolution proactive des enjeux;</p></li>\n<li><p>Assurer la mise en place de bonnes pratiques, méthodes et outils utilisés par l’équipe;</p></li>\n<li><p>Agir comme point contact stratégique auprès de nos clients et comprendre les besoins opérationnels des clients;</p></li>\n<li><p>Assurer une transition harmonieuse vers les nouvelles solutions logicielles.</p></li>\n</ul><h3>Ce que nous offrons comme avantages :</h3><ul>\n<li><p>3 semaines de vacances dès la 1ère année, 4 semaines après 3 ans et 5 semaines après 7 années de service dans l’entreprise;</p></li>\n<li><p>5 jours de congés personnels et 1 journée de bénévolat payés par année;</p></li>\n<li><p>Des assurances collectives payées à 100% par l’employeur dès le premier jour;</p></li>\n<li><p>Un programme de REER collectif avec cotisation de l’employeur;</p></li>\n<li><p>Environnement de travail 100% en télétravail avec possibilité d’horaires flexibles lorsque tu n’es pas en rendez-vous client;</p></li>\n<li><p>Un programme de vie active (prime annuelle);</p></li>\n<li><p>Un programme d’aide aux employés avec Inkblot ainsi qu’un accès à la télé médecine avec Maple;</p></li>\n<li><p>Un cadeau te sera envoyé à ton anniversaire;</p></li>\n<li><p>Remplacement d’ordinateur aux 4 ans que tu pourras conserver pour usage personnel;</p></li>\n<li><p>Programme de prêt pour l’achat d’un ordinateur personnel neuf;</p></li>\n<li><p>Programme d’encouragement à l’achat d’action de la compagnie.</p></li>\n</ul><p><b>Aptitudes professionnelles :</b> Si tu détiens un diplôme universitaire en gestion de projet, administration des affaires ou dans un domaine connexe ou une expérience équivalente comme gestionnaire et que tu te reconnais dans les aptitudes suivantes :</p><ul>\n<li><p>Expérience de plus de 3 ans en gestion de projet et/ou une certification PMI;</p></li>\n<li><p><b>Communicateur(trice) redoutable</b>, capable d’expliquer clairement, mobiliser et faire avancer les choses;</p></li>\n<li><p><b>Analyse rapide + synthèse efficace</b> pour transformer la complexité en actions concrètes;</p></li>\n<li><p><b>Flexibilité à toute épreuve</b>, capable de jongler avec plusieurs priorités sans perdre le cap;</p></li>\n<li><p><b>Autonomie, sens des responsabilités et débrouillardise</b> — tu prends les devants, pas les détours;</p></li>\n<li><p><b>Organisation solide</b> et initiative naturelle pour garder les projets sur les rails;</p></li>\n<li><p><b>Discipline et respect des échéanciers</b>, même quand ça bouge vite;</p></li>\n<li><p><b>Orientation solutions</b> : tu vois les enjeux, mais surtout les façons de les régler;</p></li>\n<li><p>Avoir une bonne maitrise du français (tant à l’écrit qu’à l’oral);</p></li>\n<li><p>Intérêt marqué et ouverture à intégrer des outils d’intelligence artificielle dans son travail quotidien;</p></li>\n<li><p><b>Points bonis</b> si tu as : une <b>certification PMP</b>, des connaissances en <b>comptabilité</b>, <b>géomatique</b> ou du <b>milieu municipal</b>.</p></li>\n</ul><p>Et si tu veux contribuer concrètement à moderniser les opérations municipales et évoluer dans un environnement collaboratif où ton leadership fera la différence, nous serons heureux de te rencontrer pour une entrevue.</p><p>Depuis ses débuts il y a plus de 45 ans, la marque PG Solutions est associée à l’innovation et au succès des municipalités du Québec. Nous avons fait de la satisfaction de nos clients le cœur même de notre philosophie des affaires. Et nous tâchons de relever le défi avec le souci constant d’offrir des outils de gestion informatisés à la fois personnalisés, performants et conviviaux.</p><p>PG Solutions est depuis 2007 une filiale de Harris Computer Corporation, un groupe d’envergure internationale présent en Amérique du Nord, Europe, Asie et Australie. Harris fournit des solutions logicielles à plus de 67 000 clients et partenaires d’affaires du secteur public, de la santé, des services et du secteur privé. Ses logiciels et services permettent à ses clients de remplir leur mission.</p><p>Harris est un employeur à égalité de chances et d'action positive. Nous considérons les candidats sans considération de race, couleur, religion, âge, origine nationale, ascendance, origine ethnique, sexe, identité de genre, expression de genre, orientation sexuelle, statut matrimonial, statut de vétéran, handicap, information génétique, statut de citoyen ou autre groupe protégé par la loi fédérale, provinciale ou locale.</p><p><b>*Seul les candidats retenus seront contactés.<br></b></p><p>Harris souscrit à un programme d’accès à l’égalité en emploi et les candidatures des membres des groupes visés à savoir les femmes, les personnes handicapées, les personnes autochtones et les minorités visibles sont encouragées à soumettre leur candidature. Si vous êtes une personne handicapée, vous pouvez recevoir, sur demande, de l’assistance pour le processus de présélection et de sélection.</p><p>L'équipe de recrutement de talents de Harris n'a pas recours aux messages texte pour entrer en communication avec les candidats ou solliciter des informations confidentielles. Nous encourageons tous les candidats à postuler sur des postes publiés. Ils seront contactés soit par un gestionnaire de Harris, soit par un membre de l'équipe de recrutement de talents pour un entretien, dès lors que les critères requis sont satisfaits.</p><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+      "pubDate": 1788294745,
+      "expiryDate": 1790823368,
+      "applicationLink": "https://himalayas.app/companies/harris-global-business-services-inc/jobs/gestionnaire-gestionnaire-de-projet-services-professionnels",
+      "guid": "https://himalayas.app/companies/harris-global-business-services-inc/jobs/gestionnaire-gestionnaire-de-projet-services-professionnels"
     },
     {
       "title": "Tech Manager AI",
@@ -44760,89 +45055,6 @@
       "guid": "https://himalayas.app/companies/espeo-software/jobs/ai-solutions-engineer"
     },
     {
-      "title": "Platform Engineer II - Akamai Inference Cloud - Remote/Poland",
-      "excerpt": "Are you eager to build cloud platform services that operate at massive global scale?",
-      "companyName": "Akamai Technologies",
-      "companySlug": "akamai-technologies",
-      "companyLogo": "https://cdn-images.himalayas.app/lb8259c8ijm7nvddhbhfm13hy13d",
-      "employmentType": "Full Time",
-      "minSalary": null,
-      "maxSalary": null,
-      "salaryPeriod": "annual",
-      "seniority": [
-        "Mid-level"
-      ],
-      "currency": null,
-      "locationRestrictions": [
-        "Poland"
-      ],
-      "timezoneRestrictions": [
-        1
-      ],
-      "categories": [
-        "Platform-Engineering",
-        "Cloud-Infrastructure",
-        "AI-Infrastructure",
-        "Site-Reliability-Engineering",
-        "Backend-Engineering",
-        "AI-ML-Platform-Engineer",
-        "AI-Platform-Engineer",
-        "Platform-AI-Engineer",
-        "Machine-Learning-Platform-Engineer",
-        "Senior-ML-Platform-Engineer",
-        "Platform-Engineer-I",
-        "Platform-Engineer"
-      ],
-      "parentCategories": [
-        "Developer"
-      ],
-      "description": "<p><strong>Are you eager to build cloud platform services that operate at massive global scale?</strong></p><p><strong>Do you want to grow your career by working on infrastructure that powers AI applications worldwide?</strong></p><h3>Join the Akamai Inference Cloud Team!</h3><p>The Akamai Inference Cloud team is part of Akamai's Cloud Technology Group. We design and operate AI platforms enabling customers to run inference models with unmatched performance, compliance, and economics. We build the foundational infrastructure powering our globally distributed platform AI, Kubernetes orchestration, GPU resource management, networking, and multi-region deployment. #AIC</p><h3>Partner with the best</h3><p>As a Platform Engineer II, you will build and maintain platform services supporting our globally distributed AI inference infrastructure. Your work will span data plane APIs, authentication, and multi-tenant security. You'll gain exposure to AI infrastructure patterns while working with senior engineers building systems powering inference workloads.</p><p>As a Platform Engineer II, you will be responsible for:</p><ul>\n<li class=\"lst\">Developing and maintaining data plane APIs that enable reliable and performant communication between platform components and inference services.</li>\n<li class=\"lst\">Implementing authentication, authorization, and multi-tenant security controls that ensure isolation and compliance across the platform.</li>\n<li class=\"lst\">Contributing to the design and development of platform services with a focus on reliability, scalability, and maintainability</li>\n<li class=\"lst\">Writing well-tested, well-documented code and participating in code reviews to maintain high engineering standards.</li>\n<li class=\"lst\">Supporting operational readiness through monitoring, alerting, and incident response for platform services you help build.</li>\n</ul><h3>Do what you love</h3><h3>To be successful in this role you will:</h3><ul>\n<li class=\"lst\">Have relevant experience.</li>\n<li class=\"lst\">Demonstrate proficiency in at least one systems programming language such as Go, Python, or Java</li>\n<li class=\"lst\">Show experience building and consuming RESTful or gRPC APIs in a distributed systems environment.</li>\n<li class=\"lst\">Have familiarity with cloud platforms (AWS, GCP, Azure, or Akamai Cloud), containerization, and basic Kubernetes concepts.</li>\n<li class=\"lst\">Demonstrate understanding of authentication and authorization patterns such as OAuth, RBAC, or multi-tenant isolation.</li>\n<li class=\"lst\">Show familiarity with CI/CD pipelines, version control, and modern software development practices.</li>\n<li class=\"lst\">Demonstrate exceptional problem-solving abilities and a willingness to learn and thrive in a dynamic engineering setting.</li>\n</ul><h3>Work in a way that works for you</h3><p>FlexBase, Akamai's Global Flexible Working Program, is based on the principles that are helping us create the best workplace in the world. When our colleagues said that flexible working was important to them, we listened. We also know flexible working is important to many of the incredible people considering joining Akamai. FlexBase, gives 95% of employees the choice to work from their home, their office, or both (in the country advertised). This permanent workplace flexibility program is consistent and fair globally, to help us find incredible talent, virtually anywhere. We are happy to discuss working options for this role and encourage you to speak with your recruiter in more detail when you apply. <br><br>Learn what makes Akamai a great place to work</p>Connect with us on social and see what life at Akamai is like!<p><strong>We power and protect life online, by solving the toughest challenges, together.</strong></p><p>At Akamai, we're curious, innovative, collaborative and tenacious. We celebrate diversity of thought and we hold an unwavering belief that we can make a meaningful difference. Our teams use their global perspectives to put customers at the forefront of everything they do, so if you are people-centric, you'll thrive here.</p><h3>Working for you</h3><p>At Akamai, we will provide you with opportunities to grow, flourish, and achieve great things. Our benefit options are designed to meet your individual needs for today and in the future. We provide benefits surrounding all aspects of your life:</p><ul>\n<li class=\"lst\">Your health</li>\n<li class=\"lst\">Your finances</li>\n<li class=\"lst\">Your family</li>\n<li class=\"lst\">Your time at work</li>\n<li class=\"lst\">Your time pursuing other endeavors</li>\n</ul><p>Our benefit plan options are designed to meet your individual needs and budget, both today and in the future.</p><h3>About us</h3><p>Akamai powers and protects life online. Leading companies worldwide choose Akamai to build, deliver, and secure their digital experiences helping billions of people live, work, and play every day. With the world's most distributed compute platform from cloud to edge we make it easy for customers to develop and run applications, while we keep experiences closer to users and threats farther away.</p><h3>Join us</h3><p>Are you seeking an opportunity to make a real difference in a company with a global reach and exciting services and clients? Come join us and grow with a team of people who will energize and inspire you!</p><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
-      "pubDate": 1788294738,
-      "expiryDate": 1790822436,
-      "applicationLink": "https://himalayas.app/companies/akamai-technologies/jobs/platform-engineer-ii-akamai-inference-cloud-remote-poland",
-      "guid": "https://himalayas.app/companies/akamai-technologies/jobs/platform-engineer-ii-akamai-inference-cloud-remote-poland"
-    },
-    {
-      "title": "Grabador(a) de video POV - Trabaja desde casa",
-      "excerpt": "¿Buscas una forma flexible de generar ingresos extra?",
-      "companyName": "Toloka AI",
-      "companySlug": "toloka-ai",
-      "companyLogo": "https://cdn-images.himalayas.app/b60q3n0t2h9fldmvj89faxoyvym6",
-      "employmentType": "Contractor",
-      "minSalary": null,
-      "maxSalary": null,
-      "salaryPeriod": "hourly",
-      "seniority": [
-        "Entry-level"
-      ],
-      "currency": "USD",
-      "locationRestrictions": [
-        "Chile"
-      ],
-      "timezoneRestrictions": [
-        -6,
-        -4,
-        -3
-      ],
-      "categories": [
-        "Video-Recording",
-        "AI-Data-Collection",
-        "Content-Creation",
-        "Remote-Part-Time-Work",
-        "Data-Collection",
-        "POV-Content-Creator",
-        "Content-Creator"
-      ],
-      "parentCategories": [
-        "Content Creator"
-      ],
-      "description": "<h3>¿Buscas una forma flexible de generar ingresos extra?</h3><p>Estamos invitando personas a participar en un proyecto de entrenamiento de IA grabando actividades reales de su día a día desde casa.</p><p>Graba cuando quieras, utilizando tu propio dispositivo, mientras realizas actividades cotidianas como cocinar, limpiar, organizar espacios o realizar tareas domésticas.</p><h3>Lo que ofrecemos:</h3><h3>• Trabajo remoto y flexible</h3><ul>\n<li>\n<strong>USD $6 </strong>por hora de contenido aprobado<br>• Bono por la primera hora aprobada</li>\n</ul><h3>• Sin experiencia previa</h3><h3>Requisitos:</h3><ul>\n<li>iPhone 16/17, Google Pixel 6+ o Samsung Galaxy S21+ o superior<br>• Nivel básico de inglés</li>\n</ul><h3>• Acceso a internet</h3><p>Tus grabaciones ayudarán a entrenar la próxima generación de sistemas de IA y robótica.</p><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
-      "pubDate": 1788294738,
-      "expiryDate": 1790822403,
-      "applicationLink": "https://himalayas.app/companies/toloka-ai/jobs/grabador-a-de-video-pov-trabaja-desde-casa-6638430198",
-      "guid": "https://himalayas.app/companies/toloka-ai/jobs/grabador-a-de-video-pov-trabaja-desde-casa-6638430198"
-    },
-    {
       "title": "Senior UI & UX / Graphic Designer",
       "excerpt": "Are you a talented Senior Designer looking for a remote job that lets you show your skills and get decent compensation?",
       "companyName": "lemon.io",
@@ -45037,146 +45249,6 @@
       "expiryDate": 1790481532,
       "applicationLink": "https://himalayas.app/companies/spokeo/jobs/data-engineering-manager-71152577",
       "guid": "https://himalayas.app/companies/spokeo/jobs/data-engineering-manager-71152577"
-    },
-    {
-      "title": "AI Engineer",
-      "excerpt": "Job Title: AI Engineer Job Type: Contractor (~15 hrs a week) Location: Remote Schedule: Flexible, you pick the hours and days (including weekends if desired) Job Summary: In this role, you'll apply your expertise to help train next-generation AI systems.",
-      "companyName": "micro1",
-      "companySlug": "micro1",
-      "companyLogo": "https://cdn-images.himalayas.app/91oa56akgt3qjqc1nh3uoruub40c",
-      "employmentType": "Contractor",
-      "minSalary": null,
-      "maxSalary": null,
-      "salaryPeriod": "hourly",
-      "seniority": [
-        "Mid-level"
-      ],
-      "currency": "USD",
-      "locationRestrictions": [],
-      "timezoneRestrictions": [
-        -11,
-        -10,
-        -9.5,
-        -9,
-        -8,
-        -7,
-        -6,
-        -5,
-        -4,
-        -3.5,
-        -3,
-        -2,
-        -1,
-        0,
-        1,
-        2,
-        3,
-        3.5,
-        4,
-        4.5,
-        5,
-        5.5,
-        5.75,
-        6,
-        6.5,
-        7,
-        8,
-        8.75,
-        9,
-        9.5,
-        10,
-        10.5,
-        11,
-        12,
-        12.75,
-        13,
-        14
-      ],
-      "categories": [
-        "AI-Engineer",
-        "Artificial-Intelligence-Engineer",
-        "AI-ML-Engineer",
-        "AI-Engineering-Specialist",
-        "AI-Engineering",
-        "Artificial-Intelligence-Engineering",
-        "Python-AI-Engineer",
-        "AI-Engineering-Jobs"
-      ],
-      "parentCategories": [
-        "Data Science"
-      ],
-      "description": "<p><strong>Job Title:</strong> AI Engineer</p><p><strong>Job Type:</strong> Contractor (~15 hrs a week)</p><p><strong>Location:</strong> Remote</p><p><strong>Schedule: </strong>Flexible, you pick the hours and days (including weekends if desired)</p><p><strong>Job Summary:</strong> In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.</p><p>As an expert you will be creating Reinforcement Learning Environments which test an AI model’s ability to solve complex software engineering problems using Model Context Protocol (MCP) tools. Tasks may involve fixing bugs, implementing features, refactoring code, or optimizing performance while requiring agents to discover and reason over information from real MCP servers. You will design reproducible environments, deterministic verification, and golden reference solutions that accurately measure both MCP tool use and software engineering ability.</p><h3>Required Skills and Qualifications:</h3><ol>\n<li>Proficiency in C++, Python, JAVA, GoLang, Typescript, or Rust.</li>\n<li>Deep understanding of algorithms, data structures, and performance tuning.</li>\n<li>Demonstrated experience in debugging complex software issues and delivering maintainable solutions.</li>\n<li>Strong background in feature development and codebase refactoring.</li>\n<li>Proven ability to optimize software for performance and scalability.</li>\n<li>Exceptional written and verbal communication skills, with a keen attention to detail.</li>\n<li>Track record of success in collaborative, cross-functional teams, ideally in remote settings.</li>\n</ol><h3>Preferred Qualifications:</h3><ol>\n<li>Previous experience working on large-scale, distributed codebases.</li>\n<li>Familiarity with modern AI or machine learning systems is a plus, though not required.</li>\n<li>Background in participating in rigorous code reviews and contributing to the development of software best practices.</li>\n</ol><h3>Process:</h3><ol>\n<li>Apply to the role, filling out the screening questions</li>\n<li>Complete AI Interview (approx. 30 minutes)</li>\n<li>Technical Assessment (Tentative)</li>\n<li>Hiring Manager review</li>\n</ol><h3>Compensation Structure</h3><p>Compensation is output-based; experts are paid per task that meets the project specifications. The time required to complete work may vary depending on the expert’s experience and workflow. Minimum submission requirements apply. Experts must submit a minimum of tasks per week.</p><h3>Start Timeline &amp; Availability</h3><p>We typically fill roles within 48 hours and are looking for experts ready to jump in right away. If selected, we expect you to start your first tasks within 24–48 hours of completing onboarding.</p><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
-      "pubDate": 1788277827,
-      "expiryDate": 1793258415,
-      "applicationLink": "https://himalayas.app/companies/micro1/jobs/ai-engineer-7982880650",
-      "guid": "https://himalayas.app/companies/micro1/jobs/ai-engineer-7982880650"
-    },
-    {
-      "title": "MCP Expert",
-      "excerpt": "Job Title: MCP Expert Job Type: Contractor (~15 hrs a week) Location: Remote Schedule: Flexible, you pick the hours and days (including weekends if desired) Job Summary: In this role, you'll apply your expertise to help train next-generation AI systems.",
-      "companyName": "micro1",
-      "companySlug": "micro1",
-      "companyLogo": "https://cdn-images.himalayas.app/91oa56akgt3qjqc1nh3uoruub40c",
-      "employmentType": "Contractor",
-      "minSalary": null,
-      "maxSalary": null,
-      "salaryPeriod": "hourly",
-      "seniority": [
-        "Mid-level"
-      ],
-      "currency": "USD",
-      "locationRestrictions": [],
-      "timezoneRestrictions": [
-        -11,
-        -10,
-        -9.5,
-        -9,
-        -8,
-        -7,
-        -6,
-        -5,
-        -4,
-        -3.5,
-        -3,
-        -2,
-        -1,
-        0,
-        1,
-        2,
-        3,
-        3.5,
-        4,
-        4.5,
-        5,
-        5.5,
-        5.75,
-        6,
-        6.5,
-        7,
-        8,
-        8.75,
-        9,
-        9.5,
-        10,
-        10.5,
-        11,
-        12,
-        12.75,
-        13,
-        14
-      ],
-      "categories": [
-        "MCP-Developer",
-        "MCP-Solutions-Architect",
-        "MCP-Agent-Development",
-        "MCP-Server-Development"
-      ],
-      "parentCategories": [],
-      "description": "<p><strong>Job Title:</strong> MCP Expert</p><p><strong>Job Type:</strong> Contractor (~15 hrs a week)</p><p><strong>Location:</strong> Remote</p><p><strong>Schedule: </strong>Flexible, you pick the hours and days (including weekends if desired)</p><p><strong>Job Summary:</strong> In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.</p><p>As an expert you will be creating Reinforcement Learning Environments which test an AI model’s ability to solve complex software engineering problems using Model Context Protocol (MCP) tools. Tasks may involve fixing bugs, implementing features, refactoring code, or optimizing performance while requiring agents to discover and reason over information from real MCP servers. You will design reproducible environments, deterministic verification, and golden reference solutions that accurately measure both MCP tool use and software engineering ability.</p><h3>Required Skills and Qualifications:</h3><ol>\n<li>Proficiency in C++, Python, JAVA, GoLang, Typescript, or Rust.</li>\n<li>Deep understanding of algorithms, data structures, and performance tuning.</li>\n<li>Demonstrated experience in debugging complex software issues and delivering maintainable solutions.</li>\n<li>Strong background in feature development and codebase refactoring.</li>\n<li>Proven ability to optimize software for performance and scalability.</li>\n<li>Exceptional written and verbal communication skills, with a keen attention to detail.</li>\n<li>Track record of success in collaborative, cross-functional teams, ideally in remote settings.</li>\n</ol><h3>Preferred Qualifications:</h3><ol>\n<li>Previous experience working on large-scale, distributed codebases.</li>\n<li>Familiarity with modern AI or machine learning systems is a plus, though not required.</li>\n<li>Background in participating in rigorous code reviews and contributing to the development of software best practices.</li>\n</ol><h3>Process:</h3><ol>\n<li>Apply to the role, filling out the screening questions</li>\n<li>Complete AI Interview (approx. 30 minutes)</li>\n<li>Technical Assessment (Tentative)</li>\n<li>Hiring Manager review</li>\n</ol><h3>Compensation Structure</h3><p>Compensation is output-based; experts are paid per task that meets the project specifications. The time required to complete work may vary depending on the expert’s experience and workflow. Minimum submission requirements apply. Experts must submit a minimum of tasks per week.</p><h3>Start Timeline &amp; Availability</h3><p>We typically fill roles within 48 hours and are looking for experts ready to jump in right away. If selected, we expect you to start your first tasks within 24–48 hours of completing onboarding.</p><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
-      "pubDate": 1788277827,
-      "expiryDate": 1792801347,
-      "applicationLink": "https://himalayas.app/companies/micro1/jobs/mcp-expert",
-      "guid": "https://himalayas.app/companies/micro1/jobs/mcp-expert"
     },
     {
       "title": "Agentic Python Engineer",
