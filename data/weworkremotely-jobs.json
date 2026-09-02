@@ -1,7 +1,22 @@
 {
-  "generatedAt": "2026-09-02T03:09:24.933Z",
-  "count": 249,
+  "generatedAt": "2026-09-02T10:49:13.099Z",
+  "count": 248,
   "jobs": [
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-ai-augmented-engineering",
+      "source": "weworkremotely",
+      "title": "Senior Ruby on Rails Developer (AI-Augmented Engineering)",
+      "company": "Proxify AB",
+      "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-ai-augmented-engineering",
+      "description": "Headquarters: Sweden URL: http://career.proxify.io The Role: &nbsp; We are seeking a Senior Ruby on Rails Developer who treats software engineering as an art form and a discipline. In this role, you will lead the development and scaling of highly responsive, business-critical web applications. You won't just build features; you will optimize system architectures, manage complex domain models, and champion engineering practices that keep codebases sustainable over long lifecycles. &nbsp; We look for developers who understand the core principles of software craftsmanship and can leverage modern technologies—like AI development workflows—to compress delivery timelines without compromising code quality. If you are an active contributor to the broader tech community and are obsessed with writin",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Back-End Programming",
+        "programming"
+      ],
+      "postedAt": "Fri, 14 Aug 2026 10:13:03 +0000",
+      "category": "programming"
+    },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-9",
       "source": "weworkremotely",
@@ -363,21 +378,6 @@
       "category": "programming"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/faire-senior-staff-data-engineer-platform-data-and-analytics",
-      "source": "weworkremotely",
-      "title": "Senior Staff Data Engineer - Platform Data and Analytics",
-      "company": "Faire",
-      "url": "https://weworkremotely.com/remote-jobs/faire-senior-staff-data-engineer-platform-data-and-analytics",
-      "description": "Headquarters: Remote - US About Faire Faire is a technology wholesale platform built on the belief that the future is local. Independent retailers around the globe collectively represent a multi-hundred-billion-dollar wholesale market that has historically been fragmented and offline. At Faire, we're using the power of tech, data, and machine learning to connect this thriving community of entrepreneurs across the globe. Picture your favorite boutique in town — we help them discover the best products from around the world to sell in their stores. With the right tools and insights, we believe that we can level the playing field so businesses can grow and local communities can thrive. We’re looking for smart, resourceful and passionate people to join us as we power the shop local movement. If",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "programming"
-      ],
-      "postedAt": "Mon, 03 Aug 2026 07:30:43 +0000",
-      "category": "programming"
-    },
-    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/circleci-senior-software-engineer",
       "source": "weworkremotely",
       "title": "Senior Software Engineer",
@@ -570,21 +570,6 @@
         "devops"
       ],
       "postedAt": "Thu, 06 Aug 2026 07:30:49 +0000",
-      "category": "devops"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/platform-sh-it-systems-engineer",
-      "source": "weworkremotely",
-      "title": "IT Systems Engineer",
-      "company": "Platform.sh",
-      "url": "https://weworkremotely.com/remote-jobs/platform-sh-it-systems-engineer",
-      "description": "Headquarters: Remote • Canada, France, Spain, Germany, UK About Upsun (formerly Platform.sh)&nbsp; Upsun is the cloud application platform humans and robots love. It is built for today’s hybrid teams, where AI agents write and test code and humans focus on solving the problems that really matter. Developers, DevOps engineers, and platform teams use Upsun to build, ship, and scale confidently without wrestling with backend infrastructure. We give you your time back. You get: Predictable performance, even at scale Secure, compliant environments by default&nbsp; Real-time observability and profiling built in Cloning, configuration, and provisioning in seconds&nbsp; AI-ready features that plug directly into your stack The name says it all. \"Up\" means uptime, reliability, and acceleration. \"Sun",
-      "location": "Anywhere in the World",
-      "tags": [
-        "DevOps and Sysadmin",
-        "devops"
-      ],
-      "postedAt": "Mon, 03 Aug 2026 07:30:43 +0000",
       "category": "devops"
     },
     {
