@@ -1,7 +1,37 @@
 {
-  "generatedAt": "2026-09-04T03:10:32.609Z",
-  "count": 189,
+  "generatedAt": "2026-09-04T10:42:33.398Z",
+  "count": 190,
   "jobs": [
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/samsara-staff-software-engineer",
+      "source": "weworkremotely",
+      "title": "Staff Software Engineer",
+      "company": "Samsara",
+      "url": "https://weworkremotely.com/remote-jobs/samsara-staff-software-engineer",
+      "description": "Headquarters: Remote URL: https://www.samsara.com/ About the role: Samsara (NYSE: IOT) sits at the center of hardware, software, AI, and the physical world. The platform processes 25+ trillion data points annually from IoT sensors, cameras, and connected devices across thousands of organizations, and that dataset is compounding: it grew from 4 trillion to 25+ trillion in four years. We're still early in turning that data into the products that will define how physical operations run, and we're hiring the engineers who will build what comes next. We're approaching ~$2B ARR growing 30%+ year over year, with 96% of our largest customers on two or more products. The fastest-growing divisions at Samsara are tackling the hardest, most ambiguous problems at the company: building new products from",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "programming"
+      ],
+      "postedAt": "Mon, 17 Aug 2026 13:57:14 +0000",
+      "category": "programming"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/collaboration-ai-senior-software-ai-engineer",
+      "source": "weworkremotely",
+      "title": "Senior Software AI Engineer",
+      "company": "Collaboration.Ai",
+      "url": "https://weworkremotely.com/remote-jobs/collaboration-ai-senior-software-ai-engineer",
+      "description": "Headquarters: Minneapolis, MN URL: http://collaboration.ai Who We Are Collaboration.Ai is a mission-focused, AI-powered software and services company based in Minnesota, with employees, partners, and customers around the world. We unite people, technology, and purpose to accelerate breakthroughs that transform industries, empower communities, and create a more sustainable future. We collaborate with organizations across the defense ecosystem, helping them navigate complex challenges and drive transformative change. Our Products NetworkOS — NetworkOS is an AI-powered platform that aligns people, purpose, ideas, and expertise in real-time, generating actionable insights to propel movements forward. CrowdVector — CrowdVector is an integrated solution marketplace and innovation management plat",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Back-End Programming",
+        "programming"
+      ],
+      "postedAt": "Mon, 17 Aug 2026 11:57:38 +0000",
+      "category": "programming"
+    },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/collaboration-ai-senior-software-engineer",
       "source": "weworkremotely",
@@ -348,36 +378,6 @@
       "category": "programming"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/lemon-io-senior-ai-engineer-4",
-      "source": "weworkremotely",
-      "title": "Senior AI Engineer",
-      "company": "Lemon.io",
-      "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-ai-engineer-4",
-      "description": "Headquarters: New York, NY URL: https://lemon.io Are you a talented Senior AI Engineer/Architect looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. We'll manually find the best project for you according to your skills and preferences. Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours. We respect your seniority so you can expect no",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Back-End Programming",
-        "programming"
-      ],
-      "postedAt": "Wed, 05 Aug 2026 08:23:41 +0000",
-      "category": "programming"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1",
-      "source": "weworkremotely",
-      "title": "FULL TIME: Software Engineer Position - React and Rest",
-      "company": "Yooli",
-      "url": "https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1",
-      "description": "Headquarters: Australia URL: http://yooli.co Job description We are seeking a highly skilled Senior Software Engineer to join our team and contribute to the transformative tech evolution in healthcare.&nbsp; This critical role involves developing, integrating, and optimising our backend and database systems.&nbsp; You will work closely with our Chief Engineer and CTO to build and refine our software solutions, ensuring they remain at the cutting edge of innovation. &nbsp; Your Role: Develop and maintain robust backend services using NestJS and Node.js , ensuring top-tier performance and security. Design and manage efficient REST API endpoints to optimise interactions with our SQL database. Collaborate with cross-functional teams to define, design, and deploy new features, focusing on backe",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "programming"
-      ],
-      "postedAt": "Wed, 05 Aug 2026 05:52:46 +0000",
-      "category": "programming"
-    },
-    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/circleci-senior-software-engineer",
       "source": "weworkremotely",
       "title": "Senior Software Engineer",
@@ -510,21 +510,6 @@
         "devops"
       ],
       "postedAt": "Mon, 24 Aug 2026 07:30:47 +0000",
-      "category": "devops"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/beyondtrust-associate-instructor",
-      "source": "weworkremotely",
-      "title": "Associate Instructor",
-      "company": "BeyondTrust",
-      "url": "https://weworkremotely.com/remote-jobs/beyondtrust-associate-instructor",
-      "description": "Headquarters: Remote Canada | East Coast Canada BeyondTrust is a place where you can bring your purpose to life through the work that you do, creating a safer world through our cybersecurity SaaS portfolio. Our culture of flexibility, trust, and continual learning means you will be recognized for your growth, and for the impact you make on our success. You will be surrounded by people who challenge, support, and inspire you to be the best version of yourself. The Role The Associate Instructor is a junior instructional role within BeyondTrust University, designed to develop foundational skills in technical training delivery and course support. Working closely with senior Instructors and the broader Education team, the Associate Instructor learns the tools, platforms, and product knowledge n",
-      "location": "Anywhere in the World",
-      "tags": [
-        "DevOps and Sysadmin",
-        "devops"
-      ],
-      "postedAt": "Sat, 22 Aug 2026 07:31:03 +0000",
       "category": "devops"
     },
     {
@@ -1111,6 +1096,36 @@
       ],
       "postedAt": "Fri, 07 Aug 2026 07:31:06 +0000",
       "category": "product"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/fin-senior-solutions-engineer-latam",
+      "source": "weworkremotely",
+      "title": "Senior Solutions Engineer- LATAM",
+      "company": "Fin",
+      "url": "https://weworkremotely.com/remote-jobs/fin-senior-solutions-engineer-latam",
+      "description": "Headquarters: NYC, Remote; San Francisco, California Fin is the AI Customer Agent company on a mission to help businesses provide perfect customer experiences. Our AI Agent Fin is the highest-performing AI Customer Agent on the market today, enabling businesses to deliver impeccable, always-on customer support across the customer journey – from service, to sales, to ecommerce. Powered by our own AI models, Fin resolves complex customer issues end-to-end across every channel, with minimal set-up and integration. Fin can also be combined with our natively integrated Intercom help desk for one single system that is designed to meet the needs of modern day support teams. Founded in 2011, Fin became one of the fastest growing companies and remains one of the largest private software companies i",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Fri, 04 Sep 2026 07:30:56 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/prove-director-channel-partnerships",
+      "source": "weworkremotely",
+      "title": "Director, Channel & Partnerships",
+      "company": "Prove",
+      "url": "https://weworkremotely.com/remote-jobs/prove-director-channel-partnerships",
+      "description": "Headquarters: New York, NY; United States (Remote) About Prove&nbsp; As the world moves to a mobile-first economy, businesses need to modernize how they acquire, engage with and enable consumers. Prove’s phone-centric identity tokenization and passive cryptographic authentication solutions reduce friction, enhance security and privacy across all digital channels, and accelerate revenues while reducing operating expenses and fraud losses. Over 1,000 enterprise customers use Prove’s platform to process 20 billion customer requests annually across industries, including banking, lending, healthcare, gaming, crypto, e-commerce, marketplaces, and payments. For the latest updates from Prove, follow us on LinkedIn. Prove is driving the future of digital identity. We are looking for Provers who kno",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Fri, 04 Sep 2026 07:30:53 +0000",
+      "category": "full-stack"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/airbnb-senior-data-scientist-guest-host",
@@ -2538,18 +2553,18 @@
       "category": "full-stack"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/samsara-staff-software-engineer",
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1",
       "source": "weworkremotely",
-      "title": "Staff Software Engineer",
-      "company": "Samsara",
-      "url": "https://weworkremotely.com/remote-jobs/samsara-staff-software-engineer",
-      "description": "Headquarters: Remote URL: https://www.samsara.com/ About the role: Samsara (NYSE: IOT) sits at the center of hardware, software, AI, and the physical world. The platform processes 25+ trillion data points annually from IoT sensors, cameras, and connected devices across thousands of organizations, and that dataset is compounding: it grew from 4 trillion to 25+ trillion in four years. We're still early in turning that data into the products that will define how physical operations run, and we're hiring the engineers who will build what comes next. We're approaching ~$2B ARR growing 30%+ year over year, with 96% of our largest customers on two or more products. The fastest-growing divisions at Samsara are tackling the hardest, most ambiguous problems at the company: building new products from",
+      "title": "FULL TIME: Software Engineer Position - React and Rest",
+      "company": "Yooli",
+      "url": "https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1",
+      "description": "Headquarters: Australia URL: http://yooli.co Job description We are seeking a highly skilled Senior Software Engineer to join our team and contribute to the transformative tech evolution in healthcare.&nbsp; This critical role involves developing, integrating, and optimising our backend and database systems.&nbsp; You will work closely with our Chief Engineer and CTO to build and refine our software solutions, ensuring they remain at the cutting edge of innovation. &nbsp; Your Role: Develop and maintain robust backend services using NestJS and Node.js , ensuring top-tier performance and security. Design and manage efficient REST API endpoints to optimise interactions with our SQL database. Collaborate with cross-functional teams to define, design, and deploy new features, focusing on backe",
       "location": "Anywhere in the World",
       "tags": [
         "Full-Stack Programming",
         "full-stack"
       ],
-      "postedAt": "Mon, 17 Aug 2026 13:57:14 +0000",
+      "postedAt": "Wed, 05 Aug 2026 05:52:46 +0000",
       "category": "full-stack"
     },
     {
