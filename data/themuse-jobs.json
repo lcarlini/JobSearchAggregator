@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T14:43:46.321Z",
+  "generatedAt": "2026-09-05T20:02:32.130Z",
   "count": 202,
   "jobs": [
     {
@@ -343,6 +343,40 @@
         "id": 15000801,
         "short_name": "morganproperties",
         "name": "Morgan Properties"
+      }
+    },
+    {
+      "contents": "<div><p>SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of&nbsp;enabling human life on Mars.</p></div>\n\n<p><strong>OPERATIONS ENGINEER (STARLINK)</strong></p>\n\n<p>One of the most ambitious missions that SpaceX has undertaken to date, the Starlink network is our solution to providing reliable internet to the entire world. We are looking for a talented engineer to help design processes and systems for factories that will output millions of Starlink user terminals, silicon packaging chips, and solar cells.</p>\n\n<p>The success of Starlink depends on the quality, reliability, cost, manufacturability, throughput, and security of the products that we deliver. If you seek a fast-paced, dynamic environment; if you thrive on solving difficult problems where resolutions have a high impact; and if you love the challenge of building something from scratch, then this role will be an ideal next career step.</p>\n\n<p><strong>RESPONSIBILITIES:</strong></p>\n\n<ul>\n<li>Develop Starlink factory design on a physical and digital level, including building requirements, facility resources, and part flow to meet production rate of millions of units/year</li>\n<li>Ownership of floor layouts, capacity studies, and product flow analysis to ensure on-time product delivery</li>\n<li>Coordinate and schedule construction activities with internal SpaceX teams and external general/sub-contractors</li>\n<li>Develop and maintain project schedules and budgets for capital projects, monitoring progress and addressing deviations in real time</li>\n<li>Define new business processes and systems for high volume production, including manufacturing execution, inventory management, nonconformance resolution, configuration management, material traceability, process control, and maintenance</li>\n<li>Act as subject matter expert in multiple Starlink production processes and systems, enabling complex data gathering, troubleshooting, and problem solving</li>\n<li>Implement data acquisition and tracking for production and quality metrics, as well as environmental, testing, and safety controls</li>\n<li>Assist production/engineering leadership team to identify trends and opportunities for optimizing product output, quality enhancements, and cost of manufacturability</li>\n<li>Consistently contribute effort, leadership, and creative thinking to solving complex problems in a collaborative fashion and under tight deadlines</li>\n<li>Collaborate across disciplines including Engineering, Production, Test, Inventory, Quality, Supply Chain, and Customer Experience to ensure efficiency and consistency across the organization</li>\n</ul>\n\n<p><strong>BASIC QUALIFICATIONS:</strong></p>\n\n<ul>\n<li>Bachelor’s degree in mechanical, software, industrial, or other engineering discipline</li>\n<li>1+ years of experience in manufacturing or industrial project management (collegiate extracurricular engineering projects such as lab projects, Formula SAE, Baja SAE, Design Build Fly team, competitions, or internships qualify)</li>\n</ul>\n\n<p><strong>PREFERRED SKILLS AND EXPERIENCE:</strong></p>\n\n<ul>\n<li>High-volume production experience (consumer goods, automotive, etc.)</li>\n<li>Project management experience, particularly related to creating or overhauling cross-functional business processes in a high-volume manufacturing environment</li>\n<li>Experience working with contractors on infrastructure projects across multiple disciplines</li>\n<li>Working knowledge of mechanical, electrical, and plumbing infrastructure</li>\n<li>Experience working with AutoCAD or Revit models</li>\n<li>Knowledge of database structures and SQL</li>\n<li>Understanding of lean engineering and Six Sigma concepts and their application</li>\n<li>Experience with production automation and tooling</li>\n<li>Excellent written and verbal communication skills</li>\n<li>Experience analyzing large datasets and communicating conclusions</li>\n<li>Experience supporting production of complex electro-mechanical systems in high volume work centers and/or during production ramp-up</li>\n<li>Ability to identify customer needs, gather requirements, and execute independently</li>\n<li>Creative approach to problem solving and exceptional analytical skills</li>\n<li>Ability to work effectively in a dynamic environment that includes working with changing needs and requirements</li>\n</ul>\n\n<p><strong>ADDITIONAL REQUIREMENTS:</strong></p>\n\n<ul>\n<li>Must be able to work extended hours and/or weekends when needed to meet major milestones&nbsp;</li>\n<li>Must be willing to travel up to 10%</li>\n<li>This position is based in Bastrop, TX and requires being onsite - remote work not considered</li>\n</ul>\n\n<div><p><strong>ITAR REQUIREMENTS:</strong></p>\n<ul>\n<li>To conform to U.S. Government export regulations, applicant must be a (i) U.S. citizen or national, (ii) U.S. lawful, permanent resident (aka green card holder), (iii) Refugee under 8 U.S.C. § 1157, or (iv) Asylee under 8 U.S.C. § 1158, or be eligible to obtain the required authorizations from the U.S. Department of State. Learn more about the ITAR <a href=\"https://www.pmddtc.state.gov/?id=ddtc_kb_article_page&amp;sys_id=24d528fddbfc930044f9ff621f961987\" rel=\"noopener noreferrer\">here</a>. &nbsp;</li>\n</ul>\n<p>SpaceX is an Equal Opportunity Employer; employment with SpaceX is governed on the basis of merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other legally protected status.</p>\n<p>Applicants wishing to view a copy of SpaceX’s Affirmative Action Plan for veterans and individuals with disabilities, or applicants requiring reasonable accommodation to the application/interview process should reach out to&nbsp;<a href=\"mailto:EEOCompliance@spacex.com\" rel=\"noopener noreferrer\">EEOCompliance@spacex.com</a><em>.&nbsp;</em></p></div>",
+      "name": "Operations Engineer (Starlink Production)",
+      "type": "external",
+      "publication_date": "2026-09-05T18:34:43Z",
+      "short_name": "operations-engineer-starlink-production-df477a",
+      "model_type": "jobs",
+      "id": 21836748,
+      "locations": [
+        {
+          "name": "Lockhart, TX"
+        }
+      ],
+      "categories": [
+        {
+          "name": "Software Engineering"
+        }
+      ],
+      "levels": [
+        {
+          "name": "Senior Level",
+          "short_name": "senior"
+        }
+      ],
+      "tags": [],
+      "refs": {
+        "landing_page": "https://www.themuse.com/jobs/spacex/operations-engineer-starlink-production-df477a"
+      },
+      "company": {
+        "id": 15000190,
+        "short_name": "spacex",
+        "name": "SpaceX"
       }
     },
     {
@@ -2275,40 +2309,6 @@
       "tags": [],
       "refs": {
         "landing_page": "https://www.themuse.com/jobs/spacex/thermal-engineer-falcon-dragon-starfall"
-      },
-      "company": {
-        "id": 15000190,
-        "short_name": "spacex",
-        "name": "SpaceX"
-      }
-    },
-    {
-      "contents": "<div><p>SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of&nbsp;enabling human life on Mars.</p></div>\n\n<p><strong>FACTORY BUILD ENGINEER (STARLINK PRODUCTION)</strong></p>\n\n<p>One of the most ambitious missions that SpaceX has undertaken to date, the Starlink network is our solution to providing reliable internet to the entire world. We are looking for a talented engineer to help design processes and systems for factories that will output millions of Starlink user terminals, silicon packaging chips, and solar cells.</p>\n\n<p>The success of Starlink depends on the quality, reliability, cost, manufacturability, throughput, and security of the products that we deliver. If you seek a fast-paced, dynamic environment; if you thrive on solving difficult problems where resolutions have a high impact; and if you love the challenge of building something from scratch, then this role will be an ideal next career step.</p>\n\n<p><strong>RESPONSIBILITIES:</strong></p>\n\n<ul>\n<li>Develop user terminal production factory design on a physical and digital level, including building requirements, facility resources, and part flow to meet production rate of millions of units/year</li>\n<li>Ownership of floor layouts, capacity studies, and product flow analysis to ensure on-time product delivery</li>\n<li>Coordinate and schedule construction activities with internal SpaceX teams and external general/sub-contractors</li>\n<li>Develop and maintain project schedules and budgets for capital projects, monitoring progress and addressing deviations in real time</li>\n<li>Define new business processes and systems for high volume production, including manufacturing execution, inventory management, nonconformance resolution, configuration management, material traceability, process control, and maintenance</li>\n<li>Act as subject matter expert in multiple Starlink production processes and systems, enabling complex data gathering, troubleshooting, and problem solving</li>\n<li>Implement data acquisition and tracking for production and quality metrics, as well as environmental, testing, and safety controls</li>\n<li>Assist production/engineering leadership team to identify trends and opportunities for optimizing product output, quality enhancements, and cost of manufacturability</li>\n<li>Consistently contribute effort, leadership, and creative thinking to solving complex problems in a collaborative fashion and under tight deadlines</li>\n<li>Collaborate across disciplines including Engineering, Production, Test, Inventory, Quality, Supply Chain, and Customer Experience to ensure efficiency and consistency across the organization</li>\n</ul>\n\n<p><strong>BASIC QUALIFICATIONS:</strong></p>\n\n<ul>\n<li>Bachelor’s degree in mechanical, software, industrial, or other engineering discipline</li>\n<li>1+ years of experience in manufacturing or industrial project management (collegiate extracurricular engineering projects such as lab projects, Formula SAE, Baja SAE, Design Build Fly team, competitions, or internships qualify)</li>\n</ul>\n\n<p><strong>PREFERRED SKILLS AND EXPERIENCE:</strong></p>\n\n<ul>\n<li>High-volume production experience (consumer goods, automotive, etc.)</li>\n<li>Project management experience, particularly related to creating or overhauling cross-functional business processes in a high-volume manufacturing environment</li>\n<li>Experience working with contractors on infrastructure projects across multiple disciplines</li>\n<li>Working knowledge of mechanical, electrical, and plumbing infrastructure</li>\n<li>Experience working with AutoCAD or Revit models</li>\n<li>Knowledge of database structures and SQL</li>\n<li>Understanding of lean engineering and Six Sigma concepts and their application</li>\n<li>Experience with production automation and tooling</li>\n<li>Excellent written and verbal communication skills</li>\n<li>Experience analyzing large datasets and communicating conclusions</li>\n<li>Experience supporting production of complex electro-mechanical systems in high volume work centers and/or during production ramp-up</li>\n<li>Ability to identify customer needs, gather requirements, and execute independently</li>\n<li>Creative approach to problem solving and exceptional analytical skills</li>\n<li>Ability to work effectively in a dynamic environment that includes working with changing needs and requirements</li>\n</ul>\n\n<p><strong>ADDITIONAL REQUIREMENTS:</strong></p>\n\n<ul>\n<li>Must be able to work extended hours and/or weekends when needed to meet major milestones&nbsp;</li>\n<li>Must be willing to travel up to 10%</li>\n<li>This position is based in Bastrop, TX and requires being onsite - remote work not considered</li>\n</ul>\n\n<div><p><strong>ITAR REQUIREMENTS:</strong></p>\n<ul>\n<li>To conform to U.S. Government export regulations, applicant must be a (i) U.S. citizen or national, (ii) U.S. lawful, permanent resident (aka green card holder), (iii) Refugee under 8 U.S.C. § 1157, or (iv) Asylee under 8 U.S.C. § 1158, or be eligible to obtain the required authorizations from the U.S. Department of State. Learn more about the ITAR <a href=\"https://www.pmddtc.state.gov/?id=ddtc_kb_article_page&amp;sys_id=24d528fddbfc930044f9ff621f961987\" rel=\"noopener noreferrer\">here</a>. &nbsp;</li>\n</ul>\n<p>SpaceX is an Equal Opportunity Employer; employment with SpaceX is governed on the basis of merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other legally protected status.</p>\n<p>Applicants wishing to view a copy of SpaceX’s Affirmative Action Plan for veterans and individuals with disabilities, or applicants requiring reasonable accommodation to the application/interview process should reach out to&nbsp;<a href=\"mailto:EEOCompliance@spacex.com\" rel=\"noopener noreferrer\">EEOCompliance@spacex.com</a><em>.&nbsp;</em></p></div>",
-      "name": "Factory Build Engineer (Starlink Production)",
-      "type": "external",
-      "publication_date": "2026-06-29T23:36:24Z",
-      "short_name": "factory-build-engineer-starlink-production",
-      "model_type": "jobs",
-      "id": 21900408,
-      "locations": [
-        {
-          "name": "Lockhart, TX"
-        }
-      ],
-      "categories": [
-        {
-          "name": "Software Engineering"
-        }
-      ],
-      "levels": [
-        {
-          "name": "Senior Level",
-          "short_name": "senior"
-        }
-      ],
-      "tags": [],
-      "refs": {
-        "landing_page": "https://www.themuse.com/jobs/spacex/factory-build-engineer-starlink-production"
       },
       "company": {
         "id": 15000190,
