@@ -1,7 +1,37 @@
 {
-  "generatedAt": "2026-09-07T03:08:47.591Z",
-  "count": 192,
+  "generatedAt": "2026-09-07T11:45:39.986Z",
+  "count": 193,
   "jobs": [
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/summa-linguae-technologies-digital-design-diagram-creators",
+      "source": "weworkremotely",
+      "title": "Digital Design Diagram Creators",
+      "company": "Summa Linguae Technologies",
+      "url": "https://weworkremotely.com/remote-jobs/summa-linguae-technologies-digital-design-diagram-creators",
+      "description": "Headquarters: Kraków, Poland DATAmundi.ai is preparing for an upcoming large-scale dataset project. We expect to onboard approximately 50–100 experts within a short timeframe. To support smooth and efficient launch, we are expanding our expert pool in advance. Who We Are Looking For Individuals with knowledge or studies in: digital systems, hardware design, digital logic and electronics, FPGA/ASIC fundamentals, HDL languages (Verilog / SystemVerilog preferred; VHDL optional) Proficiency in English sufficient to follow instructions and communicate clearly. Ideal profile: recent graduates of technical fields or enthusiasts with relevant practical experience. Project Overview The project involves creating a dataset of diagram images paired with one of two types of technical artefacts: Diagram",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "programming"
+      ],
+      "postedAt": "Tue, 18 Aug 2026 20:32:04 +0000",
+      "category": "programming"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/myneva-senior-devops-engineer-m-f-d",
+      "source": "weworkremotely",
+      "title": "Senior DevOps Engineer (m/f/d)",
+      "company": "Myneva",
+      "url": "https://weworkremotely.com/remote-jobs/myneva-senior-devops-engineer-m-f-d",
+      "description": "Headquarters: Portugal, remote, Germany, Greifswald Your mission As a Senior DevOps Engineer, you play a central role in enabling reliable, scalable, and observable operation of a new, strategically important web-based product within the myneva portfolio. You work closely with development teams to ensure that software can be deployed, operated, and evolved efficiently across different environments and customer setups. You act as the technical expert for containerization, deployment models, and operational architecture, helping teams make informed decisions around infrastructure, networking, hardware requirements, and runtime environments. In this role, you combine deep technical expertise with a strong enablement mindset, supporting development teams with tools, standards, and guidance — i",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "programming"
+      ],
+      "postedAt": "Tue, 18 Aug 2026 20:32:02 +0000",
+      "category": "programming"
+    },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/charisma-tec-junior-devops-engineer-ci-cd-developer-tooling-remote-m-f-d",
       "source": "weworkremotely",
@@ -348,34 +378,19 @@
       "category": "programming"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/lattice-engineering-manager-ai-1",
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/fastly-senior-sre-networks",
       "source": "weworkremotely",
-      "title": "Engineering Manager, AI",
-      "company": "Lattice",
-      "url": "https://weworkremotely.com/remote-jobs/lattice-engineering-manager-ai-1",
-      "description": "Headquarters: Remote - Canada Location Requirement: This role is open to candidates located in British Columbia or Ontario, Canada. At this time, we are only able to hire employees residing in these provinces. This is Engineering at Lattice Lattice's Engineering team is dedicated to building cutting-edge solutions that empower people and organizations to thrive. As AI becomes fundamental to every product experience, ensuring those systems are trustworthy, measurable, and continuously improving is one of the company's most important engineering challenges. The AI Intelligence Quality (IQ) team owns that challenge. We build the AI Platform that enables every AI team at Lattice to measure quality, detect regressions, run experiments, and continuously improve AI performance with confidence. Th",
+      "title": "Senior SRE - Networks",
+      "company": "Fastly",
+      "url": "https://weworkremotely.com/remote-jobs/fastly-senior-sre-networks",
+      "description": "Headquarters: United Kingdom (Remote) Fastly helps people stay better connected with the things they love. Fastly’s edge cloud platform enables customers to create great digital experiences quickly, securely, and reliably by processing, serving, and securing our customers’ applications as close to their end-users as possible — at the edge of the Internet. The platform is designed to take advantage of the modern internet, to be programmable, and to support agile software development. Fastly’s customers include many of the world’s most prominent companies, including GitHub, Yelp, Paramount, and JetBlue. We're building a more trustworthy Internet. Come join us. Senior SRE - Networks Fastly’s Technical Operations (TechOps) team is responsible for building & operating the infrastructure that po",
       "location": "Anywhere in the World",
       "tags": [
-        "Full-Stack Programming",
-        "programming"
+        "DevOps and Sysadmin",
+        "devops"
       ],
-      "postedAt": "Sat, 08 Aug 2026 07:30:54 +0000",
-      "category": "programming"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/lattice-engineering-manager-ai",
-      "source": "weworkremotely",
-      "title": "Engineering Manager, AI",
-      "company": "Lattice",
-      "url": "https://weworkremotely.com/remote-jobs/lattice-engineering-manager-ai",
-      "description": "Headquarters: Remote - US This is Engineering at Lattice Lattice's Engineering team is dedicated to building cutting-edge solutions that empower people and organizations to thrive. As AI becomes fundamental to every product experience, ensuring those systems are trustworthy, measurable, and continuously improving is one of the company's most important engineering challenges. The AI Intelligence Quality (IQ) team owns that challenge. We build the AI Platform that enables every AI team at Lattice to measure quality, detect regressions, run experiments, and continuously improve AI performance with confidence. The platform you lead won't power a single product—it will shape the quality of every AI experience we deliver, becoming a foundational capability for how AI is built at Lattice. What Yo",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "programming"
-      ],
-      "postedAt": "Sat, 08 Aug 2026 07:30:46 +0000",
-      "category": "programming"
+      "postedAt": "Mon, 07 Sep 2026 07:30:54 +0000",
+      "category": "devops"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/vonage-aem-developer",
@@ -1066,6 +1081,36 @@
       ],
       "postedAt": "Fri, 07 Aug 2026 18:27:08 +0000",
       "category": "product"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/legion-director-of-production-engineering",
+      "source": "weworkremotely",
+      "title": "Director of Production Engineering",
+      "company": "Legion",
+      "url": "https://weworkremotely.com/remote-jobs/legion-director-of-production-engineering",
+      "description": "Headquarters: Remote, United States Director of Production Engineering&nbsp; Remote, United States About this Position Are you passionate about building the reliability, automation, and security foundations that let engineering teams move fast with confidence? At Legion, we are seeking a Director of Engineering, DevOps & SRE to lead the teams responsible for the availability, scalability, and security of our production environment. Our production infrastructure runs on AWS, leveraging services such as EKS, RDS, and a broad set of AWS-native technologies. You will partner closely with engineering and IT to build resilient systems, drive operational excellence, and ensure our platform meets the highest standards of security and compliance. This is a hands-on leadership role where you'll spen",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Mon, 07 Sep 2026 07:30:54 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/legion-chief-architect",
+      "source": "weworkremotely",
+      "title": "Chief Architect",
+      "company": "Legion",
+      "url": "https://weworkremotely.com/remote-jobs/legion-chief-architect",
+      "description": "Headquarters: Remote, United States Chief Architect Remote - US Legion Technologies is building the AI-powered operating system for the hourly workforce. We are hiring a Chief Architect to serve as Legion’s most senior hands-on technical leader and to shape the technical foundation that will power the next decade of product innovation. This is not a strategy-only or advisory role. The Chief Architect must live close to the code, go deep with engineering teams, challenge assumptions, write and review technical designs, make high-consequence architecture decisions, and help turn bold product ambitions into scalable, reliable production systems. This person will own architecture and technical decision-making for the most complex parts of Legion’s Workforce Management platform, including AI, o",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Mon, 07 Sep 2026 07:30:47 +0000",
+      "category": "full-stack"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/track-it-forward-lead-developer-rebuild-modernize-scale-social-good-saas-remote",
@@ -2475,36 +2520,6 @@
         "full-stack"
       ],
       "postedAt": "Tue, 18 Aug 2026 20:32:13 +0000",
-      "category": "full-stack"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/summa-linguae-technologies-digital-design-diagram-creators",
-      "source": "weworkremotely",
-      "title": "Digital Design Diagram Creators",
-      "company": "Summa Linguae Technologies",
-      "url": "https://weworkremotely.com/remote-jobs/summa-linguae-technologies-digital-design-diagram-creators",
-      "description": "Headquarters: Kraków, Poland DATAmundi.ai is preparing for an upcoming large-scale dataset project. We expect to onboard approximately 50–100 experts within a short timeframe. To support smooth and efficient launch, we are expanding our expert pool in advance. Who We Are Looking For Individuals with knowledge or studies in: digital systems, hardware design, digital logic and electronics, FPGA/ASIC fundamentals, HDL languages (Verilog / SystemVerilog preferred; VHDL optional) Proficiency in English sufficient to follow instructions and communicate clearly. Ideal profile: recent graduates of technical fields or enthusiasts with relevant practical experience. Project Overview The project involves creating a dataset of diagram images paired with one of two types of technical artefacts: Diagram",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Tue, 18 Aug 2026 20:32:04 +0000",
-      "category": "full-stack"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/myneva-senior-devops-engineer-m-f-d",
-      "source": "weworkremotely",
-      "title": "Senior DevOps Engineer (m/f/d)",
-      "company": "Myneva",
-      "url": "https://weworkremotely.com/remote-jobs/myneva-senior-devops-engineer-m-f-d",
-      "description": "Headquarters: Portugal, remote, Germany, Greifswald Your mission As a Senior DevOps Engineer, you play a central role in enabling reliable, scalable, and observable operation of a new, strategically important web-based product within the myneva portfolio. You work closely with development teams to ensure that software can be deployed, operated, and evolved efficiently across different environments and customer setups. You act as the technical expert for containerization, deployment models, and operational architecture, helping teams make informed decisions around infrastructure, networking, hardware requirements, and runtime environments. In this role, you combine deep technical expertise with a strong enablement mindset, supporting development teams with tools, standards, and guidance — i",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Tue, 18 Aug 2026 20:32:02 +0000",
       "category": "full-stack"
     },
     {
