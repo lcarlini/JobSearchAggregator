@@ -1,7 +1,22 @@
 {
-  "generatedAt": "2026-09-11T16:00:47.996Z",
+  "generatedAt": "2026-09-11T20:36:02.700Z",
   "count": 190,
   "jobs": [
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/stadium-aws-devops-engineer",
+      "source": "weworkremotely",
+      "title": "AWS DevOps Engineer",
+      "company": "Stadium",
+      "url": "https://weworkremotely.com/remote-jobs/stadium-aws-devops-engineer",
+      "description": "Headquarters: India We are looking for an experienced AWS DevOps Engineer who enjoys solving complex, real-world infrastructure problems at scale. At Stadium , we’re building products that bring delight and connection to organizations worldwide. From rewards and recognition to personalized gifting and brand experiences, our platform combines creativity, data, and technology to make every interaction meaningful. Our systems handle extreme and unpredictable traffic spikes — from hundreds to hundreds of thousands of requests per minute — and this role plays a critical part in keeping them fast, reliable, and secure. In this role, you will take end-to-end ownership of cloud infrastructure: from architecture and automation to deployment, monitoring, security, performance, scalability, and cost ",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "programming"
+      ],
+      "postedAt": "Tue, 18 Aug 2026 20:33:08 +0000",
+      "category": "programming"
+    },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/confluent-senior-product-manager-cluster-linking",
       "source": "weworkremotely",
@@ -360,21 +375,6 @@
         "programming"
       ],
       "postedAt": "Fri, 14 Aug 2026 10:07:01 +0000",
-      "category": "programming"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/toptal-python-backend-development-talent-with-rag-and-agentic-ai-experience",
-      "source": "weworkremotely",
-      "title": "Python Backend Development Talent with RAG and Agentic AI Experience",
-      "company": "Toptal",
-      "url": "https://weworkremotely.com/remote-jobs/toptal-python-backend-development-talent-with-rag-and-agentic-ai-experience",
-      "description": "Headquarters: Summary: We are seeking an experienced Python Backend Developer to design, build, and deploy scalable AI-powered applications using Retrieval-Augmented Generation, large language models, and agentic AI frameworks. The role will focus on delivering a production-grade RAG system and AI chatbot that can securely integrate with enterprise data, APIs, databases, and cloud services. General information: The organization is developing an AI-powered platform and requires an experienced individual contributor to build its RAG architecture and conversational AI capabilities. The developer will work closely with a distributed team and should be available for several hours of overlap with US working hours. The project involves designing AI systems that go beyond basic prompt engineering,",
-      "location": "Asia Only",
-      "tags": [
-        "Full-Stack Programming",
-        "programming"
-      ],
-      "postedAt": "Wed, 12 Aug 2026 18:38:32 +0000",
       "category": "programming"
     },
     {
@@ -841,6 +841,21 @@
       ],
       "postedAt": "Tue, 14 Jul 2026 15:29:26 +0000",
       "category": "design"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/geopro-labs-inc-head-of-operations-shopify-app-portfolio",
+      "source": "weworkremotely",
+      "title": "Head of Operations - Shopify App Portfolio",
+      "company": "GeoPro Labs Inc",
+      "url": "https://weworkremotely.com/remote-jobs/geopro-labs-inc-head-of-operations-shopify-app-portfolio",
+      "description": "Headquarters: Victoria, British Columbia, Canada URL: https://geoproapp.com The opportunity&nbsp; I'm looking for an experienced operator to take ownership of a portfolio of three established Shopify apps with a combined ARR of approximately $1.87M. The portfolio includes: Geo:Pro: Geolocation-based storefront personalization TrackiPal: PayPal tracking automation for Shopify merchants Easy Lockdown: Content and storefront access control Together, these are profitable, well-established products with engaged customer bases. They're not hypergrowth startups, but well-run businesses with clear opportunities to improve the product experience, strengthen operations and continue growing over time. As the portfolio has grown, it's reached the point where I need an experienced operator to lead the ",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Product",
+        "product"
+      ],
+      "postedAt": "Fri, 11 Sep 2026 19:55:10 +0000",
+      "category": "product"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/coaching-com-membership-coordinator-1",
@@ -2439,21 +2454,6 @@
       "company": "Wing Assistant",
       "url": "https://weworkremotely.com/remote-jobs/wing-assistant-full-stack-developer-1",
       "description": "Headquarters: Manila, Philippines Please whitelist the domains \" lever.co \" and \" hire.lever.co \" with your email provider to make sure you get our emails. Full Stack Developer Wing is on the exciting mission of redefining the future of work for companies worldwide! We are looking to be the one-stop shop for companies that are looking to build world-class teams & place their operations on autopilot. Key Responsibilities: • Stabilize and extend wallet MVP • Fix TestFlight wallet issues • Verify Bitcoin/Polygon nodes/servers • Implement robust send/receive and account recovery flows • Design & implement handle payment rail • Build on-chain identity/handle registry and resolution service • Architect cross-app routing logic for peer-to-peer payments • Plan APIs, interfaces, and data models • I",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Tue, 18 Aug 2026 20:33:08 +0000",
-      "category": "full-stack"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/stadium-aws-devops-engineer",
-      "source": "weworkremotely",
-      "title": "AWS DevOps Engineer",
-      "company": "Stadium",
-      "url": "https://weworkremotely.com/remote-jobs/stadium-aws-devops-engineer",
-      "description": "Headquarters: India We are looking for an experienced AWS DevOps Engineer who enjoys solving complex, real-world infrastructure problems at scale. At Stadium , we’re building products that bring delight and connection to organizations worldwide. From rewards and recognition to personalized gifting and brand experiences, our platform combines creativity, data, and technology to make every interaction meaningful. Our systems handle extreme and unpredictable traffic spikes — from hundreds to hundreds of thousands of requests per minute — and this role plays a critical part in keeping them fast, reliable, and secure. In this role, you will take end-to-end ownership of cloud infrastructure: from architecture and automation to deployment, monitoring, security, performance, scalability, and cost ",
       "location": "Anywhere in the World",
       "tags": [
         "Full-Stack Programming",
