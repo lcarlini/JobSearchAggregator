@@ -1,7 +1,22 @@
 {
-  "generatedAt": "2026-09-11T10:44:18.006Z",
-  "count": 191,
+  "generatedAt": "2026-09-11T16:00:47.996Z",
+  "count": 190,
   "jobs": [
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/confluent-senior-product-manager-cluster-linking",
+      "source": "weworkremotely",
+      "title": "Senior Product Manager, Cluster Linking",
+      "company": "Confluent",
+      "url": "https://weworkremotely.com/remote-jobs/confluent-senior-product-manager-cluster-linking",
+      "description": "Headquarters: Remote, Ontario, Canada We’re not just building better tech. We’re rewriting how data moves and what the world can do with it. With Confluent, data doesn’t sit still. Our platform puts information in motion, streaming in near real-time so companies can react faster, build smarter, and deliver experiences as dynamic as the world around them. It takes a certain kind of person to join this team. Those who ask hard questions, give honest feedback, and show up for each other. No egos, no solo acts. Just smart, curious humans pushing toward something bigger, together. One Confluent. One Team. One Data Streaming Platform. About the Role: Cluster Linking is how Kafka clusters are replicated, and it sits at the very core of Confluent. When a global bank architects zero-data-loss disas",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "programming"
+      ],
+      "postedAt": "Tue, 18 Aug 2026 20:33:08 +0000",
+      "category": "programming"
+    },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/supportyourapp-native-finnish-customer-support-consultant-future-openings-remotely",
       "source": "weworkremotely",
@@ -360,21 +375,6 @@
         "programming"
       ],
       "postedAt": "Wed, 12 Aug 2026 18:38:32 +0000",
-      "category": "programming"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/toptal-senior-software-engineer-for-ai-powered-banking-platform",
-      "source": "weworkremotely",
-      "title": "Senior Software Engineer for AI-Powered Banking Platform",
-      "company": "Toptal",
-      "url": "https://weworkremotely.com/remote-jobs/toptal-senior-software-engineer-for-ai-powered-banking-platform",
-      "description": "Headquarters: We are seeking a Senior Software Engineer to build and scale production-grade AI-powered financial products. This is a hands-on engineering role focused on backend platform development, AI integration, and distributed systems. The ideal candidate has strong experience with TypeScript, Python, cloud-native architectures, and applying LLMs in real-world production environments. General Information Our client is a fast-growing, Series A-backed AI company delivering agentic AI solutions to banks and credit unions. Their platform is already serving over 100 financial institutions and more than 10 million end users. The Senior Software Engineer will work closely with the VP of Engineering, CTO, and CEO to design, build, and operate scalable backend services and AI-powered applicati",
-      "location": "North America Only",
-      "tags": [
-        "Full-Stack Programming",
-        "programming"
-      ],
-      "postedAt": "Wed, 12 Aug 2026 12:18:51 +0000",
       "category": "programming"
     },
     {
@@ -2454,21 +2454,6 @@
       "company": "Stadium",
       "url": "https://weworkremotely.com/remote-jobs/stadium-aws-devops-engineer",
       "description": "Headquarters: India We are looking for an experienced AWS DevOps Engineer who enjoys solving complex, real-world infrastructure problems at scale. At Stadium , we’re building products that bring delight and connection to organizations worldwide. From rewards and recognition to personalized gifting and brand experiences, our platform combines creativity, data, and technology to make every interaction meaningful. Our systems handle extreme and unpredictable traffic spikes — from hundreds to hundreds of thousands of requests per minute — and this role plays a critical part in keeping them fast, reliable, and secure. In this role, you will take end-to-end ownership of cloud infrastructure: from architecture and automation to deployment, monitoring, security, performance, scalability, and cost ",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Tue, 18 Aug 2026 20:33:08 +0000",
-      "category": "full-stack"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/confluent-senior-product-manager-cluster-linking",
-      "source": "weworkremotely",
-      "title": "Senior Product Manager, Cluster Linking",
-      "company": "Confluent",
-      "url": "https://weworkremotely.com/remote-jobs/confluent-senior-product-manager-cluster-linking",
-      "description": "Headquarters: Remote, Ontario, Canada We’re not just building better tech. We’re rewriting how data moves and what the world can do with it. With Confluent, data doesn’t sit still. Our platform puts information in motion, streaming in near real-time so companies can react faster, build smarter, and deliver experiences as dynamic as the world around them. It takes a certain kind of person to join this team. Those who ask hard questions, give honest feedback, and show up for each other. No egos, no solo acts. Just smart, curious humans pushing toward something bigger, together. One Confluent. One Team. One Data Streaming Platform. About the Role: Cluster Linking is how Kafka clusters are replicated, and it sits at the very core of Confluent. When a global bank architects zero-data-loss disas",
       "location": "Anywhere in the World",
       "tags": [
         "Full-Stack Programming",
