@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-10T20:32:34.940Z",
-  "count": 193,
+  "generatedAt": "2026-09-11T03:16:59.482Z",
+  "count": 194,
   "jobs": [
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/aker-systems-principal-software-engineer-product-team",
@@ -1096,6 +1096,21 @@
       ],
       "postedAt": "Fri, 07 Aug 2026 18:27:08 +0000",
       "category": "product"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/toptal-power-platform-solutions-architect",
+      "source": "weworkremotely",
+      "title": "Power Platform Solutions Architect",
+      "company": "Toptal",
+      "url": "https://weworkremotely.com/remote-jobs/toptal-power-platform-solutions-architect",
+      "description": "Headquarters: We are looking for a Power Platform Solutions Architect for a global company. Their goal is to assess and modernize an existing Power Platform solution, define the target architecture, and lead the technical design of a scalable and secure implementation. Required Skills: Deep hands-on experience with Microsoft Power Platform, including Power Apps (canvas and model-driven), Power Automate, Dataverse, Power Pages, and Power BI Strong experience designing Dataverse schemas and security roles Azure architecture experience with API Management, Azure Functions, Key Vault, Entra ID/SSO, and Azure Monitor/Application Insights Experience designing enterprise integration architectures, including integrations where counterpart APIs or contracts are uncertain, changing, or being migrate",
+      "location": "North America Only",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Thu, 10 Sep 2026 21:30:33 +0000",
+      "category": "full-stack"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/flexport-senior-systems-engineer-identity-and-access",
