@@ -1,7 +1,37 @@
 {
-  "generatedAt": "2026-09-11T03:16:59.482Z",
-  "count": 194,
+  "generatedAt": "2026-09-11T10:44:18.006Z",
+  "count": 191,
   "jobs": [
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/supportyourapp-native-finnish-customer-support-consultant-future-openings-remotely",
+      "source": "weworkremotely",
+      "title": "(Native Finnish) Customer Support Consultant (Future Openings, remotely)",
+      "company": "Supportyourapp",
+      "url": "https://weworkremotely.com/remote-jobs/supportyourapp-native-finnish-customer-support-consultant-future-openings-remotely",
+      "description": "Headquarters: Edinburgh, Scotland, United Kingdom Who we are? SupportYourApp is a global Support-as-a-Service leader, collaborating with top-tier tech companies like Mastercard, Calm, and MacPaw since 2010. We operate in 30+ countries and from 90+ countries, and support customers in 60 languages, helping SaaS, software, and hardware brands deliver secure, world-class customer and technical support. Right now, we’re expanding our talent bench — a pool of skilled Customer Support Consultants who want to grow with us and be the first in line when new projects open. If you’re ready to join a multicultural, multilingual community and grow professionally while working from home, this could be your next step. What you will do: Deliver outstanding customer support via calls, chats and emails Build",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "programming"
+      ],
+      "postedAt": "Tue, 18 Aug 2026 20:32:50 +0000",
+      "category": "programming"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/zowie-devops-engineer",
+      "source": "weworkremotely",
+      "title": "DevOps Engineer",
+      "company": "Zowie",
+      "url": "https://weworkremotely.com/remote-jobs/zowie-devops-engineer",
+      "description": "Headquarters: Remote Poland About Zowie: At Zowie, we’re revolutionizing how businesses interact with their customers. We’re creating a future where AI Agents handle 100% of customer interactions - delivering instant, personalized, and exceptional experiences. We believe AI Agents represent the next major technological shift, and Zowie is positioned to lead the charge. Leading consumer brands like Costco, DocMorris, Monos, Decathlon, InPost already trust our AI Agents to be on the front line of their customer care efforts, handling millions of conversations monthly. About the role: As Zowie grows and brings larger enterprise customers onto our AI platform, we’re facing challenges that sit at the intersection of infrastructure, application architecture, developer experience, and enterprise ",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "programming"
+      ],
+      "postedAt": "Tue, 18 Aug 2026 20:32:42 +0000",
+      "category": "programming"
+    },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/aker-systems-principal-software-engineer-product-team",
       "source": "weworkremotely",
@@ -345,36 +375,6 @@
         "programming"
       ],
       "postedAt": "Wed, 12 Aug 2026 12:18:51 +0000",
-      "category": "programming"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3",
-      "source": "weworkremotely",
-      "title": "Software engineer",
-      "company": "Sticker Mule",
-      "url": "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3",
-      "description": "Headquarters: New York, NY URL: https://www.stickermule.com Sticker Mule is building the Internet's most lucrative commerce platform by combining software, manufacturing, and AI into one fully integrated stack. No print company, or pure software company for that matter, can match what we're doing. We're privately owned, profitable, and doing 9-figures in annual revenue with no meddlesome investors. &nbsp; How we work Small, autonomous teams that own products end-to-end. Prioritize what matters right now and pivot instantly when needed. Ship across web and mobile from the same codebase. We use Go, TypeScript, React, Expo, GraphQL, Postgres, and run on GCP. Use AI aggressively to push the limit of what we can do. Move fast, build for the masses, and deprioritize edge cases. Fully remote from",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "programming"
-      ],
-      "postedAt": "Thu, 14 May 2026 09:14:28 +0000",
-      "category": "programming"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/mercury-counsel-product-regulatory-payments-aml",
-      "source": "weworkremotely",
-      "title": "Counsel, Product & Regulatory - Payments & AML",
-      "company": "Mercury",
-      "url": "https://weworkremotely.com/remote-jobs/mercury-counsel-product-regulatory-payments-aml",
-      "description": "Headquarters: San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States In 1905, chief engineer John Stevens inherited one of the most ambitious infrastructure projects in history: the Panama Canal. The challenge wasn’t digging a ditch between two oceans. It was figuring out how to move ships safely through a system of locks, gates, reservoirs, and changing conditions without bringing global commerce to a halt. The solution wasn’t to stop movement. It was to create a framework that allowed movement at scale. Modern financial infrastructure presents a similar challenge. Payment systems, banking products, compliance obligations, and regulatory frameworks all exist for a reason. The goal isn’t to eliminate complexity. It’s to build systems that allow innovation, ",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Back-End Programming",
-        "programming"
-      ],
-      "postedAt": "Wed, 12 Aug 2026 07:30:59 +0000",
       "category": "programming"
     },
     {
@@ -888,21 +888,6 @@
       "category": "product"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-manager-data-platform",
-      "source": "weworkremotely",
-      "title": "Manager, Data Platform",
-      "company": "ZoomInfo Technologies LLC",
-      "url": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-manager-data-platform",
-      "description": "Headquarters: Remote ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen–fast. &nbsp; We are seeking an experienced Manager, Data Platform to lead the strategy, architecture, and execution of our modern data platform supporting analytics, machine learning, operational systems, and AI-enabled applications. You will be a senior member of the larger AI, Data and Innovation organization, responsible for designing and expanding enterprise-level data infrastructure that enables ZoomInfo's internal teams to interact",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Product",
-        "product"
-      ],
-      "postedAt": "Tue, 01 Sep 2026 07:30:49 +0000",
-      "category": "product"
-    },
-    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/databricks-ai-engineer-fde-forward-deployed-engineer",
       "source": "weworkremotely",
       "title": "AI Engineer - FDE (Forward Deployed Engineer)",
@@ -1096,6 +1081,21 @@
       ],
       "postedAt": "Fri, 07 Aug 2026 18:27:08 +0000",
       "category": "product"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/fin-solutions-architect-spanish-speaking",
+      "source": "weworkremotely",
+      "title": "Solutions Architect -Spanish Speaking",
+      "company": "Fin",
+      "url": "https://weworkremotely.com/remote-jobs/fin-solutions-architect-spanish-speaking",
+      "description": "Headquarters: NYC, Remote; San Francisco, California Fin , now part of Salesforce, is on a mission to help businesses provide perfect customer experiences. Our AI Agent Fin is the highest-performing AI Customer Agent on the market today, enabling businesses to deliver impeccable, always-on customer support across the customer journey, from service, to sales, to ecommerce. Powered by our own AI models, Fin resolves complex customer issues end-to-end across every channel, with minimal set-up and integration. Fin can also be combined with our natively integrated Intercom help desk, giving modern support teams one single system. Together with Salesforce, the #1 AI CRM, where humans with agents drive customer success, we're building the future of customer experience. Here, ambition meets action",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Fri, 11 Sep 2026 07:30:48 +0000",
+      "category": "full-stack"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/toptal-power-platform-solutions-architect",
@@ -1440,21 +1440,6 @@
         "full-stack"
       ],
       "postedAt": "Wed, 26 Aug 2026 07:30:39 +0000",
-      "category": "full-stack"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/offerup-senior-cloud-engineer-hybrid-bellevue-wa-or-remote-florida",
-      "source": "weworkremotely",
-      "title": "Senior Cloud Engineer (Hybrid @ Bellevue, WA or Remote @ Florida)",
-      "company": "OfferUp",
-      "url": "https://weworkremotely.com/remote-jobs/offerup-senior-cloud-engineer-hybrid-bellevue-wa-or-remote-florida",
-      "description": "Headquarters: Bellevue, WA or Remote Florida Team Charter: The Cloud Engineering team is dedicated to maintaining and evolving cloud infrastructure, CI/CD pipelines, Application Security, Change Management, and Backend application golden templates. We are the backbone of the technical organization, ensuring the foundation of our services is robust, secure, and efficient. About the role: We are looking for a Senior Cloud Engineer to join our Cloud Engineering team. This team is tasked with ensuring scalability, reliability, and security for all backend services and keeping the SDLC running smoothly for engineers across the company. As a senior member of the team, you will own meaningful pieces of our cloud platform end-to-end — from design through deployment and operation — while helping sh",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Wed, 26 Aug 2026 07:30:35 +0000",
       "category": "full-stack"
     },
     {
@@ -2493,36 +2478,6 @@
       "category": "full-stack"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/supportyourapp-native-finnish-customer-support-consultant-future-openings-remotely",
-      "source": "weworkremotely",
-      "title": "(Native Finnish) Customer Support Consultant (Future Openings, remotely)",
-      "company": "Supportyourapp",
-      "url": "https://weworkremotely.com/remote-jobs/supportyourapp-native-finnish-customer-support-consultant-future-openings-remotely",
-      "description": "Headquarters: Edinburgh, Scotland, United Kingdom Who we are? SupportYourApp is a global Support-as-a-Service leader, collaborating with top-tier tech companies like Mastercard, Calm, and MacPaw since 2010. We operate in 30+ countries and from 90+ countries, and support customers in 60 languages, helping SaaS, software, and hardware brands deliver secure, world-class customer and technical support. Right now, we’re expanding our talent bench — a pool of skilled Customer Support Consultants who want to grow with us and be the first in line when new projects open. If you’re ready to join a multicultural, multilingual community and grow professionally while working from home, this could be your next step. What you will do: Deliver outstanding customer support via calls, chats and emails Build",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Tue, 18 Aug 2026 20:32:50 +0000",
-      "category": "full-stack"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/zowie-devops-engineer",
-      "source": "weworkremotely",
-      "title": "DevOps Engineer",
-      "company": "Zowie",
-      "url": "https://weworkremotely.com/remote-jobs/zowie-devops-engineer",
-      "description": "Headquarters: Remote Poland About Zowie: At Zowie, we’re revolutionizing how businesses interact with their customers. We’re creating a future where AI Agents handle 100% of customer interactions - delivering instant, personalized, and exceptional experiences. We believe AI Agents represent the next major technological shift, and Zowie is positioned to lead the charge. Leading consumer brands like Costco, DocMorris, Monos, Decathlon, InPost already trust our AI Agents to be on the front line of their customer care efforts, handling millions of conversations monthly. About the role: As Zowie grows and brings larger enterprise customers onto our AI platform, we’re facing challenges that sit at the intersection of infrastructure, application architecture, developer experience, and enterprise ",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Tue, 18 Aug 2026 20:32:42 +0000",
-      "category": "full-stack"
-    },
-    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1",
       "source": "weworkremotely",
       "title": "FULL TIME: Software Engineer Position - React and Rest",
@@ -2550,6 +2505,21 @@
         "full-stack"
       ],
       "postedAt": "Thu, 09 Jul 2026 17:03:38 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3",
+      "source": "weworkremotely",
+      "title": "Software engineer",
+      "company": "Sticker Mule",
+      "url": "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3",
+      "description": "Headquarters: New York, NY URL: https://www.stickermule.com Sticker Mule is building the Internet's most lucrative commerce platform by combining software, manufacturing, and AI into one fully integrated stack. No print company, or pure software company for that matter, can match what we're doing. We're privately owned, profitable, and doing 9-figures in annual revenue with no meddlesome investors. &nbsp; How we work Small, autonomous teams that own products end-to-end. Prioritize what matters right now and pivot instantly when needed. Ship across web and mobile from the same codebase. We use Go, TypeScript, React, Expo, GraphQL, Postgres, and run on GCP. Use AI aggressively to push the limit of what we can do. Move fast, build for the masses, and deprioritize edge cases. Fully remote from",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Thu, 14 May 2026 09:14:28 +0000",
       "category": "full-stack"
     },
     {
@@ -2715,21 +2685,6 @@
         "management"
       ],
       "postedAt": "Mon, 24 Aug 2026 07:30:47 +0000",
-      "category": "management"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/6sense-benefits-partner",
-      "source": "weworkremotely",
-      "title": "Benefits Partner",
-      "company": "6sense",
-      "url": "https://weworkremotely.com/remote-jobs/6sense-benefits-partner",
-      "description": "Headquarters: United States, Remote Our Mission: 6sense's mission is to multiply what matters: growth, retention, and efficiency.&nbsp; We envision a future where companies, teams and people reach their full potential. Our People: People are the heart and soul of 6sense. We serve with passion and purpose. We live by our Being 6sense values of Win as One Team, Stay Curious, Do The Right Thing, Own the Outcome, and Create Belonging. &nbsp;Every 6sensor plays a part in deﬁning the future of our industry-leading technology.&nbsp; 6sense is a place where difference-makers roll up their sleeves, take risks, act with integrity, and measure success by the value we create for our customers.&nbsp; We want 6sense to be the best chapter of your career.&nbsp; Our Benefits Partner will administer and im",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Management and Finance",
-        "management"
-      ],
-      "postedAt": "Thu, 20 Aug 2026 07:30:54 +0000",
       "category": "management"
     },
     {
