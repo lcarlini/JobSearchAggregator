@@ -1,7 +1,37 @@
 {
-  "generatedAt": "2026-09-14T03:37:39.839Z",
-  "count": 187,
+  "generatedAt": "2026-09-14T12:00:24.067Z",
+  "count": 186,
   "jobs": [
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/huzzle-full-stack-developer-python-react-ai",
+      "source": "weworkremotely",
+      "title": "Full-Stack Developer (Python, React, AI)",
+      "company": "Huzzle",
+      "url": "https://weworkremotely.com/remote-jobs/huzzle-full-stack-developer-python-react-ai",
+      "description": "Headquarters: Mexico About Huzzle At Huzzle, we connect high-performing B2B sales professionals with global companies across the UK, US, Canada, Europe, and Australia. Our clients include startups, digital agencies, and tech platforms in industries like SaaS, MarTech, FinTech, and EdTech. We match top sales talent to full-time remote roles where they’re hired directly into client teams and provided ongoing support by Huzzle. Role Type: Full-time Engagement: Independent Contractor Job Summary We are seeking a Remote AI Backend / Full-Stack Engineer with strong Python and modern web development experience to help build and scale an AI-powered travel planning platform. You will work closely with the product and engineering teams to develop backend services, build APIs, and contribute to front",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "programming"
+      ],
+      "postedAt": "Tue, 18 Aug 2026 20:34:05 +0000",
+      "category": "programming"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/ci-t-job-26953-senior-full-stack-developer-react-net",
+      "source": "weworkremotely",
+      "title": "[Job -26953] Senior Full Stack Developer (React/.Net)",
+      "company": "Ci&t",
+      "url": "https://weworkremotely.com/remote-jobs/ci-t-job-26953-senior-full-stack-developer-react-net",
+      "description": "Headquarters: Brazil We are tech transformation specialists, uniting human expertise with AI to create scalable tech solutions. With over 8,000 CI&Ters around the world, we’ve built partnerships with more than 1,000 clients during our 30 years of history. Artificial Intelligence is our reality. We are looking for a highly motivated and experienced Senior FullStack Software Developer to join our development team. You will be responsible for designing, developing, and implementing scalable and robust Cloud-Native software solutions to meet the complex requirements of our projects. Main responsabilities • Design, develop, and deploy .NET -based microservices on Cloud providers, following best practices for scalability, performance, and security. • Develop responsive and user-friendly frontend",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "programming"
+      ],
+      "postedAt": "Tue, 18 Aug 2026 20:34:05 +0000",
+      "category": "programming"
+    },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/holafly-finance-business-partner-marketing-product",
       "source": "weworkremotely",
@@ -348,34 +378,19 @@
       "category": "programming"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/okx-affiliate-bd-manager-taiwan",
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/datadog-developer-advocate-service-management",
       "source": "weworkremotely",
-      "title": "Affiliate BD Manager (Taiwan)",
-      "company": "OKX",
-      "url": "https://weworkremotely.com/remote-jobs/okx-affiliate-bd-manager-taiwan",
-      "description": "Headquarters: Taiwan (Remote) Who We Are At OKX, we believe that the future will be reshaped by crypto, and ultimately contribute to every individual's freedom. &nbsp; OKX is a leading crypto exchange, and the developer of OKX Wallet, giving millions access to crypto trading and decentralized crypto applications (dApps).&nbsp;OKX is also a trusted brand by hundreds of large institutions seeking access to crypto markets. We are safe and reliable, backed by our Proof of Reserves.&nbsp; &nbsp; Across our multiple offices globally, we are united by our core principles: We Before Me , Do the Right Thing , and Get Things Done . These shared values drive our culture, shape our processes, and foster a friendly, rewarding, and diverse environment for every OK-er. &nbsp; OKX is part of OKG, a group ",
+      "title": "Developer Advocate - Service Management",
+      "company": "Datadog",
+      "url": "https://weworkremotely.com/remote-jobs/datadog-developer-advocate-service-management",
+      "description": "Headquarters: California, USA, Remote; New York, USA, Remote &nbsp; We are a team of engineers that translate our real-world experience to help our user communities solve problems. With a focus on service management, helping teams respond to incidents, run on-call, and automate their operations, you will work with practitioners and leaders across the industry and broaden your impact to the SRE, Engineer, DevOps, and Operations community at large. This is a unique opportunity to use both your engineering and creative storytelling skills to shape the landscape in cloud observability, incident response and service management. &nbsp; What You'll Do: &nbsp; Act as a subject matter expert for service management (incident response, on-call, IDP, Work Management, Workflow Automation, Agent Builder",
       "location": "Anywhere in the World",
       "tags": [
-        "Front-End Programming",
-        "programming"
+        "DevOps and Sysadmin",
+        "devops"
       ],
-      "postedAt": "Sat, 15 Aug 2026 07:31:27 +0000",
-      "category": "programming"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-business-intelligence-analyst",
-      "source": "weworkremotely",
-      "title": "Principal Business Intelligence Analyst",
-      "company": "ZoomInfo Technologies LLC",
-      "url": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-business-intelligence-analyst",
-      "description": "Headquarters: Remote ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen–fast. Overview We are seeking a Principal Product Analyst to own ZoomInfo's PLG measurement system - the framework that defines how the company evaluates customer adoption, monetization, retention, and growth across its product portfolio. &nbsp; This is not a traditional reporting or dashboarding role. It is a strategic leadership role responsible for defining how the organization measures PLG success, identifying the behaviors that driv",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "programming"
-      ],
-      "postedAt": "Sat, 15 Aug 2026 07:31:27 +0000",
-      "category": "programming"
+      "postedAt": "Mon, 14 Sep 2026 07:31:07 +0000",
+      "category": "devops"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/platform-sh-billing-systems-architect",
@@ -2394,36 +2409,6 @@
       "company": "Performyard",
       "url": "https://weworkremotely.com/remote-jobs/performyard-vp-of-product",
       "description": "Headquarters: Arlington, Virginia, United States PerformYard is a profitable, growth-stage B2B SaaS company transforming how organizations manage and measure employee performance. Our AI-enabled platform is widely adopted for its customizable performance processes, ease of use, and measurable business impact. As we scale, PerformYard has significant opportunities to accelerate growth by creating AI-native workflows, expanding into adjacent talent modules, and modernizing our user experience. We are seeking a customer-obsessed, strategically minded Vice President of Product to translate PerformYard's AI-native vision into validated, high-impact product experiences. By delivering AI-native innovation, modernizing the user experience to accelerate adoption, and expanding monetization pathways",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Tue, 18 Aug 2026 20:34:05 +0000",
-      "category": "full-stack"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/huzzle-full-stack-developer-python-react-ai",
-      "source": "weworkremotely",
-      "title": "Full-Stack Developer (Python, React, AI)",
-      "company": "Huzzle",
-      "url": "https://weworkremotely.com/remote-jobs/huzzle-full-stack-developer-python-react-ai",
-      "description": "Headquarters: Mexico About Huzzle At Huzzle, we connect high-performing B2B sales professionals with global companies across the UK, US, Canada, Europe, and Australia. Our clients include startups, digital agencies, and tech platforms in industries like SaaS, MarTech, FinTech, and EdTech. We match top sales talent to full-time remote roles where they’re hired directly into client teams and provided ongoing support by Huzzle. Role Type: Full-time Engagement: Independent Contractor Job Summary We are seeking a Remote AI Backend / Full-Stack Engineer with strong Python and modern web development experience to help build and scale an AI-powered travel planning platform. You will work closely with the product and engineering teams to develop backend services, build APIs, and contribute to front",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Tue, 18 Aug 2026 20:34:05 +0000",
-      "category": "full-stack"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/ci-t-job-26953-senior-full-stack-developer-react-net",
-      "source": "weworkremotely",
-      "title": "[Job -26953] Senior Full Stack Developer (React/.Net)",
-      "company": "Ci&t",
-      "url": "https://weworkremotely.com/remote-jobs/ci-t-job-26953-senior-full-stack-developer-react-net",
-      "description": "Headquarters: Brazil We are tech transformation specialists, uniting human expertise with AI to create scalable tech solutions. With over 8,000 CI&Ters around the world, we’ve built partnerships with more than 1,000 clients during our 30 years of history. Artificial Intelligence is our reality. We are looking for a highly motivated and experienced Senior FullStack Software Developer to join our development team. You will be responsible for designing, developing, and implementing scalable and robust Cloud-Native software solutions to meet the complex requirements of our projects. Main responsabilities • Design, develop, and deploy .NET -based microservices on Cloud providers, following best practices for scalability, performance, and security. • Develop responsive and user-friendly frontend",
       "location": "Anywhere in the World",
       "tags": [
         "Full-Stack Programming",
