@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T16:27:15.506Z",
+  "generatedAt": "2026-09-15T20:59:45.596Z",
   "count": 150,
   "data": [
     {
@@ -10,7 +10,7 @@
       "company": {
         "name": "Direct Supply, Inc.",
         "logo_url": null,
-        "website": null,
+        "website": "https://directsupplyinc.com",
         "url": "https://remotejobs.org/companies/direct-supply-inc"
       },
       "category": {
@@ -110,7 +110,7 @@
       "company": {
         "name": "Myers-Holum",
         "logo_url": null,
-        "website": null,
+        "website": "https://myersholum.com",
         "url": "https://remotejobs.org/companies/myersholum"
       },
       "category": {
@@ -135,7 +135,7 @@
       "company": {
         "name": "Assist World",
         "logo_url": "https://cdn-images.himalayas.app/x2mmeeywfvtbh3gyk3nb9ao3qkus",
-        "website": null,
+        "website": "https://assist.co",
         "url": "https://remotejobs.org/companies/assist-world"
       },
       "category": {
@@ -2503,6 +2503,31 @@
       "original_language": null
     },
     {
+      "id": "9d700f89-0fdb-45cf-9f1c-2fe6d2283afb",
+      "title": "Senior Staff Machine Learning Engineer, Ads Ranking",
+      "url": "https://remotejobs.org/remote-jobs/senior-staff-machine-learning-engineer-ads-ranking-reddit",
+      "apply_url": "https://remotejobs.org/remote-jobs/senior-staff-machine-learning-engineer-ads-ranking-reddit",
+      "company": {
+        "name": "Reddit",
+        "logo_url": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2020/10/Reddit.jpg",
+        "website": "https://redditinc.com",
+        "url": "https://remotejobs.org/companies/reddit"
+      },
+      "category": {
+        "name": "Data Science",
+        "slug": "data-science"
+      },
+      "location": "Remote - United States",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "type": "Full-time",
+      "description": "<div class=\"content-intro\"><div class=\"c-message_kit__blocks c-message_kit__blocks--rich_text\">\n<div class=\"c-message__message_blocks c-message__message_blocks--rich_text\" data-qa=\"message-text\">\n<div class=\"p-block_kit_renderer\" data-qa=\"block-kit-renderer\">\n<div class=\"p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first\">\n<div class=\"p-rich_text_block\">\n<div class=\"p-rich_text_section\">Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit <a class=\"c-link\" href=\"http://www.redditinc.com/\" target=\"_blank\" data-stringify-link=\"http://redditinc.com\" data-sk=\"tooltip_parent\">www.redditinc.com</a>.</div>\n</div>\n</div>\n</div>\n</div>\n</div></div><p data-path-to-node=\"1\"><strong data-path-to-node=\"1\" data-index-in-node=\"0\">About the Role:</strong></p>\n<p data-path-to-node=\"1\">We are seeking a Senior Staff Machine Learning Engineer to define and accelerate how we leverage agentic AI to transform machine learning models and modeling workflows. This high-impact role focuses directly on <strong data-path-to-node=\"1\" data-index-in-node=\"226\">modeling leverage</strong>—enhancing model quality and velocity—rather than building general infrastructure.  As a senior staff engineer, you will operate as a technical leader across the entire modeling loop, utilizing modern AI-assisted development systems (such as Claude, Cursor, and comparable tools) to make model development faster, more rigorous, and significantly more effective across the organization.</p>\n<p data-path-to-node=\"4\"><strong data-path-to-node=\"10\" data-index-in-node=\"0\">Why Join Us?</strong> This role offers a domain-flexible platform to redefine how ML engineering is done. If you are passionate about combining deep ML fundamentals with the vanguard of agentic AI to multiply team impact, we’d love to talk to you.</p>\n<h4><strong>What you’ll do:</strong></h4>\n<ul>\n<li>Develop advanced ML models and the agentic workflows that help teams design, train, evaluate, and improve them.</li>\n<li>Use tools such as Claude, Cursor, and comparable AI-assisted development systems to investigate model behavior, generate and test hypotheses, automate repetitive analysis, and improve code and experiments.</li>\n<li>Build reliable loops for data and label analysis, feature and embedding development, architecture comparison, hyperparameter optimization, error analysis, and experiment readouts.</li>\n<li>Design evaluation harnesses that measure both model outcomes and agent/workflow quality, including correctness, reproducibility, regressions, cost, and latency.</li>\n<li>Partner with product, data science, ML infrastructure, and engineering teams to connect modeling improvements to user and business outcomes.</li>\n<li>Set technical direction across teams, mentor engineers, and raise the bar for modeling rigor and AI-assisted engineering.</li>\n</ul>\n<h4><strong>Required Qualifications:</strong></h4>\n<ul>\n<li>9+ years of experience in ML engineering, applied ML, or a related field, with substantial production impact.</li>\n<li>Senior Staff-level technical leadership and a record of influencing direction across teams.</li>\n<li>Deep modeling expertise and strong fundamentals in data, objectives, architectures, optimization, evaluation, and experimentation.</li>\n<li>Concrete examples of using agentic AI or AI coding tools to produce better ML outcomes—not just faster code generation.</li>\n<li>Ability to design guardrails and evaluations that make autonomous or semi-autonomous workflows trustworthy.</li>\n<li>Strong coding ability in Python and fluency with modern ML frameworks and data tooling.</li>\n<li>Clear, concise communication and a collaborative, low-ego approach to technical leadership.</li>\n</ul>\n<p> </p>\n<p><strong>Perks and Benefits:</strong></p>\n<ul>\n<li>100% remote opportunity (we have 4 office locations for hybrid/onsite work preference in NY, SF, LA and Chicago)</li>\n<li>Competitive salary and equity options</li>\n<li>Comprehensive health benefits (medical, dental, vision) &amp; workplace perks (home office set up stipend etc)</li>\n<li>Generous 401k matching</li>\n<li>Flexible vacation policy </li>\n<li>Paid parental leave (4+ months)</li>\n<li>Family planning support</li>\n<li>Paid volunteer time off</li>\n</ul>\n<p>#LI-AS1 </p><div class=\"content-pay-transparency\"><div class=\"pay-input\"><div class=\"description\"><p><strong>Pay Transparency:</strong></p>\n<p>This job posting may span more than one career level.</p>\n<p>In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit <a href=\"https://www.redditinc.com/careers/\" target=\"_blank\">https://www.redditinc.com/careers/</a>.</p>\n<p>To provide greater transparency to candidates, we share base salary ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.</p></div><div class=\"title\">The base salary range for this position is:</div><div class=\"pay-range\"><span>$292,500</span><span class=\"divider\">&mdash;</span><span>$409,500 USD</span></div></div></div><div class=\"content-conclusion\"><p>In select roles and locations, the interviews will be recorded, transcribed and summarized by artificial intelligence (AI). You will have the opportunity to opt out of recording, transcription and summarization prior to any scheduled interviews.</p>\n<p><span style=\"font-weight: 400;\">During the interview, we will collect the following categories of personal information: Identifiers, Professional and Employment-Related Information, Sensory Information (audio/video recording), and any other categories of personal information you choose to share with us. We will use this information to evaluate your application for employment or an independent contractor role, as applicable.  We will not sell your personal information or disclose it to any third party for their marketing purposes.  We will delete any recording of your interview promptly after making a hiring decision.  For more information about how we will handle your personal information, including our retention of it, please refer to our <a href=\"https://redditinc.com/policies/candidate-privacy-policy\">Candidate Privacy Policy for Potential Employees and Contractors</a>.</span></p>\n<p><em><span style=\"font-weight: 400;\">Reddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.  Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If, due to a disability, you need an accommodation during the interview process, please let your recruiter know.</span></em></p></div>\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-staff-machine-learning-engineer-ads-ranking-reddit</p>",
+      "posted_at": "2026-09-15T18:58:04+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
       "id": "8572039d-438e-4a8f-af95-828ec9192f29",
       "title": "Senior Data Engineer – AWS Data Lake &amp; Pipeline Architecture",
       "url": "https://remotejobs.org/remote-jobs/senior-data-engineer-aws-data-lake-amp-pipeline-architecture-toptal",
@@ -2560,7 +2585,7 @@
       "company": {
         "name": "ShyftLabs",
         "logo_url": null,
-        "website": null,
+        "website": "https://shyftlabs.io",
         "url": "https://remotejobs.org/companies/shyftlabs"
       },
       "category": {
@@ -2635,7 +2660,7 @@
       "company": {
         "name": "Apryse",
         "logo_url": null,
-        "website": null,
+        "website": "https://apryse.com",
         "url": "https://remotejobs.org/companies/apryse"
       },
       "category": {
@@ -3724,31 +3749,6 @@
       "type": "Full-time",
       "description": "True Zero Technologies, a veteran-owned small business, was founded on the principle that the purposeful enablement of people and technology in an organization directly ties to the quality of its outcomes. True Zero recognizes that those outcomes begin and end with our people, and that is what we have built a community of like-minded, driven, and passionate individuals and innovators who are aligned in a common goal of delivering top-tier services to our customers. Our culture and commitment have been recognized through numerous accolades, including being named one of the Best Places to Work in 2023 in two categories (“Prosperous and Thriving” ($5MM–$50MM in gross revenue) and “Mid-Atlantic Region” (DC, DE, MD, NC, VA, WV)), and again in 2025 as a Best Places to Work honoree. In addition, True Zero earned coveted spots on the Inc. 5000 list of fastest-growing companies in America in 2022, 2023, and 2025, a testament to our sustained growth driven by our people-first approach and unwavering dedication to excellence.Job Responsibilities \n\n- Lead end-to-end database migration initiatives, including discovery, assessment, planning, execution, validation, and post-migration stabilization.\n\n- Develop detailed migration strategies, roadmaps, schedules, dependencies, rollback procedures, and cutover plans.\n\n- Assess source and target database environments to identify compatibility issues, data dependencies, technical risks, and migration constraints.\n\n- Select appropriate migration approaches, including rehosting, re-platforming, refactoring, replication, bulk migration, and phased migration.\n\n- Coordinate structured migrations between on-premises, cloud, hybrid, relational, and non-relational database environments.\n\n- Lead migration rehearsals, dry runs, production cutovers, and post-migration validation activities.\n\n- Minimize system downtime and data loss by implementing replication, change data capture, synchronization, and high-availability migration techniques.\n\n- Develop contingency and rollback procedures to support business continuity during migration events.\n\n- Analyze legacy database structures, schemas, tables, relationships, stored procedures, triggers, views, indexes, and data types.\n\n- Translate source database structures into optimized target-state schemas.\n\n- Perform schema mapping and conversion across different database technologies and platforms.\n\n- Resolve differences in data types, naming conventions, constraints, indexing models, partitioning strategies, and database-specific functionality.\n\nJob Qualifications  \n\n- Bachelor’s degree in Cybersecurity, Information Technology, Computer Science, Engineering, or related technical field. \n\n- 7+ years of industry related experience is required \n\n- Strong communication skills and ability to collaborate in a team environment will be required\n\n- Experience performing security engineering functions\n\n- Experience developing and modifying scripts\n\n- Experience mapping inheritance and Common Control Catalogs\n\n- Experience developing or tuning Risk Scoring\n\n- \nClearance Requirement\nAbility to obtain may be required \n\nWe’re actively searching for talented security and technology practitioners who are ready to experience the True Zero difference. As a True Zero team member, you'll enjoy:- Competitive salary, paid twice per month- Best in class medical coverage- 100% of medical premiums covered by True Zero- Company wide new business incentive programs- Contribution Incentives (i.e. white papers, blog posts, internal webinars, etc.)- 3 weeks of PTO starting + 11 Paid Holidays Annually- 401k Program with 100% company match on the first 4%- Monthly reimbursement of Cell Phone and Home Internet costs- Paternity/Maternity Leave- Investment in training and certifications to broaden and deepen your technical skills\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-database-specialist-lead-r-00178-true-zero-technologies</p>",
       "posted_at": "2026-09-11T20:34:19+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "ab95a7f0-0ead-45bd-8dea-9717dbeef402",
-      "title": "Team Lead BI",
-      "url": "https://remotejobs.org/remote-jobs/team-lead-bi-renmoney",
-      "apply_url": "https://remotejobs.org/remote-jobs/team-lead-bi-renmoney",
-      "company": {
-        "name": "Renmoney",
-        "logo_url": "https://cdn-images.himalayas.app/fluhkmpfoeao1dw8wxko935how7d",
-        "website": "https://renmoney.com",
-        "url": "https://remotejobs.org/companies/renmoney"
-      },
-      "category": {
-        "name": "Data Science",
-        "slug": "data-science"
-      },
-      "location": "Remote",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "type": "Full-time",
-      "description": "We are looking for an experienced BI / Data Analytics professional with a strong background in building and leading data-driven solutions. In this role, you will combine hands-on expertise in data warehousing, SQL, and BI tools with the ability to guide a team and collaborate closely with business stakeholders. This position requires both technical depth and strong communication skills to ensure data is accurate, accessible, and effectively supports decision-making across the organization.\n\nResponsibilities\n\n- Lead the BI analysts team: distribute tasks, monitor deadlines, support career and professional development.\n\n- Act as the main point of contact for stakeholders (business units, product, finance, operations), identify their needs, clarify and formalize requirements for reporting and analytics.\n\n- Own and develop the user layer of the data warehouse: marts and business layer, ensure consistency and \"single source of truth\" for business users.\n\n- Minimize duplication of reports and metrics: introduce and enforce naming standards, KPI backlog, report and metadata catalog, monitor their relevance.\n\n- Organize and manage the process of accepting requests for reports and analytics, as well as prioritization within the business plan.\n\n- Monitor the quality and stability of reporting: send alerts, investigate incidents, participate in discussions of SLA and BI report metrics.\n\nRequirements\n\n- Experience in BI / analytics / data warehouse from 5 years, including at least 1 year as Team Lead.\n\n- Understanding of data warehouse and marts architecture, experience with cloud or enterprise DW (e.g., Amazon Redshift, Snowflake, BigQuery).\n\n- Strong SQL skills, experience with marts modeling, semantic models (dbt or analogs), and data preparation for BI tools.\n\n- Ability to structure and communicate with business stakeholders: set goals, discuss hypotheses, identify root-cause metrics, and explain data limitations.\n\n- Experience with BI tools such as Power BI / Tableau / Looker Studio / Qlik (Power BI preferred).\n\n- Experience in maintaining metric and report catalogs, requirement management tools, and backlog processes.\n\n- Good level of English (Intermediate or higher) for interaction with international teams.\n\nBenefits\n\n- Remote work from anywhere in the world\n\n- Performance bonus, 25+ paid vacations and day-offs, personal development plan\n\n- Purpose: shape the future of fintech in Nigeria with products that reach millions, backed by a competitive salary\n\n- Growth: thrive in a fast paced work environment with flexibility, collaboration, and access to cutting-edge tools\n\n- Diverse, inclusive team where all voices are valued, and professional growth is a priority.\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/team-lead-bi-renmoney</p>",
-      "posted_at": "2026-09-11T20:34:18+00:00",
       "is_translated": false,
       "original_language": null
     }
