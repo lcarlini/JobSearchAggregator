@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-17T03:41:41.157Z",
-  "count": 186,
+  "generatedAt": "2026-09-17T11:06:34.952Z",
+  "count": 187,
   "jobs": [
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/alphorm-formateur-it-independant-cybersecurite-ia-cloud-devops-et-reseaux",
@@ -378,6 +378,21 @@
       "category": "programming"
     },
     {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-cloud-architect",
+      "source": "weworkremotely",
+      "title": "Principal Cloud Architect",
+      "company": "ZoomInfo Technologies LLC",
+      "url": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-cloud-architect",
+      "description": "Headquarters: Remote-US-NY ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen–fast. What You'll Do Prototype and Hand Off: Design platform patterns end-to-end—build reference implementations, document the rationale, and partner with implementation teams to roll them out. Stay hands-on through proof-of-concept and initial enablement, writing reference implementations and opening PRs to jumpstart team adoption. Participate in Architecture Review: Bring a consistent, documented rubric to weekly architecture rev",
+      "location": "Anywhere in the World",
+      "tags": [
+        "DevOps and Sysadmin",
+        "devops"
+      ],
+      "postedAt": "Thu, 17 Sep 2026 07:30:57 +0000",
+      "category": "devops"
+    },
+    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/keeper-security-bilingual-channel-account-manager-arabic-mea-uk",
       "source": "weworkremotely",
       "title": "Bilingual Channel Account Manager, Arabic (MEA) - UK",
@@ -489,21 +504,6 @@
       "company": "CircleCI",
       "url": "https://weworkremotely.com/remote-jobs/circleci-senior-software-engineer",
       "description": "Headquarters: Remote, Ontario, Canada About CircleCI Engineering CI/CD has been solved. Now it's being reinvented. AI agents don't just run pipelines. They write code, trigger builds, interpret failures, and propose fixes. The interfaces that developers use to understand and trust that work don't exist yet. We're building them. At CircleCI, our guiding principles aren't posters on a wall. We learn fast: we run experiments, accept failure, and scale what works. We think like the customer: every decision connects back to the developer sitting in front of a failing build at 2 am. We own the outcome: not just our slice of it, but the whole thing. If that's how you already work, you'll fit here. Team-Agnostic Placement We don't hire for a team. We hire for CircleCI. Where you land depends on wh",
-      "location": "Anywhere in the World",
-      "tags": [
-        "DevOps and Sysadmin",
-        "devops"
-      ],
-      "postedAt": "Mon, 31 Aug 2026 07:30:46 +0000",
-      "category": "devops"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/databricks-cyber-security-gtm-leader",
-      "source": "weworkremotely",
-      "title": "Cyber Security GTM Leader",
-      "company": "Databricks",
-      "url": "https://weworkremotely.com/remote-jobs/databricks-cyber-security-gtm-leader",
-      "description": "Headquarters: Remote - California; Remote - New York SLSQ327R408 As the Cybersecurity Go-to-market (GTM) Leader, you will drive the global GTM strategy and execution of the Cybersecurity business at Databricks. You will play a pivotal role in accelerating cyber revenue growth by building scalable assets for the field, designing enablement programs, and driving key partnerships. You will be the domain expert and business executive for cybersecurity use-cases across all verticals and regions. In this role, you will set a clear GTM vision for Cybersecurity, work with a cross-functional team and focus relentlessly on execution of scalable sales programs. You will build a clear business plan for Cybersecurity that drives alignment across sales, industry vertical leaders, enablement, partner man",
       "location": "Anywhere in the World",
       "tags": [
         "DevOps and Sysadmin",
@@ -826,6 +826,36 @@
       ],
       "postedAt": "Wed, 12 Aug 2026 23:41:10 +0000",
       "category": "design"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/typeform-ai-product-operations-lead",
+      "source": "weworkremotely",
+      "title": "AI Product Operations Lead",
+      "company": "Typeform",
+      "url": "https://weworkremotely.com/remote-jobs/typeform-ai-product-operations-lead",
+      "description": "Headquarters: Germany (Remote) ; Ireland (Remote); Netherlands (Remote) ; Portugal (Remote) ; Spain (Remote) ; United Kingdom (Remote) Who we are Typeform is a refreshingly different form builder. We help over 150,000 businesses collect the data they need with forms, surveys, and quizzes that people enjoy. Designed to look striking and feel effortless to fill out, Typeform drives 500 million responses every year—and integrates with essential tools like Slack, Zapier, and Hubspot. Typeform is fully remote by design. For this role, we can hire candidates based in the UK, Ireland, Germany, Portugal or The Netherlands About the team Product Operations sits at the center of how our Product and wider R&D teams work. We help create the systems, practices, and connections that allow teams to focus",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Product",
+        "product"
+      ],
+      "postedAt": "Thu, 17 Sep 2026 07:30:57 +0000",
+      "category": "product"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-director-software-engineering",
+      "source": "weworkremotely",
+      "title": "Director, Software Engineering",
+      "company": "ZoomInfo Technologies LLC",
+      "url": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-director-software-engineering",
+      "description": "Headquarters: Remote ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen–fast. The Opportunity We are looking for a Director of Engineering to lead our GTM Store and ZoomInfo Data Platform teams within the Platform Engineering organization. This is a high-impact, high-visibility leadership role responsible for the foundational systems that store, ingest, and evolve the data powering ZoomInfo's entire go-to-market product suite. You will lead a team of senior engineers across two core areas: &nbsp; &nbsp; &nbs",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Product",
+        "product"
+      ],
+      "postedAt": "Thu, 17 Sep 2026 07:30:57 +0000",
+      "category": "product"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/geopro-labs-inc-head-of-operations-shopify-app-portfolio",
@@ -2433,6 +2463,21 @@
       "category": "full-stack"
     },
     {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/salesloft-people-operations-generalist",
+      "source": "weworkremotely",
+      "title": "People Operations Generalist",
+      "company": "Salesloft",
+      "url": "https://weworkremotely.com/remote-jobs/salesloft-people-operations-generalist",
+      "description": "Headquarters: United States, Remote Job Title: People Operations Generalist&nbsp; Location: United States, Remote THE OPPORTUNITY: Salesloft is building the next era of enterprise revenue — one where teams make confident decisions powered by AI and real signals. By combining our scale, insights, and AI innovation, we're building the industry's first Predictive Revenue System, enabling humans and AI to work together to make smarter decisions and drive consistent growth. With thousands of customers using our platforms every day, we have an unmatched view into how revenue is actually won — the Revenue Context that reveals what happens, when, and with what outcome. This gives us a unique opportunity to transform an entire category and set a new benchmark for how modern revenue teams operate. J",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Management and Finance",
+        "management"
+      ],
+      "postedAt": "Thu, 17 Sep 2026 07:30:57 +0000",
+      "category": "management"
+    },
+    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/salesloft-financial-analyst-r-d",
       "source": "weworkremotely",
       "title": "Financial Analyst, R&D",
@@ -2550,21 +2595,6 @@
         "management"
       ],
       "postedAt": "Sun, 06 Sep 2026 07:30:50 +0000",
-      "category": "management"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/discord-advertising-operations-manager",
-      "source": "weworkremotely",
-      "title": "Advertising Operations Manager",
-      "company": "Discord",
-      "url": "https://weworkremotely.com/remote-jobs/discord-advertising-operations-manager",
-      "description": "Headquarters: San Francisco Bay Area or New York (Remote) Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people to hang out before, during, and after playing games. Ad Operations and Sales Analytics support Discord's ads business, partnering with Sales, Product, Engineering, Data Science, and other cross-functional teams to deliver high-quality campaign executions, impactful data insights, and go-to-market strategy across our advertising products. As an Ad Operations Manager, you will play a crucial part in scaling our Ads business",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Management and Finance",
-        "management"
-      ],
-      "postedAt": "Sat, 05 Sep 2026 07:31:07 +0000",
       "category": "management"
     },
     {
@@ -2760,21 +2790,6 @@
         "management"
       ],
       "postedAt": "Wed, 08 Jul 2026 12:07:36 +0000",
-      "category": "management"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/elite-software-automation-business-analyst-2",
-      "source": "weworkremotely",
-      "title": "Business Analyst",
-      "company": "Elite Software Automation",
-      "url": "https://weworkremotely.com/remote-jobs/elite-software-automation-business-analyst-2",
-      "description": "Headquarters: Virtual URL: https://jobs.elitesoftwareautomation.com/ (Remote, Full-Time, Anywhere in the World) Starting Pay:&nbsp;USD $110-150K/year for Advanced/Senior level, $80-100K/year for Mid-level (details below) Further pay promotions available based on performance once on the job We are only accepting experienced candidates at this time. If you are a beginner, your application will be rejected. Note: this job listing is incomplete due to the job board's word limit. Click \"Apply\" to see the full job description and application on our jobs site. Introduction Elite Software Automation (ESA) is a boutique consulting firm that transforms successful, fast-growing businesses into dominant market players through comprehensive operational optimization. Our clients are established 7 and 8 ",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Management and Finance",
-        "management"
-      ],
-      "postedAt": "Mon, 23 Mar 2026 19:26:05 +0000",
       "category": "management"
     },
     {
