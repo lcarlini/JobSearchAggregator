@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-18T15:58:23.909Z",
-  "count": 141,
+  "generatedAt": "2026-09-18T20:32:50.412Z",
+  "count": 142,
   "jobs": [
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/revenuecat-senior-devops-devex-engineer",
@@ -1021,6 +1021,21 @@
       ],
       "postedAt": "Fri, 07 Aug 2026 18:27:08 +0000",
       "category": "product"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/toptal-senior-integration-engineer-for-enterprise-api-integration-products",
+      "source": "weworkremotely",
+      "title": "Senior Integration Engineer for Enterprise API & Integration Products",
+      "company": "Toptal",
+      "url": "https://weworkremotely.com/remote-jobs/toptal-senior-integration-engineer-for-enterprise-api-integration-products",
+      "description": "Headquarters: Summary We are looking for a Senior Integration Engineer to build and operate integration products connecting Salesforce, SAP, and a carrier data lake. This role combines hands-on integration development with end-to-end production ownership, including API design, data mapping, testing, monitoring, troubleshooting, and recovery. General information This role focuses on building reliable, maintainable integrations rather than creating new point-to-point integration debt. You will work across Salesforce, SAP, and carrier data lake environments, taking ownership of integrations throughout their lifecycle—from implementation and testing through production support and continuous improvement. Strong experience with MuleSoft or a comparable enterprise integration/API platform is expe",
+      "location": "North America Only",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Fri, 18 Sep 2026 17:01:08 +0000",
+      "category": "full-stack"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/collibra-cps-account-program-manager",
