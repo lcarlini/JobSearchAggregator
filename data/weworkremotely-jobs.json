@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-19T03:22:50.606Z",
-  "count": 97,
+  "generatedAt": "2026-09-19T10:27:11.012Z",
+  "count": 99,
   "jobs": [
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/legion-chief-architect",
@@ -376,6 +376,36 @@
       ],
       "postedAt": "Fri, 21 Aug 2026 07:30:41 +0000",
       "category": "programming"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/circleci-software-engineer",
+      "source": "weworkremotely",
+      "title": "Software Engineer",
+      "company": "CircleCI",
+      "url": "https://weworkremotely.com/remote-jobs/circleci-software-engineer",
+      "description": "Headquarters: Ontario, Canada (Remote) About CircleCI Engineering CI/CD has been solved. Now it's being reinvented. AI agents don't just run pipelines. They write code, trigger builds, interpret failures, and propose fixes. The interfaces that developers use to understand and trust that work don't exist yet. We're building them. At CircleCI, our guiding principles aren't posters on a wall. We learn fast: we run experiments, accept failure, and scale what works. We think like the customer: every decision connects back to the developer sitting in front of a failing build at 2 am. We own the outcome: not just our slice of it, but the whole thing. If that's how you already work, you'll fit here. Team-Agnostic Placement We don't hire for a team. We hire for CircleCI. Where you land depends on w",
+      "location": "Anywhere in the World",
+      "tags": [
+        "DevOps and Sysadmin",
+        "devops"
+      ],
+      "postedAt": "Sat, 19 Sep 2026 07:31:10 +0000",
+      "category": "devops"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/circleci-security-operations-engineer",
+      "source": "weworkremotely",
+      "title": "Security Operations Engineer",
+      "company": "CircleCI",
+      "url": "https://weworkremotely.com/remote-jobs/circleci-security-operations-engineer",
+      "description": "Headquarters: Ontario, Canada (Remote) Security Operations Engineer About the Team The Security Operations team plays a critical role in protecting CircleCI’s infrastructure, product, and customer data against an evolving threat landscape. From incident response to hardening our cloud and CI/CD environments, the team works closely with engineering to keep CircleCI secure, resilient, and ready for what’s next. About the Role As a Security Operations Engineer, you’ll play a key role in protecting CircleCI’s infrastructure, product, and customer data against an evolving threat landscape increasingly shaped by AI-driven attacks and AI-augmented defenses. This intermediate-level role offers the opportunity to take meaningful ownership of security challenges, work closely with Engineering as a t",
+      "location": "Anywhere in the World",
+      "tags": [
+        "DevOps and Sysadmin",
+        "devops"
+      ],
+      "postedAt": "Sat, 19 Sep 2026 07:31:10 +0000",
+      "category": "devops"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-cloud-architect",
@@ -918,6 +948,21 @@
       "category": "product"
     },
     {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/hex-technologies-cloud-security-engineer",
+      "source": "weworkremotely",
+      "title": "Cloud Security Engineer",
+      "company": "Hex Technologies",
+      "url": "https://weworkremotely.com/remote-jobs/hex-technologies-cloud-security-engineer",
+      "description": "Headquarters: SF, NYC, or Remote (US) About the role We are looking for an experienced Cloud Security Engineer to join Hex’s security team. You will be responsible for ensuring the security and resilience of our cloud infrastructure, providing leadership in cloud security practices, and collaborating closely with our infrastructure and engineering teams to secure our cloud-native applications. About the role: Design, implement, and manage security solutions and controls for AWS environments and Kubernetes clusters, including appropriate isolation/sandboxing methods for Hex’s RCE-as-a-Service platform Build, deploy, and maintain infrastructure-as-code using Terraform, ensuring robust security standards are enforced. Conduct security assessments, threat modeling, and audits on AWS cloud infr",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Sat, 19 Sep 2026 07:31:10 +0000",
+      "category": "full-stack"
+    },
+    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/toptal-senior-integration-engineer-for-enterprise-api-integration-products",
       "source": "weworkremotely",
       "title": "Senior Integration Engineer for Enterprise API & Integration Products",
@@ -1335,21 +1380,6 @@
         "management"
       ],
       "postedAt": "Sun, 06 Sep 2026 07:30:50 +0000",
-      "category": "management"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/chime-financial-inc-genesys-platform-program-lead",
-      "source": "weworkremotely",
-      "title": "Genesys Platform Program Lead",
-      "company": "Chime Financial, Inc",
-      "url": "https://weworkremotely.com/remote-jobs/chime-financial-inc-genesys-platform-program-lead",
-      "description": "Headquarters: Remote, USA About the role Chime is undergoing one of the most significant transformations in our member support history by migrating our enterprise contact center to Genesys Cloud CX. We are seeking a Genesys Platform Lead to serve as the internal authority for this platform: ensuring the migration lands correctly and the platform continues to operate at its best long after launch. This is not a build-and-hand-off engagement; the role serves as an ongoing \"watchtower\" – accountable for correct configuration, rigorous governance, and continuous improvement.&nbsp; The base salary offered for this role and level of experience will begin at $138,000.00 and up to $190,000.00. Full-time employees are also eligible for a bonus, competitive equity package, and benefits. The actual b",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Management and Finance",
-        "management"
-      ],
-      "postedAt": "Fri, 28 Aug 2026 07:30:48 +0000",
       "category": "management"
     },
     {
