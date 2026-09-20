@@ -1,7 +1,22 @@
 {
-  "generatedAt": "2026-09-20T03:39:39.160Z",
+  "generatedAt": "2026-09-20T10:43:58.566Z",
   "count": 100,
   "jobs": [
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/legion-director-of-production-engineering",
+      "source": "weworkremotely",
+      "title": "Director of Production Engineering",
+      "company": "Legion",
+      "url": "https://weworkremotely.com/remote-jobs/legion-director-of-production-engineering",
+      "description": "Headquarters: Remote, United States Director of Production Engineering&nbsp; Remote, United States About this Position Are you passionate about building the reliability, automation, and security foundations that let engineering teams move fast with confidence? At Legion, we are seeking a Director of Engineering, DevOps & SRE to lead the teams responsible for the availability, scalability, and security of our production environment. Our production infrastructure runs on AWS, leveraging services such as EKS, RDS, and a broad set of AWS-native technologies. You will partner closely with engineering and IT to build resilient systems, drive operational excellence, and ensure our platform meets the highest standards of security and compliance. This is a hands-on leadership role where you'll spen",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "programming"
+      ],
+      "postedAt": "Mon, 07 Sep 2026 07:30:54 +0000",
+      "category": "programming"
+    },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/legion-chief-architect",
       "source": "weworkremotely",
@@ -363,19 +378,19 @@
       "category": "programming"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/galileo-medical-licensing-specialist-contract",
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/datadog-developer-advocate-service-management-emea",
       "source": "weworkremotely",
-      "title": "Medical Licensing Specialist (Contract)",
-      "company": "Galileo",
-      "url": "https://weworkremotely.com/remote-jobs/galileo-medical-licensing-specialist-contract",
-      "description": "Headquarters: Remote, United States About Us Galileo is a team-based medical practice working to improve the quality and affordability of health care for all. Operating across 50 states, Galileo offers high-touch, data-driven, multi-specialty, longitudinal care to diverse and complex patients—on the phone, in the home, and everywhere in between. Regional and national health plans, employers, and Fortune 500 organizations trust Galileo as the leading solution to improve population health. Founded by Dr. Tom X. Lee, the healthcare pioneer behind One Medical and Epocrates, Galileo is a team of leading innovators from healthcare, technology, and human-centered design. Our mission is to apply that talent and scientific thinking to transform society by solving our largest, toughest healthcare pr",
+      "title": "Developer Advocate - Service Management EMEA",
+      "company": "Datadog",
+      "url": "https://weworkremotely.com/remote-jobs/datadog-developer-advocate-service-management-emea",
+      "description": "Headquarters: France, Remote; Portugal, Remote; Spain, Remote; The Netherlands, Remote We are a team of engineers that translate our real-world experience to help our user communities solve problems. With a focus on service management, helping teams respond to incidents, run on-call, and automate their operations, you will work with practitioners and leaders across the industry and broaden your impact to the SRE, Engineer, DevOps, and Operations community at large. This is a unique opportunity to use both your engineering and creative storytelling skills to shape the landscape in cloud observability, incident response and service management. &nbsp; What You'll Do: &nbsp; Act as a subject matter expert for service management (incident response, on-call, IDP, Work Management, Workflow Automa",
       "location": "Anywhere in the World",
       "tags": [
-        "Full-Stack Programming",
-        "programming"
+        "DevOps and Sysadmin",
+        "devops"
       ],
-      "postedAt": "Fri, 21 Aug 2026 07:30:41 +0000",
-      "category": "programming"
+      "postedAt": "Sun, 20 Sep 2026 07:31:09 +0000",
+      "category": "devops"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/circleci-software-engineer",
@@ -1170,21 +1185,6 @@
         "full-stack"
       ],
       "postedAt": "Mon, 07 Sep 2026 14:09:46 +0000",
-      "category": "full-stack"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/legion-director-of-production-engineering",
-      "source": "weworkremotely",
-      "title": "Director of Production Engineering",
-      "company": "Legion",
-      "url": "https://weworkremotely.com/remote-jobs/legion-director-of-production-engineering",
-      "description": "Headquarters: Remote, United States Director of Production Engineering&nbsp; Remote, United States About this Position Are you passionate about building the reliability, automation, and security foundations that let engineering teams move fast with confidence? At Legion, we are seeking a Director of Engineering, DevOps & SRE to lead the teams responsible for the availability, scalability, and security of our production environment. Our production infrastructure runs on AWS, leveraging services such as EKS, RDS, and a broad set of AWS-native technologies. You will partner closely with engineering and IT to build resilient systems, drive operational excellence, and ensure our platform meets the highest standards of security and compliance. This is a hands-on leadership role where you'll spen",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Mon, 07 Sep 2026 07:30:54 +0000",
       "category": "full-stack"
     },
     {
