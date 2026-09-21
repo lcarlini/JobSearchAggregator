@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T20:26:43.952Z",
+  "generatedAt": "2026-09-21T03:35:45.742Z",
   "count": 202,
   "jobs": [
     {
@@ -688,40 +688,6 @@
         "id": 15000027,
         "short_name": "thecocacolacompany",
         "name": "The Coca-Cola Company"
-      }
-    },
-    {
-      "contents": "<p><strong>About the Role</strong><br><br>We are hiring a Software Engineer II for the Login Services Platform Engineering team within Core Security Engineering. Our mission is to build the foundational identity platform that Uber's security and infrastructure organization runs on - spanning how we govern non-human identities, how we model identity and access as queryable knowledge, and how we authenticate and authorize both people and autonomous agents at scale.<br><br>You'll work across three interconnected platform programs: Non-Human Identity (NHI) Governance, the Security Knowledge Graph, and uSSO / Agentic R&amp;D. Each is foundational infrastructure that other security and engineering teams build on top of - which means the systems you write need to be correct, observable, and safe to depend on.<br><br><strong>What You'll Do</strong><br><br><strong>Non-Human Identity Governance</strong> - Build the tooling and detection logic that governs the sprawling web of permissions between personnel, workloads, agents, service accounts, and infrastructure. Develop inventory and risk-identification pipelines that surface dangerous patterns - runaway group membership, over-privileged service accounts - before they become incidents. Contribute to eliminating personnel misuse of non-human identities by migrating credentials to secretless patterns and onboarding privileged access management (PAM) enforcement.<br><br><strong>Security Knowledge Graph </strong>- Help build a single, queryable knowledge graph of identity, assets, ownership, and access controls that is becoming foundational to Uber's security infrastructure strategy. Design and ship the ingestion framework, CI/CD pipeline, and self-service tooling (schema browsing, query benchmarking, scaffolding) that let any security or infra team onboard their own data sources without bespoke integration work. Build toward near-real-time ingestion for high-value signals like access and group-membership changes, and extend the graph to support both human consumers (dashboards, investigation tools) and AI agents querying it directly.<br><br><strong>uSSO / Agentic R&amp;D</strong> - Help evolve uSSO into an identity platform that works natively for both humans and autonomous agents, strengthening authentication as more of Uber's workload shifts to agentic systems acting on behalf of people and services. This means building the underlying platform to be robust and agent-compatible, and defining how Uber issues, verifies, and scopes identity for agents - establishing clear on-behalf-of relationships and policy standards for how agents can safely access production systems and SaaS.<br><br>Diagnose and resolve complex distributed-systems problems across these platforms under continuous, high-volume, security-critical traffic - with a focus on correctness, latency, and operational resilience.<br><br><strong>Basic Qualifications</strong><br><br>4+ years of professional experience as a Software Engineer, with experience designing, building, and operating distributed systems in a production environment.<br><br>Ability to take ownership of a well-scoped technical problem, break it into concrete steps, and drive it to completion with appropriate urgency.<br><br>Working knowledge of backend infrastructure fundamentals: service architecture, data stores, caching, and asynchronous/event-driven messaging.<br><br><strong>Preferred Qualifications</strong><br><br>Experience with graph data models and query languages (e.g., Cypher), or with streaming/near-real-time data pipelines (e.g., Kafka, Flink).<br><br>Experience with identity and access management concepts: service accounts, privileged access management, non-human identity, OAuth, or SSO.<br><br>Interest or experience in emerging problems around AI agent identity and authorization - how autonomous systems should be authenticated, scoped, and audited.<br><br>Familiarity with Golang and with modernizing legacy backend systems.<br> <br>For San Francisco, CA-based roles: The base salary range for this role is USD $171,000 per year - USD $190,000 per year.<br><br>You will be eligible to participate in Uber's bonus program, and may be offered an equity award &amp; other types of comp. All full-time employees are eligible to participate in a 401(k) plan. You will also be eligible for various benefits.<br> <br><strong>Ready to Ride?</strong><br> <br>This isn't the kind of place where you follow a playbook - it's where you help write one. If you're driven by impact, energized by challenge, and ready to shape how the world moves - we'd love to hear from you.<br> <br>You may be eligible for bonuses, equity, and other compensation, as well as a range of benefits. Explore our benefits. <br> <br>Offices remain key to collaboration and Uber's culture. Unless approved for full remote work, employees must spend at least 50% of their time in-office. Some roles, like those at greenlight hubs, require full-time in-office presence. Ask your Recruiter for details about this role's requirements.<br> <br>Uber is proud to be an Equal Opportunity employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you have a disability or special need that requires accommodation, please let us know by completing this form.</p>",
-      "name": "Software Engineer II - Engineer",
-      "type": "external",
-      "publication_date": "2026-09-18T20:50:42Z",
-      "short_name": "software-engineer-ii-engineer-4c0e8f",
-      "model_type": "jobs",
-      "id": 22180820,
-      "locations": [
-        {
-          "name": "San Francisco, CA"
-        }
-      ],
-      "categories": [
-        {
-          "name": "Software Engineering"
-        }
-      ],
-      "levels": [
-        {
-          "name": "Mid Level",
-          "short_name": "mid"
-        }
-      ],
-      "tags": [],
-      "refs": {
-        "landing_page": "https://www.themuse.com/jobs/uber/software-engineer-ii-engineer-4c0e8f"
-      },
-      "company": {
-        "id": 61,
-        "short_name": "uber",
-        "name": "Uber"
       }
     },
     {
@@ -3130,51 +3096,6 @@
       }
     },
     {
-      "contents": "<p><b>Job Description:</b><br><br>At Bank of America, we are guided by a common purpose to help make financial lives better through the power of every connection. We do this by driving Responsible Growth and delivering for our clients, teammates, communities and shareholders every day.<br><br>Being a Great Place to Work is core to how we drive Responsible Growth. This includes our commitment to being an inclusive workplace, attracting and developing exceptional talent, supporting our teammates' physical, emotional, and financial wellness, recognizing and rewarding performance, and how we make an impact in the communities we serve.<br><br>Bank of America is committed to an in-office culture with specific requirements for office-based attendance and which allows for an appropriate level of flexibility for our teammates and businesses based on role-specific considerations.<br><br>At Bank of America, you can build a successful career with opportunities to learn, grow, and make an impact. Join us!<br><br><b>Job Description:</b><br><br>This job is responsible for partnering with leaders across engineering and technology to define objective reliability goals for services. Key responsibilities include composing observability designs through instrumentation and dashboards, identifying root causes of complex/impactful issues, partnering with cross functional teams to deliver sustainable design patterns, and driving early adoption of non-functional production support requirements. Job expectations include automating services to improve reliability and efficiency and influencing a culture of innovation and continuous improvement.<br><br><b>Position Summary: </b><br><br>The Senior Site Reliability Engineer acts as an advanced senior individual contributor responsible for designing, implementing, and maturing reliability engineering capabilities. The role focuses on complex technical problem solving, reliability architecture, automation strategy, observability maturity, platform resiliency, and operational excellence. The ideal candidate has experience driving the evolution of traditional infrastructure operations toward a modern reliability engineering model through automation, observability, AIOps, and engineering-first operational practices that improve service reliability and reduce operational toil.<br><br><b>Responsibilities:</b><br><br><ul><li>Designs solutions to visualize key production support metrics enabling Operational Readiness and Site Reliability Engineer teams to identify scenarios requiring intervention</li><li>Develops software solutions and/or improved processes to address work identified as 'toil' by collaborating with key partners to identify, track and remediate processes to free time allocated to reliability</li><li>Partners with Development and Infrastructure teams to create error budget policies prioritizing reliability stories that fall below Service Level Objective (SLO) thresholds and suggests code optimizations, additional instrumentation and/or logging structures to gain service reliability visibility</li><li>Identifies and plans for capacity bottlenecks, vulnerabilities and opportunities for reliability improvement, such as low level error rates and 'noise', and reduces manual support effort and/or improves system reliability</li><li>Assesses monitoring for new changes with development partners and works with monitoring tools team to monitor dashboards and enhance application and system monitoring designs</li><li>Engages as a subject matter expert in incident triage efforts, failure scenario modelling and works with the Problem Manager to diagnose root causes for complex/high impact incident/problem management investigations</li><li>Collaborates with Development and Infrastructure teams to understand technical solutions and develop Service Level Indicators and SLOs to measure/improve the reliability of the services they support</li><li>Champions modern SRE, observability, and AIOps practices by driving automation, reliability engineering, and operational excellence across platform services.</li><li>Leads intelligent operations initiatives, including automated remediation, predictive monitoring, event correlation, and data-driven decision-making.</li><li>Serves as a senior technical authority for platform reliability, resiliency, observability, automation, and production readiness, while leading key initiatives such as secondary-region readiness, network observability, GenAI platform health monitoring, and enterprise dashboard automation.</li><li>Defines and matures SLIs, SLOs, alerting standards, and service health reporting across on-premises and cloud platforms.</li><li>Develops reusable IaC modules, automation frameworks, and CI/CD patterns to improve consistency, compliance, and operational quality. Identifies reliability risks, drives remediation and automation strategies, leads major incident investigations, and partners with security and governance teams to embed IAM, policy-as-code, vulnerability remediation, and audit readiness into cloud operations.</li></ul><br><b>Required Qualifications:</b><br><br><ul><li>5+ years of experience in platform, systems, or infrastructure engineering, with a strong focus on automation and integration.</li><li>Demonstrated experience transforming traditional infrastructure operations, systems administration, or platform support functions into modern engineering-led operating models utilizing Site Reliability Engineering (SRE), observability, automation, and AIOps practices.</li><li>• Proven experience implementing and operationalizing SRE principles, including Service Level Indicators (SLIs), Service Level Objectives (SLOs), error budgets, reliability metrics, incident management modernization, and continuous service improvement programs.</li><li>Hands-on experience designing and implementing enterprise observability solutions leveraging metrics, logs, traces, telemetry, synthetic monitoring, and service health analytics to improve operational visibility and platform reliability.</li><li>Experience reducing operational toil through automation, self-healing capabilities, event-driven remediation, Infrastructure as Code (IaC), and intelligent operational workflows.</li><li>Demonstrated ability to identify operational inefficiencies and drive engineering solutions that improve availability, resiliency, scalability, and operational effectiveness.</li><li>Experience partnering with infrastructure, application, security, and platform teams to establish reliability engineering standards, observability frameworks, production readiness requirements, and operational best practices.</li></ul><br><b>Desired Qualifications:</b><br><br><ul><li>Experience driving organizational adoption of SRE culture and practices, including operational maturity assessments, reliability reviews, automation programs, post-incident learning, and engineering enablement.</li><li>Experience supporting or implementing AIOps platforms and capabilities, including event correlation, anomaly detection, predictive analytics, automated remediation, noise reduction, and operational intelligence.</li><li>Experience with modern observability platforms.</li><li>Experience with CI/CD pipelines and infrastructure-as-code (e.g., Terraform, Ansible)</li><li>Familiarity with containerization and orchestration platforms</li><li>Experience in financial services or highly regulated environments</li><li>Ability to communicate complex technical concepts to non-technical stakeholders</li><li>Prior experience mentoring or leading engineering operations teams</li></ul><br><b>Skills:</b><br><br><ul><li>Architecture</li><li>Collaboration</li><li>Innovative Thinking</li><li>Result Orientation</li><li>Solution Design</li><li>Adaptability</li><li>Analytical Thinking</li><li>Influence</li><li>Stakeholder Management</li><li>Technical Strategy Development</li><li>Other</li><li>Resource Management</li><li>Financial and Succession Planning</li></ul><br><b>Shift:</b><br>1st shift (United States of America)<br><br><b>Hours Per Week: </b><br>40<br><br><b>Pay Transparency details</b><br><br>US - NJ - Jersey City - 101 Hudson St - 101 Hudson (NJ2101)<br><br>Pay and benefits information<br><br>Pay range<br><br>$152,600.00 - $191,500.00 annualized salary, offers to be determined based on experience, education and skill set.<br><br>Discretionary incentive eligible<br><br>This role is eligible to participate in the annual discretionary plan. Employees are eligible for an annual discretionary award based on their overall individual performance results and behaviors, the performance and contributions of their line of business and/or group; and the overall success of the Company.<br><br>Benefits<br><br>This role is currently benefits eligible. We provide industry-leading benefits, access to paid time off, resources and support to our employees so they can make a genuine impact and contribute to the sustainable growth of our business and the communities we serve.</p>",
-      "name": "Senior Site Reliability Engineer",
-      "type": "external",
-      "publication_date": "2026-09-03T19:34:47Z",
-      "short_name": "senior-site-reliability-engineer-043109",
-      "model_type": "jobs",
-      "id": 22123611,
-      "locations": [
-        {
-          "name": "Charlotte, NC"
-        },
-        {
-          "name": "Jersey City, NJ"
-        },
-        {
-          "name": "Plano, TX"
-        }
-      ],
-      "categories": [
-        {
-          "name": "Software Engineering"
-        }
-      ],
-      "levels": [
-        {
-          "name": "Senior Level",
-          "short_name": "senior"
-        }
-      ],
-      "tags": [
-        {
-          "name": "Fortune 1000",
-          "short_name": "fortune-1000-companies"
-        }
-      ],
-      "refs": {
-        "landing_page": "https://www.themuse.com/jobs/bankofamerica/senior-site-reliability-engineer-043109"
-      },
-      "company": {
-        "id": 12145,
-        "short_name": "bankofamerica",
-        "name": "Bank of America"
-      }
-    },
-    {
       "contents": "<p>What the Candidate Will Do <br><br>Agency Partnership &amp; Account Leadership<br> <ul> <li>Establish the Gold Standard: Position Uber Advertising as an indispensable, strategic partner to Canada's priority agency holding companies.</li> <li>Navigate the Ecosystem: Build and nurture deep-rooted relationships across the agency spectrum-from investment and strategy to programmatic, data, and C-suite leadership.</li> <li>Architect Joint Business Plans (JBPs): In lockstep with Global and US&amp;C leads, co-author the blueprints for agency success and long-term commitment.</li> <li>Global-to-Local Bridge: Serve as the high-speed link between global strategy and flawless local market execution.</li> </ul> <br>Commercial Ownership &amp; Growth<br> <ul> <li>Own the Outcome: Drive relentless in-quarter revenue performance while constructing the scaffolding for multi-year, scalable partnerships.</li> <li>Scale at Pace: Identify and industrialize joint commercial opportunities across diverse agency client portfolios.</li> <li>Revenue Accountability: Partner with Sales to own pipeline development, precise forecasting, and aggressive growth targets.</li> <li>Operational Excellence: Build the frameworks and incentive programs that turn \\\"potential\\\" into high-velocity platform adoption.</li> </ul> <br>Cross-Functional Collaboration<br> <ul> <li>Matrix Mastery: Rally Sales, Product, Marketing, and Ops teams to deliver a cohesive, \\\"One Uber\\\" agency experience.</li> <li>Shape the Narrative: Influence the GTM strategy and sales enablement tools that define how the Canadian market views Uber Advertising.</li> <li>Feedback Loop: Act as the voice of the Canadian marketplace, providing high-signal feedback to inform our global product roadmap.</li> </ul><br>Basic Qualifications <br><ul> <li>10+ Years of Hustle: Extensive experience in media, advertising, or platform partnerships, specifically navigating the complexities of global agency holding companies.</li> <li>Proven Scale: A track record of managing and scaling multi-million dollar advertising businesses.</li> <li>Agency Fluency: Deep, existing networks within major agency holding companies and a \\\"native\\\" understanding of their operating models.</li> <li>Commercial DNA: Strong business acumen with a bias toward revenue-generating outcomes.</li> <li>Matrix-Ready: Experience thriving within a complex, fast-moving, cross-functional organization.</li> <li>Cultural Alignment: You don't just know Uber's values-you embody them every day.</li> </ul><br>Preferred Qualifications <br><ul> <li>Speed &amp; Resourcefulness: You thrive in ambiguity and move faster than the speed of the industry.</li> <li>Master Storyteller: The ability to weave data into compelling narratives that influence decision-makers and close deals.</li> <li>Data &amp; Measurement Pro: Experience with 1P data solutions and a comprehensive understanding of the full-funnel measurement stack (Lift vs. Attribution).</li> <li>The \\\"Go-Getter\\\" Spirit: A proactive approach to problem-solving; you don't wait for a map, you draw one.</li> <li>Inclusive Leadership: You are an advocate for progress and diversity, committed to advancing the industry and building trust through respect.</li> <li>People Catalyst: A passion for motivating others and leading by example to win as a team.</li> </ul> <br>For Canada-based roles: Uber may use artificial intelligence (AI) tools to support parts of our recruiting process; however, Uber employees make the ultimate selection and hiring decisions. This advertisement relates to a current, existing vacancy.<br> <br> ~~ ~~ <br><br>For Canada-based roles: The total on-target earnings (OTE) range for this position is CAD $225,000 - CAD $250,000. The OTE includes a base salary range of CAD $135,000 per year - CAD $150,000 per year and an annualized cash variable incentive target of CAD $90,000 - CAD $100,000.<br> <br>You may be offered an equity award &amp; other types of comp. You will also be eligible for various benefits.<br> <br><strong>Ready to Ride?</strong><br> <br>This isn't the kind of place where you follow a playbook - it's where you help write one. If you're driven by impact, energized by challenge, and ready to shape how the world moves - we'd love to hear from you.<br> <br>You may be eligible for bonuses, equity, and other compensation, as well as a range of benefits. Explore our benefits. <br> <br>Offices remain key to collaboration and Uber's culture. Unless approved for full remote work, employees must spend at least 50% of their time in-office. Some roles, like those at greenlight hubs, require full-time in-office presence. Ask your Recruiter for details about this role's requirements.<br> <br>Uber is proud to be an Equal Opportunity employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you have a disability or special need that requires accommodation, please let us know by completing this form.</p>",
       "name": "Agency Partner, Uber Advertising, Canada",
       "type": "external",
@@ -3618,6 +3539,74 @@
       "tags": [],
       "refs": {
         "landing_page": "https://www.themuse.com/jobs/spacex/mission-manager-space-lasers-starshield"
+      },
+      "company": {
+        "id": 15000190,
+        "short_name": "spacex",
+        "name": "SpaceX"
+      }
+    },
+    {
+      "contents": "<p><strong>About the role and team </strong><br><br>Engineering at Uber means building for real-world impact under real-world constraints. As a Senior Software Engineer (MLE), you will architect innovative products and scalable systems that keep the marketplace efficient, reliable, and ready for continued growth. Our systems power hundreds of millions of consumers and millions of merchants around the world, and that footprint is expanding rapidly. You will work on uniquely ambitious projects where performance, reliability, and scale cannot be separated.<br><br>The problems here are complex, the systems are massive, and the pace is fast. You'll need to make smart decisions with imperfect information and own your work end-to-end: from the first design doc to debugging production issues when the stakes are highest. We are looking for technical powerhouses who think in systems, stay calm under pressure, and care about building things that actually work. If you're energized by challenge and motivated by real-world impact-this is where you'll grow.<br><br><strong>What you'll do </strong><br><ul><li>Design and build long-lasting engineering artifacts that reduce complexity and increase developer velocity across the organization.</li><li>Develop and optimize ML models to enhance the efficiency of the delivery marketplace</li><li>Solve messy, high-impact problems at the intersection of low latency and high correctness, often without a clear starting point or obvious solution.</li><li>Foresee architectural problems or opportunities and work with leadership to address them before they impact the global marketplace.</li><li>Lead organization-wide development and adoption of key frameworks while role-modeling coding best practices and high-quality design review.</li><li>Collaborate cross-functionally with Product, Science, and Ops to translate ambiguous business requirements into production-ready technical roadmaps.</li><li>Mentor and guide other engineers, acting as a technical brand ambassador and raising the bar for excellence across the engineering organization.</li></ul><br><strong>Basic Qualifications </strong><br><ul><li>5+ years of professional experience in software engineering, data engineering, and applying machine learning, statistics, or optimization techniques to solve large-scale problems.</li><li>Expertise in writing high-quality code to solve strategically important problems that span multiple organizations.</li><li>Advanced proficiency in SQL and data warehousing, with a demonstrated ability to identify and reconcile architectural gaps.</li><li>Experience leading org-wide engineering projects through all lifecycle stages: inception, stakeholder engagement, implementation, and operations.</li><li>Proven track record of overseeing incident management processes and directing on-call rotations in alignment with global best practices.</li><li>Demonstrated ability to make sound engineering/business tradeoffs, considering long-term implications for the greater good of Uber.</li><li>Bachelor's or Master's degree in Computer Science, Engineering, or equivalent practical experience.</li></ul><br><strong>Preferred Qualifications </strong><br><ul><li>Experience building high-performance, scalable distributed systems at a 100M+ user scale.</li><li>Experience in designing and crafting scalable, reliable, maintainable and reusable ML solutions using deep-learning techniques and statistical methods.</li><li>Expertise in real-time streaming frameworks (Flink, Spark) and OLAP systems (Apache Pinot, Druid) to reduce system complexity.</li><li>Experience with Big Data/Hadoop ecosystem tools used to automate complex data orchestrations across multiple product areas.</li><li>Strong leadership traits: Experience serving as a representative for the organization to the broader internal and external technical community.</li><li>Proven ability to get alignment and buy-in for large-scale technology transformations across multiple job functions.</li></ul> <br>For San Francisco, CA-based roles: The base salary range for this role is USD $202,000 per year - USD $224,000 per year.<br><br>You will be eligible to participate in Uber's bonus program, and may be offered an equity award &amp; other types of comp. All full-time employees are eligible to participate in a 401(k) plan. You will also be eligible for various benefits.<br> <br><strong>Ready to Ride?</strong><br> <br>This isn't the kind of place where you follow a playbook - it's where you help write one. If you're driven by impact, energized by challenge, and ready to shape how the world moves - we'd love to hear from you.<br> <br>You may be eligible for bonuses, equity, and other compensation, as well as a range of benefits. Explore our benefits. <br> <br>Offices remain key to collaboration and Uber's culture. Unless approved for full remote work, employees must spend at least 50% of their time in-office. Some roles, like those at greenlight hubs, require full-time in-office presence. Ask your Recruiter for details about this role's requirements.<br> <br>Uber is proud to be an Equal Opportunity employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you have a disability or special need that requires accommodation, please let us know by completing this form.</p>",
+      "name": "Sr Software Engineer - Engineer",
+      "type": "external",
+      "publication_date": "2026-09-19T22:31:44Z",
+      "short_name": "sr-software-engineer-engineer-26a59f",
+      "model_type": "jobs",
+      "id": 22184346,
+      "locations": [
+        {
+          "name": "San Francisco, CA"
+        }
+      ],
+      "categories": [
+        {
+          "name": "Software Engineering"
+        }
+      ],
+      "levels": [
+        {
+          "name": "Senior Level",
+          "short_name": "senior"
+        }
+      ],
+      "tags": [],
+      "refs": {
+        "landing_page": "https://www.themuse.com/jobs/uber/sr-software-engineer-engineer-26a59f"
+      },
+      "company": {
+        "id": 61,
+        "short_name": "uber",
+        "name": "Uber"
+      }
+    },
+    {
+      "contents": "<div><p>SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of&nbsp;enabling human life on Mars.</p></div>\n\n<p><strong>AERODYNAMICS ENGINEER (STARSHIP)</strong></p>\n\n<p>The Starship Aerodynamics team is responsible for predicting the aerodynamics and aerothermal environments booster and ship experience during all phases of their missions. Aerodynamics engineers use engineering models, simulations and wind-tunnel testing in order to provide the most accurate predictions ahead of flight validation. The team works closely with the GNC (guidance, navigation, and control) team to enable them to safely land and recover both Starship stages once their mission is accomplished. Moreover the team supports engineers responsible for vehicle structures during their design efforts. Aerodynamics engineers are expected to have a clear understanding of the flow fields experienced by our vehicles through the various flight regimes, from subsonic through hypersonic, and apply this understanding while they operate our prediction tools.</p>\n\n<p><strong>RESPONSIBILITIES:</strong></p>\n\n<ul>\n<li>Prepare, mesh, run, and post process CFD models</li>\n<li>Review post-flight data and compare to pre-flight estimates</li>\n<li>Interface with responsible engineers, providing them inputs to their designs and ensuring they have a clear understanding of the physical phenomena they are dealing with</li>\n<li>Write code and scripts in a variety of languages, making sure they share common interfaces and can be part of a mostly automated workflow</li>\n</ul>\n\n<p><strong>BASIC QUALIFICATIONS:</strong></p>\n\n<ul>\n<li>Bachelor’s degree in an engineering discipline</li>\n</ul>\n\n<p><strong>PREFERRED SKILLS &amp; EXPERIENCE</strong></p>\n\n<ul>\n<li>Master's degree in aerospace or mechanical engineering</li>\n<li>Experience with lower-order, engineering-level analysis tools</li>\n<li>Proficiency creating watertight 3D models and CFD grids, running CFD on Linux/Unix systems, and post-processing data with Tecplot or ParaView</li>\n<li>Experience with solvers used by NASA for entry vehicles, e.g. FUN3D, Loci/CHEM, DPLR</li>\n<li>Experimental testing experience</li>\n<li>Data processing and analysis in MATLAB or Python</li>\n<li>Strong background in external, compressible fluid dynamics</li>\n<li>Self-motivated, with strong organizational, communication and documentation skills</li>\n</ul>\n\n<p><strong>ADDITIONAL REQUIREMENTS:</strong></p>\n\n<ul>\n<li>Must be willing to work extended hours and/or weekends as needed</li>\n</ul>\n\n<div><p><strong>ITAR REQUIREMENTS:</strong></p>\n<ul>\n<li>To conform to U.S. Government export regulations, applicant must be a (i) U.S. citizen or national, (ii) U.S. lawful, permanent resident (aka green card holder), (iii) Refugee under 8 U.S.C. § 1157, or (iv) Asylee under 8 U.S.C. § 1158, or be eligible to obtain the required authorizations from the U.S. Department of State. Learn more about the ITAR <a href=\"https://www.pmddtc.state.gov/?id=ddtc_kb_article_page&amp;sys_id=24d528fddbfc930044f9ff621f961987\" rel=\"noopener noreferrer\">here</a>. &nbsp;</li>\n</ul>\n<p>SpaceX is an Equal Opportunity Employer; employment with SpaceX is governed on the basis of merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other legally protected status.</p>\n<p>Applicants wishing to view a copy of SpaceX’s Affirmative Action Plan for veterans and individuals with disabilities, or applicants requiring reasonable accommodation to the application/interview process should reach out to&nbsp;<a href=\"mailto:EEOCompliance@spacex.com\" rel=\"noopener noreferrer\">EEOCompliance@spacex.com</a><em>.&nbsp;</em></p></div>",
+      "name": "Aerodynamics Engineer (Starship)",
+      "type": "external",
+      "publication_date": "2026-07-20T23:47:34Z",
+      "short_name": "aerodynamics-engineer-starship-588ceb",
+      "model_type": "jobs",
+      "id": 21764937,
+      "locations": [
+        {
+          "name": "Brownsville, TX"
+        }
+      ],
+      "categories": [
+        {
+          "name": "Software Engineering"
+        }
+      ],
+      "levels": [
+        {
+          "name": "Mid Level",
+          "short_name": "mid"
+        }
+      ],
+      "tags": [],
+      "refs": {
+        "landing_page": "https://www.themuse.com/jobs/spacex/aerodynamics-engineer-starship-588ceb"
       },
       "company": {
         "id": 15000190,
@@ -6670,40 +6659,6 @@
       }
     },
     {
-      "contents": "<p>In this position, you will work with the team that develops SoCs. In this high-impact role, you will define and own the end-to-end signal and power integrity strategy for cutting-edge high speed SerDes. You will be responsible for ensuring robust interconnect performance from silicon to system. This position requires deep expertise in leading-edge SerDes technologies (224G+), modern interconnect protocols, and system-level co-design.<br><br><b>Description</b><br><br>As the SIPI Architect, you will define and own the end-to-end signal and power integrity architecture for high-speed SerDes interconnects. You will guide technical direction across various teams, lead system-level trade-off analyses, and ensure design robustness through advanced modeling and validation.<br><br><b>Responsibilities:</b><br><br>Define and own the end-to-end SIPI (Signal and Power Integrity) architecture and strategy for cutting-edge high-speed SerDes links.<br><br>Drive the technical direction and build consensus across cross-functional teams, including circuit design, packaging, system hardware, and validation, to deliver robust interconnect solutions.<br><br>Lead system-level trade-off analysis to optimize interconnect performance, power, and cost across silicon, package, and system levels.<br><br>Influence Apple's technology roadmap by providing expert guidance on future interconnect technologies, advanced packaging, and system-level co-design.<br><br>Ensure robust interconnect design and performance by overseeing comprehensive modeling, simulation (statistical and time-domain), and silicon correlation.<br><br>Develop and champion next-generation SIPI methodologies and best practices to guide design and analysis.<br><br><b>Preferred Qualifications</b><br><br>MS or PhD in Electrical Engineering or a related field with 10+ years of relevant industry experience.<br><br>Deep expertise in system-level SIPI for high-speed SerDes (112G/224G and beyond).<br><br>Proven experience architecting solutions for high-performance interconnects using standards such as Ethernet, PCIe, UAL and CXL.<br><br>Expert in end-to-end channel modeling and link budget analysis, including statistical (e.g., COM) and time-domain simulation.<br><br>In depth understanding of SerDes TX/RX equalization techniques, clocking and power delivery trade-offs.<br><br>Experience leading cross-functional teams and driving technical consensus across silicon architecture, circuit design, packaging and system hardware groups.<br><br>Experience designing interconnects for large-scale systems such as those in data center or high-performance computing (HPC) environments.<br><br>Familiarity with emerging interconnect technologies, including co-packaged optics (CPO), and advanced packaging (e.g., 2.5D/3D integration).<br><br>Familiarity with system-level power integrity (PDN) and thermal co-design for large-scale, high-power ASICs.<br><br><b>Minimum Qualifications</b><br><br>BS and 10 +years of relevant industry experience.<br><br><b>Pay &amp; Benefits</b><br><br>Apple is an equal opportunity employer that is committed to inclusion and diversity. We seek to promote equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics. Learn more about your EEO rights as an applicant<br><br>\"},{\"displayOrder\":3,\"name\":\"Accessibility\",\"content\":\"<br><br>At Apple, we believe accessibility is a fundamental human right. You'll find that idea reflected in everything here - in our culture, our benefits and our digital tools. By welcoming as many perspectives as possible, we help you build a career where you feel like you belong.<br><br>Learn about accessibility in Apple's workplace<br><br>Learn about reasonable accommodations for job applicants<br><br>\"},{\"displayOrder\":4,\"name\":\"Application Deadline\",\"content\":\"<br><br>Apple accepts applications to this posting on an ongoing basis.<br><br>\"}]}},{\"postLocationId\":\"postLocation-SFMETRO\",\"localizations\":{\"en_US\":[{\"displayOrder\":1,\"name\":\"Pay &amp; Benefits\",\"content\":\"At Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $184,700 and $324,800, and your base pay will depend on your skills, qualifications, experience, and location.<br><br>Apple employees also have the opportunity to become an Apple shareholder through participation in Apple's discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple's Employee Stock Purchase Plan. You'll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses - including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits<br><br>Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.</p>",
-      "name": "SIPI Architect for High-Speed SerDes",
-      "type": "external",
-      "publication_date": "2026-09-19T21:24:15Z",
-      "short_name": "sipi-architect-for-highspeed-serdes-0be9c4",
-      "model_type": "jobs",
-      "id": 21785514,
-      "locations": [
-        {
-          "name": "Emeryville, CA"
-        }
-      ],
-      "categories": [
-        {
-          "name": "Design and UX"
-        }
-      ],
-      "levels": [
-        {
-          "name": "Senior Level",
-          "short_name": "senior"
-        }
-      ],
-      "tags": [],
-      "refs": {
-        "landing_page": "https://www.themuse.com/jobs/apple/sipi-architect-for-highspeed-serdes-0be9c4"
-      },
-      "company": {
-        "id": 11802,
-        "short_name": "apple",
-        "name": "Apple"
-      }
-    },
-    {
       "contents": "<p>Flex is the diversified manufacturing partner of choice that helps market-leading brands design, build and deliver innovative products that improve the world.<br><br>We believe in the power of diversity and inclusion and cultivate a workplace culture of belonging that views uniqueness as a competitive edge and builds a community that enables our people to push the limits of innovation to make great products that create value and improve people's lives.<br><br>A career at Flex offers the opportunity to make a difference and invest in your growth in a respectful, inclusive, and collaborative environment. If you are excited about a role but don't meet every bullet point, we encourage you to apply and join us to create the extraordinary.<br><br><b>Job Summary</b><br><br>To support our extraordinary teams who build great products and contribute to our growth, we're looking to add a <b> Manufacturing Engineer </b>located in <b> Port Tanjung Pelepas, Gelang Patah, Johor </b>.<br><br><b>What a typical day looks like</b>:<ul><li> Understand manufacturing and test equipment concepts, technologies and techniques </li><li> Designs manufacturing processes within schedule and budgetary parameters. </li><li> Develops, evaluates, and improves manufacturing methods. </li><li> Define equipment maintenance requirements, identify root-causes of equipment failures and develop hands-on maintenance skills </li><li> Work with other engineering stakeholders and customers on problem solving and continuous improvement to the design of equipment and products and may develop corrective and preventive action plans </li><li> May be involved in development and and update of PFMEA for new products </li><li> May participate in control plan development </li><li> Write and update work instructions and other documents (e.g. specifications, procedures,...) </li><li> Analyzes and  designs layout of equipment and workspace for maximum efficiency. </li><li> Confers with production group concerning product design and tooling to ensure efficient production methods. </li><li> Coordinates with customers to determine product specifications and design changes and responds to customer request. </li><li> Provides information for management decisions from a technical and technical cost perspective. </li><li> Confers with management, engineering, and other staff regarding manufacturing capabilities, production schedules, and other considerations to facilitate production processes. </li><li> Applies statistical methods to estimate future manufacturing requirements and potential. </li></ul><b>The experience we're looking to add to our team:</b><ul><li>Possesses a Degree in related discipline or equivalent experience.</li><li>Minimum 2 years of working experience in the related field is required</li></ul>NS27<br><br>#LI-NI1<br><br><b>Job Category</b><br>Production Engineering<br><br>Required Skills:<br><br>Optional Skills:<br><br>Flex is an Equal Opportunity Employer and employment selection decisions are based on merit, qualifications, and abilities. We celebrate diversity and do not discriminate based on: age, race, religion, color, sex, national origin, marital status, sexual orientation, gender identity, veteran status, disability, pregnancy status, or any other status protected by law. We're happy to provide reasonable accommodations to those with a disability for assistance in the application process. Please email accessibility@flex.com and we'll discuss your specific situation and next steps (NOTE: this email does not accept or consider resumes or applications. This is only for disability assistance. To be considered for a position at Flex, you must complete the application process first).</p>",
       "name": "Manufacturing Engineer",
       "type": "external",
@@ -6986,40 +6941,6 @@
       }
     },
     {
-      "contents": "<p>Imagine what you could create at Apple. At Apple, extraordinary ideas become products, services, and experiences that shape culture. Bring passion and vision, and there's no limit to what you can build.<br><br>The Content Design team defines the content experience across some of Apple's most visible products. We are seeking a highly senior creative individual contributor to lead the brand and interactive vision for Music, one of our core lines of business.<br><br>We are looking for a visionary creative leader with a deep foundation in narrative architecture and conceptual thinking. You are entirely motivated by the power of big ideas and possess the strategic clarity to guide them through complex, matrixed technology environments.<br><br>Reporting to the Lead of Brand and Interactive for Content Design, you will provide creative leadership across our most critical and complex initiatives, shaping vision, defining direction, and bringing clarity to ambiguity.<br><br><b>Description</b><br><br>We're looking for a brilliant \"accomplish-through-others\" creative. As a highly senior individual contributor, your impact isn't measured by what you physically produce, but by the scale and quality of the ideas you champion. You operate with strong opinions, loosely held.<br><br>You possess exceptional external and internal partnership skills. You are comfortable intaking complex problems, collaborating across myriad organizations, and recognizing great ideas no matter where they originate. You will identify and champion the opportunities with the greatest potential impact, aligning teams around a shared strategic and creative point of view.<br><br>Your role is to frame the conceptual argument and orchestrate the execution. You don't need to craft the final work yourself; instead, you know how to bring the right minds and perspectives together so that the most productive creative discourse happens-both inside the team and out.<br><br>You will partner directly with a strategy lead to drive upstream thinking, influence decision-making, and serve as a trusted collaborator to leaders across the organization. Working across disciplines, you will orchestrate the efforts of the broader creative team to translate ambitious ideas into compelling, high-impact experiences that advance both business and brand objectives.<br><br>You understand the mechanics of complex corporate ecosystems. Driven by a vision that supersedes immediate obstacles, you use that institutional knowledge to push ambitious, transformative work forward alongside your UI and Product peers.<br><br><b>Preferred Qualifications</b><br><br>Worked within the music / streaming space and familiar with digital products and services.<br><br>Passionate for Apple, its products, and its customers.<br><br>Have an advanced understanding of what makes content engaging and successful across platforms and audiences<br><br><b>Minimum Qualifications</b><br><br>12+ years of experience as a creative director, principal conceptual lead, or interactive creative strategist across media, digital products, and brand<br><br>A visionary approach to problem-solving, characterized by the ability to look past immediate roadblocks and align disparate cross-functional teams around a unified, ambitious idea<br><br>A deep foundation in conceptual storytelling, presentation architecture, and framing complex arguments<br><br>Extensive experience navigating, collaborating, and driving consensus within complex, highly matrixed organizations<br><br>A demonstrated ego-free mindset that elevates broad horizontal team output, loves great ideas regardless of source, and knows how to influence final work without needing to be sole creator<br><br><b>Pay &amp; Benefits</b><br><br>At Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $198,800 and $299,400, and your base pay will depend on your skills, qualifications, experience, and location.<br><br>Apple employees also have the opportunity to become an Apple shareholder through participation in Apple's discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple's Employee Stock Purchase Plan. You'll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses - including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits<br><br>Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.</p>",
-      "name": "Creative Lead, Brand & Interactive Apple Music",
-      "type": "external",
-      "publication_date": "2026-09-19T21:22:14Z",
-      "short_name": "creative-lead-brand-interactive-apple-music",
-      "model_type": "jobs",
-      "id": 21996720,
-      "locations": [
-        {
-          "name": "Culver City, CA"
-        }
-      ],
-      "categories": [
-        {
-          "name": "Design and UX"
-        }
-      ],
-      "levels": [
-        {
-          "name": "Mid Level",
-          "short_name": "mid"
-        }
-      ],
-      "tags": [],
-      "refs": {
-        "landing_page": "https://www.themuse.com/jobs/apple/creative-lead-brand-interactive-apple-music"
-      },
-      "company": {
-        "id": 11802,
-        "short_name": "apple",
-        "name": "Apple"
-      }
-    },
-    {
       "contents": "<p><b>ABOUT WIND RIVER</b> <br><br>Wind River is a global leader in delivering software for mission-critical intelligent systems. For more than four decades, the company has been an innovator and pioneer, powering billions of systems that require the highest levels of security, safety, and reliability.  <br><br>Wind River helps customers across automotive, aerospace, defense, industrial, medical, and telecommunications industries solve complex technology challenges on their journey toward the new intelligent machine economy. The company's software powers generation after generation of the safest, most secure systems in the world.  Examples include playing a key role in NASA space missions such as Artemis I, the James Webb Space Telescope, and multiple Mars rovers. We've achieved recent 5G milestones including the world's first successful 5G data session with Verizon and building one of the largest Open RAN networks in the world with Vodafone. <br><br>The company has received industry recognition for its technology innovation and leadership, and for its workplace culture, including global Great Place to Work certification and being named a \"Top Workplace\" for ten consecutive years. If you want to be part of a unique culture where the lived experience is based on our cultural attributes of growth mindset, customer-focus, and diversity, equity, inclusion &amp; belonging, come join us and help advance the future software defined world.<br><br><b>YOUR ROLE</b> <br><br>For this position, you will be joining the Engineering Operations team as a member of technical staff, focusing on application maintenance and improvement. Your main duties will focus on GitLab, supporting its user base and expanding its capabilities in collaboration with Engineering teams. You will also be called upon to support other Engineering applications, e.g., Confluence, CodeCollaborator, etc<br><br>In your daily job you will: <b>Position is 8AM-5PM Pacific Time Zone (India Night Shift).<br>fully remote role</b><br><br><b>What You'll Do</b><br><br><ul><li>Support and expand GitLab and other applications</li><li>Work with internal customers on application issues</li><li>Participate in global infrastructure &amp; development projects</li><li>Provide guidance on technical issues and process to junior members of the team</li></ul><ul><li>Perform code and design reviews</li></ul><br><b>HOW YOU WILL CONTRIBUTE</b> <br><br><b>Education &amp; Experience </b><br><br><ul><li>BE / MTech degree  with <b>min 8 to 12 Years</b> of Experience(Computer Science, Electronics Engineering, or equivalent technical degree)</li><li>5+ years supporting and expanding GitLab, including Agile Planning, pipelines, CI/CD, administration of users and groups/projects, and deep familiarity with the APIs</li><li>3-5 years in front-line application support &amp; customer interaction</li><li>3-5 years Linux user experience, with system admin experience a plus</li><li>5 years Jenkins administration experience</li><li>5 years Kubernetes development experience</li><li>Programming &amp; scripting experience using Python, Shell, REST API services, etc. </li><li>Experience with monitoring &amp; logging tools such as Grafana, Prometheus, Loki, etc. </li><li>Understanding of MySQL &amp; PostgreSQL a plus</li><li>Strong problem-solving, analytical skills</li><li>Self-managed and fast learner</li><li>Good verbal and written communication skills and a good listener</li><li>Exceptional team player who works well in collaborative situations</li></ul><br><b>IT'S WHAT WE OFFER YOU</b><br><br><ul><li><b>Working Hours</b><br>The expected working hours for this role are <b>8:00 AM to 5:00 PM PST</b>, these hours are required as the position will be supporting the Engineering team in the U.S.</li><li><b>Work Location</b><br>This is intended to be <b>a fully remote role</b>. The employee will not be required to attend the office on a regular basis.</li><li>Comprehensive health, dental, and life insurance</li><li>Short and long-term disability coverage</li><li>RRSP matching for financial security</li><li>Employee assistance program for mental well-being</li><li>Learning benefits, including a LinkedIn Learning subscription and seminars</li></ul><br>\"Windriver is an equal employment opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, gender identity, sexual orientation, disability status, protected veteran status or any other characteristic protected by law\"<br><br>#LI-MS5<br><br>Privacy Notice - Active Candidates: https://www.aptiv.com/privacy-notice-active-candidates<br><br>Aptiv is an equal employment opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, gender identity, sexual orientation, disability status, protected veteran status or any other characteristic protected by law.</p>",
       "name": "Member of Technical Staff - Remote Role",
       "type": "external",
@@ -7289,6 +7210,74 @@
         "id": 11642,
         "short_name": "chickfilainc",
         "name": "Chick-fil-A, Inc."
+      }
+    },
+    {
+      "contents": "<p><b>In the assigned Job Role of Package Consultant 3, your Area Of Responsibility will be as below:</b><br> <br>•  Analyze complex business processes to identify optimization opportunities and draft detailed requirement specifications that align with enterprise architecture standards <br>•  Define and develop solution architecture, steering customization and integration efforts based on thorough business analysis <br>•  Design and implement advanced customizations basis ERP platform's capabilities and limitations and develop critical software applications in collaboration with the development team <br>•  Develop and implement complex integration workflows to connect the ERP system with external applications, while leading large-scale data migration strategies to ensure data integrity <br>•  Implement advanced performance optimization strategies focused on scalability, reliability, and user experience, while leading compliance initiatives throughs audits, to uphold security protocols and industry standards <br>•  Develop detailed documentation for complex ERP customizations and lead training workshops tailored to various user groups, to ensure effective knowledge transfer<br><br><b>Your contribution to the team:</b><br> <br>•  Expertise in ERP systems, architecture, and advanced customization techniques <br>•  Ability to design complex integration solutions and guide large-scale data migrations <br>•  Proactive problem-solving to streamline complex requirements <br>•  A strategic mindset to align technical solutions with business goals and market trends. <br>•  Deep understanding of compliance requirements, security protocols, and performance optimization methodologies <br>•  Sector specific expertise for high quality project delivery</p>",
+      "name": "Q2 - NAMORC - S2R - Oracle OM Cloud - PCON - Watlow - Infosys hubs",
+      "type": "external",
+      "publication_date": "2026-09-16T20:01:49Z",
+      "short_name": "q2-namorc-s2r-oracle-om-cloud-pcon-watlow-infosys-hubs",
+      "model_type": "jobs",
+      "id": 21876077,
+      "locations": [
+        {
+          "name": "Hartford, CT"
+        }
+      ],
+      "categories": [
+        {
+          "name": "Design and UX"
+        }
+      ],
+      "levels": [
+        {
+          "name": "Mid Level",
+          "short_name": "mid"
+        }
+      ],
+      "tags": [],
+      "refs": {
+        "landing_page": "https://www.themuse.com/jobs/infosys/q2-namorc-s2r-oracle-om-cloud-pcon-watlow-infosys-hubs"
+      },
+      "company": {
+        "id": 15000261,
+        "short_name": "infosys",
+        "name": "Infosys"
+      }
+    },
+    {
+      "contents": "<p><b>Responsibilities</b><br><br> About Al Data Service and Operations (ADSO) Team<br>The Al Data Service and Operations (ADSO) team is responsible for providing safety and non-safety data annotation services and search operation services for all of the company's international products, which can also help international products build their own data ecological security.<br><br>We are seeking a Training &amp; Quality Specialist to directly support our Prompt Engineering team, which is responsible for crafting and optimizing prompts that guide Al models toward high-quality outputs. This role is critical in maintaining the consistency, accuracy, and excellence of prompt writing through targeted quality auditing, data-driven insights, and impactful training initiatives. As a key partner to the Prompt Writers, you will be responsible for evaluating written outputs for alignment with internal guidelines, conducting root-cause analysis to identify trends or gaps, and developing responsive training materials to address areas for improvement. You will also play a vital role in onboarding new writers, driving policy comprehension, and promoting a strong quality culture across the team.<br><br>Responsibilities<br>• Audit Prompt Writer outputs to ensure alignment with complex policy guidelines, stylistic standards, and quality benchmarks, delivering clear feedback and actionable insights.<br>• Analyze performance data and error trends using both quantitative and qualitative methods to proactively identify quality gaps and implement corrective strategies.<br>• Partner with Prompt Writers, team leads and cross-functional teams, to maintain a consistent understanding of quality expectations and ensure calibration across teams.<br>• Develop, deliver, and maintain structured training programs including onboarding, policy refreshers, and upskilling modules tailored to Prompt Engineering needs.<br>• Regularly review and update training content and documentation to reflect evolving policies, best practices, and model capabilities.<br>• Support experimentation efforts by advising on quality criteria for prompt iterations and assisting with the documentation of prompting strategies and results.<br>• Collaborate cross-functionally with Policy, Product, and Engineering teams to address quality-related concerns and support continuous improvement initiatives.<br>• Maintain high documentation standards around audit records, training progress, and improvement plans to ensure traceability and accountability.<br>• Contribute to ad hoc quality and governance projects to elevate content integrity and team performance.<br>• Please note that this position involves exposure to sensitive content, including but not limited to vulgar content, violence, pornography, and fake news.<br><br><b>Qualifications</b><br><br> Minimum Qualifications<br>• Bachelor's degree in Computer Science, Linguistics, or a related field<br>• 2 years of experience in quality assurance, training, editorial review, or a related field; prior experience in supporting content moderation, Al, or technical writing teams is a plus.<br>• Strong command of English with an exceptional eye for detail, clarity, and linguistic consistency.<br>• Demonstrated ability to interpret and enforce complex guidelines or policies in writing-focused workflows.<br>• Analytical thinker with experience evaluating qualitative content and using data to inform process improvements.<br>• Experience designing and delivering interactive, engaging training materials and sessions.<br>• Demonstrates a high level of self-motivation, solution-centric thinking, strong ability to multi-task, prioritize and meet strict deadlines in a fast-paced, dynamic, and highly collaborative environment.</p>",
+      "name": "Training & Quality Specialist (Prompt Engineering), AI Data Service and Operations (ADSO) - Data Annotation Lab",
+      "type": "external",
+      "publication_date": "2025-09-10T20:23:15Z",
+      "short_name": "training-quality-specialist-prompt-engineering-ai-data-service-and-operations-adso-data-annotation-lab",
+      "model_type": "jobs",
+      "id": 19374060,
+      "locations": [
+        {
+          "name": "Singapore"
+        }
+      ],
+      "categories": [
+        {
+          "name": "Design and UX"
+        }
+      ],
+      "levels": [
+        {
+          "name": "Mid Level",
+          "short_name": "mid"
+        }
+      ],
+      "tags": [],
+      "refs": {
+        "landing_page": "https://www.themuse.com/jobs/tiktok/training-quality-specialist-prompt-engineering-ai-data-service-and-operations-adso-data-annotation-lab"
+      },
+      "company": {
+        "id": 15000029,
+        "short_name": "tiktok",
+        "name": "TikTok"
       }
     }
   ]
