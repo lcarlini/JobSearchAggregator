@@ -1,7 +1,22 @@
 {
-  "generatedAt": "2026-09-28T03:57:51.799Z",
-  "count": 88,
+  "generatedAt": "2026-09-28T13:08:05.516Z",
+  "count": 96,
   "jobs": [
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/reddit-backend-engineer-iam",
+      "source": "weworkremotely",
+      "title": "Backend Engineer, IAM",
+      "company": "Reddit",
+      "url": "https://weworkremotely.com/remote-jobs/reddit-backend-engineer-iam",
+      "description": "Headquarters: Remote - United States Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit www.redditinc.com . This is a remote-friendly role. Reddit has a flexible first workforce. The Identity and Access Management team develops and maintains a set of mission critical, highly performant, and highly scalable systems that manage user identity, authentication, and authorization for all of our millions of daily users ",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Back-End Programming",
+        "programming"
+      ],
+      "postedAt": "Mon, 14 Sep 2026 07:31:07 +0000",
+      "category": "programming"
+    },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/pinterest-data-scientist-ii-ml-infrastructure",
       "source": "weworkremotely",
@@ -363,19 +378,49 @@
       "category": "programming"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/reddit-backend-software-engineer-pdp-experience",
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/collibra-cps-solution-architect-1",
       "source": "weworkremotely",
-      "title": "Backend Software Engineer, PDP Experience",
-      "company": "Reddit",
-      "url": "https://weworkremotely.com/remote-jobs/reddit-backend-software-engineer-pdp-experience",
-      "description": "Headquarters: Remote - United States Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit www.redditinc.com . The PDP Experience team is responsible for one of the highest traffic pages on the platform: the Comments page. We know that conversations are the lifeblood of Reddit, so we strive to ensure viewing content and the surrounding conversation is appealing, intuitive and delightful. This is a high impact role w",
+      "title": "CPS Solution Architect",
+      "company": "Collibra",
+      "url": "https://weworkremotely.com/remote-jobs/collibra-cps-solution-architect-1",
+      "description": "Headquarters: Remote, USA Joining Collibra’s CPS Solution Architect Team At Collibra Public Sector, our Professional Services team relies on Federal Solution Architects to deliver on customer expectations for the services we sell, working directly with customer key projects stakeholders throughout the entire customer journey. Ensuring growth, adoption and renewal, Federal Solution Architects act as customer champions, ensuring customers are onboarded and realizing value rapidly.&nbsp; Federal Solution Architects are responsible for Supporting federal customer engagements by delivering mission-aligned architectural design and execution of Collibra products that adhere to Collibra Public Sector’s Delivery Models, Engagement Processes, Methodologies, and Artifacts, while ensuring compliance w",
       "location": "Anywhere in the World",
       "tags": [
-        "Back-End Programming",
-        "programming"
+        "DevOps and Sysadmin",
+        "devops"
       ],
-      "postedAt": "Sat, 29 Aug 2026 07:31:07 +0000",
-      "category": "programming"
+      "postedAt": "Mon, 28 Sep 2026 07:31:13 +0000",
+      "category": "devops"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/algolia-information-security-engineer",
+      "source": "weworkremotely",
+      "title": "Information Security Engineer",
+      "company": "Algolia",
+      "url": "https://weworkremotely.com/remote-jobs/algolia-information-security-engineer",
+      "description": "Headquarters: Remote - United Kingdom Algolia is the retrieval intelligence layer that turns intent into trusted, decision-grade outcomes. Powering more than 1.7 trillion queries a year for over 18,000 customers with millisecond latency and 99.999% reliability, we are the recognized leader for Search and Product Discovery by top industry analyst firms. The Algolia platform turns a company's products, content, and business rules into data that humans, applications and AI agents can act upon. The result is trusted customer experiences with stronger conversions for measurable business impact. &nbsp; At Algolia, Information Security is built into everything we do. It is not an afterthought; it’s a core design and operational principle. Our Information Security team ensures that trust, privacy,",
+      "location": "Anywhere in the World",
+      "tags": [
+        "DevOps and Sysadmin",
+        "devops"
+      ],
+      "postedAt": "Mon, 28 Sep 2026 07:31:13 +0000",
+      "category": "devops"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/collibra-cps-solution-architect",
+      "source": "weworkremotely",
+      "title": "CPS Solution Architect",
+      "company": "Collibra",
+      "url": "https://weworkremotely.com/remote-jobs/collibra-cps-solution-architect",
+      "description": "Headquarters: Remote, USA Joining Collibra’s CPS Solution Architect Team At Collibra Public Sector, our Professional Services team relies on Federal Solution Architects to deliver on customer expectations for the services we sell, working directly with customer key projects stakeholders throughout the entire customer journey. Ensuring growth, adoption and renewal, Federal Solution Architects act as customer champions, ensuring customers are onboarded and realizing value rapidly.&nbsp; Federal Solution Architects are responsible for Supporting federal customer engagements by delivering mission-aligned architectural design and execution of Collibra products that adhere to Collibra Public Sector’s Delivery Models, Engagement Processes, Methodologies, and Artifacts, while ensuring compliance w",
+      "location": "Anywhere in the World",
+      "tags": [
+        "DevOps and Sysadmin",
+        "devops"
+      ],
+      "postedAt": "Mon, 28 Sep 2026 07:31:05 +0000",
+      "category": "devops"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/faire-senior-staff-machine-learning-platform-engineer",
@@ -633,6 +678,51 @@
       "category": "devops"
     },
     {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/bbe-marketing-inc-senior-graphic-designer",
+      "source": "weworkremotely",
+      "title": "Senior Graphic Designer",
+      "company": "BBE Marketing Inc",
+      "url": "https://weworkremotely.com/remote-jobs/bbe-marketing-inc-senior-graphic-designer",
+      "description": "Headquarters: Hurst, TX URL: http://bbemarketing.com/ We’re looking for a creative, curious designer who can turn entertainment and sports industry data into compelling social content. You’ll come up with ideas, identify relevant news, create graphics, write captions, and check the information before it’s published. Our audience includes entertainment and sports professionals. We need someone who understands what would make these people stop, read, share, or join the conversation. What You’ll Do Generate original content ideas. Find interesting angles in our data and industry developments, including infographics, comparisons, agency breakdowns, rankings, and recurring series. Bring ideas proactively and experiment with new formats. Create the graphics yourself. Design clear, engaging infog",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Design",
+        "design"
+      ],
+      "postedAt": "Mon, 28 Sep 2026 11:01:08 +0000",
+      "category": "design"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/ixdf-interaction-design-foundation-course-writer-and-editor-ux-ui-and-ai-1",
+      "source": "weworkremotely",
+      "title": "Course Writer and Editor: UX, UI, and AI",
+      "company": "IxDF - Interaction Design Foundation",
+      "url": "https://weworkremotely.com/remote-jobs/ixdf-interaction-design-foundation-course-writer-and-editor-ux-ui-and-ai-1",
+      "description": "Headquarters: Denmark URL: https://ixdf.org/about/careers You're the one people trust with the words, whether you're writing them or fixing them. You noticed that&nbsp; you loved it, and that you were unusually good at it . You turn rough, complex ideas into words people understand. Now you get the opportunity to work with some of the most respected designers alive, and help share their knowledge with hundreds of thousands of learners around the world. A great hook pulls your readers in, makes them see themselves in the topic, and shows them why it matters in their lives. That's your craft. Abstract ideas don't stay abstract for long, because you find the example that makes an idea concrete. You're structured and systematic, yet creative, and you'll rewrite a sentence six times until it sa",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Design",
+        "design"
+      ],
+      "postedAt": "Mon, 28 Sep 2026 09:22:59 +0000",
+      "category": "design"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/ixdf-interaction-design-foundation-education-designer-ux-ui-and-ai-1",
+      "source": "weworkremotely",
+      "title": "Education Designer: UX, UI, and AI",
+      "company": "IxDF - Interaction Design Foundation",
+      "url": "https://weworkremotely.com/remote-jobs/ixdf-interaction-design-foundation-education-designer-ux-ui-and-ai-1",
+      "description": "Headquarters: Denmark URL: https://ixdf.org/about/careers You're a designer who has facilitated workshops or built online courses, and you noticed that &nbsp;you loved it and that you were unusually good at it . You know how to make complex skills easy to learn, and how to guide people in applying their new skills. As one of our Education Designers, you'll structure and create the courses and Master Classes you lead. You've taught design or AI to hundreds of people. Now you get the opportunity to&nbsp; teach it to hundreds of thousands&nbsp; of learners around the world. You see the fear around AI, and you understand where it comes from. But you also see the opportunities, and you want to show people how to work with AI in a way that benefits their lives, their users, and the world. The in",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Design",
+        "design"
+      ],
+      "postedAt": "Mon, 28 Sep 2026 09:18:18 +0000",
+      "category": "design"
+    },
+    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/toptal-recorder-videos-for-data-collection-project-ai-training",
       "source": "weworkremotely",
       "title": "Recorder - Videos for Data Collection Project, AI training",
@@ -826,6 +916,36 @@
       ],
       "postedAt": "Fri, 07 Aug 2026 18:27:08 +0000",
       "category": "product"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/dremio-software-engineer-developer-experience",
+      "source": "weworkremotely",
+      "title": "Software Engineer - Developer Experience",
+      "company": "Dremio",
+      "url": "https://weworkremotely.com/remote-jobs/dremio-software-engineer-developer-experience",
+      "description": "Headquarters: Portugal - Remote Be Part of Building the Future Dremio is the unified lakehouse platform for self-service analytics and AI, serving hundreds of global enterprises, including Maersk, Amazon, Regeneron, NetApp, and S&P Global. Customers rely on Dremio for cloud, hybrid, and on-prem lakehouses to power their data mesh, data warehouse migration, data virtualization, and unified data access use cases. Based on open source technologies, including Apache Iceberg and Apache Arrow, Dremio provides an open lakehouse architecture enabling the fastest time to insight and platform flexibility at a fraction of the cost.&nbsp; Learn more at&nbsp; www.dremio.com. About the role In this role you will get opportunities to implement and maintain CI/CD systems and developer productivity solutio",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Mon, 28 Sep 2026 07:31:05 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/dremio-senior-staff-software-engineer-query-execution",
+      "source": "weworkremotely",
+      "title": "Senior Staff Software Engineer - Query Execution",
+      "company": "Dremio",
+      "url": "https://weworkremotely.com/remote-jobs/dremio-senior-staff-software-engineer-query-execution",
+      "description": "Headquarters: Portugal - Remote Be Part of Building the Future Dremio is the unified lakehouse platform for self-service analytics and AI, serving hundreds of global enterprises, including Maersk, Amazon, Regeneron, NetApp, and S&P Global. Customers rely on Dremio for cloud, hybrid, and on-prem lakehouses to power their data mesh, data warehouse migration, data virtualization, and unified data access use cases. Based on open source technologies, including Apache Iceberg and Apache Arrow, Dremio provides an open lakehouse architecture enabling the fastest time to insight and platform flexibility at a fraction of the cost.&nbsp; Learn more at&nbsp; www.dremio.com. About the role Dremio’s Query Execution team builds the runtime responsible for executing analytical queries at scale. The team s",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Mon, 28 Sep 2026 07:31:05 +0000",
+      "category": "full-stack"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/dremio-senior-software-engineer-platform",
