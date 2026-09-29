@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-29T12:18:01.868Z",
-  "count": 98,
+  "generatedAt": "2026-09-29T21:59:39.750Z",
+  "count": 108,
   "jobs": [
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-node-js-nest-js-3",
@@ -663,6 +663,81 @@
       "category": "devops"
     },
     {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/epam-systems-senior-vmware-engineer-1",
+      "source": "weworkremotely",
+      "title": "Senior VMware Engineer",
+      "company": "EPAM Systems",
+      "url": "https://weworkremotely.com/remote-jobs/epam-systems-senior-vmware-engineer-1",
+      "description": "Headquarters: Belarus URL: http://epam.com We are looking for a Senior VMware Engineer to join our team supporting the delivery of a Unified Automation Platform for a large enterprise client. Within this role, you will develop and maintain VMware automation modules as part of an Internal Developer Platform (IDP) that standardizes project delivery, consolidates development resources, and ensures consistent provisioning across Azure and on-premises VMware environments. Your work will involve a modern toolchain built on Terraform/OpenTofu and Ansible, leveraging AI-assisted development with GitHub Copilot as a standard engineering practice. Responsibilities Develop and maintain Terraform/OpenTofu modules for vSphere VM provisioning, placement/resource-pool configuration, and cloud-init/cloudb",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Design",
+        "design"
+      ],
+      "postedAt": "Tue, 29 Sep 2026 16:16:31 +0000",
+      "category": "design"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/ilogos-2d-artist-props-and-customization",
+      "source": "weworkremotely",
+      "title": "2D Artist Props and Customization",
+      "company": "iLogos",
+      "url": "https://weworkremotely.com/remote-jobs/ilogos-2d-artist-props-and-customization",
+      "description": "Headquarters: Kaupmehe 7 Tallinn, 10114 Estonia URL: http://ilogos.biz iLogos Game Studios provides solutions for mobile game developers no matter how challenging the project or task is. We’ve been around since 2006 and in that time frame, we have successfully completed 400+ projects and have become a partner of choice for EA, Sony, Disney, Rovio, Ubisoft, and many other companies. About the project: This is the next generation of multiplayer gaming, transforming classic poker into an immersive digital spectacle. An interactive competitive platform where players, spectators, and hosts become full-fledged participants in one large-scale shared experience. At the heart of the project is the concept of the Digital Coliseum — a digital arena where every game becomes a public performance, and a",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Design",
+        "design"
+      ],
+      "postedAt": "Tue, 29 Sep 2026 16:16:30 +0000",
+      "category": "design"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/ewor-agentic-ai-design-engineer-100-remote-m-f-d",
+      "source": "weworkremotely",
+      "title": "Agentic AI Design Engineer (100 % remote) (m/f/d)",
+      "company": "EWOR",
+      "url": "https://weworkremotely.com/remote-jobs/ewor-agentic-ai-design-engineer-100-remote-m-f-d",
+      "description": "Headquarters: Tallinn, Europe, Estonia URL: http://ewor.com EWOR is launching cutting-edge new initiatives, and we are looking for exceptional operators and builders to join our new department. We are backed and led by serial entrepreneurs, including Paul Müller (founder of Adjust, €1.2B exit) and Petter Made (founder of SumUp, €8B), who have built high-impact technology and category-defining ventures from the ground up. What We Offer Maximum ownership : Complete autonomy to architect systems, drive strategy, and build from 0 to 1 without corporate red tape. High-growth environment : Complete focus on achieving strong market validation and scalable traction as fast as possible. No PowerPoint presentations, no 7 layers of approval. Good ideas and fast execution are what matter. Elite team :",
+      "location": "Europe",
+      "tags": [
+        "Design",
+        "design"
+      ],
+      "postedAt": "Tue, 29 Sep 2026 16:16:30 +0000",
+      "category": "design"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/replika-brand-design-manager",
+      "source": "weworkremotely",
+      "title": "Brand Design Manager",
+      "company": "Replika",
+      "url": "https://weworkremotely.com/remote-jobs/replika-brand-design-manager",
+      "description": "Headquarters: Armenia Yerevan, EMEA, Armenia URL: http://replika.com About Replika Replika is an AI companion loved by 35M+ users around the world. We’re redefining what it means to connect with technology – emotionally, intelligently, and personally. From mobile to VR, we’re building an experience that feels less like software and more like someone who gets you. We’re scaling fast and taking on bold challenges to become the most human AI on the planet. About the role Brand Design Manager We’re building a brand-new product from scratch, and we need someone to design what it actually is — not the buttons, the product. This is a conceptual role: you invent the functions, the moments, the way the whole thing works and feels, from a blank page. You’re not polishing UI. You’re deciding what the",
+      "location": "EMEA",
+      "tags": [
+        "Design",
+        "design"
+      ],
+      "postedAt": "Tue, 29 Sep 2026 16:16:30 +0000",
+      "category": "design"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/epam-systems-senior-network-engineer",
+      "source": "weworkremotely",
+      "title": "Senior Network Engineer",
+      "company": "EPAM Systems",
+      "url": "https://weworkremotely.com/remote-jobs/epam-systems-senior-network-engineer",
+      "description": "Headquarters: Belarus URL: http://epam.com We are seeking a Senior Network Engineer to join our engagement on the delivery of a Unified Automation Platform — an Internal Developer Platform (IDP) that standardizes new-project delivery, centralizes access to development resources, and enables software creation through templates and golden paths. In this role, you will contribute to the Network/Firewalls automation stream, building modules on a modern toolchain (Terraform/OpenTofu for IaC and Ansible for CaC) with AI-assisted development using GitHub Copilot as a standard practice. Responsibilities Implement and maintain firewall automation modules across PaloAlto, F5, and Cloudflare (security rules, address/service objects, NAT, VIP/pool configuration, WAF policy, certificate binding), follo",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Design",
+        "design"
+      ],
+      "postedAt": "Tue, 29 Sep 2026 16:16:30 +0000",
+      "category": "design"
+    },
+    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/epam-systems-senior-vmware-engineer",
       "source": "weworkremotely",
       "title": "Senior VMware Engineer",
@@ -826,6 +901,81 @@
       ],
       "postedAt": "Wed, 12 Aug 2026 23:41:10 +0000",
       "category": "design"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/accelerate-agency-brand-content-manager",
+      "source": "weworkremotely",
+      "title": "Brand Content Manager",
+      "company": "accelerate agency",
+      "url": "https://weworkremotely.com/remote-jobs/accelerate-agency-brand-content-manager",
+      "description": "Headquarters: Sarajevo, Bosnia and Herzegovina URL: http://accelerateagency.ai Brand Content Manager (Bosnia) The Company accelerate agency is a fast growing SaaS SEO agency. As we’re currently experiencing expedited growth, we’re now searching for an experienced Brand Content Manager to join our team. Objectives of this Role Overseeing our company’s content strategy from ideation to distribution Driving content production that will attract and convert leads for our sales Managing a team of creatives and balancing administrative tasks alongside editorial duties Optimizing content for conversion, improving existing content, and filling content gaps Responsibilities Working with the content writing, graphic design, web development, and social media teams to plan, create, and distribute conte",
+      "location": "Sarajevo Canton",
+      "tags": [
+        "Product",
+        "product"
+      ],
+      "postedAt": "Tue, 29 Sep 2026 19:07:41 +0000",
+      "category": "product"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/softswiss-business-development-manager",
+      "source": "weworkremotely",
+      "title": "Business Development Manager",
+      "company": "Softswiss",
+      "url": "https://weworkremotely.com/remote-jobs/softswiss-business-development-manager",
+      "description": "Headquarters: Saint Nikolaos Kato Polemidia, 4159 Cyprus URL: http://softswiss.com Overview: SOFTSWISS is hiring a Business Development Manager to join our iGaming Platform team. You’ll work on expanding our global client base, contributing to the growth of one of our core products Purpose of the Role: You’ll drive B2B client acquisition and market expansion to accelerate revenue growth across the iGaming Platform. Your work will impact global sales performance and client portfolio development by securing high-value partnerships and increasing market presence. About Product: iGaming Platform : With our strong technical team, SOFTSWISS has created a secure iGaming platform that ensures the highest quality of service to clients worldwide. Through constant innovation, the iGaming Platform Tea",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Product",
+        "product"
+      ],
+      "postedAt": "Tue, 29 Sep 2026 19:07:41 +0000",
+      "category": "product"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/flosum-saas-revenue-financial-analyst-flosum-belarus",
+      "source": "weworkremotely",
+      "title": "SaaS Revenue & Financial Analyst - Flosum (Belarus)",
+      "company": "Flosum",
+      "url": "https://weworkremotely.com/remote-jobs/flosum-saas-revenue-financial-analyst-flosum-belarus",
+      "description": "Headquarters: Belarus URL: http://flosum.com Description SaaS Revenue & Financial Analyst — Flosum About Flosum Flosum is a Salesforce-native platform company delivering enterprise-grade DevOps, data protection, and security solutions to some of the world's largest organizations. Our product portfolio spans Cloud DevOps, Data Migrator, Data Masking, Data Backup, Org Security, Cloud Trust Center, and Sandbox Synchronization — all built natively on the Salesforce platform. We serve enterprise customers across technology, energy, financial services, healthcare, and federal government. Flosum is a growth-stage company operating with the intensity and speed of a startup backed by the discipline of a mature operator. The Role We're hiring a SaaS Revenue & Financial Analyst who will own the measu",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Product",
+        "product"
+      ],
+      "postedAt": "Tue, 29 Sep 2026 19:07:41 +0000",
+      "category": "product"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/vectra-join-our-talent-community",
+      "source": "weworkremotely",
+      "title": "Join our Talent Community",
+      "company": "Vectra",
+      "url": "https://weworkremotely.com/remote-jobs/vectra-join-our-talent-community",
+      "description": "Headquarters: Worldwide URL: http://vectra.ai Vectra® is the leader in AI-driven threat detection and response for hybrid and multi-cloud enterprises. The Vectra AI Platform delivers integrated signal across public cloud, SaaS, identity, and data center networks in a single platform. Powered by patented Attack Signal Intelligence, it empowers security teams to rapidly prioritize, investigate and respond to the most advanced cyber-attacks. With 35 patents in AI-driven threat detection and the most vendor references in MITRE D3FEND, organizations worldwide rely on the Vectra AI to move at the speed and scale of hybrid attackers. For more information, visit www.vectra.ai. &nbsp; &nbsp; If you don't see an open position that aligns with your background, please feel free to join our Talent Comm",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Product",
+        "product"
+      ],
+      "postedAt": "Tue, 29 Sep 2026 19:07:41 +0000",
+      "category": "product"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/ewor-saas-full-stack-developer-100-remote-m-f-d",
+      "source": "weworkremotely",
+      "title": "SaaS Full-Stack Developer (100 % remote) (m/f/d)",
+      "company": "EWOR",
+      "url": "https://weworkremotely.com/remote-jobs/ewor-saas-full-stack-developer-100-remote-m-f-d",
+      "description": "Headquarters: Odense Banegård (Odense Letbane) Odense C, Europe, 5000 Denmark URL: http://ewor.com EWOR is launching cutting-edge new initiatives, and we are looking for exceptional operators and builders to join our new department. We are backed and led by serial entrepreneurs, including Paul Müller (founder of Adjust, €1.2B exit) and Petter Made (founder of SumUp, €8B), who have built high-impact technology and category-defining ventures from the ground up. What We Offer Maximum ownership : Complete autonomy to architect systems, drive strategy, and build from 0 to 1 without corporate red tape. High-growth environment : Complete focus on achieving strong market validation and scalable traction as fast as possible. No PowerPoint presentations, no 7 layers of approval. Good ideas and fast ",
+      "location": "Europe",
+      "tags": [
+        "Product",
+        "product"
+      ],
+      "postedAt": "Tue, 29 Sep 2026 19:07:41 +0000",
+      "category": "product"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/zanda-health-product-owner",
