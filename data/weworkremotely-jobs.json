@@ -1,7 +1,52 @@
 {
-  "generatedAt": "2026-09-29T04:32:01.511Z",
-  "count": 99,
+  "generatedAt": "2026-09-29T12:18:01.868Z",
+  "count": 98,
   "jobs": [
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-node-js-nest-js-3",
+      "source": "weworkremotely",
+      "title": "Senior Backend Developer (Node.js / Nest.js)",
+      "company": "Proxify AB",
+      "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-node-js-nest-js-3",
+      "description": "Headquarters: Sweden URL: http://career.proxify.io The Role: &nbsp; We are looking for a Senior Backend (Node.js / Nest.js) Developer to join our fast-growing network. You’ll be responsible for building modern and scalable web applications, working closely with backend developers and designers to create intuitive user experiences. This is a long-term, full-time remote role with opportunities to work on innovative projects that make a difference. &nbsp; What we’re looking for: 5+ years with Node.js and 3+ past years with Nest.js Strong expertise in Node.js and Nest.js frameworks. Proven experience building REST and/or GraphQL APIs. Strong knowledge of JavaScript (ES6+) and TypeScript. Solid experience with relational and/or NoSQL databases (e.g., PostgreSQL, MySQL, MongoDB). Familiarity wit",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Back-End Programming",
+        "programming"
+      ],
+      "postedAt": "Tue, 15 Sep 2026 09:06:31 +0000",
+      "category": "programming"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-10",
+      "source": "weworkremotely",
+      "title": "Senior Backend Developer (Python)",
+      "company": "Proxify AB",
+      "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-10",
+      "description": "Headquarters: Sweden URL: http://career.proxify.io The Role: &nbsp; We are looking for a Senior Python Developer for one of our clients. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy working on new ideas to develop exciting products. &nbsp; What we are looking for: 5+ years of experience building products with Python and Django. High proficiency in SQL with experience using databases like PostgreSQL. Experience scaling cloud infrastructures with Docker or Kubernetes is a plus. Experience managing cloud infrastructures, specifically AWS or GCP. You follow the best practices and conventions. Relevant experience in CI/CD and related tools. Ability to work with minimal supervision. Intermediate-advanced English level. You can communicate well with ",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Back-End Programming",
+        "programming"
+      ],
+      "postedAt": "Tue, 15 Sep 2026 09:01:36 +0000",
+      "category": "programming"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-4",
+      "source": "weworkremotely",
+      "title": "Senior Fullstack Developer (React.js / Node.js)",
+      "company": "Proxify AB",
+      "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-4",
+      "description": "Headquarters: Sweden URL: http://career.proxify.io The Role: &nbsp; We are looking for a Senior Fullstack Developer skilled in React.js and Node.js for one of our clients. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy working on new ideas to develop exciting products. &nbsp; What we are looking for: &nbsp; 5+ years experience as a Fullstack Developer. Backend experience with: Node.js Microservices architecture Database experience with: SQL MongoDB Intermediate-advanced English &nbsp; Nice-to-have:&nbsp; Located in CET timezone (+/- 3 hours). Database Architecture knowledge. &nbsp; Responsibilities: Ability to build libraries and frameworks of reusable efficient code. Competence in designing and implementing low-latency, stable and performing ap",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "programming"
+      ],
+      "postedAt": "Tue, 15 Sep 2026 08:51:45 +0000",
+      "category": "programming"
+    },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/reddit-backend-engineer-iam",
       "source": "weworkremotely",
@@ -15,21 +60,6 @@
         "programming"
       ],
       "postedAt": "Mon, 14 Sep 2026 07:31:07 +0000",
-      "category": "programming"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/pinterest-data-scientist-ii-ml-infrastructure",
-      "source": "weworkremotely",
-      "title": "Data Scientist II, ML Infrastructure",
-      "company": "Pinterest",
-      "url": "https://weworkremotely.com/remote-jobs/pinterest-data-scientist-ii-ml-infrastructure",
-      "description": "Headquarters: Palo Alto, CA, US; Remote, US About Pinterest: Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product. Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other’s unique experiences and embrace the&nbsp; flexibility to do your best work. Creating a career you love? It’s Possible. At Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we’re looking for candidates who are excited to be a part of tha",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "programming"
-      ],
-      "postedAt": "Sun, 13 Sep 2026 07:31:12 +0000",
       "category": "programming"
     },
     {
@@ -90,21 +120,6 @@
         "programming"
       ],
       "postedAt": "Thu, 10 Sep 2026 21:30:33 +0000",
-      "category": "programming"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/flexport-senior-systems-engineer-identity-and-access",
-      "source": "weworkremotely",
-      "title": "Senior Systems Engineer (Identity and Access)",
-      "company": "Flexport",
-      "url": "https://weworkremotely.com/remote-jobs/flexport-senior-systems-engineer-identity-and-access",
-      "description": "Headquarters: U.S. Remote About Flexport:&nbsp; At Flexport, we believe global trade can move the human race forward. That’s why it’s our mission to make global commerce so easy there will be more of it. We’re shaping the future of a $10T industry with solutions powered by innovative technology and exceptional people. Today, companies of all sizes—from emerging brands to Fortune 500s—use Flexport technology to move more than $19B of merchandise across 112 countries a year.&nbsp; The recent global supply chain crisis has put Flexport center stage as we continue to play a pivotal role in how goods move around the world. We are proud to have the support of the best investors in the game who believe in our mission, solutions and people. Ready to tackle global challenges that impact business, s",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "programming"
-      ],
-      "postedAt": "Thu, 10 Sep 2026 07:30:45 +0000",
       "category": "programming"
     },
     {
@@ -363,19 +378,34 @@
       "category": "programming"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/cribl-customer-support-manager",
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/discord-senior-software-engineer-application-security",
       "source": "weworkremotely",
-      "title": "Customer Support Manager",
-      "company": "Cribl",
-      "url": "https://weworkremotely.com/remote-jobs/cribl-customer-support-manager",
-      "description": "Headquarters: Remote - United States Join the company that’s building the telemetry infrastructure for the AI era. At Cribl, we partner with IT and Security teams at many of the world’s biggest enterprises, including half of the Fortune 100, to bridge the gap between AI ambition and infrastructure reality. As the AI Platform for Telemetry, we give customers the choice, control, and flexibility to manage and analyze telemetry for both humans and agents, so they can build what’s next. We’re one of the fastest‑growing private companies and a leading player in a massive, fast‑moving market. With a global workforce, we’re remote‑first and grounded in a simple idea: software is a people business. Cribl is the place where curious, collaborative people can do their best work, grow fast, and bring ",
+      "title": "Senior Software Engineer, Application Security",
+      "company": "Discord",
+      "url": "https://weworkremotely.com/remote-jobs/discord-senior-software-engineer-application-security",
+      "description": "Headquarters: San Francisco Bay Area or Remote Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people to hang out before, during, and after playing games. Discord empowers people to create spaces where they can find a sense of belonging in their lives. Millions of people trust Discord to keep their communications secure, private, and out of the hands of evildoers, so security and privacy are necessary to Discord's success. We are looking for a Senior Software Engineer to join our Application Security team and protect Discord’s users",
       "location": "Anywhere in the World",
       "tags": [
-        "Full-Stack Programming",
-        "programming"
+        "DevOps and Sysadmin",
+        "devops"
       ],
-      "postedAt": "Sun, 30 Aug 2026 07:30:43 +0000",
-      "category": "programming"
+      "postedAt": "Tue, 29 Sep 2026 07:30:55 +0000",
+      "category": "devops"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-infrastructure-architect-data-platform",
+      "source": "weworkremotely",
+      "title": "Principal Infrastructure Architect: Data Platform",
+      "company": "ZoomInfo Technologies LLC",
+      "url": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-infrastructure-architect-data-platform",
+      "description": "Headquarters: Remote ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen–fast. &nbsp; As a Principal Infrastructure Architect on our Infrastructure Architecture team, you will be the architecture team's partner to ZoomInfo's data engineering organization. Data engineering owns the platforms and the products built on them. You bring the infrastructure patterns, evaluation rigor, and cross-team alignment that help them build and run those platforms well on GCP. This is a cloud architect seat with a data special",
+      "location": "Anywhere in the World",
+      "tags": [
+        "DevOps and Sysadmin",
+        "devops"
+      ],
+      "postedAt": "Tue, 29 Sep 2026 07:30:41 +0000",
+      "category": "devops"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/collibra-cps-solution-architect-1",
@@ -513,21 +543,6 @@
       "category": "devops"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/circleci-security-operations-engineer",
-      "source": "weworkremotely",
-      "title": "Security Operations Engineer",
-      "company": "CircleCI",
-      "url": "https://weworkremotely.com/remote-jobs/circleci-security-operations-engineer",
-      "description": "Headquarters: Ontario, Canada (Remote) Security Operations Engineer About the Team The Security Operations team plays a critical role in protecting CircleCI’s infrastructure, product, and customer data against an evolving threat landscape. From incident response to hardening our cloud and CI/CD environments, the team works closely with engineering to keep CircleCI secure, resilient, and ready for what’s next. About the Role As a Security Operations Engineer, you’ll play a key role in protecting CircleCI’s infrastructure, product, and customer data against an evolving threat landscape increasingly shaped by AI-driven attacks and AI-augmented defenses. This intermediate-level role offers the opportunity to take meaningful ownership of security challenges, work closely with Engineering as a t",
-      "location": "Anywhere in the World",
-      "tags": [
-        "DevOps and Sysadmin",
-        "devops"
-      ],
-      "postedAt": "Sat, 19 Sep 2026 07:31:10 +0000",
-      "category": "devops"
-    },
-    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-cloud-architect",
       "source": "weworkremotely",
       "title": "Principal Cloud Architect",
@@ -603,21 +618,6 @@
       "category": "devops"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/jfrog-professional-services-devops-engineer",
-      "source": "weworkremotely",
-      "title": "Professional Services DevOps Engineer",
-      "company": "JFrog",
-      "url": "https://weworkremotely.com/remote-jobs/jfrog-professional-services-devops-engineer",
-      "description": "Headquarters: Remote, US &nbsp; ** Open to remote within the East Coast only** At JFrog, we’re reinventing DevOps to help the world’s greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if you’re willing to do more, your career can take off. And since software plays a central role in everyone’s lives, you’ll be part of an important mission. Thousands of customers, including the majority of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production -- a concept we call “liquid software.” Wouldn't it be amazing if you could join us in our journey? If you love working with brilliant people, being part of an energetic",
-      "location": "Anywhere in the World",
-      "tags": [
-        "DevOps and Sysadmin",
-        "devops"
-      ],
-      "postedAt": "Tue, 08 Sep 2026 07:31:00 +0000",
-      "category": "devops"
-    },
-    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/fastly-senior-sre-networks",
       "source": "weworkremotely",
       "title": "Senior SRE - Networks",
@@ -660,21 +660,6 @@
         "devops"
       ],
       "postedAt": "Mon, 31 Aug 2026 07:30:46 +0000",
-      "category": "devops"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/huntress-manager-security-operations-center-emea",
-      "source": "weworkremotely",
-      "title": "Manager, Security Operations Center - EMEA",
-      "company": "Huntress",
-      "url": "https://weworkremotely.com/remote-jobs/huntress-manager-security-operations-center-emea",
-      "description": "Headquarters: Remote Ireland Reports to: Director, Security Operations Center Location: Remote Ireland Compensation Range: €115,200 to €133,000 base plus bonus and equity What We Do: Cybercrime is growing, and more businesses are getting hit by threats that used to target only the biggest organizations. That pushes defenders like us to operate at the highest level, and it deepens our need for good people who want to make a meaningful impact. Founded in 2015 by former NSA cyber operators, Huntress is a remote-first team working to make enterprise-grade cybersecurity accessible to businesses of all sizes. We work closely with security teams and service providers protecting complex environments, often without the time or headcount to handle it all. That’s why we build our technology in-house ",
-      "location": "Anywhere in the World",
-      "tags": [
-        "DevOps and Sysadmin",
-        "devops"
-      ],
-      "postedAt": "Sun, 30 Aug 2026 07:30:43 +0000",
       "category": "devops"
     },
     {
@@ -963,6 +948,51 @@
       "category": "product"
     },
     {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/discord-engineering-manager-machine-learning-safety",
+      "source": "weworkremotely",
+      "title": "Engineering Manager, Machine Learning (Safety)",
+      "company": "Discord",
+      "url": "https://weworkremotely.com/remote-jobs/discord-engineering-manager-machine-learning-safety",
+      "description": "Headquarters: San Francisco Bay Area (or Remote U.S.) Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people to hang out before, during, and after playing games. Discord's Safety ML team builds the machine learning systems that protect 200M+ users. The team's mission is to make Discord a place where people can build genuine friendships without exposure to harm, at a scale where manual review alone can never keep up. We're looking for a highly technical, hands-on, and mission-driven Engineering Manager to lead our Safety ML team. As ",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Tue, 29 Sep 2026 07:30:41 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-director-applied-ai",
+      "source": "weworkremotely",
+      "title": "Director, Applied AI",
+      "company": "ZoomInfo Technologies LLC",
+      "url": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-director-applied-ai",
+      "description": "Headquarters: Bethesda, Maryland, United States; Remote-US-MA; Remote-US-MD; Remote-US-WA; Vancouver, Washington, United States; Waltham, Massachusetts, United States ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen–fast. You'll lead the team that builds the intelligence every ZoomInfo AI agent reasons over — what's true about companies and the people in them, how they relate, and what they're buying. This role owns the B2B data graph strategy end to end, blending classical machine learning and data scienc",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Tue, 29 Sep 2026 07:30:41 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/postscript-client-strategist",
+      "source": "weworkremotely",
+      "title": "Client Strategist",
+      "company": "Postscript",
+      "url": "https://weworkremotely.com/remote-jobs/postscript-client-strategist",
+      "description": "Headquarters: Remote, USA Postscript is the AI messaging platform trusted by 20,000+ Shopify brands — including Brooklinen, Ruggable, True Classic, and Dr. Squatch.&nbsp; With a mission to make SMS your number one revenue driving channel, we built the best-in-class SMS marketing platform and launched revenue-driving AI features not available on any other platform. And we're just getting started.&nbsp; Backed by Greylock and Y Combinator, fully remote since 2018. As a Client Strategist , you will be working with our biggest brands and be responsible for the end to end SMS strategy for a rotating group of customers. You will work closely with our Marketing, Product and Customer Success teams to learn best practices and use your marketing skills to drive consistent SMS revenue for select cust",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Tue, 29 Sep 2026 07:30:41 +0000",
+      "category": "full-stack"
+    },
+    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/dremio-software-engineer-developer-experience",
       "source": "weworkremotely",
       "title": "Software Engineer - Developer Experience",
@@ -990,21 +1020,6 @@
         "full-stack"
       ],
       "postedAt": "Mon, 28 Sep 2026 07:31:05 +0000",
-      "category": "full-stack"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/dremio-senior-software-engineer-platform",
-      "source": "weworkremotely",
-      "title": "Senior Software Engineer - Platform",
-      "company": "Dremio",
-      "url": "https://weworkremotely.com/remote-jobs/dremio-senior-software-engineer-platform",
-      "description": "Headquarters: Portugal - Remote Be Part of Building the Future Dremio is the unified lakehouse platform for self-service analytics and AI, serving hundreds of global enterprises, including Maersk, Amazon, Regeneron, NetApp, and S&P Global. Customers rely on Dremio for cloud, hybrid, and on-prem lakehouses to power their data mesh, data warehouse migration, data virtualization, and unified data access use cases. Based on open source technologies, including Apache Iceberg and Apache Arrow, Dremio provides an open lakehouse architecture enabling the fastest time to insight and platform flexibility at a fraction of the cost.&nbsp; Learn more at&nbsp; www.dremio.com. About the role The Observability and Core Services team owns the platform foundation that Dremio is built on — and that every pro",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Sat, 26 Sep 2026 07:30:50 +0000",
       "category": "full-stack"
     },
     {
@@ -1173,21 +1188,6 @@
       "category": "full-stack"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-4",
-      "source": "weworkremotely",
-      "title": "Senior Fullstack Developer (React.js / Node.js)",
-      "company": "Proxify AB",
-      "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-4",
-      "description": "Headquarters: Sweden URL: http://career.proxify.io The Role: &nbsp; We are looking for a Senior Fullstack Developer skilled in React.js and Node.js for one of our clients. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy working on new ideas to develop exciting products. &nbsp; What we are looking for: &nbsp; 5+ years experience as a Fullstack Developer. Backend experience with: Node.js Microservices architecture Database experience with: SQL MongoDB Intermediate-advanced English &nbsp; Nice-to-have:&nbsp; Located in CET timezone (+/- 3 hours). Database Architecture knowledge. &nbsp; Responsibilities: Ability to build libraries and frameworks of reusable efficient code. Competence in designing and implementing low-latency, stable and performing ap",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Tue, 15 Sep 2026 08:51:45 +0000",
-      "category": "full-stack"
-    },
-    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/toggl-senior-full-stack",
       "source": "weworkremotely",
       "title": "Senior Full Stack",
@@ -1231,21 +1231,6 @@
       ],
       "postedAt": "Mon, 17 Aug 2026 13:57:14 +0000",
       "category": "full-stack"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/checkr-contract-recruiter",
-      "source": "weworkremotely",
-      "title": "Contract Recruiter",
-      "company": "Checkr",
-      "url": "https://weworkremotely.com/remote-jobs/checkr-contract-recruiter",
-      "description": "Headquarters: Remote, United States About Checkr Checkr is building the data platform to power safe and fair decisions. Over 140,000 companies and millions of people rely on Checkr for AI verification in the moments that matter most: getting a new job, a new place to live, a car ride, childcare, even a date. Customers include Uber, Pennymac, Airbnb, Doordash, and Anthropic. We’re a team that thrives on solving complex problems with innovative solutions that advance our mission. Checkr is recognized on Forbes Cloud 100 2025 List and is a Y Combinator 2024 Breakthrough Company . About the role As a contract G&A and Operations Recruiter, you will find top-tier candidates who bring strong ability, an entrepreneurial spirit, a strong sense of ownership, and diversity of thought.&nbsp; You will ",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Management and Finance",
-        "management"
-      ],
-      "postedAt": "Sun, 27 Sep 2026 07:30:55 +0000",
-      "category": "management"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/faire-director-global-equity",
