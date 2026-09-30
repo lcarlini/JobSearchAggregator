@@ -1,7 +1,22 @@
 {
-  "generatedAt": "2026-09-30T04:15:50.672Z",
-  "count": 108,
+  "generatedAt": "2026-09-30T12:03:37.929Z",
+  "count": 110,
   "jobs": [
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/acculynx-senior-software-engineer",
+      "source": "weworkremotely",
+      "title": "Senior Software Engineer",
+      "company": "AccuLynx",
+      "url": "https://weworkremotely.com/remote-jobs/acculynx-senior-software-engineer",
+      "description": "Headquarters: Beloit, WI URL: http://acculynx.com Senior Software Engineer AccuLynx is a fast-growing SaaS provider of business management software for roofing contractors. With more than 10 years in the business and impressive year-over-year revenue growth, we have quickly established ourselves as the leading software product in this multi-billion dollar industry. AccuLynx is actively looking for smart and passionate Senior Software Engineers to join our growing Engineering team! We are headquartered out of Beloit, WI and would love to have you join us for major planning sessions and meetings, but this role has the option to be remote. We do not hire based on buzzwords or popular acronyms. We expect you to have mastered at least one language and be eager to master any technology or langua",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "programming"
+      ],
+      "postedAt": "Tue, 15 Sep 2026 14:12:47 +0000",
+      "category": "programming"
+    },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/toptal-senior-data-engineer-aws-data-lake-pipeline-architecture",
       "source": "weworkremotely",
@@ -333,21 +348,6 @@
       "category": "programming"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/expel-managed-siem-detection-engineer",
-      "source": "weworkremotely",
-      "title": "Managed SIEM Detection Engineer",
-      "company": "Expel",
-      "url": "https://weworkremotely.com/remote-jobs/expel-managed-siem-detection-engineer",
-      "description": "Headquarters: Remote Are you a detection engineer who wants to bring real depth of expertise into a new and growing function and use it to deliver security excellence to customers? Expel's professional services practice is just getting started, and we're looking for the technical expert who'll deliver the work that gets customers ready to thrive under our co-managed SIEM model. You'll bring hands-on skill to a team that's finding its stride, help it grow, and have a real runway to grow into a lead yourself. Here's the work. Customers come to us with SIEMs that should be surfacing threats but are instead consuming their teams: ingestion costs climbing year over year, engineers buried in alert noise and broken pipelines, and detection blind spots leaving real gaps. You're the engineer who tu",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "programming"
-      ],
-      "postedAt": "Tue, 01 Sep 2026 07:30:49 +0000",
-      "category": "programming"
-    },
-    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/toptal-smartsheet-expert-for-integrated-project-planning",
       "source": "weworkremotely",
       "title": "Smartsheet Expert for Integrated Project Planning",
@@ -645,21 +645,6 @@
         "devops"
       ],
       "postedAt": "Sat, 05 Sep 2026 07:31:22 +0000",
-      "category": "devops"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/circleci-senior-software-engineer",
-      "source": "weworkremotely",
-      "title": "Senior Software Engineer",
-      "company": "CircleCI",
-      "url": "https://weworkremotely.com/remote-jobs/circleci-senior-software-engineer",
-      "description": "Headquarters: Remote, Ontario, Canada About CircleCI Engineering CI/CD has been solved. Now it's being reinvented. AI agents don't just run pipelines. They write code, trigger builds, interpret failures, and propose fixes. The interfaces that developers use to understand and trust that work don't exist yet. We're building them. At CircleCI, our guiding principles aren't posters on a wall. We learn fast: we run experiments, accept failure, and scale what works. We think like the customer: every decision connects back to the developer sitting in front of a failing build at 2 am. We own the outcome: not just our slice of it, but the whole thing. If that's how you already work, you'll fit here. Team-Agnostic Placement We don't hire for a team. We hire for CircleCI. Where you land depends on wh",
-      "location": "Anywhere in the World",
-      "tags": [
-        "DevOps and Sysadmin",
-        "devops"
-      ],
-      "postedAt": "Mon, 31 Aug 2026 07:30:46 +0000",
       "category": "devops"
     },
     {
@@ -1098,6 +1083,66 @@
       "category": "product"
     },
     {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/lithic-senior-risk-associate",
+      "source": "weworkremotely",
+      "title": "Senior Risk Associate",
+      "company": "Lithic",
+      "url": "https://weworkremotely.com/remote-jobs/lithic-senior-risk-associate",
+      "description": "Headquarters: Remote Lithic is the modern card issuing and processing platform empowering ambitious financial companies to build the future of payments. Our infrastructure powers card programs for 100+ innovative clients, from fintechs reimagining credit and digital banking to platforms transforming disbursements and spend management. Companies like Mercury, Flex, and Novo rely on Lithic's developer-friendly APIs, direct network connections, and flawless reconciliation to launch and scale card programs in weeks, not years. We're building a future where access to better financial products materially improves people's lives, free from the constraints of 30-year-old mainframes and legacy processors. We're proud to be backed by world-class investors who share that vision, including Bessemer Ve",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Wed, 30 Sep 2026 07:31:24 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/salesloft-principal-software-engineer-ai",
+      "source": "weworkremotely",
+      "title": "Principal Software Engineer, AI",
+      "company": "Salesloft",
+      "url": "https://weworkremotely.com/remote-jobs/salesloft-principal-software-engineer-ai",
+      "description": "Headquarters: United States, Remote Job Title: Principal Software Engineer, AI&nbsp; Location : Remote - US Salesloft is building the next era of enterprise revenue — one where teams make confident decisions powered by AI and real signals. By combining our scale, insights, and AI innovation, we're building the industry's first Predictive Revenue System, enabling humans and AI to work together to make smarter decisions and drive consistent growth. With thousands of customers using our platforms every day, we have an unmatched view into how revenue is actually won — the Revenue Context that reveals what happens, when, and with what outcome. This gives us a unique opportunity to transform an entire category and set a new benchmark for how modern revenue teams operate. Join us to help transfor",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Wed, 30 Sep 2026 07:31:24 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/tailscale-analytics-engineer-data",
+      "source": "weworkremotely",
+      "title": "Analytics Engineer, Data",
+      "company": "Tailscale",
+      "url": "https://weworkremotely.com/remote-jobs/tailscale-analytics-engineer-data",
+      "description": "Headquarters: Remote (Canada) Thank you for considering Tailscale. If this job description resonates with you, please apply.&nbsp; Frequently cited statistics show that people who identify with historically marginalized groups are likely to apply to jobs only if they meet 100% of the qualifications. We encourage you to help us break that statistic! About Tailscale&nbsp; Tailscale is making safe connection effortless by delivering software that makes it easy to securely interconnect people and their devices, no matter where they are. From hobbyists to multinational corporations, teams of every size use Tailscale each day to protect their networks, share access to internal tools, and more. We're building a future for the Internet that's easy, sensible, and safe, like it used to be. Founded i",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Wed, 30 Sep 2026 07:31:24 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-card-authorization",
+      "source": "weworkremotely",
+      "title": "Senior Software Engineer, Card Authorization",
+      "company": "Lithic",
+      "url": "https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-card-authorization",
+      "description": "Headquarters: Remote Lithic is the modern card issuing and processing platform empowering ambitious financial companies to build the future of payments. Our infrastructure powers card programs for 100+ innovative clients, from fintechs reimagining credit and digital banking to platforms transforming disbursements and spend management. Companies like Mercury, Flex, and Novo rely on Lithic's developer-friendly APIs, direct network connections, and flawless reconciliation to launch and scale card programs in weeks, not years. We're building a future where access to better financial products materially improves people's lives, free from the constraints of 30-year-old mainframes and legacy processors. We're proud to be backed by world-class investors who share that vision, including Bessemer Ve",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Wed, 30 Sep 2026 07:31:24 +0000",
+      "category": "full-stack"
+    },
+    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/discord-engineering-manager-machine-learning-safety",
       "source": "weworkremotely",
       "title": "Engineering Manager, Machine Learning (Safety)",
@@ -1305,21 +1350,6 @@
         "full-stack"
       ],
       "postedAt": "Wed, 16 Sep 2026 12:24:17 +0000",
-      "category": "full-stack"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/acculynx-senior-software-engineer",
-      "source": "weworkremotely",
-      "title": "Senior Software Engineer",
-      "company": "AccuLynx",
-      "url": "https://weworkremotely.com/remote-jobs/acculynx-senior-software-engineer",
-      "description": "Headquarters: Beloit, WI URL: http://acculynx.com Senior Software Engineer AccuLynx is a fast-growing SaaS provider of business management software for roofing contractors. With more than 10 years in the business and impressive year-over-year revenue growth, we have quickly established ourselves as the leading software product in this multi-billion dollar industry. AccuLynx is actively looking for smart and passionate Senior Software Engineers to join our growing Engineering team! We are headquartered out of Beloit, WI and would love to have you join us for major planning sessions and meetings, but this role has the option to be remote. We do not hire based on buzzwords or popular acronyms. We expect you to have mastered at least one language and be eager to master any technology or langua",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Tue, 15 Sep 2026 14:12:47 +0000",
       "category": "full-stack"
     },
     {
