@@ -1,7 +1,22 @@
 {
-  "generatedAt": "2026-09-29T21:59:39.750Z",
+  "generatedAt": "2026-09-30T04:15:50.672Z",
   "count": 108,
   "jobs": [
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/toptal-senior-data-engineer-aws-data-lake-pipeline-architecture",
+      "source": "weworkremotely",
+      "title": "Senior Data Engineer – AWS Data Lake & Pipeline Architecture",
+      "company": "Toptal",
+      "url": "https://weworkremotely.com/remote-jobs/toptal-senior-data-engineer-aws-data-lake-pipeline-architecture",
+      "description": "Headquarters: Summary We are seeking a Data Engineer to support the development of a Data Intelligence Platform. This role focuses on data modeling, data services, data pipelines, and cloud-based data infrastructure for reporting, analytics, and data science. General information This Data Engineer will support data-related operations across a broader Data Intelligence Platform team. The work includes building and consuming web services, integrating search technologies, supporting personalization and recommendation engines, and applying data engineering best practices across the platform. The role spans cloud-based data architecture, database performance, pipeline automation, and support for data scientists, researchers, and internal business units. The environment includes AWS-based infras",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "programming"
+      ],
+      "postedAt": "Tue, 15 Sep 2026 12:53:09 +0000",
+      "category": "programming"
+    },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-node-js-nest-js-3",
       "source": "weworkremotely",
@@ -360,21 +375,6 @@
         "programming"
       ],
       "postedAt": "Mon, 31 Aug 2026 15:47:17 +0000",
-      "category": "programming"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-3",
-      "source": "weworkremotely",
-      "title": "Senior Shopify Developer (Remote + Flexible)",
-      "company": "Storetasker",
-      "url": "https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-3",
-      "description": "Headquarters: Brooklyn, NY URL: https://resources.storetasker.com/become-an-expert?apply=true&source=weworkremotely_best_2021 Shopify developers love to freelance with Storetasker. Endless, quality clients: from well known DTC brands to top agencies.&nbsp; Fully remote, flexible: work as much or as little as you want, wherever you want.&nbsp; A talented and helpful community: it's freelance (with a team). Earn $100-$200 per hour: pick your clients, and send your own quotes or retainers.&nbsp; We've connected our community of Shopify developers to over 32,000 e-commerce brands. From new brands pre-launch, to some of the most successful Shopify Plus sites, to top creative agencies. Clients include: Alpha Industries , Boll & Branch , Superfluid , Jack Henry , Plenaire , and Fulton among many ",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "programming"
-      ],
-      "postedAt": "Mon, 13 May 2024 03:14:30 +0000",
       "category": "programming"
     },
     {
@@ -1323,21 +1323,6 @@
       "category": "full-stack"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/toptal-senior-data-engineer-aws-data-lake-pipeline-architecture",
-      "source": "weworkremotely",
-      "title": "Senior Data Engineer – AWS Data Lake & Pipeline Architecture",
-      "company": "Toptal",
-      "url": "https://weworkremotely.com/remote-jobs/toptal-senior-data-engineer-aws-data-lake-pipeline-architecture",
-      "description": "Headquarters: Summary We are seeking a Data Engineer to support the development of a Data Intelligence Platform. This role focuses on data modeling, data services, data pipelines, and cloud-based data infrastructure for reporting, analytics, and data science. General information This Data Engineer will support data-related operations across a broader Data Intelligence Platform team. The work includes building and consuming web services, integrating search technologies, supporting personalization and recommendation engines, and applying data engineering best practices across the platform. The role spans cloud-based data architecture, database performance, pipeline automation, and support for data scientists, researchers, and internal business units. The environment includes AWS-based infras",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Tue, 15 Sep 2026 12:53:09 +0000",
-      "category": "full-stack"
-    },
-    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/toggl-senior-full-stack",
       "source": "weworkremotely",
       "title": "Senior Full Stack",
@@ -1380,6 +1365,21 @@
         "full-stack"
       ],
       "postedAt": "Mon, 17 Aug 2026 13:57:14 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-3",
+      "source": "weworkremotely",
+      "title": "Senior Shopify Developer (Remote + Flexible)",
+      "company": "Storetasker",
+      "url": "https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-3",
+      "description": "Headquarters: Brooklyn, NY URL: https://resources.storetasker.com/become-an-expert?apply=true&source=weworkremotely_best_2021 Shopify developers love to freelance with Storetasker. Endless, quality clients: from well known DTC brands to top agencies.&nbsp; Fully remote, flexible: work as much or as little as you want, wherever you want.&nbsp; A talented and helpful community: it's freelance (with a team). Earn $100-$200 per hour: pick your clients, and send your own quotes or retainers.&nbsp; We've connected our community of Shopify developers to over 32,000 e-commerce brands. From new brands pre-launch, to some of the most successful Shopify Plus sites, to top creative agencies. Clients include: Alpha Industries , Boll & Branch , Superfluid , Jack Henry , Plenaire , and Fulton among many ",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Mon, 13 May 2024 03:14:30 +0000",
       "category": "full-stack"
     },
     {
