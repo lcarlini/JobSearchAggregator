@@ -1,7 +1,37 @@
 {
-  "generatedAt": "2026-09-30T12:03:37.929Z",
-  "count": 110,
+  "generatedAt": "2026-09-30T18:02:10.209Z",
+  "count": 112,
   "jobs": [
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/samsara-staff-software-engineer",
+      "source": "weworkremotely",
+      "title": "Staff Software Engineer",
+      "company": "Samsara",
+      "url": "https://weworkremotely.com/remote-jobs/samsara-staff-software-engineer",
+      "description": "Headquarters: Remote URL: https://www.samsara.com/ About the role: Samsara (NYSE: IOT) sits at the center of hardware, software, AI, and the physical world. The platform processes 25+ trillion data points annually from IoT sensors, cameras, and connected devices across thousands of organizations, and that dataset is compounding: it grew from 4 trillion to 25+ trillion in four years. We're still early in turning that data into the products that will define how physical operations run, and we're hiring the engineers who will build what comes next. We're approaching ~$2B ARR growing 30%+ year over year, with 96% of our largest customers on two or more products. The fastest-growing divisions at Samsara are tackling the hardest, most ambiguous problems at the company: building new products from",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "programming"
+      ],
+      "postedAt": "Mon, 17 Aug 2026 13:57:14 +0000",
+      "category": "programming"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/sticker-mule-ai-agent-engineer",
+      "source": "weworkremotely",
+      "title": "AI agent engineer",
+      "company": "Sticker Mule",
+      "url": "https://weworkremotely.com/remote-jobs/sticker-mule-ai-agent-engineer",
+      "description": "Headquarters: New York, NY URL: https://www.stickermule.com Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and AI in one stack. &nbsp; We're hiring an engineer to build, run and manage a team of AI agents to help us innovate faster, improve performance, and better serve customers. &nbsp; Work performed Identify where agents can help and build them accordingly. Work with department leads to assess AI needs. Help connect agents to appropriate third-party and internal tools. Measure results and remove agents that don't deliver. Test new tools and models as they ship and adopt what works. Advise others on AI capabilities to help them perform. &nbsp; Requirements Experience building agents that run on their own and do meaningf",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "programming"
+      ],
+      "postedAt": "Wed, 16 Sep 2026 12:24:17 +0000",
+      "category": "programming"
+    },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/acculynx-senior-software-engineer",
       "source": "weworkremotely",
@@ -348,36 +378,6 @@
       "category": "programming"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/toptal-smartsheet-expert-for-integrated-project-planning",
-      "source": "weworkremotely",
-      "title": "Smartsheet Expert for Integrated Project Planning",
-      "company": "Toptal",
-      "url": "https://weworkremotely.com/remote-jobs/toptal-smartsheet-expert-for-integrated-project-planning",
-      "description": "Headquarters: Summary We are seeking a Smartsheet Expert to support integrated project planning activities related to the integration of a regional utility's service territory and assets. This role will focus on building complex Smartsheet solutions, coaching the client on similar sheet and formula creation, and producing training materials. General information This engagement supports integrated project planning work tied to a regional utility integration effort. The scope centers on improving planning visibility and structure within Smartsheet, including program views, dependencies, and a more robust RAID log with formulas and connectors. The ideal freelancer will be comfortable serving in both a hands-on build capacity and a coaching capacity, helping the client strengthen its internal ",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "programming"
-      ],
-      "postedAt": "Mon, 31 Aug 2026 16:30:27 +0000",
-      "category": "programming"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/toptal-power-platform-solutions-architect-for-global-pharmaceutical-company",
-      "source": "weworkremotely",
-      "title": "Power Platform Solutions Architect for Global Pharmaceutical Company",
-      "company": "Toptal",
-      "url": "https://weworkremotely.com/remote-jobs/toptal-power-platform-solutions-architect-for-global-pharmaceutical-company",
-      "description": "Headquarters: We are looking for a Power Platform Solutions Architect for a global company. Their goal is to assess and modernize an existing Power Platform solution, define the target architecture, and lead the technical design of a scalable and secure implementation. Required Skills: Deep hands-on experience with Microsoft Power Platform, including Power Apps (canvas and model-driven), Power Automate, Dataverse, Power Pages, and Power BI Strong experience designing Dataverse schemas and security roles Azure architecture experience with API Management, Azure Functions, Key Vault, Entra ID/SSO, and Azure Monitor/Application Insights Experience designing enterprise integration architectures, including integrations where counterpart APIs or contracts are uncertain, changing, or being migrate",
-      "location": "North America Only",
-      "tags": [
-        "Full-Stack Programming",
-        "programming"
-      ],
-      "postedAt": "Mon, 31 Aug 2026 15:47:17 +0000",
-      "category": "programming"
-    },
-    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/discord-senior-software-engineer-application-security",
       "source": "weworkremotely",
       "title": "Senior Software Engineer, Application Security",
@@ -646,6 +646,81 @@
       ],
       "postedAt": "Sat, 05 Sep 2026 07:31:22 +0000",
       "category": "devops"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/seat-geek-senior-ux-designer",
+      "source": "weworkremotely",
+      "title": "Senior UX Designer",
+      "company": "Seat Geek",
+      "url": "https://weworkremotely.com/remote-jobs/seat-geek-senior-ux-designer",
+      "description": "Headquarters: Remote URL: https://seatgeek.com/ What you’ll do Deeply understand the needs, motivations, and behaviors of fans, sellers, teams, and artists Set direction by creating clear and impactful strategies while also sweating the details through execution and launch Balance speed and quality with a focus on driving impact through both optimizations and 0-1 product development Demonstrate outstanding design skills and a passion for experimentation, data, and systems thinking Collaboratively improve our component systems to ensure consistent, high quality experiences What you have 4+ years of experience Excellent craftsmanship An understanding of the technical and logistical obstacles that create friction during live experiences The mindset of a challenge, changemaker, and innovator 4",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Design",
+        "design"
+      ],
+      "postedAt": "Wed, 30 Sep 2026 15:13:43 +0000",
+      "category": "design"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/cribl-sr-ux-designer-security",
+      "source": "weworkremotely",
+      "title": "Sr. UX Designer, Security",
+      "company": "Cribl",
+      "url": "https://weworkremotely.com/remote-jobs/cribl-sr-ux-designer-security",
+      "description": "Headquarters: Remote URL: https://cribl.io/ Join the company that’s building the telemetry infrastructure for the AI era. At Cribl, we partner with IT and Security teams at many of the world’s biggest enterprises, including half of the Fortune 100, to bridge the gap between AI ambition and infrastructure reality. As the AI Platform for Telemetry, we give customers the choice, control, and flexibility to manage and analyze telemetry for both humans and agents, so they can build what’s next. We’re one of the fastest‑growing private companies and a leading player in a massive, fast‑moving market. With a global workforce, we’re remote‑first and grounded in a simple idea: software is a people business. Cribl is the place where curious, collaborative people can do their best work, grow fast, and",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Design",
+        "design"
+      ],
+      "postedAt": "Wed, 30 Sep 2026 14:50:43 +0000",
+      "category": "design"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/pearl-remote-senior-packaging-designer-for-consumer-goods-company",
+      "source": "weworkremotely",
+      "title": "Remote Senior Packaging Designer for Consumer Goods Company",
+      "company": "Pearl",
+      "url": "https://weworkremotely.com/remote-jobs/pearl-remote-senior-packaging-designer-for-consumer-goods-company",
+      "description": "Headquarters: Honduras, Santo Domingo, Dominican Republic URL: http://pearltalent.com Description Work From Anywhere in LATAM Work Schedule: EST | Flexible hours with Eastern Time overlap for stakeholder presentations About Pearl Talent Pearl works with the top 1% of candidates from around the world and connects them with the best startups in the US and EU. Our clients have raised over $5B in aggregate and are backed by companies like OpenAI, a16z, and Founders Fund. They're looking for the sharpest, hungriest candidates who they can consistently promote and work with over many years. Candidates we've hired have been flown out to the US and EU to work with their clients, and even promoted to roles that match folks onshore in the US. Hear why we exist, what we believe in, and who we're buil",
+      "location": "Santo Domingo",
+      "tags": [
+        "Design",
+        "design"
+      ],
+      "postedAt": "Wed, 30 Sep 2026 14:35:34 +0000",
+      "category": "design"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/epam-systems-lead-cloud-engineer",
+      "source": "weworkremotely",
+      "title": "Lead Cloud Engineer",
+      "company": "EPAM Systems",
+      "url": "https://weworkremotely.com/remote-jobs/epam-systems-lead-cloud-engineer",
+      "description": "Headquarters: Belarus URL: http://epam.com We are looking for a Lead Cloud Engineer to join our innovative team. We are delivering a Unified Automation Platform (Internal Developer Platform) to standardize secure, repeatable infrastructure delivery across Azure and on-premises VMware using templates and golden paths. You will lead Azure automation and AKS operations and strengthen IaC/CaC engineering practices. Apply to help teams ship faster with consistent, compliant deployments. Responsibilities Implement and maintain Terraform/OpenTofu modules for Azure App Services, Container Apps, Function Apps, Azure SQL, Cosmos DB, and Postgres, following designs defined by the Azure Architect Build and operate the Azure Kubernetes Service (AKS) platform day-to-day: cluster/node-pool provisioning, ",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Design",
+        "design"
+      ],
+      "postedAt": "Wed, 30 Sep 2026 14:35:34 +0000",
+      "category": "design"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/essence-journey-remote-guest-experience-specialist",
+      "source": "weworkremotely",
+      "title": "Remote Guest Experience Specialist",
+      "company": "Essence Journey",
+      "url": "https://weworkremotely.com/remote-jobs/essence-journey-remote-guest-experience-specialist",
+      "description": "Headquarters: Nassau, Bahamas URL: http://godaddysites.com We are seeking a motivated and detail-oriented Remote Guest Experience Specialist to join our remote team. In this role, you will assist customers with inquiries, scheduling, account updates, and service coordination while delivering a high level of professionalism and care. This position is ideal for someone who enjoys helping people, solving problems, and working in a fast-paced remote environment. You will serve as a key point of contact for customers, ensuring a smooth and positive experience from initial request through follow-up support.&nbsp; Requirements&nbsp; Previous experience in customer service, hospitality, call center, or administrative roles preferred Strong written and verbal communication skills Comfortable workin",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Design",
+        "design"
+      ],
+      "postedAt": "Wed, 30 Sep 2026 14:35:34 +0000",
+      "category": "design"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/epam-systems-senior-vmware-engineer-1",
@@ -924,21 +999,6 @@
       "company": "Flosum",
       "url": "https://weworkremotely.com/remote-jobs/flosum-saas-revenue-financial-analyst-flosum-belarus",
       "description": "Headquarters: Belarus URL: http://flosum.com Description SaaS Revenue & Financial Analyst — Flosum About Flosum Flosum is a Salesforce-native platform company delivering enterprise-grade DevOps, data protection, and security solutions to some of the world's largest organizations. Our product portfolio spans Cloud DevOps, Data Migrator, Data Masking, Data Backup, Org Security, Cloud Trust Center, and Sandbox Synchronization — all built natively on the Salesforce platform. We serve enterprise customers across technology, energy, financial services, healthcare, and federal government. Flosum is a growth-stage company operating with the intensity and speed of a startup backed by the discipline of a mature operator. The Role We're hiring a SaaS Revenue & Financial Analyst who will own the measu",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Product",
-        "product"
-      ],
-      "postedAt": "Tue, 29 Sep 2026 19:07:41 +0000",
-      "category": "product"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/vectra-join-our-talent-community",
-      "source": "weworkremotely",
-      "title": "Join our Talent Community",
-      "company": "Vectra",
-      "url": "https://weworkremotely.com/remote-jobs/vectra-join-our-talent-community",
-      "description": "Headquarters: Worldwide URL: http://vectra.ai Vectra® is the leader in AI-driven threat detection and response for hybrid and multi-cloud enterprises. The Vectra AI Platform delivers integrated signal across public cloud, SaaS, identity, and data center networks in a single platform. Powered by patented Attack Signal Intelligence, it empowers security teams to rapidly prioritize, investigate and respond to the most advanced cyber-attacks. With 35 patents in AI-driven threat detection and the most vendor references in MITRE D3FEND, organizations worldwide rely on the Vectra AI to move at the speed and scale of hybrid attackers. For more information, visit www.vectra.ai. &nbsp; &nbsp; If you don't see an open position that aligns with your background, please feel free to join our Talent Comm",
       "location": "Anywhere in the World",
       "tags": [
         "Product",
@@ -1338,21 +1398,6 @@
       "category": "full-stack"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/sticker-mule-ai-agent-engineer",
-      "source": "weworkremotely",
-      "title": "AI agent engineer",
-      "company": "Sticker Mule",
-      "url": "https://weworkremotely.com/remote-jobs/sticker-mule-ai-agent-engineer",
-      "description": "Headquarters: New York, NY URL: https://www.stickermule.com Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and AI in one stack. &nbsp; We're hiring an engineer to build, run and manage a team of AI agents to help us innovate faster, improve performance, and better serve customers. &nbsp; Work performed Identify where agents can help and build them accordingly. Work with department leads to assess AI needs. Help connect agents to appropriate third-party and internal tools. Measure results and remove agents that don't deliver. Test new tools and models as they ship and adopt what works. Advise others on AI capabilities to help them perform. &nbsp; Requirements Experience building agents that run on their own and do meaningf",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Wed, 16 Sep 2026 12:24:17 +0000",
-      "category": "full-stack"
-    },
-    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/toggl-senior-full-stack",
       "source": "weworkremotely",
       "title": "Senior Full Stack",
@@ -1380,21 +1425,6 @@
         "full-stack"
       ],
       "postedAt": "Mon, 17 Aug 2026 19:21:19 +0000",
-      "category": "full-stack"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/samsara-staff-software-engineer",
-      "source": "weworkremotely",
-      "title": "Staff Software Engineer",
-      "company": "Samsara",
-      "url": "https://weworkremotely.com/remote-jobs/samsara-staff-software-engineer",
-      "description": "Headquarters: Remote URL: https://www.samsara.com/ About the role: Samsara (NYSE: IOT) sits at the center of hardware, software, AI, and the physical world. The platform processes 25+ trillion data points annually from IoT sensors, cameras, and connected devices across thousands of organizations, and that dataset is compounding: it grew from 4 trillion to 25+ trillion in four years. We're still early in turning that data into the products that will define how physical operations run, and we're hiring the engineers who will build what comes next. We're approaching ~$2B ARR growing 30%+ year over year, with 96% of our largest customers on two or more products. The fastest-growing divisions at Samsara are tackling the hardest, most ambiguous problems at the company: building new products from",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Mon, 17 Aug 2026 13:57:14 +0000",
       "category": "full-stack"
     },
     {
