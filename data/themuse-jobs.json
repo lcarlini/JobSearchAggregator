@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T18:01:59.632Z",
+  "generatedAt": "2026-09-30T22:08:09.746Z",
   "count": 202,
   "jobs": [
     {
@@ -477,6 +477,43 @@
       "tags": [],
       "refs": {
         "landing_page": "https://www.themuse.com/jobs/spacex/operations-engineer-starlink-production-df477a"
+      },
+      "company": {
+        "id": 15000190,
+        "short_name": "spacex",
+        "name": "SpaceX"
+      }
+    },
+    {
+      "contents": "<div><p>SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of&nbsp;enabling human life on Mars.</p></div>\n\n<p><strong>SR. WIRELESS SOFTWARE ENGINEER (STARLINK)</strong></p>\n\n<p>At SpaceX, we’re leveraging our experience in building rockets and spacecraft to deploy Starlink, the world’s most advanced broadband internet system. Starlink is the world’s largest satellite constellation and is providing fast, reliable internet to millions of users worldwide. We design, build, test, and operate all parts of the system – thousands of satellites, consumer receivers that allow users to connect within minutes of unboxing, and the software that brings it all together. We’ve only begun to scratch the surface of Starlink’s potential global impact and are looking for best-in-class engineers to help maximize Starlink’s utility for communities and businesses around the globe.</p>\n\n<p>As a Sr. Wireless Software Engineer on these programs, you will be solving a wide range of novel engineering challenges:</p>\n\n<ul>\n<li>Firmware, embedded, and signal processing software running on custom hardware that flies the world’s largest fleet of spacecraft.</li>\n<li>Cutting-edge networking algorithms capable of connecting thousands of satellites to millions of users in real time.</li>\n<li>Infrastructure and tools enabling a highly reliable, software-defined global network.</li>\n</ul>\n\n<p>Our software engineers are responsible for the complete lifecycle of the software they create, including development, testing, and support.</p>\n\n<p><strong>RESPONSIBILITIES: </strong></p>\n\n<ul>\n<li>Design, implement, test, and maintain physical and MAC layer software of the wireless software stack for the Starlink communications network.</li>\n<li>Participate in architecting current and next-gen Starlink hardware and signal processing algorithms.</li>\n<li>Participate in hardware bring-up, debugging, verification and launch.</li>\n<li>Work with other teams for cross-layer integration of the end-to-end system.</li>\n<li>Develop prototypes to prove out key design concepts and quantify technical constraints.</li>\n<li>Collaborate with other engineers to plan and organize the development of our products.</li>\n</ul>\n\n<p><strong>BASIC QUALIFICATIONS:</strong></p>\n\n<ul>\n<li>Bachelor’s degree in computer science, engineering, math, or STEM discipline; OR 2+ years of professional software engineering experience, programming with C or C++ in lieu of a degree.</li>\n<li>Experience working with wireless software or network protocols.</li>\n</ul>\n\n<p><strong>PREFERRED SKILLS AND EXPERIENCE:</strong></p>\n\n<ul>\n<li>Strong knowledge of wireless communications, signal processing and/or network protocols.</li>\n<li>Knowledge of RF systems and fundamentals: noise figure, link budget, non-linearity.</li>\n<li>Experience writing software for RF/mixed-signal integrated circuits and/or systems, such as phase-locked loops, mixers, data-converters, RF attenuators.</li>\n<li>Familiar with design and implementation of Digital Signal Processing algorithms and techniques: FFT, time and frequency domain equalizer, channel estimation, pilot tracking, digital pre-distortion, doppler compensation.</li>\n<li>Experience with lab equipment such as RF spectrum analyzer, network analyzer, signal generator, oscilloscope.</li>\n<li>Experience in any of physical and/or MAC layers in broadband access technologies such as: Wi-Fi, LTE, 5G or satellite broadband.</li>\n<li>Creative approach to problem solving, exceptional analytical skills and engineering fundamentals.</li>\n<li>Strong skills in debugging, performance optimization, and unit testing.</li>\n<li>Excellent communication skills both written and verbal.</li>\n<li>Ability to work effectively in a dynamic environment with changing needs and requirements.</li>\n</ul>\n\n<p><strong>ADDITIONAL REQUIREMENTS:</strong></p>\n\n<ul>\n<li>Must be willing to work extended hours and weekends as needed.</li>\n</ul>\n\n<p><strong>COMPENSATION AND BENEFITS: &nbsp; </strong>&nbsp;<br>&nbsp; &nbsp;&nbsp;<br>Pay range: &nbsp; &nbsp;<br>Sr. Software Engineer: $160,000.00 - $225,000.00/per year &nbsp; &nbsp;<br>&nbsp; &nbsp;&nbsp;<br>Your actual level and base salary will be determined on a case-by-case basis and may vary based on the following considerations: job-related knowledge and skills, education, and experience.</p>\n\n<p>Base salary is just one part of your total rewards package at SpaceX. You may also be eligible for long-term incentives, in the form of company stock or long-term cash awards, as well as potential discretionary bonuses and the ability to purchase additional stock at a discount through an Employee Stock Purchase Plan. You will also receive access to comprehensive medical, vision, and dental coverage, access to a 401(k) retirement plan, short and long-term disability insurance, life insurance, paid parental leave, and various other discounts and perks. You may also accrue 3 weeks of paid vacation and will be eligible for 10 or more paid holidays per year. Employees in Washington State accrue paid sick time in compliance with state and federal law. Company shuttles are offered to employees for roundtrip travel from select Seattle locations to the SpaceX Redmond office Monday to Friday.</p>\n\n<div><p><strong>ITAR REQUIREMENTS:</strong></p>\n<ul>\n<li>To conform to U.S. Government export regulations, applicant must be a (i) U.S. citizen or national, (ii) U.S. lawful, permanent resident (aka green card holder), (iii) Refugee under 8 U.S.C. § 1157, or (iv) Asylee under 8 U.S.C. § 1158, or be eligible to obtain the required authorizations from the U.S. Department of State. Learn more about the ITAR <a href=\"https://www.pmddtc.state.gov/?id=ddtc_kb_article_page&amp;sys_id=24d528fddbfc930044f9ff621f961987\" rel=\"noopener noreferrer\">here</a>. &nbsp;</li>\n</ul>\n<p>SpaceX is an Equal Opportunity Employer; employment with SpaceX is governed on the basis of merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other legally protected status.</p>\n<p>Applicants wishing to view a copy of SpaceX’s Affirmative Action Plan for veterans and individuals with disabilities, or applicants requiring reasonable accommodation to the application/interview process should reach out to&nbsp;<a href=\"mailto:EEOCompliance@spacex.com\" rel=\"noopener noreferrer\">EEOCompliance@spacex.com</a><em>.&nbsp;</em></p></div>",
+      "name": "Sr. Wireless Software Engineer (Starlink)",
+      "type": "external",
+      "publication_date": "2026-09-30T18:56:08Z",
+      "short_name": "sr-wireless-software-engineer-starlink-770efd",
+      "model_type": "jobs",
+      "id": 21975832,
+      "locations": [
+        {
+          "name": "Palo Alto, CA"
+        },
+        {
+          "name": "Redmond, WA"
+        }
+      ],
+      "categories": [
+        {
+          "name": "Software Engineering"
+        }
+      ],
+      "levels": [
+        {
+          "name": "Senior Level",
+          "short_name": "senior"
+        }
+      ],
+      "tags": [],
+      "refs": {
+        "landing_page": "https://www.themuse.com/jobs/spacex/sr-wireless-software-engineer-starlink-770efd"
       },
       "company": {
         "id": 15000190,
@@ -1015,40 +1052,6 @@
       }
     },
     {
-      "contents": "<div><p>SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of&nbsp;enabling human life on Mars.</p></div>\n\n<p><strong>SOFTWARE ENGINEER (STARLINK/AKOUSTIS)</strong></p>\n\n<p>Akoustis is now operating as a wholly owned subsidiary of SpaceX providing industry leading RF filters using patented XBAW technology to help drive the mission of making human life multi-planetary, while also connecting the world through Starlink. Our work will help further the impact that Starlink is already making to millions of users around the world, while allowing us to broaden that reach dramatically and continue connecting the unconnected here on earth.</p>\n\n<p>Akoustis supports the success of Starlink by supplying world class RF filters manufactured with the highest levels of quality and reliability. At Akoustis, we are committed to manufacturing excellence, with a constant focus on yield improvement, cost control, and production throughput. We are seeking a driven, self-motivated Senior Software Developer to join our semiconductor fabrication team focused on producing high-performance RF filter devices. In this role, you will lead software development projects in process automation in the area of software data systems and reporting.&nbsp; The successful candidate will be responsible for designing and developing software to implement business and engineering processes they design through communication with various stakeholders. Design work to include defining and documenting system operation and interactions with underlying data systems and reporting.&nbsp;&nbsp;</p>\n\n<p><strong>RESPONSIBILITIES:</strong></p>\n\n<ul>\n<li>Develop highly reliable software solutions that are used across Akoustis production and engineering</li>\n<li>Create new applications that improve how Akoustis production operates</li>\n<li>Build prototypes to prove out key design concepts and quantify technical constraints</li>\n<li>Deep dive into users’ problems to find and create efficient solutions</li>\n<li>Integrate production automation software with manufacturing equipment</li>\n<li>Display ownership throughout and following the release process for applications</li>\n<li>Develop and maintain the infrastructure used to execute internal and external operations</li>\n<li>Collaborate with the engineering and operations team to validate software effectiveness</li>\n<li>Collaborate closely to develop highly efficient systems, tools, and dashboards</li>\n<li>Follow and maintain high software standards and software engineering best practices</li>\n</ul>\n\n<p><strong>BASIC QUALIFICATIONS:</strong></p>\n\n<ul>\n<li>Bachelor's degree in computer science, engineering, or a STEM discipline and 1+ years of experience building full-stack software; OR 3+ years of professional experience building full-stack software in lieu of a degree (internship experience is applicable)</li>\n</ul>\n\n<p><strong>PREFERRED SKILLS AND EXPERIENCE:</strong></p>\n\n<ul>\n<li>Software development experience in C#, .NET, Python, Go, Java or similar object-oriented language</li>\n<li>Front-end experience in Blazor, Angular, React, or similar JavaScript framework</li>\n<li>Experience in SECS/GEM semiconductor manufacturing automationDeep understanding of version control, testing, continuous integration, build, deployment &amp; monitoring</li>\n<li>Skill in writing SQL and database schema design, preferably in MariaDB or MySQL</li>\n<li>Experience with Docker application deployment or related technology</li>\n<li>Familiarity with Microsoft Power BI or similar Business Intelligence platforms</li>\n<li>Experience with MES, ERP, or related enterprise systems</li>\n<li>Expertise in designing software systems</li>\n<li>Strong written, verbal, and organizational communication skills</li>\n<li>Ability to lead teams and successful in completing projects on time.</li>\n<li>Ability to collaborate with teams to define specifications and deliverables</li>\n<li>Strong focus and interest in designing, architecting, and implementing excellent, bug-free software</li>\n</ul>\n\n<p><strong>ADDITIONAL REQUIREMENTS:</strong></p>\n\n<ul>\n<li>Willing to work long hours and weekends as needed</li>\n<li>Must be willing to work onsite, remote work not considered</li>\n</ul>\n\n<p><strong>COMPENSATION AND BENEFITS:</strong><br><br>Pay Range:<br>Level 1: $100,000.00 - $160,000.00<br>Level 2: $115,000.00 - $195,000.00</p>\n\n<p>Your actual level and base salary will be determined on a case-by-case basis and may vary based on the following considerations: job-related knowledge and skills, education, and experience.</p>\n\n<p>Base salary is just one part of your total rewards package at SpaceX. You may also be eligible for long-term incentives, in the form of company stock or long-term cash awards, as well as potential discretionary bonuses and the ability to purchase additional stock at a discount through an Employee Stock Purchase Plan. You will also receive access to comprehensive medical, vision, and dental coverage, access to a 401(k) retirement plan, short and long-term disability insurance, life insurance, paid parental leave, and various other discounts and perks. You may also accrue 3 weeks of paid vacation and will be eligible for 10 or more paid holidays per year. Employees accrue paid sick leave pursuant to Company policy which satisfies or exceeds the accrual, carryover, and use requirements of the law.</p>\n\n<div><p><strong>ITAR REQUIREMENTS:</strong></p>\n<ul>\n<li>To conform to U.S. Government export regulations, applicant must be a (i) U.S. citizen or national, (ii) U.S. lawful, permanent resident (aka green card holder), (iii) Refugee under 8 U.S.C. § 1157, or (iv) Asylee under 8 U.S.C. § 1158, or be eligible to obtain the required authorizations from the U.S. Department of State. Learn more about the ITAR <a href=\"https://www.pmddtc.state.gov/?id=ddtc_kb_article_page&amp;sys_id=24d528fddbfc930044f9ff621f961987\" rel=\"noopener noreferrer\">here</a>. &nbsp;</li>\n</ul>\n<p>SpaceX is an Equal Opportunity Employer; employment with SpaceX is governed on the basis of merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other legally protected status.</p>\n<p>Applicants wishing to view a copy of SpaceX’s Affirmative Action Plan for veterans and individuals with disabilities, or applicants requiring reasonable accommodation to the application/interview process should reach out to&nbsp;<a href=\"mailto:EEOCompliance@spacex.com\" rel=\"noopener noreferrer\">EEOCompliance@spacex.com</a><em>.&nbsp;</em></p></div>",
-      "name": "Software Engineer (Starlink/Akoustis)",
-      "type": "external",
-      "publication_date": "2026-09-02T19:46:21Z",
-      "short_name": "software-engineer-starlinkakoustis",
-      "model_type": "jobs",
-      "id": 22049784,
-      "locations": [
-        {
-          "name": "Rochester, MA"
-        }
-      ],
-      "categories": [
-        {
-          "name": "Software Engineering"
-        }
-      ],
-      "levels": [
-        {
-          "name": "Mid Level",
-          "short_name": "mid"
-        }
-      ],
-      "tags": [],
-      "refs": {
-        "landing_page": "https://www.themuse.com/jobs/spacex/software-engineer-starlinkakoustis"
-      },
-      "company": {
-        "id": 15000190,
-        "short_name": "spacex",
-        "name": "SpaceX"
-      }
-    },
-    {
       "contents": "<div><p>SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of&nbsp;enabling human life on Mars.</p></div>\n\n<p><strong>SOFTWARE ENGINEER, HARDWARE TEST &amp; AUTOMATION (STARLINK)</strong></p>\n\n<p>As a Software Engineer on the Starlink Team, you will design software and build systems that test flight components and entire satellites for maximum performance and reliability in extreme environments, with mission success being imperative. Your focus will be on developing the automation and software solutions for the components and platforms that bring the Starlink Satellite to life. Our software engineers are responsible for the tools that enable rapid development and accurate testing of all Starlink hardware systems, with a continual focus on design, reliability, and innovation, from test hardware system designs to our software infrastructure. Our engineers serve as the experts for the flight control devices and mechanisms that drive the critical capabilities on our satellites - from inertial control devices to space lasers and more.</p>\n\n<p>Aerospace experience is not required to be successful here – engineers on this team are curious, and collaborative, love to learn new things, and work effectively in a dynamic environment to deliver high-impact technology on a massive scale.</p>\n\n<p><strong>RESPONSIBILITIES:</strong></p>\n\n<ul>\n<li>Develop modular, reusable test and automation software in Python and similar languages for manufacturing and engineering design verification</li>\n<li>Write automation software to interact with flight hardware, test equipment, instrumentation, and production documentation systems</li>\n<li>Develop software that allows for test execution across multiple environments: hardware-in-the-loop (HITL, HIL) and virtualized hardware simulations</li>\n<li>Develop custom automation solutions to engineering and manufacturing challenges using a combination of embedded electronics and innovative hardware</li>\n<li>Develop algorithms to analyze complex test data to determine if components have met acceptance criteria</li>\n<li>Maintain and troubleshoot existing automation infrastructure and work with partner teams to determine and correct root cause of failures</li>\n<li>Define and implement project plans, manage milestones and hold reviews to assure reliable test systems are delivered to production</li>\n<li>Invent tools that enable more frequent and reliable software deployment, test execution, and data analysis as part of a continuous integration and release system</li>\n</ul>\n\n<p><strong>BASIC QUALIFICATIONS:</strong></p>\n\n<ul>\n<li>Bachelor's degree in computer science, engineering, math, or STEM discipline; OR 2+ years of professional experience in software development in lieu of a degree</li>\n<li>Development experience in Python and/or C, C++</li>\n</ul>\n\n<p><strong>PREFERRED SKILLS AND EXPERIENCE:</strong></p>\n\n<ul>\n<li>Computer science degree</li>\n<li>Extensive knowledge of Linux and Windows operating systems, with a thorough knowledge of computer architecture and networks</li>\n<li>Experience with configuration management and version control software</li>\n<li>Experience with continuous integration and agile development</li>\n<li>Experience automating processes and testing to improve manufacturing yields and reduce production time</li>\n<li>Experience developing application, test, or automation software in an interdisciplinary environment</li>\n<li>Experience with control feedback loop design and implementation</li>\n<li>Experience with numerical analysis techniques and signal processing in multiple domains</li>\n<li>Extensive knowledge with a range of digital and analog interfaces including GPIB, USB, VISA, TCP/IP, VLAN, CAN bus, SPI, I2C, Modbus, analog-to-digital conversion</li>\n<li>Experience troubleshooting interactions between software and hardware such as network devices and lab instrumentation</li>\n<li>Experience with high power electrical systems, electro-mechanical systems and embedded hardware product development</li>\n<li>Experience with gathering and organizing data using tools such as SQL or interacting with REST APIs</li>\n<li>Experience with HTML/CSS for creating web applications and creating dashboards with tools such as grafana</li>\n<li>Strong software design and development skills</li>\n<li>Experience designing fault tolerant, distributed, or real-time systems</li>\n<li>Cross-context test design skills, ranging from simple unit tests through to integrated hardware-in-the-loop regression and exploratory tests</li>\n<li>Experience working with spacecraft, automotive, or other industrial hardware, such as high-powered electrical systems and ground-support equipment</li>\n<li>Ability to work independently or in a team, take initiative, and communicate effectively in a solution-oriented manner</li>\n<li>Solid fundamental knowledge of networks, electronics, RF communications, optics, math, and physics</li>\n<li>Strong skills in troubleshooting, debugging, and performance optimization</li>\n<li>Ability to work effectively in a dynamic environment with changing needs and requirements</li>\n</ul>\n\n<p><strong>ADDITIONAL REQUIREMENTS:</strong></p>\n\n<ul>\n<li>Willing to work extended hours and weekends when needed</li>\n</ul>\n\n<p><strong>COMPENSATION AND BENEFITS:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\n\n<p>Pay range: &nbsp; &nbsp;<br>Software Engineer/Level I: $125,000.00 - $145,000.00/per year &nbsp; &nbsp;<br>Software Engineer/Level II: $145,000.00 - $175,000.00/per year</p>\n\n<p>Your actual level and base salary will be determined on a case-by-case basis and may vary based on the following considerations: job-related knowledge and skills, education, and experience.</p>\n\n<p>Base salary is just one part of your total rewards package at SpaceX. You may also be eligible for long-term incentives, in the form of company stock, stock options, or long-term cash awards, as well as potential discretionary bonuses and the ability to purchase additional stock at a discount through an Employee Stock Purchase Plan. You will also receive access to comprehensive medical, vision, and dental coverage, access to a 401(k) retirement plan, short and long-term disability insurance, life insurance, paid parental leave, and various other discounts and perks. You may also accrue 3 weeks of paid vacation and will be eligible for 10 or more paid holidays per year. Employees in Washington State accrue paid sick time in compliance with state and federal law. Company shuttles are offered to employees for roundtrip travel from select Seattle locations to the SpaceX Redmond office Monday to Friday.</p>\n\n<div><p><strong>ITAR REQUIREMENTS:</strong></p>\n<ul>\n<li>To conform to U.S. Government export regulations, applicant must be a (i) U.S. citizen or national, (ii) U.S. lawful, permanent resident (aka green card holder), (iii) Refugee under 8 U.S.C. § 1157, or (iv) Asylee under 8 U.S.C. § 1158, or be eligible to obtain the required authorizations from the U.S. Department of State. Learn more about the ITAR <a href=\"https://www.pmddtc.state.gov/?id=ddtc_kb_article_page&amp;sys_id=24d528fddbfc930044f9ff621f961987\" rel=\"noopener noreferrer\">here</a>. &nbsp;</li>\n</ul>\n<p>SpaceX is an Equal Opportunity Employer; employment with SpaceX is governed on the basis of merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other legally protected status.</p>\n<p>Applicants wishing to view a copy of SpaceX’s Affirmative Action Plan for veterans and individuals with disabilities, or applicants requiring reasonable accommodation to the application/interview process should reach out to&nbsp;<a href=\"mailto:EEOCompliance@spacex.com\" rel=\"noopener noreferrer\">EEOCompliance@spacex.com</a><em>.&nbsp;</em></p></div>",
       "name": "Software Engineer, Hardware Test & Automation (Starlink)",
       "type": "external",
@@ -1075,6 +1078,40 @@
       "tags": [],
       "refs": {
         "landing_page": "https://www.themuse.com/jobs/spacex/software-engineer-hardware-test-automation-starlink-900846"
+      },
+      "company": {
+        "id": 15000190,
+        "short_name": "spacex",
+        "name": "SpaceX"
+      }
+    },
+    {
+      "contents": "<div><p>SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of&nbsp;enabling human life on Mars.</p></div>\n\n<p><strong>INTEGRATION &amp; TEST ENGINEER (FALCON)</strong></p>\n\n<p><strong>RESPONSIBILITIES:</strong></p>\n\n<ul>\n<li>Process Falcon 9 flight vehicles in the pursuit of rapid and reliable rocket re-use, integration and launch</li>\n<li>Develop and execute procedures for the checkout and integration of new and flight proven rockets and ground support equipment</li>\n<li>Assist with and lead hands-on assembly, integration, and testing of new and flight-proven vehicle assemblies</li>\n<li>Lead critical on-site operations while collaborating with engineering staff from other departments and SpaceX locations to resolve off-nominal test results and ensure flight readiness</li>\n<li>Partner with, and provide direction to highly skilled field technicians on a daily basis</li>\n<li>Design and develop tools and hardware to enable vehicle assembly and conduct vehicle system testing</li>\n<li>Identify high-risk processes and problems during flight hardware processing, and proactively implement improvements to ensure operational excellence</li>\n<li>Lead and facilitate root cause and corrective action investigations to ensure that issues related to product reliability and quality that cause downstream disruption are corrected</li>\n<li>Rapidly develop and refine manufacturing assembly procedures based on lessons learned</li>\n<li>Manage work orders and the driving of non-conformances into actionable items and system improvements</li>\n</ul>\n\n<p><strong>BASIC QUALIFICATIONS:</strong></p>\n\n<ul>\n<li>Bachelor’s degree in an engineering discipline</li>\n<li>1+ years of hands-on experience with mechanical, electrical and/or fluid systems in the design, manufacturing, or implementation phases (class projects and/or internship experience qualifies)</li>\n</ul>\n\n<p><strong>PREFERRED SKILLS AND EXPERIENCE:</strong></p>\n\n<ul>\n<li>Advanced degree in one of the following engineering disciplines: mechatronics, mechanical engineering, aerospace engineering, electrical engineering, or computer engineering</li>\n<li>3+ years of professional experience designing, building, integrating, and testing complex multi-disciplinary systems</li>\n<li>Experience writing test plans and test procedures</li>\n<li>Experience working on projects that involve the integration of electrical, mechanical, and software systems (launch vehicle and/or spacecraft experience is not required)</li>\n<li>Proficient in or hands-on experience with one or more of the following: launch vehicle or spacecraft integration; composite structure design or testing; test operations with gases/fluids; data acquisition setup and field measurements</li>\n<li>Professional experience testing and operating with or around hazardous systems (high pressure, high energy, hazardous gases/fluids, etc.)</li>\n<li>Professional experience working with large assembly moves (e.g. crane operations)</li>\n<li>Flight hardware avionics experience</li>\n<li>Ability to communicate clearly and accurately with a wide range of people</li>\n<li>Ability to work in a fast-paced, autonomously driven, and demanding start-up atmosphere</li>\n<li>Ability to learn, lead others, and help others learn while maintaining productivity</li>\n<li>Advanced degree in electrical engineering, computer engineering, computer science, mechatronics, mechanical engineering, and/or aerospace engineering</li>\n</ul>\n\n<p><strong>ADDITIONAL REQUIREMENTS:</strong></p>\n\n<ul>\n<li>Ability to pass Air Force background check for Vandenberg Space Force Base</li>\n<li>Physical effort including standing, lifting and carrying moderately heavy materials or equipment (15 to 35 lbs.)</li>\n<li>Overall mental fitness with the ability to work in a high-concentration, high-stress environment requiring prolonged mental concentration (under possible extended work hours)</li>\n<li>Ability to be flexible on shifts</li>\n<li>Occasional travel may be required</li>\n</ul>\n\n<p><strong>COMPENSATION AND BENEFITS:</strong><br><br><br/>\nPay Range:<br><br/>\nLevel 1: $100,000.00 - $130,000.00<br>Level 2: $115,000.00 - $160,000.00<br><br><br/>\n<p>Your actual level and base salary will be determined on a case-by-case basis and may vary based on the following considerations: job-related knowledge and skills, education, and experience.</p><br/>\n<p>Base salary is just one part of your total rewards package at SpaceX. You may also be eligible for long-term incentives, in the form of company stock or long-term cash awards, as well as potential discretionary bonuses and the ability to purchase additional stock at a discount through an Employee Stock Purchase Plan. You will also receive access to comprehensive medical, vision, and dental coverage, access to a 401(k) retirement plan, short and long-term disability insurance, life insurance, paid parental leave, and various other discounts and perks. You may also accrue 3 weeks of paid vacation and will be eligible for 10 or more paid holidays per year. Employees accrue paid sick leave pursuant to Company policy which satisfies or exceeds the accrual, carryover, and use requirements of the law.</p><div><p><strong>ITAR REQUIREMENTS:</strong></p><br/>\n<ul><br/>\n<li>To conform to U.S. Government export regulations, applicant must be a (i) U.S. citizen or national, (ii) U.S. lawful, permanent resident (aka green card holder), (iii) Refugee under 8 U.S.C. § 1157, or (iv) Asylee under 8 U.S.C. § 1158, or be eligible to obtain the required authorizations from the U.S. Department of State. Learn more about the ITAR <a href=\"https://www.pmddtc.state.gov/?id=ddtc_kb_article_page&amp;sys_id=24d528fddbfc930044f9ff621f961987\" rel=\"noopener noreferrer\">here</a>. &nbsp;</li><br/>\n</ul><br/>\n<p>SpaceX is an Equal Opportunity Employer; employment with SpaceX is governed on the basis of merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other legally protected status.</p><br/>\n<p>Applicants wishing to view a copy of SpaceX’s Affirmative Action Plan for veterans and individuals with disabilities, or applicants requiring reasonable accommodation to the application/interview process should reach out to&nbsp;<a href=\"mailto:EEOCompliance@spacex.com\" rel=\"noopener noreferrer\">EEOCompliance@spacex.com</a><em>.&nbsp;</em></p></div></p>",
+      "name": "Integration & Test Engineer (Falcon)   ",
+      "type": "external",
+      "publication_date": "2026-09-30T18:55:38Z",
+      "short_name": "integration-test-engineer-falcon-cc878b",
+      "model_type": "jobs",
+      "id": 22121292,
+      "locations": [
+        {
+          "name": "Lompoc, CA"
+        }
+      ],
+      "categories": [
+        {
+          "name": "Software Engineering"
+        }
+      ],
+      "levels": [
+        {
+          "name": "Mid Level",
+          "short_name": "mid"
+        }
+      ],
+      "tags": [],
+      "refs": {
+        "landing_page": "https://www.themuse.com/jobs/spacex/integration-test-engineer-falcon-cc878b"
       },
       "company": {
         "id": 15000190,
@@ -1510,52 +1547,6 @@
       "tags": [],
       "refs": {
         "landing_page": "https://www.themuse.com/jobs/spacex/lead-software-engineer-full-stack-top-secret-clearance"
-      },
-      "company": {
-        "id": 15000190,
-        "short_name": "spacex",
-        "name": "SpaceX"
-      }
-    },
-    {
-      "contents": "<div><p>SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of&nbsp;enabling human life on Mars.</p></div>\n\n<p></p>\n\n<p><strong>IT STORAGE ENGINEER</strong></p>\n\n<p>SpaceX is seeking an experienced storage engineer with deep expertise in enterprise storage platforms. This role is ideal for someone who thrives in performance-critical settings and is eager to build storage infrastructure supporting mission-critical workloads like simulation, telemetry, and test data processing.</p>\n\n<p>The ideal candidate will possess knowledge of both Pure and NetApp storage systems running iSCSI with hands-on keyboard as well as on hardware in an on-premises environment.</p>\n\n<p><strong>RESPONSIBILITIES:</strong></p>\n\n<ul>\n<li>Design, implement, and maintain storage infrastructure across multiple tiers: high-performance, capacity, archive, backup/recovery, and disaster recovery.</li>\n<li>Architect and operate high-throughput, low-latency storage and support exabyte scale file systems (e.g., VAST,) for simulation, telemetry, and high-concurrency workloads.</li>\n<li>Administer storage systems including NetApp, Pure FlashArray/FlashBlade, Vast, and HPE Alletra.</li>\n<li>Monitor and troubleshoot storage performance across the full stack: hardware, transport (RDMA), and protocol layers.</li>\n<li>Troubleshoot complex issues that require an understanding of the interaction of various protocols and operating systems.</li>\n<li>Manage storage access, data permissions, and access controls across different protocols and operating systems.</li>\n<li>Develop automation and tooling for monitoring, capacity utilization and planning, configuration management, and alerting.</li>\n<li>Define and enforce standards for storage deployment, performance tuning, and operational management.</li>\n<li>Collaborate with compute, networking, and application teams to align storage strategies with system architecture and workload requirements.</li>\n<li>Participate in scheduled maintenance, on-call rotation, and occasional physical installation of hardware.</li>\n</ul>\n\n<p><strong>BASIC QUALIFICATIONS:</strong></p>\n\n<ul>\n<li>Bachelor's degree in computer science, computer engineering, or other STEM discipline and 3+ years of professional IT storage engineering experience; OR 5+ years of IT storage engineering experience in lieu of a degree.</li>\n<li>Experience with enterprise storage platforms: NetApp, Pure Storage, Vast, HPE Alletra.</li>\n<li>Strong understanding of storage protocols: NFS, CIFS/SMB, iSCSI, and NVMe over TCP.</li>\n</ul>\n\n<p><strong>PREFERRED SKILLS AND EXPERIENCE:</strong></p>\n\n<ul>\n<li>Experience with client and server hardware/software, monitoring tools, enterprise networking, and virtualization.</li>\n<li>Mid-level experience with DFS administration.</li>\n<li>High level of network knowledge.</li>\n<li>Experience automating infrastructure with Python, PowerShell, or Ansible.</li>\n<li>Strong written and verbal communication skills; able to explain complex designs in clear terms.</li>\n<li>Experience collaborating with virtualization teams as an infrastructure engineer.</li>\n</ul>\n\n<p><strong>ADDITIONAL REQUIREMENTS:</strong></p>\n\n<ul>\n<li>Must be willing to work extended hours and weekends as needed.</li>\n</ul>\n\n<p></p>\n\n<div><p><strong>ITAR REQUIREMENTS:</strong></p>\n<ul>\n<li>To conform to U.S. Government export regulations, applicant must be a (i) U.S. citizen or national, (ii) U.S. lawful, permanent resident (aka green card holder), (iii) Refugee under 8 U.S.C. § 1157, or (iv) Asylee under 8 U.S.C. § 1158, or be eligible to obtain the required authorizations from the U.S. Department of State. Learn more about the ITAR <a href=\"https://www.pmddtc.state.gov/?id=ddtc_kb_article_page&amp;sys_id=24d528fddbfc930044f9ff621f961987\" rel=\"noopener noreferrer\">here</a>. &nbsp;</li>\n</ul>\n<p>SpaceX is an Equal Opportunity Employer; employment with SpaceX is governed on the basis of merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other legally protected status.</p>\n<p>Applicants wishing to view a copy of SpaceX’s Affirmative Action Plan for veterans and individuals with disabilities, or applicants requiring reasonable accommodation to the application/interview process should reach out to&nbsp;<a href=\"mailto:EEOCompliance@spacex.com\" rel=\"noopener noreferrer\">EEOCompliance@spacex.com</a><em>.&nbsp;</em></p></div>",
-      "name": "IT Storage Engineer",
-      "type": "external",
-      "publication_date": "2026-08-11T23:36:43Z",
-      "short_name": "it-storage-engineer-80c639",
-      "model_type": "jobs",
-      "id": 22053197,
-      "locations": [
-        {
-          "name": "Brownsville, TX"
-        },
-        {
-          "name": "El Segundo, CA"
-        },
-        {
-          "name": "Lockhart, TX"
-        },
-        {
-          "name": "Redmond, WA"
-        },
-        {
-          "name": "Rockledge, FL"
-        }
-      ],
-      "categories": [
-        {
-          "name": "Software Engineering"
-        }
-      ],
-      "levels": [
-        {
-          "name": "Senior Level",
-          "short_name": "senior"
-        }
-      ],
-      "tags": [],
-      "refs": {
-        "landing_page": "https://www.themuse.com/jobs/spacex/it-storage-engineer-80c639"
       },
       "company": {
         "id": 15000190,
@@ -2113,83 +2104,6 @@
       }
     },
     {
-      "contents": "<div><p>SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of&nbsp;enabling human life on Mars.</p></div>\n\n<div>\n<p><strong>SR. DSP SYSTEMS ENGINEER (SILICON ENGINEERING)</strong>&nbsp;</p>\n</div>\n\n<div>\n<p>At SpaceX we’re leveraging our experience in building rockets and spacecraft to deploy Starlink, the world’s most advanced broadband internet system. Starlink is the world’s largest satellite constellation and is providing fast, reliable internet to millions of users worldwide. We design, build, test, and operate all parts of the system – thousands of satellites, consumer receivers that allow users to connect within minutes of unboxing, and the software that brings it all together. We’ve only begun to scratch the surface of Starlink’s potential global impact and are looking for best-in-class engineers to help maximize Starlink’s utility for communities and businesses around the globe.&nbsp;</p>\n</div>\n\n<div>\n<p>We are seeking a motivated, proactive, and intellectually curious engineer who will work alongside world-class cross-disciplinary teams (systems, firmware, architecture, design, validation, product engineering, ASIC implementation). In this role, you will be developing cutting-edge next-generation ASICs for deployment in space and ground infrastructures around the globe. These chips are enabling connectivity in places it has previously not been available, affordable or reliable. Your efforts will help deliver cutting-edge solutions that will expand the performance and capabilities of the Starlink network.&nbsp; &nbsp;</p>\n</div>\n\n<p><strong>RESPONSIBILITIES</strong></p>\n\n<ul>\n<li>Drive program-level decisions on sensor firmware, software, and AI-driven architecture for large-scale RF sensing and satellite broadband systems</li>\n<li>Research and develop novel solutions incorporating advanced digital beamforming, massive MIMO, and direct-to-device technology&nbsp;for on-orbit and ground-based applications</li>\n<li>Design, model, and test algorithms for system-level and link-level performance, including floating-point/fixed-point simulations of modem, beamforming, and sensor data processing</li>\n<li>Work in close collaboration with ASIC/FPGA, RF/antenna, and software engineers to design, validate, and bring up silicon-based RF sensing and communication systems</li>\n<li>Generate spacecraft/consumer equipment specifications, requirements, test procedures, and bit-/cycle-accurate vectors; support silicon bring-up, on-orbit demonstrations, and system validation</li>\n<li>Analyze overall system performance (including link budgets, impairments, and multi-access schemes) and implement system test plans under dynamic program needs</li>\n</ul>\n\n<p><strong>BASIC QUALIFICATIONS</strong></p>\n\n<ul>\n<li>Bachelor’s degree in computer science, electrical/computer engineering, physics, math, or other STEM discipline</li>\n<li>5+ years of experience in system-level modeling, digital signal processing, or RF/wireless system design</li>\n</ul>\n\n<p><strong>PREFERRED SKILLS AND EXPERIENCE</strong></p>\n\n<ul>\n<li>Master’s degree in electrical engineering with emphasis in communication systems, digital signal processing, or related fields</li>\n<li>Experience with AI-driven architecture, advanced digital beamforming, massive MIMO, and direct-to-device technologies</li>\n<li>Professional experience working on RF sensors or wireless modems</li>\n<li>Experience modeling RF and channel impairments (multipath, phase noise, group delay, fading, nonlinear distortion) and building system-level simulators</li>\n<li>Expertise in multiple access schemes (TDMA, CDMA, OFDMA), high-data-rate modem design/verification, and wireless standards (LTE, WiFi, etc.)</li>\n<li>Proficiency in MATLAB, C/C++, and/or Python; experience with software-defined radios (e.g., GNU Radio)</li>\n<li>Strong understanding of link budgets, modem algorithms, hardware architectures, ASIC/FPGA development flows, and lab equipment</li>\n<li>Experience with Git, Atlassian tools (JIRA, Confluence, Bitbucket, Bamboo), and cross-functional collaboration</li>\n</ul>\n\n<p><strong>ADDITIONAL REQUIREMENTS</strong></p>\n\n<ul>\n<li>Ability to work extended hours and weekends as needed to support critical project and mission milestones</li>\n</ul>\n\n<p><strong>COMPENSATION AND BENEFITS:</strong><br><br>Pay Range:<br>Level 3: $165,000.00 - $265,000.00<br><br></p>\n\n<p>Your actual level and base salary will be determined on a case-by-case basis and may vary based on the following considerations: job-related knowledge and skills, education, and experience.</p>\n\n<p>Base salary is just one part of your total rewards package at SpaceX. You may also be eligible for long-term incentives, in the form of company stock or long-term cash awards, as well as potential discretionary bonuses and the ability to purchase additional stock at a discount through an Employee Stock Purchase Plan. You will also receive access to comprehensive medical, vision, and dental coverage, access to a 401(k) retirement plan, short and long-term disability insurance, life insurance, paid parental leave, and various other discounts and perks. You may also accrue 3 weeks of paid vacation and will be eligible for 10 or more paid holidays per year. Employees accrue paid sick leave pursuant to Company policy which satisfies or exceeds the accrual, carryover, and use requirements of the law.</p>\n\n<div><p><strong>ITAR REQUIREMENTS:</strong></p>\n<ul>\n<li>To conform to U.S. Government export regulations, applicant must be a (i) U.S. citizen or national, (ii) U.S. lawful, permanent resident (aka green card holder), (iii) Refugee under 8 U.S.C. § 1157, or (iv) Asylee under 8 U.S.C. § 1158, or be eligible to obtain the required authorizations from the U.S. Department of State. Learn more about the ITAR <a href=\"https://www.pmddtc.state.gov/?id=ddtc_kb_article_page&amp;sys_id=24d528fddbfc930044f9ff621f961987\" rel=\"noopener noreferrer\">here</a>. &nbsp;</li>\n</ul>\n<p>SpaceX is an Equal Opportunity Employer; employment with SpaceX is governed on the basis of merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other legally protected status.</p>\n<p>Applicants wishing to view a copy of SpaceX’s Affirmative Action Plan for veterans and individuals with disabilities, or applicants requiring reasonable accommodation to the application/interview process should reach out to&nbsp;<a href=\"mailto:EEOCompliance@spacex.com\" rel=\"noopener noreferrer\">EEOCompliance@spacex.com</a><em>.&nbsp;</em></p></div>",
-      "name": "Sr. DSP Systems Engineer (Silicon Engineering)",
-      "type": "external",
-      "publication_date": "2026-09-02T19:46:33Z",
-      "short_name": "sr-dsp-systems-engineer-silicon-engineering",
-      "model_type": "jobs",
-      "id": 22061777,
-      "locations": [
-        {
-          "name": "Irvine, CA"
-        },
-        {
-          "name": "Palo Alto, CA"
-        }
-      ],
-      "categories": [
-        {
-          "name": "Software Engineering"
-        }
-      ],
-      "levels": [
-        {
-          "name": "Senior Level",
-          "short_name": "senior"
-        }
-      ],
-      "tags": [],
-      "refs": {
-        "landing_page": "https://www.themuse.com/jobs/spacex/sr-dsp-systems-engineer-silicon-engineering"
-      },
-      "company": {
-        "id": 15000190,
-        "short_name": "spacex",
-        "name": "SpaceX"
-      }
-    },
-    {
-      "contents": "<div><h2><strong>About Flexport:&nbsp;</strong></h2>\n<p>At Flexport, we believe global trade can move the human race forward. That’s why it’s our mission to make global commerce so easy there will be more of it. We’re shaping the future of a $10T industry with solutions powered by innovative technology and exceptional people. Today, companies of all sizes—from emerging brands to Fortune 500s—use Flexport technology to move more than $19B of merchandise across 112 countries a year.&nbsp;</p>\n<p>The recent global supply chain crisis has put Flexport center stage as we continue to play a pivotal role in how goods move around the world. We are proud to have the support of the best investors in the game who believe in our mission, solutions and people. Ready to tackle global challenges that impact business, society, and the environment? Come join us.</p></div>\n\n<h2><strong>The Opportunity:&nbsp;</strong></h2>\n\n<p>Flexport IT is looking for a <strong>Senior IT Systems Engineer </strong>to support our SaaS based Collaboration and Endpoint Management platforms. In this role, you will be responsible for the configuration, integration, administration, and support of Google Workspace, Slack, Office365, Confluence, Jira, Okta, Jamf, and Intune. You will play a critical role in ensuring these platforms are secure, scalable, and optimized. The candidate will have broad knowledge across IT as a whole, in-depth hands on working knowledge, and a strong security mindset.&nbsp;</p>\n\n<p>Your expertise will be critical in automating workflows, protecting sensitive systems and data, mitigating security risks, and maintaining compliance. You will work closely with cross-functional teams, lead IT engineering projects, and provide day to day operations support.</p>\n\n<h2><strong>You Will</strong></h2>\n\n<ul>\n<li>Administer and provide escalation support for our SaaS platforms.</li>\n<li>Implement and maintain policies, software deployment, patching, and security compliance for our Mac and Windows endpoints, using Jamf and Intune.&nbsp;</li>\n<li>Own the lifecycle management across our core collaboration and endpoint management platforms.&nbsp;</li>\n<li>Develop automation scripts and workflows to improve administrative efficiency and user experience (e.g., Python, PowerShell, Okta Workflows).</li>\n<li>Monitor system health, performance, and usage; proactively resolve or escalate issues.</li>\n<li>Collaborate with cross-functional teams (Security, Engineering, HR, Legal) to ensure proper alignment and integration of SaaS tools with company infrastructure and processes.</li>\n<li>Perform investigations/discovery across our systems for Legal and HR.&nbsp;</li>\n<li>Assist in vendor management and product evaluations.</li>\n<li>Drive solutions and project work.</li>\n<li>Onboard new applications for single sign-on.</li>\n<li>Develop and maintain technical operating procedures, policies, and engineering roadmaps.</li>\n<li>Work closely with the Security team to ensure the platform is designed and implemented with security best practices.</li>\n<li>Provide Tier 3 IT support.</li>\n</ul>\n\n<h2><strong>You Should Have</strong></h2>\n\n<ul>\n<li>Bachelor's degree in Computer Science or related field (or comparable experience).</li>\n<li>3+ years of experience in supporting SaaS Collaboration tools, Mac and Windows endpoint management.</li>\n<li>Ability to communicate and collaborate effectively across technical and non-technical teams.</li>\n<li>In-depth knowledge of email delivery flow, IT security, and IAM concepts.</li>\n<li>Understanding of RBAC and permissions models across core SaaS applications.</li>\n<li>Scripting and automation experience.</li>\n<li>Strong problem-solving and analytical skills.</li>\n</ul>\n\n<p>#LI-remote</p>\n\n<div><div><div><div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div><span><em>The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position across all US locations. Our salary ranges are determined by role, level, and location. Within the range displayed, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education and / or training. Base salary is just one part of our total rewards package at Flexport, which also includes bonus, equity, and comprehensive benefit offerings such as medical, dental, and flexible time off.&nbsp;</em></span></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div></div><div>California Pay Range</div><div><span>$130,000</span><span>—</span><span>$172,000 USD</span></div></div><div><div>Washington Pay Range</div><div><span>$115,200</span><span>—</span><span>$144,000 USD</span></div></div><div><div>Colorado Pay Range</div><div><span>$105,600</span><span>—</span><span>$132,000 USD</span></div></div><div><div>New York City Pay Range</div><div><span>$115,200</span><span>—</span><span>$144,000 USD</span></div></div><div><div>Illinois Pay Range</div><div><span>$105,600</span><span>—</span><span>$132,000 USD</span></div></div></div>\n\n<div><div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<h4>Commitment to Equal Opportunity</h4>\n<p>At Flexport, our ability to fulfill our mission of making global commerce easy and accessible relies on having a diverse, dedicated and engaged workforce. All qualified applicants will receive consideration for employment regardless of race, color, religion, sex, national origin, age, physical and mental disability, health status, marital and family status, sexual orientation, gender identity and expression, military and veteran status, and any other characteristic protected by applicable law.</p>\n<h4>Global Data Privacy Notice for Job Candidates and Applicants</h4>\n<p>Depending on your location, the General Data Protection Regulation (GDPR) and California Consumer Privacy Act (CCPA) may regulate the way we manage the data of job applicants.&nbsp;By submitting your application, you are agreeing to our use and processing of your data as required. Please see our Privacy Notice available at&nbsp;<a href=\"http://www.flexport.com/privacy\" rel=\"noopener noreferrer\">www.flexport.com/privacy</a>&nbsp;for additional information.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div></div>",
-      "name": "Senior IT Systems Engineer ",
-      "type": "external",
-      "publication_date": "2026-09-29T18:46:17Z",
-      "short_name": "senior-it-systems-engineer-d6d0bd",
-      "model_type": "jobs",
-      "id": 22181184,
-      "locations": [
-        {
-          "name": "Flexible / Remote"
-        },
-        {
-          "name": "Gunnison, CO"
-        },
-        {
-          "name": "San Francisco, CA"
-        }
-      ],
-      "categories": [
-        {
-          "name": "Software Engineering"
-        }
-      ],
-      "levels": [
-        {
-          "name": "Senior Level",
-          "short_name": "senior"
-        }
-      ],
-      "tags": [],
-      "refs": {
-        "landing_page": "https://www.themuse.com/jobs/flexport/senior-it-systems-engineer-d6d0bd"
-      },
-      "company": {
-        "id": 15000188,
-        "short_name": "flexport",
-        "name": "Flexport"
-      }
-    },
-    {
       "contents": "<div><p>SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of&nbsp;enabling human life on Mars.</p></div>\n\n<p><strong> SOFTWARE INFRASTRUCTURE ENGINEER (STARLINK)</strong></p>\n\n<p>At SpaceX we’re leveraging our experience in building rockets and spacecraft to deploy Starlink, the world’s most advanced broadband internet system. Starlink is the world’s largest satellite constellation and is providing fast, reliable internet to 9M+ users worldwide. We design, build, test, and operate all parts of the system – thousands of satellites, consumer receivers that allow users to connect within minutes of unboxing, and the software that brings it all together. We’ve only begun to scratch the surface of Starlink’s potential global impact and are looking for best-in-class engineers to help maximize Starlink’s utility for communities and businesses around the globe.&nbsp;</p>\n\n<p>As an engineer focused on Starlink’s software and network infrastructure, you will design, operate and scale the infrastructure we use to run the world’s largest satellite constellation and manage a network that handles millions of daily users worldwide. These positions cover a variety of areas ranging from Developer Operations, to Site Reliability and managing our Kubernetes environment. You will develop automation to deploy and manage on-premise compute resources, create highly scalable and maintainable software products, and directly collaborate with engineering across the board.</p>\n\n<p><strong>RESPONSIBILITES:</strong></p>\n\n<ul>\n<li>Develop automation to deploy and manage on-premise compute resources</li>\n<li>Deploy and manage core infrastructure such as databases, monitoring and distributed storage</li>\n<li>Closely collaborate with software engineers to create highly scalable, operable and maintainable products</li>\n<li>Engage in and improve the whole lifecycle of services -- from inception and design, through deployment, operation and refinement</li>\n<li>Invent tools and processes that enable fast, accurate, and easy-to-use development and deployment systems</li>\n<li>Provide fast and comprehensive software validation, including virtualized, hardware-in-the-loop, and on-orbit test platforms&nbsp;</li>\n<li>Monitoring and data analysis in support of a continuous integration and release system</li>\n<li>Hands-on integration and troubleshooting across the entire Starlink stack&nbsp;</li>\n<li>Create and manage core infrastructure such as databases and software libraries</li>\n<li>Identify areas for improvement and create innovative solutions that enable high developer velocity</li>\n</ul>\n\n<p><strong>BASIC QUALIFICATIONS:</strong></p>\n\n<ul>\n<li>Bachelor’s degree in computer science, information systems/IT, or an engineering discipline and 1+ years of professional experience in systems administration, site reliability engineering, or DevOps; OR 3+ years of professional experience in systems administration, site reliability engineering, or DevOps in lieu of a degree</li>\n<li>1+ years of professional experience with Linux operating systems</li>\n<li>Experience with Terraform, Ansible, or other infrastructure tools</li>\n<li>Experience with containerization technologies (i.e. Docker, Kubernetes)</li>\n<li>Experience in Bash, Python, and/or other scripting languages</li>\n<li>Development experience in Python, C++ or C</li>\n</ul>\n\n<p><strong>PREFERRED SKILLS AND EXPERIENCE:</strong></p>\n\n<ul>\n<li>1+ years of experience with Python and Python-based development frameworks</li>\n<li>Strong understanding of virtualization and hypervisor technologies</li>\n<li>Knowledge of Linux boot process and systems configuration</li>\n<li>Deep understanding of testing, continuous integration, build, deployment &amp; continuous monitoring</li>\n<li>Strong understanding of relevant technologies, such as:</li>\n<ul>\n<li>Bazel or other build systems</li>\n<li>Linux, Docker, Kubernetes, or similar technologies</li>\n</ul>\n<li>Focus on performance bottlenecks and performance improvement techniques</li>\n<li>Understanding of databases and data modeling</li>\n<li>Experience with automatically managing dozens, hundreds, or thousands of servers (eg: Terraform or Ansible)</li>\n<li>Strong networking knowledge of TCP/IP</li>\n<li>Excellent communications skills with the ability to communicate with customers, peers, management etc. in both formal and informal situations</li>\n</ul>\n\n<p><strong>ADDITIONAL REQUIREMENTS:</strong></p>\n\n<ul>\n<li>Must be willing to work extended hours and weekends as needed</li>\n</ul>\n\n<p><strong>COMPENSATION AND BENEFITS:</strong><br><br>Pay Range:<br>Level 1: $135,000.00 - $160,000.00<br>Level 2: $155,000.00 - $185,000.00<br><br></p>\n\n<p>Your actual level and base salary will be determined on a case-by-case basis and may vary based on the following considerations: job-related knowledge and skills, education, and experience.</p>\n\n<p>Base salary is just one part of your total rewards package at SpaceX. You may also be eligible for long-term incentives, in the form of company stock or long-term cash awards, as well as potential discretionary bonuses and the ability to purchase additional stock at a discount through an Employee Stock Purchase Plan. You will also receive access to comprehensive medical, vision, and dental coverage, access to a 401(k) retirement plan, short and long-term disability insurance, life insurance, paid parental leave, and various other discounts and perks. You may also accrue 3 weeks of paid vacation and will be eligible for 10 or more paid holidays per year. Employees accrue paid sick leave pursuant to Company policy which satisfies or exceeds the accrual, carryover, and use requirements of the law.</p>\n\n<div><p><strong>ITAR REQUIREMENTS:</strong></p>\n<ul>\n<li>To conform to U.S. Government export regulations, applicant must be a (i) U.S. citizen or national, (ii) U.S. lawful, permanent resident (aka green card holder), (iii) Refugee under 8 U.S.C. § 1157, or (iv) Asylee under 8 U.S.C. § 1158, or be eligible to obtain the required authorizations from the U.S. Department of State. Learn more about the ITAR <a href=\"https://www.pmddtc.state.gov/?id=ddtc_kb_article_page&amp;sys_id=24d528fddbfc930044f9ff621f961987\" rel=\"noopener noreferrer\">here</a>. &nbsp;</li>\n</ul>\n<p>SpaceX is an Equal Opportunity Employer; employment with SpaceX is governed on the basis of merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other legally protected status.</p>\n<p>Applicants wishing to view a copy of SpaceX’s Affirmative Action Plan for veterans and individuals with disabilities, or applicants requiring reasonable accommodation to the application/interview process should reach out to&nbsp;<a href=\"mailto:EEOCompliance@spacex.com\" rel=\"noopener noreferrer\">EEOCompliance@spacex.com</a><em>.&nbsp;</em></p></div>",
       "name": "Software Infrastructure Engineer (Starlink)",
       "type": "external",
@@ -2327,46 +2241,6 @@
       "tags": [],
       "refs": {
         "landing_page": "https://www.themuse.com/jobs/spacex/principal-security-software-engineer-starlink-43e175"
-      },
-      "company": {
-        "id": 15000190,
-        "short_name": "spacex",
-        "name": "SpaceX"
-      }
-    },
-    {
-      "contents": "<div><p>SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of&nbsp;enabling human life on Mars.</p></div>\n\n<p><strong>PRINCIPAL DFT ENGINEER (SILICON ENGINEERING)</strong></p>\n\n<p>At SpaceX we’re leveraging our experience in building rockets and spacecraft to deploy Starlink, the world’s most advanced broadband internet system. Starlink is the world’s largest satellite constellation and is providing fast, reliable internet to millions of users worldwide. We design, build, test, and operate all parts of the system – thousands of satellites, consumer receivers that allow users to connect within minutes of unboxing, and the software that brings it all together. We’ve only begun to scratch the surface of Starlink’s potential global impact and are looking for best-in-class engineers to help maximize Starlink’s utility for communities and businesses around the globe.&nbsp;</p>\n\n<p>We are seeking a motivated, proactive, and intellectually curious engineer who will work alongside world-class cross-disciplinary teams (systems, firmware, architecture, design, validation, product engineering and ASIC implementation). In this role, you will be developing next-generation ASICs for deployment in space and ground infrastructures around the globe. These chips are enabling connectivity in places it has previously not been available, affordable or reliable. Your efforts will help deliver cutting-edge solutions that will expand the performance and capabilities of the Starlink network.&nbsp; &nbsp;</p>\n\n<p><strong>RESPONSIBILITIES: </strong></p>\n\n<ul>\n<li>Lead implementation and optimization of DFT architectures, including scan insertion, compression/decompression logic, memory BIST, and logic BIST, leveraging Siemens Tessent tools for RTL and gate netlist DFT implementation</li>\n<li>Own ATPG tools and methodologies, including generating patterns for stuck-at, transition, and path delay fault models, while focusing on pattern compression, diagnosis, and hierarchical test flows. Provide post-silicon testing and validation support</li>\n<li>Responsible for evaluating design readiness for scan insertion through RTL and physical design Scan Design Rule Check (DRC) tools</li>\n<li>Integration and verification of Design for Test (DFT) fabrics and IP within Subsystems</li>\n<li>Run and debug non-timing and SDF annotated gate level simulations</li>\n<li>Develop test scripts, automate processes, and analyze data using programming languages such as Perl, Python, Tcl, or C+</li>\n</ul>\n\n<p><strong>BASIC QUALIFICATIONS:</strong></p>\n\n<ul>\n<li>Bachelor’s degree in electrical engineering, computer engineering or computer science</li>\n<li>10+ years of experience working with ASICs</li>\n<li>10+ years of experience in scan insertion and DFT setup, integration and validation</li>\n</ul>\n\n<p><strong>PREFERRED SKILLS AND EXPERIENCE:</strong></p>\n\n<ul>\n<li>Leadership experience driving SOC DFT execution from concept through tapeout and product deployment</li>\n<li>RTL experience to understand, trace and debug RTL connectivity issues as they pertain to DFT</li>\n<li>Ability to solve complex problems including clock domain crossings and power optimization</li>\n<li>Experience with UPF (Unified Power Format), formal verification, and DRC rule checking experience</li>\n<li>Familiar with advanced silicon process and technology nodes for high speed and low power consumption</li>\n<li>Strong implementation or integration of design blocks using Verilog/SystemVerilog</li>\n<li>Experience working with ATE testers and test teams</li>\n</ul>\n\n<p><strong>ADDITIONAL REQUIREMENTS:</strong></p>\n\n<ul>\n<li>Ability to work extended hours and weekends as needed to meet critical milestones</li>\n</ul>\n\n<div><p><strong>ITAR REQUIREMENTS:</strong></p>\n<ul>\n<li>To conform to U.S. Government export regulations, applicant must be a (i) U.S. citizen or national, (ii) U.S. lawful, permanent resident (aka green card holder), (iii) Refugee under 8 U.S.C. § 1157, or (iv) Asylee under 8 U.S.C. § 1158, or be eligible to obtain the required authorizations from the U.S. Department of State. Learn more about the ITAR <a href=\"https://www.pmddtc.state.gov/?id=ddtc_kb_article_page&amp;sys_id=24d528fddbfc930044f9ff621f961987\" rel=\"noopener noreferrer\">here</a>. &nbsp;</li>\n</ul>\n<p>SpaceX is an Equal Opportunity Employer; employment with SpaceX is governed on the basis of merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other legally protected status.</p>\n<p>Applicants wishing to view a copy of SpaceX’s Affirmative Action Plan for veterans and individuals with disabilities, or applicants requiring reasonable accommodation to the application/interview process should reach out to&nbsp;<a href=\"mailto:EEOCompliance@spacex.com\" rel=\"noopener noreferrer\">EEOCompliance@spacex.com</a><em>.&nbsp;</em></p></div>",
-      "name": "Principal DFT Engineer (Silicon Engineering)",
-      "type": "external",
-      "publication_date": "2026-09-02T19:46:01Z",
-      "short_name": "principal-dft-engineer-silicon-engineering-e58a74",
-      "model_type": "jobs",
-      "id": 22010266,
-      "locations": [
-        {
-          "name": "Austin, TX"
-        },
-        {
-          "name": "Irvine, CA"
-        },
-        {
-          "name": "Palo Alto, CA"
-        }
-      ],
-      "categories": [
-        {
-          "name": "Software Engineering"
-        }
-      ],
-      "levels": [
-        {
-          "name": "Senior Level",
-          "short_name": "senior"
-        }
-      ],
-      "tags": [],
-      "refs": {
-        "landing_page": "https://www.themuse.com/jobs/spacex/principal-dft-engineer-silicon-engineering-e58a74"
       },
       "company": {
         "id": 15000190,
@@ -2571,49 +2445,6 @@
       "tags": [],
       "refs": {
         "landing_page": "https://www.themuse.com/jobs/spacex/sourcing-manager-ground-infrastructure-starlink-8e73c9"
-      },
-      "company": {
-        "id": 15000190,
-        "short_name": "spacex",
-        "name": "SpaceX"
-      }
-    },
-    {
-      "contents": "<div><p>SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of&nbsp;enabling human life on Mars.</p></div>\n\n<p><strong>SR. NETWORK ENGINEER, AI INFRASTRUCTURE (STARSHIELD)&nbsp;</strong></p>\n\n<p>Starshield leverages SpaceX’s Starlink technology and launch capability to support national security efforts. While Starlink is designed for consumer and commercial use, Starshield is designed for government use, with an initial focus on earth observation, communications, and hosted payloads. The Starshield team is building highly reliable in-space mesh networks, designing secure systems to guarantee access to space, designing next-gen communication and sensing software, and more.</p>\n\n<p>As a Network Engineer you will drive the operation, build and deployment of the Starshield data center network, which supports critical national security missions. You and your teammates will own the network design and be responsible for proposing and implementing continual improvements to add more capabilities and customers. You will also be responsible for monitoring and improving network security, improving network performance and reliability, and optimizing network deployments.</p>\n\n<p><strong>RESPONSIBILITIES:&nbsp;</strong></p>\n\n<ul>\n<li>Manage network infrastructure and deployments to Top Secret data centers</li>\n<li>Design, validate, and productize high-speed copper and optical connectivity solutions for AI clusters (100k+ GPU scale)</li>\n<li>Collaborate with ML training teams to translate workload communication patterns into concrete interconnect topology and optical reconfigurability requirements.</li>\n<li>Contribute to various tools for rapid deployments (ZTP/custom provisioning tools)</li>\n<li>Improve network performance and reliability based upon system performance metrics, including capacity planning, failure detection and remediation</li>\n<li>Assist in capacity augmentation and network optimization deployments</li>\n<li>Lead network integration and troubleshooting efforts</li>\n<li>Collaborate with hardware, software, and network engineers to improve the Starshield network design</li>\n<li>Assist in updating system configuration and firmware</li>\n<li>Build automation for network devices, operational and deployment tools</li>\n<li>Mentor and train junior network engineers</li>\n<li>As a senior engineer you must lead the team to technical excellence – your decisions guide the team</li>\n</ul>\n\n<p><strong>BASIC QUALIFICATIONS:</strong></p>\n\n<ul>\n<li>Bachelor’s degree in a technical or engineering discipline AND 5+ years of professional networking experience deploying enterprise network solutions or cloud and web-scale networks; OR 7+ years of professional networking experience deploying enterprise network solutions or cloud and web-scale networks in lieu of a degree</li>\n<li>5+ years of networking experience deploying enterprise network solutions and/or cloud and GPU networks (internship/co-op experience qualifies)</li>\n<li>Layer-1 experience (e.g., transport, DWDM, optical fiber, circuit troubleshooting, activations, etc.)</li>\n<li>Hands-on experience with the deployment of networking hardware (routers, modems, switch, firewalls, etc..)</li>\n</ul>\n\n<p><strong>PREFERRED SKILLS AND EXPERIENCE:</strong></p>\n\n<ul>\n<li>Master’s degree in a technical or engineering discipline&nbsp;</li>\n<li>Experience with physical troubleshooting of fiber&nbsp;</li>\n<li>Deep understanding of&nbsp;datacenter&nbsp;networks including but not limited to:&nbsp;&nbsp;\n<ul>\n<li>Connectivity (Ethernet, IPv4, IPv6 and MPLS)&nbsp;</li>\n<li>Routing (BGP, OSPF,&nbsp;VXLAN)&nbsp;</li>\n<li>Switching and routing&nbsp;</li>\n<li>InfiniBand/NVLink&nbsp;</li>\n<li>NVIDIA&nbsp;GPU deployment stacks (Blackwell/Rubin)&nbsp;</li>\n</ul>\n</li>\n<li>Experience implementing network security functions&nbsp;</li>\n<li>Cisco, Juniper, Arista or other industry certification&nbsp;</li>\n<li>Ability to work independently and in a team, take initiative, and communicate effectively&nbsp;</li>\n<li>Ability to obtain and maintain a Top Secret or Top Secret SCI clearance&nbsp;</li>\n</ul>\n\n<p><strong>ADDITIONAL REQUIREMENTS:</strong></p>\n\n<ul>\n<li>This position requires successfully obtaining and maintaining a Top Secret Security Clearance as a condition of employment. While the clearance may not be immediately necessary upon hire, we encourage you to initiate the application process promptly upon accepting this offer. Your ability to secure the necessary clearance is essential for fulfilling key responsibilities of the role. Should you be unable to obtain it, SpaceX reserves the right to modify or terminate your employment to align with operational needs.</li>\n<li>Must be willing to travel domestically and globally in the future when needed&nbsp;</li>\n<li>Must be available for on-call rotations&nbsp;</li>\n<li>Must be willing to work extended hours and weekends as needed&nbsp;</li>\n</ul>\n\n<p><strong>COMPENSATION AND BENEFITS:</strong><br><br>Pay Range:<br>Level 3: $165,000.00 - $270,000.00<br><br></p>\n\n<p>Your actual level and base salary will be determined on a case-by-case basis and may vary based on the following considerations: job-related knowledge and skills, education, and experience.</p>\n\n<p>Base salary is just one part of your total rewards package at SpaceX. You may also be eligible for long-term incentives, in the form of company stock or long-term cash awards, as well as potential discretionary bonuses and the ability to purchase additional stock at a discount through an Employee Stock Purchase Plan. You will also receive access to comprehensive medical, vision, and dental coverage, access to a 401(k) retirement plan, short and long-term disability insurance, life insurance, paid parental leave, and various other discounts and perks. You may also accrue 3 weeks of paid vacation and will be eligible for 10 or more paid holidays per year. Employees accrue paid sick leave pursuant to Company policy which satisfies or exceeds the accrual, carryover, and use requirements of the law.</p>\n\n<div><p><strong>ITAR REQUIREMENTS:</strong></p>\n<ul>\n<li>To conform to U.S. Government export regulations, applicant must be a (i) U.S. citizen or national, (ii) U.S. lawful, permanent resident (aka green card holder), (iii) Refugee under 8 U.S.C. § 1157, or (iv) Asylee under 8 U.S.C. § 1158, or be eligible to obtain the required authorizations from the U.S. Department of State. Learn more about the ITAR <a href=\"https://www.pmddtc.state.gov/?id=ddtc_kb_article_page&amp;sys_id=24d528fddbfc930044f9ff621f961987\" rel=\"noopener noreferrer\">here</a>. &nbsp;</li>\n</ul>\n<p>SpaceX is an Equal Opportunity Employer; employment with SpaceX is governed on the basis of merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other legally protected status.</p>\n<p>Applicants wishing to view a copy of SpaceX’s Affirmative Action Plan for veterans and individuals with disabilities, or applicants requiring reasonable accommodation to the application/interview process should reach out to&nbsp;<a href=\"mailto:EEOCompliance@spacex.com\" rel=\"noopener noreferrer\">EEOCompliance@spacex.com</a><em>.&nbsp;</em></p></div>",
-      "name": "Sr. Network Engineer, AI Infrastructure (Starshield)",
-      "type": "external",
-      "publication_date": "2026-09-22T18:55:47Z",
-      "short_name": "sr-network-engineer-ai-infrastructure-starshield-a2a278",
-      "model_type": "jobs",
-      "id": 22163723,
-      "locations": [
-        {
-          "name": "El Segundo, CA"
-        },
-        {
-          "name": "Palo Alto, CA"
-        },
-        {
-          "name": "Redmond, WA"
-        },
-        {
-          "name": "Washington, DC"
-        }
-      ],
-      "categories": [
-        {
-          "name": "Software Engineering"
-        }
-      ],
-      "levels": [
-        {
-          "name": "Senior Level",
-          "short_name": "senior"
-        }
-      ],
-      "tags": [],
-      "refs": {
-        "landing_page": "https://www.themuse.com/jobs/spacex/sr-network-engineer-ai-infrastructure-starshield-a2a278"
       },
       "company": {
         "id": 15000190,
@@ -2973,40 +2804,6 @@
       "tags": [],
       "refs": {
         "landing_page": "https://www.themuse.com/jobs/spacex/baw-filter-design-engineer-starlinkakoustis-eb21ac"
-      },
-      "company": {
-        "id": 15000190,
-        "short_name": "spacex",
-        "name": "SpaceX"
-      }
-    },
-    {
-      "contents": "<div><p>SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of&nbsp;enabling human life on Mars.</p></div>\n\n<p><strong>SIGNAL INTEGRITY ENGINEER - SERDES, SATELLITES (STARLINK)</strong></p>\n\n<p>SpaceX is leveraging its experience in building rockets and spacecraft to deploy Starlink, the world’s most advanced broadband internet system. Starlink is the world’s largest satellite constellation and is providing fast, reliable internet to millions of users worldwide. We design, build, test, and operate all parts of the system – thousands of satellites, consumer receivers that allow users to connect within minutes of unboxing, and the software that brings it all together. We’ve only begun to scratch the surface of Starlink’s potential global impact. As we continue to upgrade and expand the constellation, we’re looking for best-in-class engineers to join the team.&nbsp;</p>\n\n<p>As a Signal Integrity Engineer on Starlink’s Payload Engineering team, you’ll have SI ownership throughout the entire life-cycle of the portfolio of hardware that enables this connectivity, and sits at the intersection of electrical, mechanical, thermal analysis, software, and antenna/RF engineering. Early in any given product’s design cycle, your work will include everything from IP evaluation in the silicon architecture stage, package performance evaluation, stack-up material selection and characterization, channel architecture, and PCB layout oversight. Once hardware is in hand, you will drive troubleshooting, characterization, qualification, and general debug across all phases of the product’s life.&nbsp;&nbsp;</p>\n\n<p>You will help define the design, analysis, and verification processes and tools that the Starlink team uses when developing hardware. You will have wide latitude to determine how best to tackle these problems and be expected to spread the associated knowledge and techniques to engineers across the Starlink program.&nbsp;</p>\n\n<p><strong>RESPONSIBILITIES</strong>:&nbsp;</p>\n\n<ul>\n<li>Specify, design, simulate, verify, qualify, define production screens for, and generally troubleshoot SI aspects of advanced satellite hardware, such as:\n<ul>\n<li>Wireline and electro-optical communication systems with cutting edge (e.g. 10 to 112+ Gbps) SERDES, DSPs, retimers, and optoelectronics</li>\n<li>High-speed and high-bandwidth memory interfaces (DDR4, LPDDR5, GPDDR6, QSPI NOR, eMMC, etc.)</li>\n</ul>\n</li>\n<li>Work alongside RF engineers, antenna engineers, ASIC engineers, packaging engineers, mechanical engineers, thermal engineers, software engineers, supply chain, and production engineers (among others) to architect new products which will employ novel channels, interfaces, and power delivery strategies</li>\n<li>Derive top level specifications for PCB materials and channel subcomponents</li>\n<li>Design and optimize transition structures for the entire channel from die bump to die bump</li>\n<li>Root cause and fix issues found in PCB manufacturing, PCBA test, or satellite integration</li>\n<li>Define best practices, simulation workflows, test methodologies, signoff criteria, and lab equipment needs for all SI needs on Starlink satellite payloads</li>\n</ul>\n\n<p><strong>BASIC QUALIFICATIONS:</strong>&nbsp;</p>\n\n<ul>\n<li>Bachelor’s degree in electrical engineering, computer engineering, or physics</li>\n<li>1+ years of industry experience designing circuits, electronic products, or hardware (internships, co-ops, and research/lab work can apply)</li>\n<li>1+ years of experience using one of the 3D EM simulation tools and high-speed digital channel simulators (CST, HFSS, ADS etc.)</li>\n<li>1+ years of research or industry experience with high-speed digital design&nbsp;</li>\n</ul>\n\n<p><strong>PREFERRED SKILLS AND EXPERIENCE:&nbsp;</strong></p>\n\n<ul>\n<li>Master’s degree or PhD in electrical engineering, computer engineering with emphasis in electromagnetic theory, transmission line theory, or wireline transceivers</li>\n<li>3+ years of electronic product experience designing hardware from concept through production; strong emphasis on full life-cycle development of new hardware products and not small incremental updates to legacy hardware</li>\n<li>3+ years of experience architecting, implementing, and debugging cutting edge DSP based SERDES products (i.e. 56Gbps, 112Gbps, 224Gbps) working across package and PCB</li>\n<li>3+ years of experience specifying, analyzing, debugging, and working with high speed, high bandwidth memory interfaces</li>\n<li>Thorough understanding of wireline transceiver concepts, architectures, and circuits</li>\n<li>Strong understanding of computers and programming languages (Python, C/C++)</li>\n<li>Demonstrated ability to work in a highly cross-functional role</li>\n<li>Experience with low loss laminates, high volume PCB manufacturing, and high-speed connectors</li>\n<li>Experience debugging and resolving EMI/EMC de-sense problems</li>\n<li>Passion for working in dynamic cross-functional role to optimize package, PCB, ASIC, mixed signal circuit to deliver best in class products</li>\n</ul>\n\n<p><strong>ADDITIONAL REQUIREMENTS:&nbsp;</strong></p>\n\n<ul>\n<li>Ability to work extended hours or weekends as needed for mission critical deadlines</li>\n<li>Some travel may occasionally be required</li>\n</ul>\n\n<p><strong>COMPENSATION AND BENEFITS:</strong><br><br><br/>\nPay Range:<br><br/>\nLevel 1: $115,000.00 - $155,000.00<br>Level 2: $130,000.00 - $185,000.00<br><br><br/>\n<p>Your actual level and base salary will be determined on a case-by-case basis and may vary based on the following considerations: job-related knowledge and skills, education, and experience.</p><br/>\n<p>Base salary is just one part of your total rewards package at SpaceX. You may also be eligible for long-term incentives, in the form of company stock or long-term cash awards, as well as potential discretionary bonuses and the ability to purchase additional stock at a discount through an Employee Stock Purchase Plan. You will also receive access to comprehensive medical, vision, and dental coverage, access to a 401(k) retirement plan, short and long-term disability insurance, life insurance, paid parental leave, and various other discounts and perks. You may also accrue 3 weeks of paid vacation and will be eligible for 10 or more paid holidays per year. Employees accrue paid sick leave pursuant to Company policy which satisfies or exceeds the accrual, carryover, and use requirements of the law.</p><div><p><strong>ITAR REQUIREMENTS:</strong></p><br/>\n<ul><br/>\n<li>To conform to U.S. Government export regulations, applicant must be a (i) U.S. citizen or national, (ii) U.S. lawful, permanent resident (aka green card holder), (iii) Refugee under 8 U.S.C. § 1157, or (iv) Asylee under 8 U.S.C. § 1158, or be eligible to obtain the required authorizations from the U.S. Department of State. Learn more about the ITAR <a href=\"https://www.pmddtc.state.gov/?id=ddtc_kb_article_page&amp;sys_id=24d528fddbfc930044f9ff621f961987\" rel=\"noopener noreferrer\">here</a>. &nbsp;</li><br/>\n</ul><br/>\n<p>SpaceX is an Equal Opportunity Employer; employment with SpaceX is governed on the basis of merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other legally protected status.</p><br/>\n<p>Applicants wishing to view a copy of SpaceX’s Affirmative Action Plan for veterans and individuals with disabilities, or applicants requiring reasonable accommodation to the application/interview process should reach out to&nbsp;<a href=\"mailto:EEOCompliance@spacex.com\" rel=\"noopener noreferrer\">EEOCompliance@spacex.com</a><em>.&nbsp;</em></p></div></p>",
-      "name": "Signal Integrity Engineer - Serdes, Satellites (Starlink)",
-      "type": "external",
-      "publication_date": "2026-09-02T19:46:17Z",
-      "short_name": "signal-integrity-engineer-serdes-satellites-starlink",
-      "model_type": "jobs",
-      "id": 22053985,
-      "locations": [
-        {
-          "name": "Palo Alto, CA"
-        }
-      ],
-      "categories": [
-        {
-          "name": "Software Engineering"
-        }
-      ],
-      "levels": [
-        {
-          "name": "Mid Level",
-          "short_name": "mid"
-        }
-      ],
-      "tags": [],
-      "refs": {
-        "landing_page": "https://www.themuse.com/jobs/spacex/signal-integrity-engineer-serdes-satellites-starlink"
       },
       "company": {
         "id": 15000190,
@@ -3542,46 +3339,6 @@
       }
     },
     {
-      "contents": "<div><p>SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of&nbsp;enabling human life on Mars.</p></div>\n\n<p><strong>SR. ASIC DFT ENGINEER (SILICON ENGINEERING)</strong></p>\n\n<p>At SpaceX we’re leveraging our experience in building rockets and spacecraft to deploy Starlink, the world’s most advanced broadband internet system. Starlink is the world’s largest satellite constellation and is providing fast, reliable internet to millions of users worldwide. We design, build, test, and operate all parts of the system – thousands of satellites, consumer receivers that allow users to connect within minutes of unboxing, and the software that brings it all together. We’ve only begun to scratch the surface of Starlink’s potential global impact and are looking for best-in-class engineers to help maximize Starlink’s utility for communities and businesses around the globe.&nbsp;</p>\n\n<p>We are seeking a motivated, proactive, and intellectually curious engineer who will work alongside world-class cross-disciplinary teams (systems, firmware, architecture, design, validation, product engineering and ASIC implementation). In this role, you will be developing next-generation ASICs for deployment in space and ground infrastructures around the globe. These chips are enabling connectivity in places it has previously not been available, affordable or reliable. Your efforts will help deliver cutting-edge solutions that will expand the performance and capabilities of the Starlink network.&nbsp; &nbsp;</p>\n\n<p><strong>RESPONSIBILITIES: </strong></p>\n\n<ul>\n<li>Implement and optimize DFT architectures, including scan insertion, compression/decompression logic, memory BIST, and logic BIST, leveraging Siemens Tessent tools</li>\n<li>Integration and verification of Design for Test (DFT) IPs and fabrics within Subsystems</li>\n<li>Set up and run Automatic Test Pattern Generation (ATPG) tools and methodologies, including generating patterns for stuck-at, transition, and path delay fault models, while focusing on pattern compression, diagnosis, and hierarchical test flows.</li>\n<li> Run and debug non-timing and SDF annotated gate-level simulations</li>\n<li>Create and validate DFT patterns for post-silicon bringup and also help with ATE debug through all cycles of silicon characterization</li>\n<li>Develop test scripts, automate processes, and analyze data using programming languages such as Perl, Python, Tcl, or C++</li>\n</ul>\n\n<p><strong>BASIC QUALIFICATIONS:</strong></p>\n\n<ul>\n<li>Bachelor’s degree in electrical engineering, computer engineering, or physics</li>\n<li>5+ years of experience in semiconductor Design For Test (DFT) engineering, post-silicon validation, and/or production testing</li>\n</ul>\n\n<p><strong>PREFERRED SKILLS AND EXPERIENCE:</strong></p>\n\n<ul>\n<li>Master’s or PhD in electrical engineering, computer engineering, physics, or related engineering field</li>\n<li>Extensive experience in post-silicon bringup, including silicon debug, failure analysis, and yield optimization on complex SoCs or ASICs</li>\n<li>Hands-on experience with Automated Test Equipment (ATE) platforms (e.g., Teradyne, Advantest) for high-volume manufacturing test development and debug</li>\n<li>Experience collaborating with cross-functional teams (e.g., design, verification, and manufacturing) to ensure DFT features meet production requirements, utilizing Siemens Tessent workflows</li>\n<li>Knowledge of industry standards for testability (e.g., IEEE 1500, 1687) and experience with low-power DFT techniques using Siemens Tessent</li>\n<li>Experience with In-System Test (IST), boundary scan (IEEE 1149.1), functional testing in embedded systems, or board-level diagnostics, preferably using Siemens Tessent tools</li>\n<li>Hands-on experience with Tessent Streaming Scan Network</li>\n<li>Experience with cell-aware fault models in ATPG</li>\n<li>Excellent problem-solving skills, with the ability to analyze complex test failures and implement corrective actions</li>\n<li>Strong communication skills for documenting test strategies, reporting results, and presenting to stakeholders</li>\n<li>Ability to work in a fast-paced environment, handling multiple projects and adapting to evolving technology nodes (e.g., 7nm and below)</li>\n</ul>\n\n<p><strong>ADDITIONAL REQUIREMENTS: &nbsp; &nbsp;</strong></p>\n\n<ul>\n<li>Ability to work extended hours and weekends as needed to meet critical milestones</li>\n</ul>\n\n<p><strong>COMPENSATION AND BENEFITS:</strong><br><br>Pay Range:<br>DFT Engineer/Senior: $175,000.00 - $280,000.00/per year &nbsp; &nbsp;</p>\n\n<p>Your actual level and base salary will be determined on a case-by-case basis and may vary based on the following considerations: job-related knowledge and skills, education, and experience.</p>\n\n<p>Base salary is just one part of your total rewards package at SpaceX. You may also be eligible for long-term incentives, in the form of company stock or long-term cash awards, as well as potential discretionary bonuses and the ability to purchase additional stock at a discount through an Employee Stock Purchase Plan. You will also receive access to comprehensive medical, vision, and dental coverage, access to a 401(k) retirement plan, short and long-term disability insurance, life insurance, paid parental leave, and various other discounts and perks. You may also accrue 3 weeks of paid vacation and will be eligible for 10 or more paid holidays per year. Employees accrue paid sick leave pursuant to Company policy which satisfies or exceeds the accrual, carryover, and use requirements of the law.</p>\n\n<div><p><strong>ITAR REQUIREMENTS:</strong></p>\n<ul>\n<li>To conform to U.S. Government export regulations, applicant must be a (i) U.S. citizen or national, (ii) U.S. lawful, permanent resident (aka green card holder), (iii) Refugee under 8 U.S.C. § 1157, or (iv) Asylee under 8 U.S.C. § 1158, or be eligible to obtain the required authorizations from the U.S. Department of State. Learn more about the ITAR <a href=\"https://www.pmddtc.state.gov/?id=ddtc_kb_article_page&amp;sys_id=24d528fddbfc930044f9ff621f961987\" rel=\"noopener noreferrer\">here</a>. &nbsp;</li>\n</ul>\n<p>SpaceX is an Equal Opportunity Employer; employment with SpaceX is governed on the basis of merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other legally protected status.</p>\n<p>Applicants wishing to view a copy of SpaceX’s Affirmative Action Plan for veterans and individuals with disabilities, or applicants requiring reasonable accommodation to the application/interview process should reach out to&nbsp;<a href=\"mailto:EEOCompliance@spacex.com\" rel=\"noopener noreferrer\">EEOCompliance@spacex.com</a><em>.&nbsp;</em></p></div>",
-      "name": "Sr. ASIC DFT Engineer (Silicon)",
-      "type": "external",
-      "publication_date": "2026-09-02T19:46:30Z",
-      "short_name": "sr-asic-dft-engineer-silicon-4af91c",
-      "model_type": "jobs",
-      "id": 21789643,
-      "locations": [
-        {
-          "name": "Austin, TX"
-        },
-        {
-          "name": "Irvine, CA"
-        },
-        {
-          "name": "Palo Alto, CA"
-        }
-      ],
-      "categories": [
-        {
-          "name": "Software Engineering"
-        }
-      ],
-      "levels": [
-        {
-          "name": "Senior Level",
-          "short_name": "senior"
-        }
-      ],
-      "tags": [],
-      "refs": {
-        "landing_page": "https://www.themuse.com/jobs/spacex/sr-asic-dft-engineer-silicon-4af91c"
-      },
-      "company": {
-        "id": 15000190,
-        "short_name": "spacex",
-        "name": "SpaceX"
-      }
-    },
-    {
       "contents": "<p>The Senior Cybersecurity Engineer will be responsible for the development of a platform that will continuously monitor and report on the state of Cox Automotive's critical cyber controls. The scope of this role is Cox Automotive wide and includes both enterprise and product technologies as well as both domestic and international business units.<br><br>This role will directly report to the Director of Continuous Control Monitoring.<br><br><strong> Responsibilities: </strong><br><br><ul> <li> Design and build consumable and audience appropriate reporting of the state of critical cyber controls for consumption by engineering teams, engineering team managers and directors, cybersecurity leaders, and senior technology and business leaders. </li> <li> Build and maintain data model that supports overall critical cybersecurity objectives and priorities. </li> <li> Participate in requirements, backlog management and design discussions. </li> <li> Construct complex database queries and create engaging dashboards and visualizations that support data aggregation and reporting on actionable insights. </li> <li> Partner with stakeholders to understand the problem at hand, help generate hypothesis and problem formulation and the selection of an appropriate methodology to solve the problem. </li> <li> Support user acceptance testing to ensure high-level data availability and data quality. </li> <li> Develop a training program to ensure ongoing education of continuous control monitoring resources. </li> </ul><br><br><strong> Minimum Qualifications: </strong><br><br><ul> <li> Bachelor's degree in a related discipline and 4 years' experience in a related field. The right candidate could also have a different combination, such as a master's degree and 2 years' experience; a Ph.D. and 1 years' experience in a related field; or 8 years' experience in a related field. </li> <li> Excellent interpersonal, leadership, presentation, and collaborative skills to work effectively with teams throughout organization. </li> <li> Strong ability to interpret data and develop actionable data-based visualizations to \"tell the story\". </li> <li> Strong knowledge and experience in data analysis and data visualization. </li> <li> Strong programming skills and ability to utilize a variety of data, analytic software, languages and tools (SQL, Python, Power BI, GitHub, Snowflake, etc.). </li> <li> Demonstrated track record of both project and operational delivery. </li> </ul><br><br><strong> Preferred Qualifications: </strong><br><br><ul> <li> Demonstrated knowledge and expertise in governance, risk management, and cybersecurity frameworks and standards (e.g., NIST, ISO, CIS, OWASP). </li> <li> At least one relevant industry certification - CISSP, SANS GIAC, C|EH, CISM, CRISC, CISA. </li> </ul><br><br>USD 99,000.00 - 165,000.00 per year<br><br><strong>Compensation:</strong><br><br>Compensation includes a base salary of $99,000.00 - $165,000.00. The base salary may vary within the anticipated base pay range based on factors such as the ultimate location of the position and the selected candidate's knowledge, skills, and abilities. Position may be eligible for additional compensation that may include an incentive program.<br><br><strong>Benefits:</strong><br><br>The Company offers eligible employees the flexibility to take as much vacation with pay as they deem consistent with their duties, the company's needs, and its obligations; seven paid holidays throughout the calendar year; and up to 160 hours of paid wellness annually for their own wellness or that of family members. Employees are also eligible for additional paid time off in the form of bereavement leave, time off to vote, jury duty leave, volunteer time off, military leave, and parental leave.<br><br><b>About Cox Automotive</b><br><br>At Cox Automotive, people of every background are driven by their passion for mobility, innovation and community. We transform the way the world buys, sells, owns and uses cars, accelerating the industry with global powerhouse brands like Autotrader, Kelley Blue Book, Manheim and more. What's more, we do it all with an emphasis on employee growth and happiness. Drive your future forward and join Cox Automotive today!<br><br><b>About Cox</b><br><br>Cox empowers employees to build a better future and has been doing so for over 120 years. With exciting investments and innovations across transportation, communications, cleantech and healthcare, our family of businesses - which includes Cox Automotive and Cox Communications - is forging a better future for us all. Ready to make your mark? Join us today!<br><br>Benefits of working at Cox may include health care insurance (medical, dental, vision), retirement planning (401(k)), and paid days off (sick leave, parental leave, flexible vacation/wellness days, and/or PTO). For more details on what benefits you may be offered, visit our benefits page .<br><br>Cox is an Equal Employment Opportunity employer - All qualified applicants/employees will receive consideration for employment without regard to that individual's age, race, color, religion or creed, national origin or ancestry, sex (including pregnancy), sexual orientation, gender, gender identity, physical or mental disability, veteran status, genetic information, ethnicity, citizenship, or any other characteristic protected by law. Cox provides reasonable accommodations when requested by a qualified applicant or employee with disability, unless such accommodations would cause an undue hardship.<br><br>Statement to ALL Third-Party Agencies and Similar Organizations: Cox accepts resumes only from agencies with which we formally engage their services. Please do not forward resumes to our applicant tracking system, Cox employees, Cox hiring manager, or send to any Cox facility. Cox is not responsible for any fees or charges associated with unsolicited resumes.</p>",
       "name": "Senior Cybersecurity Engineer - Continuous Control Monitoring",
       "type": "external",
@@ -3655,6 +3412,231 @@
         "id": 12145,
         "short_name": "bankofamerica",
         "name": "Bank of America"
+      }
+    },
+    {
+      "contents": "<div><p>SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of&nbsp;enabling human life on Mars.</p></div>\n\n<p><strong><span>SR. SOFTWARE ENGINEER (PLATFORM TEAM)</span></strong><span>&nbsp;</span></p>\n\n<p><span>The Platform Team builds the foundational tooling and security infrastructure that empowers every team at SpaceX to harness AI effectively. This team creates secure, scalable gateways and proxy systems that allow engineers and operators across the company to write code faster, perform advanced data analysis, connect AI to their daily tools and problems, and turn ideas into deployed solutions with confidence. By onboarding new frontier models, expanding compute capacity, optimizing proxy efficiency for logging and control, and building shared prompts, skills, and infrastructure, this team unlocks reliable, high-impact AI capabilities across the entire organization.</span><span>&nbsp;</span></p>\n\n<p><span>As a </span><span>Sr. Software Engineer for SpaceX's AI platform</span><span>, you will be a key technical leader and entrepreneurial builder focused on the leanest and most effective applied use of AI at SpaceX. You will design and scale platforms that convert engineering know-how into tested software, automation, and reliable data stores at company scale while creating risk-mitigation tools such as intelligent code review and PR assistants. Current systems are built with Docker containers acting as secure gateways and proxies that integrate with any cloud compute provider and multiple frontier model providers. Your work will directly accelerate SpaceX production and development by enabling every team to move faster with trustworthy AI.</span><span>&nbsp;</span></p>\n\n<p><strong><span>RESPONSIBILITIES:</span></strong><span>&nbsp;</span></p>\n\n<ul>\n<li><span>Lead the design, architecture, and implementation of secure, scalable AI platforms and proxy systems used company-wide</span></li>\n<li>Own complex platform initiatives end-to-end, including technical strategy, implementation, testing, deployment, and long-term evolution</li>\n<li>Drive onboarding of new frontier models, expansion of compute resources, and optimization of proxy systems for performance, security, logging, and control</li>\n<li>Champion adoption across SpaceX by mentoring engineers, communicating value, building shared products/prompts/skills/infrastructure, and providing hands-on support</li>\n<li>Act as an entrepreneurial force to identify high-value opportunities and deliver solutions that allow users to rapidly convert problems and ideas into tested software, deployed applications, and trained models on managed, reliable compute</li>\n<li>Develop and scale tools that mitigate business risk, such as advanced AI-powered code review, PR automation, and safety guardrails</li>\n<li>Define best practices for lean, effective, and secure applied AI that maximizes conversion of engineering expertise into automation and reliable data systems</li>\n<li>Collaborate with and influence cross-functional stakeholders, including ML researchers, security, and operations teams<span>&nbsp;</span></li>\n</ul>\n\n<p><strong><span>BASIC QUALIFICATIONS:</span></strong><span>&nbsp;</span></p>\n\n<ul>\n<li>Bachelor’s degree in computer science, computer engineering, or other engineering discipline and 5+ years of professional experience building production software; OR 7+ years of professional experience building production software in lieu of a degree</li>\n<li>Experience developing and operating production platforms (AI/ML infrastructure, developer platforms, or large-scale backend systems)&nbsp;</li>\n</ul>\n\n<p><strong><span>PREFERRED SKILLS AND EXPERIENCE:</span></strong><span>&nbsp;</span></p>\n\n<ul>\n<li><span>Proven success building and scaling internal AI gateways, secure proxy systems, or&nbsp;MLOps&nbsp;platforms in a fast-paced environment</span></li>\n<li>Deep hands-on experience with Docker, Kubernetes, security architecture, and integrations across multiple cloud and frontier model providers</li>\n<li>Strong background in model onboarding, compute orchestration, observability, and infrastructure for high-volume AI usage</li>\n<li>Demonstrated ability to enable and mentor others through tools, documentation, training, and direct partnership</li>\n<li>Entrepreneurial track record of identifying opportunities and delivering outsized impact</li>\n<li>Proficiency in Python and strong experience with additional languages (Go, Java, TypeScript, Rust, etc.)</li>\n<li>Experience with infrastructure-as-code, CI/CD, and building highly reliable distributed systems</li>\n<li>Passion for AI risk mitigation, developer productivity, and turning complex engineering challenges into simple, scalable AI-powered outcomes<span>&nbsp;</span></li>\n</ul>\n\n<div><p><strong>ITAR REQUIREMENTS:</strong></p>\n<ul>\n<li>To conform to U.S. Government export regulations, applicant must be a (i) U.S. citizen or national, (ii) U.S. lawful, permanent resident (aka green card holder), (iii) Refugee under 8 U.S.C. § 1157, or (iv) Asylee under 8 U.S.C. § 1158, or be eligible to obtain the required authorizations from the U.S. Department of State. Learn more about the ITAR <a href=\"https://www.pmddtc.state.gov/?id=ddtc_kb_article_page&amp;sys_id=24d528fddbfc930044f9ff621f961987\" rel=\"noopener noreferrer\">here</a>. &nbsp;</li>\n</ul>\n<p>SpaceX is an Equal Opportunity Employer; employment with SpaceX is governed on the basis of merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other legally protected status.</p>\n<p>Applicants wishing to view a copy of SpaceX’s Affirmative Action Plan for veterans and individuals with disabilities, or applicants requiring reasonable accommodation to the application/interview process should reach out to&nbsp;<a href=\"mailto:EEOCompliance@spacex.com\" rel=\"noopener noreferrer\">EEOCompliance@spacex.com</a><em>.&nbsp;</em></p></div>",
+      "name": "Sr. Software Engineer (Platform Team)",
+      "type": "external",
+      "publication_date": "2026-09-02T19:46:53Z",
+      "short_name": "sr-software-engineer-platform-team-511484",
+      "model_type": "jobs",
+      "id": 21743759,
+      "locations": [
+        {
+          "name": "Brownsville, TX"
+        },
+        {
+          "name": "El Segundo, CA"
+        },
+        {
+          "name": "Lockhart, TX"
+        },
+        {
+          "name": "Palo Alto, CA"
+        },
+        {
+          "name": "Redmond, WA"
+        },
+        {
+          "name": "Sunnyvale, CA"
+        }
+      ],
+      "categories": [
+        {
+          "name": "Software Engineering"
+        }
+      ],
+      "levels": [
+        {
+          "name": "Senior Level",
+          "short_name": "senior"
+        }
+      ],
+      "tags": [],
+      "refs": {
+        "landing_page": "https://www.themuse.com/jobs/spacex/sr-software-engineer-platform-team-511484"
+      },
+      "company": {
+        "id": 15000190,
+        "short_name": "spacex",
+        "name": "SpaceX"
+      }
+    },
+    {
+      "contents": "<div><p><b>Platform Engineer</b></p><p><b>Corporate Headquarters</b></p><p><b>12575 Uline Drive, Pleasant Prairie, WI 53158</b></p><p></p><p>Build what's next. Power what’s now. As a Platform Engineer at Uline, you’ll support the creation and maintenance of our enterprise platform solutions. With Uline's continued growth, you'll enjoy new career opportunities and stability you can rely on.</p><p></p><p><b>Careers Packed with Potential. </b>Backed by 45+ years of success, Uline offers opportunities to grow your career with stability you can count on.</p><p></p><p><b>Position Responsibilities&nbsp;</b></p></div>\n\n<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><ul><li><p>Plan, automate and deploy the platforms that support our enterprise microservices.</p></li><li><p>Build and maintain secure, efficient CI / CD pipelines and automated testing workflows.</p></li><li><p>Own and support the software packages you manage, with a strong focus on reliability and performance.</p></li><li><p>Monitor and continuously optimize platform health and security.</p></li></ul><p></p><p><b>Minimum Requirements</b></p><ul><li><p>Bachelor's degree in information technology, computer science or a related field.</p></li><li><p>5+ years of experience with container orchestration tools such as Kubernetes, OpenShift or Docker Swarm.</p></li><li><p>5+ years of hands-on experience with DevSecOps tools like JFrog Xray, SonarQube and Red Hat ACS, or similar.</p></li><li><p>Kubestronaut certification <b>preferred.</b></p></li><li><p>Strong understanding of network, DNS and security fundamentals.</p></li><li><p>Excellent analytical, problem-solving and communication skills.</p></li></ul><p></p><p><b>Benefits</b></p><ul><li><p>Complete health insurance coverage and 401(k) with 6% employer match that <u>starts day one</u>!</p></li><li><p>Multiple bonus programs.</p></li><li><p>Paid holidays and generous paid time off.</p></li><li><p>Tuition Assistance Program that covers professional continuing education.</p></li></ul><p></p><p><b>Employee Perks</b></p><ul><li><p>On-site café and first-class fitness center with complimentary personal trainers.</p></li><li><p>Over four miles of beautifully maintained walking trails.</p></li></ul><p></p><p><b>About Uline</b></p><p></p><p>Uline, a family-owned company, is North America’s leading distributor of shipping, industrial, and packaging materials with over 9,000 employees across 14 locations.</p><p></p><p>Uline is a&nbsp;<u>drug-free workplace</u>. All positions are on-site.</p><p></p><p>EEO/AA Employer/Vet/Disabled</p><p></p><p>#LI-SR1</p><p>#CORP</p><p>(#IN-PPITL3)</p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>",
+      "name": "Platform Engineer",
+      "type": "external",
+      "publication_date": "2025-07-16T09:48:28Z",
+      "short_name": "platform-engineer-4f441e",
+      "model_type": "jobs",
+      "id": 19391487,
+      "locations": [
+        {
+          "name": "Pleasant Prairie, WI"
+        }
+      ],
+      "categories": [
+        {
+          "name": "Software Engineering"
+        }
+      ],
+      "levels": [
+        {
+          "name": "Senior Level",
+          "short_name": "senior"
+        }
+      ],
+      "tags": [],
+      "refs": {
+        "landing_page": "https://www.themuse.com/jobs/ulineinc/platform-engineer-4f441e"
+      },
+      "company": {
+        "id": 15000556,
+        "short_name": "ulineinc",
+        "name": "Uline, Inc."
+      }
+    },
+    {
+      "contents": "<div><p>SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of&nbsp;enabling human life on Mars.</p></div>\n\n<p><strong>INDUSTRIAL SECURITY ANALYST (PERSEC)</strong></p>\n\n<p>SpaceX is looking for a multidisciplinary Industrial Security Officer (PERSEC) to serve as a Personnel Security Analyst within our Redmond, WA office. This is a chance to fill a critical role within a dynamic and high-tempo environment working on programs pushing the boundaries of industry and technology. A successful candidate will be a self-starter and problem-solver and will possess the ability to convey security requirements to a diverse group of technical personnel.</p>\n\n<p><strong>RESPONSIBILITIES:</strong></p>\n\n<ul>\n<li>Support all Personnel Security (PERSEC) aspects of a variety of missions at the SCI, SAP and Collateral level</li>\n<li>Support all steps of PERSEC processing in an efficient manner, including pre-screening, clearance initiation, review of paperwork and customer submission</li>\n<li>Be able to develop a deep understanding of the clearance processes for SCI, SAP and Collateral</li>\n<li>Be able to develop a deep understanding of security clearance databases including DISS, NBIS, JADE, TALON, etc.</li>\n<li>Successfully interact with a variety of government customers to ensure clearances are processed efficiently on the government side</li>\n<li>Identify process improvement opportunities and question assumptions to make procedures as streamlined as possible</li>\n<li>Manage all reporting requirements for the entirety of the cleared SpaceX population, to include foreign travel, life changes, incidents and adverse information</li>\n<li>Coordinate indoctrinations and debriefings</li>\n<li>Partner with Mission Management and government representatives to ensure SpaceX is providing the best possible security clearance support</li>\n<li>Partner with internal stakeholder teams to reinforce their understanding of clearance holder requirements and ensure those requirements are met</li>\n<li>Prepare for and assist with the PERSEC component of compliance inspections</li>\n<li>Conduct security related inquires and incident reporting</li>\n<li>Keep abreast of the latest security trends and policy updates, implementing innovative solutions and processes</li>\n</ul>\n\n<p><strong>BASIC QUALIFICATIONS:</strong></p>\n\n<ul>\n<li>Bachelor’s degree; OR 3+ years of professional experience performing NISPOM-related security responsibilities in lieu of a degree&nbsp;</li>\n<li>1+ years security experience in PERSEC performing responsibilities specifically within a SAP, SCI, and/or Collateral environment or a security field&nbsp;</li>\n</ul>\n\n<p><strong>PREFERRED SKILLS AND EXPERIENCE:</strong></p>\n\n<ul>\n<li>Experience with DISS, NBIS, JADE, TALON and Scattered Castles&nbsp;</li>\n<li>Strong knowledge of the NISPOM, (32 CFR 117), Intelligence Community Directives (ICD 704), DoDM 5205.07, and other related security policies and procedures</li>\n<li>Familiarity with SIMS</li>\n</ul>\n\n<p><strong>ADDITIONAL REQUIREMENTS:</strong></p>\n\n<ul>\n<li>Ability to favorably complete a U.S. Government CI scope polygraph</li>\n<li>Ability to travel in support of mission requirements, &lt; 10%</li>\n<li><span>This position is based in Redmond, WA and requires being onsite - remote work not considered</span></li>\n<li>Willingness to work extended hours or weekends as needed in support of mission-critical deadlines and milestones</li>\n<li>Active Top Secret clearance with SCI eligibility. Note that an active clearance may provide the opportunity for you to work on sensitive SpaceX missions. If so, you will be subject to pre-employment drug and random drug and alcohol testing</li>\n</ul>\n\n<p><strong>COMPENSATION AND BENEFITS:</strong><br><br>Pay Range:<br>Level 1: $85,000.00 - $115,000.00<br>Level 2: $105,000.00 - $140,000.00</p>\n\n<p>Your actual level and base salary will be determined on a case-by-case basis and may vary based on the following considerations: job-related knowledge and skills, education, and experience.</p>\n\n<p>Base salary is just one part of your total rewards package at SpaceX. You may also be eligible for long-term incentives, in the form of company stock or long-term cash awards, as well as potential discretionary bonuses and the ability to purchase additional stock at a discount through an Employee Stock Purchase Plan. You will also receive access to comprehensive medical, vision, and dental coverage, access to a 401(k) retirement plan, short and long-term disability insurance, life insurance, paid parental leave, and various other discounts and perks. You may also accrue 3 weeks of paid vacation and will be eligible for 10 or more paid holidays per year. Employees in Washington State accrue paid sick time in compliance with state and federal law. Company shuttles are offered to employees for roundtrip travel from select Seattle locations to the SpaceX Redmond office Monday to Friday.</p>\n\n<p>Those with an active clearance will receive a 10% differential, up to an additional $20,000 annually, once officially briefed into a classified program.</p>\n\n<div><p><strong>ITAR REQUIREMENTS:</strong></p>\n<ul>\n<li>To conform to U.S. Government export regulations, applicant must be a (i) U.S. citizen or national, (ii) U.S. lawful, permanent resident (aka green card holder), (iii) Refugee under 8 U.S.C. § 1157, or (iv) Asylee under 8 U.S.C. § 1158, or be eligible to obtain the required authorizations from the U.S. Department of State. Learn more about the ITAR <a href=\"https://www.pmddtc.state.gov/?id=ddtc_kb_article_page&amp;sys_id=24d528fddbfc930044f9ff621f961987\" rel=\"noopener noreferrer\">here</a>. &nbsp;</li>\n</ul>\n<p>SpaceX is an Equal Opportunity Employer; employment with SpaceX is governed on the basis of merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other legally protected status.</p>\n<p>Applicants wishing to view a copy of SpaceX’s Affirmative Action Plan for veterans and individuals with disabilities, or applicants requiring reasonable accommodation to the application/interview process should reach out to&nbsp;<a href=\"mailto:EEOCompliance@spacex.com\" rel=\"noopener noreferrer\">EEOCompliance@spacex.com</a><em>.&nbsp;</em></p></div>",
+      "name": "Industrial Security Analyst (PERSEC) ",
+      "type": "external",
+      "publication_date": "2026-09-12T18:34:47Z",
+      "short_name": "industrial-security-analyst-persec",
+      "model_type": "jobs",
+      "id": 22152017,
+      "locations": [
+        {
+          "name": "El Segundo, CA"
+        },
+        {
+          "name": "Redmond, WA"
+        }
+      ],
+      "categories": [
+        {
+          "name": "Software Engineering"
+        }
+      ],
+      "levels": [
+        {
+          "name": "Mid Level",
+          "short_name": "mid"
+        }
+      ],
+      "tags": [],
+      "refs": {
+        "landing_page": "https://www.themuse.com/jobs/spacex/industrial-security-analyst-persec"
+      },
+      "company": {
+        "id": 15000190,
+        "short_name": "spacex",
+        "name": "SpaceX"
+      }
+    },
+    {
+      "contents": "<h2>关于我们</h2>\n\n<p>我们以玩家体验为核心，专注于创新与高性能的技术开发。作为Riot中国在研项目组的一员，你将与多元化团队协作，面向全球玩家开发和优化新一代游戏服务。我们鼓励持续学习和开放交流，为工程师提供成长与挑战并存的环境。如果你热爱技术，有志于高并发与分布式挑战，欢迎加入我们，共同打造未来的游戏体验。</p>\n\n<h2>岗位职责</h2>\n\n<ul>\n<li>负责游戏服务端功能模块的开发与维护，保障服务稳定、高效与安全；</li>\n<li>实现和优化服务端核心系统，包括用户数据、战斗逻辑等相关支撑模块；</li>\n<li>持续改进服务端性能，定位并解决线上和测试环境中的技术问题；</li>\n<li>参与服务端相关工具开发，提高开发与运维效率；</li>\n<li>与客户端、策划等多团队协作，高效推动功能实现与体验落地；</li>\n<li>跟踪主流服务端技术动态，并将优秀实践和新技术应用到项目中。</li>\n</ul>\n\n<h2>任职要求</h2>\n\n<ul>\n<li>本科及以上学历，2年以上服务端开发经验，计算机相关专业优先；</li>\n<li>熟悉C++、Java或Golang等主流服务端编程语言，有扎实的编码和调试能力；</li>\n<li>熟悉高并发、分布式系统、常用中间件（如消息队列、缓存、数据库等）的开发与优化；</li>\n<li>能够独立负责细分模块或业务功能的开发、测试及维护；</li>\n<li>具备良好的分析和问题定位能力，能高效响应并解决线上业务问题；</li>\n<li>善于跨团队沟通与合作，把控开发进度，确保需求高质量落地；</li>\n<li>有持续学习和自我提升意识，关注行业新技术动态。</li>\n</ul>\n\n<p><strong>用工性质：与专业人事服务公司FESCO Adecco签订劳动合同.</strong></p>",
+      "name": "Software Engineer, Services - Unpublished R&D Product (Contract)",
+      "type": "external",
+      "publication_date": "2026-07-24T18:30:34Z",
+      "short_name": "software-engineer-services-unpublished-rd-product-contract",
+      "model_type": "jobs",
+      "id": 20879660,
+      "locations": [
+        {
+          "name": "Guangzhou, China"
+        }
+      ],
+      "categories": [
+        {
+          "name": "Software Engineering"
+        }
+      ],
+      "levels": [
+        {
+          "name": "Mid Level",
+          "short_name": "mid"
+        }
+      ],
+      "tags": [],
+      "refs": {
+        "landing_page": "https://www.themuse.com/jobs/riotgames/software-engineer-services-unpublished-rd-product-contract"
+      },
+      "company": {
+        "id": 15000199,
+        "short_name": "riotgames",
+        "name": "Riot Games"
+      }
+    },
+    {
+      "contents": "<p><b>Job Description:</b><br><br><b>About Us</b><br><br>At Bank of America, we are guided by a common purpose to help make financial lives better through the power of every connection.  Responsible Growth is how we run our company and how we deliver for our clients, teammates, communities and shareholders every day. <br><br>One of the keys to driving Responsible Growth is being a great place to work for our teammates around the world. We're devoted to being a diverse and inclusive workplace for everyone. We hire individuals with a broad range of backgrounds and experiences and invest heavily in our teammates and their families by offering competitive benefits to support their physical, emotional, and financial well-being. sssss<br><br> Bank of America believes both in the importance of working together and offering flexibility to our employees. We use a multi-faceted approach for flexibility, depending on the various roles in our organization. <br><br>Working at Bank of America will give you a great career with opportunities to learn, grow and make an impact, along with the power to make a difference. Join us!<br><br><b>Global Business Services</b><br><br>Global Business Services delivers Technology and Operations capabilities to Lines of Business and Staff Support Functions of Bank of America through a centrally managed, globally integrated delivery model and globally resilient operations. <br><br>Global Business Services is recognized for flawless execution, sound risk management, operational resiliency, operational excellence and innovation. <br><br>In India, we are present in five locations and operate as BA Continuum India Private Limited (BACI), a non-banking subsidiary of Bank of America Corporation and the operating company for India operations of Global Business Services.<br><br><b>Process Overview</b><br><br>As a Hadoop Platform Engineer in Data Analytics Platform team, individual will be responsible for understanding design, propose high level and detailed design solutions, propose out of box technical solutions for resolving business problems and technical problems arising during the real time in production. Individual should be flexible to work on the weekends at least once in a month. May get comp-off during weekdays. Should be open to work in rotational shift. As an individual contributor in BAU, person should have good analytical skills to take a quick decision during the tough times. Engage in discussions with information architecture team for coming out with design solutions, proposing new technology adoption ideas, attending project meetings, partnering with near shore and offshore teammates in a matrix environment, coordinating with other support teams like L2, development, testing, upstream and downstream partners, etc.<br><br><b>Job Description</b><br><br>The Data analytics Platform client services team is seeking a candidate who is proficient in Cloudera Hadoop ecosystem and its components (HDFS, YARN, HIVE,Tez, Impala, Spark, MapReduce, HBase) , Ozone and Private Cloud Components (CDW, CDW and CML) .  The Data Analytics Platform Client Services team member will be responsible for providing technical and administrative support for Hadoop, Ozone, Linux, Cloud and HBase platforms in a fast-paced operations in environment supporting business critical applications using Hadoop components and Cloud components. The Analyst should have good problem-solving, strong, and advanced troubleshooting of challenging and complex problem on Hadoop, Cloud and Linux related issues for the Hadoop clients. Good knowledge and experience in Unix and Python scripting to develop platform monitoring, application management and CM API and Rest API capabilities and capacity management development tools. <br><br>Client Service role is a tenant facing role in providing efficient support.<br><br><b>Responsibilities</b><br><br>•   Proven understanding and knowledge with Cloudera Hadoop, YARN, Hive, Tez, IMPALA, Apache Spark, Ozone, Private Cloud Data Services, HBase, Nifi, security Ranger, Ozone, Hive Metadata. <br><br>•  Administer, troubleshoot, perform problem isolation, and correct problems discovered in clusters <br><br>•  Performance tuning of Hadoop clusters and ecosystem components and jobs. This includes the management and review of Hadoop log files and identify root cause and provide solution.<br><br>•  Troubleshoot platform problems and connectivity issues. Diagnose and address application and database performance issues using performance monitors and various tuning techniques. <br><br>•  Interact with Storage and Systems administrators on Linux/Unix/VM operating systems and Hadoop Ecosystems <br><br>•   Capabilities to automate and manual tasks, create alerts and platform problems tools <br><br>•  Platform Cluster Capacity Management with tenant Storage, Compute management . Tenant storage monitoring and alerting and reporting.<br><br>•   Document programming problems and resolutions for future reference.<br><br><b>Requirements</b><br><br><b>Education</b>: B.E. / B. Tech/M.E. /M. Tech<br><br><b>Experience Range</b>: 10 to14 years.<br><br><b>Foundational Skills</b><br><br><ul><li>Hadoop, Kafka, Spark, Impala, Hive, Hbase etc.</li><li>Strong knowledge of Hadoop Architecture, HDFS, Hadoop Cluster and Hadoop Administrator's role</li><li>Strong technical knowledge: Unix/Linux; Database (Sybase/SQL/Oracle), Java, Python, Perl, Shell scripting, Infrastructure</li></ul><br><b>Desired Skills</b><br><br><ul><li>Experience working on Big Data Technologies</li><li>Cloudera Admin / Dev Certification</li><li>Certification in Cloud, Docker-Container, Openshift Technologies</li><li>Experience in Monitoring &amp; Alerting, and Job Scheduling Systems</li><li>Knowledge of automation / DevOps tools - Ansible, Jenkins, SVN, Bitbucket</li></ul><br><b>Work Timings</b>: 11:00 AM to 8:00 PM<br><br><b>Job Location</b>: Chennai</p>",
+      "name": "Solution Engineer Lead - GBS IND",
+      "type": "external",
+      "publication_date": "2025-04-15T23:58:24Z",
+      "short_name": "solution-engineer-lead-gbs-ind",
+      "model_type": "jobs",
+      "id": 18409399,
+      "locations": [
+        {
+          "name": "Chennai, India"
+        },
+        {
+          "name": "Mumbai, India"
+        }
+      ],
+      "categories": [
+        {
+          "name": "Software Engineering"
+        }
+      ],
+      "levels": [
+        {
+          "name": "Mid Level",
+          "short_name": "mid"
+        }
+      ],
+      "tags": [],
+      "refs": {
+        "landing_page": "https://www.themuse.com/jobs/bankofamerica/solution-engineer-lead-gbs-ind"
+      },
+      "company": {
+        "id": 12145,
+        "short_name": "bankofamerica",
+        "name": "Bank of America"
+      }
+    },
+    {
+      "contents": "<p>Technical Producers at Riot lead passionate technical teams to create products and experiences that achieve maximum player and fan value. They guide development, clear blockers, create processes, and push projects across the finish line while making sure that the teams are sustainable and have a great collaborative environment.</p>\n\n<p>As a <strong>Technical Producer II</strong> for the Commerce Initiative teams on Publishing Platform, you will be the custodian of strong delivery processes for a team that uses a mix of internal development and external partners. You will report to the Senior Manager, Production and will partner with Product and Engineering Managers to drive efficiency, accuracy and accountability for planned and emergent initiatives. You will ensure stakeholder visibility as you track progress, deliver features, mitigate risks and help organize priorities. You will be responsible for ensuring roadmaps are accurate, delivery meets quality expectations and team health is maintained.</p>\n\n<h2>Responsibilities:</h2>\n\n<ul>\n<li>Lead the production practice for the team.</li>\n<li>Execute work systems, monitor team health, and drive efficiency to ensure team delivery success.</li>\n<li>Gauge feasibility of product roadmap and partner with product and engineering leaders to mitigate risks, right-size product scope and establish realistic timelines.</li>\n<li>Partner with the Product Lead, Engineering Manager, and Designers to help develop the technical product vision and execute the development strategy for the team.</li>\n<li>Create and contribute ideas to areas beyond your immediate ownership across different teams and disciplines.</li>\n<li>Identify dependencies with external teams and coordinate to ensure they are delivered on time.</li>\n<li>Communicate team health and progress to the organization through regular reporting rituals.</li>\n<li>Provide essential product feedback and insight to the team and leadership through playtesting and other feedback mechanisms</li>\n<li>Manage stakeholder expectations through interpreting and communicating stages to invested audiences</li>\n</ul>\n\n<h2>Required Qualifications:&nbsp;</h2>\n\n<ul>\n<li>4+ years of experience leading development and delivery efforts for medium-to-large teams</li>\n<li>Experience working with engineers to deliver technical features, specifically on services and tools</li>\n<li>Experience working with teams, especially remote, across multiple disciplines, time zones, and cultures</li>\n<li>Interest in developing deep understanding of Riot’s Games as a player</li>\n<li>Bachelor's degree in Computer Science or a related field, or equivalent experience with strong technical knowledge and problem-solving skills.</li>\n<li>Experience working on technical initiatives and digital product development with a capability to engage with customers and development teams in technical discussions</li>\n<li>Experience leading teams through feature development using agile methodologies (planning, execution, delivery, post-release support)</li>\n<li>Extremely organized with proficiency in Jira, Notion and other project management tools</li>\n</ul>\n\n<h2>Desired Qualifications:</h2>\n\n<ul>\n<li>Experience working in med-large size organizations where collaboration across organizational boundaries is critical to success.</li>\n<li>Experience with Product and Design tools such as Miro and Figma</li>\n</ul>\n\n<p><em>For this role, you'll find success through craft expertise, a collaborative spirit, and decision-making that prioritizes your fellow Rioters, who are the customers of your work. Being a dedicated fan of games is not necessary for this position!</em></p>\n\n<h2><strong>Our Perks:</strong></h2>\n\n<p>Riot focuses on work/life balance, shown by our open paid time off policy and other perks such as flexible work schedules. We offer medical, dental, and life insurance, parental leave for you, your spouse/domestic partner, and children, and a 401k with company match. Check out our <a href=\"https://www.riotgames.com/en/work-with-us/overview\" rel=\"noopener noreferrer\"><strong>benefits pages</strong></a> for more information.</p>\n\n<p>At Riot Games, we&nbsp;<a href=\"https://www.riotgames.com/en/who-we-are/values\" rel=\"noopener noreferrer\">put players first</a>. That mission drives every decision in our quest to create games and experiences that make it better to be a player. Whether you’re working directly on a new player-facing experience or you’re supporting the company as a whole, everyone at Riot is part of our mission. And just like in our games, we’re better when we work together. Our goal is to create collaborative teams where you are empowered to bring your unique perspective everyday. If that sounds like the kind of place you want to work, we’re looking forward to your application.</p>\n\n<p>&nbsp;</p>\n\n<p><em>It’s our policy to provide equal employment opportunity for all applicants and members of Riot Games, Inc. Riot Games makes reasonable accommodations for handicapped and disabled Rioters and does not unlawfully discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity or expression, national origin, age, handicap, veteran status, marital status, criminal history, or any other category protected by applicable federal and state law. We consider for employment all qualified applicants, including those with criminal histories, in a manner consistent with applicable federal, state and local law, including the California Fair Chance Act, the City of Los Angeles Fair Chance Initiative for Hiring Ordinance, the Los Angeles County Fair Chance Ordinance for Employers, the San&nbsp;Francisco Fair Chance Ordinance, and the Washington Fair Chance Act.</em></p>\n\n<p><em>Per the Los Angeles County Fair Chance Ordinance, the following core duties may create a basis for disqualifying candidates with relevant criminal histories:</em></p>\n\n<ul>\n<li><em>Safeguarding confidential and sensitive Company data </em></li>\n<li><em>Communication with others, including Rioters and third parties such as vendors, and/or players, including minors</em></li>\n<li><em>Accessing Company assets, secure digital systems, and networks</em></li>\n<li><em>Ensuring a safe interactive environment for players and other Rioters</em></li>\n</ul>\n\n<p><em>These duties are directly related to essential operations, safety, trust, and compliance obligations within our organization. Please note that job duties may evolve based on business needs and additional responsibilities may be assigned as necessary to maintain operational efficiency and security.&nbsp;</em></p>",
+      "name": "Technical Producer II - Publishing Platform, Commerce",
+      "type": "external",
+      "publication_date": "2026-09-04T18:30:48Z",
+      "short_name": "technical-producer-ii-publishing-platform-commerce",
+      "model_type": "jobs",
+      "id": 21980890,
+      "locations": [
+        {
+          "name": "Los Angeles, CA"
+        }
+      ],
+      "categories": [
+        {
+          "name": "Software Engineering"
+        }
+      ],
+      "levels": [
+        {
+          "name": "Mid Level",
+          "short_name": "mid"
+        }
+      ],
+      "tags": [],
+      "refs": {
+        "landing_page": "https://www.themuse.com/jobs/riotgames/technical-producer-ii-publishing-platform-commerce"
+      },
+      "company": {
+        "id": 15000199,
+        "short_name": "riotgames",
+        "name": "Riot Games"
       }
     },
     {
@@ -6907,40 +6889,6 @@
       }
     },
     {
-      "contents": "<p><b>In the assigned Job Role of Package Consultant 3, your Area Of Responsibility will be as below:</b><br> <br>•  Analyze complex business processes to identify optimization opportunities and draft detailed requirement specifications that align with enterprise architecture standards <br>•  Define and develop solution architecture, steering customization and integration efforts based on thorough business analysis <br>•  Design and implement advanced customizations basis ERP platform's capabilities and limitations and develop critical software applications in collaboration with the development team <br>•  Develop and implement complex integration workflows to connect the ERP system with external applications, while leading large-scale data migration strategies to ensure data integrity <br>•  Implement advanced performance optimization strategies focused on scalability, reliability, and user experience, while leading compliance initiatives throughs audits, to uphold security protocols and industry standards <br>•  Develop detailed documentation for complex ERP customizations and lead training workshops tailored to various user groups, to ensure effective knowledge transfer<br><br><b>Your contribution to the team:</b><br> <br>•  Expertise in ERP systems, architecture, and advanced customization techniques <br>•  Ability to design complex integration solutions and guide large-scale data migrations <br>•  Proactive problem-solving to streamline complex requirements <br>•  A strategic mindset to align technical solutions with business goals and market trends. <br>•  Deep understanding of compliance requirements, security protocols, and performance optimization methodologies <br>•  Sector specific expertise for high quality project delivery</p>",
-      "name": "Q2 - NAMORC - S2R - Oracle OM Cloud - PCON - Watlow - Infosys hubs",
-      "type": "external",
-      "publication_date": "2026-09-16T20:01:49Z",
-      "short_name": "q2-namorc-s2r-oracle-om-cloud-pcon-watlow-infosys-hubs",
-      "model_type": "jobs",
-      "id": 21876077,
-      "locations": [
-        {
-          "name": "Hartford, CT"
-        }
-      ],
-      "categories": [
-        {
-          "name": "Design and UX"
-        }
-      ],
-      "levels": [
-        {
-          "name": "Mid Level",
-          "short_name": "mid"
-        }
-      ],
-      "tags": [],
-      "refs": {
-        "landing_page": "https://www.themuse.com/jobs/infosys/q2-namorc-s2r-oracle-om-cloud-pcon-watlow-infosys-hubs"
-      },
-      "company": {
-        "id": 15000261,
-        "short_name": "infosys",
-        "name": "Infosys"
-      }
-    },
-    {
       "contents": "<p><b>Responsibilities</b><br><br> About Al Data Service and Operations (ADSO) Team<br>The Al Data Service and Operations (ADSO) team is responsible for providing safety and non-safety data annotation services and search operation services for all of the company's international products, which can also help international products build their own data ecological security.<br><br>We are seeking a Training &amp; Quality Specialist to directly support our Prompt Engineering team, which is responsible for crafting and optimizing prompts that guide Al models toward high-quality outputs. This role is critical in maintaining the consistency, accuracy, and excellence of prompt writing through targeted quality auditing, data-driven insights, and impactful training initiatives. As a key partner to the Prompt Writers, you will be responsible for evaluating written outputs for alignment with internal guidelines, conducting root-cause analysis to identify trends or gaps, and developing responsive training materials to address areas for improvement. You will also play a vital role in onboarding new writers, driving policy comprehension, and promoting a strong quality culture across the team.<br><br>Responsibilities<br>• Audit Prompt Writer outputs to ensure alignment with complex policy guidelines, stylistic standards, and quality benchmarks, delivering clear feedback and actionable insights.<br>• Analyze performance data and error trends using both quantitative and qualitative methods to proactively identify quality gaps and implement corrective strategies.<br>• Partner with Prompt Writers, team leads and cross-functional teams, to maintain a consistent understanding of quality expectations and ensure calibration across teams.<br>• Develop, deliver, and maintain structured training programs including onboarding, policy refreshers, and upskilling modules tailored to Prompt Engineering needs.<br>• Regularly review and update training content and documentation to reflect evolving policies, best practices, and model capabilities.<br>• Support experimentation efforts by advising on quality criteria for prompt iterations and assisting with the documentation of prompting strategies and results.<br>• Collaborate cross-functionally with Policy, Product, and Engineering teams to address quality-related concerns and support continuous improvement initiatives.<br>• Maintain high documentation standards around audit records, training progress, and improvement plans to ensure traceability and accountability.<br>• Contribute to ad hoc quality and governance projects to elevate content integrity and team performance.<br>• Please note that this position involves exposure to sensitive content, including but not limited to vulgar content, violence, pornography, and fake news.<br><br><b>Qualifications</b><br><br> Minimum Qualifications<br>• Bachelor's degree in Computer Science, Linguistics, or a related field<br>• 2 years of experience in quality assurance, training, editorial review, or a related field; prior experience in supporting content moderation, Al, or technical writing teams is a plus.<br>• Strong command of English with an exceptional eye for detail, clarity, and linguistic consistency.<br>• Demonstrated ability to interpret and enforce complex guidelines or policies in writing-focused workflows.<br>• Analytical thinker with experience evaluating qualitative content and using data to inform process improvements.<br>• Experience designing and delivering interactive, engaging training materials and sessions.<br>• Demonstrates a high level of self-motivation, solution-centric thinking, strong ability to multi-task, prioritize and meet strict deadlines in a fast-paced, dynamic, and highly collaborative environment.</p>",
       "name": "Training & Quality Specialist (Prompt Engineering), AI Data Service and Operations (ADSO) - Data Annotation Lab",
       "type": "external",
@@ -7278,6 +7226,45 @@
         "id": 12266,
         "short_name": "flex",
         "name": "Flex"
+      }
+    },
+    {
+      "contents": "<p>Meta Product Managers work with cross-functional teams of engineers, designers, data scientists and researchers to build products. We are looking for extremely entrepreneurial Product Managers to help innovate and execute product initiatives across the company and value moving quickly. This job description represents different full-time roles across Meta. <br><br><b>Product Manager (AI Infra) Responsibilities: <br></b><ul><li>Is the primary driver for identifying significant near and long-term opportunities in a large Product area, and driving product vision, strategies and roadmaps in the context of broader organizational strategies and goals.</li><li>Generate buy-in and drives consensus across organizations. Bring clarity and structure to ambiguous opportunities. Consistently demonstrate initiative and execute with limited oversight.</li><li>Plan, initiate, and manage information technology projects for web-based products, applications, and platforms.</li><li>Integrate data, usability studies, research, and market analysis into product strategies and requirements to enhance user satisfaction and improve engineer productivity.</li><li>Drive product development with teams of world-class engineers and designers, while maintaining team health.</li><li>Understand Meta's strategic and competitive position and deliver products that are aligned with our mission and recognized best in the industry.</li><li>Work closely with cross-functional teams to drive product vision, define product requirements, coordinate resources from other groups (design, legal, etc.), develop roadmaps, and guide the team through key milestones.</li><li>Define and analyze metrics that inform the success of products. Identify and track key performance metrics. Drive decision-making through user insights, quantitative analysis and AB testing.</li><li>Maximize efficiency in a constantly evolving environment where the process is fluid and creative solutions are the norm.</li></ul><b>Minimum Qualifications:<br></b><ul><li>10+ years product management and/or Product Design</li><li>10+ years of experience working collaboratively with engineering, design and user research teams</li><li>Experience navigating through the full product life-cycle, integrating customer feedback into product requirements, driving prioritization, and pre/post-launch execution</li><li>Critical thinking/analytical leadership experience</li><li>Experience presenting to senior executive audiences</li><li>BA/BS in Computer Science or related field</li></ul><b>Preferred Qualifications:<br></b><ul><li>Experience in a consumer focused technology company</li><li>Experience building 0-1 products, platform/ecosystem products, or marketplaces</li></ul><b>About Meta:<br></b><br> Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help shape a future that will take us beyond what digital connection makes possible today-beyond the constraints of screens, the limits of distance, and even the rules of physics.<br><br>Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with applications for employment. <br> <br>Meta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@fb.com.<br><br>$202,000/year to $277,000/year + bonus + equity + benefits<br><br>Individual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers benefits. Learn more about benefits at Meta.</p>",
+      "name": "Product Manager (AI Infra)",
+      "type": "external",
+      "publication_date": "2025-04-18T00:17:55Z",
+      "short_name": "product-manager-ai-infra",
+      "model_type": "jobs",
+      "id": 17681670,
+      "locations": [
+        {
+          "name": "Menlo Park, CA"
+        }
+      ],
+      "categories": [
+        {
+          "name": "Design and UX"
+        }
+      ],
+      "levels": [
+        {
+          "name": "Senior Level",
+          "short_name": "senior"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Fortune 1000",
+          "short_name": "fortune-1000-companies"
+        }
+      ],
+      "refs": {
+        "landing_page": "https://www.themuse.com/jobs/meta/product-manager-ai-infra"
+      },
+      "company": {
+        "id": 659,
+        "short_name": "meta",
+        "name": "Meta"
       }
     }
   ]
