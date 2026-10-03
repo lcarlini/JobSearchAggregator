@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T15:51:09.314Z",
+  "generatedAt": "2026-10-03T20:42:08.558Z",
   "count": 150,
   "data": [
     {
@@ -10,7 +10,7 @@
       "company": {
         "name": "NTT DATA Romania SA",
         "logo_url": null,
-        "website": null,
+        "website": "https://ntt.com",
         "url": "https://remotejobs.org/companies/ntt-data-romania-sa"
       },
       "category": {
@@ -60,7 +60,7 @@
       "company": {
         "name": "AWeber",
         "logo_url": null,
-        "website": null,
+        "website": "https://aweber.com",
         "url": "https://remotejobs.org/companies/aweber"
       },
       "category": {
@@ -135,7 +135,7 @@
       "company": {
         "name": "Fragomen",
         "logo_url": null,
-        "website": null,
+        "website": "https://fragomen.com",
         "url": "https://remotejobs.org/companies/fragomen"
       },
       "category": {
@@ -185,7 +185,7 @@
       "company": {
         "name": "VORKIS knows what employer wants",
         "logo_url": null,
-        "website": null,
+        "website": "https://vorkis.com",
         "url": "https://remotejobs.org/companies/vorkis-knows-what-employer-wants"
       },
       "category": {
@@ -335,7 +335,7 @@
       "company": {
         "name": "VORKIS knows what employer wants",
         "logo_url": null,
-        "website": null,
+        "website": "https://vorkis.com",
         "url": "https://remotejobs.org/companies/vorkis-knows-what-employer-wants"
       },
       "category": {
@@ -1260,7 +1260,7 @@
       "company": {
         "name": "Clariter",
         "logo_url": null,
-        "website": null,
+        "website": "https://clariter.com",
         "url": "https://remotejobs.org/companies/clariter"
       },
       "category": {
@@ -1903,6 +1903,31 @@
       "original_language": null
     },
     {
+      "id": "c69ac525-2c60-49b5-a27f-376c75f9bb4c",
+      "title": "Engineering Manager - Distributed Systems, Python / Go",
+      "url": "https://remotejobs.org/remote-jobs/engineering-manager-distributed-systems-python-go-canonical-ltd",
+      "apply_url": "https://remotejobs.org/remote-jobs/engineering-manager-distributed-systems-python-go-canonical-ltd",
+      "company": {
+        "name": "Canonical Ltd.",
+        "logo_url": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/b4d068a9-221-1.png",
+        "website": "https://canonical.com",
+        "url": "https://remotejobs.org/companies/canonical-ltd"
+      },
+      "category": {
+        "name": "DevOps",
+        "slug": "devops"
+      },
+      "location": "Home Based - Americas; Home based - EMEA",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "type": "Full-time",
+      "description": "<p>Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, as well as industry leaders across many sectors.</p>\n<p>Canonical is a pioneer of global distributed collaboration, with 1,200+ colleagues in 75+ countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution.</p>\n<p>The company is founder-led, profitable, and growing.</p>\n<p>We are hiring an<strong> Engineering Manager for Distributed Systems Testing </strong>to lead a team responsible for the quality engineering platform that enables deployment and validation of distributed systems across Canonical's cloud portfolio.</p>\n<p>We see quality engineering as a first-class engineering practice. Our Distributed Systems Testing team ensures the performance, correctness, resilience and interoperability of Canonical cloud solutions built with technologies such as Juju, Terraform, OpenStack and Kubernetes. These systems are deployed and tested across diverse environments, from bare-metal to the public cloud.</p>\n<p>As Engineering Manager, you will combine strong software engineering judgement with people leadership. You will develop engineering talent, establish effective engineering practices, shape technical direction with senior engineers, and ensure the team delivers high-quality testing infrastructure and automation that enables engineering teams across Canonical to ship software with confidence.</p>\n<p>We believe engineering managers should be outstanding engineers themselves. You should be comfortable reviewing patches, evaluating software design, debugging a distributed system, or discussing test architecture. You will contribute technically where appropriate to set a high standard, while recognizing that your greatest impact comes from shaping the direction, focus, effectiveness, and growth of the whole team.</p>\n<p>You will work closely with senior engineers and engineering leaders across Canonical to define priorities, improve testing capabilities, and advance how we validate increasingly complex cloud-native and distributed systems.</p>\n<p><strong>Location: </strong>This is a globally remote role, typically leading a team concentrated within a major time zone such as EMEA or the Americas.</p>\n<h2><strong>What you'll do</strong></h2>\n<ul>\n<li>Lead, coach, and develop a high-performing team of software and quality engineers, ranging from graduate to senior level</li>\n<li>Set clear expectations, strengthen engineering practices, and ensure timely delivery against agreed goals</li>\n<li>Partner with senior engineers to shape technical strategy, architecture, roadmap, and engineering standards</li>\n<li>Guide the development of automated testing infrastructure for the reliability, interoperability, and resilience of distributed systems</li>\n<li>Improve CI pipelines, testing tools, and reporting used to validate Canonical's products and solutions across bare-metal, private and public cloud environments</li>\n<li>Enable engineering teams across Canonical to adopt effective distributed-systems testing practices and tooling</li>\n<li>Contribute technical leadership through design and code reviews, debugging, and hands-on engineering where appropriate</li>\n<li>Represent the team with stakeholders and collaborate across Canonical on quality engineering, infrastructure, and developer experience</li>\n</ul>\n<h2><strong>What we're looking for in you</strong></h2>\n<ul>\n<li>An exceptional academic track record from both high school and university</li>\n<li>Experience in leading, coaching, and mentoring software engineers</li>\n<li>Professional software engineering experience with Python or Go</li>\n<li>Expertise in distributed systems, cloud infrastructure, quality engineering, or a closely related domain</li>\n<li>Strong knowledge of modern software testing processes, strategies, and automation</li>\n<li>Experience with Linux (Debian or Ubuntu preferred) </li>\n<li>Strong technical judgement and the ability to engage meaningfully in code reviews, architecture discussions, and software design</li>\n<li>Experience working in an agile development environment with the ability to organize a team to deliver high-quality results</li>\n<li>Professional written and spoken English with excellent communication and presentation skills </li>\n<li>Great interpersonal skills, curiosity, flexibility, and accountability, demonstrating passion, thoughtfulness, and self-motivation</li>\n<li>Ability to travel twice a year, for company events up to two weeks each</li>\n</ul>\n<h2><strong>Additional skills we value</strong></h2>\n<p>Experience with any of the following:</p>\n<ul>\n<li>Cloud technologies such as Kubernetes, OpenStack, Juju, Terraform, AWS, Google Cloud, or Azure</li>\n<li>Designing testing strategies for distributed or cloud-native systems</li>\n<li>Building or operating large-scale CI/CD and test infrastructure</li>\n<li>Applying AI or machine learning to test analysis, failure classification, or engineering workflows</li>\n<li>Deploying, operating, or debugging distributed systems</li>\n<li>Leading globally distributed teams</li>\n</ul>\n<h2><strong>What we offer colleagues</strong></h2>\n<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually, and more often for graduates and associates, to ensure we recognize outstanding performance. In addition to base pay, we offer a performance-driven annual bonus.</p>\n<p>We provide all team members with additional benefits that reflect our values and ideals. We balance our programmes to meet local needs and ensure fairness globally.</p>\n<ul>\n<li>Distributed work environment with twice-yearly team sprints in person</li>\n<li>Personal learning and development budget of USD 2,000 per year</li>\n<li>Annual compensation review</li>\n<li>Recognition rewards</li>\n<li>Annual holiday leave</li>\n<li>Maternity and paternity leave</li>\n<li>Employee Assistance Programme and wellness support</li>\n<li>Opportunity to travel to new locations to meet colleagues</li>\n<li>Priority Pass and travel upgrades for long-haul company events</li>\n</ul>\n<h2><strong>About Canonical</strong></h2>\n<p>Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and a leading platform for AI, IoT, and the cloud, we are changing the world of software.</p>\n<p>We recruit globally and set a very high standard for people joining the company. We expect excellence; to succeed, we need to be the best at what we do. Most colleagues at Canonical have worked from home since our inception in 2004. Working here is a step into the future and will challenge you to think differently, work smarter, learn new skills, and raise your game.</p>\n<h3><strong>Canonical is an equal opportunity employer</strong></h3>\n<p><span style=\"font-weight: 300;\">We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. </span><a href=\"https://canonical.com/careers/diversity/identity\"><span style=\"font-weight: 300;\">Whatever your identity, we will give your application fair consideration.</span></a></p>\n<p>Requisition ID: 1361</p>\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/engineering-manager-distributed-systems-python-go-canonical-ltd</p>",
+      "posted_at": "2026-10-01T10:00:23+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
       "id": "b15daf83-2e04-4dc2-b30b-7a690be1e93d",
       "title": "Developer Advocate - Service Management EMEA",
       "url": "https://remotejobs.org/remote-jobs/developer-advocate-service-management-emea-datadog-154340",
@@ -2478,31 +2503,6 @@
       "original_language": null
     },
     {
-      "id": "6c276bb3-228c-40df-9659-01d8a8073130",
-      "title": "Principal Cloud Security Engineer",
-      "url": "https://remotejobs.org/remote-jobs/principal-cloud-security-engineer-lastpass-himala",
-      "apply_url": "https://remotejobs.org/remote-jobs/principal-cloud-security-engineer-lastpass-himala",
-      "company": {
-        "name": "LastPass",
-        "logo_url": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/13842160-221.png",
-        "website": "https://lastpass.com",
-        "url": "https://remotejobs.org/companies/lastpass"
-      },
-      "category": {
-        "name": "DevOps",
-        "slug": "devops"
-      },
-      "location": "Remote",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "type": "Full-time",
-      "description": "About LastPass\nLastPass delivers Secure Access Essentials, helping individuals and organizations manage and protect access to AI, applications, and credentials straight from the browser. Trusted by more than 100,000 businesses and millions of users worldwide, LastPass blends strong security with everyday simplicity. From discovering unapproved AI and applications to reducing login friction and securing credentials across the business, LastPass delivers on its mission to give everyone seamless access to everything they need to work, move fast, and stay protected as their environments evolve.\n\nCurious about our products? Visit our website and try it free!\n\nWe welcome new ideas, support your growth, and recognize your value, if this aligns with what you are looking for in your next career move, Join Us!\n\nLastPass is looking for a Principal Cloud Security Engineer: \n\nAs a Principal Cloud Security Engineer at LastPass, you will partner with DevOps and CI/CD engineers and our Architects team to ensure security best practices are embedded across our cloud infrastructure. We are looking for an experienced security engineering leader with an ability to scale security and make the right trade-off decisions that enable us to offer secure, innovative solutions to customers.\n\nAbout the team:\n\nThe Cloud Security team at LastPass is a collaborative group of talented cloud security engineers working in close partnership with our engineering, platform, and trust & security teams. We are on a mission to safeguard the privacy and security of our company and users' data, embedded directly in the heart of our product development.\n\nIf you are passionate about complex problem solving and motivated by scale, then this is the role for you!\n\nWho will you work with?\n\nYou will work closely with DevOps and CI/CD engineers, Cloud Architects, and cross-functional engineering teams across LastPass. You will also collaborate with our Trust & Security and Platform teams, acting as a key embedded security partner throughout the product and infrastructure development process to drive secure-by-design outcomes at every stage.\n\nWhat are some of the exciting challenges you will be working on?\n\n- Act as a strategic security leader by defining and driving cloud security principles, standards, and reference architectures across the organization\n\n- Use your knowledge of security architecture to help engineers build and securely operate products and services from the ground up\n\n- Assess, design, and implement security processes and controls to meet security, compliance, and audit requirements\n\n- Perform proactive research to identify new threats and attack vectors\n\n- Partner with engineering teams to embed shift-left security practices throughout the software development lifecycle\n\n- Implement and manage cloud and Kubernetes security posture management tooling to continuously monitor and reduce risk across containerized workloads\n\nWhat does it take to work at LastPass?\n\n- Proven experience working with AWS and AWS security services in a secure production environment, including IAM, Config, KMS, Secrets Manager, CloudWatch, CloudTrail, and GuardDuty\n\n- Proven experience working closely with engineering teams and supporting them on their path to shifting security left\n\n- Background with infrastructure as code (AWS CDK, CloudFormation, or Terraform), version control and CI tools such as GitLab and GitLab CI\n\n- Hands-on experience with Kubernetes (AWS EKS), containers (Docker, AWS ECS), K8s admission controllers and Supply Chain Security\n\n- Solid understanding of internet and computer network protocols, including TCP/IP, TLS, and VPN\n\n- Good written and verbal communication skills in English\n\n- Collaborative team player with a hands-on, can-do approach to problem solving\n\nIt's great, but not required: \n\n- AWS Certified Security – Specialty certification or similar.\n\n- General familiarity with AI tools and large language models (e.g., Claude by Anthropic, AWS Bedrock)\n\nWhy LastPass?\n\n- The leader in secure access\n\n- High-growth, collaborative environment with inclusive teams\n\n- Remote-first culture\n\n- Competitive compensation\n\n- Flexible Paid Time Off policies, including but not limited to: Quarterly Self-Care Days (4 extra paid days off annually) and Volunteer Days\n\n- Parental leave\n\n- Comprehensive health coverage, including dependents\n\n- Home office setup support\n\n- LastPass Families free account for up to 5 members\n\n- Continuous learning and development opportunities, including an annual learning stipend to invest in your growth\n\n- Peer-to-peer recognition through Motivosity\n\n- Employee Assistance Program for well-being support\n\n- Remote work stipend to support your home office needs\n\n- Short-Term or Remote-Centric Work Arrangements for added flexibility\n\nUnlock your potential with us - your skills, experience, and unique perspective matter more than just checking the boxes. Apply today, and let's build the future together!\n\nWe’re building an inclusive community that reflects the people of all races, genders, sexual orientations, national origins, backgrounds, and perspectives who share our world.\n\nFor all US based jobs please review our Applicant Privacy Notice\n\nFor all EU based jobs please review our Candidate Privacy Notice \n\nPlease review our CCPA Notice\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/principal-cloud-security-engineer-lastpass-himala</p>",
-      "posted_at": "2026-09-28T20:32:41+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
       "id": "32b69d2c-c7b9-43ae-9115-c1e4900b3b42",
       "title": "Data Engineer",
       "url": "https://remotejobs.org/remote-jobs/data-engineer-agsource",
@@ -2585,7 +2585,7 @@
       "company": {
         "name": "VORKIS knows what employer wants",
         "logo_url": null,
-        "website": null,
+        "website": "https://vorkis.com",
         "url": "https://remotejobs.org/companies/vorkis-knows-what-employer-wants"
       },
       "category": {
