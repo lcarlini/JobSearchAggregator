@@ -1,7 +1,22 @@
 {
-  "generatedAt": "2026-10-07T04:34:33.630Z",
-  "count": 132,
+  "generatedAt": "2026-10-07T12:50:01.908Z",
+  "count": 136,
   "jobs": [
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/toggl-senior-full-stack",
+      "source": "weworkremotely",
+      "title": "Senior Full Stack",
+      "company": "Toggl",
+      "url": "https://weworkremotely.com/remote-jobs/toggl-senior-full-stack",
+      "description": "Headquarters: Tallinn, Estonia URL: https://toggl.com/jobs/ We are looking for a Senior Full Stack Engineer to join one of our Product Tribes, the cross-functional units that own the end-to-end experience for a specific Toggl user role. You'll join the Tribe building for managers, the people who plan work, protect margins, and keep projects on time and on budget. You own significant parts of that experience end-to-end, working hands-on with product and design to ship work that matters. You'll do this as we build and launch Toggl 2.0, our consolidated planning, time tracking, and time intelligence product. The salary for this position is&nbsp; €83,000 annually. You can work from anywhere in the world&nbsp; as long as your main location is between UTC-4 and UTC+4. &nbsp; The Role As a Senior",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "programming"
+      ],
+      "postedAt": "Fri, 28 Aug 2026 14:51:27 +0000",
+      "category": "programming"
+    },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/toptal-salesforce-platform-lead-for-global-industrial-company",
       "source": "weworkremotely",
@@ -363,19 +378,19 @@
       "category": "programming"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/legion-chief-architect",
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/beyondtrust-cloud-engineer",
       "source": "weworkremotely",
-      "title": "Chief Architect",
-      "company": "Legion",
-      "url": "https://weworkremotely.com/remote-jobs/legion-chief-architect",
-      "description": "Headquarters: Remote, United States Chief Architect Remote - US Legion Technologies is building the AI-powered operating system for the hourly workforce. We are hiring a Chief Architect to serve as Legion’s most senior hands-on technical leader and to shape the technical foundation that will power the next decade of product innovation. This is not a strategy-only or advisory role. The Chief Architect must live close to the code, go deep with engineering teams, challenge assumptions, write and review technical designs, make high-consequence architecture decisions, and help turn bold product ambitions into scalable, reliable production systems. This person will own architecture and technical decision-making for the most complex parts of Legion’s Workforce Management platform, including AI, o",
+      "title": "Cloud Engineer",
+      "company": "BeyondTrust",
+      "url": "https://weworkremotely.com/remote-jobs/beyondtrust-cloud-engineer",
+      "description": "Headquarters: Remote Canada | Remote United States BeyondTrust is a place where you can bring your purpose to life through the work that you do, creating a safer world through our cybersecurity SaaS portfolio. Our culture of flexibility, trust, and continual learning means you will be recognized for your growth, and for the impact you make on our success. You will be surrounded by people who challenge, support, and inspire you to be the best version of yourself. The Role The Cloud Engineer designs, secures, and supports mission-critical cloud infrastructure that enables reliable services for users worldwide. The successful candidate demonstrates strong technical judgment, operational discipline, and the ability to apply practical solutions to complex cloud engineering challenges. What You’",
       "location": "Anywhere in the World",
       "tags": [
-        "Full-Stack Programming",
-        "programming"
+        "DevOps and Sysadmin",
+        "devops"
       ],
-      "postedAt": "Mon, 07 Sep 2026 07:30:47 +0000",
-      "category": "programming"
+      "postedAt": "Wed, 07 Oct 2026 07:30:53 +0000",
+      "category": "devops"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/pagerduty-principal-solutions-consultant",
@@ -633,19 +648,19 @@
       "category": "devops"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/fastly-senior-sre-networks",
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/abnormal-designer-creative-services",
       "source": "weworkremotely",
-      "title": "Senior SRE - Networks",
-      "company": "Fastly",
-      "url": "https://weworkremotely.com/remote-jobs/fastly-senior-sre-networks",
-      "description": "Headquarters: United Kingdom (Remote) Fastly helps people stay better connected with the things they love. Fastly’s edge cloud platform enables customers to create great digital experiences quickly, securely, and reliably by processing, serving, and securing our customers’ applications as close to their end-users as possible — at the edge of the Internet. The platform is designed to take advantage of the modern internet, to be programmable, and to support agile software development. Fastly’s customers include many of the world’s most prominent companies, including GitHub, Yelp, Paramount, and JetBlue. We're building a more trustworthy Internet. Come join us. Senior SRE - Networks Fastly’s Technical Operations (TechOps) team is responsible for building & operating the infrastructure that po",
+      "title": "Designer, Creative Services",
+      "company": "Abnormal",
+      "url": "https://weworkremotely.com/remote-jobs/abnormal-designer-creative-services",
+      "description": "Headquarters: Remote - USA About the Role We're seeking a Designer to join Abnormal AI's Creative Services team. As a member of the in-house studio, you'll play a key role in bringing our visual identity to life across a wide range of touchpoints, including campaigns and digital surfaces to social, events, and brand content. This is a hands-on execution role for a designer who is comfortable working across a broad spectrum of asset types and moving fluidly between projects. You care deeply about craft and quality, you're comfortable taking direction and running with it, and you thrive in a fast-moving, collaborative environment. You bring a genuine curiosity for how AI tools can accelerate and elevate your creative process. What You Will Do Produce high-quality design assets across brand t",
       "location": "Anywhere in the World",
       "tags": [
-        "DevOps and Sysadmin",
-        "devops"
+        "Design",
+        "design"
       ],
-      "postedAt": "Mon, 07 Sep 2026 07:30:54 +0000",
-      "category": "devops"
+      "postedAt": "Wed, 07 Oct 2026 07:30:42 +0000",
+      "category": "design"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/contra-senior-3d-designer",
@@ -1053,6 +1068,36 @@
       "category": "design"
     },
     {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/current-producer-client-experience-growth-contract",
+      "source": "weworkremotely",
+      "title": "Producer, Client Experience & Growth (Contract)",
+      "company": "Current",
+      "url": "https://weworkremotely.com/remote-jobs/current-producer-client-experience-growth-contract",
+      "description": "Headquarters: Remote (US) At Current At Current, we partner with ambitious brands to create digital experiences that drive meaningful business results. By bringing together strategy, design, production, and technology, we help organizations solve complex challenges and build experiences that create lasting impact. We're looking for a Producer, Client Experience & Growth to support our business development efforts by producing proposals, coordinating pitches, and keeping new business opportunities moving from intake through handoff. This role works closely with strategy, creative, production, and operations teams to deliver a seamless experience for prospective clients while ensuring every proposal is organized, polished, and on time. What You'll Do Coordinate business development opportuni",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Product",
+        "product"
+      ],
+      "postedAt": "Wed, 07 Oct 2026 07:31:04 +0000",
+      "category": "product"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/expel-product-manager-detection-pipeline",
+      "source": "weworkremotely",
+      "title": "Product Manager, Detection Pipeline",
+      "company": "Expel",
+      "url": "https://weworkremotely.com/remote-jobs/expel-product-manager-detection-pipeline",
+      "description": "Headquarters: Remote You live at the intersection of security and product management, and there's no place you'd rather be. You understand that the detection pipeline isn't just plumbing. It's the connective tissue that turns raw security data into signal, and if ingestion, normalization, or correlation break down, everything downstream suffers. You're not intimidated by the scale and complexity of data flowing through a modern security platform. Quite the opposite: you pride yourself on knowing how data moves from source to detection, where the pipeline breaks, and what it takes to make it fast, reliable, and cost effective. You’ve got an informed opinion about what an MDR should detect, an opinion that comes from customer empathy, hands-on industry knowledge, and a set of experiences tha",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Product",
+        "product"
+      ],
+      "postedAt": "Wed, 07 Oct 2026 07:31:00 +0000",
+      "category": "product"
+    },
+    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/semaphore-senior-product-engineer",
       "source": "weworkremotely",
       "title": "Senior Product Engineer",
@@ -1321,6 +1366,36 @@
       ],
       "postedAt": "Thu, 10 Sep 2026 19:39:20 +0000",
       "category": "product"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/coinbase-analyst-privacy",
+      "source": "weworkremotely",
+      "title": "Analyst, Privacy",
+      "company": "Coinbase",
+      "url": "https://weworkremotely.com/remote-jobs/coinbase-analyst-privacy",
+      "description": "Headquarters: Remote - USA Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.”&nbsp; learn more about working at Coinbase . Coinbase's Privacy team is hiring a Privacy Analyst to own the Privacy Incident Management function, reporting to the Head of Privacy. You'll partner across Priva",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Wed, 07 Oct 2026 07:31:00 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/dremio-software-engineer-query-execution",
+      "source": "weworkremotely",
+      "title": "Software Engineer - Query Execution",
+      "company": "Dremio",
+      "url": "https://weworkremotely.com/remote-jobs/dremio-software-engineer-query-execution",
+      "description": "Headquarters: Portugal - Remote Be Part of Building the Future Dremio is the unified lakehouse platform for self-service analytics and AI, serving hundreds of global enterprises, including Maersk, Amazon, Regeneron, NetApp, and S&P Global. Customers rely on Dremio for cloud, hybrid, and on-prem lakehouses to power their data mesh, data warehouse migration, data virtualization, and unified data access use cases. Based on open source technologies, including Apache Iceberg and Apache Arrow, Dremio provides an open lakehouse architecture enabling the fastest time to insight and platform flexibility at a fraction of the cost.&nbsp; Learn more at&nbsp; www.dremio.com. About the role Dremio’s Query Execution team builds the runtime responsible for executing analytical queries at scale. The team s",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Wed, 07 Oct 2026 07:30:53 +0000",
+      "category": "full-stack"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/lemon-io-senior-angular-full-stack-developer",
@@ -1620,21 +1695,6 @@
         "full-stack"
       ],
       "postedAt": "Mon, 28 Sep 2026 07:31:05 +0000",
-      "category": "full-stack"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/toggl-senior-full-stack",
-      "source": "weworkremotely",
-      "title": "Senior Full Stack",
-      "company": "Toggl",
-      "url": "https://weworkremotely.com/remote-jobs/toggl-senior-full-stack",
-      "description": "Headquarters: Tallinn, Estonia URL: https://toggl.com/jobs/ We are looking for a Senior Full Stack Engineer to join one of our Product Tribes, the cross-functional units that own the end-to-end experience for a specific Toggl user role. You'll join the Tribe building for managers, the people who plan work, protect margins, and keep projects on time and on budget. You own significant parts of that experience end-to-end, working hands-on with product and design to ship work that matters. You'll do this as we build and launch Toggl 2.0, our consolidated planning, time tracking, and time intelligence product. The salary for this position is&nbsp; €83,000 annually. You can work from anywhere in the world&nbsp; as long as your main location is between UTC-4 and UTC+4. &nbsp; The Role As a Senior",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Fri, 28 Aug 2026 14:51:27 +0000",
       "category": "full-stack"
     },
     {
