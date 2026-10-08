@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-08T04:46:17.155Z",
-  "count": 135,
+  "generatedAt": "2026-10-08T12:54:41.361Z",
+  "count": 140,
   "jobs": [
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/dremio-senior-staff-software-engineer-query-execution",
@@ -378,6 +378,51 @@
       "category": "programming"
     },
     {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/bluegeko-it-infrastructure-engineer",
+      "source": "weworkremotely",
+      "title": "IT Infrastructure Engineer",
+      "company": "BlueGeko",
+      "url": "https://weworkremotely.com/remote-jobs/bluegeko-it-infrastructure-engineer",
+      "description": "Headquarters: London URL: http://bluegeko.com IT Infrastructure Engineer (Full-Time / Remote) We are looking for an experienced IT Infrastructure Engineer to manage, maintain, and improve our company's IT systems, networks, and infrastructure. What You'll Do Manage and maintain IT infrastructure, servers, and networks. Monitor system performance, security, and reliability. Troubleshoot infrastructure, hardware, and network issues. Manage access controls, backups, and system configurations. Support infrastructure upgrades, migrations, and improvements. Ensure systems remain secure, scalable, and operational. Must Have 4+ years of IT infrastructure or systems administration experience. Strong knowledge of Windows and Linux environments. Experience with networking (TCP/IP, DNS, VPNs, firewall",
+      "location": "Anywhere in the World",
+      "tags": [
+        "DevOps and Sysadmin",
+        "devops"
+      ],
+      "postedAt": "Thu, 08 Oct 2026 07:54:30 +0000",
+      "category": "devops"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/vercel-security-software-engineer-iam",
+      "source": "weworkremotely",
+      "title": "Security Software Engineer, IAM",
+      "company": "Vercel",
+      "url": "https://weworkremotely.com/remote-jobs/vercel-security-software-engineer-iam",
+      "description": "Headquarters: Remote - United States About Vercel: Vercel is the agentic infrastructure company, freeing people and agents to ship what's next. For more than a decade we've helped builders move from idea to production with speed, security, and exceptional developer experience. Now we're scaling our products for both agents and people to ship and run software, built in the open and trusted by OpenAI, PayPal, Ramp, Supreme, and millions of developers worldwide. About the Role: Traditional IAM teams operate as an approval queue: a request comes in, someone reviews it, grants it, and (hopefully) remembers to revoke it. Access reviews become quarterly spreadsheet exercises, audit evidence is assembled by hand, and the central team becomes the bottleneck for every decision. That model doesn't sc",
+      "location": "Anywhere in the World",
+      "tags": [
+        "DevOps and Sysadmin",
+        "devops"
+      ],
+      "postedAt": "Thu, 08 Oct 2026 07:31:26 +0000",
+      "category": "devops"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/abnormal-director-renewals",
+      "source": "weworkremotely",
+      "title": "Director, Renewals",
+      "company": "Abnormal",
+      "url": "https://weworkremotely.com/remote-jobs/abnormal-director-renewals",
+      "description": "Headquarters: Remote - USA About the Role Abnormal AI is looking for a Director of Renewals to own the strategy, performance, and operating model for our global renewals function. Reporting to the VP of Customer Success, you will lead the renewals organization and own revenue retention across Abnormal's multi-product behavioral security platform. You will build the renewals engine that makes retention and cross-product expansion predictable at scale, set the standard for how Abnormal renews and expands its customers, and turn customer obsession into measurable retention outcomes. What you will do&nbsp; Own Abnormal's renewals strategy and operating model end to end: define the renewal motion, the segmentation approach, the playbooks, and the systems that enable the function to scale ahead ",
+      "location": "Anywhere in the World",
+      "tags": [
+        "DevOps and Sysadmin",
+        "devops"
+      ],
+      "postedAt": "Thu, 08 Oct 2026 07:31:21 +0000",
+      "category": "devops"
+    },
+    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/beyondtrust-cloud-engineer",
       "source": "weworkremotely",
       "title": "Cloud Engineer",
@@ -498,21 +543,6 @@
       "category": "devops"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/collibra-cps-solution-architect-1",
-      "source": "weworkremotely",
-      "title": "CPS Solution Architect",
-      "company": "Collibra",
-      "url": "https://weworkremotely.com/remote-jobs/collibra-cps-solution-architect-1",
-      "description": "Headquarters: Remote, USA Joining Collibra’s CPS Solution Architect Team At Collibra Public Sector, our Professional Services team relies on Federal Solution Architects to deliver on customer expectations for the services we sell, working directly with customer key projects stakeholders throughout the entire customer journey. Ensuring growth, adoption and renewal, Federal Solution Architects act as customer champions, ensuring customers are onboarded and realizing value rapidly.&nbsp; Federal Solution Architects are responsible for Supporting federal customer engagements by delivering mission-aligned architectural design and execution of Collibra products that adhere to Collibra Public Sector’s Delivery Models, Engagement Processes, Methodologies, and Artifacts, while ensuring compliance w",
-      "location": "Anywhere in the World",
-      "tags": [
-        "DevOps and Sysadmin",
-        "devops"
-      ],
-      "postedAt": "Mon, 28 Sep 2026 07:31:13 +0000",
-      "category": "devops"
-    },
-    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/collibra-cps-solution-architect",
       "source": "weworkremotely",
       "title": "CPS Solution Architect",
@@ -540,21 +570,6 @@
         "devops"
       ],
       "postedAt": "Fri, 25 Sep 2026 00:33:21 +0000",
-      "category": "devops"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/huntress-sales-development-representative-mid-market",
-      "source": "weworkremotely",
-      "title": "Sales Development Representative - Mid-Market",
-      "company": "Huntress",
-      "url": "https://weworkremotely.com/remote-jobs/huntress-sales-development-representative-mid-market",
-      "description": "Headquarters: Remote US Reports to: SDR Manager Location: Remote US Compensation Range: $58,500 base with on-target earnings at $78,000 plus equity &nbsp; What We Do:&nbsp; Cybercrime is growing, and more businesses are getting hit by threats that used to target only the biggest organizations. That pushes defenders like us to operate at the highest level, and it deepens our need for good people who want to make a meaningful impact. Founded in 2015 by former NSA cyber operators, Huntress is a remote-first team working to make enterprise-grade cybersecurity accessible to businesses of all sizes. We work closely with security teams and service providers protecting complex environments, often without the time or headcount to handle it all. That’s why we build our technology in-house and back i",
-      "location": "Anywhere in the World",
-      "tags": [
-        "DevOps and Sysadmin",
-        "devops"
-      ],
-      "postedAt": "Mon, 21 Sep 2026 07:30:39 +0000",
       "category": "devops"
     },
     {
@@ -633,19 +648,19 @@
       "category": "devops"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/jfrog-senior-professional-services-devops-engineer",
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/vercel-site-engineer",
       "source": "weworkremotely",
-      "title": "Senior Professional Services DevOps Engineer",
-      "company": "JFrog",
-      "url": "https://weworkremotely.com/remote-jobs/jfrog-senior-professional-services-devops-engineer",
-      "description": "Headquarters: Remote, Canada ** Open to remote within the East Coast only** At JFrog, we’re reinventing DevOps to help the world’s greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if you’re willing to do more, your career can take off. And since software plays a central role in everyone’s lives, you’ll be part of an important mission. Thousands of customers, including the majority of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production -- a concept we call “liquid software.” Wouldn't it be amazing if you could join us in our journey? If you love working with brilliant people, being part of an energetic te",
+      "title": "Site Engineer",
+      "company": "Vercel",
+      "url": "https://weworkremotely.com/remote-jobs/vercel-site-engineer",
+      "description": "Headquarters: Remote - United States About Vercel: Vercel is the agentic infrastructure company, freeing people and agents to ship what's next. For more than a decade we've helped builders move from idea to production with speed, security, and exceptional developer experience. Now we're scaling our products for both agents and people to ship and run software, built in the open and trusted by OpenAI, PayPal, Ramp, Supreme, and millions of developers worldwide. About the Role: As a growth-focused Fullstack Engineer on our team, you will play a central role in driving user acquisition, conversion, and retention through highly performant and visually stunning web experiences. You will collaborate with cross-functional teams—from marketing to sales to product design—to build dynamic pages, run ",
       "location": "Anywhere in the World",
       "tags": [
-        "DevOps and Sysadmin",
-        "devops"
+        "Design",
+        "design"
       ],
-      "postedAt": "Tue, 08 Sep 2026 07:31:09 +0000",
-      "category": "devops"
+      "postedAt": "Thu, 08 Oct 2026 07:31:34 +0000",
+      "category": "design"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/abnormal-designer-creative-services",
@@ -1368,6 +1383,66 @@
       "category": "product"
     },
     {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/lemon-io-senior-net-full-stack-developer-2",
+      "source": "weworkremotely",
+      "title": "Senior .NET Full-stack Developer",
+      "company": "Lemon.io",
+      "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-net-full-stack-developer-2",
+      "description": "Headquarters: New York, NY URL: https://lemon.io Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. We'll manually find the best project for you according to your skills and preferences. Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours. We respect your seniority so you can expe",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Thu, 08 Oct 2026 11:41:36 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer-iv-biometrics",
+      "source": "weworkremotely",
+      "title": "Machine Learning Engineer - IV (Biometrics)",
+      "company": "Jumio",
+      "url": "https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer-iv-biometrics",
+      "description": "Headquarters: India (remote) Role Purpose We’re looking for a Staff/Senior Machine Learning Engineer with deep expertise in computer vision and biometrics to lead the design and scaling of face recognition systems in production. You’ll build and train models, and own ML systems end-to-end on AWS. The final job level for this role will be determined following the interview process. What You’ll Do Lead the design and development of computer vision systems for biometrics (face attributes, detection, quality, and recognition) Rigorous fairness analysis and benchmarking of biometric models across various datasets and operating conditions. Architect, train, and optimize models using PyTorch, Tensorflow, and/or JAX Own and evolve end-to-end ML pipelines, from data ingestion to deployment. Design ",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Thu, 08 Oct 2026 07:31:21 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer",
+      "source": "weworkremotely",
+      "title": "Machine Learning Engineer",
+      "company": "Jumio",
+      "url": "https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer",
+      "description": "Headquarters: Austria (remote) Machine Learning Engineer&nbsp; We’re looking for a Machine Learning Engineer with deep expertise in computer vision and biometrics to lead the design and scaling of face recognition systems in production. You’ll build and train models, and own ML systems end-to-end on AWS. The final job level for this role will be determined following the interview process. What You’ll Do Lead the design and development of computer vision systems for biometrics (face attributes, detection, quality, and recognition) Rigorous fairness analysis and benchmarking of biometric models across various datasets and operating conditions. Architect, train, and optimize models using PyTorch, Tensorflow, and/or JAX Own and evolve end-to-end ML pipelines, from data ingestion to deployment.",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Thu, 08 Oct 2026 07:31:21 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/abnormal-director-of-security-engineering",
+      "source": "weworkremotely",
+      "title": "Director of Security Engineering",
+      "company": "Abnormal",
+      "url": "https://weworkremotely.com/remote-jobs/abnormal-director-of-security-engineering",
+      "description": "Headquarters: Remote - USA About the Role Abnormal AI protects organizations from the most sophisticated email and collaboration attacks using behavioral AI. Security is not a bolt-on at Abnormal; it is core to the product we sell and the trust our customers place in us. Our security organization operates a commercial cloud environment and a separate FedRAMP-authorized environment, and we are pursuing increasingly rigorous federal authorizations as we grow. We are hiring a Director of Security reporting to the CISO and leading the Security Engineering organization. You will build and scale high-performing security teams, own major security programs end to end, and operate autonomously in the CISO's absence, including representing security to executive leadership, customers, and auditors. T",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Thu, 08 Oct 2026 07:31:00 +0000",
+      "category": "full-stack"
+    },
+    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/coinbase-analyst-privacy",
       "source": "weworkremotely",
       "title": "Analyst, Privacy",
@@ -1410,21 +1485,6 @@
         "full-stack"
       ],
       "postedAt": "Tue, 06 Oct 2026 13:25:57 +0000",
-      "category": "full-stack"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/dropbox-director-of-media-strategy-activation-paid-media",
-      "source": "weworkremotely",
-      "title": "Director of Media Strategy & Activation (Paid Media)",
-      "company": "Dropbox",
-      "url": "https://weworkremotely.com/remote-jobs/dropbox-director-of-media-strategy-activation-paid-media",
-      "description": "Headquarters: Remote - US: Select locations Role Description Dropbox is looking for a Director of Media to own our total media investment—performance and brand—under a single leader. This leader will build a unified media strategy that brings performance marketing and brand investments together into one investment thesis and one operating model. They will own the media portfolio end-to-end, from upper-funnel brand campaigns through paid search, paid social, programmatic, mobile, and emerging channels, making investment tradeoffs as business priorities evolve.&nbsp; The role also owns how the media organization operates, balancing in-house expertise, agency partnerships, and specialist support to maximize speed, quality, and impact. The ideal candidate has worked on both sides of the indust",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Tue, 06 Oct 2026 07:31:26 +0000",
       "category": "full-stack"
     },
     {
@@ -1741,6 +1801,21 @@
       ],
       "postedAt": "Mon, 13 May 2024 03:14:30 +0000",
       "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/faire-senior-business-recruiter",
+      "source": "weworkremotely",
+      "title": "Senior Business Recruiter",
+      "company": "Faire",
+      "url": "https://weworkremotely.com/remote-jobs/faire-senior-business-recruiter",
+      "description": "Headquarters: Kitchener-Waterloo, ON; Remote - Canada (British Columbia, Alberta, Nova Scotia); Toronto, ON About Faire Faire is a technology wholesale platform built on the belief that the future is local. Independent retailers around the globe collectively represent a multi-hundred-billion-dollar wholesale market that has historically been fragmented and offline. At Faire, we're using the power of tech, data, and machine learning to connect this thriving community of entrepreneurs across the globe. Picture your favorite boutique in town — we help them discover the best products from around the world to sell in their stores. With the right tools and insights, we believe that we can level the playing field so businesses can grow and local communities can thrive. We’re looking for smart, re",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Management and Finance",
+        "management"
+      ],
+      "postedAt": "Thu, 08 Oct 2026 07:31:21 +0000",
+      "category": "management"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/webflow-senior-developer-educator",
