@@ -1,7 +1,22 @@
 {
-  "generatedAt": "2026-10-08T12:54:41.361Z",
-  "count": 140,
+  "generatedAt": "2026-10-08T23:02:45.592Z",
+  "count": 139,
   "jobs": [
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/dremio-software-engineer-developer-experience",
+      "source": "weworkremotely",
+      "title": "Software Engineer - Developer Experience",
+      "company": "Dremio",
+      "url": "https://weworkremotely.com/remote-jobs/dremio-software-engineer-developer-experience",
+      "description": "Headquarters: Portugal - Remote Be Part of Building the Future Dremio is the unified lakehouse platform for self-service analytics and AI, serving hundreds of global enterprises, including Maersk, Amazon, Regeneron, NetApp, and S&P Global. Customers rely on Dremio for cloud, hybrid, and on-prem lakehouses to power their data mesh, data warehouse migration, data virtualization, and unified data access use cases. Based on open source technologies, including Apache Iceberg and Apache Arrow, Dremio provides an open lakehouse architecture enabling the fastest time to insight and platform flexibility at a fraction of the cost.&nbsp; Learn more at&nbsp; www.dremio.com. About the role In this role you will get opportunities to implement and maintain CI/CD systems and developer productivity solutio",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "programming"
+      ],
+      "postedAt": "Mon, 28 Sep 2026 07:31:05 +0000",
+      "category": "programming"
+    },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/dremio-senior-staff-software-engineer-query-execution",
       "source": "weworkremotely",
@@ -360,21 +375,6 @@
         "programming"
       ],
       "postedAt": "Wed, 09 Sep 2026 07:30:41 +0000",
-      "category": "programming"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/lemon-io-senior-net-full-stack-developer-1",
-      "source": "weworkremotely",
-      "title": "Senior .NET Full-stack Developer",
-      "company": "Lemon.io",
-      "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-net-full-stack-developer-1",
-      "description": "Headquarters: New York, NY URL: https://lemon.io Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. We'll manually find the best project for you according to your skills and preferences. Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours. We respect your seniority so you can expe",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "programming"
-      ],
-      "postedAt": "Tue, 08 Sep 2026 13:49:13 +0000",
       "category": "programming"
     },
     {
@@ -1725,21 +1725,6 @@
         "full-stack"
       ],
       "postedAt": "Tue, 29 Sep 2026 07:30:41 +0000",
-      "category": "full-stack"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/dremio-software-engineer-developer-experience",
-      "source": "weworkremotely",
-      "title": "Software Engineer - Developer Experience",
-      "company": "Dremio",
-      "url": "https://weworkremotely.com/remote-jobs/dremio-software-engineer-developer-experience",
-      "description": "Headquarters: Portugal - Remote Be Part of Building the Future Dremio is the unified lakehouse platform for self-service analytics and AI, serving hundreds of global enterprises, including Maersk, Amazon, Regeneron, NetApp, and S&P Global. Customers rely on Dremio for cloud, hybrid, and on-prem lakehouses to power their data mesh, data warehouse migration, data virtualization, and unified data access use cases. Based on open source technologies, including Apache Iceberg and Apache Arrow, Dremio provides an open lakehouse architecture enabling the fastest time to insight and platform flexibility at a fraction of the cost.&nbsp; Learn more at&nbsp; www.dremio.com. About the role In this role you will get opportunities to implement and maintain CI/CD systems and developer productivity solutio",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Mon, 28 Sep 2026 07:31:05 +0000",
       "category": "full-stack"
     },
     {
