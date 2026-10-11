@@ -1,7 +1,22 @@
 {
-  "generatedAt": "2026-10-10T21:16:28.569Z",
+  "generatedAt": "2026-10-11T04:19:01.954Z",
   "count": 142,
   "jobs": [
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/air-apps-framer-website-designer-1",
+      "source": "weworkremotely",
+      "title": "Framer Website Designer",
+      "company": "Air Apps",
+      "url": "https://weworkremotely.com/remote-jobs/air-apps-framer-website-designer-1",
+      "description": "Headquarters: Helsinki URL: http://airapps.com Framer Website Designer (Onsite – Presidio, San Francisco) About Air Apps At Air Apps, we believe in thinking bigger and moving faster. We’re a family-founded company on a mission to create the world’s first AI-powered Personal & Entrepreneurial Resource Planner (PRP), and we need your passion and ambition to help us change how people plan, work, and live. Born in Lisbon, Portugal in 2018 and now with offices in both Lisbon and San Francisco, we’ve remained self-funded while reaching over 100 million downloads worldwide. Our long-term focus drives us to challenge the status quo every day, pushing the boundaries of AI-driven solutions that truly make a difference. Here, you’ll be a creative force, shaping products that empower people across the",
+      "location": "Helsinki",
+      "tags": [
+        "Front-End Programming",
+        "programming"
+      ],
+      "postedAt": "Mon, 28 Sep 2026 22:12:46 +0000",
+      "category": "programming"
+    },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/wisevu-web-development-project-manager",
       "source": "weworkremotely",
@@ -360,21 +375,6 @@
         "programming"
       ],
       "postedAt": "Fri, 11 Sep 2026 07:30:48 +0000",
-      "category": "programming"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/toptal-power-platform-solutions-architect",
-      "source": "weworkremotely",
-      "title": "Power Platform Solutions Architect",
-      "company": "Toptal",
-      "url": "https://weworkremotely.com/remote-jobs/toptal-power-platform-solutions-architect",
-      "description": "Headquarters: We are looking for a Power Platform Solutions Architect for a global company. Their goal is to assess and modernize an existing Power Platform solution, define the target architecture, and lead the technical design of a scalable and secure implementation. Required Skills: Deep hands-on experience with Microsoft Power Platform, including Power Apps (canvas and model-driven), Power Automate, Dataverse, Power Pages, and Power BI Strong experience designing Dataverse schemas and security roles Azure architecture experience with API Management, Azure Functions, Key Vault, Entra ID/SSO, and Azure Monitor/Application Insights Experience designing enterprise integration architectures, including integrations where counterpart APIs or contracts are uncertain, changing, or being migrate",
-      "location": "North America Only",
-      "tags": [
-        "Full-Stack Programming",
-        "programming"
-      ],
-      "postedAt": "Thu, 10 Sep 2026 21:30:33 +0000",
       "category": "programming"
     },
     {
