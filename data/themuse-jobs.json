@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T21:36:04.468Z",
+  "generatedAt": "2026-10-12T04:34:21.766Z",
   "count": 202,
   "jobs": [
     {
@@ -1756,6 +1756,43 @@
         "id": 12145,
         "short_name": "bankofamerica",
         "name": "Bank of America"
+      }
+    },
+    {
+      "contents": "<p><b>About the team</b><br><br>The AM&amp;D (Autonomous Mobility &amp; Delivery) team owns the autonomous future of Uber's Rides and Eats business, which is one of Uber's most important bets as a public company that sets the world in motion. Our goal is to eventually enable mass-scale AV commercialization globally in all 10000+ cities Uber operates. We are just getting started.<br><br>As we gradually but surely move towards this future, there are a full spectrum of engineering challenges that need to be tackled. For Autonomous Mobility Product Engineering team, specifically:<br><ul><li>How do we drive AV adoptions with informative, trustworthy and exciting experiences?</li><li>How do we make sure a rider's autonomous ride share experience is still safe, informative and trustworthy without a human driver to interact with? From pickup, to on trip to drop off.</li></ul><br>We are solving problems that have never been solved before. Creating solutions that will shape the world's future in autonomous transportation. Therefore we are looking for the best software engineering talents to join us to write this future chapter for humanity.<br><br><b>What You'll Do</b><br><br>As a Senior Software Engineer, you will be expected to lead key projects that contribute to one or several top line KPIs for the team. You will work closely with cross functional partners to develop product requirements and technical designs, and push these plans into fruition. <br><ul><li>Develop a strategic roadmap that helps Uber to achieve specific business goals that forwards its strategic goals that strengthens Uber's position as the Autonomous Vehicle rideshare platform of choice. </li><li>Lead and guide end to end execution of multiple projects concurrently across multiple lines of businesses with deep knowledge and intuitions around experience, marketplace dynamics and platform versatility to drive key metrics from projects to projects. </li><li>Ship new products and paradigms that move KPIs quarter over quarter while ensuring platform stability.</li><li>Develop tech that future proofs Uber's tech stack for Autonomous Vehicle use cases while making broader company-wide impact where applicable.</li></ul><br><b>Basic Qualifications</b><br><br>PhD or equivalent in Computer Science, Engineering, Mathematics or related field AND 2-years full-time Software Engineering work experience OR 5-years full-time Software Engineering work experience, WHICH INCLUDES 3-years total technical software engineering experience in one or more of the following areas:<br><br>Programming language (e.g. C, C++, Java, Python, or Go)<br><br>Note the 3-years total of specialized software engineering experience may have been gained through education and full-time work experience, additional training, coursework, research, or similar (OR some combination of these). The years of specialized experience are not necessarily in addition to the years of Education &amp; full-time work experience indicated.<br><br><b>Preferred Qualifications</b><br><ul><li>5+ years of total software development experience</li><li>Prefer background in autonomous vehicles (AV), with hands-on experience in developing, testing, or optimizing AV systems or related technologies.</li><li>Strong product engineering background and technical skillset.</li><li>Business-driven mindset to lead cross-functional and inter-company collaborations, driving key projects that directly impact team KPIs.</li><li><strong>Ability to anticipate opportunities and technical challenges coming with business expansions, while developing future-proof solutions for Autonomous Vehicle use cases.</strong></li><li>Extensive experience with fast-pace metrics-driven and business-driven product iterations with strong reliability guardrails</li><li>Experience in crafting and developing large scale distributed systems and scalable backend services that powers fast-pace product iterations using a microservices architecture</li><li>Extensive experience working in a fast changing, groundbreaking domain. </li><li>Background in transportation and / or autonomous vehicle industry</li><li>Extensive experience building modular and scalable solutions that caters to a variety of clients and use cases.</li><li>Extensive experience with product engineering applications of Operations Research.</li><li>Extensive experience navigating complex cross functional collaboration: Aside from day to day collaboration with product and design counterparts, extensive experience working with business, legal, operations, technical project management, etc to drive consensus.</li><li>Extensive experience working closely with external partner engineering teams and their cross-functional partners.</li><li>Any level of enterprise mobile engineering experience</li></ul> <br>For San Francisco, CA-based roles: The base salary range for this role is USD $202,000 per year - USD $224,000 per year.<br> <br>For Seattle, WA-based roles: The base salary range for this role is USD $202,000 per year - USD $224,000 per year.<br> <br>For all US locations, you will be eligible to participate in Uber's bonus program, and may be offered an equity award &amp; other types of comp. All full-time employees are eligible to participate in a 401(k) plan. You will also be eligible for various benefits.<br> <br><strong>Ready to Ride?</strong><br> <br>This isn't the kind of place where you follow a playbook - it's where you help write one. If you're driven by impact, energized by challenge, and ready to shape how the world moves - we'd love to hear from you.<br> <br>You may be eligible for bonuses, equity, and other compensation, as well as a range of benefits. Explore our benefits. <br> <br>Offices remain key to collaboration and Uber's culture. Unless approved for full remote work, employees must spend at least 50% of their time in-office. Some roles, like those at greenlight hubs, require full-time in-office presence. Ask your Recruiter for details about this role's requirements.<br> <br>Uber is proud to be an Equal Opportunity employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you have a disability or special need that requires accommodation, please let us know by completing this form.</p>",
+      "name": "Sr Software Engineer - Engineer",
+      "type": "external",
+      "publication_date": "2026-10-11T22:09:16Z",
+      "short_name": "sr-software-engineer-engineer-836d15",
+      "model_type": "jobs",
+      "id": 22171922,
+      "locations": [
+        {
+          "name": "San Francisco, CA"
+        },
+        {
+          "name": "Seattle, WA"
+        }
+      ],
+      "categories": [
+        {
+          "name": "Software Engineering"
+        }
+      ],
+      "levels": [
+        {
+          "name": "Senior Level",
+          "short_name": "senior"
+        }
+      ],
+      "tags": [],
+      "refs": {
+        "landing_page": "https://www.themuse.com/jobs/uber/sr-software-engineer-engineer-836d15"
+      },
+      "company": {
+        "id": 61,
+        "short_name": "uber",
+        "name": "Uber"
       }
     },
     {
@@ -3573,40 +3610,6 @@
         "id": 15000770,
         "short_name": "kantar",
         "name": "Kantar"
-      }
-    },
-    {
-      "contents": "<p>Overview: <p><span>SimVentions is a 100% employee-owned business and has consistently been voted one of Virginia's Best Places to Work. We are&nbsp;seeking a mid-level Network/RF Technician with a broad skill set to support the RF Sensors program out of NSWC Dahlgren. The work location will be at Naval Station Norfolk, Little Creek Naval Base and SimV Virginia Beach office. The RF Sensors program is a communication program involving a family of systems supporting multiple DoD entities and Federal agencies. RF Sensors provides rapid engineering solutions to emergent non-conventional threats, integrating microelectronics and scalable network and communication capabilities for immediate operational deployment. The team is responsible for the entire lifecycle of the systems it creates, including hardware, networks, and software design, development, testing, fielding, and support. The team collaborates extensively which is beneficial to mission success and the functional decomposition of the work that needs to be completed.</span></p> Travel: 15% - Occasional Travel both CONUS and OCONUS Clearance: <p><span>An ACTIVE Secret Clearance is required for this position. Applicants selected will be subject to a security investigation and may need to meet eligibility requirements for access to classified information. US Citizenship is required to obtain a clearance.</span></p> Requirements: <ul><li>United States Citizenship</li><li>Experience in designing, architecting, and troubleshooting networks</li><li>Proficiency in configuring hardware appliances including mesh network radios(i.e. MPU5), routers, switches, firewalls, and security appliances (VPNs)</li><li>Working knowledge and experience with WinTAK/ATAK</li><li>Design and implementation of network traffic segregation using VLANs, firewalls, and VPNs</li><li>Familiarity with Linux-based network service configuration (iptables, firewalld, sshd)</li><li>Experience in designing and architecting networks</li><li>Proficiency in configuring hardware appliances including routers, switches, firewalls, communication systems (various radios and cellular technologies), and security appliances (VPNs)</li><li>Design and implementation of network traffic segregation using VLANs, firewalls, and VPNs</li><li>Familiarity with Linux-based network service configuration (iptables, firewalld, sshd)</li><li>Cisco Certified Network Administrator (CCNA) or equivalent experience</li><li>Proven troubleshooting abilities/skills for various network environments</li><li>Knowledge and experience working with Mesh Networks and Mesh Network Radios (i.e. MPU5, TrellisWare)</li><li>Ability to work in a fast-paced environment with rapidly changing requirements</li></ul> Responsibilities: <ul><li>Network architecture and management</li><li>Hardware configuration of appliances, routers, switches, firewalls, communication systems (various mesh network radios and cellular technologies) and security appliances</li><li>VPN design and implementation</li><li>Network traffic segregation using VLANs, firewalls</li><li>Familiarity with Linux-based network service configuration (iptables, firewalld , sshd), CCNA (Cisco Certified Network Administrator) or equivalent experience in scanning and patching configurations and software libraries on systems according to DoD STIGs (Security Technical Implementation Guides)</li><li>Linux scripting would be helpful</li><li>Strong communication skills</li></ul> Preferred Skills and Experience: <ul><li>Cisco Certified Network Professional –Security (CCNP Security)</li><li>Experience scanning and patching systems and software libraries according to DoD STIGs</li><li>Critical thinking and ability to provide unconventional solutions to various problems</li><li>Occasional extended work days to support various exercises</li><li>Understanding of RF signal propagation</li></ul> Education:  A Bachelor of Science (BS) degree from an accredited college or university in an engineering, scientific, or technical discipline is required Compensation: <p><span><span>Compensation at SimVentions is determined by a number of factors, including, but not limited to, the candidate’s experience, education, training, security clearance, work location, skills, knowledge, and competencies, as well as alignment with our corporate compensation plan and contract specific requirements.</span></span></p><p>&nbsp;</p><p><span>The projected annual compensation range for this position is $75,000 - $110,000&nbsp;(USD). This estimate reflects the standard salary range for this position and is just one component of the total compensation package that SimVentions offers.&nbsp;</span></p> Benefits: <p>At SimVentions, we’re committed to supporting the total well-being of our employees and their families. Our benefit offerings include comprehensive health and welfare plans to serve a variety of needs.&nbsp;</p><p><br>We offer:</p><p>&nbsp;</p><ul><li>Medical, dental, vision, and prescription drug coverage</li><li>Employee Stock Ownership Plan (ESOP)</li><li>Competitive 401(k) programs</li><li>Retirement and Financial Counselors</li><li>Health Savings and Health Reimbursement Accounts</li><li>Flexible Spending Accounts</li><li>Life insurance, short- &amp; long-term disability</li><li>Continuing Education Assistance</li><li>Paid Time Off, Paid Holidays, Paid Leave (e.g., Maternity, Paternity, Jury Duty, Bereavement, Military)</li><li>Third Party Employee Assistance Program that offers emotional and lifestyle well-being services, to include free counseling</li><li>Supplemental Benefit Program&nbsp;</li></ul> Why Work for SimVentions?: <p>SimVentions is about more than just being a place to work with other growth-orientated technically exceptional experts. It’s also a fun place to work. Our family-friendly atmosphere encourages our employee-owners to imagine, create, explore, discover, and do great things together.</p><p>&nbsp;</p><p><strong>Support Our Warfighters</strong></p><p>&nbsp;</p><p>SimVentions is a proud supporter of the U.S. military, and we take pride in our ability to provide relevant, game-changing solutions to our armed men and women around the world.</p><p>&nbsp;</p><p><strong>Drive Customer Success</strong></p><p>&nbsp;</p><p>We deliver innovative products and solutions that go beyond the expected. This means you can expect to work with a team that will allow you to grow, have a voice, and make an impact.<br><br><strong>Get Involved in Giving Back</strong></p><p>&nbsp;</p><p>We believe a well-rounded company starts with well-rounded employees, which is why we offer diverse service opportunities for our team throughout the year.</p><p>&nbsp;</p><p><strong>Build Innovative Technology</strong></p><p>&nbsp;</p><p>SimVentions takes pride in its innovative and cutting-edge technology, so you can be sure that whatever project you work on, you will be having a direct impact on our customer’s success.</p><p>&nbsp;</p><p><strong>Work with Brilliant People</strong></p><p>&nbsp;</p><p>We don’t just hire the smartest people; we seek experienced, creative individuals who are passionate about their work and thrive in our unique culture.</p><p>&nbsp;</p><p><strong>Create Meaningful Solutions</strong></p><p>&nbsp;</p><p>We are trusted partners with our customers and are provided challenging and meaningful requirements to help them solve.</p><p>&nbsp;</p><p><strong>Employees who join SimVentions will enjoy additional perks like:</strong></p><ul><li><strong>Employee Ownership:</strong>&nbsp;Work with the best and help build YOUR company!</li><li><strong>Family focus:</strong>&nbsp;Work for a team that recognizes the importance of family time.</li><li><strong>Culture:</strong>&nbsp;Add to our culture of technical excellence and collaboration.</li><li><strong>Dress code:</strong>&nbsp;Business casual, we like to be comfortable while we work.</li><li><strong>Resources:</strong>&nbsp; Excellent facilities, tools, and training opportunities to grow in your field.</li><li><strong>Open communication:</strong>&nbsp;Work in an environment where your voice matters.</li><li><strong>Corporate Fellowship:</strong>&nbsp; Opportunities to participate in company sports teams and employee-led interest groups for personal and professional development.</li><li><strong>Employee Appreciation:&nbsp;</strong>Multiple corporate events throughout the year, including Holiday Events, Company Picnic, Imagineering Day, and more.</li><li><strong>Founding Partner of the FredNats Baseball team:</strong>&nbsp;Equitable distribution of tickets for every home game to be enjoyed by our employee-owners and their families from our private suite.</li><li><strong>Food:</strong>&nbsp;We have a lot of food around here!</li></ul><p>FTAC</p><p>&nbsp;</p></p>",
-      "name": "Network/RF Technician - Industry leading benefits",
-      "type": "external",
-      "publication_date": "2025-04-01T10:18:02Z",
-      "short_name": "networkrf-technician-industry-leading-benefits-42918f",
-      "model_type": "jobs",
-      "id": 17713066,
-      "locations": [
-        {
-          "name": "Norfolk, VA"
-        }
-      ],
-      "categories": [
-        {
-          "name": "Software Engineering"
-        }
-      ],
-      "levels": [
-        {
-          "name": "Mid Level",
-          "short_name": "mid"
-        }
-      ],
-      "tags": [],
-      "refs": {
-        "landing_page": "https://www.themuse.com/jobs/simventionsincglassdoor46/networkrf-technician-industry-leading-benefits-42918f"
-      },
-      "company": {
-        "id": 15000709,
-        "short_name": "simventionsincglassdoor46",
-        "name": "SimVentions, Inc - Glassdoor ✪ 4.6"
       }
     },
     {

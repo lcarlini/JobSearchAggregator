@@ -1,7 +1,370 @@
 {
-  "generatedAt": "2026-10-11T21:36:05.773Z",
-  "count": 29,
+  "generatedAt": "2026-10-12T04:34:22.633Z",
+  "count": 44,
   "data": [
+    {
+      "id": "181523be-84f7-40f7-8de9-82f8d83e42ad",
+      "title": "Senior Fullstack Developer (React/Node.js/Java Spring Boot) - Full Remote Portug",
+      "url": "https://remotejobs.org/remote-jobs/senior-fullstack-developer-reactnodejsjava-spring-boot-full-remote-portug-humanit-digital-consulting",
+      "apply_url": "https://remotejobs.org/remote-jobs/senior-fullstack-developer-reactnodejsjava-spring-boot-full-remote-portug-humanit-digital-consulting",
+      "company": {
+        "name": "HumanIT Digital Consulting",
+        "logo_url": "https://jjseyvyygwyvnfbohzdx.supabase.co/storage/v1/object/public/company-logos/scraped/1d6a374c01da8b890de9fc8bbca0cbbb8781feb2032177b9e713be408820f172.webp",
+        "website": null,
+        "url": "https://remotejobs.org/companies/humanit-digital-consulting"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "Portugal",
+      "salary_min": 2300,
+      "salary_max": 2900,
+      "salary_text": "EUR 2,300–2,900/month",
+      "salary_source_text": "EUR 2300 - 2900",
+      "salary_currency": "EUR",
+      "salary_period": "month",
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": null,
+      "direct_apply": null,
+      "description": "<p><strong>TITLE:</strong> Senior Fullstack Developer (React/Node.js/Java Spring Boot) - <strong>Full Remote Portugal</strong>﻿</p><h3>ABOUT THE OPPORTUNITY</h3><p>We're looking for a Senior Fullstack Developer to join a well-established, engineering-driven software consultancy known for its collaborative, politics-free culture built on lean principles and self-organisation. This is an opportunity to work alongside a highly skilled, autonomous team that values craftsmanship, ownership, and continuous learning over rigid hierarchy. You'll help build fluid, responsive user interfaces and resilient backend services for multiple platforms, solving complex technical problems to world-class standards. Occasional travel (0-15% of your time) may be required depending on the project and client needs.</p><h3>PROJECT &#x26; CONTEXT</h3><p>You'll be embedded in a team responsible for the full software delivery lifecycle — from local development through to production — working on asynchronous, event-driven workflows and modern cloud-native services. The role spans both frontend and backend, requiring strong fundamentals across the stack, a testing-first mindset, and curiosity about containerization and modern DevOps practices. You'll work within agile teams (Scrum/Kanban), contributing to a codebase that prioritizes performance, security, and resilience.</p><h3>WHAT WE'RE LOOKING FOR (Required)</h3><ul>\n<li>5+ years of professional software engineering experience</li>\n<li>Strong hands-on experience with TypeScript and modern JavaScript frameworks: React, Next.js, Node.js</li>\n<li>Hands-on experience with Java and Spring Boot</li>\n<li>Experience with AWS, CI/CD pipelines, and CDK/Serverless</li>\n<li>Solid knowledge of HTTP, REST, and/or GraphQL architectural patterns</li>\n<li>Experience with SQL and NoSQL databases</li>\n<li>Familiarity with service-oriented architectures, design patterns, and data structures</li>\n<li>Working knowledge of Git in a continuous delivery process</li>\n<li>Experience writing semantic, accessible HTML</li>\n<li>Comfortable using code quality tools (linters, type checkers, static analysers)</li>\n<li>Experience with agile methodologies (Scrum, Kanban)</li>\n<li><strong>Fluent in English (required)</strong></li>\n</ul><h3>NICE TO HAVE (Preferred)</h3><ul>\n<li>Exposure to containerization technologies (e.g., Docker, Kubernetes)</li>\n<li>Experience mentoring or supporting less senior engineers</li>\n<li>Prior experience in a consultancy or client-facing engineering environment</li>\n</ul><p>﻿Compensation: €2,300 – €2,900/month net, depending on experience and seniority level.<br><br>Why HumanIT people stay (4.4 Glassdoor, 89% recommend)</p><h3>- 15th month salary</h3><h3>- Health insurance covering your family</h3><p>- Birthday off<br>- Mobility program for digital nomads<br>- Real work-life balance<br><br>Full benefits <br>What it's really like ﻿</p><p>Originally posted on <a>Himalayas</a></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-fullstack-developer-reactnodejsjava-spring-boot-full-remote-portug-humanit-digital-consulting</p>",
+      "posted_at": "2026-10-11T20:46:30+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "b6a949a7-90de-473d-afbd-bec6f6c792ee",
+      "title": "AI Compiler Engineer",
+      "url": "https://remotejobs.org/remote-jobs/ai-compiler-engineer-encharge-ai",
+      "apply_url": "https://remotejobs.org/remote-jobs/ai-compiler-engineer-encharge-ai",
+      "company": {
+        "name": "EnCharge AI",
+        "logo_url": "https://jjseyvyygwyvnfbohzdx.supabase.co/storage/v1/object/public/company-logos/scraped/720fe289ad0e10da99eb054f0547cfc06ac4b93cd4b8f1692983a3d7db0ffc81.webp",
+        "website": null,
+        "url": "https://remotejobs.org/companies/encharge-ai"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "Germany",
+      "salary_min": 190000,
+      "salary_max": 255000,
+      "salary_text": "USD 190,000–255,000/year",
+      "salary_source_text": "USD 190000 - 255000",
+      "salary_currency": "USD",
+      "salary_period": "year",
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": null,
+      "direct_apply": null,
+      "description": "<p><a>EnCharge AI</a> is a leader in advanced AI hardware and software systems for edge-to-cloud computing. EnCharge’s robust and scalable next-generation in-memory computing technology provides orders-of-magnitude higher compute efficiency and density compared to today’s best-in-class solutions. The high-performance architecture is coupled with seamless software integration and will enable the immense potential of AI to be accessible in power, energy, and space constrained applications. <a>EnCharge AI</a> launched in 2022 and is led by veteran technologists with backgrounds in semiconductor design and AI systems.</p><h3>About the Role</h3><p><a>EnCharge AI</a> is seeking a highly skilled and experienced AI Compiler Engineer to spearhead the efforts in developing and optimizing graph compilers tailored to cutting-edge AI and ML workloads. You will collaborate with hardware architects, and AI researchers to enhance performance, optimize computation graphs, and enable efficient model deployment on EnCharge’s Inference Accelerators. </p><h3>Responsibilities</h3><p>Architect, design, and implement optimizations for AI model execution on graph compilers to improve performance, reduce latency, and maximize hardware utilization.</p><ul>\n<li>Work closely with ML researchers, hardware engineers, and software developers to design and deploy AI models, understanding and addressing hardware-specific challenges.</li>\n<li>Work on performance optimizations for neural network models, such as layer fusion, operator fusion, and graph-level transformations.</li>\n<li>Develop compiler optimizations and passes that convert high-level AI models (e.g., from TensorFlow, PyTorch) into intermediate representations (IR).</li>\n<li>Implement parsing, semantic analysis, and IR generation for deep learning frameworks.</li>\n<li>Research and integrate the latest advancements in compiler design, ML model optimizations, and hardware acceleration into graph compilers.</li>\n<li>Provide leadership, mentorship, and technical guidance to a team of engineers focused on graph compiler optimizations. </li>\n</ul><h3>Qualifications</h3><ul>\n<li>Bachelor’s or Master’s degree in Computer Science, Electrical Engineering, or related field (Ph.D. preferred).</li>\n<li>3+ years in compiler development, with a strong focus on AI or ML graph compilers.</li>\n<li>Proficiency in AI graph compiler frameworks (e.g., MLIR, Torch-FX)</li>\n<li>Solid background in hardware architectures (e.g., GPUs, TPUs, ASICs) and optimization techniques such as fusion, quantization, and tiling.</li>\n<li>Familiarity with neural networks operators and code generation.</li>\n<li>Strong understanding of intermediate representations, code parsing, and semantic analysis in compiler design.</li>\n<li>Proficiency in C++, Python, or other programming languages commonly used in compiler development.</li>\n<li>Open-source contributions to AI software frameworks and libraries is a plus</li>\n<li>Demonstrated experience leading and mentoring engineering teams with successful project delivery. </li>\n</ul><p><a>EnCharge AI</a> is an equal employment opportunity employer in the United States.<br><br>The salary range for this position is $190,000 to $255,000 USD per year. (Per Year: $195,000 to $265,000 CAD | €110,000 to €160,000 EUR | 1,206,458 to 1,754,848 NOK)<br>Actual compensation offered will be determined based on job-related knowledge, skills, and experience.</p><p>Originally posted on <a>Himalayas</a></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/ai-compiler-engineer-encharge-ai</p>",
+      "posted_at": "2026-10-11T20:44:14+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "4298bd8c-e189-43e3-86d0-47777c78bbe7",
+      "title": "Senior Electrical Engineering Lead & SME",
+      "url": "https://remotejobs.org/remote-jobs/senior-electrical-engineering-lead-sme-farnsworth-group-inc",
+      "apply_url": "https://remotejobs.org/remote-jobs/senior-electrical-engineering-lead-sme-farnsworth-group-inc",
+      "company": {
+        "name": "Farnsworth Group, Inc.",
+        "logo_url": "https://jjseyvyygwyvnfbohzdx.supabase.co/storage/v1/object/public/company-logos/scraped/7b81bd212eec6dee529ac9ee3498f5c336b66bf7cadbbdb7da8f380bce4c6a12.webp",
+        "website": null,
+        "url": "https://remotejobs.org/companies/farnsworth-group-inc"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "United States",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": "year",
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": null,
+      "direct_apply": null,
+      "description": "<div>\n<strong>Farnsworth Group</strong> is seeking a highly experienced and dynamic <strong>Senior Electrical Engineering Lead &#x26; Subject Matter Expert</strong> to lead our Advanced Manufacturing Technology (AMT) Electrical Engineering Team.  This senior leadership role will be pivotal in positioning our company for growth by leveraging best practices, training, and scaling efforts across the organization. The AMT Electrical Team, under your leadership, will address the complexities of advanced manufacturing projects, build a dedicated AMT Electrical team, and support utilization of additional Farnsworth Group resources as needed.  This remote-based role is posted and available for candidates not local to an existing Farnsworth Group location. </div><div>\n<h3>What You'll Do:</h3>\n<ul>\n<li>Lead and build the AMT Electrical Team in Phoenix and other locations as needed.</li>\n<li>Build and manage a dedicated team of AMT subject matter experts.</li>\n<li>Develop and implement best practices, training programs, and scaling strategies for growth of AMT Electrical Services.</li>\n<li>Provide senior leadership oversight and facilitation for the growing multi-discipline Phoenix office.</li>\n<li>Foster and enhance the Farnsworth Group culture, integrating various disciplines.</li>\n<li>Collaborate with leadership to align team goals with company objectives.</li>\n<li>Ensure the successful and quality execution of complex advanced manufacturing projects.</li>\n<li>Interfacing with clients, resource planning, project oversight, etc.</li>\n</ul>\n<h3>What You'll Need:</h3>\n<ul>\n<li>Proven record of accomplishment of effective leadership in both large and small company environments</li>\n<li>15+ years of technical electrical engineering experience and professional license registration.</li>\n<li>Extensive experience in staff development, team building, and mentoring.</li>\n<li>Strong organizational and leadership skills with the ability to make an immediate positive impact.</li>\n<li>Positive \"get it done\" attitude with a focus on achieving results.</li>\n<li>Accomplished leader with the ability to build and manage a team effectively.</li>\n<li>Excellent communication and interpersonal skills.</li>\n<li>Enjoys challenges and problem-solving in complex situations.</li>\n</ul>\n</div><div>\n<h3>Who We Are:</h3>\n<p>Join Farnsworth Group, a nationally recognized architectural engineering and surveying firm where your career can thrive! For eleven consecutive years, we’ve been certified as a Great Place to Work®, and our engineers, architects, surveyors, and scientists channel their passion and expertise into making meaningful contributions to the world around us. With more than 650 talented professionals across 24 offices, we collaborate with clients ranging from small communities to some of the world’s largest brands. Our success is built on our people - their passion, creativity, and commitment to excellence. Here, you’ll find a supportive culture that champions your growth, embraces challenges, values work-life balance, and empowers you to make a lasting impact for our clients and communities. Join us and move your career forward.</p>\n<h3>A Great Place to Work Certified</h3>\n<p>For eleven consecutive years, Farnsworth Group has earned the prestigious Great Place to Work® certification—thanks to our employees! Each year, our staff participate in a survey administered by the Great Place to Work organization, measuring perceptions of credibility, respect, pride, fairness, and camaraderie. The results are benchmarked against the nation’s leading companies, and only top performers receive the certification. Insights from the survey help us continually enhance our work environment and foster a culture that makes Farnsworth Group an even greater place to work.</p>\n<p><strong>Full-time regular employee benefits and perks include:</strong></p>\n<ul>\n<li>401(k) with 100% Company Match up to 5%</li>\n<li>Medical/Dental/Vision Insurance Plans</li>\n<li>Flexible Spending and Health Savings Accounts</li>\n<li>Short &#x26; Long-Term Disability</li>\n<li>Maternity and Paternity Leave</li>\n<li>Professional Development and Training</li>\n<li>Mentoring Program</li>\n<li>Paid Time Off</li>\n<li>Wellness/Fitness Reimbursements</li>\n<li>Pet Insurance Plan</li>\n<li>Hybrid Work Program</li>\n</ul>\n<p>Farnsworth Group appreciates that flexibility and work-life balance are important aspects of the careers and lives of our employees. Our Hybrid Work Program offers employees a flexible work arrangement while contributing to the Company’s culture and success. Please discuss with your recruiter for details.</p>\n<h3>Statement on Diversity and Inclusion:</h3>\n<p>Farnsworth Group is a collection of employees with unique backgrounds and perspectives that all come together to make us a better Company. It is our goal to recruit, hire, develop, retain, and promote a diverse group of people. Join us…and let’s make a difference, together.</p>\n<p><a>Farnsworth Group, Inc.</a> is proud to be a M/F Disabled and Veteran EEO/AA employer.</p>\n</div><p>Originally posted on <a>Himalayas</a></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-electrical-engineering-lead-sme-farnsworth-group-inc</p>",
+      "posted_at": "2026-10-11T20:41:55+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "9cd3bb53-da75-4fa5-816b-0b569e4c8be8",
+      "title": "Spares Engineer (Composite Specialist)",
+      "url": "https://remotejobs.org/remote-jobs/spares-engineer-composite-specialist-atexis",
+      "apply_url": "https://remotejobs.org/remote-jobs/spares-engineer-composite-specialist-atexis",
+      "company": {
+        "name": "ATEXIS",
+        "logo_url": "https://jjseyvyygwyvnfbohzdx.supabase.co/storage/v1/object/public/company-logos/scraped/0243ef6428ad6ab444ccc77b0bb83bdf86197c4d5b2acb7de654076cfa6541cb.webp",
+        "website": null,
+        "url": "https://remotejobs.org/companies/atexis"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "Spain",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": "year",
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": null,
+      "direct_apply": null,
+      "description": "<p><strong>What will your tasks be? </strong>📋</p><ul>\n<li>\n<strong>Identificar:</strong> Detect out of production (OOP) parts in the list of change requests (CR) or part numbers (PN) provided by the buyer.</li>\n<li>\n<strong>Analizar:</strong> Evaluate the criticality of OOP parts through analysis and classification of the probability and impact on operations.</li>\n<li>\n<strong>Propose:</strong> Suggest and justify solutions for OOP parts to our client's Industrial Control Board.</li>\n<li>\n<strong>Develop and Implement Solutions:</strong> Coordinate with stakeholders and propose alternative solutions in case of problems or blockages.</li>\n</ul><p><strong>What are we looking for?</strong> 🔍</p><p>Profiles with engineering training and at least 1 year of experience in:</p><ul>\n<li>Design and manufacturing engineering.</li>\n<li>Composite materials.</li>\n<li>Supply chain.</li>\n<li>Aerospace sector.</li>\n<li>English minimum C1/fluent (with or without certificate).</li>\n</ul><p><strong>What do we offer?</strong> 🎁</p><p>🌍 International work environment and professional growth</p><h3>📝 Permanent Contract</h3><h3>🏖️ 22 days of vacation</h3><h3>🔋 Days off to recharge energy</h3><p>🕖 Intensive and flexible schedule 7:00 - 15:00</p><h3>🩺 Seguro médico privado</h3><p>💻 100% remote work model (with occasional visits to the work center)</p><p>En <a>ATEXIS</a>, we value all people within our organization. With a wide range of project opportunities and internal development possibilities, you will have the opportunity to develop your career to the fullest. 🚀</p><p><strong>¿Te interesa?</strong> ✉️</p><p>If you are interested in the position or know someone who fits this opportunity, do not hesitate to contact us!</p><p>We are waiting for you!</p><p><strong>¡ÚNETE A <a>ATEXIS</a>!</strong><strong>AN ALTEN COMPANY</strong>🚀</p><h3>Who are we?</h3><p><a>ATEXIS</a> is a multinational consulting firm specialized in providing engineering support services to clients, among which are the main leaders in the aerospace, defense, naval, railway, energy and industrial sectors.</p><p>We are currently looking for a profile to join our team as <strong>Spares Engineer.</strong></p><p>Originally posted on <a>Himalayas</a></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/spares-engineer-composite-specialist-atexis</p>",
+      "posted_at": "2026-10-11T20:40:46+00:00",
+      "is_translated": true,
+      "original_language": "es"
+    },
+    {
+      "id": "33734da1-8e97-49e1-a22f-e98af7e2723d",
+      "title": "Junior Application Support Engineer ( Java )",
+      "url": "https://remotejobs.org/remote-jobs/junior-application-support-engineer-java-hrtech",
+      "apply_url": "https://remotejobs.org/remote-jobs/junior-application-support-engineer-java-hrtech",
+      "company": {
+        "name": "HRTECH",
+        "logo_url": "https://jjseyvyygwyvnfbohzdx.supabase.co/storage/v1/object/public/company-logos/scraped/7d7e8244a23650b10a75844ddee36033afcb4907bda2561ae73db02b1e7ca18c.webp",
+        "website": "https://hrtech.com",
+        "url": "https://remotejobs.org/companies/hrtech"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "Singapore",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": "year",
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": null,
+      "direct_apply": null,
+      "description": "<h3>Key Responsibilities:</h3><ul>\n<li>Investigate and troubleshoot production incidents.</li>\n<li>Develop and maintain applications used for system monitoring  </li>\n<li>Involved in Incident Management meetings for major production incidents</li>\n<li>Assist in coordinating and managing system stability operations such Disaster Recovery exercises and Quarterly Maintenance as part of SRE team</li>\n<li>Participate in the review of changes and its impact on the system as part of the Change Approval Board  </li>\n<li>Contribute on the implementation of best practices for SRE</li>\n</ul><h3>Role Requirements: </h3><ul>\n<li>Experience in Production tools development and integration is required.</li>\n<li>Experience in Java development, spring boot &#x26; micro services are required</li>\n<li>Fair knowledge on the private banking business process and functions will be an advantage</li>\n<li>Ability to collaborate with teams, onsite and offshore, in delivering the solution</li>\n<li>Good problem-solving skills</li>\n<li>Good communication skills</li>\n</ul><p>Originally posted on <a>Himalayas</a></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/junior-application-support-engineer-java-hrtech</p>",
+      "posted_at": "2026-10-11T20:37:16+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "cf634014-5677-4db0-b049-ff5a2add24b9",
+      "title": "Fiber Optic Product Engineer",
+      "url": "https://remotejobs.org/remote-jobs/fiber-optic-product-engineer-amphenol-corporation",
+      "apply_url": "https://remotejobs.org/remote-jobs/fiber-optic-product-engineer-amphenol-corporation",
+      "company": {
+        "name": "Amphenol Corporation",
+        "logo_url": "https://jjseyvyygwyvnfbohzdx.supabase.co/storage/v1/object/public/company-logos/scraped/e864b11fa63a75afa28c5ceae53a87157d07e5c0093b9f35a5e9a49ac9a3fdfc.webp",
+        "website": null,
+        "url": "https://remotejobs.org/companies/amphenol-corporation"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "United States",
+      "salary_min": 90000,
+      "salary_max": 110000,
+      "salary_text": "USD 90,000–110,000/year",
+      "salary_source_text": "USD 90000 - 110000",
+      "salary_currency": "USD",
+      "salary_period": "year",
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": null,
+      "direct_apply": null,
+      "description": "<p>Amphenol Custom Cable is a leading provider of connectivity solutions with a strong national presence and global distribution network. Established in 1980, the company is a trusted partner to Fortune 500 organizations and is certified to TL9000:2008 and ISO 9001:2008 standards for excellence in manufacturing and installation connectivity services. Known for its rapid response, Amphenol Custom Cable delivers custom solutions that are efficient, cost-effective, and tailored to meet diverse customer needs. The company prides itself on providing quality, precision, and high performance for a wide range of requirements.</p><h3>SUMMARY</h3><p>The Product Development Engineer will prepare new fiber optic products for commercialization, provide and implement improvements for current manufacturing methods, and engage with existing customers to enhance user experience.</p><h3>PRIMARY RESPONSIBILITIES</h3><ul>\n<li>Will oversee fiber cable assembly engineering projects that are requested by the sales department (i.e., quotes, BOM creation, and new product request that can’t be configured on an online configuration tool).</li>\n<li>Create and manage Bill of Materials (BOM) and drawings for new and existing products using ERP management and 2D/3D modeling software such as AutoCad and SolidWorks.</li>\n<li>Lead and support the design, development, qualification, and improvement of fiber-optic products.</li>\n<li>Apply strong knowledge of optical fiber, fiber optic cables, connectors, splicing, coatings, and related components.</li>\n<li>Work with manufacturing to improve product performance, quality and cost.</li>\n<li>Develop engineering specifications, test procedures, technical documentation, and product requirements.</li>\n<li>Participate in new product introduction (NPI), design reviews, and engineering change processes.</li>\n<li>Review other engineering team members drawings and BOMs for accuracy.</li>\n<li>Responsible as the technical conduit between sales and engineering related to fiber optic cables, connectors, accessories, and/or assemblies.</li>\n<li>Will interface with customers (in conjunction with sales) to provide technical support during the sales development process (phone calls, customer site visits, trade shows, etc).</li>\n<li>Will work with engineering manager, fiber manufacturing engineer, and/or other departments to develop new products and solutions, as needed.</li>\n<li>Provide process documentation and operating instructions for new products introduced to the production team.</li>\n<li>Assist production to develop more efficient manufacturing procedures such as tooling, machinery, and processes and designing solutions to tackle those issues.</li>\n<li>Creatively solve problems and develop methodologies to increase margin on products.</li>\n<li>Collaborate with suppliers and external partners on materials, components, and product performance.</li>\n<li>Stay current with developments in fiber optic technologies, materials, and manufacturing processes.</li>\n</ul><h3>EDUCATION AND QUALIFICATIONS</h3><ul>\n<li>Bachelor’s degree in mechanical/industrial/electrical engineering/ manufacturing technology or equivalent; strong relevant experience in the fiber optic industry may be acceptable in lieu of degree.</li>\n<li>8+ years of professional experience in fiber optics, optical communications or related industry.</li>\n<li>Strong technical understanding of fiber – optic cable assemblies.</li>\n<li>Experience with fiber-optic product development, testing and qualification.</li>\n<li>Strong analytical and problem-solving skills including root cause analysis.</li>\n<li>Ability to read and follow engineering and production documentation such as drawings, schematics, and process sheets.</li>\n<li>Willingness to gets hands-on with products and machinery and troubleshoot issues as they arise.</li>\n<li>Ability to work independently while also contributing effectively within a cross functional engineering team.</li>\n<li>Strong interpersonal skills and ability to collaborate with team members of different backgrounds.</li>\n<li>Working knowledge of software tools (MS Office, AutoCad, and SolidWorks), Proficiency in CAD is a plus.</li>\n</ul><p>Originally posted on <a>Himalayas</a></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/fiber-optic-product-engineer-amphenol-corporation</p>",
+      "posted_at": "2026-10-11T20:37:14+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "5be23ea8-efb7-4311-ae96-2a1d544e0855",
+      "title": "AI Software Engineer, Agent Harness",
+      "url": "https://remotejobs.org/remote-jobs/ai-software-engineer-agent-harness-encharge-ai",
+      "apply_url": "https://remotejobs.org/remote-jobs/ai-software-engineer-agent-harness-encharge-ai",
+      "company": {
+        "name": "EnCharge AI",
+        "logo_url": "https://jjseyvyygwyvnfbohzdx.supabase.co/storage/v1/object/public/company-logos/scraped/720fe289ad0e10da99eb054f0547cfc06ac4b93cd4b8f1692983a3d7db0ffc81.webp",
+        "website": null,
+        "url": "https://remotejobs.org/companies/encharge-ai"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "India",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": "year",
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": null,
+      "direct_apply": null,
+      "description": "<h3>AI Software Engineer, Agent Harness</h3><p>Location: Bengaluru, Karnataka  (or throughout India remote-friendly with travel)</p><h3>About <a>EnCharge AI</a>\n</h3><p><a>EnCharge AI</a> is building the next generation AI platform. Our novel in-memory-computing architecture delivers a 10x step-function improvement in compute energy efficiency and performance for AI inference workloads. As the demands of artificial intelligence move beyond today's models, we believe fundamental underlying infrastructure must evolve. We are an experienced team of AI researchers, silicon &#x26; systems engineers, and architects backed by leading investors, poised to become the essential platform for the next wave of AI innovation.</p><h3>The Opportunity</h3><p>We serve open-weight models and our own bespoke checkpoints on EnCharge hardware. The models change often, and the harness around them needs to keep up. You own this layer that runs agents against files, tools, documents with permissions, memory, unattended execution, and real outputs. It will be assembled from a combination of open-source and bespoke code.</p><h3>Key Responsibilities</h3><ul>\n<li>Own the harness architecture end to end — agent loop, safe execution, context management, knowledge base, memory, permissions, orchestration, outputs, interfaces, observability — one component per layer, with clear interfaces so layers can be swapped.</li>\n<li>Build the pieces with no open-source equivalent e.g. session semantics, enforced permissions, memory in a human-editable file, orchestrator, and outputs.</li>\n<li>Keep pace with the models: adapters, prompt formats, tool-call schemas, stop conditions, benchmarking and evaluation.</li>\n<li>Make tool use reliable across models of uneven tool-calling quality — validation, repair, retries, fallbacks.</li>\n<li>Develop agents, tools, and MCP servers for internal and customer use cases, and review them for security before they ship.</li>\n<li>Build the evaluation harness: task suites, regression runs on every model or harness change, cost and latency per task alongside quality.</li>\n<li>Define the interfaces: session API, CLI, GUI, and an endpoint existing tools can point at.</li>\n</ul><h3>Qualifications</h3><ul>\n<li>10+ years of software engineering experience in backend systems or ML infrastructure</li>\n<li>Strong Python and at least one systems language (e.g., Go, Rust, C++)</li>\n<li>Have shipped and operated an agent loop in production — tool use, multi-step workflows, unattended runs</li>\n<li>Hands-on with RAG, context management, and memory for LLM applications</li>\n<li>Experience with sandboxing, isolation, and permission models for automated systems</li>\n<li>Have run open-weight models yourself and understand how quantization and serving choices change model behavior</li>\n<li>Comfort in fast-moving, ambiguous environments where you define the roadmap; strong product instincts</li>\n</ul><h3>Nice to Have</h3><ul>\n<li>Contributions to open-source agent harnesses or coding agents</li>\n<li>Experience with agent benchmarks (e.g., SWE-bench, Terminal-Bench) and building internal task suites</li>\n<li>MoE serving familiarity e.g. expert placement, tensor parallelism, quantization etc.</li>\n<li>Observability for LLM systems</li>\n<li>Document parsing and indexing pipelines</li>\n<li>Desktop or GUI application experience</li>\n</ul><p>Originally posted on <a>Himalayas</a></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/ai-software-engineer-agent-harness-encharge-ai</p>",
+      "posted_at": "2026-10-11T20:33:29+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "a2d70b57-0e01-4dfa-abf8-54bd09052869",
+      "title": "Senior Solution Architect - United States",
+      "url": "https://remotejobs.org/remote-jobs/senior-solution-architect-united-states-jumpcloud",
+      "apply_url": "https://remotejobs.org/remote-jobs/senior-solution-architect-united-states-jumpcloud",
+      "company": {
+        "name": "JumpCloud",
+        "logo_url": "https://jjseyvyygwyvnfbohzdx.supabase.co/storage/v1/object/public/company-logos/scraped/b05a61e7c1cc07a4b28fbcec0be09e1839a04106dc2a59a75a1c185498578d7a.webp",
+        "website": "https://jumpcloud.com",
+        "url": "https://remotejobs.org/companies/jumpcloud"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "United States",
+      "salary_min": 125000,
+      "salary_max": 175000,
+      "salary_text": "USD 125,000–175,000/year",
+      "salary_source_text": "USD 125000 - 175000",
+      "salary_currency": "USD",
+      "salary_period": "year",
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": null,
+      "direct_apply": null,
+      "description": "<div><strong>All roles at <a>JumpCloud</a>® are Remote unless otherwise specified in the Job Description.</strong></div><h3>About <a>JumpCloud</a>®</h3><div>\n<a>JumpCloud</a>® is the AI-powered unified IT management platform designed to secure the modern workforce. By consolidating identity, device, and access management, <a>JumpCloud</a> provides intelligent, secure IT that scales from human users to autonomous AI agents. We help organizations around the globe eliminate complexity and turn AI risk into an optimized advantage, ensuring the right people and agents have secure access to the right resources at all times.</div><h3><strong><a>JumpCloud</a> is Intelligent, Secure IT.</strong></h3><div><h3>Role Overview</h3></div><p>The Senior Solutions Architect exists to guide enterprise customers through complex migrations from legacy identity and directory architectures to <a>JumpCloud</a>'s Open Directory Platform. As enterprise customer engagements scale, this role addresses the critical need for dedicated domain subject matter experts (SMEs) across complex ecosystems involving cloud directory integrations, conditional access policies, MFA configurations, PAM, and multi-OS device management to drive structured, repeatable deployments. You will serve as the trusted technical authority bridging customer business requirements with robust architectural execution while establishing clear deployment milestones that drive platform adoption and time-to-value. By leading high-stakes enterprise engagements and contributing to Go-to-Market technical enablement, you will directly accelerate <a>JumpCloud</a>'s enterprise retention, expansion, and customer delight.</p><h3>What you’ll be doing:</h3><ul>\n<li>\n<strong>Purpose:</strong> Act as a high-impact technical advisor empowering global organizations to modernize identity management, consolidate disparate tooling, and establish secure access architectures via <a>JumpCloud</a>'s Open Directory Platform.</li>\n<li>\n<strong>Growth:</strong> Establish and own org-wide Subject Matter Expertise across enterprise IAM, complex Microsoft ecosystems, and modern device management, while expanding leadership influence across GTM functions, architectural standards, and team enablement.</li>\n<li>\n<strong>Motivators:</strong> Exercise autonomous ownership over complex enterprise deployments, solve multi-faceted architectural challenges, and collaborate closely with cross-functional leaders in a high-growth, modern cloud identity company.</li>\n</ul><h3>Major Performance Objectives:</h3><ul><ol>\n<li>Within the first 6 months, independently facilitate comprehensive discovery sessions and technical workshops for your assigned Professional Services engagements and related Projects, defining clear migration milestones and technical roadmaps while mitigating architectural scope gaps and mastering your knowledge of the <a>JumpCloud</a> platform.</li>\n<li>By Month 6, successfully execute hands-on technical deployments and directory cutovers (including Active Directory, Okta, and Google Workspace migrations) associated with your migration Projects. This will mark your first delivery of time-to-value and MVP metrics.</li>\n<li>Within 9 months, you will have completed your first projects and begun engaging more heavily with your Enterprise Projects. Success metrics are established, and your Enterprise Projects are on-track. You will be familiar with scoping, discovering, planning and executing across the entire <a>JumpCloud</a> customer lifecycle.</li>\n<li>Within and beyond 12 months, you will be managing ongoing high-complexity enterprise customer engagements in partnership with Customer Success counterparts, achieving target deployment milestones. You will be maintaining and improving your core metrics and contributing to your technical area of expertise in the form of technical documentation and guides, cross-departmental collaborations, and involvement in other go-to-market efforts and strategic technical conversations. You will begin using your knowledge to update internal processes and knowledge, and act as a mentor for newer team members.</li>\n</ol></ul><h3>Preferred Skills &#x26; Qualifications:</h3><ul>\n<li><strong>Must-have functional skills:</strong></li>\n<li><ul>\n<li><p>Enterprise identity architecture design and technical discovery facilitation for large-scale customer environments.</p></li>\n<li><p>Proven track record executing end-to-end directory migrations and integrations that enable automated JML functions.</p></li>\n<li><p>Deep technical implementation expertise in authentication and provisioning protocols (SAML 2.0, OIDC, SCIM, JIT, RADIUS).</p></li>\n<li><p>Multi-OS device management and policy deployment across Windows, macOS, Linux, iOS, and Android.</p></li>\n<li><strong>Preferred domain knowledge:</strong></li>\n<li><ul>\n<li><p>Advanced understanding of complex Microsoft enterprise ecosystems (Active Directory, Entra ID, Azure AD Connect, Intune, Microsoft 365, AVD).</p></li>\n<li><p>Enterprise identity governance, zero-trust security frameworks, and network authentication mechanisms (SSH, SMB/Samba, Kerberos).</p></li>\n<li><p>Professional Services delivery methodologies, structured customer engagement governance, and adoption tracking.</p></li>\n<li><strong>Tools or systems knowledge:</strong></li>\n<li><ul>\n<li><p><a>JumpCloud</a> Admin Console or equivalent cloud identity and directory platforms.</p></li>\n<li><p>Identity and Directory Providers: Microsoft Active Directory, Okta, Entra ID, Google Workspace.</p></li>\n<li><p>Device Management / MDM: Microsoft Intune, Apple MDM (ABM/ASM), Jamf, Iru, ME, etc.</p></li>\n<li><p>Agentic tooling and effective LLM usage: Claude, Gemini, ChatGPT, MCPs.</p></li>\n<li><p>Scripting and automation tools: PowerShell, Bash, and REST APIs.</p></li>\n<li><strong>Behavioral or power skills:</strong></li>\n<li><ul>\n<li><p>High-conviction technical communication with the ability to articulate complex architectural concepts clearly to both technical admins and executive stakeholders.</p></li>\n<li><p>Structured analytical problem-solving and rigorous time management across concurrent customer engagements.</p></li>\n<li><p>Proactive cross-functional partnership across Customer Success, Engineering, Sales, Support, and Product teams.</p></li>\n</ul></li>\n</ul></li>\n</ul></li>\n</ul></li>\n</ul><div><p>In accordance with the Colorado Equal Pay for Equal Work Act, the approximate annual compensation range for this role, depending on individual candidate level and experience, is $125,000 - $175,000, including base salary and any related bonuses or commissions.<br><br>In the US, <a>JumpCloud</a>® provides a comprehensive benefits package, with several medical plans to choose from including a high deductible HSA plan with employer contribution, two dental plans, vision insurance, flexible spending account (FSA), employee assistance program (EAP), short- and long-term disability, life insurance and a 401k savings plan with match. We have a flexible paid time off policy.</p></div><h3>Where you’ll be working/Location:</h3><div>\n<a>JumpCloud</a>® is committed to being Remote First, meaning that you are able to work remotely within the country noted in the Job Description. </div><div>All roles posted in United States locations do require that you be located within one of the 50 U.S. States.  Our Headquarters is in the Denver/Boulder, CO area but as a remote company, you are able to work remotely anywhere in the U.S.  If you would like to spend time in our offices in the Denver/Boulder area, you are welcome to do that as well.</div><h3>Language: </h3><div>\n<a>JumpCloud</a>® has teams in 15+ countries around the world and conducts our internal business in English. The interview and any additional screening process will take place primarily in English. To be considered for a role at <a>JumpCloud</a>®, you will be required to speak and write in English fluently.  Any additional language requirements will be included in the details of the job description.</div><h3>Why <a>JumpCloud</a>? </h3><div>If you thrive working in a fast, SaaS-based environment and you are passionate about solving challenging technical problems, we look forward to hearing from you! <a>JumpCloud</a>® is an incredible place to share and grow your expertise! You’ll work with amazing talent across each department who are passionate about our mission. We’re out of the box thinkers, so your unique ideas and approaches for conceiving a product and/or feature will be welcome. You’ll have a voice in the organization as you work with a seasoned executive team, a supportive board and in a proven market that our customers are excited about.  </div><div>One of <a>JumpCloud</a>®'s three core values is to “Build Connections.” To us that means creating \" human connection with each other regardless of our backgrounds, orientations, geographies, religions, languages, gender, race, etc. We care deeply about the people that we work with and want to see everyone succeed.\" - Rajat Bhargava, CEO</div><div>Please submit your résumé and brief explanation about yourself and why you would be a good fit for <a>JumpCloud</a>®.  Please note <a>JumpCloud</a>® is not accepting third party resumes at this time.   </div><div>\n<a>JumpCloud</a>® is an equal opportunity employer. All applicants will be considered for employment without attention to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran or disability status. </div><h3>Scam Notice:</h3><div>Please be aware that there are individuals and organizations that may attempt to scam job seekers by offering fraudulent employment opportunities in the name of <a>JumpCloud</a>. These scams may involve fake job postings, unsolicited emails, or messages claiming to be from our recruiters or hiring managers. Please note that <a>JumpCloud</a> will never ask for any personal account information, such as credit card details or bank account numbers, during the recruitment process. Additionally, <a>JumpCloud</a> will never send you a check for any equipment prior to employment.</div><div>All communication related to interviews and offers from our recruiters and hiring managers will come from official company email addresses (@jumpcloud.com) and will never ask for any payment, fee to be paid or purchases to be made by the job seeker. If you are contacted by anyone claiming to represent <a>JumpCloud</a> and you are unsure of their authenticity, please do not provide any personal/financial information and contact us immediately at  with the subject line \"Scam Notice\"</div><div> #BI-Remote</div><p>Originally posted on <a>Himalayas</a></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-solution-architect-united-states-jumpcloud</p>",
+      "posted_at": "2026-10-11T20:33:28+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "c3c7d405-bf93-477f-9ad4-1db4d43cc986",
+      "title": ".NET Developer",
+      "url": "https://remotejobs.org/remote-jobs/desarrollador-net-crh-talento-de-it",
+      "apply_url": "https://remotejobs.org/remote-jobs/desarrollador-net-crh-talento-de-it",
+      "company": {
+        "name": "CRH Talento de IT",
+        "logo_url": null,
+        "website": "https://crh.com",
+        "url": "https://remotejobs.org/companies/crh-talento-de-it"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "United States",
+      "salary_min": 40000,
+      "salary_max": 40000,
+      "salary_text": "MXN 40,000/month",
+      "salary_source_text": "MXN 40000 - 40000",
+      "salary_currency": "MXN",
+      "salary_period": "month",
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": null,
+      "direct_apply": null,
+      "description": "<h3>Position: .NET Developer</h3><h3>Location: Polanco, CDMX</h3><h3>Work Model: Remote</h3><h3>We offer:</h3><ul><li><h3>Salary: $40K MXN Net Monthly</h3></li></ul><ul>\n<li><h3>Direct Hiring</h3></li>\n<li><h3>100% Nómina</h3></li>\n<li><h3>Legal Benefits</h3></li>\n</ul><h3>Requisitos:</h3><ul>\n<li><p>Systems Engineering, Computer Science or related degree.</p></li>\n<li><p>3 to 5 years of experience in Fullstack development.</p></li>\n<li><p>Experience in development with C# and Core / .NET Framework.</p></li>\n<li><h3>Development and consumption of REST APIs.</h3></li>\n<li><h3>SQL Server management and SQL programming.</h3></li>\n<li><h3>Experiencia con Entity Framework.</h3></li>\n<li><h3>Knowledge in Angular, React or Vue.</h3></li>\n<li><h3>Handling of HTML5, CSS3 and JavaScript.</h3></li>\n<li><h3>Use of Git and version control.</h3></li>\n<li><p>Experience working with agile methodologies.</p></li>\n</ul><h3>Activities:</h3><ul>\n<li><p>Development and maintenance of web applications.</p></li>\n<li><h3>Development of APIs and services.</h3></li>\n<li><p>Implementation of new features.</p></li>\n<li><p>Resolution of incidents and code optimization.</p></li>\n<li><p>Integration with other systems and services.</p></li>\n<li><h3>Preparation of technical documentation.</h3></li>\n<li><p>Participation in analysis and problem solving.</p></li>\n<li><p>Collaboration with QA, business and development areas.</p></li>\n</ul><p><strong>Contacto:</strong></p><p>This is a high-visibility opportunity where your experience will directly impact the user experiences of our client's engineering.</p><p>Originally posted on <a>Himalayas</a></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/desarrollador-net-crh-talento-de-it</p>",
+      "posted_at": "2026-10-11T20:32:26+00:00",
+      "is_translated": true,
+      "original_language": "es"
+    },
+    {
+      "id": "eb6d7e93-0ad2-41bf-a998-463eb69712e3",
+      "title": "Open Application",
+      "url": "https://remotejobs.org/remote-jobs/open-application-ci-games",
+      "apply_url": "https://remotejobs.org/remote-jobs/open-application-ci-games",
+      "company": {
+        "name": "CI Games",
+        "logo_url": "https://jjseyvyygwyvnfbohzdx.supabase.co/storage/v1/object/public/company-logos/scraped/52d6236a99a20c2303b8fb1a56b16d12cee41bc39125a3e5a1ba9ddc0d86d2e5.webp",
+        "website": null,
+        "url": "https://remotejobs.org/companies/ci-games"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "United States",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": "year",
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": null,
+      "direct_apply": null,
+      "description": "<h3><strong>Join <a>CI Games</a> – Players First:</strong></h3><h3><strong>Open Application</strong></h3><h4>Ready to help shape the future of gaming?</h4><p>At <a>CI Games</a>, we’re not just building games. We’re creating worlds that millions will love. With a bold and aggressive long-term roadmap filled with major releases, we’re entering the most exciting chapter in our history.</p><p>We’re actively looking for exceptional talent to join our global team: passionate, driven, and seriously skilled people who live and breathe games.</p><h4>Don’t see your exact role listed right now? That’s okay.</h4><p>If you know you bring something special, a unique skill, fresh perspective, or unstoppable drive, we want to hear from you. Great talent doesn’t always fit neatly into a job title, and we refuse to let boxes hold back the right people.</p><h3>If you’re exceptional, we’ll make room.</h3><p>Apply now and let’s build the next big thing together.</p><h4>We value your time</h4><ul>\n<li><p>Our Talent Acquisition team personally reviews every single CV we receive.</p></li>\n<li><p>We create a level playing field where success is based on merit. Everyone has the same opportunity to grow, thrive, and contribute, free from discrimination or bias.</p></li>\n<li><p>If your background aligns with our studio's needs, either right now or for an upcoming project in our roadmap, we will reach out!</p></li>\n</ul><h4>Let's be honest!</h4><p>On occasions, taking the first step can be challenging.</p><ul>\n<li><p>We adapt quickly, embrace change, and learn fast. Because agility allows us to stay ahead in a fast-moving industry, your target role or project priorities could materialize sooner than you think.</p></li>\n<li><p>We value trust and autonomy, and with that comes responsibility. Every team member is accountable for their contribution, their impact, and their results from day one.</p></li>\n<li><p>Because we review every single application individually, it might take our team a little bit of time to get back to you, but we promise you won't be forgotten.</p></li>\n</ul><h4>What we offer:</h4><ul>\n<li><p>Attractive remuneration and annual discretionary bonus.</p></li>\n<li><p>Generous benefits supporting your wellbeing.</p></li>\n<li><p>Opportunities for professional development within a supportive and collaborative team.</p></li>\n<li><p>Remote work with flexible schedules (core working hours 10am-4pm CET), allowing you to work alongside talented individuals from around the world.</p></li>\n<li><p>An opportunity to work with cutting-edge technologies and stay at the forefront of the gaming industry.</p></li>\n<li><p>A diverse and inclusive workplace that celebrates all backgrounds, regardless of race, religion, gender, sexual orientation, national origin, age, disability, or social status.</p></li>\n<li><p>Company events and wrap-up parties, access to all games released by <a>CI Games</a> and company merchandise.</p></li>\n<li><p>A chance to be part of something ground-breaking as we shape the future of gaming.</p></li>\n</ul><h4>Compensation &#x26; Pay Transparency</h4><p>One of <a>CI Games</a>’ Core Values is Equality of Opportunity and we are therefore committed to fair and transparent hiring. Since we hire remote talent across multiple regions, compensation packages are country specific. If your application is shortlisted, we will share the specific salary range for your location with your interview invite, ensuring you have the information you need before we begin formal conversations.</p><hr><p><em>We are an equal opportunities employer, hiring and developing our best talent based on merit. Accessibility is at the heart of our games, and we are committed to not discriminating against people based on race, religion, gender, sexual orientation, national origin, age, disability, or social status. Should you require adjustments or flexible arrangements to interview, or take up a role with us, please let us know in your application and we will accommodate to the best of our ability.</em></p><p>Originally posted on <a>Himalayas</a></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/open-application-ci-games</p>",
+      "posted_at": "2026-10-11T20:31:55+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "11fd907b-d22f-4bba-ac2f-64286a5ad03a",
+      "title": "Open Application",
+      "url": "https://remotejobs.org/remote-jobs/open-application-vincit",
+      "apply_url": "https://remotejobs.org/remote-jobs/open-application-vincit",
+      "company": {
+        "name": "Vincit",
+        "logo_url": "https://jjseyvyygwyvnfbohzdx.supabase.co/storage/v1/object/public/company-logos/scraped/8e6a0e10246f30d42baf415f3d805cdb16780e3e40d988fb1ad93f6bb8cf596b.webp",
+        "website": null,
+        "url": "https://remotejobs.org/companies/vincit"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "United States",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": "year",
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": null,
+      "direct_apply": null,
+      "description": "<p>Didn’t find what you were looking for? Send us an open application!</p><p>Alternatively, you can join our Talent Pool and be among the first to hear about new opportunities that match your skills.</p><p><strong>👉 CONNECT WITH US AND JOIN OUR TALENT POOL</strong></p><hr><h4><strong>Why <a>Vincit</a>?</strong></h4><p>🌟 <strong>Maximal flexibility</strong><strong>and location independence</strong>– set up your workstation wherever you want and utilize our awesome office spaces in the way you feel is most suitable for you.</p><p><strong>🌟 Solid pay</strong>– your monthly base salary will be based on your experience and expertise + you’ll naturally get to enjoy <a>Vincit</a>’s bonus model, personnel fund and transparent salary weeks.</p><p><strong><strong>🌟</strong>More than generous employee benefits</strong>– lunch benefit, free snacks and drinks, healthcare and dental care services, extensive insurance, childcare services, high-quality work equipment – the list goes on!</p><p>🌟 <strong>Best place to grow</strong> – We want to ensure your <a>Vincit</a> career is filled with learning and growth. That’s why we’ve set up Univincity to support your professional development, offering a wide range of workplace learning opportunities.</p><p>🌟 <strong>Various career opportunities</strong>– pursue the role that's right for you, be it a new position, lateral move, or venturing into a different direction. Read inspiring examples of career paths in our career stories.</p><p>🌟 <strong>Work-life balance</strong>– We encourage you to shape your work life according to your personal needs. Whether it's family commitments, a side hustle, a sporty career, or simply the desire to downsize, we're always ready to discuss how we can tailor your work to fit your lifestyle.</p><p>🌟 <strong>Modern, transparent, and humane organization culture –</strong>thanks to these traits, we're an award-winning workplace to be proud of.</p><p>🌟 <strong>Active communities</strong>- Our belief, \"extraordinary things are created together\", is best seen in our various communities. We believe in togetherness and support each other in finding their place and peeps in the organization, whether it’s office communities, hobby clubs, project teams, or more.</p><p>🌟 <strong>We are committed to making the digital world more inclusive –</strong>we take our DEIB (Diversity, Equity, Inclusion, and Belonging) journey seriously to create a safe and welcoming workplace for everyone.</p><p>🌟 <strong>A team of skilled experts at least equal to yourself</strong>– our way of working and thinking usually suits those who are, or want to be, at the top of their profession. Work with us and you get to be part of our <a>Vincit</a> community which consists of the country’s top developers, designers, and other experts.</p><p><strong>👉 Explore real-life examples of our human-centric <a>Vincit</a> culture in our People &#x26; Culture blog.</strong></p><hr><h4><strong>Curious but still on the fence?</strong></h4><p>To get to know us as an employer, we recommend checking our career site, blog, Facebook, Instagram and LinkedIn. You might also like our post about <a>Vincit</a>’s candidate-friendly recruitment process.</p><p><em>P.S. Please note that if you live abroad and want to work with us, you need to have the necessary permits for working in Finland.</em></p><p>Originally posted on <a>Himalayas</a></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/open-application-vincit</p>",
+      "posted_at": "2026-10-11T20:31:38+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
     {
       "id": "b953bd2a-bf8b-4842-8ffd-87f259a69739",
       "title": "Full Stack Developer (Intermediate Level, PHP Proficient)",
@@ -75,7 +438,7 @@
       "apply_url": "https://remotejobs.org/remote-jobs/ai-enabled-solutions-developer-cloud-engineer-3-30464-fairfax-va-remote-u-hii",
       "company": {
         "name": "HII",
-        "logo_url": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2026/07/3ddc8c58feeb-221.webp",
+        "logo_url": "https://jjseyvyygwyvnfbohzdx.supabase.co/storage/v1/object/public/company-logos/scraped/9fbb39ea3b7ec75fc2ea43903a3c362578b61cd10652d0e53e05baa5853b6a8a.webp",
         "website": "https://vimeo.com",
         "url": "https://remotejobs.org/companies/hii"
       },
@@ -275,7 +638,7 @@
       "apply_url": "https://remotejobs.org/remote-jobs/cost-engineer-estimator-crystalia-glass",
       "company": {
         "name": "Crystalia Glass",
-        "logo_url": "https://cdn-images.himalayas.app/nqbt7uzimpkjd5a0u4lgxohowfln",
+        "logo_url": "https://jjseyvyygwyvnfbohzdx.supabase.co/storage/v1/object/public/company-logos/scraped/58050a4e835da7d15b1eef8b6d3c49da01d8bbbba3c90ba79c405446d7d51c5d.webp",
         "website": "https://crystaliaglass.com",
         "url": "https://remotejobs.org/companies/crystalia-glass"
       },
@@ -467,39 +830,6 @@
       "original_language": null
     },
     {
-      "id": "e292395b-10c7-4724-8e1b-d5ebdcafc342",
-      "title": "Senior Mobile Developer Android",
-      "url": "https://remotejobs.org/remote-jobs/senior-mobile-developer-android-markup-camp",
-      "apply_url": "https://remotejobs.org/remote-jobs/senior-mobile-developer-android-markup-camp",
-      "company": {
-        "name": "Markup camp",
-        "logo_url": null,
-        "website": "https://markupcamp.com",
-        "url": "https://remotejobs.org/companies/markup-camp"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "Remote",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": null,
-      "salary_period": null,
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<h1>Senior Mobile Developer Android</h1>\n<h2>Company Description</h2>\n<p>We help leaders in Tech drive revenue and improve results through high-end digital products that increase customer engagement and retention. Our agile and results-driven team develops technology solutions from concept to operation to meet all your business strategy and company development objectives.</p>\n<h2>Job Description</h2>\n<p>The ideal candidate is a self-motivated, multi-tasker, and demonstrated team-player. You will be a lead developer responsible for the development of new software products and enhancements to existing products. You should excel in working with large-scale applications and frameworks and have outstanding communication and leadership skills.</p>\n<h3>Responsibilities</h3>\n<ul>\n<li>Writing clean, high-quality, high-performance, maintainable code</li>\n<li>Develop and support software including applications, database integration, interfaces, and new functionality enhancements</li>\n<li>Coordinate cross-functionally to insure project meets business objectives and compliance standards</li>\n<li>Support test and deployment of new products and features</li>\n<li>Participate in code reviews</li>\n<li>Participate in Scrum ceremonies</li>\n</ul>\n<h2>Qualifications</h2>\n<ul>\n<li>Bachelor's degree in Computer Science (or related field)</li>\n<li>5+ years of relevant work experience</li>\n<li>Expertise in Object Oriented Design, Database Design, and XML Schema</li>\n<li>Expertise with mobile Android technologies, architectures, frameworks and patterns</li>\n<li>Expertise with large and complex database models</li>\n<li>Prior experience with large and UX-centric projects, ideally with native applications</li>\n<li>Experience with Agile or Scrum software development methodologies</li>\n<li>Ability to multi-task, organise, and prioritise work</li>\n<li>Creative problem solving person</li>\n<li>Good level of English language proficiency</li>\n<li>High sense of responsibility, self-discipline and eagerness to learn and improve</li>\n</ul>\n<h2>Additional Information</h2>\n<ul>\n<li>Premium healthcare insurance</li>\n<li>Unlimited time off</li>\n<li>Stock options</li>\n</ul>\n<p><strong>Location:</strong> Sofia, Bulgaria<br>\n<strong>Employment Type:</strong> Full-time</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-mobile-developer-android-markup-camp</p>",
-      "posted_at": "2026-09-14T06:01:20.397+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
       "id": "1dc63268-0a0a-4d04-9c13-b0361aafdf20",
       "title": "Senior Mobile Developer iOS",
       "url": "https://remotejobs.org/remote-jobs/senior-mobile-developer-ios-markup-camp",
@@ -533,15 +863,15 @@
       "original_language": null
     },
     {
-      "id": "1b44d7fa-3503-489d-91f0-58d0bce8739a",
-      "title": "Senior Node.js Software Engineer (Romania, remote)",
-      "url": "https://remotejobs.org/remote-jobs/senior-nodejs-software-engineer-romania-remote-transilvaniahr",
-      "apply_url": "https://remotejobs.org/remote-jobs/senior-nodejs-software-engineer-romania-remote-transilvaniahr",
+      "id": "e292395b-10c7-4724-8e1b-d5ebdcafc342",
+      "title": "Senior Mobile Developer Android",
+      "url": "https://remotejobs.org/remote-jobs/senior-mobile-developer-android-markup-camp",
+      "apply_url": "https://remotejobs.org/remote-jobs/senior-mobile-developer-android-markup-camp",
       "company": {
-        "name": "TransilvaniaHR",
+        "name": "Markup camp",
         "logo_url": null,
-        "website": null,
-        "url": "https://remotejobs.org/companies/transilvaniahr"
+        "website": "https://markupcamp.com",
+        "url": "https://remotejobs.org/companies/markup-camp"
       },
       "category": {
         "name": "Programming",
@@ -560,8 +890,8 @@
       ],
       "employer_job_id": null,
       "direct_apply": null,
-      "description": "<ul>\n<li></li>\n</ul>\n<p>Contract type: B2B, full-time</p>\n<ul>\n<li></li>\n</ul>\n<p>Schedule: Flexible hours</p>\n<ul>\n<li></li>\n</ul>\n<p>Work arrangement: Fully remote</p>\n<p>About the company</p>\n<p>The company is dedicated to transforming the way insurance professionals work by delivering innovative digital solutions. Its focus is on building cutting-edge Chrome extensions and web applications that automate complex workflows, streamline processes, and enhance productivity. With a strong commitment to intuitive design and high performance, the team develops user-friendly tools that create real impact in the insurance industry.</p>\n<p>Role Summary</p>\n<p>A Senior Backend Engineer is required to enhance and scale backend systems, improve API infrastructures, optimize algorithms, and ensure system reliability. The role includes implementing unit testing, supporting cloud migration, and integrating AI workflows. Experience with Robotic Process Automation (RPA) is strongly preferred.</p>\n<p>Responsibilities</p>\n<ul>\n<li>\n<p>Lead development and optimization of backend services and APIs.</p>\n</li>\n<li>\n<p>Implement comprehensive unit testing and establish best practices.</p>\n</li>\n<li>\n<p>Optimize algorithms for performance, reliability, and security.</p>\n</li>\n<li>\n<p>Support migration from Supabase to a more robust cloud provider.</p>\n</li>\n<li>\n<p>Design scalable and reliable backend architectures.</p>\n</li>\n<li>\n<p>Collaborate with frontend, DevOps, and other teams.</p>\n</li>\n<li>\n<p>Integrate AI systems and workflows into backend services.</p>\n</li>\n</ul>\n<p>Required Qualifications</p>\n<ul>\n<li>\n<p>6+ years of experience building production-grade backend systems.</p>\n</li>\n<li>\n<p>Strong proficiency in Node.js and cloud-based services.</p>\n</li>\n<li>\n<p>Expertise in API design and optimization.</p>\n</li>\n<li>\n<p>Proven experience with unit testing and QA for backend systems.</p>\n</li>\n<li>\n<p>Algorithm optimization skills with focus on speed and security.</p>\n</li>\n<li>\n<p>Knowledge of cloud infrastructure and migration best practices.</p>\n</li>\n<li>\n<p>Strong collaboration and communication abilities.</p>\n</li>\n</ul>\n<p>Core Tech Stack</p>\n<ul>\n<li>\n<p>JavaScript</p>\n</li>\n<li>\n<p>React</p>\n</li>\n<li>\n<p>Node.js</p>\n</li>\n<li>\n<p>Python</p>\n</li>\n<li>\n<p>PostgreSQL</p>\n</li>\n</ul><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-nodejs-software-engineer-romania-remote-transilvaniahr</p>",
-      "posted_at": "2026-09-12T20:34:32+00:00",
+      "description": "<h1>Senior Mobile Developer Android</h1>\n<h2>Company Description</h2>\n<p>We help leaders in Tech drive revenue and improve results through high-end digital products that increase customer engagement and retention. Our agile and results-driven team develops technology solutions from concept to operation to meet all your business strategy and company development objectives.</p>\n<h2>Job Description</h2>\n<p>The ideal candidate is a self-motivated, multi-tasker, and demonstrated team-player. You will be a lead developer responsible for the development of new software products and enhancements to existing products. You should excel in working with large-scale applications and frameworks and have outstanding communication and leadership skills.</p>\n<h3>Responsibilities</h3>\n<ul>\n<li>Writing clean, high-quality, high-performance, maintainable code</li>\n<li>Develop and support software including applications, database integration, interfaces, and new functionality enhancements</li>\n<li>Coordinate cross-functionally to insure project meets business objectives and compliance standards</li>\n<li>Support test and deployment of new products and features</li>\n<li>Participate in code reviews</li>\n<li>Participate in Scrum ceremonies</li>\n</ul>\n<h2>Qualifications</h2>\n<ul>\n<li>Bachelor's degree in Computer Science (or related field)</li>\n<li>5+ years of relevant work experience</li>\n<li>Expertise in Object Oriented Design, Database Design, and XML Schema</li>\n<li>Expertise with mobile Android technologies, architectures, frameworks and patterns</li>\n<li>Expertise with large and complex database models</li>\n<li>Prior experience with large and UX-centric projects, ideally with native applications</li>\n<li>Experience with Agile or Scrum software development methodologies</li>\n<li>Ability to multi-task, organise, and prioritise work</li>\n<li>Creative problem solving person</li>\n<li>Good level of English language proficiency</li>\n<li>High sense of responsibility, self-discipline and eagerness to learn and improve</li>\n</ul>\n<h2>Additional Information</h2>\n<ul>\n<li>Premium healthcare insurance</li>\n<li>Unlimited time off</li>\n<li>Stock options</li>\n</ul>\n<p><strong>Location:</strong> Sofia, Bulgaria<br>\n<strong>Employment Type:</strong> Full-time</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-mobile-developer-android-markup-camp</p>",
+      "posted_at": "2026-09-14T06:01:20.397+00:00",
       "is_translated": false,
       "original_language": null
     },
@@ -594,6 +924,39 @@
       "employer_job_id": null,
       "direct_apply": null,
       "description": "<ul>\n<li></li>\n</ul>\n<p>Contract type: B2B, full-time</p>\n<ul>\n<li></li>\n</ul>\n<p>Schedule: Flexible hours</p>\n<ul>\n<li></li>\n</ul>\n<p>Work arrangement: Fully remote</p>\n<p>About the company</p>\n<p>The company is dedicated to transforming the way insurance professionals work by delivering innovative digital solutions. Its focus is on building cutting-edge Chrome extensions and web applications that automate complex workflows, streamline processes, and enhance productivity. With a strong commitment to intuitive design and high performance, the team develops user-friendly tools that create real impact in the insurance industry.</p>\n<p>Role Summary</p>\n<p>Seeking a Frontend Engineer with strong skills in React and NextJS to develop a web portal and enhance a Chrome extension. The role covers building user-facing features, ensuring seamless integration, optimizing performance, and collaborating with cross-functional teams.</p>\n<p>Responsibilities</p>\n<ul>\n<li>\n<p>Develop and maintain responsive UI components in React/NextJS.</p>\n</li>\n<li>\n<p>Design and maintain Chrome extension features (Manifest V3, APIs, security best practices).</p>\n</li>\n<li>\n<p>Integrate with backend services via REST or WebSockets.</p>\n</li>\n<li>\n<p>Optimize performance through efficient state management and profiling.</p>\n</li>\n<li>\n<p>Write unit and integration tests; ensure cross-browser compatibility.</p>\n</li>\n<li>\n<p>Contribute to code reviews, documentation, and agile processes.</p>\n</li>\n<li>\n<p>Monitor, troubleshoot, and resolve UI, performance, and security issues.</p>\n</li>\n<li>\n<p>Stay current with React ecosystem and browser extension updates.</p>\n</li>\n</ul>\n<p>Required Qualifications</p>\n<ul>\n<li>\n<p>6+ years of React &#x26; NextJS experience with TypeScript.</p>\n</li>\n<li>\n<p>Strong knowledge of HTML5, CSS3, JavaScript, and modern bundlers.</p>\n</li>\n<li>\n<p>Experience with state management (Redux, React Query, etc.) and API integration.</p>\n</li>\n<li>\n<p>Proficiency with testing frameworks (Jest, React Testing Library).</p>\n</li>\n<li>\n<p>Strong Git skills and familiarity with CI/CD workflows.</p>\n</li>\n<li>\n<p>Solid understanding of web and extension security practices.</p>\n</li>\n<li>\n<p>Effective communication and collaboration skills.</p>\n</li>\n</ul>\n<p>Preferred Qualifications</p>\n<ul>\n<li>\n<p>UI/UX sensibility with focus on accessibility and usability.</p>\n</li>\n<li>\n<p>Hands-on Chrome extension development (Manifest V3, APIs).</p>\n</li>\n<li>\n<p>Familiarity with browser automation, scraping, or OCR.</p>\n</li>\n<li>\n<p>Experience in performance profiling, CI/CD pipelines, and open-source contributions.</p>\n</li>\n<li>\n<p>Exposure to other frontend frameworks or hybrid mobile apps.</p>\n</li>\n</ul><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-react-software-engineer-romania-remote-transilvaniahr</p>",
+      "posted_at": "2026-09-12T20:34:32+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "1b44d7fa-3503-489d-91f0-58d0bce8739a",
+      "title": "Senior Node.js Software Engineer (Romania, remote)",
+      "url": "https://remotejobs.org/remote-jobs/senior-nodejs-software-engineer-romania-remote-transilvaniahr",
+      "apply_url": "https://remotejobs.org/remote-jobs/senior-nodejs-software-engineer-romania-remote-transilvaniahr",
+      "company": {
+        "name": "TransilvaniaHR",
+        "logo_url": null,
+        "website": null,
+        "url": "https://remotejobs.org/companies/transilvaniahr"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "Remote",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": null,
+      "direct_apply": null,
+      "description": "<ul>\n<li></li>\n</ul>\n<p>Contract type: B2B, full-time</p>\n<ul>\n<li></li>\n</ul>\n<p>Schedule: Flexible hours</p>\n<ul>\n<li></li>\n</ul>\n<p>Work arrangement: Fully remote</p>\n<p>About the company</p>\n<p>The company is dedicated to transforming the way insurance professionals work by delivering innovative digital solutions. Its focus is on building cutting-edge Chrome extensions and web applications that automate complex workflows, streamline processes, and enhance productivity. With a strong commitment to intuitive design and high performance, the team develops user-friendly tools that create real impact in the insurance industry.</p>\n<p>Role Summary</p>\n<p>A Senior Backend Engineer is required to enhance and scale backend systems, improve API infrastructures, optimize algorithms, and ensure system reliability. The role includes implementing unit testing, supporting cloud migration, and integrating AI workflows. Experience with Robotic Process Automation (RPA) is strongly preferred.</p>\n<p>Responsibilities</p>\n<ul>\n<li>\n<p>Lead development and optimization of backend services and APIs.</p>\n</li>\n<li>\n<p>Implement comprehensive unit testing and establish best practices.</p>\n</li>\n<li>\n<p>Optimize algorithms for performance, reliability, and security.</p>\n</li>\n<li>\n<p>Support migration from Supabase to a more robust cloud provider.</p>\n</li>\n<li>\n<p>Design scalable and reliable backend architectures.</p>\n</li>\n<li>\n<p>Collaborate with frontend, DevOps, and other teams.</p>\n</li>\n<li>\n<p>Integrate AI systems and workflows into backend services.</p>\n</li>\n</ul>\n<p>Required Qualifications</p>\n<ul>\n<li>\n<p>6+ years of experience building production-grade backend systems.</p>\n</li>\n<li>\n<p>Strong proficiency in Node.js and cloud-based services.</p>\n</li>\n<li>\n<p>Expertise in API design and optimization.</p>\n</li>\n<li>\n<p>Proven experience with unit testing and QA for backend systems.</p>\n</li>\n<li>\n<p>Algorithm optimization skills with focus on speed and security.</p>\n</li>\n<li>\n<p>Knowledge of cloud infrastructure and migration best practices.</p>\n</li>\n<li>\n<p>Strong collaboration and communication abilities.</p>\n</li>\n</ul>\n<p>Core Tech Stack</p>\n<ul>\n<li>\n<p>JavaScript</p>\n</li>\n<li>\n<p>React</p>\n</li>\n<li>\n<p>Node.js</p>\n</li>\n<li>\n<p>Python</p>\n</li>\n<li>\n<p>PostgreSQL</p>\n</li>\n</ul><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-nodejs-software-engineer-romania-remote-transilvaniahr</p>",
       "posted_at": "2026-09-12T20:34:32+00:00",
       "is_translated": false,
       "original_language": null
@@ -665,13 +1028,79 @@
       "original_language": null
     },
     {
+      "id": "f0948f20-1c40-4594-b73e-721f78519823",
+      "title": "Telemetry Engineer",
+      "url": "https://remotejobs.org/remote-jobs/telemetry-engineer-bright-vision-technologies",
+      "apply_url": "https://remotejobs.org/remote-jobs/telemetry-engineer-bright-vision-technologies",
+      "company": {
+        "name": "Bright Vision Technologies",
+        "logo_url": "https://jjseyvyygwyvnfbohzdx.supabase.co/storage/v1/object/public/company-logos/scraped/f8d667262351dad5c9be7c05a72cb2b3edb13fa582bdc4af986fe358fc824c54.webp",
+        "website": "https://bright.com",
+        "url": "https://remotejobs.org/companies/bright-vision-technologies"
+      },
+      "category": {
+        "name": "DevOps",
+        "slug": "devops"
+      },
+      "location": "United States",
+      "salary_min": 100000,
+      "salary_max": 150000,
+      "salary_text": "USD 100,000–150,000/year",
+      "salary_source_text": "USD 100000 - 150000",
+      "salary_currency": "USD",
+      "salary_period": "year",
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": null,
+      "direct_apply": null,
+      "description": "<a>Bright Vision Technologies</a> is a technology consulting and software development company delivering cloud, AI, data, and enterprise solutions across the United States. This is a fantastic opportunity to join an established and well-respected organization offering tremendous career growth potential.<br><br><strong>Job Title:</strong> Telemetry Engineer<br><strong>Location: </strong>100% Remote (U.S.)<br><strong>Position Type:</strong> Full-time, Direct W2<br><strong>Salary Range: </strong>$100,000–$150,000 Annually<br><strong>Experience Required:</strong> 6+ years<br><br><strong>Sponsorship: </strong>U.S. Citizens, Green Card Holders, EAD Holders, and H-1B transfer candidates are encouraged to apply. We are unable to sponsor new H-1B visa petitions for this position.<h3><strong>Job Summary</strong></h3><p>We are seeking a <strong>Telemetry Engineer</strong> to design, implement, and manage enterprise observability platforms that provide actionable insights through metrics, logs, traces, and alerting. The ideal candidate has hands-on experience with modern observability tools, SRE practices, and monitoring solutions for large-scale cloud environments.</p><h3><strong>Required Qualifications</strong></h3><ul>\n<li>Bachelor's degree in Computer Science or a related field.</li>\n<li>5+ years of experience in SRE, Platform Engineering, or Observability.</li>\n<li>Strong experience with <strong>Prometheus, Grafana, OpenTelemetry</strong>, and <strong>Datadog, New Relic, or Splunk</strong>.</li>\n<li>Proficiency in <strong>Go, Python, or Java</strong>.</li>\n<li>Experience with distributed tracing, structured logging, Linux, containers, and CI/CD.</li>\n<li>Strong understanding of <strong>SRE principles, SLOs, and incident management</strong>.</li>\n</ul><h3><strong>Preferred Qualifications</strong></h3><ul>\n<li>Experience with <strong>Thanos, Mimir, Cortex, Loki, or Tempo</strong>.</li>\n<li>Familiarity with <strong>eBPF-based observability</strong> tools.</li>\n<li>Experience with observability cost optimization.</li>\n<li>Contributions to OpenTelemetry or other observability open-source projects.</li>\n<li>Experience supporting regulated environments.</li>\n</ul><br><strong>How to Apply</strong><br>Would you like to know more about this opportunity? For immediate consideration, please send your resume to  or contact us at (908) 505-3545. Learn more about <a>Bright Vision Technologies</a> at www.bvteck.com.<br><a>Bright Vision Technologies</a> is an Equal Opportunity Employer.<p>Equal Employment Opportunity (EEO) Statement</p><p><a>Bright Vision Technologies</a> (BV Teck) is committed to equal employment opportunity (EEO) for all employees and applicants without regard to race, color, religion, sex, sexual orientation, gender identity or expression, national origin, age, genetic information, disability, veteran status, or any other protected status as defined by applicable federal, state, or local laws. This commitment extends to all aspects of employment, including recruitment, hiring, training, compensation, promotion, transfer, leaves of absence, termination, layoffs, and recall.</p><p>BV Teck expressly prohibits any form of workplace harassment or discrimination. Any improper interference with employees' ability to perform their job duties may result in disciplinary action up to and including termination of employment.</p><p>Originally posted on <a>Himalayas</a></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/telemetry-engineer-bright-vision-technologies</p>",
+      "posted_at": "2026-10-11T20:38:19+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "efeec5d3-2739-4217-b466-7e4c63a2661b",
+      "title": "Infrastructure Engineer (LATAM)",
+      "url": "https://remotejobs.org/remote-jobs/infrastructure-engineer-latam-hadrian",
+      "apply_url": "https://remotejobs.org/remote-jobs/infrastructure-engineer-latam-hadrian",
+      "company": {
+        "name": "Hadrian",
+        "logo_url": "https://jjseyvyygwyvnfbohzdx.supabase.co/storage/v1/object/public/company-logos/scraped/ad4570d3373b7b481da5495d070ec84860fe7c946e52d04364641c7c3a6e7df1.png",
+        "website": null,
+        "url": "https://remotejobs.org/companies/hadrian"
+      },
+      "category": {
+        "name": "DevOps",
+        "slug": "devops"
+      },
+      "location": "United States",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": "year",
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": null,
+      "direct_apply": null,
+      "description": "<p><em>Are you obsessed with</em><strong><em>building cloud-native platforms</em></strong><em>that enable engineers to operate at internet scale?</em></p><p><em>Then join us as our new</em><strong><em>Infrastructure Engineer</em></strong><em>and be part of defining the next generation of the Infrastructure platform at</em><strong><em><a>Hadrian</a></em></strong><em>!</em></p><h3><strong>Who are we:</strong></h3><p>We are <strong><a>Hadrian</a></strong> - an <strong>offensive cybersecurity</strong> startup. We are reshaping the future of cybersecurity through the power of agentic AI injected with the hacker’s perspective. Founded in August 2021, we've secured funding and the backing of ABN AMRO Ventures and Cherry Ventures, propelling us into a new era.</p><p>Our goal is to provide companies with an <strong>autonomous Threat Exposure Management</strong> platform. At <a>Hadrian</a>, we view security through a hacker's eyes because hackers understand hackers best. We continuously map the digital footprint of organisations, discover risks, and prioritise remediation for security teams to harden their external attack surfaces.</p><p>Located in <strong>Amsterdam</strong>'s buzzing Leidseplein, by <strong>London</strong>'s famous Paddington Station, and our most recent US HQ in the heart of <strong>New York City</strong>, our diverse team from 25+ countries is on a mission to shake things up in offensive security. Join us in making waves and securing over 700 businesses, and be at the forefront of automated offensive security.</p><h3>Your role:</h3><p>As an <strong>Infrastructure Engineer</strong> at <a>Hadrian</a>, you will design, build, and evolve the cloud-native platform that powers our offensive security operations. You will enable engineering teams to move faster, deploy safely, and operate reliably by creating scalable self-service infrastructure and resilient platform capabilities.</p><p>This role is ideal for engineers who enjoy combining deep infrastructure expertise with a strong software engineering mindset. We're looking for someone who thrives on automation, reliability, and platform design, and who sees infrastructure as a product that empowers others to do their best work.</p><p>If you enjoy solving complex distributed systems challenges, building developer-friendly platforms, and creating the foundations that allow autonomous security systems to operate at scale, we would love to hear from you</p><h3><strong>What you will do as an Infrastructure Engineer at <a>Hadrian</a>:</strong></h3><ul>\n<li><p>Help build and maintain the cloud-native platform that powers <a>Hadrian</a>'s offensive security systems.</p></li>\n<li><p>Design and automate infrastructure delivery using <strong>Infrastructure-as-Code</strong>, enabling scalable and self-service platform capabilities.</p></li>\n<li><p>Manage and improve our <strong>Kubernetes</strong> environment, ensuring reliability, performance, and security.</p></li>\n<li><p>Collaborate closely with software engineers to improve deployment workflows, developer experience, and platform adoption.</p></li>\n<li><p>Operate and optimize our core cloud infrastructure on <strong>AWS</strong>, while supporting our distributed scanning environments.</p></li>\n<li><p>Improve observability, monitoring, incident response, and platform reliability across critical systems.</p></li>\n<li><p>Help implement platform standards, security controls, and engineering best practices that enable teams to move quickly and safely.</p></li>\n<li><p>Take on a unique challenge. We’re building autonomous security systems that continuously analyze internet-scale attack surfaces. You'll help create the platform that makes this possible.</p></li>\n</ul><h3><strong>You are fit for this job because you:</strong></h3><ul>\n<li><h3>Are fluent in English.</h3></li>\n<li><p>Have <strong>3-5 years of experience</strong> as an Infrastructure Engineer, Platform Engineer, DevOps Engineer, SRE, or similar role.</p></li>\n<li><p>Have hands-on experience with <strong>Kubernetes, AWS, and Terraform</strong> (/OpenTofu), and are comfortable operating cloud-native infrastructure in production environments.</p></li>\n<li><p>Are comfortable managing core environments on <strong>AWS</strong> while extending workloads into secondary cloud environments used for scanning.</p></li>\n<li><p>Have a solid foundation in <strong>systems engineering, containerization (Docker), and distributed systems</strong>.</p></li>\n<li><p>Are experienced with <strong>automation and CI/CD tooling</strong>, such as Terraform, Ansible, Jenkins, or GitLab CI.</p></li>\n<li><p>Enjoy building platforms, tooling, and automation that help engineering teams move faster and more safely.</p></li>\n<li><p>Possess strong troubleshooting and problem-solving skills, and enjoy solving reliability, scalability, and operational challenges.</p></li>\n<li><p>Use AI pragmatically to accelerate workflows while maintaining high standards of reliability and security.</p></li>\n<li><p>Communicate clearly and collaborate effectively across technical teams.</p></li>\n</ul><h5><strong>Bonus points if you have:</strong></h5><ul>\n<li><p>Experience with <strong>KNative</strong>, event-driven architectures, or service mesh technologies.</p></li>\n<li><p>Experience with <strong>Kafka</strong> or other distributed messaging systems.</p></li>\n<li><p>Hands-on experience with <strong>observability and monitoring tooling</strong>.</p></li>\n<li><p>Familiarity with <strong>Site Reliability Engineering (SRE)</strong> practices.</p></li>\n<li><p>Certifications related to Kubernetes such as <strong>CKA, CKAD, or AWS certifications</strong>.</p></li>\n<li><p>Contributions to open-source infrastructure or cloud-native projects.</p></li>\n</ul><h3><strong>Our Stack:</strong></h3><ul>\n<li><h3>GoLang / Python</h3></li>\n<li><p>KNative Serving &#x26; Eventing / Kafka / Redis</p></li>\n<li><h3>Docker / Kubernetes / Helm Charts</h3></li>\n<li><h3>Terraform / OpenTofu</h3></li>\n<li><h3>PostgreSQL / BigQuery</h3></li>\n<li><h3>AWS / GCP / SCW (plus)</h3></li>\n</ul><h3><strong>Benefits at <a>Hadrian</a>:</strong></h3><ul>\n<li><h3>Permanent contract</h3></li>\n<li><h3>Unlimited paid holiday</h3></li>\n<li><h3>Stock options package</h3></li>\n<li><h3>Mobile phone stipend</h3></li>\n<li><h3>Work-from-home budget</h3></li>\n<li><h3>Business travel card</h3></li>\n<li><h3>Swapfiets</h3></li>\n<li><h3>Referral bonuses</h3></li>\n</ul><h3><strong>Why you want to be part of <a>Hadrian</a>:</strong></h3><p><strong>Make the internet safer:</strong> We enable companies to protect their customers, employees, and other stakeholders from malicious hackers by providing real-time Exposure Management from the Hacker’s perspective</p><p><strong>Board a primed rocket ship:</strong> <a>Hadrian</a> is growing fast; the team is approaching 90 wonderful people, notable customers are signed, and significant funding is raised. Now is the time to join our high-growth journey</p><p><strong>Be part of a strong and dynamic culture:</strong> Our values define who we are as a group and serve as the cornerstones to guide us in building a product that our customers love. At <a>Hadrian</a>, we achieve this by championing a culture that takes ownership, succeeds together, increases velocity, and pursues growth</p><h3><strong>Sounds like the role for you? Apply now!</strong></h3><blockquote><p><em>Our clients are seeking a world-class and reliable digital security service. That is exactly what we are offering. Therefore, a background check will be part of the process.</em></p></blockquote><p>Originally posted on <a>Himalayas</a></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/infrastructure-engineer-latam-hadrian</p>",
+      "posted_at": "2026-10-11T20:32:05+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
       "id": "7f57ccb3-41a1-481b-909d-4b21f9d1e608",
       "title": "Server Specialist",
       "url": "https://remotejobs.org/remote-jobs/server-specialist-thehivecareers-himala",
       "apply_url": "https://remotejobs.org/remote-jobs/server-specialist-thehivecareers-himala",
       "company": {
         "name": "TheHiveCareers",
-        "logo_url": "https://cdn-images.himalayas.app/cj85pdd0870xaq5xdxhby508bzul",
+        "logo_url": "https://jjseyvyygwyvnfbohzdx.supabase.co/storage/v1/object/public/company-logos/scraped/5a928965a2e792f59a611cf9f009bf5ac5df32ec909377c8b4e7fa12dea6b6c9.webp",
         "website": "https://thehivecareers.co",
         "url": "https://remotejobs.org/companies/thehivecareers"
       },
@@ -705,7 +1134,7 @@
       "apply_url": "https://remotejobs.org/remote-jobs/digital-solution-consultant-sr-analyst-remote-dl-in-ntt-data",
       "company": {
         "name": "NTT DATA",
-        "logo_url": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/09/e2252da5-221.png",
+        "logo_url": "https://jjseyvyygwyvnfbohzdx.supabase.co/storage/v1/object/public/company-logos/scraped/1778e965f86d26481b427465900181337f953b187c7beb78648ec7293ffe7969.png",
         "website": "https://us.nttdata.com",
         "url": "https://remotejobs.org/companies/ntt-data"
       },
@@ -730,6 +1159,72 @@
       "posted_at": "2026-09-07T13:10:36+00:00",
       "is_translated": false,
       "original_language": null
+    },
+    {
+      "id": "2268eb00-380b-448f-92d8-73183a8f3c23",
+      "title": "Lead Backend Engineer Data Platform",
+      "url": "https://remotejobs.org/remote-jobs/lead-backend-engineer-data-platform-q-tech",
+      "apply_url": "https://remotejobs.org/remote-jobs/lead-backend-engineer-data-platform-q-tech",
+      "company": {
+        "name": "Q-Tech",
+        "logo_url": "https://jjseyvyygwyvnfbohzdx.supabase.co/storage/v1/object/public/company-logos/scraped/9e60df02ae5ba845ac4084f518c5c85c348630b40bd5a5f04693292888b0b2cb.webp",
+        "website": null,
+        "url": "https://remotejobs.org/companies/qtech"
+      },
+      "category": {
+        "name": "Data Science",
+        "slug": "data-science"
+      },
+      "location": "Spain",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": "year",
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": null,
+      "direct_apply": null,
+      "description": "<p>We are looking for a<strong>Data Platform Engineer</strong>who wants to build from scratch the tools that will drive real growth for a tech company in full scaling.</p><h3>👉 This is not the typical backend role.</h3><p>Here you will design the systems that explain how the business grows: from<strong>user attribution</strong>hasta<strong>data unification</strong>y<strong>campaign optimization</strong>.</p><p>🧠<strong>What will you do?</strong></p><p>You will work hand in hand with the marketing team to turn business needs into real systems.</p><p>You will have<strong>ownership total</strong>over what you build: technical decisions, architecture and evolution of the platform.</p><h3>Some examples of what you will do:</h3><ul>\n<li><p>Build key internal tools for growth</p></li>\n<li><p>Design proprietary measurement and attribution systems</p></li>\n<li><h3>Create deep linking solutions</h3></li>\n<li><p>Unify and process data from multiple sources (especially mobile)</p></li>\n<li><p>Define data architectures and pipelines</p></li>\n<li><p>Construir interfaces simples para equipos no técnicos</p></li>\n</ul><p>🧩<strong>What are we looking for?</strong></p><p>Un perfil<strong>builder</strong>, comfortable building from scratch and moving between backend, data and product.</p><h3>Experience</h3><ul>\n<li><p>Previous experience developing internal products or data tooling</p></li>\n<li><p>Background in environments where data is critical to business</p></li>\n<li><p>Experience building systems from scratch</p></li>\n</ul><h3>Stack &#x26; skills</h3><ul>\n<li><h3>Data architecture / data products</h3></li>\n<li><h3>Infra (Terraform or similar)</h3></li>\n<li><h3>Backend sólido (Go ideal, pero flexible)</h3></li>\n<li><h3>Data pipelines and processing</h3></li>\n<li><p>Analytical capability and algorithmic thinking</p></li>\n</ul><h3>Mindset</h3><ul>\n<li><h3>Alta autonomía (perfil “make it happen”)</h3></li>\n<li><h3>Product mindset</h3></li>\n<li><h3>Foco en impacto, no solo en código</h3></li>\n</ul><p>🎯<strong>Why is this role different?</strong></p><ul>\n<li><p>You will not maintain systems →<strong>you will build them from scratch</strong></p></li>\n<li><p>You will not work in isolation →<strong>you will impact revenue directly</strong></p></li>\n<li><p>You will not only use external tools →<strong>you will create your own solutions</strong></p></li>\n</ul><p>It is a real opportunity to build a<strong>data-driven growth machine</strong>.</p><p>🌍<strong>What we offer</strong></p><ul>\n<li><h3>💰 Salary competitivo</h3></li>\n<li><p>🏡 Remote within Spain + office in Barcelona Tech City</p></li>\n<li><h3>🧱 Full ownership from day 1</h3></li>\n<li><p>⚡ Agile environment, with senior talent and quick decisions</p></li>\n<li><p>🌍 Work with founders who have built global products</p></li>\n</ul><p>👉 Si te motiva<strong>build systems with real business impact</strong>, this role is for you.</p><p>Originally posted on <a>Himalayas</a></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/lead-backend-engineer-data-platform-q-tech</p>",
+      "posted_at": "2026-10-11T20:38:54+00:00",
+      "is_translated": true,
+      "original_language": "es"
+    },
+    {
+      "id": "3ba1ed2f-62f7-4ead-be7b-b81fdc3dbb0f",
+      "title": "Senior Data Scientist / Data Analyst",
+      "url": "https://remotejobs.org/remote-jobs/senior-data-scientist-data-analyst-b3-consulting-poland",
+      "apply_url": "https://remotejobs.org/remote-jobs/senior-data-scientist-data-analyst-b3-consulting-poland",
+      "company": {
+        "name": "B3 Consulting Poland",
+        "logo_url": "https://jjseyvyygwyvnfbohzdx.supabase.co/storage/v1/object/public/company-logos/scraped/9c5d1ae69879d390e2dd8d526a04faccbff00ee3217e7921dbc743a6b71e4c2a.jpeg",
+        "website": "https://b3.com",
+        "url": "https://remotejobs.org/companies/b3-consulting-poland"
+      },
+      "category": {
+        "name": "Data Science",
+        "slug": "data-science"
+      },
+      "location": "United States",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": "year",
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": null,
+      "direct_apply": null,
+      "description": "<h5><strong>Data is more than models for us.</strong></h5><p>We are part of<strong>Scandinavian group B3 Consulting</strong>.</p><p>We operate from Warsaw, but <strong>think broader</strong> – about technology, business and the people behind it.</p><p>W B3 <strong>we implement data-driven projects</strong> and deliberately develop this area further.</p><p>The market clearly shows the direction:<strong>advanced analytics, ML in production, data-driven decisions</strong>.</p><p>We are already there — and we are preparing for the next projects.</p><p>That's why we invite to a conversation <strong>Senior Data Scientistów / Analystów</strong>, who want to be part of this direction.</p><h5><strong>How do we work?</strong></h5><ul>\n<li><p>we combine<strong>dobrze poukładane procesy</strong>z<strong>autonomy and agency</strong></p></li>\n<li><p>we value experience, but <strong>we don't stand still</strong></p></li>\n<li><p>we speak directly, think logically, act responsibly</p></li>\n<li><p>technology is important –<strong>but people and results are more important</strong></p></li>\n</ul><p>Our vision is<strong>a world of technology where people and responsibility for results are paramount</strong>.</p><h5><strong>What do we do in the data area?</strong></h5><p>In the projects we implement (and which are ahead of us), there appear among others:</p><ul>\n<li><p>building and development of<strong>ML models operating in a production environment</strong></p></li>\n<li><p>working with data of different nature: tabular, time-series, event-based</p></li>\n<li><p>scaling solutions and ensuring their stability and quality</p></li>\n<li><p>close cooperation with business – from understanding the problem to delivering the result</p></li>\n<li><p>designing solutions, not just individual models</p></li>\n</ul><p>The technological scope and working method <strong>we adapt to the problem</strong>, not the other way around.</p><h5><strong>Who do we want to meet?</strong></h5><h3>People who:</h3><ul>\n<li><p>have experience in <strong>Data Science / Advanced Analytics</strong> and know what working with data looks like in a real environment</p></li>\n<li><p>building and development of<strong>ML models operating in a production environment</strong></p></li>\n<li><p>have participated in<strong>implementing solutions into production</strong></p></li>\n<li><p>can think systemically and take responsibility for results</p></li>\n<li><p>feel comfortable at the intersection of<strong>data, technology and business</strong></p></li>\n</ul><h5>In our projects there appear among others:</h5><ul>\n<li><p><strong>Python</strong>, <strong>Scala,</strong> advanced <strong>SQL</strong></p></li>\n<li><p><strong>Spark</strong>, Databricks, BigQuery</p></li>\n<li><h3>GCP / Azure/ AWS</h3></li>\n<li><p>various data orchestration tools (e.g. Airflow), monitoring tools</p></li>\n</ul><h5><strong>Why B3?</strong></h5><ul>\n<li><p>we build relationships and teams <strong>in advance</strong></p></li>\n<li><h3>we give seniors real influence</h3></li>\n<li><p>we share<strong>energy, logic of action and a healthy approach to reality</strong></p></li>\n<li><p>we act locally, but<strong>with an international perspective</strong></p></li>\n</ul><h5><strong>Does this sound like something you want to stay in touch with?</strong></h5><h3>You don't need to look for a change \"right now\".</h3><p>If you implement data projects at a high level and want to be close to an organization that <strong>actively develops this area</strong> – let's talk.</p><h3>This is an invitation to a relationship.</h3><p>Originally posted on <a>Himalayas</a></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-data-scientist-data-analyst-b3-consulting-poland</p>",
+      "posted_at": "2026-10-11T20:37:12+00:00",
+      "is_translated": true,
+      "original_language": "pl"
     },
     {
       "id": "69c1e0e1-d9ba-43bb-b611-cccb5c921f70",
@@ -937,7 +1432,7 @@
       "apply_url": "https://remotejobs.org/remote-jobs/data-engineer-ii-nps-prism",
       "company": {
         "name": "NPS Prism",
-        "logo_url": "https://we-work-remotely.imgix.net/logos/0171/5616/logo.gif",
+        "logo_url": "https://jjseyvyygwyvnfbohzdx.supabase.co/storage/v1/object/public/company-logos/scraped/84dafae6fa7cb5af3a453dd87b98ff923b280bbbf1b9e08de0eca95c86fdb0c9.png",
         "website": "https://npsprism.com",
         "url": "https://remotejobs.org/companies/nps-prism"
       },
