@@ -1,7 +1,205 @@
 {
-  "generatedAt": "2026-10-12T04:34:22.633Z",
-  "count": 44,
+  "generatedAt": "2026-10-12T14:33:58.245Z",
+  "count": 58,
   "data": [
+    {
+      "id": "8ad7366f-ab19-4b54-8153-0121b40d1ca9",
+      "title": "[Job-00022] Senior Backend Engineer (Python), Brazil",
+      "url": "https://remotejobs.org/remote-jobs/job-00022-senior-backend-engineer-python-brazil-cit",
+      "apply_url": "https://remotejobs.org/remote-jobs/job-00022-senior-backend-engineer-python-brazil-cit",
+      "company": {
+        "name": "CI&T",
+        "logo_url": "https://jjseyvyygwyvnfbohzdx.supabase.co/storage/v1/object/public/company-logos/scraped/7e1782a578c9c71ab76efa0e1141e9caf4002ac5568d62e6b46ff14dfee91d75.webp",
+        "website": "https://cit.com",
+        "url": "https://remotejobs.org/companies/cit"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "Brazil",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": "year",
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": null,
+      "direct_apply": null,
+      "description": "<p>At CI&#x26;T, we help large enterprises transform the potential of AI into real business impact with AI Deployment, AI-native execution, and tech-integrated business solutions.</p><p>With 30 years of experience in technological transformation, we accelerate innovation with expertise in Agentic SDLC, Application modernization, Data &#x26; AI, Martech and Business strategy.</p><p>We are 8,000 CI&#x26;Ters across more than 25 countries, collaborating to build solutions with real impact. AI is already part of how we work, evolve, and innovate every day.</p><div>\n<p>We are looking for a <strong>Senior Backend Engineer</strong> to help evolve and scale backend services, APIs, and orchestration workflows in a cloud-based environment.</p>\n<p>In this role, you will contribute to the modernization of existing services, support the migration from Flask to FastAPI, and help build a more scalable, decoupled architecture using Azure. You will take ownership of API specifications and contribute to the reliability, performance, and observability of backend solutions.</p>\n<h3>Responsibilities</h3>\n<ul>\n<li>Support the migration of backend services from <strong>Flask to FastAPI</strong>, improving maintainability, performance, and scalability.</li>\n<li>Own and maintain API specifications, ensuring consistency, clarity, and alignment across integrations.</li>\n<li>Evolve the multi-run orchestration flow, from API requests through multirun processing to Optim-core integration.</li>\n<li>Help transition orchestration workloads toward <strong>queue-based workers running on Azure Container Apps</strong>, reducing dependencies on Azure Machine Learning Studio (AMLS).</li>\n<li>Design and implement run lifecycle APIs, article swap endpoints, and results persistence mechanisms.</li>\n<li>Build and maintain reliable backend services using Python, FastAPI, and Flask.</li>\n<li>Implement and maintain CI/CD pipelines, automated testing, and observability practices.</li>\n<li>Identify and address technical challenges related to service reliability, integration, and distributed processing.</li>\n<li>Collaborate with engineering teams and stakeholders to deliver robust, maintainable backend solutions.</li>\n</ul>\n<h3>Requirements for this challenge</h3>\n<ul>\n<li>Strong experience in backend software engineering using <strong>Python</strong>.</li>\n<li>Hands-on experience with <strong>FastAPI and Flask</strong>, including API development and framework migration.</li>\n<li>Experience designing, documenting, and maintaining API specifications.</li>\n<li>Solid understanding of API architecture, service integration, and asynchronous processing.</li>\n<li>Experience with <strong>Azure</strong> and cloud-based application deployment.</li>\n<li>Knowledge of queue-based architectures, background workers, and distributed systems.</li>\n<li>Experience implementing automated testing, CI/CD pipelines, and observability for production services.</li>\n<li>Understanding of data persistence, API lifecycle management, and reliable service communication.</li>\n<li>Strong problem-solving skills and the ability to make sound technical decisions.</li>\n<li>Ability to work autonomously and collaborate effectively with cross-functional engineering teams.</li>\n</ul>\n<h3>Nice to Have</h3>\n<ul>\n<li>Experience with Azure Container Apps and containerized workloads.</li>\n<li>Familiarity with Azure Machine Learning Studio (AMLS) and its integration with backend services.</li>\n<li>Experience decoupling services and migrating from tightly coupled architectures to asynchronous, queue-based processing.</li>\n<li>Knowledge of monitoring, logging, tracing, and production troubleshooting.</li>\n<li>Experience with orchestration workflows involving multiple services or processing runs.</li>\n</ul>\n</div><h3>Our benefits:</h3><div>-Health and dental insurance</div><div>-Meal and food allowance</div><div>-Childcare assistance</div><div>-Extended paternity leave</div><div>-Partnership with gyms and health and wellness professionals via Wellhub (Gympass) TotalPass;</div><div>-Profit Sharing and Results Participation (PLR);</div><div>-Life insurance</div><div>-Continuous learning platform (CI&#x26;T University);</div><div>-Discount club</div><div>-Free online platform dedicated to physical, mental, and overall well-being</div><div>-Pregnancy and responsible parenting course</div><div>-Partnerships with online learning platforms</div><div>-Language learning platform</div><div>And many more!</div><div>More details about our benefits here: </div><div>At CI&#x26;T, inclusion starts at the first contact. If you are a person with a disability, it is important<strong> to present your assessment during the selection process. </strong><em>See which data needs to be included in the report by clicking here</em>.This way, we can ensure the support and accommodations that you deserve. <strong>If you do not yet have the assessment, don't worry: we can support you in obtaining it.</strong>\n</div><div>We have a dedicated Health and Well-being team, inclusion specialists, and affinity groups who will be with you at every stage. Count on us to make this journey side by side.</div><p>Originally posted on <a>Himalayas</a></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/job-00022-senior-backend-engineer-python-brazil-cit</p>",
+      "posted_at": "2026-10-12T05:15:22+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "3e749a69-6c1d-4abf-90e0-b5f770dc0507",
+      "title": "Forward Deployed Engineer",
+      "url": "https://remotejobs.org/remote-jobs/forward-deployed-engineer-jeeves",
+      "apply_url": "https://remotejobs.org/remote-jobs/forward-deployed-engineer-jeeves",
+      "company": {
+        "name": "Jeeves",
+        "logo_url": "https://jjseyvyygwyvnfbohzdx.supabase.co/storage/v1/object/public/company-logos/scraped/4171a06125237baaecbd499b8e0fc3c1c1f107bf8424c5a77b9de874dbd41d90.webp",
+        "website": "https://jeeves.com",
+        "url": "https://remotejobs.org/companies/jeeves"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "Mexico",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": "year",
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": null,
+      "direct_apply": null,
+      "description": "<p><a>Jeeves</a> is the stablecoin-native banking platform for global enterprises. Thousands of companies across 35 countries run their corporate cards, payments, treasury and spend on one platform, with more than $5B in annualized volume, payouts to 190 countries, and one of the fastest-growing stablecoin payment networks in the world. BMW, H&#x26;M, Lululemon, Burger King, Kavak and XP are among them, and more than 80% of customers use multiple <a>Jeeves</a> products.</p><h3>We chose hard problems on purpose.</h3><p>We hire for one thing: relentlessness. A strong motor that keeps going when the problem has no playbook. You'll know in your first week if <a>Jeeves</a> is right for you. For the right people, it's the steepest learning curve of your career.</p><p><a>Jeeves</a> has raised more than $400 million in equity funding from Andreessen Horowitz, Y Combinator, CRV, Coinbase Ventures, GIC, AllianceBernstein, CoinFund and others.</p><p>If you want to rebuild how money moves across borders, come build it with us.</p><p>Our customers run finance across several countries at once. That means multiple entities, multiple currencies, local tax and e-invoicing rules, and increasingly stablecoin rails alongside traditional payments. The companies that get the most out of <a>Jeeves</a> are also the ones with the most complex setups, and getting them live quickly and correctly is one of the biggest levers we have for growth.</p><p>As a Forward Deployed Engineer, you'll sit where our product meets our most complex customers. You'll work hands-on with the finance and engineering teams at high-growth and enterprise companies across Latin America. You'll connect <a>Jeeves</a> to their ERPs and internal systems, design the flows they need (card programs, AP automation, and treasury movement across fiat and stablecoins), and own the technical path to go-live. What you learn in the field comes straight back to our Product and Engineering teams and shapes what we build next.</p><p>This is a hands-on engineering role. You'll write and ship production code, and you'll also be the person in the room with a customer's Controller or CFO. It isn't a pre-sales demo role, and it isn't a pure support role.</p><div><p><strong>Location</strong>: This role is remote or hybrid based out of <strong>Mexico City, Mexico</strong>, and is a full-time remote position where it is also possible to come into our office in Roma Norte on a flexible schedule. </p></div><h3>What You'll Do:</h3><ul><div>\n<h3>Customer Integrations</h3>\n<li><p>Build and ship integrations between <a>Jeeves</a> and customer ERPs and accounting systems (for example NetSuite, SAP, Oracle, TOTVS, and local accounting tools) using our APIs and webhooks</p></li>\n<li><p>Map customer data models (chart of accounts, cost centers, entities, vendors) to <a>Jeeves</a> and keep them in sync</p></li>\n<li><p>Debug integration issues across systems end to end, from API logs to the customer's month-end reconciliation</p></li>\n<li><p>Build reusable integration patterns and internal tools so each new customer goes live faster than the last</p></li>\n<h3>Payments, Treasury &#x26; Local Compliance</h3>\n<li><p>Scope and set up multi-entity, multi-currency configurations with the customer's finance team</p></li>\n<li><p>Design stablecoin payment and settlement flows alongside traditional rails (SPEI, PIX, ACH, SWIFT)</p></li>\n<li><p>Help customers handle country-specific requirements, such as CFDI in Mexico, NF-e in Brazil, and DIAN e-invoicing in Colombia, inside their <a>Jeeves</a> workflows</p></li>\n<li><p>Work with our Compliance and Risk teams so customer setups stay within regulatory guardrails</p></li>\n<h3>Technical Ownership of Strategic Accounts</h3>\n<li><p>Own the technical side of onboarding for strategic accounts, from the first scoping call through go-live and adoption</p></li>\n<li><p>Run technical workshops with customer engineering and finance teams, sometimes on-site</p></li>\n<li><p>Write clear implementation plans, set expectations on timelines, and flag risks early</p></li>\n<li><p>Be the trusted technical point of contact after go-live for escalations and expansion</p></li>\n<h3>Product Feedback &#x26; Sales Partnership</h3>\n<li><p>Turn repeated customer requests into clear, prioritized input for Product and Engineering</p></li>\n<li><p>Partner with Sales and Account Management on technical discovery, solution design, and proofs of concept for large deals</p></li>\n<li><p>Document what you learn in the field (integration guides, known edge cases, playbooks) so the whole team benefits</p></li>\n</div></ul><h3>Minimum Requirements:</h3><ul><div>\n<li><p>4+ years of professional experience in software engineering, solutions engineering, or technical implementation, including at least 2 years in customer-facing technical work</p></li>\n<li><p>Strong hands-on coding in at least one of Python, TypeScript/Node, or Go, with production experience building against REST APIs and webhooks</p></li>\n<li><p>Solid SQL and data-mapping skills, demonstrated by integrations or data pipelines you've built and supported</p></li>\n<li><p>A track record of owning a customer project through to go-live, including managing timelines and stakeholders on the customer side</p></li>\n<li><p>Professional fluency in English plus Spanish and/or Portuguese</p></li>\n<li><p>Able to travel to customer sites in Latin America as needed</p></li>\n</div></ul><h3>Preferred Qualifications:</h3><ul><div>\n<li><p>Experience in fintech or payments, especially card issuing, payment rails (SPEI, PIX, ACH, SWIFT), or cross-border money movement</p></li>\n<li><p>Experience integrating with at least one ERP, accounting, or financial system (for example NetSuite, SAP, Oracle, TOTVS, QuickBooks, or Xero)</p></li>\n<li><p>A working understanding of how finance teams operate: AP, reconciliation, month-end close, and multi-entity accounting</p></li>\n<li><p>Hands-on work with stablecoin, on/off-ramp, or digital asset infrastructure</p></li>\n<li><p>Experience with LatAm e-invoicing and tax systems (CFDI, NF-e, DIAN)</p></li>\n<li><p>A previous forward deployed, solutions architect, or implementation engineer role at a startup</p></li>\n<li><p>Experience building internal tooling that shortened implementation time</p></li>\n</div></ul><p>Originally posted on <a>Himalayas</a></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/forward-deployed-engineer-jeeves</p>",
+      "posted_at": "2026-10-12T05:09:54+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "d46a21dc-c13f-42fc-a7e8-377540dc718e",
+      "title": "Sr. Software Engineer (.NET core, Angular)",
+      "url": "https://remotejobs.org/remote-jobs/sr-software-engineer-net-core-angular-cority",
+      "apply_url": "https://remotejobs.org/remote-jobs/sr-software-engineer-net-core-angular-cority",
+      "company": {
+        "name": "Cority",
+        "logo_url": "https://jjseyvyygwyvnfbohzdx.supabase.co/storage/v1/object/public/company-logos/scraped/fdec990cc4d05d4e158b96d16baf1fd0cea29fd32458e11fc47b387ab73ed5eb.webp",
+        "website": "https://cority.com",
+        "url": "https://remotejobs.org/companies/cority"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "Canada, United States",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": "year",
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": null,
+      "direct_apply": null,
+      "description": "<p>About <a>Cority</a> <a>Cority</a> helps customers see and prevent risks across their operations in real time. Our EHS+ platform converges people, data, and AI agents to provide a clear view of information people can trust, automate workflows that make people more impactful, and deliver personalized insights and expertise to improve decision-making. While most solutions respond to risks one at a time, <a>Cority</a> helps prevent them across environmental management, employee health, safety, quality, and sustainability. For 40 years, <a>Cority</a> has been the market leader in EHS+, recognized by top analysts and trusted by more than 1,500 of the most complex organizations worldwide. <a>Cority</a> has received many awards for its strong employee culture and outstanding business performance. To learn more, visit www.cority.com.</p><p>The Role <a>Cority</a> is looking for a Senior Software Engineer to join one of our product engineering teams. This is a fully remote role open to candidates in the United States and Canada. Our engineering organization is a dynamic, fast-paced, and highly collaborative environment. We are looking for a passionate team player committed to the success of the collective group. The successful candidate will leverage strong technical skills to deliver immediate value while contributing to our long-term platform direction. The scope and ownership of this role will reflect your experience --we have meaningful work at a range of seniority, and we calibrate during the interview process. Reporting to a Development Manager, the Sr Software Engineer is responsible for designing, building, and enhancing <a>Cority</a>'s software platform across one or more product streams, working closely with Product Owners and fellow engineers to deliver high-quality solutions.</p><h3>What You Will Do:</h3><ul>\n<li>Serve as a reliable technical expert in one or more areas of the codebase, making well-reasoned design decisions with appropriate trade-offs</li>\n<li>Own features and projects from requirements through technical design to production delivery</li>\n<li>Scope work into milestones with reasonable estimates and communicate early when timelines are at risk</li>\n<li>Debug complex issues across system boundaries and design for observability --logging, metrics, and alerting</li>\n<li>Proactively identify and address issues in the codebase or process, not just the work assigned to you</li>\n<li>Contribute to technical direction within your team and advocate for quality from the user's perspective</li>\n<li>Perform thorough, constructive code reviews and mentor engineers earlier in their careers</li>\n<li>Document your work and decisions so others can build on them</li>\n<li>Support Product Owners with domain expertise and help translate requirements into technical designs</li>\n<li>Handle ambiguity -- make progress when requirements are incomplete or evolving</li>\n<li>Design and deliver work that spans multiple system components, unblocking teammates and identifying risks to the broader team's delivery</li>\n<li>Shape technical standards, drive improvements to code quality and tooling, and communicate complex technical concepts clearly to non-technical stakeholders</li>\n</ul><h3>What You Bring:</h3><h3>Core Qualifications</h3><ul>\n<li>University degree in Computer Science or a related field</li>\n<li>7+ years of professional software development experience, with increasing ownership of complex work over time</li>\n<li>Strong understanding of the full software development lifecycle</li>\n<li>Experience with Agile and Scrum methodologies</li>\n<li>Demonstrated ability to work effectively with remote, distributed teams</li>\n</ul><h3>Technical -- Must Have</h3><ul>\n<li>Experience using AI-assisted development tools such as GitHub Copilot, Claude Code, or Cursor</li>\n<li>Proficiency with .NET Core, .NET Framework, Entity Framework/ Dapper, Web APis, and Microservices</li>\n<li>Experience building database applications with relational databases such as PostgreSQL and SQL Server</li>\n<li>Experience with Node.js, Angular or React, HTMLS, CSS, Typescript, JavaScript, and Python</li>\n<li>Solid understanding of CI/CD practices and pipelines</li>\n</ul><h3>Technical -- Nice to Have</h3><ul>\n<li>Experience with LLMs, agentic frameworks, RAG, vector databases, or MCP servers</li>\n<li>Experience with NoSQL databases such as MongoDB</li>\n<li>Experience with AWS or Azure cloud platforms</li>\n<li>Experience designing or working within multi-tenant architectures</li>\n<li>Experience with message queues such as SQS, RabbitMQ, or Kafka</li>\n<li>Experience with Docker and containerized deployments</li>\n</ul><h3>Soft Skills</h3><ul>\n<li>Genuine passion for technology and an ability to stay current with a rapidly evolving landscape</li>\n<li>A self-starter who challenges the status quo, asks \"why\" and \"what if', and drives improvements without being asked</li>\n<li>Strong written and verbal communication skills -- you thrive on sharing and gaining knowledge</li>\n<li>Previous experience in occupational health, environment, safety, or sustainability is an asset</li>\n</ul><h3>WHAT’S IN IT FOR YOU?</h3><ul>\n<li>An opportunity to work in a values-driven, performance oriented, dynamic and growth focused culture</li>\n<li>We support a remote working environment with a one-time home office allowance and subsidized monthly internet allowance</li>\n<li>Competitive health benefits, dental plans, and retirement savings plan (RRSP, 401K plan etc.)</li>\n<li>Annual fitness allowance</li>\n<li>Mental health support provided through access to Calm Premium meditation app and access to Talkspace</li>\n<li>Access to learning tools &#x26; platforms, internal training programs, annual training allowance and certifications (if applicable), and High Talent Programs</li>\n</ul><p><a>Cority</a> is committed to a diverse and inclusive work environment. <a>Cority</a> is an equal opportunity employer and does not discriminate based on race, nationality, gender, gender identity, sexual orientation, protected veteran status, age, disability or any other legally protected status. For applicants who would like to request for accommodation please send an email to .</p><p>Originally posted on <a>Himalayas</a></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/sr-software-engineer-net-core-angular-cority</p>",
+      "posted_at": "2026-10-12T05:03:29+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "6ec432c9-4316-47bf-9c5a-9403dfa9bf4c",
+      "title": "C# Developer",
+      "url": "https://remotejobs.org/remote-jobs/c-developer-veeam-software",
+      "apply_url": "https://remotejobs.org/remote-jobs/c-developer-veeam-software",
+      "company": {
+        "name": "Veeam Software",
+        "logo_url": "https://jjseyvyygwyvnfbohzdx.supabase.co/storage/v1/object/public/company-logos/scraped/718ff5eded3ea846aa4bf738719351d3a62c08b505c277fc0f6eb775e6db1563.jpeg",
+        "website": "https://veeam.com",
+        "url": "https://remotejobs.org/companies/veeam-software"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "United States",
+      "salary_min": 122148,
+      "salary_max": 203580,
+      "salary_text": "USD 122,148–203,580/year",
+      "salary_source_text": "USD 122148 - 203580",
+      "salary_currency": "USD",
+      "salary_period": "year",
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": null,
+      "direct_apply": null,
+      "description": "<div><div><p>Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for the convergence of identity, data, security, and AI risk. Headquartered in Seattle with offices in more than 30 countries, Veeam protects over 550,000 customers worldwide, who trust Veeam to keep their businesses running. Join us as we go fearlessly forward together, growing, learning, and making a real impact for some of the world’s biggest brands.</p></div></div><h3>About the Role</h3><p>Now we are looking for a Middle/Senior C# Developer to join the team that works on Veeam Backup for Office 365.</p><h3>What You'll Do</h3><ul><li>Developing and supporting one of Veeam's core products:Veeam Backup for Microsoft 365</li></ul><ul><li>Communicating with other participants of the product development process </li></ul><ul><li>Participating in planning and creating the features for your products </li></ul><p><strong>Technologies You'll Work With</strong><strong> </strong><strong> </strong></p><ul><li>Latest C# (and a bit of C++, C++CLI), REST, PowerShell, WPF </li></ul><ul><li>Latest .NET frameworks</li></ul><ul><li>Visual Studio or Rider</li></ul><ul><li>Azure DevOps, Git, Jenkins </li></ul><ul><li>Azure, Office 365, Amazon </li></ul><ul><li>Exchange, SharePoint, SQL, Messaging and Events </li></ul><ul><li>Agentic coding tools</li></ul><h3>What You'll Bring</h3><ul><li>Good knowledge of C# language</li></ul><ul><li>3-5 years of relevant experience </li></ul><ul><li>Understanding of data structures and algorithms </li></ul><ul><li>Experience developing for a RDMS, e.g. Postgresql, SQL Server, MySQL, Oracle </li></ul><ul><li>Experience in the development for public clouds, e.g. Microsoft Azure, AWS, GCP </li></ul><ul><li>You should also have an open and flexible mind, common sense, clear logic, analytical skills, and the ability to work independently </li></ul><h3>Bonus Skills </h3><ul><li>Understanding of the Windows platform (.NET, Win API) </li></ul><ul><li>Experience debugging event-based systems </li></ul><ul><li>Advanced knowledge of Windows or Linux operating systems </li></ul><ul><li>Experience in the development for Microsoft Exchange, SharePoint, or Office 365 </li></ul><ul><li>Experience in a commercial development of products for the mass market </li></ul><p><strong>Please Note: </strong>If the applicant is permanently located outside of the United States Veeam reserves the right to decline the application for the position. Remote work is only possible for employees located in the United States.</p><div>\n<div>\n<div>\n<h3>What you'll get</h3>\n<ul>\n<li>Unlimited paid time off, 12 paid holidays including 4 global VeeaMe Days for self-care and 24 paid volunteer hours annually through Veeam Cares</li>\n<li>Paid parental leave: 8 weeks for all parents, 16 weeks for birthing parents</li>\n<li>Medical, dental, and vision coverage starting on your first day</li>\n<li>Mental health support, therapy sessions, and digital wellness tools via our Employee Assistance Program</li>\n<li>401(k) retirement plan with company matching contributions</li>\n<li>Fertility, adoption, and surrogacy support through Maven, plus paid volunteer time</li>\n<li>AirVet: 24/7 virtual veterinary care at no cost</li>\n<li>Legal services, identity protection, and supplemental health insurance options</li>\n<li>Tax-advantaged spending accounts for healthcare, dependent care, and commuting</li>\n<li>Opportunities to learn and grow through on-demand libraries (LinkedIn Learning, O’Reilly), mentoring, workshops, and learning events like our annual Global Day of Learning</li>\n</ul>\n<h3>Compensation Transparency</h3>\n<p>Veeam is committed to pay transparency and equitable compensation. For this role, the compensation range below reflects the expected total target compensation (TTC), inclusive of base pay and a competitive performance-based bonus. For roles with a commission plan, the compensation range represents On Target Earnings (OTE), which includes base salary plus variable commission. When determining compensation, Veeam takes into consideration factors such as experience, education, skills, and geographic zone. Offers are typically made below the midpoint of the range.</p>\n<p>In addition to compensation, Veeam provides a comprehensive benefits package, including health coverage, retirement plans, and unlimited time off.</p>\n<div><strong>U.S. Geographic Zones &#x26; Compensation Ranges (TTC / OTE)</strong></div>\n</div>\n<div>Zone 1: San Francisco Bay Area, New York City Boroughs</div>\n<div>$168,480—$280,800 USD</div>\n</div>\n<div>\n<div>Zone 2: Washington, California (excluding San Francisco Bay Area)</div>\n<div>$154,440—$257,400 USD</div>\n</div>\n<div>\n<div>Zone 3: Texas, Illinois, North Carolina, Colorado, Massachusetts, Pennsylvania, Virginia, Oregon, Nevada, Hawaii, New York (excluding NYC boroughs); Sales roles located in Georgia, Ohio, and Arizona</div>\n<div>$140,400—$234,000 USD</div>\n</div>\n<div>\n<div>Zone 4: All other US locations</div>\n<div>$122,148—$203,580 USD</div>\n</div>\n</div><div><div>\n<p><strong><a>Veeam Software</a> is an equal opportunity employer</strong> and does not tolerate discrimination in any form on the basis of race, color, religion, gender, age, national origin, citizenship, disability, veteran status or any other classification protected by federal, state or local law. All your information will be kept confidential.</p>\n<p>Personal data collected during the recruitment process will be processed in accordance with our Recruiting Privacy Notice, which explains how your information is collected, used, and handled in connection with hiring activities. By applying for this position, you consent to this processing. </p>\n<p>By submitting your application, you confirm that the information provided, including any supporting documents, is complete and accurate to the best of your knowledge. Any misrepresentation, omission, or falsification may result in disqualification from consideration or, if discovered after employment begins, termination of employment.</p>\n</div></div><p>Originally posted on <a>Himalayas</a></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/c-developer-veeam-software</p>",
+      "posted_at": "2026-10-12T05:02:44+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "b25acb06-293b-400e-b495-159414cf6d32",
+      "title": "CONSULTANT – OUAF / ORACLE CC&B / C2M DEVELOPER",
+      "url": "https://remotejobs.org/remote-jobs/consultant-ouaf-oracle-ccb-c2m-developer-vrinda-international",
+      "apply_url": "https://remotejobs.org/remote-jobs/consultant-ouaf-oracle-ccb-c2m-developer-vrinda-international",
+      "company": {
+        "name": "Vrinda International",
+        "logo_url": "https://jjseyvyygwyvnfbohzdx.supabase.co/storage/v1/object/public/company-logos/scraped/8310967c53c0484aac7ac1ae5ebfd06489ce593a92820060128807a683f5de9e.webp",
+        "website": "https://vrinda.io",
+        "url": "https://remotejobs.org/companies/vrinda-international"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "India",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": "INR",
+      "salary_period": "year",
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": null,
+      "direct_apply": null,
+      "description": "<div>\n<b>Job Title:</b> Consultant – OUAF / Oracle CC&#x26;B / C2M Developer<br>\n</div><div>\n<b>Summary</b><br>\n</div><div>We are seeking a seasoned professional to serve as a Consultant specializing in Oracle Utilities Customer Cloud (OUAF), Customer Care &#x26; Billing (CC&#x26;B), and the Customer-to-Meter (C2M) ecosystem. In this pivotal role, the successful candidate will lead technical architecture and implementation efforts, ensuring seamless integration of complex billing and payment solutions. The position demands a deep understanding of the full implementation lifecycle, from initial design to final deployment, while fostering strong relationships with key stakeholders to drive project success and align technical deliverables with business objectives.<br>\n</div><div>\n<b>Responsibilities</b><br>\n</div><div><ul>\n<li>Architect and design robust technical solutions utilizing the OUAF framework and 4GL scripting capabilities.<br>\n</li>\n<li>Manage end-to-end implementation projects for Oracle CC&#x26;B and C2M modules, ensuring adherence to best practices and project timelines.<br>\n</li>\n<li>Oversee the configuration and integration of critical financial processes, including payments, collections, and general ledger operations.<br>\n</li>\n<li>Develop and maintain complex data models using SQL to support accurate billing and reporting requirements.<br>\n</li>\n<li>Serve as the primary technical liaison, facilitating clear communication and collaboration between technical teams and business stakeholders.<br>\n</li>\n<li>Provide expert guidance on OUAF and ORMB technical architecture to optimize system performance and scalability.<br>\n</li>\n</ul></div><br><h3>Requirements</h3><div>\n<b>Requirements:</b><br>\n</div><div><ul>\n<li>Possess 3 to 4 years of hands-on experience within the IT Services sector, specifically focused on Oracle utilities solutions.<br>\n</li>\n<li>Demonstrate proven expertise in OUAF/ORMB technical architecture and the OUAF framework, including proficiency in 4GL scripting.<br>\n</li>\n<li>Show a strong track record in full-cycle CC&#x26;B and C2M implementations.<br>\n</li>\n<li>Exhibit deep knowledge of Payments &#x26; Collections workflows and General Ledger integrations.<br>\n</li>\n<li>Be highly proficient in SQL and possess a thorough understanding of the CC&#x26;B data model.<br>\n</li>\n<li>Display exceptional communication skills with a demonstrated ability to manage stakeholder expectations effectively.<br>\n</li>\n</ul></div><br><p>Originally posted on <a>Himalayas</a></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/consultant-ouaf-oracle-ccb-c2m-developer-vrinda-international</p>",
+      "posted_at": "2026-10-12T04:57:57+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "8e8d46b7-ebe7-4ddd-ad0f-e6d23315b0b4",
+      "title": "Senior Frontend Engineer I - eCommerce",
+      "url": "https://remotejobs.org/remote-jobs/senior-frontend-engineer-i-ecommerce-prenuvo",
+      "apply_url": "https://remotejobs.org/remote-jobs/senior-frontend-engineer-i-ecommerce-prenuvo",
+      "company": {
+        "name": "Prenuvo",
+        "logo_url": "https://jjseyvyygwyvnfbohzdx.supabase.co/storage/v1/object/public/company-logos/scraped/90ed614dd6c8135139c07f086cee2029624e5a5b5278c8ba74390d05465145bb.webp",
+        "website": "https://prenuvo.com",
+        "url": "https://remotejobs.org/companies/prenuvo"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "United States",
+      "salary_min": 145000,
+      "salary_max": 170000,
+      "salary_text": "USD 145,000–170,000/year",
+      "salary_source_text": "USD 145000 - 170000",
+      "salary_currency": "USD",
+      "salary_period": "year",
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": null,
+      "direct_apply": null,
+      "description": "<h3>About Us</h3><p>At <a>Prenuvo</a>, we are on a mission to flip the paradigm from reactive “sick-care” to proactive health care. Our award-winning whole body scan is fast (under 1 hour), safe (MRI has no ionizing radiation), and non-invasive (no contrast). Our unique integrated stack of optimized hardware, software, and increasingly AI, coupled with the patient-centric experience across our domestic and global clinics, have allowed us to lead the change against “we caught it too late again\".</p><p>We're looking for a Senior Frontend Engineer I to join our eCommerce team, building the online booking experience patients use to choose a scan, find a clinic, pay, and schedule their appointment. You'll lead complex features in a Next.js and TypeScript application that serves customers in multiple countries, on flows where every screen directly affects conversion, revenue, and patient trust: product selection, checkout and payments, appointment scheduling across timezones, and our sales-assisted and partner booking paths. This is a high-impact role for someone who cares about the craft of the UI and about whether it actually works in production for every customer. If you enjoy solving ambiguous problems and owning outcomes rather than tickets, we'd love to hear from you.</p><p><strong>This role does not provide visa sponsorship. Applicants must be legally authorized to work in the United States at the time of hire and must not require employer sponsorship for a work visa (current or future). </strong></p><p>Help reshape the world through proactive healthcare while working with cutting-edge technology and high performing teams with deep expertise - join us to make a difference in people’s lives!</p><h3>What You’ll Do</h3><ul>\n<li>Own features and components within an area of the booking experience, such as checkout and payments, scheduling, or the sales-assisted and partner flows, growing toward owning the area end to end.</li>\n<li>Work with Product and Marketing on growth: ship experiments on the booking funnel, then read the results honestly, including sample size, guardrail metrics, and whether a change is a real win or just noise.</li>\n<li>Build fast, accessible, customer-facing features with React, Next.js (App Router), and TypeScript.</li>\n<li>Contribute to frontend architecture and design, writing proposals you review with senior engineers: sensible server and client component boundaries, server state with TanStack Query, client state with Zustand, and type-safe forms with React Hook Form and Zod.</li>\n<li>Integrate the booking experience with our commerce APIs and third-party services, including Stripe, Affirm, commercetools, Voucherify, Salesforce, Auth0, and Google Maps.</li>\n<li>Instrument what you ship: Datadog RUM for errors and performance, PostHog for product analytics, feature flags, and experiments, and Google Tag Manager for marketing measurement, all respecting each customer's consent choices.</li>\n<li>Improve Core Web Vitals, bundle size, and rendering performance on a high-traffic, revenue-critical funnel.</li>\n<li>Make accessibility a default: semantic markup, keyboard and screen reader support, and automated accessibility checks in CI.</li>\n<li>Write automated tests at the right level: Vitest and Testing Library for components, MSW for API mocking, and Playwright for end-to-end booking flows.</li>\n<li>Own outcomes in production: ship behind feature flags, watch the dashboards after release, and follow through when something breaks. You are accountable for whether a feature works for customers, not just whether it merged.</li>\n<li>Partner closely with Product, Design, Marketing, and Backend engineers, contributing to our shared component library and agreeing the API contracts the frontend depends on.</li>\n<li>Provide technical guidance through design discussions and high-quality code review, and mentor junior engineers.</li>\n<li>Use AI-assisted development tools thoughtfully as part of a structured build, review, and test workflow.</li>\n</ul><h3>What You’ll Bring</h3><ul>\n<li>Typically 4+ years of professional frontend engineering experience, including at least 3 years building production applications with React and TypeScript.</li>\n<li>Strong experience with Next.js or a comparable React framework, including server-side rendering, routing, and the tradeoffs between server and client rendering.</li>\n<li>Deep understanding of browser fundamentals: semantic HTML, modern CSS and responsive layout, the event loop, network and caching behavior, and the rendering pipeline.</li>\n<li>Experience with modern data-fetching and state management patterns (TanStack Query, Zustand, Redux, or similar) and with complex, validated, multi-step forms.</li>\n<li>Strong testing practices across unit, component, and end-to-end layers, using tools such as Vitest or Jest, Testing Library, and Playwright or Cypress.</li>\n<li>Experience building checkout, payment, or other transactional flows where correctness and reliability matter.</li>\n<li>Working knowledge of web accessibility (WCAG 2.1 AA) and web performance (Core Web Vitals).</li>\n<li>Experience with frontend observability and product analytics tools such as Datadog RUM, Sentry, PostHog, or Google Analytics.</li>\n<li>Hands-on experience with modern CI/CD practices and cloud hosting (for example GitHub Actions and AWS).</li>\n<li>A track record of leading complex features from design through production.</li>\n<li>A startup mindset: comfortable taking on ambiguous work, knowing when to pull in a second opinion on an approach, and able to balance speed with quality.</li>\n<li>Excellent communication skills and the ability to collaborate across engineering, design, and business teams.</li>\n</ul><h3>Nice to Have</h3><ul>\n<li>Experience with Stripe.js and payment method integrations, including buy now, pay later providers such as Affirm.</li>\n<li>Experience with headless commerce platforms such as commercetools, or promotion engines such as Voucherify.</li>\n<li>Experience with Tailwind CSS and building on top of a design system or component library.</li>\n<li>Experience with consent management platforms (such as OneTrust), Google Tag Manager, and privacy-aware analytics.</li>\n<li>Experience with multi-region products: multiple currencies and locales, and correct date, time, and timezone handling.</li>\n<li>Growth engineering experience: working on a team that owns acquisition, activation, or conversion metrics, and shipping many small experiments quickly.</li>\n<li>Experience with funnel analytics and marketing attribution: event tracking plans, UTM and referral attribution, and conversion tracking into ad platforms such as Google Ads and Meta.</li>\n<li>Experience building growth surfaces such as landing pages, email capture, referral programs, promo codes, and abandoned-cart recovery.</li>\n<li>Experience with authentication and identity providers such as Auth0.</li>\n<li>Experience with scheduling, booking, or consumer healthcare applications, or working in highly regulated industries.</li>\n</ul><h3>Our Values</h3><p>First: we are <strong>Pioneers</strong></p><ul><li>Transforming healthcare requires divergent thinking, bias for action, disciplined experimentation, and consistent grit and determination to maintain momentum. This journey is as challenging as it is rewarding.</li></ul><p>Second: we are <strong>Platform-Builders</strong></p><ul><li>We’re always building foundations that allow us to achieve tomorrow more than we did today. We never lose sight of what’s ahead – in a mindset of ownership and duty to our mission.</li></ul><p>Above all: we are <strong>Patients</strong></p><ul><li>We could all be the next person who walks through our very doors, seeking clarity or peace of mind. We are proud of our impact on our patients’ lives, and we won’t stop till everyone can benefit from our work.</li></ul><h3>What We Offer</h3><ul>\n<li>An avenue to make a positive impact on people's lives and their health</li>\n<li>We believe in preventative healthcare for everyone, including our team - <a>Prenuvo</a> provides free, whole-body scans to each team member </li>\n<li>Growth opportunities are at the heart of our people journey, we’re doing big things with bright minds - there is no single path to success, it can be shaped along the way</li>\n<li>Building strong relationships is at the core of everything we do - our team gets together each week to connect, share, and socialize </li>\n<li>Recognizing time away to restore is vital to our wellbeing - we have a flexible vacation policy and we will encourage you to use it</li>\n<li>We now offer the <a>Prenuvo</a>’s Commuter Benefits Plan to help cover your transit and parking costs. Whether you ride, drive, or park, we’ve got you covered—making your commute easier and more affordable! </li>\n<li>\n<a>Prenuvo</a> offers a 401(k) retirement savings plan to eligible employees, allowing team members to make pre-tax contributions toward their retirement. While <a>Prenuvo</a> facilitates access to the plan, the company does not currently offer matching contributions.</li>\n<li>We offer a comprehensive benefits package including health, dental, vision, including Mental Health coverage, to support you and your family</li>\n<li><strong>The base salary for this role is $145,000 to $170,000 in local currency, depending on experience and geographic location</strong></li>\n</ul><p><em>We are an equal-opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</em></p><p><em>As part of the hiring process, successful candidates will undergo a background check in compliance to applicable federal, provincial, and state rules.</em></p><p><strong>Please be advised that official communication from our recruitment team will only come from our authorized domain [</strong><strong>]. If you are contacted by a recruiter, please ensure their email address ends with @prenuvo.com. We do not use third-party recruitment services or any other email domains for hiring purposes. If you receive communication that you believe to be fraudulent, please report it immediately to .</strong></p><p>Originally posted on <a>Himalayas</a></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-frontend-engineer-i-ecommerce-prenuvo</p>",
+      "posted_at": "2026-10-12T04:54:24+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
     {
       "id": "181523be-84f7-40f7-8de9-82f8d83e42ad",
       "title": "Senior Fullstack Developer (React/Node.js/Java Spring Boot) - Full Remote Portug",
@@ -10,7 +208,7 @@
       "company": {
         "name": "HumanIT Digital Consulting",
         "logo_url": "https://jjseyvyygwyvnfbohzdx.supabase.co/storage/v1/object/public/company-logos/scraped/1d6a374c01da8b890de9fc8bbca0cbbb8781feb2032177b9e713be408820f172.webp",
-        "website": null,
+        "website": "https://humanit.com",
         "url": "https://remotejobs.org/companies/humanit-digital-consulting"
       },
       "category": {
@@ -43,7 +241,7 @@
       "company": {
         "name": "EnCharge AI",
         "logo_url": "https://jjseyvyygwyvnfbohzdx.supabase.co/storage/v1/object/public/company-logos/scraped/720fe289ad0e10da99eb054f0547cfc06ac4b93cd4b8f1692983a3d7db0ffc81.webp",
-        "website": null,
+        "website": "https://enchargeai.com",
         "url": "https://remotejobs.org/companies/encharge-ai"
       },
       "category": {
@@ -76,7 +274,7 @@
       "company": {
         "name": "Farnsworth Group, Inc.",
         "logo_url": "https://jjseyvyygwyvnfbohzdx.supabase.co/storage/v1/object/public/company-logos/scraped/7b81bd212eec6dee529ac9ee3498f5c336b66bf7cadbbdb7da8f380bce4c6a12.webp",
-        "website": null,
+        "website": "https://farnsworth.io",
         "url": "https://remotejobs.org/companies/farnsworth-group-inc"
       },
       "category": {
@@ -109,7 +307,7 @@
       "company": {
         "name": "ATEXIS",
         "logo_url": "https://jjseyvyygwyvnfbohzdx.supabase.co/storage/v1/object/public/company-logos/scraped/0243ef6428ad6ab444ccc77b0bb83bdf86197c4d5b2acb7de654076cfa6541cb.webp",
-        "website": null,
+        "website": "https://atexis.org",
         "url": "https://remotejobs.org/companies/atexis"
       },
       "category": {
@@ -208,7 +406,7 @@
       "company": {
         "name": "EnCharge AI",
         "logo_url": "https://jjseyvyygwyvnfbohzdx.supabase.co/storage/v1/object/public/company-logos/scraped/720fe289ad0e10da99eb054f0547cfc06ac4b93cd4b8f1692983a3d7db0ffc81.webp",
-        "website": null,
+        "website": "https://enchargeai.com",
         "url": "https://remotejobs.org/companies/encharge-ai"
       },
       "category": {
@@ -797,39 +995,6 @@
       "original_language": null
     },
     {
-      "id": "f215aaca-5016-448a-8251-9959cacccbce",
-      "title": "Senior Software Developer PHP",
-      "url": "https://remotejobs.org/remote-jobs/senior-software-developer-php-markup-camp",
-      "apply_url": "https://remotejobs.org/remote-jobs/senior-software-developer-php-markup-camp",
-      "company": {
-        "name": "Markup camp",
-        "logo_url": null,
-        "website": "https://markupcamp.com",
-        "url": "https://remotejobs.org/companies/markup-camp"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "Remote",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": null,
-      "salary_period": null,
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<h1>Senior Software Developer PHP</h1>\n<p><strong>Location:</strong> Sofia, Bulgaria<br>\n<strong>Employment Type:</strong> Full-time</p>\n<h2>Company Description</h2>\n<p>We help leaders in Tech drive revenue and improve results through high-end digital products that increase customer engagement and retention. Our agile and results-driven team develops technology solutions from concept to operation to meet all your business strategy and company development objectives.</p>\n<h2>Job Description</h2>\n<p>The ideal candidate is a self-motivated, multi-tasker, and demonstrated team-player. You will be a lead developer responsible for the development of new software products and enhancements to existing products. You should excel in working with large-scale applications and frameworks and have outstanding communication and leadership skills.</p>\n<h3>Responsibilities</h3>\n<ul>\n<li>Writing clean, high-quality, high-performance, maintainable code</li>\n<li>Develop and support software including applications, database integration, interfaces, and new functionality enhancements</li>\n<li>Coordinate cross-functionally to insure project meets business objectives and compliance standards</li>\n<li>Support test and deployment of new products and features</li>\n<li>Participate in code reviews</li>\n<li>Participate in Scrum ceremonies</li>\n</ul>\n<h2>Qualifications</h2>\n<ul>\n<li>Bachelor's degree in Computer Science (or related field)</li>\n<li>5+ years of relevant work experience</li>\n<li>Expertise in Object Oriented Design, Database Design, and XML Schema</li>\n<li>Expertise in PHP, Laravel, Symfony, or Zend</li>\n<li>Expertise in MySQL, MariaDB, PostgreSQL, Docker, AWS or other cloud platforms</li>\n<li>Experience with Agile or Scrum software development methodologies</li>\n<li>Ability to multi-task, organise, and prioritise work</li>\n</ul>\n<h2>Additional Information</h2>\n<ul>\n<li>Premium healthcare insurance</li>\n<li>Unlimited time off</li>\n<li>Stock options</li>\n</ul><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-software-developer-php-markup-camp</p>",
-      "posted_at": "2026-09-14T06:01:20.397+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
       "id": "1dc63268-0a0a-4d04-9c13-b0361aafdf20",
       "title": "Senior Mobile Developer iOS",
       "url": "https://remotejobs.org/remote-jobs/senior-mobile-developer-ios-markup-camp",
@@ -891,6 +1056,39 @@
       "employer_job_id": null,
       "direct_apply": null,
       "description": "<h1>Senior Mobile Developer Android</h1>\n<h2>Company Description</h2>\n<p>We help leaders in Tech drive revenue and improve results through high-end digital products that increase customer engagement and retention. Our agile and results-driven team develops technology solutions from concept to operation to meet all your business strategy and company development objectives.</p>\n<h2>Job Description</h2>\n<p>The ideal candidate is a self-motivated, multi-tasker, and demonstrated team-player. You will be a lead developer responsible for the development of new software products and enhancements to existing products. You should excel in working with large-scale applications and frameworks and have outstanding communication and leadership skills.</p>\n<h3>Responsibilities</h3>\n<ul>\n<li>Writing clean, high-quality, high-performance, maintainable code</li>\n<li>Develop and support software including applications, database integration, interfaces, and new functionality enhancements</li>\n<li>Coordinate cross-functionally to insure project meets business objectives and compliance standards</li>\n<li>Support test and deployment of new products and features</li>\n<li>Participate in code reviews</li>\n<li>Participate in Scrum ceremonies</li>\n</ul>\n<h2>Qualifications</h2>\n<ul>\n<li>Bachelor's degree in Computer Science (or related field)</li>\n<li>5+ years of relevant work experience</li>\n<li>Expertise in Object Oriented Design, Database Design, and XML Schema</li>\n<li>Expertise with mobile Android technologies, architectures, frameworks and patterns</li>\n<li>Expertise with large and complex database models</li>\n<li>Prior experience with large and UX-centric projects, ideally with native applications</li>\n<li>Experience with Agile or Scrum software development methodologies</li>\n<li>Ability to multi-task, organise, and prioritise work</li>\n<li>Creative problem solving person</li>\n<li>Good level of English language proficiency</li>\n<li>High sense of responsibility, self-discipline and eagerness to learn and improve</li>\n</ul>\n<h2>Additional Information</h2>\n<ul>\n<li>Premium healthcare insurance</li>\n<li>Unlimited time off</li>\n<li>Stock options</li>\n</ul>\n<p><strong>Location:</strong> Sofia, Bulgaria<br>\n<strong>Employment Type:</strong> Full-time</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-mobile-developer-android-markup-camp</p>",
+      "posted_at": "2026-09-14T06:01:20.397+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "f215aaca-5016-448a-8251-9959cacccbce",
+      "title": "Senior Software Developer PHP",
+      "url": "https://remotejobs.org/remote-jobs/senior-software-developer-php-markup-camp",
+      "apply_url": "https://remotejobs.org/remote-jobs/senior-software-developer-php-markup-camp",
+      "company": {
+        "name": "Markup camp",
+        "logo_url": null,
+        "website": "https://markupcamp.com",
+        "url": "https://remotejobs.org/companies/markup-camp"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "Remote",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": null,
+      "direct_apply": null,
+      "description": "<h1>Senior Software Developer PHP</h1>\n<p><strong>Location:</strong> Sofia, Bulgaria<br>\n<strong>Employment Type:</strong> Full-time</p>\n<h2>Company Description</h2>\n<p>We help leaders in Tech drive revenue and improve results through high-end digital products that increase customer engagement and retention. Our agile and results-driven team develops technology solutions from concept to operation to meet all your business strategy and company development objectives.</p>\n<h2>Job Description</h2>\n<p>The ideal candidate is a self-motivated, multi-tasker, and demonstrated team-player. You will be a lead developer responsible for the development of new software products and enhancements to existing products. You should excel in working with large-scale applications and frameworks and have outstanding communication and leadership skills.</p>\n<h3>Responsibilities</h3>\n<ul>\n<li>Writing clean, high-quality, high-performance, maintainable code</li>\n<li>Develop and support software including applications, database integration, interfaces, and new functionality enhancements</li>\n<li>Coordinate cross-functionally to insure project meets business objectives and compliance standards</li>\n<li>Support test and deployment of new products and features</li>\n<li>Participate in code reviews</li>\n<li>Participate in Scrum ceremonies</li>\n</ul>\n<h2>Qualifications</h2>\n<ul>\n<li>Bachelor's degree in Computer Science (or related field)</li>\n<li>5+ years of relevant work experience</li>\n<li>Expertise in Object Oriented Design, Database Design, and XML Schema</li>\n<li>Expertise in PHP, Laravel, Symfony, or Zend</li>\n<li>Expertise in MySQL, MariaDB, PostgreSQL, Docker, AWS or other cloud platforms</li>\n<li>Experience with Agile or Scrum software development methodologies</li>\n<li>Ability to multi-task, organise, and prioritise work</li>\n</ul>\n<h2>Additional Information</h2>\n<ul>\n<li>Premium healthcare insurance</li>\n<li>Unlimited time off</li>\n<li>Stock options</li>\n</ul><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-software-developer-php-markup-camp</p>",
       "posted_at": "2026-09-14T06:01:20.397+00:00",
       "is_translated": false,
       "original_language": null
@@ -1028,6 +1226,105 @@
       "original_language": null
     },
     {
+      "id": "6e8baf81-093a-454d-a88d-d52fe03ef7c0",
+      "title": "Azure Cloud Engineer",
+      "url": "https://remotejobs.org/remote-jobs/azure-cloud-engineer-hawodtech-solutions-inc",
+      "apply_url": "https://remotejobs.org/remote-jobs/azure-cloud-engineer-hawodtech-solutions-inc",
+      "company": {
+        "name": "HawodTech Solutions Inc.",
+        "logo_url": "https://jjseyvyygwyvnfbohzdx.supabase.co/storage/v1/object/public/company-logos/scraped/24a3b275a12af95ce8d24a0e70bea982889c3c70b7953788928fd3eab56d40fd.webp",
+        "website": null,
+        "url": "https://remotejobs.org/companies/hawodtech-solutions-inc"
+      },
+      "category": {
+        "name": "DevOps",
+        "slug": "devops"
+      },
+      "location": "Philippines",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": "year",
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": null,
+      "direct_apply": null,
+      "description": "<h3>Job Description:</h3><ul>\n<li>Will be responsible for assessing our IT infrastructure to help plan and deploy our ongoing cloud migration. </li>\n<li>Will also oversee the migration process, design, maintain and monitor the new system, and configure hybrid connectivity between on-site systems and the cloud environment.  </li>\n<li>Should have a blend of technical skills and leadership ability, with the communication and teamwork skills to collaborate with other members of the IT team.</li>\n</ul><h3>Typical Duties and Responsibilities:</h3><ul>\n<li>                     Manage and administer the Microsoft Azure cloud environment, including provisioning, configuration, performance monitoring, policy governance and security</li>\n<li>                     Design, develop, and implement highly available, multi-region solutions within Microsoft Azure</li>\n<li>                     Analyze existing operational standards, processes, and/or governance to identify and implement improvements</li>\n<li>                     Migrate existing infrastructure services to cloud-based solutions</li>\n<li>                     Manage security and access controls of cloud-based solutions</li>\n<li>                     Develop infrastructure as code (IaC) leveraging cloud-native tooling to ensure automated and consistent platform deployments</li>\n<li>                     Develop and implement policy-driven data protection best practices to ensure cloud solutions are protected from data loss</li>\n<li>                     Support cloud adoption of applications as they are being transformed and/or modernized</li>\n<li>                     Ensure all infrastructure components meet proper performance and capacity standards</li>\n<li>                     Participate in a 24/7 on-call rotation to address and resolve technical escalations</li>\n</ul><h3>Requirements:</h3><ul>\n<li>                     Bachelor's degree in computer science, information systems, or a related field</li>\n<li>                     2+ years of Microsoft Azure experience involving design, deployment, configuration, and optimization</li>\n<li>                     2+ years of experience with IaaS and PaaS solutions</li>\n<li>                     Experience in the design and operation of medium to large scale enterprise infrastructure, databases, and application systems </li>\n<li>                     Experience working within an Agile framework</li>\n<li>                     Experience in IaC development with Terraform, Azure CLI, Puppet, and Ansible</li>\n<li>                     Experience scripting with Perl, Python and PowerShell</li>\n<li>                     Proficient with GIT to perform source code management</li>\n<li>                     Experience with Terraform Cloud and Azure DevOps</li>\n<li>                     Experience with Jira and ServiceNow</li>\n<li>                     Competence in a wide range of IT skills including networking, systems administration, data protection, information security and CI/CD tooling</li>\n<li>                     Enthusiastic learner with the ability to teach and mentor teammates and cross functional partners</li>\n<li>                     Excellent communication skills, both written and verbal, with a keen attention to detail</li>\n</ul><h3>Preferred years of experience:</h3><ul><li>                     5+ years IT experience</li></ul><p>Originally posted on <a>Himalayas</a></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/azure-cloud-engineer-hawodtech-solutions-inc</p>",
+      "posted_at": "2026-10-12T05:04:21+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "b93a1904-555c-4a2e-a68b-42d42dcb980d",
+      "title": "Platform Engineering Manager",
+      "url": "https://remotejobs.org/remote-jobs/platform-engineering-manager-wcg-services",
+      "apply_url": "https://remotejobs.org/remote-jobs/platform-engineering-manager-wcg-services",
+      "company": {
+        "name": "WCG Services",
+        "logo_url": "https://jjseyvyygwyvnfbohzdx.supabase.co/storage/v1/object/public/company-logos/scraped/76d3d96892a008740aa56fcec7dddf31934b855c20c0029e0fd9b7b2254528ad.png",
+        "website": "https://wcgservices.com",
+        "url": "https://remotejobs.org/companies/wcg-services"
+      },
+      "category": {
+        "name": "DevOps",
+        "slug": "devops"
+      },
+      "location": "Canada",
+      "salary_min": 120000,
+      "salary_max": 130000,
+      "salary_text": "CAD 120,000–130,000/year",
+      "salary_source_text": "CAD 120000 - 130000",
+      "salary_currency": "CAD",
+      "salary_period": "year",
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": null,
+      "direct_apply": null,
+      "description": "<p><em><strong>Location: Remote - Canada </strong></em></p><p><em><strong>About this role</strong></em></p><p><strong>Like WCG, you believe in the power of work.</strong> In this role, the Platform Engineering Manager leads the design and operation of WCG’s cloud platform as a product, enabling secure, scalable, and efficient delivery of digital services. You will drive the shift to a modern platform engineering model focused on automation, self-service capabilities, and developer experience, with primary ownership of Azure-based cloud infrastructure (with AWS exposure), IaC, DevOps/DevSecOps, identity and access management, and system integrations, ensuring integrations are scalable and reusable. Partnering closely with Security, Architecture, and Development teams, you will embed security by design, drive the adoption of AI-enabled platform capabilities to enhance engineering productivity, operational insights, and accelerate innovation across the organization.</p><p><em><strong>What you'll do</strong></em></p><ul>\n<li>Define, build, and operate the internal platform as a product, with clear users (developers, IT teams) and measurable outcomes</li>\n<li>Develop and execute a platform roadmap, service catalog, and self-service capabilities (e.g., environment provisioning, templates, pipelines) including reusable components and standardized patterns</li>\n<li>Continuously improve developer experience (DevEx) by reducing friction and increasing autonomy</li>\n<li>Architect and manage cloud environments in Azure and AWS, including high availability, disaster recovery, and resilience strategies</li>\n<li>Lead adoption of Infrastructure as Code (IaC) (Terraform, Bicep, ARM)</li>\n<li>Define scalable, secure, and cost-effective infrastructure patterns</li>\n<li>Partner closely with Security teams to embed security into CI/CD pipelines and platform services</li>\n<li>Implement automated security controls (SAST, DAST, dependency scanning, secrets management) and ensure compliance with regulatory and organizational requirements</li>\n<li>Enforce policy-as-code, least privilege access, zero-trust principles, and oversee identity and access management (including lifecycle, federation, and RBAC)</li>\n<li>Leverage AI/ML for operational insights, anomaly detection, cost optimization, incident response, and engineering productivity</li>\n<li>Establish and govern scalable, secure, and reusable integration patterns across systems (APIs, messaging, event-driven architecture)</li>\n<li>Drive maturity of CI/CD pipelines and release automation</li>\n<li>Enable fully automated provisioning and deployment workflows and reduce manual effort through automation</li>\n<li>Implement observability practices (monitoring, logging, tracing, alerting) and support reliability targets (SLOs/SLAs, incident response, continuous improvement</li>\n<li>Contribute to platform governance, standards, and alignment across security, architecture, and development teams</li>\n</ul><p><em><strong>What you bring</strong></em></p><h3>Capabilities and experience:</h3><ul>\n<li>Platform product mindset (treating internal platforms as products)</li>\n<li>Deep cloud and infrastructure expertise</li>\n<li>DevSecOps and security-first thinking</li>\n<li>Integration and API architecture knowledge</li>\n<li>AI/automation awareness and practical application</li>\n<li>Leadership and team development</li>\n<li>Systems thinking and scalability focus</li>\n<li>Strong communication and stakeholder engagement</li>\n</ul><h3>Essential Requirements:</h3><ul>\n<li>Bachelor’s degree or higher in Computer Science, Engineering, or related field</li>\n<li>Seven (7) + years in cloud infrastructure, DevOps, or platform engineering</li>\n<li>Three (3) + years in leadership roles</li>\n<li>Strong experience with Microsoft Azure; working knowledge of AWS</li>\n<li>Hands-on experience with Infrastructure as Code (Terraform, Bicep, ARM)</li>\n<li>Experience implementing DevSecOps practices and secure pipelines</li>\n<li>Experience designing and managing integrations and APIs</li>\n<li>Familiarity with AI tools and their application in engineering workflows</li>\n<li>Experience with observability, monitoring, reliability engineering, and incident management practices</li>\n<li>Strong understanding of identity and access management, including lifecycle and access control models</li>\n<li>Experience working in Agile/DevOps environments</li>\n</ul><h3>Preferred Criteria:</h3><ul>\n<li>Azure Solutions Architect Expert / DevOps Engineer Expert</li>\n<li>AWS Certifications</li>\n<li>Certified Kubernetes Administrator (CKA) or similar</li>\n<li>Experience implementing platform engineering / internal developer platforms</li>\n<li>Experience with AI/ML platforms or MLOps concepts</li>\n<li>Experience with FinOps practices and cloud cost governance</li>\n<li>Experience in regulated or security-sensitive environments</li>\n</ul><h3><em>What we offer</em></h3><ul>\n<li>Competitive salary of $120,000 - $130,000 per year</li>\n<li>Comprehensive and flexible health and dental benefits</li>\n<li>RRSP Matching program of 1.5% base earnings</li>\n<li>Ongoing learning and development opportunities</li>\n<li>Generous time-off policies that promote work/life balance</li>\n<li>A diverse and inclusive workplace with a track record of high employee engagement and teamwork</li>\n<li>The opportunity to do work that makes a difference!</li>\n</ul><p><em>WCG is strengthened by diversity. We are committed to achieving a workplace that is equitable and representative of Canada’s diverse population. We actively work to attract, develop, and retain employees from diverse and equity-deserving backgrounds who have exceptional ability and the desire to make a difference. We continuously strive to support individual needs and differences in a work environment that is built on inclusivity and respect for everyone.</em></p><h3>Diversity, Equity, Inclusion and Belonging Matter</h3><p>WCG is strengthened by diversity. We are committed to achieving a workplace that is equitable and representative of Canada’s diverse population. We actively work to attract, develop, and retain employees from diverse and equity-deserving backgrounds who have exceptional ability and the desire to make a difference. We continuously strive to support individual needs and differences in a work environment that is built on inclusivity and respect for everyone.</p><p>WCG is committed to providing an accessible, barrier free recruitment and selection process. If contacted for an employment opportunity, please advise us if you require accommodation in advance of any part of the recruitment and selection process.</p><h3>Passion and Lived Experience Matter!</h3><p>If you don’t quite have the above credentials but feel passionate about this role and your ability to do it successfully, please <strong>APPLY ANYWAY!</strong> Tell us in your application why you believe you would be a great fit. We believe in developing talent and have a wide range of opportunities to support passionate team members as they grow towards their employment goals.</p><p><strong>We believe in the power of work. </strong>Since 1994, we’ve been partnering with governments and local agencies across Canada to create sustainable employment opportunities for people, businesses and communities. We understand that work gives hope, strengthens relationships and drives economic growth.</p><p>Originally posted on <a>Himalayas</a></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/platform-engineering-manager-wcg-services</p>",
+      "posted_at": "2026-10-12T04:56:54+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "ca5c06cc-1d47-417f-b7a5-3e651c95746f",
+      "title": "DevOps Engineer",
+      "url": "https://remotejobs.org/remote-jobs/devops-engineer-hawodtech-solutions-inc",
+      "apply_url": "https://remotejobs.org/remote-jobs/devops-engineer-hawodtech-solutions-inc",
+      "company": {
+        "name": "HawodTech Solutions Inc.",
+        "logo_url": "https://jjseyvyygwyvnfbohzdx.supabase.co/storage/v1/object/public/company-logos/scraped/24a3b275a12af95ce8d24a0e70bea982889c3c70b7953788928fd3eab56d40fd.webp",
+        "website": null,
+        "url": "https://remotejobs.org/companies/hawodtech-solutions-inc"
+      },
+      "category": {
+        "name": "DevOps",
+        "slug": "devops"
+      },
+      "location": "Philippines",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": "year",
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": null,
+      "direct_apply": null,
+      "description": "<p>We need an experienced DevOps Engineer to help maintain and modernize our legacy and lean software architectures. The primary focus will be deploying and managing products and APIs to specification in the AWS public cloud. At least one high-level programming language is required, such as Perl, Ruby, or Python. Knowledge of virtualization and containerization technologies like Docker is a must. Experience building and growing monitoring and datastore infrastructures with technology such as Logstash, Splunk, Datadog, or CloudWatch are strongly preferred. This role will involve building and growing platforms with support from a group of DevOps/Systems, Software, and Database Engineers.</p><h3>What We Can Offer</h3><ul>\n<li>Negotiable and Competitive pay ++</li>\n<li>20 Paid Time Off with 5 convertible to cash at the end of the year</li>\n<li>HMO with 1 free dependent</li>\n<li>Group Life and Accident Insurance</li>\n<li>Other exciting monetary allowances</li>\n<li>Great team, culture, and environment and tons of opportunity for career growth</li>\n</ul><h3>What You'll Do</h3><ul>\n<li>Manage, maintain, and monitor containerized applications.</li>\n<li>Deploy new applications and application environments, enhancements to existing applications, software packages, operating systems, and security patches</li>\n<li>Collaborate with other engineering staff in multiple time zones to ensure smooth and reliable operation of software and systems</li>\n<li>Identify architectural changes to improve system performance, capability, and scalability of a wide variety of systems and environments</li>\n<li>Respond to outages in a timely manner, restoring services or finding the proper resources to assist</li>\n<li>Refine system/service monitoring prior to and in response to outages</li>\n<li>Write tooling to bridge engineering efforts with company-wide tools</li>\n<li>Monitor and test system performance; prepare and deliver system performance statistics and reports</li>\n<li>Create and maintain kernels and OS packages</li>\n<li>Provide general assistance for Tech Support and Data Center Operations staff</li>\n<li>Assist in the development and implementation of disaster recovery plans</li>\n<li>Perform general documentation and diagramming</li>\n<li>Train others on the systems and technologies you develop or help develop.</li>\n<li>Conduct research on emerging technologies in support of systems development efforts, and recommend technologies that will increase cost-effectiveness and systems flexibility</li>\n<li>Create &#x26; maintain documentation as needed</li>\n<li>Perform code review</li>\n<li>Participate in an on-call schedule responsible for the functions listed above</li>\n</ul><h3>What You Need to Qualify</h3><ul>\n<li>Exceptional analytical, conceptual, and problem-solving abilities</li>\n<li>Strong interpersonal and consultative skills</li>\n<li>Ability to conduct research into emerging technologies and trends, standards, and products as required</li>\n<li>Able to prioritize and execute tasks in a high-pressure environment</li>\n<li>Experience working in a team-oriented, collaborative environment</li>\n<li>Ability to define problems, collect data, establish facts, and draw valid conclusions</li>\n<li>Experience with automation tooling such as Chef, Ansible, Puppet, Salt, Terraform, etc.</li>\n<li>Experience with git or other version control systems</li>\n<li>Systems operations experience in a large-scale Linux environment.</li>\n<li>Proven experience with systems planning, security principles, and general software management best practices</li>\n<li>Experience working with virtualization or containerization platforms such as OpenStack, Docker, LXD, or others</li>\n<li>Working technical knowledge of current software protocols and Internet standards, including TCP/IP, HTTP, DNS, SMTP, and others.</li>\n<li>Software troubleshooting experience</li>\n<li>Working technical knowledge of Perl, Python, Bash, or other high-level programming languages</li>\n<li>Competence with testing, flowchart, and data mapping tools and procedures</li>\n<li>Must be able to communicate in English fluently</li>\n</ul><p>Originally posted on <a>Himalayas</a></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/devops-engineer-hawodtech-solutions-inc</p>",
+      "posted_at": "2026-10-12T04:54:13+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
       "id": "f0948f20-1c40-4594-b73e-721f78519823",
       "title": "Telemetry Engineer",
       "url": "https://remotejobs.org/remote-jobs/telemetry-engineer-bright-vision-technologies",
@@ -1157,6 +1454,171 @@
       "direct_apply": null,
       "description": "<p>Req ID:382655</p>\n<p>NTT DATA strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now.</p>\n<p>We are currently seeking a Digital Solution Consultant Sr. Analyst to join our team in Remote, Delhi (IN-DL), India (IN).</p>\n<p>Senior ServiceNow Technical Consultant</p>\n<p>Location:</p>\n<p>Remote / On-site (as required)</p>\n<p>Job Type:</p>\n<p>Full-Time</p>\n<p>About the Role:</p>\n<p>We are seeking a highly certified and experienced Senior ServiceNow Technical Consultant to lead and deliver complex ServiceNow implementations and solutions. This role demands deep technical expertise, strategic thinking, and a passion for driving digital transformation through the ServiceNow platform.</p>\n<p>Key Responsibilities:</p>\n<ul>\n<li>\n<p>Lead the design, development, and deployment of ServiceNow solutions across ITSM, ITOM, HRSD, CSM, and other modules.</p>\n</li>\n<li>\n<p>Collaborate with stakeholders to gather requirements, define scope, and architect scalable ServiceNow solutions.</p>\n</li>\n<li>\n<p>Provide technical leadership and mentorship to junior consultants and developers.</p>\n</li>\n<li>\n<p>Customize and configure ServiceNow applications using best practices and maintain platform integrity.</p>\n</li>\n<li>\n<p>Integrate ServiceNow with external systems using REST/SOAP APIs, MID Servers, and other integration tools.</p>\n</li>\n<li>\n<p>Conduct code reviews, performance tuning, and ensure adherence to security and compliance standards.</p>\n</li>\n<li>\n<p>Stay current with ServiceNow releases and proactively recommend platform enhancements.</p>\n</li>\n<li>\n<p>Support pre-sales activities including solutioning, demos, and proposal development.</p>\n</li>\n</ul>\n<p>Required Qualifications:</p>\n<ul>\n<li>\n<p>Bachelor’s or Master’s degree in Computer Science, Information Technology, or related field.</p>\n</li>\n<li>\n<p>7+ years of hands-on experience with ServiceNow platform development and administration.</p>\n</li>\n<li>\n<p>Proven track record of successful ServiceNow implementations in enterprise environments.</p>\n</li>\n</ul>\n<p>Certifications (Required/Preferred):</p>\n<ul>\n<li>\n<p>Required:</p>\n</li>\n<li>\n<p>Junior – CSA and at least 1 CIS-(any) and CAD</p>\n</li>\n<li>\n<p>Intermediate – CSA and at least 2 CIS-(any) and CAD</p>\n</li>\n<li>\n<p>Senior – CAS and at least 3 CIS(Any) and CAD</p>\n</li>\n</ul>\n<p>Skills &#x26; Competencies:</p>\n<ul>\n<li>\n<p>Strong understanding of ServiceNow architecture and data model.</p>\n</li>\n<li>\n<p>Proficiency in JavaScript, GlideScript, Flow Designer, and ServiceNow Studio.</p>\n</li>\n<li>\n<p>Experience with Agile methodologies and DevOps practices.</p>\n</li>\n<li>\n<p>Excellent communication, presentation, and stakeholder management skills.</p>\n</li>\n<li>\n<p>Ability to work independently and manage multiple priorities in a fast-paced environment.</p>\n</li>\n</ul>\n<p>Why Join Us?</p>\n<ul>\n<li>\n<p>Work with a team of passionate ServiceNow experts.</p>\n</li>\n<li>\n<p>Opportunity to lead high-impact digital transformation projects.</p>\n</li>\n<li>\n<p>Competitive compensation and benefits.</p>\n</li>\n<li>\n<p>Continuous learning and certification support.</p>\n</li>\n</ul>\n<p>About NTT DATA</p>\n<p>NTT DATA is a $30 billion business and technology services leader, serving 75% of the Fortune Global 100. We are committed to accelerating client success and positively impacting society through responsible innovation. We are one of the world's leading AI and digital infrastructure providers, with unmatched capabilities in enterprise-scale AI, cloud, security, connectivity, data centers and application services. our consulting and Industry solutions help organizations and society move confidently and sustainably into the digital future. As a Global Top Employer, we have experts in more than 50 countries. We also offer clients access to a robust ecosystem of innovation centers as well as established and start-up partners. NTT DATA is a part of NTT Group, which invests over $3 billion each year in R&#x26;D.</p>\n<p>Whenever possible, we hire locally to NTT DATA offices or client sites. This ensures we can provide timely and effective support tailored to each client’s needs. While many positions offer remote or hybrid work options, these arrangements are subject to change based on client requirements. For employees near an NTT DATA office or client site, in-office attendance may be required for meetings or events, depending on business needs. At NTT DATA, we are committed to staying flexible and meeting the evolving needs of both our clients and employees. NTT DATA recruiters will never ask for payment or banking information and will only use @nttdata.com, @nttdatafed.com and @talent.nttdataservices.com email addresses. If you are requested to provide payment or disclose banking information, please submit a contact us form, .</p>\n<p>NTT DATA endeavors to make  accessible to any and all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please contact us at . This contact information is for accommodation requests only and cannot be used to inquire about the status of applications. NTT DATA is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status. For our EEO Policy Statement, please click here. If you'd like more information on your EEO rights under the law, please click here. For Pay Transparency information, please click here.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/digital-solution-consultant-sr-analyst-remote-dl-in-ntt-data</p>",
       "posted_at": "2026-09-07T13:10:36+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "ed1449ae-d270-4e4c-95cd-9c9a225b9433",
+      "title": "AI / Data Engineer (Mid-Level): Python, Azure Data & ML Pipelines",
+      "url": "https://remotejobs.org/remote-jobs/ai-data-engineer-mid-level-python-azure-data-ml-pipelines-intertwine-associates",
+      "apply_url": "https://remotejobs.org/remote-jobs/ai-data-engineer-mid-level-python-azure-data-ml-pipelines-intertwine-associates",
+      "company": {
+        "name": "Intertwine Associates",
+        "logo_url": "https://jjseyvyygwyvnfbohzdx.supabase.co/storage/v1/object/public/company-logos/scraped/e1035eb90702a45c56bb7f2c0a6220188d2ed7783dcefa80ea1d6142c9079c11.webp",
+        "website": "https://intertwineassociates.com",
+        "url": "https://remotejobs.org/companies/intertwine-associates"
+      },
+      "category": {
+        "name": "Data Science",
+        "slug": "data-science"
+      },
+      "location": "United States",
+      "salary_min": 95000,
+      "salary_max": 125000,
+      "salary_text": "USD 95,000–125,000/year",
+      "salary_source_text": "USD 95000 - 125000",
+      "salary_currency": "USD",
+      "salary_period": "year",
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": null,
+      "direct_apply": null,
+      "description": "<div>\n<h3><b><strong>Explore what happens when ideas Intertwine</strong></b></h3>\n<p>At <a>Intertwine Associates</a>, we live by a simple promise: <b><strong>We show up ready to work.</strong></b> We partner with organizations across government, management, strategy, and technology to deliver operational efficiency and measurable impact. Our focus is on practical solutions, tailored frameworks, and innovation that drives meaningful results. Join a team where expertise meets execution, and where your work truly matters. Read more here: </p>\n</div><div>\n<h3>Key Role:</h3>\n<p>Work in a dynamic, fast-paced environment as a mid-level AI / Data Engineer supporting a federal agency or other client's enterprise data management environment. Support the design, development, and optimization of scalable data pipelines and services that enable advanced analytics, machine learning readiness, and the modernization of Azure-based data infrastructure.</p>\n<p>Strong client or customer engagement is required in this role. You will work directly with client data scientists, analysts, architects, and governance teams, and are expected to represent <a>Intertwine Associates</a> and the client with professionalism, responsiveness, and sound judgment at every touchpoint. This is a remote position. Assignments are matched to client needs and to each candidate's expertise and eligibility.</p>\n<h4>Key Responsibilities:</h4>\n<ul>\n<li>Develop production-grade ETL workflows using Python and Microsoft-based frameworks.</li>\n<li>Ingest, transform, and validate structured and unstructured data.</li>\n<li>Implement schema enforcement, data validation, and quality checks.</li>\n<li>Support Azure Data Lake Storage, Azure SQL, and Azure-based data services.</li>\n<li>Design workflow orchestration using Azure Data Factory or Microsoft Fabric / Foundry.</li>\n<li>Build Python-based data services using Pandas, PyTorch, TensorFlow, and related libraries.</li>\n<li>Develop API endpoints and microservices to support analytics and ML platform interoperability.</li>\n<li>Implement logging, monitoring, performance tuning, and operational reliability.</li>\n<li>Collaborate with data scientists, analysts, architects, and governance teams.</li>\n<li>Apply data governance best practices for compliance, reproducibility, and auditability.</li>\n</ul>\n<h4>Basic Qualifications:</h4>\n<ul>\n<li>3+ years of experience developing or supporting advanced statistical, machine learning, or data pipeline solutions.</li>\n<li>Proficiency in Python, including Pandas.</li>\n<li>Strong SQL skills and experience integrating relational database sources.</li>\n<li>Hands-on experience with Azure cloud environments.</li>\n<li>Experience with ETL development using Python and Microsoft technologies.</li>\n<li>Experience with data validation, schema enforcement, and quality assurance.</li>\n<li>Familiarity with open-source data processing libraries such as NumPy, scikit-learn, PyTorch, or TensorFlow.</li>\n<li>Excellent written and verbal communication skills.</li>\n<li>U.S. citizenship or lawful permanent residency may be required per contract.</li>\n<li>Ability to obtain an agency Public Trust clearance.</li>\n</ul>\n<h4>Additional Qualifications:</h4>\n<ul>\n<li>Bachelor's, Ph.D., or equivalent professional experience in Data Science, Computer Science, Statistics, Engineering, or a related field.</li>\n<li>Microsoft Data Engineer certification (for example DP-203 or DP-700) or a related Azure certification.</li>\n<li>Knowledge of scalable, secure data engineering patterns in regulated environments.</li>\n<li>Experience with Microsoft Fabric or Azure AI Foundry in production.</li>\n<li>Experience building API endpoints or microservices (for example FastAPI or Flask) for analytics and ML platforms.</li>\n<li>Experience supporting a federal agency or a regulated health, safety, or financial organization.</li>\n</ul>\n<h3>\n<a>Intertwine Associates</a> LLC – Equal Employment Opportunity Statement</h3>\n<p><a>Intertwine Associates</a> LLC is an Equal Opportunity Employer. We are committed to fostering a diverse and inclusive workplace where all individuals are treated with respect and dignity. Employment decisions at <a>Intertwine Associates</a> LLC are made without regard to race, color, religion, sex (including pregnancy, sexual orientation, and gender identity), national origin, age, disability, genetic information, marital status, veteran status, citizenship status, or any other characteristic protected by applicable federal, state, or local laws.</p>\n<p>We comply with all applicable laws governing nondiscrimination in employment and strive to ensure that our workplace reflects the values of fairness, equity, and opportunity. All qualified applicants will receive consideration for employment without regard to any protected status. We also prohibit retaliation against individuals who report discrimination, participate in investigations, or otherwise exercise their rights under equal employment laws.</p>\n<p><a>Intertwine Associates</a> LLC is proud to support the mission of our clients, including U.S. Federal Government agencies, by providing exceptional technical talent and services. As such, certain roles may require U.S. citizenship or specific security clearances in accordance with federal contract requirements.</p>\n<h5>Compensation, Bonuses, and Other Incentives:</h5>\n<p><a>Intertwine Associates</a> LLC offers a competitive compensation package. The anticipated base salary range for this position is $95,000-$125,000 per year. This range is a good-faith estimate at the time of posting and reflects the base salary the company reasonably expects to offer for this role. Actual base salary will be determined based on lawful, job-related factors, including education, experience, specialized expertise, credentials, geographic location, scope of responsibilities, internal equity, client and contract requirements, and funding availability.</p>\n<p>This position may be eligible for discretionary bonuses, signing or retention incentives, or other variable compensation, as stated in the applicable written offer or plan documents. Any bonus or incentive is not guaranteed and is subject to applicable plan terms, individual and company performance, client or contract requirements, funding availability, and applicable law. Bonuses and other incentives are separate from base salary and may be modified or discontinued. The salary range does not include potential bonuses, other incentive compensation, or benefits. Nothing in this posting creates an employment contract or guarantees any specific salary, bonus, incentive, benefit, or term of employment.</p>\n<h5>Benefits:</h5>\n<p><a>Intertwine Associates</a> LLC offers eligible full-time employees medical, dental, and vision insurance; a 401(k) retirement savings plan with company matching; flexible paid time off, plus paid sick leave and other paid leave as required by applicable law; and professional development and continuing education opportunities.</p>\n<h5>Contingent Position:</h5>\n<p>This position supports work led by a partner organization. Employment is contingent upon the execution of a subcontract between <a>Intertwine Associates</a> LLC and that partner for the supported work. Any offer of employment will be conditioned on the subcontract being in place before the start date.</p>\n<h5>Application Deadline:</h5>\n<p>Applications for this position will be accepted through October 5, 2026. Applications are reviewed on a rolling basis as they are received. If this deadline is extended, the new date will be posted here.</p>\n</div><p>Originally posted on <a>Himalayas</a></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/ai-data-engineer-mid-level-python-azure-data-ml-pipelines-intertwine-associates</p>",
+      "posted_at": "2026-10-12T05:13:22+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "96716d4b-d93e-458c-b5de-132168809d1c",
+      "title": "Senior Data Scientist, eCommerce",
+      "url": "https://remotejobs.org/remote-jobs/senior-data-scientist-ecommerce-inizio-partners-corp",
+      "apply_url": "https://remotejobs.org/remote-jobs/senior-data-scientist-ecommerce-inizio-partners-corp",
+      "company": {
+        "name": "Inizio Partners Corp",
+        "logo_url": null,
+        "website": "https://inizio.com",
+        "url": "https://remotejobs.org/companies/inizio-partners-corp"
+      },
+      "category": {
+        "name": "Data Science",
+        "slug": "data-science"
+      },
+      "location": "United States",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": "year",
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": null,
+      "direct_apply": null,
+      "description": "<h3>Description</h3><p>We're looking for a Senior Data Scientist to join our growing eCommerce team. When you join us, you'll build machine learning systems, uncover game-changing insights and use state-of-the-art techniques to shape and execute our global eCommerce growth agenda. You will work with internal business stakeholders and strategic partners to identify opportunities for collaborative development and foster a data-driven culture between relevant teams.</p><h3>Responsibilities:</h3><ul>\n<li> Work on state-of-the-art large-scale data analytics and machine learning projects.</li>\n<li>Work within a leading eCommerce organization to analyze large data sets and develop custom models/algorithms to uncover trends, patterns, and insights.</li>\n<li>Establish standards for writing clean, organized machine learning code to streamline machine learning workflow within the DS team.</li>\n<li>Provide critical expertise to enhance organizational capabilities by utilizing a variety of data sets.</li>\n<li>Work with business stakeholders to identify and execute opportunities for enhancement.</li>\n<li>Create documentation and best practices to share with the ML community.</li>\n</ul><h3>Qualifications:</h3><ul>\n<li> Masters Degree in STEM or equivalent.</li>\n<li> Minimum five years of relevant work experience.</li>\n<li> Experience designing and developing machine learning solutions using a variety of data sources.</li>\n<li> Strong programming skills, especially in Python .</li>\n<li> Expertise in customizing Modern ML systems, including optimization and forecasting.</li>\n<li> Experience and functional familiarity with software development and data engineering best practices.</li>\n<li> Expert in mathematical models underlying data science methods, understanding the trade-offs between different solutions.</li>\n<li> Demonstrated ability to communicate with both business and technical audiences effectively and concisely.</li>\n<li> Experience with DevOps tools such as git, Docker, Datadog, etc.</li>\n<li> Experience in supply chain.</li>\n<li> Experience in building AI applications.</li>\n<li> Experience with distributed cloud computing platforms, particularly Kubernetes or the Hadoop/Spark ecosystem.</li>\n</ul><p>Originally posted on <a>Himalayas</a></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-data-scientist-ecommerce-inizio-partners-corp</p>",
+      "posted_at": "2026-10-12T05:09:05+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "d7744342-68c0-49eb-b384-cd6f6216c92b",
+      "title": "Data and Analytics Architect - MS Fabric",
+      "url": "https://remotejobs.org/remote-jobs/data-and-analytics-architect-ms-fabric-syslogic-inc",
+      "apply_url": "https://remotejobs.org/remote-jobs/data-and-analytics-architect-ms-fabric-syslogic-inc",
+      "company": {
+        "name": "SysLogic, Inc.",
+        "logo_url": "https://jjseyvyygwyvnfbohzdx.supabase.co/storage/v1/object/public/company-logos/scraped/3cc82b1e69b92a6d613d6187db79a082b1dd7ffe72a7d677840dd44f3a7aa447.png",
+        "website": "https://syslogicinc.com",
+        "url": "https://remotejobs.org/companies/syslogic-inc"
+      },
+      "category": {
+        "name": "Data Science",
+        "slug": "data-science"
+      },
+      "location": "United States",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": "year",
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": null,
+      "direct_apply": null,
+      "description": "<p>SysLogic is seeking an experienced Data and Analytics Architect to lead the design of modern data and analytics platforms, with deep, hands-on architecture experience in Microsoft Fabric. The role combines broad data and analytics architecture expertise (strategy, patterns, integration, governance and modernization) with the platform depth to design and to deliver production Fabric solutions.</p><p>The architect is responsible for the architecture from discovery and design through delivery and handoff, stays hands-on throughout, and partners with our sales team on new opportunity pursuits. This role requires demonstrating a strong understanding of our clients’ business challenges and the ability to communicate technical solutions without unnecessary jargon.</p><h3>Primary Responsibilities</h3><ul>\n<li> Partner with clients, business analysts and stakeholders to translate business requirements into scalable, efficient data and analytics solutions.</li>\n<li>Assess clients' current data environments, define target architectures, and build phased roadmaps.</li>\n<li>Select and apply the right architecture pattern and communicate the trade-offs to stakeholders.</li>\n<li>Design end-to-end architectures in Microsoft Fabric, covering OneLake, Lakehouse and Warehouse, data integration, data modeling, semantic models and reporting.</li>\n<li>Design integration from diverse sources (ERP, CRM, SaaS, APIs, files and streaming), including batch, incremental and change data capture patterns, using Fabric Data Factory, Dataflows Gen2, Spark notebooks and Azure Data Factory.</li>\n<li>Lead modernization and migration from on-premises SQL Server, SSIS/SSAS, Azure Synapse Analytics and Power BI Premium to Microsoft Fabric.</li>\n<li>Design the semantic layer and reporting standards and guide report developers.</li>\n<li>Size, monitor and optimize Fabric capacity and consumption costs, and identify and resolve performance bottlenecks.</li>\n<li>Define data governance, data quality, lineage and metadata practices, and partner with our Security practice on data security, privacy and compliance.</li>\n<li>Conduct data architecture reviews and assessments, identify gaps, and recommend scalable, secure, high-performance solutions.</li>\n<li>Provide technical leadership and guidance to data engineers, analysts and other team members to ensure successful delivery.</li>\n<li>Be a strong collaborator amongst organizational practices to ensure solutions meet SysLogic's quality standards for design and security.  </li>\n<li>Support new opportunity pursuits by developing solution approaches, effort estimates and SOW inputs, and by presenting architecture options to clients.</li>\n</ul><h3>Requirements</h3><h3>Technical Experience </h3><h3>Data and Analytics Architecture</h3><ul>\n<li>Data modeling (dimensional and normalized), data warehousing, and lakehouse and medallion design.</li>\n<li>Data integration across diverse sources, ETL/ELT development, pipeline orchestration and performance tuning.</li>\n<li>Data governance, data quality, metadata management, lineage and master data concepts.</li>\n<li>Data security and compliance considerations in the context of analytics.</li>\n<li>Source control and CI/CD with Azure DevOps or GitHub, and delivery within Agile/Scrum methodologies.</li>\n<li>Related Azure services: Azure Data Factory, Azure Data Lake Storage, Azure Synapse Analytics, Azure SQL and SQL Server.</li>\n</ul><h3>Microsoft Fabric Expertise</h3><ul>\n<li>OneLake: Lakehouse vs. Warehouse vs. Eventhouse selection, shortcuts and mirroring, and Delta/Parquet storage design.</li>\n<li>Data engineering: Data Factory pipelines, Dataflows Gen2 and Spark notebooks, and when to use each.</li>\n<li>Semantic layer: Direct Lake semantic models, composite models, DAX optimization and enterprise Power BI design.</li>\n<li>Workspace and tenant design: workspaces, domains, capacities (F SKUs), capacity monitoring and cost management.</li>\n<li>Security and governance: workspace and item permissions, OneLake data access, row- and object-level security, and Microsoft Purview integration.</li>\n<li>ALM: Fabric Git integration, deployment pipelines, and environment promotion across dev, test and production.</li>\n<li>Migration: moving Azure Synapse, Azure Data Factory, SSAS/Azure Analysis Services and Power BI Premium workloads into Fabric.</li>\n<li>Real-Time Intelligence (preferred): Eventstreams and KQL databases for streaming and operational analytics</li>\n</ul><h3>Required</h3><ul>\n<li>Eight or more years of professional data and analytics experience, including at least three years in an architect role.</li>\n<li>Architect on at least two production Microsoft Fabric implementations.</li>\n<li>At least one full-lifecycle greenfield architecture engagement.</li>\n<li>Bachelor's degree in computer science, Data Science, Information Systems or a related field, or equivalent professional experience.</li>\n<li>Leads requirements elicitation, design and brainstorming sessions with internal and client teams, in both structured and ad hoc settings, and ensures all key contributors are heard.</li>\n<li>Clear, professional written and verbal communication with technical and business audiences at all levels.</li>\n<li>Business acumen to align solution design with client needs.</li>\n<li>Ability to participate in ad hoc meetings, on short notice with groups of all sizes.  </li>\n</ul><h3>Preferred</h3><ul>\n<li>Microsoft certifications: Fabric Data Engineer Associate (DP-700); or Fabric Analytics Engineer Associate (DP-600) or Azure Solutions Architect Expert (AZ-305) as an alternative.</li>\n<li>Exposure to Databricks, Snowflake or other cloud data platforms.</li>\n<li>Pre-sales and estimating experience in a consulting environment.</li>\n<li>AI/ML in analytics workflows (Azure Machine Learning, Python or R), Copilot in Fabric, and Fabric data agents.</li>\n</ul><h3>Travel and Other Requirements</h3><p>This is a remote role, with required travel 4-6 times per year with no more than 24 days away from home per calendar year. </p><p>Candidates <strong>must reside, at the time of application </strong>in one of the ten approved state locations to be considered for this position.  Those locations are Wisconsin, Illinois, Ohio, Indiana, Michigan, Iowa, South Dakota, North Carolina, Arizona and Arkansas.  Candidates residing outside of these locations will not be considered.  </p><h3>Benefits</h3><ul>\n<li>Health Care Plan (Medical, Dental &#x26; Vision)</li>\n<li>Retirement Plan (401k)</li>\n<li>Life Insurance (Basic, Voluntary &#x26; AD&#x26;D)</li>\n<li>Paid Time Off (Vacation, Sick &#x26; Public Holidays)</li>\n<li>Family Leave (Maternity, Paternity)</li>\n<li>Long Term Disability</li>\n<li>Training &#x26; Development</li>\n<li><strong>Work Life Balance</strong></li>\n<li><strong>No company politics. </strong></li>\n<li><strong>Strong employee focused culture</strong></li>\n</ul><p>Originally posted on <a>Himalayas</a></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/data-and-analytics-architect-ms-fabric-syslogic-inc</p>",
+      "posted_at": "2026-10-12T05:05:19+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "2eea1e81-9a84-4f99-890c-c5dfaadee7c7",
+      "title": "Chief Analytics Officer (CAO)",
+      "url": "https://remotejobs.org/remote-jobs/chief-analytics-officer-cao-thehivecareers-8464c7905caf4131b4a68ce6e556376f",
+      "apply_url": "https://remotejobs.org/remote-jobs/chief-analytics-officer-cao-thehivecareers-8464c7905caf4131b4a68ce6e556376f",
+      "company": {
+        "name": "TheHiveCareers",
+        "logo_url": "https://jjseyvyygwyvnfbohzdx.supabase.co/storage/v1/object/public/company-logos/scraped/5a928965a2e792f59a611cf9f009bf5ac5df32ec909377c8b4e7fa12dea6b6c9.webp",
+        "website": "https://thehivecareers.co",
+        "url": "https://remotejobs.org/companies/thehivecareers"
+      },
+      "category": {
+        "name": "Data Science",
+        "slug": "data-science"
+      },
+      "location": "Suriname",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": "year",
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": null,
+      "direct_apply": null,
+      "description": "<h3>\n<strong>Job Title:</strong> Chief Analytics Officer (CAO)</h3><h3><strong>Role Summary</strong></h3><p>The Chief Analytics Officer leads the organization's analytics strategy, transforming data into actionable insights that drive business performance, innovation, and competitive advantage. This role focuses on advanced analytics, AI/ML, and decision intelligence to enable data-driven decision-making across the enterprise.</p><h3><strong>Key Responsibilities</strong></h3><h3><strong>1. Analytics Strategy &#x26; Leadership</strong></h3><ul>\n<li>Define and execute enterprise-wide analytics strategy aligned with business goals</li>\n<li>Position analytics as a core driver of growth, efficiency, and innovation</li>\n<li>Advise executive leadership on insights-driven decision-making</li>\n</ul><h3><strong>2. Advanced Analytics &#x26; AI/ML</strong></h3><ul>\n<li>Lead development of predictive, prescriptive, and machine learning models</li>\n<li>Drive AI/ML adoption across functions (marketing, risk, operations, finance)</li>\n<li>Ensure scalability and productionization of analytics models</li>\n</ul><h3><strong>3. Business Intelligence &#x26; Insights</strong></h3><ul>\n<li>Oversee BI platforms, dashboards, and reporting frameworks</li>\n<li>Enable real-time and self-service analytics across business units</li>\n<li>Translate complex data into clear, actionable insights for stakeholders</li>\n</ul><h3><strong>4. Decision Intelligence &#x26; Value Creation</strong></h3><ul>\n<li>Embed analytics into business processes and decision workflows</li>\n<li>Drive measurable impact on revenue growth, cost optimization, and risk management</li>\n<li>Establish KPIs to track analytics ROI and business outcomes</li>\n</ul><h3><strong>5. Data Collaboration &#x26; Governance</strong></h3><ul>\n<li>Partner with the Chief Data Officer and IT teams on data architecture and quality</li>\n<li>Ensure responsible use of data and adherence to governance frameworks</li>\n<li>Align analytics initiatives with data strategy and compliance standards</li>\n</ul><h3><strong>6. Innovation &#x26; Experimentation</strong></h3><ul>\n<li>Promote a culture of experimentation (A/B testing, hypothesis-driven analysis)</li>\n<li>Explore emerging technologies and advanced modeling techniques</li>\n<li>Drive continuous improvement in analytical capabilities</li>\n</ul><h3><strong>7. Talent &#x26; Capability Building</strong></h3><ul>\n<li>Build and lead high-performing analytics and data science teams</li>\n<li>Develop analytics capabilities across the organization</li>\n<li>Promote data literacy and insight-driven culture</li>\n</ul><h3><strong>Qualifications &#x26; Experience</strong></h3><ul>\n<li>Bachelor's or Master's degree in Data Science, Statistics, Mathematics, Computer Science, or related field</li>\n<li>15–20+ years of experience in analytics, data science, or quantitative roles</li>\n<li>Proven track record in delivering analytics-driven business impact</li>\n<li>Strong expertise in statistical modeling, AI/ML, and BI tools</li>\n<li>Experience working with executive leadership and cross-functional teams</li>\n</ul><h3><strong>Key Competencies</strong></h3><ul>\n<li>Strong analytical and quantitative expertise</li>\n<li>Strategic thinking and business acumen</li>\n<li>Ability to translate data into actionable insights</li>\n<li>Leadership and stakeholder influence</li>\n<li>Innovation and problem-solving mindset</li>\n</ul><p>Originally posted on <a>Himalayas</a></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/chief-analytics-officer-cao-thehivecareers-8464c7905caf4131b4a68ce6e556376f</p>",
+      "posted_at": "2026-10-12T05:02:44+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "c7539c8a-0f07-49cb-8d21-4b20a2e8aabb",
+      "title": "Tableau Architect",
+      "url": "https://remotejobs.org/remote-jobs/tableau-architect-inizio-partners-corp",
+      "apply_url": "https://remotejobs.org/remote-jobs/tableau-architect-inizio-partners-corp",
+      "company": {
+        "name": "Inizio Partners Corp",
+        "logo_url": null,
+        "website": "https://inizio.com",
+        "url": "https://remotejobs.org/companies/inizio-partners-corp"
+      },
+      "category": {
+        "name": "Data Science",
+        "slug": "data-science"
+      },
+      "location": "United States",
+      "salary_min": 175000,
+      "salary_max": 190000,
+      "salary_text": "USD 175,000–190,000/year",
+      "salary_source_text": "USD 175000 - 190000",
+      "salary_currency": "USD",
+      "salary_period": "year",
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": null,
+      "direct_apply": null,
+      "description": "<h3>Position Overview:</h3><p>We are seeking a skilled and motivated Tableau SME/Architect to support our initiatives in Insurance and Marketing Analytics. This role demands a combination of technical expertise, deep domain knowledge and client-facing communication to successfully deliver enterprise-grade analytics and end-to-end BI solutions using Tableau. This role will focus on client engagement, innovation, and data-driven solutions, ensuring our clients receive cutting-edge analytics and AI solutions that enhance operational efficiencies and decision making.</p><p>You will collaborate with business stakeholders , data engineers and analysts to gather reporting requirements, define visualization strategies and create compelling dashboards for data-driven decision-making. In addition to developing and optimizing tableau dashboards, you will set visualization standards, define data governance practices, and guide enterprise reporting architecture.</p><h3>Job Overview:</h3><p>We are seeking a skilled Tableau Developer to join our team. The successful candidate will be responsible for defining the Tableau CoE(Center of Excellence), mentoring junior developers, and integrating Tableau with cloud platforms ,data lakes and enterprise systems. </p><h3>Role Overview &#x26; Responsibilities:</h3><ul>\n<li>As a Tableau SME/Architect you will be responsible for<ul>\n<li>End-to-end BI solutioning process using Tableau and associated data technologies(SQL, Cloud, etc)</li>\n<li>Technical requirements of the analytic solutions</li>\n<li>Data requirements of the analytic solution processes</li>\n</ul>\n</li>\n<li>The person will be part of a major Insurance client account. He/ She will work with different stakeholders as SME for overall reporting architecture, insight generation, data quality and testing and dashboard development/enhancement</li>\n<li>A typical workday will involve working with stakeholders</li>\n<li>Individual will source data from multiple sources, manipulate and prepare data and run scripts to update Teradata DB</li>\n<li>He/She will automate processes using SQL and will be debugging, troubleshooting existing codes and optimizing the same</li>\n<li>Collaborate with data teams to define and optimize data models and extracts for Tableau.</li>\n<li>Adept in developing, publishing and scheduling Tableau reports and to visualize various trends as per the business requirements</li>\n<li>Define visualization strategies, CoE, data governance practices and enterprise reporting architecture</li>\n<li>The ideal candidate will serve as a subject matter expert in Tableau, providing technical leadership ,governance, and best practices to ensure data visualization aligns with business objectives. </li>\n<li>You should have deep understanding of data modelling, dashboard architecture, user experience and enterprise BI Strategies.</li>\n<li>Lead the design and implementation of interactive dashboards, storyboards, and reports.</li>\n<li>Define and enforce visualization standards, governance frameworks and best practices.</li>\n<li>Integrate tableau with cloud platforms( like Azure, AWS, GCP) and data warehouses (like Snowflake, Redshift, etc)</li>\n<li>Drive Tableau performance tuning ,version upgrades, and server architecture</li>\n<li>Define and implement enterprise-wide Tableau architecture strategies, including multi-node deployments and high availability configurations</li>\n<li>Design metadata management layers and semantic models to support reusable dashboards and governed datasets</li>\n<li>Lead efforts to migrate-legacy BI platforms to Tableau, including data validation and user adoption strategies.</li>\n<li>Design role-based security models and RLS frameworks aligned with data governance policies</li>\n<li>Conduct code reviews and provide technical mentorship to junior developers.</li>\n<li>A suitable candidate should have 8-10 years of experience in a similar role and should possess a go-getter attitude and a high degree of ownership skills.</li>\n<li>Experience in insurance preferred but not mandatory</li>\n</ul><h3>Skillsets:</h3><ul>\n<li>8-10 years of experience in BI/Analytics with atleast 7 Years in Tableau(Desktop, Server, Prep) and SQL.</li>\n<li>Excellent communication &#x26; presentation skills and should be able to communicate with client effectively</li>\n<li>Experience in managing SQL codes and collaborating with customer on visualization needs</li>\n<li>Experience in Tableau server administration ,clustering, user management, and backup/recovery planning</li>\n<li>Deep knowledge of authentication and authorization mechanisms(SAML, OAuth, LDAP/Active Directory integration)</li>\n<li>Good knowledge of Relational Data Base Management and SQL/Teradata</li>\n<li>Proven expertise in Tableau architecture, performance optimization and governance.</li>\n<li>Strong understanding of data modeling (star/snowflake schemas), SQL, and ETL processes</li>\n<li>Experience with cloud platforms, REST APIs, and Tableau Extensions/JavaScript API(would be a plus)</li>\n<li>Familiarity with Agile/Scrum methodology and tools like JIRA, Git.</li>\n<li>Superior analytical and problem solving skills. Experience in independent insight generation is preferred<ul>\n<li>Should be able to work on a problem independently and prepare client ready deliverable with minimal or no supervision</li>\n<li>Strong ability to translate functional specifications / requirements to technical requirements</li>\n</ul>\n</li>\n<li>Strong communication and stakeholder management skills.</li>\n<li>Experience in PowerBI is good to have</li>\n<li>Proficient in creating complex queries, and automate processes across multiple tools</li>\n<li>5+ years of strong experience in creating dashboards in Tableau </li>\n</ul><h3>Candidate Profile:</h3><ul>\n<li>Bachelors/Master's degree in economics, mathematics, actuarial sciences, computer science/engineering, operations research or related analytics areas; candidates with BA/BS degrees in the same fields from the top tier academic institutions are also welcome to apply</li>\n<li>Strong and in-depth understanding of Tableau </li>\n<li>Data visualization experience</li>\n<li>Superior analytical and problem solving skills</li>\n<li>Outstanding written and verbal communication skills</li>\n<li>Tableau certification(Desktop/Server Specialist or Professional) is a plus.</li>\n</ul><p>Originally posted on <a>Himalayas</a></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/tableau-architect-inizio-partners-corp</p>",
+      "posted_at": "2026-10-12T04:56:55+00:00",
       "is_translated": false,
       "original_language": null
     },
