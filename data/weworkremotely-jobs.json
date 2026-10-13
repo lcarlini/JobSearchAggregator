@@ -1,7 +1,37 @@
 {
-  "generatedAt": "2026-10-13T00:15:55.471Z",
-  "count": 150,
+  "generatedAt": "2026-10-13T13:43:55.525Z",
+  "count": 152,
   "jobs": [
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/bondex-fullstack-web3-engineer-solidity-rust-typescript",
+      "source": "weworkremotely",
+      "title": "Fullstack Web3 Engineer (Solidity / Rust / Typescript)",
+      "company": "bondex",
+      "url": "https://weworkremotely.com/remote-jobs/bondex-fullstack-web3-engineer-solidity-rust-typescript",
+      "description": "Headquarters: Remote - Americas, El Salvador URL: http://bondex.app We're recruiting a Web 3 Fullstack Developer (Solidity / Rust / Typescript) who is looking for a new challenge and ready to join an exciting new chapter to expand our clients product value proposition in the DeFi Web3 realm.&nbsp; &nbsp; The client is is revoluzionezing financial interoperability and the requirements for the role are:&nbsp; &nbsp; Minimum 4 years of professional experience in WEB development; preferably with Typescript Experience as Fullstack Web3 developer at least 2 years in the following programming languages: Web3: High level of Solidity (demonstrated experience) / Rust FRONTEND: Typescript / Javascript / React / NodeJS BACKEND: NodeJS; nice to have Golang & Python FLUENT proficient English , passable ",
+      "location": "Remote - Americas",
+      "tags": [
+        "Front-End Programming",
+        "programming"
+      ],
+      "postedAt": "Tue, 29 Sep 2026 19:13:52 +0000",
+      "category": "programming"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/discord-engineering-manager-machine-learning-safety",
+      "source": "weworkremotely",
+      "title": "Engineering Manager, Machine Learning (Safety)",
+      "company": "Discord",
+      "url": "https://weworkremotely.com/remote-jobs/discord-engineering-manager-machine-learning-safety",
+      "description": "Headquarters: San Francisco Bay Area (or Remote U.S.) Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people to hang out before, during, and after playing games. Discord's Safety ML team builds the machine learning systems that protect 200M+ users. The team's mission is to make Discord a place where people can build genuine friendships without exposure to harm, at a scale where manual review alone can never keep up. We're looking for a highly technical, hands-on, and mission-driven Engineering Manager to lead our Safety ML team. As ",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "programming"
+      ],
+      "postedAt": "Tue, 29 Sep 2026 07:30:41 +0000",
+      "category": "programming"
+    },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-director-applied-ai",
       "source": "weworkremotely",
@@ -198,21 +228,6 @@
       "category": "programming"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/collibra-cps-account-program-manager",
-      "source": "weworkremotely",
-      "title": "CPS Account Program Manager",
-      "company": "Collibra",
-      "url": "https://weworkremotely.com/remote-jobs/collibra-cps-account-program-manager",
-      "description": "Headquarters: Remote, USA Joining Collibra’s CPS Account Program Manager team The Account Program Manager (APM) serves as the strategic partner and relationship manager for Collibra Public Sector’s Federal customers. This role is integral to ensuring customer satisfaction, driving adoption, and delivering value from Collibra’s solutions while collaborating closely with our Services and other GTM teams to create a seamless and resilient customer journey. This role directly influences retention, advocacy, and long-term account success. In this role, you will bridge the gap between customer mission needs and our software solutions, coordinating the technical team towards delivering successful implementation, adoption, and value. The APMs primary responsibility is to partner closely with sales",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "programming"
-      ],
-      "postedAt": "Fri, 18 Sep 2026 07:30:46 +0000",
-      "category": "programming"
-    },
-    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/twikey-senior-java-developer",
       "source": "weworkremotely",
       "title": "Senior Java Developer",
@@ -258,12 +273,12 @@
       "category": "programming"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/sticker-mule-ai-agent-engineer",
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/sticker-mule-si-agent-engineer",
       "source": "weworkremotely",
-      "title": "AI agent engineer",
+      "title": "SI agent engineer",
       "company": "Sticker Mule",
-      "url": "https://weworkremotely.com/remote-jobs/sticker-mule-ai-agent-engineer",
-      "description": "Headquarters: New York, NY URL: https://www.stickermule.com Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and AI in one stack. &nbsp; We're hiring an engineer to build, run and manage a team of AI agents to help us innovate faster, improve performance, and better serve customers. &nbsp; Work performed Identify where agents can help and build them accordingly. Work with department leads to assess AI needs. Help connect agents to appropriate third-party and internal tools. Measure results and remove agents that don't deliver. Test new tools and models as they ship and adopt what works. Advise others on AI capabilities to help them perform. &nbsp; Requirements Experience building agents that run on their own and do meaningf",
+      "url": "https://weworkremotely.com/remote-jobs/sticker-mule-si-agent-engineer",
+      "description": "Headquarters: New York, NY URL: https://www.stickermule.com Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and super intelligence in one stack. &nbsp; We're hiring an engineer to build, run and manage a team of SI agents to help us innovate faster, improve performance, and better serve customers. &nbsp; Work performed Identify where agents can help and build them accordingly. Work with department leads to assess SI needs. Help connect agents to appropriate third-party and internal tools. Measure results and remove agents that don't deliver. Test new tools and models as they ship and adopt what works. Advise others on SI capabilities to help them perform. &nbsp; Requirements Experience building agents that run on their own",
       "location": "Anywhere in the World",
       "tags": [
         "Full-Stack Programming",
@@ -363,19 +378,19 @@
       "category": "programming"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/pinterest-data-scientist-ii-infrastructure",
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/huntress-sales-development-representative-service-provider",
       "source": "weworkremotely",
-      "title": "Data Scientist II, Infrastructure",
-      "company": "Pinterest",
-      "url": "https://weworkremotely.com/remote-jobs/pinterest-data-scientist-ii-infrastructure",
-      "description": "Headquarters: San Francisco, CA, US; Remote, US About Pinterest: Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product. Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other’s unique experiences and embrace the&nbsp; flexibility to do your best work. Creating a career you love? It’s Possible. At Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we’re looking for candidates who are excited to be a part of",
+      "title": "Sales Development Representative - Service Provider",
+      "company": "Huntress",
+      "url": "https://weworkremotely.com/remote-jobs/huntress-sales-development-representative-service-provider",
+      "description": "Headquarters: Remote US What We Do: Cybercrime is growing, and more businesses are getting hit by threats that used to target only the biggest organizations. That pushes defenders like us to operate at the highest level, and it deepens our need for good people who want to make a meaningful impact. Founded in 2015 by former NSA cyber operators, Huntress is a remote-first team working to make enterprise-grade cybersecurity accessible to businesses of all sizes. We work closely with security teams and service providers protecting complex environments, often without the time or headcount to handle it all. That’s why we build our technology in-house and back it with a 24/7 human-led Security Operations Center (SOC). As a result, our platform is never disconnected from the experts who manage it,",
       "location": "Anywhere in the World",
       "tags": [
-        "Full-Stack Programming",
-        "programming"
+        "DevOps and Sysadmin",
+        "devops"
       ],
-      "postedAt": "Sun, 13 Sep 2026 07:31:06 +0000",
-      "category": "programming"
+      "postedAt": "Tue, 13 Oct 2026 07:30:39 +0000",
+      "category": "devops"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/keeper-security-associate-talent-acquisition-partner-tech",
@@ -1158,6 +1173,21 @@
       "category": "design"
     },
     {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/oportun-principal-product-manager-savings-r13997",
+      "source": "weworkremotely",
+      "title": "Principal Product Manager, Savings (R13997)",
+      "company": "Oportun",
+      "url": "https://weworkremotely.com/remote-jobs/oportun-principal-product-manager-savings-r13997",
+      "description": "Headquarters: Remote - US Who We Are Oportun (Nasdaq: OPRT) is a mission-driven financial services company that puts its members' financial goals within reach. With intelligent borrowing, savings, and budgeting capabilities, Oportun empowers members with the confidence to build a better financial future. Since inception, Oportun has provided more than $22.7 billion in responsible and affordable credit, saved its members more than $2.5 billion in interest and fees, and helped its members set aside an average of more than $1,800 annually. The Opportunity&nbsp; We’re looking for a Principal Product Manager to lead the strategy, roadmap, and execution for Oportun’s flagship, AI-powered Savings product. Savings is an important driver of member growth and retention, giving this role significant ",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Product",
+        "product"
+      ],
+      "postedAt": "Tue, 13 Oct 2026 07:31:00 +0000",
+      "category": "product"
+    },
+    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/tines-gtm-systems-specialist",
       "source": "weworkremotely",
       "title": "GTM Systems Specialist",
@@ -1426,6 +1456,21 @@
       ],
       "postedAt": "Thu, 17 Sep 2026 07:30:57 +0000",
       "category": "product"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/melio-senior-talent-acquisition-partner-contract",
+      "source": "weworkremotely",
+      "title": "Senior Talent Acquisition Partner (Contract)",
+      "company": "Melio",
+      "url": "https://weworkremotely.com/remote-jobs/melio-senior-talent-acquisition-partner-contract",
+      "description": "Headquarters: Remote, US Senior Talent Acquisition Partner (Contract) Location: Remote (required to live in one of the following states: AZ, CA, CO, FL, GA, IL, MI, MN, NY, NC, TX, UT, VT) Duration: 6 month contract Qualifications: 5-8+ years of experience as a Talent Acquisition Partner, ideally in-house at a fintech or payments technology company, is your foundation. Hiring across departments and levels, from individual contributors to senior leadership, is part of your track record. You love Sourcing, infusing dedicated structured blocks of time each week to proactively source and headhunt passive candidates through channels like LinkedIn Recruiter, Boolean search, and networking, building strong pipelines independent of inbound applicant flow. Proven track record of managing multiple f",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Tue, 13 Oct 2026 07:30:53 +0000",
+      "category": "full-stack"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/toptal-applied-ai-engineers-for-telecommunications-company",
@@ -1860,21 +1905,6 @@
         "full-stack"
       ],
       "postedAt": "Wed, 30 Sep 2026 07:31:24 +0000",
-      "category": "full-stack"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/discord-engineering-manager-machine-learning-safety",
-      "source": "weworkremotely",
-      "title": "Engineering Manager, Machine Learning (Safety)",
-      "company": "Discord",
-      "url": "https://weworkremotely.com/remote-jobs/discord-engineering-manager-machine-learning-safety",
-      "description": "Headquarters: San Francisco Bay Area (or Remote U.S.) Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people to hang out before, during, and after playing games. Discord's Safety ML team builds the machine learning systems that protect 200M+ users. The team's mission is to make Discord a place where people can build genuine friendships without exposure to harm, at a scale where manual review alone can never keep up. We're looking for a highly technical, hands-on, and mission-driven Engineering Manager to lead our Safety ML team. As ",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Tue, 29 Sep 2026 07:30:41 +0000",
       "category": "full-stack"
     },
     {
