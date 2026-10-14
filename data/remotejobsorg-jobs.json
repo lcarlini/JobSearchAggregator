@@ -1,7 +1,89 @@
 {
-  "generatedAt": "2026-10-14T16:42:46.040Z",
+  "generatedAt": "2026-10-14T21:22:49.674Z",
   "count": 137,
   "data": [
+    {
+      "id": "50946e7b-accd-4f5e-bb65-63fa6cbe58f9",
+      "title": "Senior Engineering Manager",
+      "url": "https://remotejobs.org/remote-jobs/senior-engineering-manager-scan-1bb4d76bd30b44cf9f3fd5e2bd9a92b5",
+      "apply_url": "https://remotejobs.org/remote-jobs/senior-engineering-manager-scan-1bb4d76bd30b44cf9f3fd5e2bd9a92b5",
+      "company": {
+        "name": "SCAN",
+        "logo_url": null,
+        "website": "https://scan.com",
+        "url": "https://remotejobs.org/companies/scan"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "New York City",
+      "location_normalization": {
+        "raw": "New York City",
+        "input": {
+          "workArrangement": "hybrid"
+        },
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [
+          "new york city"
+        ],
+        "work_arrangement": "hybrid",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "unknown",
+        "status": "conflicting",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [],
+        "allowed_regions": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-sonnet-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "partial",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": null,
+        "role_family": null,
+        "required_skills": [],
+        "mentioned_skills": [],
+        "preferred_skills": [],
+        "experience_requirements": []
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "60081ce4-636f-4634-be6a-7a67080acd0f",
+      "direct_apply": null,
+      "description": "<p>We're <a href=\"http://Scan.com\">Scan.com</a>.  We're building America's national imaging network: the infrastructure that connects patients, providers, and payers to faster, better-value diagnostic imaging.  Thousands of patients move through our platform every day, and each is a real person waiting for an answer to a healthcare concern. We exist to get them that answer faster.</p><p>We manage the medical imaging pathway end-to-end.  Providers order through a single point of entry, and from there, we run the entire medical diagnostic pathway.  Managing the full pathway, rather than brokering pieces of it, is what lets us deliver imaging faster, at higher quality, and at a lower cost than the fragmented status quo.</p><p>We're looking for a <strong>Senior Engineering Manager</strong> at an exciting time. We've raised over $200m in funding to date, reached profitability, and are growing 100% year on year.</p><p>Millions of people wait too long for a diagnosis. Come help us fix that.</p><h2><strong>WHAT YOU WILL BE GETTING INVOLVED IN</strong></h2><p>We are a small, high-output team building across a complex technical surface: consumer marketplace, provider-facing scheduling tools, interoperability infrastructure, revenue cycle tooling, and AI-augmented workflows. We don't scale headcount to scale output. We scale leverage through AI-native development practices, tight feedback loops, and engineers who own outcomes rather than tickets.</p><p>As <strong>Senior Engineering Manager</strong>, you will lead a cross-functional engineering team and remain a hands-on contributor. We expect roughly 30% of your time to be spent writing code, reviewing architecture, or directly shaping technical decisions. This is not a role for someone who wants to move fully into management. It's a role for someone who finds that combination energising.</p><p>You will report to our CTO and partner closely with Product, Operations, and Data to ship the systems that run our business. You are expected to be genuinely AI-native: not just comfortable with AI tooling, but actively shaping how your team uses it. That means deploying agents, building evaluation frameworks, and coaching engineers to work at a level of throughput that wasn't possible two years ago.</p><p>As a scale-up business, you can expect your role to develop over time. Here are some of the types of things you could be getting involved in:</p><ul><li><p>Lead and develop a team of engineers across multiple product domains, owning velocity, process, performance, technical growth, and team culture</p></li><li><p>Remain a consistent technical contributor by writing production code, leading design reviews, and pairing with engineers on complex problems.</p></li><li><p>Define and enforce engineering standards across code quality, system design, testing discipline, deployment practices, and incident response</p></li><li><p>Drive the team's AI-native operating model by identifying where AI agents can replace or accelerate engineering workflows, building evaluation frameworks to measure output quality, and coaching engineers to leverage AI tooling as a primary development instrument rather than an occasional aid</p></li><li><p>Partner with Product to refine roadmaps, push back on scope where necessary, and ensure the team is working on the highest-leverage problems at any given time</p></li><li><p>Own the architecture of your team's systems by making build vs. buy decisions, managing technical debt deliberately, and ensuring the stack can support the growth trajectory of the business</p></li><li><p>Contribute to <a href=\"http://Scan.com\">Scan.com</a>'s broader engineering culture through interview loops, cross-team design reviews, engineering all-hands, and the institutional knowledge that makes a small team punch above its weight</p></li></ul><h2><strong>WHAT YOU MIGHT BRING TO THE TABLE</strong></h2><p>You don't need to tick all the boxes to apply for this role. Whether it's your first role or your fifth, we believe everyone can add value, learn, and grow. However, these might be some of the ways you are currently adding value:</p><ul><li><p>Proven experience managing and growing engineering teams in a startup environment. You have operated with limited resources, changing priorities, and a high bar for individual output, and you have thrived in that context.</p></li><li><p>Genuine AI-native fluency: you have deployed AI agents in production engineering workflows, you understand evaluation frameworks and can design them for non-trivial tasks, and you have coached teams to use AI as a primary tool rather than a novelty. Candidates who cannot speak concretely to this will not be competitive</p></li><li><p>Active technical contributor with strong engineering fundamentals. You write production-quality code in at least one modern backend or full-stack language, can lead a system design discussion at a senior level, and have not been out of the code for more than a year</p></li><li><p>Experience in a scaling healthcare technology company is a strong plus. Familiarity with the regulatory environment, interoperability constraints, and the operational complexity of healthcare delivery meaningfully shortens the ramp</p></li><li><p>Strong cross-functional instincts: you have partnered effectively with Product and Operations, understand how to negotiate scope without burning relationships, and can represent technical constraints to a non-technical audience without losing fidelity</p></li><li><p>A track record of growing engineers. ICs on your previous teams have been promoted, expanded their scope, and credited you with material development in their careers</p></li><li><p>High ownership orientation: you do not wait to be asked, you do not manage up problems without a proposed path forward, and you treat the business outcomes of your team's work as personally yours</p></li></ul><h2><strong>A VIEW ON OUR CULTURE</strong></h2><p>We're building something that matters. Every scan we speed up is a real person waiting on an answer, and that urgency runs through everything we do. We move fast, we own outcomes, and take pride in our output. If you like ambiguity, working with ambitious people, and want your work to visibly move the needle, you'll feel at home here.  To be successful at <a href=\"http://Scan.com\">Scan.com</a> you must embody our values.<br></p><h2><strong>HOW WE WILL INTERVIEW YOU</strong></h2><p>We keep our interview process short and sweet, and we're a nimble team that can progress at pace. Here are the stages you can expect, but we might switch up the order of each step depending on team availability:</p><ol><li><p>Introductory call/interview with our Senior Talent Partner. The call is via telephone and lasts around 30 minutes.</p></li><li><p>Should it feel like there is an initial fit for all, we will invite you to a video call with the hiring manager for around 45 minutes. This is a more structured interview that will deep-dive into the role and technical needs.</p></li><li><p>'Scan Standard' interview, where our panel screens for values alignment and the success factors that matter at <a href=\"http://Scan.com\">Scan.com</a>. You will also be assessed on your AI fluency at the stage and depth relevant to your role (see AI Requirements above).</p></li><li><p>Meet the founders and/or other team members. Again, length varies depending on how many interviewers, and whether in person or via video call.</p></li><li><p>Offer!</p></li></ol><h2><strong>WHAT WE OFFER</strong></h2><p>We go beyond the basics with our benefits package. We believe great work starts with supporting our people. Here's what you can expect from us:</p><ul><li><p>Salary range of $180,000 - $240,000</p></li><li><p>Flexible remote or hybrid work options</p></li><li><p>Dedicated personal development budget</p></li><li><p>Medical, vision, and dental coverage</p></li><li><p>28+ days of paid time off across PTO and wellbeing days, so you can show up at your best</p></li><li><p>Paid parental leave</p></li><li><p>401k retirement plan</p></li><li><p>All the equipment you need to do your best work</p></li><li><p>Inclusive, people-first policies designed by our team, for our team</p></li></ul><h2><strong>DIVERSITY AT </strong><a href=\"http://Scan.com\"><strong>SCAN.COM</strong></a></h2><p><a href=\"http://Scan.com\">Scan.com</a> is committed to eliminating discrimination and encouraging diversity within our team. We strive to provide equality and fairness for all job applicants and employees and never discriminate on the basis of gender, marital status, age, race, ethnicity, religion, or physical differences.</p><p>We are opposed to all forms of unlawful treatment and discrimination.</p><p>Our ambition is for our team to be representative of society's diversity, and for every employee to feel respected and able to bring their best selves to work.</p><p>If you need an accommodation to apply or interview, contact us at <a href=\"mailto:people@scan.com\">people@scan.com</a>.</p><p>We look forward to receiving your application!</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-engineering-manager-scan-1bb4d76bd30b44cf9f3fd5e2bd9a92b5</p>",
+      "posted_at": "2026-10-14T13:42:50.767+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
     {
       "id": "cf1c4591-35b7-480f-8f67-611c9eb6a01e",
       "title": "Développeur(-euse) Expérience IA (IA conversationnelle)",
@@ -4534,101 +4616,6 @@
       "direct_apply": null,
       "description": "<h2>Scope</h2>\n<ul>\n<li>Develops, recommends, implements and manages the technical architecture (hardware, software, database and communications) which will be used for all or specific applications in a large, distributed cross-platform environment.</li>\n<li>Responsibilities also include the identification of relevant information and the determination of the environment, which will be used for development</li>\n</ul>\n<h2>Assignment Deliverables</h2>\n<ul>\n<li>Develop, recommend, implement and manage technical architectures at the specified experience level</li>\n<li>Developing, recommending and implementing conceptual, logical and/or physical processes and data models</li>\n<li>Preparing systems analysis and design in large systems environments</li>\n<li>Developing design for large system integrations</li>\n<li>Developing enterprise architecture deliverables based on Ontario Government Enterprise Architecture processes and practice</li>\n<li>Facilitate, gather, report, and deliver information to governing bodies for approval. i.e. OPS security assessment and Architecture Review Board</li>\n<li>Facilitate, present, and deliver all relative materials to get approval of OPS Cyber Securities Assessment and OPS Architectural Review Board</li>\n</ul>\n<h2>A Note on the VOR Master Service Agreement:</h2>\n<p>The VOR Master Service Agreement which expires on April 5, 2025, leaves some Contracts with funding unassigned for fiscal 2025-26. If the current statement of work expires on March 31, 2025, the remaining funds can be used to exercise an option to extend the SOW beyond March 31, 2025, based on business case approvals. Such extensions will be allowable, only if the Master Service Agreement is extended beyond April 5, 2025, and be upon the same terms, conditions, and covenants contained in the SOW.</p>\n<p>The start date is subject to change based on security clearances and contract signing timelines.</p>\n<h2>Desired Skills and Experience</h2>\n<ul>\n<li>Knowledge of Microsoft Dynamics 365 functionalities and capabilities.</li>\n<li>Knowledge of native capabilities of the system that need to provide the functionality (e.g., Dynamics 365 or any other system).</li>\n<li>Proficiency in developing and customizing solutions within Microsoft Dynamics 365, including experience with tools such as Power Platform, X++, and other Dynamics development frameworks.</li>\n<li>Leadership experience in the development and implementation of technical architectures at the specified experience level</li>\n<li>Experience developing, recommending, implementing and managing technical architecture</li>\n<li>Experience in the use of Computer Aided Software Engineering (CASE) tools and other software tools such as project management tools</li>\n<li>Awareness of emerging technologies, trends and directions</li>\n<li>Excellent analytical, problem-solving and decision-making skills; verbal and written communication skills; interpersonal and negotiation skills</li>\n<li>A team player with a track record for meeting deadlines</li>\n<li>Experience in developing enterprise architecture deliverables (e.g. models)</li>\n<li>Strong communication skills to participate in team discussions, ability to explain complex technical terms for a non-technical audience, make solution recommendations and document/explain work</li>\n<li>Ability to work in a multidisciplinary team environment, to sell your ideas to colleagues, both technical and non-technical</li>\n<li>Demonstrated the ability to get buy-in from a team to implement new and improved ways of doing things</li>\n</ul>\n<h2>Resumes Evaluation/Criteria:</h2>\n<h2>Criteria 1: Technical Skills - 40 Points</h2>\n<ul>\n<li>Hands on experience in working with Microsoft Dynamics 365 cloud</li>\n<li>Extensive experience with at least three different platforms, operating systems, environments, database technologies, and communications protocols</li>\n<li>Experience with middleware and gateways</li>\n<li>Knowledge of performance considerations in different environments</li>\n<li>Experience in structured methodologies for the design, development and implementation of applications</li>\n<li>Extensive experience in systems analysis and design in large systems environments</li>\n<li>Knowledge and experience designing processes around ITIL and is able to guide others using this methodology</li>\n</ul>\n<h2>Criteria 2: Functional Knowledge - 30 Points</h2>\n<ul>\n<li>Experience in working with technical and business partners in creating information architecture and models</li>\n<li>Experience translating business requirements into reporting needs</li>\n<li>Experience preparing conceptual, logical and/or physical processes and data models</li>\n<li>Experience of the OPS Cyber Securities Assessment, documentation of Threat Risk Assessments, and Architecture Review Board process. To lead through each of these areas for successful approvals</li>\n</ul>\n<h2>Criteria 3: Interpersonal Skills - 30 Points</h2>\n<ul>\n<li>Strong communication, negotiation skills and ability to participate and lead discussions with business/senior leadership on making solution recommendations and document/explain work</li>\n</ul>\n<h2>Knowledge Transfer</h2>\n<h2>What needs to be KT</h2>\n<ul>\n<li>Plans &#x26; designs including architecture artefacts, data models, prototypes, wireframes,</li>\n<li>Project specific presentations, reports, status decks</li>\n</ul>\n<h2>To whom</h2>\n<ul>\n<li>Project Manager/Team Members</li>\n</ul>\n<h2>When</h2>\n<ul>\n<li>1:1 meetings / team meetings / documentation on SharePoint site, throughout the duration of the project life cycle etc</li>\n</ul>\n<h2>Must have's:</h2>\n<ul>\n<li>At least 8 years of experience in Microsoft Dynamics 365 implementation and solution integration, including experience with tools such as Power Platform, X++, and other Dynamics development frameworks.</li>\n</ul>\n<h2>Nice to have:</h2>\n<ul>\n<li>Experience in the use of Computer Aided Software Engineering (CASE) tools and other software tools such as project management tools</li>\n<li>Knowledge of native capabilities of the system that need to provide the functionality (e.g., Dynamics 365 or any other system).</li>\n</ul>\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/rq08278-solution-architect-crm-intermediate-rubicon-path</p>",
       "posted_at": "2026-10-13T20:48:09+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "ede01b08-0809-429a-a293-c4d571dba5bd",
-      "title": "Senior Application Programmer",
-      "url": "https://remotejobs.org/remote-jobs/senior-application-programmer-jenzabar",
-      "apply_url": "https://remotejobs.org/remote-jobs/senior-application-programmer-jenzabar",
-      "company": {
-        "name": "Jenzabar",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/a2d01eb0b2bbaf80beeb729e77ba2b1d39a7d02e1e18affdecbd816597e6fc7b.webp",
-        "website": null,
-        "url": "https://remotejobs.org/companies/jenzabar"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "United States",
-      "location_normalization": {
-        "raw": "United States",
-        "input": {},
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [],
-        "evidence_ids": [
-          "source-location"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-sonnet-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": "senior",
-        "role_family": "software-engineering",
-        "required_skills": [],
-        "mentioned_skills": [
-          "csharp",
-          "dotnet",
-          "sql"
-        ],
-        "preferred_skills": [],
-        "experience_requirements": [
-          {
-            "text": "8+ years experience",
-            "maximum_years": null,
-            "minimum_years": 8,
-            "classification": "mentioned"
-          }
-        ]
-      },
-      "salary_min": 66000,
-      "salary_max": 79000,
-      "salary_text": "USD 66,000–79,000/year",
-      "salary_source_text": "USD 66000 - 79000",
-      "salary_currency": "USD",
-      "salary_period": "year",
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<p>The Senior Application Programmer is part of our Professional Services team and will work with customers to deliver technical solutions/custom programming to meet customer needs.</p>\n<p>The ideal candidate will have the proven ability to work either independently or in a team to achieve results. They will blend their analytical and technical skills to provide creative solutions to Jenzabar customers. They will work with customers to define the requirements and use case, scope the best technical solution, develop the solution and work with the customer to ensure the solution meets their needs. This person will also stay on top of new technologies and how the Services team can leverage them to provide solutions for our customers.</p>\n<h2>Essential Tasks</h2>\n<ul>\n<li>Troubleshoot and update Jenzabar developed local customizations under maintenance</li>\n<li>Work with the customer to communication the solution to the question or issue</li>\n<li>Prepare requirement/solutions for Jenzabar customers</li>\n<li>Consult with customer to discuss the best practices and best solution for request</li>\n<li>Prepare statement of work</li>\n<li>Deliver technical work related to programming, integration and system updates</li>\n<li>Develop integrations and programs based on C#, XML, .Net, SQL, REST API calls</li>\n<li>Lead collaborations with other Jenzabar Developers on internal projects</li>\n<li>Provide training and consulting to customer as requested</li>\n<li>Implement and configure our standard integrations utilizing our Unity (Boomi) platform</li>\n<li>Able to adhere to and deliver on a specific scope of work</li>\n<li>Mentor Application Programming team</li>\n</ul>\n<h2>Preferred Skills &#x26; Experience</h2>\n<ul>\n<li>Bachelor’s Degree in Computer Science or related field</li>\n<li>8+ years experience working at an Accredited College/University or in Higher Education Market</li>\n<li>Demonstrate excellent organizational skills, including the ability to work effectively and independently in an atmosphere of multiple projects, across multiple products</li>\n<li>Must have excellent team building and problem-solving skills with comfortability working in a deadline driven environment</li>\n<li>Ability to be innovative, creative, strategic, analytical, and think outside the box when problem-solving</li>\n<li>Strong interpersonal and customer service skills, able to clearly communicate technical issues and solutions to non-technical users</li>\n<li>Experience with Jenzabar software</li>\n</ul>\n<p>The pay range for this position is $66,000-$79,000/year; however, base pay offered may vary depending on job-related knowledge, geographic location, skills, and experience. This position is eligible for a significant incentive plan as well as a full range of benefits. This information is provided per the relevant state and local pay transparency laws for the location in which this position will be performed.</p>\n<h2>Benefits</h2>\n<p>Medical Insurance, Life Insurance, Dental Insurance, Vision Insurance, PTO, Paid Parental Leave, Paid Holidays, Short Term Disability, Long Term Disability, 401K, Educational Assistance</p>\n<p><em>Jenzabar does not discriminate in employment opportunities or practices on the basis of race, color, sex, gender, gender identity, pregnancy, childbirth and related medical conditions, genetics, genetic markers and carrier status, creed, religion, national origin, ancestry, age, disability, medical condition, marital status, sexual orientation, military service, veteran status, or any other status protected by state and federal laws.</em></p>\n<p><strong>Please Note: Jenzabar does not sponsor applicants for work visas.</strong></p>\n<p><em>Electronic Monitoring Notice:</em></p>\n<p><em>Job applicants are advised that Jenzabar reserves the right to monitor, access, review, and disclose electronic activity conducted on Company‑owned devices, networks, and systems, as well as activity involving Jenzabar applications or accounts accessed on personal devices. Monitoring may include email, messaging, internet usage, files, applications, and other electronic communications or data, and is performed for security, compliance, and operational purposes.</em></p>\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-application-programmer-jenzabar</p>",
-      "posted_at": "2026-10-13T20:34:16+00:00",
       "is_translated": false,
       "original_language": null
     },
