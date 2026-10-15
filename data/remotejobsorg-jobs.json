@@ -1,7 +1,287 @@
 {
-  "generatedAt": "2026-10-15T16:28:00.926Z",
+  "generatedAt": "2026-10-15T21:03:45.553Z",
   "count": 149,
   "data": [
+    {
+      "id": "ed981bbc-a9c1-4a01-886b-0ba483e3428b",
+      "title": "Senior Full-Stack Engineer - Mental Health Care",
+      "url": "https://remotejobs.org/remote-jobs/senior-full-stack-engineer-mental-health-care-truelogic-95d90e5694d74ceb80539bdf7cbaf5a1",
+      "apply_url": "https://remotejobs.org/remote-jobs/senior-full-stack-engineer-mental-health-care-truelogic-95d90e5694d74ceb80539bdf7cbaf5a1",
+      "company": {
+        "name": "Truelogic",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/2bc30cf616bdb3e327981ebbdabc39dda60953ebc503d060766006aaaada3b5d.png",
+        "website": "https://truelogic.io",
+        "url": "https://remotejobs.org/companies/truelogic"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "Bogota",
+      "location_normalization": {
+        "raw": "Bogota",
+        "input": {
+          "workArrangement": "hybrid"
+        },
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [
+          "bogota"
+        ],
+        "work_arrangement": "hybrid",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-sonnet-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": "senior",
+        "role_family": "software-engineering",
+        "required_skills": [],
+        "mentioned_skills": [
+          "aws",
+          "kubernetes"
+        ],
+        "preferred_skills": [
+          "java",
+          "python",
+          "react"
+        ],
+        "experience_requirements": []
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "15b875a6-468d-47f5-8621-0aa03a1ab691",
+      "direct_apply": null,
+      "description": "<h2><strong>About Truelogic</strong></h2><p>At Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals.</p><p>Our team of 600+ highly skilled tech professionals, based in Latin America, drives digital disruption by partnering with U.S. companies on their most impactful projects. Whether collaborating with Fortune 500 giants or scaling startups, we deliver results that make a difference.</p><p>By applying for this position, you’re taking the first step in joining a dynamic team that values your expertise and aspirations. We aim to align your skills with opportunities that foster exceptional career growth and success while contributing to transformative projects that shape the future.</p><h2><strong>Our Client</strong></h2><p>Our client is a national provider of pediatric mental health for kids, teens, young adults, and their families. They believe whole-family mental health starts with a strong foundation of resilience to cope with whatever life blows your way. </p><p>They are revolutionizing the treatment of mental health conditions for kids and teens through a novel data-driven technology platform and evidence-based collaborative care model that enables the first scalable and integrated care solution in mental health. Through coaching, therapy and reduced time to evaluation and treatment by licensed pediatric psychiatry experts, our approach achieves better outcomes and results in happier, healthier kids and teens, while ensuring stigma, cost, and logistics are no longer barriers to care.</p><p><br><strong>Job Summary</strong></p><p>The role sits within an AI transformation initiative that supports teams outside the technology organization and finds ways to improve their workflows with AI. Our client is also integrating and re-architecting parts of its platform, so the engineering org is busy and growing. The project duration is for 6 months.</p><p>• Reports to: the engineering manager leading this new team, with a Director of Engineering as executive sponsor.</p><p>• How work is chosen: the business generates a large list of AI opportunities. Management and stakeholders prioritize them, and the engineer receives a high-level project.</p><p>• How work is done: the engineer meets the stakeholders, works out what needs to be built, designs the architecture, builds it, and reports progress to engineering on a daily or weekly basis.</p><p>• Project size: varies widely. Some projects take about a week, others about two months. Some are solo, some are paired with another engineer. The engineer moves between teams and projects rather than owning one product for years.</p><p>• Solutions vary: an autonomous agent, a web application that connects internal tools, or a microservice. Not every solution includes an LLM; sometimes AI is used in the coding workflow to prototype quickly so users can give feedback early.</p><p>• Support: the manager acts as a sounding board, and a platform team supports production deployment.</p><h3><strong>Responsibilities</strong></h3><ul><li><p>Work directly with stakeholders outside engineering to understand their workflows and identify where AI can help.</p></li><li><p>Design the architecture of each solution yourself and own it from start to finish: application, infrastructure, tooling and deployment.</p></li><li><p>Build and ship AI-enabled internal tools, including integrations between existing systems and, where it fits, LLM-powered features or agents.</p></li><li><p>Use AI coding tools to prototype fast, put working versions in front of users, and iterate on their feedback.</p></li><li><p>Explain technical decisions and progress in plain language to non-technical stakeholders.</p></li><li><p>Report progress to engineering management on a daily or weekly basis and flag gaps early.</p></li><li><p>Set up and run your own environments locally, and work with the platform team to take solutions to production.</p></li><li><p>Follow our clients' existing data privacy, security, and governance controls for every solution.</p></li></ul><h3><strong>Qualifications and Job Requirements</strong></h3><ul><li><p>Senior-level, strong full-stack engineer who can design and build an application end to end. (Java or Python, and React preferred)</p></li><li><p>Excellent communication and stakeholder management. The engineer talks to business stakeholders every day and must translate technical work into terms non-technical people can follow. The client will not be lenient here.</p></li><li><p>Product sense: can visualize a product, understand what a stakeholder really needs, and propose a fitting solution without a ticket or spec.</p></li><li><p>Genuine enthusiasm for AI and a daily AI-first workflow. If you are not excited about AI, this is not the role.</p></li><li><p>Experience integrating LLMs into applications, or strong full-stack experience plus relevant AI prototypes. Production LLM experience is not mandatory.</p></li><li><p>Autonomy: comfortable owning architecture, infrastructure and tooling for a project, and reporting progress without being managed task by task.</p></li><li><p>Basic infrastructure comfort: can spin up services (containers, Kubernetes, AWS) on a local machine and work with a platform team to move them to production.</p></li><li><p>Passes our client AI transformation assignment, including a recorded video.</p></li></ul><h3><strong>What We Offer</strong></h3><ul><li><p>100% Remote Work: Enjoy the freedom to work from the location that helps you thrive. All it takes is a laptop and a reliable internet connection.</p></li><li><p>Highly Competitive USD Pay: Earn an excellent, market-leading compensation in USD, that goes beyond typical market offerings.</p></li><li><p>Paid Time Off: We value your well-being. Our paid time off policies ensure you have the chance to unwind and recharge when needed.</p></li><li><p>Work with Autonomy: Enjoy the freedom to manage your time as long as the work gets done. Focus on results, not the clock.</p></li><li><p>Work with Top American Companies: Grow your expertise working on innovative, high-impact projects with Industry-Leading U.S. Companies.</p></li></ul><h3><strong>Why You’ll Like Working Here</strong></h3><ul><li><p>A Culture That Values You: We prioritize well-being and work-life balance, offering engagement activities and fostering dynamic teams to ensure you thrive both personally and professionally.</p></li><li><p>Diverse, Global Network: Connect with over 600 professionals in 25+ countries, expand your network, and collaborate with a multicultural team from Latin America.</p></li><li><p>Team Up with Skilled Professionals: Join forces with senior talent. All of our team members are seasoned experts, ensuring you're working with the best in your field.</p></li></ul><p>Apply now!</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-full-stack-engineer-mental-health-care-truelogic-95d90e5694d74ceb80539bdf7cbaf5a1</p>",
+      "posted_at": "2026-10-15T19:17:42.778+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "25c86431-c4fd-49f1-9812-f6f43c60ce30",
+      "title": "Senior Full-Stack Engineer - Mental Health Care",
+      "url": "https://remotejobs.org/remote-jobs/senior-full-stack-engineer-mental-health-care-truelogic",
+      "apply_url": "https://remotejobs.org/remote-jobs/senior-full-stack-engineer-mental-health-care-truelogic",
+      "company": {
+        "name": "Truelogic",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/2bc30cf616bdb3e327981ebbdabc39dda60953ebc503d060766006aaaada3b5d.png",
+        "website": "https://truelogic.io",
+        "url": "https://remotejobs.org/companies/truelogic"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "Brazil",
+      "location_normalization": {
+        "raw": "Brazil",
+        "input": {
+          "workArrangement": "remote"
+        },
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "BR"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "BR"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-sonnet-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": "senior",
+        "role_family": "software-engineering",
+        "required_skills": [],
+        "mentioned_skills": [
+          "aws",
+          "kubernetes"
+        ],
+        "preferred_skills": [
+          "java",
+          "python",
+          "react"
+        ],
+        "experience_requirements": []
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "f5aacc92-9769-4a6f-b93f-5a0a8a52c453",
+      "direct_apply": null,
+      "description": "<h2><strong>About Truelogic</strong></h2><p>At Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals.</p><p>Our team of 600+ highly skilled tech professionals, based in Latin America, drives digital disruption by partnering with U.S. companies on their most impactful projects. Whether collaborating with Fortune 500 giants or scaling startups, we deliver results that make a difference.</p><p>By applying for this position, you’re taking the first step in joining a dynamic team that values your expertise and aspirations. We aim to align your skills with opportunities that foster exceptional career growth and success while contributing to transformative projects that shape the future.</p><h2><strong>Our Client</strong></h2><p>Our client is a national provider of pediatric mental health for kids, teens, young adults, and their families. They believe whole-family mental health starts with a strong foundation of resilience to cope with whatever life blows your way. </p><p>They are revolutionizing the treatment of mental health conditions for kids and teens through a novel data-driven technology platform and evidence-based collaborative care model that enables the first scalable and integrated care solution in mental health. Through coaching, therapy and reduced time to evaluation and treatment by licensed pediatric psychiatry experts, our approach achieves better outcomes and results in happier, healthier kids and teens, while ensuring stigma, cost, and logistics are no longer barriers to care.</p><p><br><strong>Job Summary</strong></p><p>The role sits within an AI transformation initiative that supports teams outside the technology organization and finds ways to improve their workflows with AI. Our client is also integrating and re-architecting parts of its platform, so the engineering org is busy and growing. The project duration is for 6 months.</p><p>• Reports to: the engineering manager leading this new team, with a Director of Engineering as executive sponsor.</p><p>• How work is chosen: the business generates a large list of AI opportunities. Management and stakeholders prioritize them, and the engineer receives a high-level project.</p><p>• How work is done: the engineer meets the stakeholders, works out what needs to be built, designs the architecture, builds it, and reports progress to engineering on a daily or weekly basis.</p><p>• Project size: varies widely. Some projects take about a week, others about two months. Some are solo, some are paired with another engineer. The engineer moves between teams and projects rather than owning one product for years.</p><p>• Solutions vary: an autonomous agent, a web application that connects internal tools, or a microservice. Not every solution includes an LLM; sometimes AI is used in the coding workflow to prototype quickly so users can give feedback early.</p><p>• Support: the manager acts as a sounding board, and a platform team supports production deployment.</p><h3><strong>Responsibilities</strong></h3><ul><li><p>Work directly with stakeholders outside engineering to understand their workflows and identify where AI can help.</p></li><li><p>Design the architecture of each solution yourself and own it from start to finish: application, infrastructure, tooling and deployment.</p></li><li><p>Build and ship AI-enabled internal tools, including integrations between existing systems and, where it fits, LLM-powered features or agents.</p></li><li><p>Use AI coding tools to prototype fast, put working versions in front of users, and iterate on their feedback.</p></li><li><p>Explain technical decisions and progress in plain language to non-technical stakeholders.</p></li><li><p>Report progress to engineering management on a daily or weekly basis and flag gaps early.</p></li><li><p>Set up and run your own environments locally, and work with the platform team to take solutions to production.</p></li><li><p>Follow our clients' existing data privacy, security, and governance controls for every solution.</p></li></ul><h3><strong>Qualifications and Job Requirements</strong></h3><ul><li><p>Senior-level, strong full-stack engineer who can design and build an application end to end. (Java or Python, and React preferred)</p></li><li><p>Excellent communication and stakeholder management. The engineer talks to business stakeholders every day and must translate technical work into terms non-technical people can follow. The client will not be lenient here.</p></li><li><p>Product sense: can visualize a product, understand what a stakeholder really needs, and propose a fitting solution without a ticket or spec.</p></li><li><p>Genuine enthusiasm for AI and a daily AI-first workflow. If you are not excited about AI, this is not the role.</p></li><li><p>Experience integrating LLMs into applications, or strong full-stack experience plus relevant AI prototypes. Production LLM experience is not mandatory.</p></li><li><p>Autonomy: comfortable owning architecture, infrastructure and tooling for a project, and reporting progress without being managed task by task.</p></li><li><p>Basic infrastructure comfort: can spin up services (containers, Kubernetes, AWS) on a local machine and work with a platform team to move them to production.</p></li><li><p>Passes our client AI transformation assignment, including a recorded video.</p></li></ul><h3><strong>What We Offer</strong></h3><ul><li><p>100% Remote Work: Enjoy the freedom to work from the location that helps you thrive. All it takes is a laptop and a reliable internet connection.</p></li><li><p>Highly Competitive USD Pay: Earn an excellent, market-leading compensation in USD, that goes beyond typical market offerings.</p></li><li><p>Paid Time Off: We value your well-being. Our paid time off policies ensure you have the chance to unwind and recharge when needed.</p></li><li><p>Work with Autonomy: Enjoy the freedom to manage your time as long as the work gets done. Focus on results, not the clock.</p></li><li><p>Work with Top American Companies: Grow your expertise working on innovative, high-impact projects with Industry-Leading U.S. Companies.</p></li></ul><h3><strong>Why You’ll Like Working Here</strong></h3><ul><li><p>A Culture That Values You: We prioritize well-being and work-life balance, offering engagement activities and fostering dynamic teams to ensure you thrive both personally and professionally.</p></li><li><p>Diverse, Global Network: Connect with over 600 professionals in 25+ countries, expand your network, and collaborate with a multicultural team from Latin America.</p></li><li><p>Team Up with Skilled Professionals: Join forces with senior talent. All of our team members are seasoned experts, ensuring you're working with the best in your field.</p></li></ul><p>Apply now!</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-full-stack-engineer-mental-health-care-truelogic</p>",
+      "posted_at": "2026-10-15T19:17:22.036+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "37ab4195-efc0-48ea-9868-86d7edbad905",
+      "title": "Senior Full-Stack Engineer - Mental Health Care",
+      "url": "https://remotejobs.org/remote-jobs/senior-full-stack-engineer-mental-health-care-truelogic-0376075c764c4315ad25dade5f64f0fa",
+      "apply_url": "https://remotejobs.org/remote-jobs/senior-full-stack-engineer-mental-health-care-truelogic-0376075c764c4315ad25dade5f64f0fa",
+      "company": {
+        "name": "Truelogic",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/2bc30cf616bdb3e327981ebbdabc39dda60953ebc503d060766006aaaada3b5d.png",
+        "website": "https://truelogic.io",
+        "url": "https://remotejobs.org/companies/truelogic"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "LatAm",
+      "location_normalization": {
+        "raw": "LatAm",
+        "input": {
+          "workArrangement": "remote"
+        },
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [
+          "latam"
+        ],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [
+          "latam"
+        ],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [
+          "The role's LatAm market is a broad region with no enumerated countries, so eligible applicant countries cannot be determined.",
+          "Unresolved area: location:1"
+        ],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [
+          "Latin America (LATAM)"
+        ],
+        "work_arrangement": "remote",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-sonnet-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": "senior",
+        "role_family": "software-engineering",
+        "required_skills": [],
+        "mentioned_skills": [
+          "aws",
+          "kubernetes"
+        ],
+        "preferred_skills": [
+          "java",
+          "python",
+          "react"
+        ],
+        "experience_requirements": []
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "d2565bee-0576-4aee-b9e2-c51e4c85a905",
+      "direct_apply": null,
+      "description": "<h2><strong>About Truelogic</strong></h2><p>At Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals.</p><p>Our team of 600+ highly skilled tech professionals, based in Latin America, drives digital disruption by partnering with U.S. companies on their most impactful projects. Whether collaborating with Fortune 500 giants or scaling startups, we deliver results that make a difference.</p><p>By applying for this position, you’re taking the first step in joining a dynamic team that values your expertise and aspirations. We aim to align your skills with opportunities that foster exceptional career growth and success while contributing to transformative projects that shape the future.</p><h2><strong>Our Client</strong></h2><p>Our client is a national provider of pediatric mental health for kids, teens, young adults, and their families. They believe whole-family mental health starts with a strong foundation of resilience to cope with whatever life blows your way. </p><p>They are revolutionizing the treatment of mental health conditions for kids and teens through a novel data-driven technology platform and evidence-based collaborative care model that enables the first scalable and integrated care solution in mental health. Through coaching, therapy and reduced time to evaluation and treatment by licensed pediatric psychiatry experts, our approach achieves better outcomes and results in happier, healthier kids and teens, while ensuring stigma, cost, and logistics are no longer barriers to care.</p><p><br><strong>Job Summary</strong></p><p>The role sits within an AI transformation initiative that supports teams outside the technology organization and finds ways to improve their workflows with AI. Our client is also integrating and re-architecting parts of its platform, so the engineering org is busy and growing. The project duration is for 6 months.</p><p>• Reports to: the engineering manager leading this new team, with a Director of Engineering as executive sponsor.</p><p>• How work is chosen: the business generates a large list of AI opportunities. Management and stakeholders prioritize them, and the engineer receives a high-level project.</p><p>• How work is done: the engineer meets the stakeholders, works out what needs to be built, designs the architecture, builds it, and reports progress to engineering on a daily or weekly basis.</p><p>• Project size: varies widely. Some projects take about a week, others about two months. Some are solo, some are paired with another engineer. The engineer moves between teams and projects rather than owning one product for years.</p><p>• Solutions vary: an autonomous agent, a web application that connects internal tools, or a microservice. Not every solution includes an LLM; sometimes AI is used in the coding workflow to prototype quickly so users can give feedback early.</p><p>• Support: the manager acts as a sounding board, and a platform team supports production deployment.</p><h3><strong>Responsibilities</strong></h3><ul><li><p>Work directly with stakeholders outside engineering to understand their workflows and identify where AI can help.</p></li><li><p>Design the architecture of each solution yourself and own it from start to finish: application, infrastructure, tooling and deployment.</p></li><li><p>Build and ship AI-enabled internal tools, including integrations between existing systems and, where it fits, LLM-powered features or agents.</p></li><li><p>Use AI coding tools to prototype fast, put working versions in front of users, and iterate on their feedback.</p></li><li><p>Explain technical decisions and progress in plain language to non-technical stakeholders.</p></li><li><p>Report progress to engineering management on a daily or weekly basis and flag gaps early.</p></li><li><p>Set up and run your own environments locally, and work with the platform team to take solutions to production.</p></li><li><p>Follow our clients' existing data privacy, security, and governance controls for every solution.</p></li></ul><h3><strong>Qualifications and Job Requirements</strong></h3><ul><li><p>Senior-level, strong full-stack engineer who can design and build an application end to end. (Java or Python, and React preferred)</p></li><li><p>Excellent communication and stakeholder management. The engineer talks to business stakeholders every day and must translate technical work into terms non-technical people can follow. The client will not be lenient here.</p></li><li><p>Product sense: can visualize a product, understand what a stakeholder really needs, and propose a fitting solution without a ticket or spec.</p></li><li><p>Genuine enthusiasm for AI and a daily AI-first workflow. If you are not excited about AI, this is not the role.</p></li><li><p>Experience integrating LLMs into applications, or strong full-stack experience plus relevant AI prototypes. Production LLM experience is not mandatory.</p></li><li><p>Autonomy: comfortable owning architecture, infrastructure and tooling for a project, and reporting progress without being managed task by task.</p></li><li><p>Basic infrastructure comfort: can spin up services (containers, Kubernetes, AWS) on a local machine and work with a platform team to move them to production.</p></li><li><p>Passes our client AI transformation assignment, including a recorded video.</p></li></ul><h3><strong>What We Offer</strong></h3><ul><li><p>100% Remote Work: Enjoy the freedom to work from the location that helps you thrive. All it takes is a laptop and a reliable internet connection.</p></li><li><p>Highly Competitive USD Pay: Earn an excellent, market-leading compensation in USD, that goes beyond typical market offerings.</p></li><li><p>Paid Time Off: We value your well-being. Our paid time off policies ensure you have the chance to unwind and recharge when needed.</p></li><li><p>Work with Autonomy: Enjoy the freedom to manage your time as long as the work gets done. Focus on results, not the clock.</p></li><li><p>Work with Top American Companies: Grow your expertise working on innovative, high-impact projects with Industry-Leading U.S. Companies.</p></li></ul><h3><strong>Why You’ll Like Working Here</strong></h3><ul><li><p>A Culture That Values You: We prioritize well-being and work-life balance, offering engagement activities and fostering dynamic teams to ensure you thrive both personally and professionally.</p></li><li><p>Diverse, Global Network: Connect with over 600 professionals in 25+ countries, expand your network, and collaborate with a multicultural team from Latin America.</p></li><li><p>Team Up with Skilled Professionals: Join forces with senior talent. All of our team members are seasoned experts, ensuring you're working with the best in your field.</p></li></ul><p>Apply now!</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-full-stack-engineer-mental-health-care-truelogic-0376075c764c4315ad25dade5f64f0fa</p>",
+      "posted_at": "2026-10-15T19:17:06.547+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
     {
       "id": "66218276-9718-4425-942d-76cb9c8157eb",
       "title": "Engineering Manager",
@@ -1108,10 +1388,10 @@
       ],
       "employer_job_id": null,
       "direct_apply": null,
-      "description": "<h2><strong>Company Overview</strong></h2><p>At Motorola Solutions, we believe that everything starts with our people. We’re a global close-knit community, united by the relentless pursuit to help keep people safer everywhere. We build and connect technologies to help protect people, property and places. Our solutions foster the collaboration that’s critical for safer communities, safer schools, safer hospitals, safer businesses, and ultimately, safer nations. Connect with a career that matters, and help us build a safer future.</p><h2>Aperçu de l’entreprise</h2><p>Chez Motorola Solutions, nous pensons que tout commence par nos employés. Nous sommes une communauté mondiale soudée, unie par la volonté incessante de contribuer à la sécurité des personnes partout dans le monde. Nous concevons et connectons des technologies qui contribuent à protéger les personnes, les biens et les infrastructures. Nos solutions favorisent la collaboration essentielle pour améliorer la sécurité des populations, des écoles, des hôpitaux, des entreprises et, finalement, des nations. Connectez-vous à une carrière qui compte et aidez-nous à bâtir un avenir plus sûr.</p><h2>\n<br><strong>Department Overview</strong>\n</h2><p>Hyper, a Motorola Solutions Company, a leader in conversational, agentic AI designed to reduce the burden on understaffed public safety answering points (PSAPs) by handling non-emergency calls. It is revolutionizing emergency response systems through cutting-edge AI technologies. Our first product is reducing 911 wait times by alleviating administrative work from highly trained 911 telecommunicators.</p><h2>\n<br>Job Description</h2><p>We’re looking for a Sr Software Engineer to set technical direction for the AI Agent Platform team behind Hyper’s emergency response products (Motorola Solutions announced that it acquired Hyper on April 9, 2026).</p><p>You’ll be a senior technical leader responsible for the architecture of our most critical systems. You’ll shape long-term technical strategy, mentor engineers across the team, and own the toughest cross-cutting problems — from real-time AI pipelines and telephony to backend infrastructure and product surfaces. We expect engineers to use AI agents in their own work. But because this is mission-critical software, humans still own quality, judgment, and what ships — and as a Sr Engineer, you set the bar for what “good” looks like.</p><h2>What You’ll Do</h2><ul>\n<li><p>Lead the design and operation of real-time voice AI systems that support human 911 telecommunicators at scale.</p></li>\n<li><p>Identify and solve the hardest problems in our stack: low-latency audio, streaming, telephony, LLM orchestration, and human-in-the-loop AI workflows.</p></li>\n<li><p>Drive engineering excellence across reliability, availability, security, and performance — defining the standards the team operates by.</p></li>\n<li><p>Partner with product, design, and operations leadership to translate ambiguous customer and operational problems into technical strategy.</p></li>\n<li><p>Mentor engineers; raise the floor and the ceiling of the team’s technical work through reviews, design feedback, and pairing.</p></li>\n<li><p>Build and evolve evaluation, testing, and observability frameworks for AI-assisted systems.</p></li>\n<li><p>Lead incident response and post-incident reviews; own runbook quality and on-call health for the systems the team is responsible for.</p></li>\n<li><p>Represent engineering in conversations with public safety customers, partners, and Motorola Solutions stakeholders when deep technical credibility is required.</p></li>\n</ul><h2>You Might Be a Fit If</h2><ul>\n<li><p>You have production software engineering experience, with a clear track record of technical leadership.</p></li>\n<li><p>You’ve designed, shipped, and operated large, complex systems in high-stakes domains</p></li>\n<li><p>You are comfortable working across backend, infrastructure, AI pipelines, and product surfaces.</p></li>\n<li><p>You can turn ambiguous product or operational problems into clear technical plans for the team.</p></li>\n<li><p>You use AI tools daily, but you set the standard for how your team uses them responsibly — speed without compromising quality.</p></li>\n<li><p>You raise the engineering bar around tests, observability, code review, security, and clean abstractions.</p></li>\n<li><p>You mentor effectively. Engineers around you get better because of how you work.</p></li>\n<li><p>You have strong product judgment and care deeply about the humans using what you build.</p></li>\n<li><p>You thrive in a small, fast-moving team with high ownership and low ego, and you can scale that culture as we grow.</p></li>\n<li><p>You want to work on AI systems that matter beyond demos.</p></li>\n</ul><h2>Relevant Experience</h2><p>We do not expect every candidate to have all of these. We care more about strong engineering judgment, learning velocity, and ownership than exact keyword matches.</p><h2>Relevant experience may include:</h2><ul>\n<li><p>Architecting LLM, agentic, or RAG systems in production, including evals and prompt test harnesses at scale.</p></li>\n<li><p>Deep expertise in Speech-to-Text, Text-to-Speech, Voice Activity Detection, endpointing, interruption handling, noise filtering, diarization, or audio streaming.</p></li>\n<li><p>Telephony and voice infrastructure: PSTN, SIP trunking, PBX, and call routing.</p></li>\n<li><p>Real-time communication systems using WebRTC, WebSockets, RTP/SRTP, media streaming, or low-latency audio transport — including operating these systems under production load.</p></li>\n<li><p>Real-time, concurrent, or distributed systems using Elixir, Go, Python, Rust or similar languages.</p></li>\n<li><p>PostgreSQL and strong data modeling fundamentals at scale.</p></li>\n<li><p>Cloud infrastructure on AWS, Azure, or GCP.</p></li>\n<li><p>Containerized application environments operated in production.</p></li>\n<li><p>Technical leadership in public safety, govtech, healthcare, defense, infrastructure, fintech, or other high-trust domains.</p></li>\n</ul><h2>\n<br>Basic Requirements</h2><p>7+ years of experience in Realtime communication systems with deep expertise in Speech-to-Text, Text-to-Speech, Voice Activity Detection and architecting LLM, agentic, or RAG systems in production, including evals and prompt test harnesses at scale.</p><h2>\n<br>Travel Requirements</h2><p>Under 10%</p><h2>\n<br>Relocation Provided</h2><p>None</p><h2>\n<br>Position Type</h2><p>Experienced</p><h2>\n<br>Referral Payment Plan</h2><p>Yes</p><p><br><em><strong>EEO Statement</strong></em></p><p>Motorola Solutions is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion or belief, sex, sexual orientation, gender identity, national origin, disability, veteran status or any other legally-protected characteristic. </p><p>We are proud of our people-first and community-focused culture, empowering every Motorolan to be their most authentic self and to do their best work to deliver on the promise of a safer world. If you’d like to join our team but feel that you don’t quite meet all of the preferred skills, we’d still love to hear why you think you’d be a great addition to our team.</p><p>We’re committed to providing an inclusive and accessible recruiting experience for candidates with disabilities, or other physical or mental health conditions. To request an accommodation, please complete this Reasonable Accommodations Form so we can assist you.</p><p>Motorola Solutions adopte, favorise et promeut les principes de diversité, d’équité et d’inclusion. Nous encourageons et accueillons les candidatures de toutes les personnes qualifiées, quelles que soient leur race, origines ethnique, religion ou croyance, orientation sexuelle, identité et expression sexuelle, statut d’anciens combattants ou tout autre statut protégé par la Loi.</p><p>Nous sommes fiers de notre culture axée sur les personnes et les communautés, encourageant ainsi chaque Motorolan d’être la version la plus authentique de lui-même dans ses responsabilités afin de tenir la promesse d’un monde plus sécuritaire.</p><p>Si vous souhaitez vous joindre à notre communauté mais croyez que vous ne possédez pas toutes les exigences requises pour le poste convoité, nous aimerions tout de même connaître les raisons pour lesquelles vous pensez être un excellent candidat pour notre équipe.</p><p>Nous offrons également des mesures d’adaptation pendant toutes les étapes du processus d’embauche afin de favoriser l’inclusion des personnes vivant avec un  handicap physique et/ou mental. Pour demander un aménagement, veuillez remplir ce formulaire d'aménagement raisonnable afin que nous puissions vous aider.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/sr-software-engineer-ai-agent-platform-motorola-solutions</p>",
+      "description": "<h2><strong>Company Overview</strong></h2><p>At Motorola Solutions, we believe that everything starts with our people. We’re a global close-knit community, united by the relentless pursuit to help keep people safer everywhere. We build and connect technologies to help protect people, property and places. Our solutions foster the collaboration that’s critical for safer communities, safer schools, safer hospitals, safer businesses, and ultimately, safer nations. Connect with a career that matters, and help us build a safer future.</p><h2>Aperçu de l’entreprise</h2><p>Chez Motorola Solutions, we believe that everything starts with our employees. We are a united global community, united by the relentless desire to contribute to the safety of people everywhere in the world. We design and connect technologies that help protect people, assets and infrastructure. Our solutions foster the essential collaboration to improve the safety of populations, schools, hospitals, businesses and, ultimately, nations. Connect to a career that matters and help us build a safer future.</p><h2>\n<br><strong>Department Overview</strong>\n</h2><p>Hyper, a Motorola Solutions Company, a leader in conversational, agentic AI designed to reduce the burden on understaffed public safety answering points (PSAPs) by handling non-emergency calls. It is revolutionizing emergency response systems through cutting-edge AI technologies. Our first product is reducing 911 wait times by alleviating administrative work from highly trained 911 telecommunicators.</p><h2>\n<br>Job Description</h2><p>We’re looking for a Sr Software Engineer to set technical direction for the AI Agent Platform team behind Hyper’s emergency response products (Motorola Solutions announced that it acquired Hyper on April 9, 2026).</p><p>You’ll be a senior technical leader responsible for the architecture of our most critical systems. You’ll shape long-term technical strategy, mentor engineers across the team, and own the toughest cross-cutting problems — from real-time AI pipelines and telephony to backend infrastructure and product surfaces. We expect engineers to use AI agents in their own work. But because this is mission-critical software, humans still own quality, judgment, and what ships — and as a Sr Engineer, you set the bar for what “good” looks like.</p><h2>What You’ll Do</h2><ul>\n<li><p>Lead the design and operation of real-time voice AI systems that support human 911 telecommunicators at scale.</p></li>\n<li><p>Identify and solve the hardest problems in our stack: low-latency audio, streaming, telephony, LLM orchestration, and human-in-the-loop AI workflows.</p></li>\n<li><p>Drive engineering excellence across reliability, availability, security, and performance — defining the standards the team operates by.</p></li>\n<li><p>Partner with product, design, and operations leadership to translate ambiguous customer and operational problems into technical strategy.</p></li>\n<li><p>Mentor engineers; raise the floor and the ceiling of the team’s technical work through reviews, design feedback, and pairing.</p></li>\n<li><p>Build and evolve evaluation, testing, and observability frameworks for AI-assisted systems.</p></li>\n<li><p>Lead incident response and post-incident reviews; own runbook quality and on-call health for the systems the team is responsible for.</p></li>\n<li><p>Represent engineering in conversations with public safety customers, partners, and Motorola Solutions stakeholders when deep technical credibility is required.</p></li>\n</ul><h2>You Might Be a Fit If</h2><ul>\n<li><p>You have production software engineering experience, with a clear track record of technical leadership.</p></li>\n<li><p>You’ve designed, shipped, and operated large, complex systems in high-stakes domains</p></li>\n<li><p>You are comfortable working across backend, infrastructure, AI pipelines, and product surfaces.</p></li>\n<li><p>You can turn ambiguous product or operational problems into clear technical plans for the team.</p></li>\n<li><p>You use AI tools daily, but you set the standard for how your team uses them responsibly — speed without compromising quality.</p></li>\n<li><p>You raise the engineering bar around tests, observability, code review, security, and clean abstractions.</p></li>\n<li><p>You mentor effectively. Engineers around you get better because of how you work.</p></li>\n<li><p>You have strong product judgment and care deeply about the humans using what you build.</p></li>\n<li><p>You thrive in a small, fast-moving team with high ownership and low ego, and you can scale that culture as we grow.</p></li>\n<li><p>You want to work on AI systems that matter beyond demos.</p></li>\n</ul><h2>Relevant Experience</h2><p>We do not expect every candidate to have all of these. We care more about strong engineering judgment, learning velocity, and ownership than exact keyword matches.</p><h2>Relevant experience may include:</h2><ul>\n<li><p>Architecting LLM, agentic, or RAG systems in production, including evals and prompt test harnesses at scale.</p></li>\n<li><p>Deep expertise in Speech-to-Text, Text-to-Speech, Voice Activity Detection, endpointing, interruption handling, noise filtering, diarization, or audio streaming.</p></li>\n<li><p>Telephony and voice infrastructure: PSTN, SIP trunking, PBX, and call routing.</p></li>\n<li><p>Real-time communication systems using WebRTC, WebSockets, RTP/SRTP, media streaming, or low-latency audio transport — including operating these systems under production load.</p></li>\n<li><p>Real-time, concurrent, or distributed systems using Elixir, Go, Python, Rust or similar languages.</p></li>\n<li><p>PostgreSQL and strong data modeling fundamentals at scale.</p></li>\n<li><p>Cloud infrastructure on AWS, Azure, or GCP.</p></li>\n<li><p>Containerized application environments operated in production.</p></li>\n<li><p>Technical leadership in public safety, govtech, healthcare, defense, infrastructure, fintech, or other high-trust domains.</p></li>\n</ul><h2>\n<br>Basic Requirements</h2><p>7+ years of experience in Realtime communication systems with deep expertise in Speech-to-Text, Text-to-Speech, Voice Activity Detection and architecting LLM, agentic, or RAG systems in production, including evals and prompt test harnesses at scale.</p><h2>\n<br>Travel Requirements</h2><p>Under 10%</p><h2>\n<br>Relocation Provided</h2><p>None</p><h2>\n<br>Position Type</h2><p>Experienced</p><h2>\n<br>Referral Payment Plan</h2><p>Yes</p><p><br><em><strong>EEO Statement</strong></em></p><p>Motorola Solutions is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion or belief, sex, sexual orientation, gender identity, national origin, disability, veteran status or any other legally-protected characteristic. </p><p>We are proud of our people-first and community-focused culture, empowering every Motorolan to be their most authentic self and to do their best work to deliver on the promise of a safer world. If you’d like to join our team but feel that you don’t quite meet all of the preferred skills, we’d still love to hear why you think you’d be a great addition to our team.</p><p>We’re committed to providing an inclusive and accessible recruiting experience for candidates with disabilities, or other physical or mental health conditions. To request an accommodation, please complete this Reasonable Accommodations Form so we can assist you.</p><p>Motorola Solutions adopts, fosters and promotes the principles of diversity, equity and inclusion. We encourage and welcome applications from all qualified individuals, regardless of their race, ethnic origin, religion or belief, sexual orientation, gender identity and expression, veteran status or any other status protected by Law.</p><p>We are proud of our people and community-focused culture, encouraging each Motorolan to be the most authentic version of themselves in their responsibilities in order to keep the promise of a safer world.</p><p>If you wish to join our community but believe you do not possess all the requirements for the position you are seeking, we would still like to know the reasons why you think you would be an excellent candidate for our team.</p><p>We also offer accommodations during all stages of the hiring process to promote the inclusion of people living with physical and/or mental disabilities. To request an accommodation, please complete this reasonable accommodation form so that we can assist you.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/sr-software-engineer-ai-agent-platform-motorola-solutions</p>",
       "posted_at": "2026-10-15T12:27:39+00:00",
-      "is_translated": false,
-      "original_language": null
+      "is_translated": true,
+      "original_language": "fr"
     },
     {
       "id": "50020fd9-9ece-4c88-b392-e37ce122d4fe",
@@ -4365,296 +4645,6 @@
       "direct_apply": null,
       "description": "<h2>Overview</h2>\n<p>Help lead the way in developing advanced image analysis solutions for the defense and intelligence community. You see the big picture, understand how subsystems fit together, and enjoy mentoring others. You will design, test, document, and deploy innovative software solutions for the defense and intelligence communities that apply scientific principles in photogrammetry, remote sensing, and AI into innovative geospatial software capabilities. You thrive on defining critical functionality, shaping user experiences, and ensuring quality at every stage.</p>\n<h2>Responsibilities</h2>\n<ul>\n<li>Design, document, and test industry leading software solutions for imagery products supporting common defense and intelligence formats such as NITF, GeoTIFF, CADRG and MISB compliant video (FMV)</li>\n<li>Collaborate with software developers to integrate and test community analytical toolkits and libraries into ArcGIS</li>\n<li>Orchestrate and document results from defense and intelligence holistic lab testing</li>\n<li>Collaborate with software developers on software project teams designing and building new software and planning for future releases</li>\n<li>Define, document, and prioritize user requirements and develop best practices for using GIS software in various real-world remote sensing scenarios</li>\n<li>Potentially lead the design, development, and documentation of automated QA plans and tests (Standard Operating Procedures (SOPs), image quality metric evaluations and regression testing)</li>\n</ul>\n<h2>Requirements</h2>\n<ul>\n<li>5+ years of engineering experience working on COTS or GOTS software products</li>\n<li>Advanced experience in remote sensing, image processing, photogrammetry, or image analysis</li>\n<li>Proven ability to lead major testing or design efforts and mentor others</li>\n<li>Strong skills in preparing and automating test strategies and cases</li>\n<li>Experience managing project timelines and dependencies</li>\n<li>Excellent written and verbal communication skills</li>\n<li>Able to work with controlled unclassified information (CUI)</li>\n<li>Bachelor’s degree in geography, engineering, remote sensing, photogrammetry, or a related field</li>\n<li>U.S. citizenship with the ability to obtain a U.S. Top Secret clearance with SCI access</li>\n</ul>\n<h2>Recommended Qualifications</h2>\n<ul>\n<li>Master’s degree in geography, engineering, remote sensing, photogrammetry, or a related field</li>\n<li>Experience in the defense and/or intelligence communities</li>\n<li>Proficiency in modern programming languages (Python, C#, etc.) for validation and sample development</li>\n<li>Familiarity with NITF format and multiple image modalities</li>\n<li>Experience with ArcGIS Pro, ENVI, Socet GXP, Erdas, or RemoteView</li>\n<li>Experience as a Scrum Master or project lead</li>\n</ul>\n<h2>Total Rewards</h2>\n<p>Esri’s competitive total rewards strategy includes industry-leading health and welfare benefits: medical, dental, vision, basic and supplemental life insurance for employees (and their families), 401(k) and profit-sharing programs, minimum accrual of 80 hours of vacation leave, twelve paid holidays throughout the calendar year, and opportunities for personal and professional growth. Base salary is one component of our total rewards strategy. Compensation decisions and the base range for this role take into account many factors including but not limited to skill sets; experience and training; licensure and certifications; and other business and organizational needs.</p>\n<p>A reasonable estimate of the base salary range is</p>\n<p>$93,600—$159,328 USD</p>\n<h2>The Company</h2>\n<p>At Esri, diversity is more than just a word on a map. When employees of different experiences, perspectives, backgrounds, and cultures come together, we are more innovative and ultimately a better place to work. We believe in having a diverse workforce that is unified under our mission of creating positive global change. We understand that diversity, equity, and inclusion is not a destination but an ongoing process. We are committed to the continuation of learning, growing, and changing our workplace so every employee can contribute to their life’s best work. Our commitment to these principles extends to the global communities we serve by creating positive change with GIS technology. For more information on Esri’s Racial Equity and Social Justice initiatives, please visit our website here.</p>\n<p><strong>If you don’t meet all of the preferred qualifications for this position, we encourage you to still apply!</strong></p>\n<p>Esri is an equal opportunity employer (EOE) and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, or any other characteristic protected by law. If you need reasonable accommodation for any part of the employment process, please email and let us know the nature of your request and your contact information. Please note that only those inquiries concerning a request for reasonable accommodation will be responded to from this e-mail address.</p>\n<p>Esri Privacy Esri takes our responsibility to protect your privacy seriously. We are committed to respecting your privacy by providing transparency in how we acquire and use your information, giving you control of your information and preferences, and holding ourselves to the highest national and international standards, including CCPA and GDPR compliance.</p>\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/sr-product-engineer-national-imagery-esri</p>",
       "posted_at": "2026-10-14T20:56:25+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "6a04a5ca-d5c8-4763-b337-cfa6d23568a2",
-      "title": "Angular Developer",
-      "url": "https://remotejobs.org/remote-jobs/angular-developer-bright-vision-technologies",
-      "apply_url": "https://remotejobs.org/remote-jobs/angular-developer-bright-vision-technologies",
-      "company": {
-        "name": "Bright Vision Technologies",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/f8d667262351dad5c9be7c05a72cb2b3edb13fa582bdc4af986fe358fc824c54.webp",
-        "website": "https://bright.com",
-        "url": "https://remotejobs.org/companies/bright-vision-technologies"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "United States",
-      "location_normalization": {
-        "raw": "United States",
-        "input": {},
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [],
-        "evidence_ids": [
-          "c2"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "remote",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-sonnet-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": null,
-        "role_family": null,
-        "required_skills": [
-          "angular",
-          "aws",
-          "docker",
-          "java",
-          "javascript",
-          "kubernetes",
-          "typescript"
-        ],
-        "mentioned_skills": [
-          "angular",
-          "aws",
-          "java",
-          "kubernetes",
-          "typescript"
-        ],
-        "preferred_skills": [],
-        "experience_requirements": []
-      },
-      "salary_min": 120000,
-      "salary_max": 180000,
-      "salary_text": "USD 120,000–180,000/year",
-      "salary_source_text": "USD 120000 - 180000",
-      "salary_currency": "USD",
-      "salary_period": "year",
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<p><strong>Angular Developer – Remote</strong><br><br><strong>Bright Vision Technologies</strong> is a technology consulting and software development company delivering cloud, AI, data, and enterprise solutions across the United States.<br><br>This is a fantastic opportunity to join an established and well-respected organization offering tremendous career growth potential.<br><br><strong>Job Title:</strong> Angular Developer (Java Backend)<br><strong>Location:</strong> 100% Remote (U.S.)<br><strong>Position Type:</strong> Full-time, Direct W2<br><strong>Salary Range:</strong> $120,000–$180,000 Annually<br><strong>Experience Required:</strong> 5+ years<br><br><strong>Sponsorship:</strong> U.S. Citizens, Green Card Holders, EAD Holders, and H-1B transfer candidates are encouraged to apply. We are unable to sponsor new H-1B visa petitions for this position.<br><br><strong>Job Summary</strong><br>We are seeking an experienced <strong>Angular Developer</strong> to build modern, enterprise-grade web applications that integrate with Java-based microservices and cloud-native platforms. This role focuses on developing highly responsive Single Page Applications (SPAs) using Angular while collaborating closely with Java backend teams building scalable Spring Boot services. The ideal candidate will possess deep expertise in Angular, TypeScript, and modern front-end development while understanding enterprise application architecture, RESTful services, security, and cloud deployment practices.<br>You will work alongside Java developers, solution architects, UX designers, DevOps engineers, QA teams, and product owners to deliver scalable, secure, and high-performing enterprise applications supporting financial services, healthcare, retail, insurance, and public sector clients.<br><br><strong>Key Responsibilities</strong></p><ul>\n<li>Design, develop, and maintain enterprise-grade Single Page Applications (SPAs) using Angular and TypeScript. </li>\n<li>Build reusable UI components, shared libraries, and modular front-end architectures following Angular best practices. </li>\n<li>Develop responsive web applications optimized for desktop, tablet, and mobile browsers. </li>\n<li>Integrate Angular applications with Java Spring Boot REST APIs, GraphQL services, and enterprise middleware platforms. </li>\n<li>Collaborate with UX/UI designers to transform Figma or Adobe XD designs into pixel-perfect, accessible interfaces. </li>\n<li>Implement secure authentication and authorization using OAuth2, OpenID Connect, JWT, Keycloak, Okta, or Azure Active Directory. </li>\n<li>Develop reactive applications using RxJS, Observables, Reactive Forms, and Angular Signals where applicable. </li>\n<li>Implement efficient client-side state management using NgRx, Akita, or Component Store. </li>\n<li>Optimize application performance through lazy loading, Ahead-of-Time (AOT) compilation, tree shaking, route preloading, and code splitting. </li>\n<li>Develop dashboards, reporting modules, and data visualization components using enterprise UI libraries. </li>\n<li>Write comprehensive unit tests, integration tests, and end-to-end tests to ensure application quality. </li>\n<li>Participate in architecture discussions, code reviews, sprint planning, and Agile development activities. </li>\n<li>Troubleshoot production issues, improve browser compatibility, and optimize front-end performance. </li>\n<li>Collaborate with DevOps teams to automate application deployments through CI/CD pipelines. </li>\n</ul><p><br><strong>Required Skills</strong></p><ul>\n<li>Five or more years of professional front-end software development experience. </li>\n<li>Four or more years of hands-on Angular development experience building enterprise applications. </li>\n<li>Strong proficiency in Angular 14+, TypeScript, JavaScript (ES6+), HTML5, CSS3, SCSS, and modern front-end development practices. </li>\n<li>Deep understanding of Angular architecture including Components, Modules, Services, Dependency Injection, Directives, Pipes, Routing, and Lifecycle Hooks. </li>\n<li>Strong experience with RxJS, Observables, Reactive Forms, Angular Signals, and asynchronous programming. </li>\n<li>Experience integrating Angular applications with Java Spring Boot REST APIs and GraphQL services. </li>\n<li>Familiarity with Java backend technologies including Spring Boot, Spring MVC, Spring Security, Spring Data JPA, and Microservices architecture. </li>\n<li>Experience implementing authentication using JWT, OAuth2, OpenID Connect, Keycloak, Azure AD, Okta, or Auth0. </li>\n<li>Hands-on experience with Angular Material, PrimeNG, Bootstrap, Tailwind CSS, or similar UI component libraries. </li>\n<li>Experience implementing state management using NgRx, Akita, or Component Store. </li>\n<li>Familiarity with Webpack, Angular CLI, npm, Yarn, Maven, and enterprise build pipelines. </li>\n<li>Experience working with Git, GitHub, GitLab, Bitbucket, or Azure DevOps. </li>\n<li>Experience with CI/CD platforms including Jenkins, GitHub Actions, Azure DevOps Pipelines, or GitLab CI. </li>\n<li>Strong debugging, browser profiling, and performance optimization skills using Chrome DevTools and Lighthouse. </li>\n<li>Experience working in Agile Scrum development environments. </li>\n</ul><p><br><strong>Preferred Qualifications</strong></p><ul>\n<li>Experience building enterprise applications using Java Spring Boot microservices architecture. </li>\n<li>Familiarity with Spring Cloud, API Gateway, Eureka, Config Server, and distributed system architectures. </li>\n<li>Experience implementing Micro Frontend architecture using Webpack Module Federation. </li>\n<li>Knowledge of Progressive Web Applications (PWA) and offline-first application development. </li>\n<li>Experience integrating real-time communication using WebSockets, STOMP, Kafka, or Server-Sent Events (SSE). </li>\n<li>Familiarity with cloud platforms including AWS, Microsoft Azure, or Google Cloud Platform. </li>\n<li>Experience with Docker, Kubernetes, OpenShift, and containerized deployments. </li>\n<li>Experience writing automated UI tests using Jasmine, Karma, Cypress, Playwright, or Selenium. </li>\n<li>Knowledge of OpenAPI (Swagger), GraphQL, API Gateway, and enterprise API management platforms. </li>\n<li>Experience contributing to enterprise design systems and reusable component libraries. </li>\n</ul><p><br><strong>Project Environment</strong><br>You will be joining an enterprise digital transformation team responsible for modernizing legacy Java applications into cloud-native Angular and Spring Boot platforms. Current initiatives include:</p><ul>\n<li>Enterprise customer self-service portals </li>\n<li>Banking and financial transaction management platforms </li>\n<li>Healthcare provider and patient engagement applications </li>\n<li>Insurance policy administration and claims management systems </li>\n<li>Enterprise workflow automation and case management solutions </li>\n<li>Cloud-native applications built with Angular and Java Spring Boot microservices </li>\n<li>Secure identity and access management integrated with Keycloak and OAuth2 </li>\n<li>Real-time dashboards, reporting platforms, and analytics portals </li>\n<li>Applications deployed on Kubernetes across AWS and Azure cloud environments </li>\n</ul><p>This is a hands-on engineering role where you will contribute to front-end architecture, UI development, Java API integration, testing, performance optimization, cloud deployments, and continuous enhancement of mission-critical enterprise applications.<br><br><strong>How to Apply</strong><br><br>Would you like to know more about this opportunity? For immediate consideration, please send your resume to <strong></strong> or contact us at <strong>(908) 676-4399</strong>. Learn more about Bright Vision Technologies at <strong></strong>.<br><br><strong>Bright Vision Technologies is an Equal Opportunity Employer.</strong><br></p><p>Equal Employment Opportunity (EEO) Statement</p><p>Bright Vision Technologies (BV Teck) is committed to equal employment opportunity (EEO) for all employees and applicants without regard to race, color, religion, sex, sexual orientation, gender identity or expression, national origin, age, genetic information, disability, veteran status, or any other protected status as defined by applicable federal, state, or local laws. This commitment extends to all aspects of employment, including recruitment, hiring, training, compensation, promotion, transfer, leaves of absence, termination, layoffs, and recall.</p><p>BV Teck expressly prohibits any form of workplace harassment or discrimination. Any improper interference with employees' ability to perform their job duties may result in disciplinary action up to and including termination of employment.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/angular-developer-bright-vision-technologies</p>",
-      "posted_at": "2026-10-14T20:55:27+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "3559f3ec-f736-40e3-8eea-c9704cd1d6e2",
-      "title": "ERP Architect | DISA-BA-FOA-JHB-0026",
-      "url": "https://remotejobs.org/remote-jobs/erp-architect-disa-ba-foa-jhb-0026-decision-inc",
-      "apply_url": "https://remotejobs.org/remote-jobs/erp-architect-disa-ba-foa-jhb-0026-decision-inc",
-      "company": {
-        "name": "Decision Inc.",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/4188e3c5206eab0921a61e8c104dd1e6aa9838bffaae0ac43faca1d2afa43054.webp",
-        "website": "https://decisioninc.com",
-        "url": "https://remotejobs.org/companies/decision-inc"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "South Africa",
-      "location_normalization": {
-        "raw": "South Africa",
-        "input": {},
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "ZA"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [],
-        "evidence_ids": [
-          "source-location"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "ZA"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-sonnet-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "unknown",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": null,
-        "role_family": null,
-        "required_skills": [],
-        "mentioned_skills": [],
-        "preferred_skills": [],
-        "experience_requirements": []
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": null,
-      "salary_period": "year",
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<h2>Who We Need – Functional Financial Consultant</h2>\n<p>We are looking for a strong Microsoft Dynamics Financial Consultant to join our ERP team within Decision Inc.</p>\n<p>Our functional consultant will provide functional and technical consulting services, deliver successful implementation and support for Microsoft Dynamics software projects with a high level of client satisfaction, therefore good communication skills are a must, and great technical ability is advantageous. There will be exposure to a wide range of industries, so the ability to quickly understand new business environments is essential.</p>\n<h2>Who Are We?</h2>\n<p><strong>Decision Inc. is a global digital partner that enables businesses to reinvent themselves to </strong>realise their full potential.</p>\n<p>We deliver agility, resilience, and intelligence to any enterprise, enabling them to adapt quickly and thrive through innovation and opportunity. Our teams have engaged with more than 400 clients globally over the past 15 years, providing them with the expertise to build, operate, and optimise their digital businesses.</p>\n<p>We achieve this by leveraging the worlds best technology to drive our clients business ambitions forward into tomorrow's reality. These technologies include but are not limited to: Microsoft, SAP, Qlik, Snowflake, Alteryx, Automation Anywhere, and Workday Adaptive Insights.</p>\n<p>Our success is ultimately driven by our entrepreneurial culture, industry exposure, and the passion of our people. We have three key cross-functional teams – Functional and Specialist Consulting, Development, and Engineering teams. Based in four global offices, our exceptional consultants focus on delivering value to clients by keeping them at the center of our delivery service. To find out more about our exciting fast-paced culture visit: Careers at Decision Inc.</p>\n<h2>What Will You Do?</h2>\n<p>Responsibilities include, but are not limited to:</p>\n<h2>Provide sales support when needed:</h2>\n<ul>\n<li>Work closely with the sales team in assisting prospective companies in their Microsoft technology assessment by obtaining information about their business strategies, processes, desired outcomes and critical success factors and evaluate technology tools to enable them to carry out their objectives</li>\n</ul>\n<ul>\n<li>Present tailored demonstrations of the technology solution</li>\n</ul>\n<ul>\n<li>Develop statement of work and scope documents</li>\n</ul>\n<ul>\n<li>Participate in a team completing a Request for Information (RFI), Request for Proposal (RFP) or Request for Quote (RFQ)</li>\n</ul>\n<p>Perform on-site consulting services for implementation projects, including but not limited to:</p>\n<ul>\n<li>Implement Microsoft Software</li>\n</ul>\n<ul>\n<li>Lead and or participate in the requirement analysis workshops</li>\n</ul>\n<ul>\n<li>Understand, communicate, interpret, and document business processes and requirements</li>\n</ul>\n<ul>\n<li>Utilize Microsoft implementation standards and tools/documents as defined by Decision Inc.s chosen methodology</li>\n</ul>\n<ul>\n<li>Create and develop design specifications including gap/fit analysis documentation</li>\n</ul>\n<ul>\n<li>Work with the technical team to design, test, and implement customisations and conduct prototype testing with the client</li>\n</ul>\n<ul>\n<li>Participate in project quality assurance processes as appropriate</li>\n</ul>\n<ul>\n<li>Provide end-user training and end-user support throughout the implementation</li>\n</ul>\n<ul>\n<li>Assist Project Manager as required</li>\n</ul>\n<p>Perform ongoing support services to existing clients:</p>\n<ul>\n<li>Via email/phone/remote support and on-site visits</li>\n</ul>\n<ul>\n<li>Proactively participate in strategic way forward discussions/meetings with clients, prepare scoping documentation and quotations, and implement proposals on acceptance by the client</li>\n</ul>\n<ul>\n<li>Fulfil SLA requirements</li>\n</ul>\n<h2>Upgrades:</h2>\n<ul>\n<li>Provide customers with information regarding upgrades</li>\n</ul>\n<ul>\n<li>Assist in preparation of costing and timelines</li>\n</ul>\n<ul>\n<li>Perform upgrade consulting services in accordance with upgrade principles and approved methodologies</li>\n</ul>\n<h2>Perform admin functions:</h2>\n<ul>\n<li>Document services rendered using Decision Inc. time and expense billing system and other project management templates in a timeous fashion</li>\n</ul>\n<ul>\n<li>Meet productivity and efficiency standards (billable hours)</li>\n</ul>\n<ul>\n<li>Develop and continually refine Microsoft implementation standards, tools and documents</li>\n</ul>\n<ul>\n<li>Use internal systems and processes to record client interactions</li>\n</ul>\n<ul>\n<li>Interface with Account manager to ensure Decision Inc./customer documentation is correct and up to date</li>\n</ul>\n<h2>Product knowledge:</h2>\n<ul>\n<li>Attain product certifications as deemed necessary by Microsoft and/or Decision Inc.</li>\n</ul>\n<ul>\n<li>Maintain product knowledge on upcoming product releases</li>\n</ul>\n<ul>\n<li>Investigate and make recommendations on appropriate new technologies and products (including 3rd party products)</li>\n</ul>\n<ul>\n<li>Provide mentoring to team members, as required</li>\n</ul>\n<p><strong>W</strong>ho Do You Need to Be?</p>\n<ul>\n<li>Relevant Degree</li>\n</ul>\n<ul>\n<li>Minimum 5 years consulting experience and 3 years Microsoft Dynamics product experience</li>\n</ul>\n<ul>\n<li>Must have participated in at least 3 go-live data conversions, and/or upgrades, and/or full cycle implementations</li>\n</ul>\n<ul>\n<li>Experience within consulting service environment</li>\n</ul>\n<ul>\n<li>Knowledge of and experience in one of our service offerings, such as Business Intelligence, Enterprise Performance Management, Business Productivity Solutions etc.</li>\n</ul>\n<ul>\n<li>Strong problem-solving skills and good communication skills, both written and verbal</li>\n</ul>\n<ul>\n<li>Ability to explain technical concepts to business people in a language they understand, and business requirements to technical people</li>\n</ul>\n<ul>\n<li>Ability to successfully manage and maintain strong relationships with a team and clients</li>\n</ul>\n<ul>\n<li>Effective planning and organizational skills</li>\n</ul>\n<ul>\n<li>Passionate and ambitious to deliver on the company's strategic plan</li>\n</ul>\n<ul>\n<li>Understanding how to enhance business with technology</li>\n</ul>\n<ul>\n<li>Relational thinking (How elements of a solution / program / system fit together)</li>\n</ul>\n<ul>\n<li>Experience in Customer and Employee Engagement added benefit</li>\n</ul>\n<ul>\n<li>Well groomed, pro-active, enthusiastic, upbeat peoples person with strong relationship building skills</li>\n</ul>\n<ul>\n<li>Excellent organisational skills, attention to detail, self-motivation and a desire to succeed</li>\n</ul>\n<ul>\n<li>Possess business consulting, project definition and planning skills</li>\n</ul>\n<ul>\n<li>Professional and ethical</li>\n</ul>\n<ul>\n<li>The ability to work under pressure as part of a highly motivated team</li>\n</ul>\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/erp-architect-disa-ba-foa-jhb-0026-decision-inc</p>",
-      "posted_at": "2026-10-14T20:51:26+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "c69aed0b-464d-4daf-a1a4-8afc39431732",
-      "title": "Senior Software Engineer, Observability",
-      "url": "https://remotejobs.org/remote-jobs/senior-software-engineer-observability-netbox-labs",
-      "apply_url": "https://remotejobs.org/remote-jobs/senior-software-engineer-observability-netbox-labs",
-      "company": {
-        "name": "NetBox Labs",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/ea15259247f8afe6dd33afa19361162f5e727d3f35f4cd4ba74a13ba32e4e2a9.png",
-        "website": null,
-        "url": "https://remotejobs.org/companies/netbox-labs"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "LATAM,  USA",
-      "location_normalization": {
-        "raw": "LATAM,  USA",
-        "input": {},
-        "scope": "restricted",
-        "status": "partial",
-        "regions": [
-          "latam"
-        ],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "partial",
-        "regions": [
-          "latam"
-        ],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [
-          "Unresolved area: location:1"
-        ],
-        "evidence_ids": [
-          "source-location"
-        ],
-        "allowed_regions": [
-          "Latin America (LATAM)"
-        ],
-        "work_arrangement": "unknown",
-        "allowed_countries": [],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-sonnet-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": "senior",
-        "role_family": "software-engineering",
-        "required_skills": [],
-        "mentioned_skills": [
-          "golang",
-          "kubernetes",
-          "postgresql",
-          "python"
-        ],
-        "preferred_skills": [],
-        "experience_requirements": [
-          {
-            "text": "5+ years of experience",
-            "maximum_years": null,
-            "minimum_years": 5,
-            "classification": "mentioned"
-          },
-          {
-            "text": "3+ years of experience",
-            "maximum_years": null,
-            "minimum_years": 3,
-            "classification": "mentioned"
-          }
-        ]
-      },
-      "salary_min": 85000,
-      "salary_max": 95000,
-      "salary_text": "USD 85,000–95,000/year",
-      "salary_source_text": "USD 85000 - 95000",
-      "salary_currency": "USD",
-      "salary_period": "year",
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<p><a href=\"https://jobicy.com/company/netbox-labs\">NetBox Labs</a> is seeking a Software Engineer with 5+ years of experience to join our Observability Team. Observability is a key component of network automation, and critical to our company mission to make it easier to build and manage complex networks.</p>\n<p>This team is responsible for Network Discovery &#x26; Reconciliation, Network Observability &#x26; Monitoring, and Agents &#x26; Fleet Management. The team delivers both closed and open source software and owns projects such as <a href=\"https://github.com/orb-community/orb\">Orb</a>, <a href=\"https://github.com/netboxlabs?q=diode\">Diode</a> and <a href=\"https://github.com/orb-community/pktvisor\">pktvisor</a>.</p>\n<p><em>In this role you will bring:</em></p>\n<ul>\n<li>\n<p>Deep experience with idiomatic Go</p>\n</li>\n<li>\n<p>Experience with protobuf APIs (gRPC and Connect RPC), PostgreSQL (including migrations), Redis, and RabbitMQ</p>\n</li>\n<li>\n<p>Experience with multi-tenant services, OAuth2/OIDC, and event-driven systems, including at-least-once delivery and idempotent consumers</p>\n</li>\n<li>\n<p>Deep knowledge of observability and instrumentation, including OpenTelemetry</p>\n</li>\n<li>\n<p>A solid understanding of networking: devices, configuration, protocols, and layers</p>\n</li>\n<li>\n<p>The ability to use coding agents day to day: set the constraints, review the output, and remain accountable for correctness, security, and tests</p>\n</li>\n<li>\n<p>Great communication skills, including the ability to write technical specifications with diagrams</p>\n</li>\n</ul>\n<p><em>You will work closely with:</em></p>\n<ul>\n<li>\n<p>Product owners – to bring ideas to life and deliver a compelling user experience</p>\n</li>\n<li>\n<p>The NetBox team – to create the ultimate observability tooling within NetBox</p>\n</li>\n<li>\n<p>The platform team – to ensure seamless integration with NetBox Cloud and Enterprise</p>\n</li>\n<li>\n<p>Community members as users and contributors to the project</p>\n</li>\n</ul>\n<p><em>It would be fantastic if you have the following experience:</em></p>\n<ul>\n<li>\n<p>3+ years of experience working in a fast paced startup environment</p>\n</li>\n<li>\n<p>MQTT or other device/IoT protocols, or gNMI</p>\n</li>\n<li>\n<p>Kubernetes in production</p>\n</li>\n<li>\n<p>Django, NetBox, or NetBox plugins</p>\n</li>\n<li>\n<p>Python for tests and tooling</p>\n</li>\n</ul>\n<h2><strong>About NetBox Labs:</strong></h2>\n<p>NetBox Labs helps companies build and manage complex networks. We help customers accelerate network automation by delivering open, composable products and supporting the network automation community.</p>\n<p>NetBox Labs is the commercial steward of open source NetBox, the world’s most popular network source of truth, and Orb, the next-generation open source network observability platform. Our products include NetBox Enterprise, a fully supported self-managed NetBox with advanced features, and NetBox Cloud, a secure, scalable, and reliable SaaS edition of NetBox.</p>\n<p>NetBox powers thousands of companies, and NetBox Labs is backed by investment from Notable Capital (formerly GGV), Grafana Labs CEO Raj Dutt, Flybridge, IBM, Salesforce Ventures, and Mango Capital.</p>\n<h2>About NetBox Labs:</h2>\n<p>NetBox Labs helps companies build and manage complex networks. We help customers accelerate network automation by delivering open, composable products and supporting the network automation community.</p>\n<p>NetBox Labs is the commercial steward of open source NetBox, the world’s most popular network source of truth, and Orb, the next-generation open source network observability platform. Our products include NetBox Enterprise, a fully supported self-managed NetBox with advanced features, and NetBox Cloud, a secure, scalable, and reliable SaaS edition of NetBox.</p>\n<p>NetBox powers thousands of companies, and NetBox Labs is backed by investment from Notable Capital (formerly GGV), Grafana Labs CEO Raj Dutt, Flybridge, IBM, Salesforce Ventures, and Mango Capital.</p>\n<h2>Our culture and values:</h2>\n<ul>\n<li>\n<p>We own and solve problems with high attention to detail.</p>\n</li>\n<li>\n<p>Our open source contributors, users, customers &#x26; team are all part of our community. When our community wins, we win.</p>\n</li>\n<li>\n<p>We prioritize simplicity and think twice before adding complexity</p>\n</li>\n<li>\n<p>Clear communication helps keep our team aligned and collaborating smoothly.</p>\n</li>\n</ul>\n<p>NetBox Labs is proud to be an equal opportunity employer. We believe diverse teams build better software, and we welcome applicants of every race, color, religion, gender identity, sexual orientation, national origin, age, disability, and veteran status. If you need accommodation at any point in the process, just let us know.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-software-engineer-observability-netbox-labs</p>",
-      "posted_at": "2026-10-14T15:42:30+00:00",
       "is_translated": false,
       "original_language": null
     },
