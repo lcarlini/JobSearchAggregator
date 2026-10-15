@@ -1,14 +1,29 @@
 {
-  "generatedAt": "2026-10-15T10:59:38.389Z",
-  "count": 152,
+  "generatedAt": "2026-10-15T16:28:04.380Z",
+  "count": 151,
   "jobs": [
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/salesloft-principal-software-engineer-ai",
+      "source": "weworkremotely",
+      "title": "Principal Software Engineer, AI",
+      "company": "Salesloft",
+      "url": "https://weworkremotely.com/remote-jobs/salesloft-principal-software-engineer-ai",
+      "description": "Headquarters: United States, Remote Job Title: Principal Software Engineer, AI&nbsp; Location : Remote - US Salesloft is building the next era of enterprise revenue — one where teams make confident decisions powered by AI and real signals. By combining our scale, insights, and AI innovation, we're building the industry's first Predictive Revenue System, enabling humans and AI to work together to make smarter decisions and drive consistent growth. With thousands of customers using our platforms every day, we have an unmatched view into how revenue is actually won — the Revenue Context that reveals what happens, when, and with what outcome. This gives us a unique opportunity to transform an entire category and set a new benchmark for how modern revenue teams operate. Join us to help transfor",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "programming"
+      ],
+      "postedAt": "Wed, 30 Sep 2026 07:31:24 +0000",
+      "category": "programming"
+    },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/tailscale-analytics-engineer-data",
       "source": "weworkremotely",
       "title": "Analytics Engineer, Data",
       "company": "Tailscale",
       "url": "https://weworkremotely.com/remote-jobs/tailscale-analytics-engineer-data",
-      "description": "Headquarters: Remote (United States) Thank you for considering Tailscale. If this job description resonates with you, please apply.&nbsp; Frequently cited statistics show that people who identify with historically marginalized groups are likely to apply to jobs only if they meet 100% of the qualifications. We encourage you to help us break that statistic! About Tailscale&nbsp; Tailscale is making safe connection effortless by delivering software that makes it easy to securely interconnect people and their devices, no matter where they are. From hobbyists to multinational corporations, teams of every size use Tailscale each day to protect their networks, share access to internal tools, and more. We're building a future for the Internet that's easy, sensible, and safe, like it used to be. Fo",
+      "description": "Headquarters: Remote (Canada) Thank you for considering Tailscale. If this job description resonates with you, please apply.&nbsp; Frequently cited statistics show that people who identify with historically marginalized groups are likely to apply to jobs only if they meet 100% of the qualifications. We encourage you to help us break that statistic! About Tailscale&nbsp; Tailscale is making safe connection effortless by delivering software that makes it easy to securely interconnect people and their devices, no matter where they are. From hobbyists to multinational corporations, teams of every size use Tailscale each day to protect their networks, share access to internal tools, and more. We're building a future for the Internet that's easy, sensible, and safe, like it used to be. Founded i",
       "location": "Anywhere in the World",
       "tags": [
         "Full-Stack Programming",
@@ -345,36 +360,6 @@
         "programming"
       ],
       "postedAt": "Wed, 16 Sep 2026 12:24:17 +0000",
-      "category": "programming"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/acculynx-senior-software-engineer",
-      "source": "weworkremotely",
-      "title": "Senior Software Engineer",
-      "company": "AccuLynx",
-      "url": "https://weworkremotely.com/remote-jobs/acculynx-senior-software-engineer",
-      "description": "Headquarters: Beloit, WI URL: http://acculynx.com Senior Software Engineer AccuLynx is a fast-growing SaaS provider of business management software for roofing contractors. With more than 10 years in the business and impressive year-over-year revenue growth, we have quickly established ourselves as the leading software product in this multi-billion dollar industry. AccuLynx is actively looking for smart and passionate Senior Software Engineers to join our growing Engineering team! We are headquartered out of Beloit, WI and would love to have you join us for major planning sessions and meetings, but this role has the option to be remote. We do not hire based on buzzwords or popular acronyms. We expect you to have mastered at least one language and be eager to master any technology or langua",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "programming"
-      ],
-      "postedAt": "Tue, 15 Sep 2026 14:12:47 +0000",
-      "category": "programming"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/toptal-senior-data-engineer-aws-data-lake-pipeline-architecture",
-      "source": "weworkremotely",
-      "title": "Senior Data Engineer – AWS Data Lake & Pipeline Architecture",
-      "company": "Toptal",
-      "url": "https://weworkremotely.com/remote-jobs/toptal-senior-data-engineer-aws-data-lake-pipeline-architecture",
-      "description": "Headquarters: Summary We are seeking a Data Engineer to support the development of a Data Intelligence Platform. This role focuses on data modeling, data services, data pipelines, and cloud-based data infrastructure for reporting, analytics, and data science. General information This Data Engineer will support data-related operations across a broader Data Intelligence Platform team. The work includes building and consuming web services, integrating search technologies, supporting personalization and recommendation engines, and applying data engineering best practices across the platform. The role spans cloud-based data architecture, database performance, pipeline automation, and support for data scientists, researchers, and internal business units. The environment includes AWS-based infras",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "programming"
-      ],
-      "postedAt": "Tue, 15 Sep 2026 12:53:09 +0000",
       "category": "programming"
     },
     {
@@ -1428,6 +1413,21 @@
       "category": "product"
     },
     {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/medify-engineering-manager",
+      "source": "weworkremotely",
+      "title": "Engineering Manager",
+      "company": "Medify",
+      "url": "https://weworkremotely.com/remote-jobs/medify-engineering-manager",
+      "description": "Headquarters: London URL: http://www.medify.co.uk Remote | Full-Time | UK&nbsp; About Us At Medify, we’re on a mission to widen access to medicine and healthcare careers through world-class digital learning experiences. Since 2009, we’ve helped thousands of students prepare for high-stakes admissions tests, and we’re continuing to invest in our technology to build innovative, scalable products that support learners around the world. As we continue to grow, we’re looking for an experienced Engineering Manager to lead, mentor and develop our engineering team while remaining hands-on in building the platform that powers Medify. The Role As an Engineering Manager, you’ll play a pivotal role in shaping both our engineering culture and technical direction. Working closely with the CTO, Product a",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Thu, 15 Oct 2026 13:59:07 +0000",
+      "category": "full-stack"
+    },
+    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/lattice-senior-software-engineer-infrastructure-platform",
       "source": "weworkremotely",
       "title": "Senior Software Engineer, Infrastructure Platform",
@@ -1884,21 +1884,6 @@
       "company": "Lithic",
       "url": "https://weworkremotely.com/remote-jobs/lithic-senior-risk-associate",
       "description": "Headquarters: Remote Lithic is the modern card issuing and processing platform empowering ambitious financial companies to build the future of payments. Our infrastructure powers card programs for 100+ innovative clients, from fintechs reimagining credit and digital banking to platforms transforming disbursements and spend management. Companies like Mercury, Flex, and Novo rely on Lithic's developer-friendly APIs, direct network connections, and flawless reconciliation to launch and scale card programs in weeks, not years. We're building a future where access to better financial products materially improves people's lives, free from the constraints of 30-year-old mainframes and legacy processors. We're proud to be backed by world-class investors who share that vision, including Bessemer Ve",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Wed, 30 Sep 2026 07:31:24 +0000",
-      "category": "full-stack"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/salesloft-principal-software-engineer-ai",
-      "source": "weworkremotely",
-      "title": "Principal Software Engineer, AI",
-      "company": "Salesloft",
-      "url": "https://weworkremotely.com/remote-jobs/salesloft-principal-software-engineer-ai",
-      "description": "Headquarters: United States, Remote Job Title: Principal Software Engineer, AI&nbsp; Location : Remote - US Salesloft is building the next era of enterprise revenue — one where teams make confident decisions powered by AI and real signals. By combining our scale, insights, and AI innovation, we're building the industry's first Predictive Revenue System, enabling humans and AI to work together to make smarter decisions and drive consistent growth. With thousands of customers using our platforms every day, we have an unmatched view into how revenue is actually won — the Revenue Context that reveals what happens, when, and with what outcome. This gives us a unique opportunity to transform an entire category and set a new benchmark for how modern revenue teams operate. Join us to help transfor",
       "location": "Anywhere in the World",
       "tags": [
         "Full-Stack Programming",
