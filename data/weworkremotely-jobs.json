@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-16T03:21:47.292Z",
-  "count": 152,
+  "generatedAt": "2026-10-16T10:51:31.770Z",
+  "count": 160,
   "jobs": [
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/salesloft-principal-software-engineer-ai",
@@ -361,6 +361,36 @@
       ],
       "postedAt": "Wed, 16 Sep 2026 12:24:17 +0000",
       "category": "programming"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/beyondtrust-elearning-developer",
+      "source": "weworkremotely",
+      "title": "eLearning Developer",
+      "company": "BeyondTrust",
+      "url": "https://weworkremotely.com/remote-jobs/beyondtrust-elearning-developer",
+      "description": "Headquarters: Remote United States BeyondTrust is a place where you can bring your purpose to life through the work that you do, creating a safer world through our cybersecurity SaaS portfolio. Our culture of flexibility, trust, and continual learning means you will be recognized for your growth, and for the impact you make on our success. You will be surrounded by people who challenge, support, and inspire you to be the best version of yourself. The Role At BeyondTrust, we believe learning and training should be engaging, interactive, and impactful. The eLearning Developer plays a key role in bringing this vision to life by designing and delivering innovative, effective, and visually compelling training solutions. This position collaborates closely with Subject Matter Experts (SMEs) to cr",
+      "location": "Anywhere in the World",
+      "tags": [
+        "DevOps and Sysadmin",
+        "devops"
+      ],
+      "postedAt": "Fri, 16 Oct 2026 07:31:07 +0000",
+      "category": "devops"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/beyondtrust-cloud-network-engineer",
+      "source": "weworkremotely",
+      "title": "Cloud Network Engineer",
+      "company": "BeyondTrust",
+      "url": "https://weworkremotely.com/remote-jobs/beyondtrust-cloud-network-engineer",
+      "description": "Headquarters: Remote United States BeyondTrust is a place where you can bring your purpose to life through the work that you do, creating a safer world through our cybersecurity SaaS portfolio. Our culture of flexibility, trust, and continual learning means you will be recognized for your growth, and for the impact you make on our success. You will be surrounded by people who challenge, support, and inspire you to be the best version of yourself. The Role The Cloud Network Engineer extends BeyondTrust's on-premises networking fundamentals into AWS cloud networking, with a primary focus on architecting and operating FedRAMP-aligned environments. The successful candidate demonstrates strong technical judgment, operational discipline, and the ability to apply practical solutions to complex hy",
+      "location": "Anywhere in the World",
+      "tags": [
+        "DevOps and Sysadmin",
+        "devops"
+      ],
+      "postedAt": "Fri, 16 Oct 2026 07:31:00 +0000",
+      "category": "devops"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/abnormal-customer-solutions-engineer-emea",
@@ -1113,6 +1143,51 @@
       "category": "design"
     },
     {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/pagerduty-senior-solutions-consultant",
+      "source": "weworkremotely",
+      "title": "Senior Solutions Consultant",
+      "company": "PagerDuty",
+      "url": "https://weworkremotely.com/remote-jobs/pagerduty-senior-solutions-consultant",
+      "description": "Headquarters: Remote (USA - Boston, MA) PagerDuty, Inc. (NYSE: PD) is the global leader in AI-first digital operations. By automatically detecting, diagnosing, and remediating issues, the PagerDuty Platform orchestrates AI agents and automated workflows with context from over 750 integrations. Trusted by approximately two-thirds of the Fortune 100 and nearly half of the Fortune 500, PagerDuty is the industry standard for organizations scaling resilient, autonomous operations. Notable customers include Chipotle, Cloudflare, Docusign, Fox, Nvidia, Salesforce, Spotify, Zoom and more. We are growing rapidly and hiring top talent with leading AI skills across engineering, sales, product, marketing, and beyond as we build the leading digital operations platform. &nbsp; We are seeking a technical",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Product",
+        "product"
+      ],
+      "postedAt": "Fri, 16 Oct 2026 07:31:07 +0000",
+      "category": "product"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/ebanx-talent-pool-key-account-managment-specialist",
+      "source": "weworkremotely",
+      "title": "[Talent pool] Key Account Managment Specialist",
+      "company": "EBANX",
+      "url": "https://weworkremotely.com/remote-jobs/ebanx-talent-pool-key-account-managment-specialist",
+      "description": "Headquarters: London l Remote &nbsp; EBANX is a global fintech founded in 2012 with a mission to be the leading payments partner in rising markets. With its own technology and infrastructure, combined with in-depth knowledge of the Latin American market, EBANX allows these companies to connect to hundreds of payment methods in different countries in the region. And it goes further, creating results for businesses and simple shopping experiences for consumers. From the beginning of our journey, we have an important mission: to give access . This is not just about our products and services, but it goes through everything we are and do. We believe that it is only possible to innovate with diversity, so we cherish differences in gender, race, nationality, disability, sexual orientation, religi",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Product",
+        "product"
+      ],
+      "postedAt": "Fri, 16 Oct 2026 07:30:50 +0000",
+      "category": "product"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/fivetran-enterprise-sales-director",
+      "source": "weworkremotely",
+      "title": "Enterprise Sales Director",
+      "company": "Fivetran",
+      "url": "https://weworkremotely.com/remote-jobs/fivetran-enterprise-sales-director",
+      "description": "Headquarters: Remote, Massachusetts, United States, AMER From Fivetran’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to query, with no engineering or maintenance required. We’re proud that more organizations continue to leverage our technology every day to become truly data-driven. About Us Fivetran and dbt Labs are bringing together two industry-leading companies with a shared mission: helping organizations unlock the full value of their data. Together, we’re delivering the data infrastructure layer that helps organizations move, transform, and trust their data — from the moment data moves, through every transformation, to the context teams",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Product",
+        "product"
+      ],
+      "postedAt": "Fri, 16 Oct 2026 07:30:46 +0000",
+      "category": "product"
+    },
+    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/lattice-lead-product-manager",
       "source": "weworkremotely",
       "title": "Lead Product Manager",
@@ -1411,6 +1486,51 @@
       ],
       "postedAt": "Thu, 17 Sep 2026 07:30:57 +0000",
       "category": "product"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/maven-clinic-director-marketing-operations",
+      "source": "weworkremotely",
+      "title": "Director, Marketing Operations",
+      "company": "Maven Clinic",
+      "url": "https://weworkremotely.com/remote-jobs/maven-clinic-director-marketing-operations",
+      "description": "Headquarters: New York, NY; Remote, US (Hub cities) Maven Clinic is the world's largest virtual clinic for women and families on a mission to make healthcare work for all of us. Through Maven Enterprise, the company partners with more than 2,300 employers and health plans to provide end-to-end women's and family health programs spanning fertility and family building, maternity and newborn care, parenting and pediatrics, and menopause and midlife — improving clinical outcomes, reducing healthcare costs, and expanding equitable access to high-quality care at scale. Through its consumer platform, Maven provides direct access to virtual care across 30+ specialties, as well as dedicated hormone and GLP-1 care programs purpose-built for women. Founded in 2014 by CEO Kate Ryder, Maven Clinic has ",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Fri, 16 Oct 2026 07:31:00 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/maven-clinic-care-coach",
+      "source": "weworkremotely",
+      "title": "Care Coach",
+      "company": "Maven Clinic",
+      "url": "https://weworkremotely.com/remote-jobs/maven-clinic-care-coach",
+      "description": "Headquarters: Remote Maven Clinic is the world's largest virtual clinic for women and families on a mission to make healthcare work for all of us. Through Maven Enterprise, the company partners with more than 2,300 employers and health plans to provide end-to-end women's and family health programs spanning fertility and family building, maternity and newborn care, parenting and pediatrics, and menopause and midlife — improving clinical outcomes, reducing healthcare costs, and expanding equitable access to high-quality care at scale. Through its consumer platform, Maven provides direct access to virtual care across 30+ specialties, as well as dedicated hormone and GLP-1 care programs purpose-built for women. Founded in 2014 by CEO Kate Ryder, Maven Clinic has raised more than $425 million f",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Fri, 16 Oct 2026 07:30:50 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/fivetran-global-alliance-lead-capgemini",
+      "source": "weworkremotely",
+      "title": "Global Alliance Lead, Capgemini",
+      "company": "Fivetran",
+      "url": "https://weworkremotely.com/remote-jobs/fivetran-global-alliance-lead-capgemini",
+      "description": "Headquarters: Remote, Colorado, United States, AMER From Fivetran’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to query, with no engineering or maintenance required. We’re proud that more organizations continue to leverage our technology every day to become truly data-driven. About Us Fivetran and dbt Labs are bringing together two industry-leading companies with a shared mission: helping organizations unlock the full value of their data. Together, we’re delivering the data infrastructure layer that helps organizations move, transform, and trust their data — from the moment data moves, through every transformation, to the context teams and ",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Fri, 16 Oct 2026 07:30:50 +0000",
+      "category": "full-stack"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/askable-software-engineer-ai-coding-tasks-contract",
@@ -1968,6 +2088,21 @@
       "category": "full-stack"
     },
     {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/clover-health-contract-technical-recruiter",
+      "source": "weworkremotely",
+      "title": "Contract Technical Recruiter",
+      "company": "Clover Health",
+      "url": "https://weworkremotely.com/remote-jobs/clover-health-contract-technical-recruiter",
+      "description": "Headquarters: Remote - USA Clover Health’s People Operations team is the strategic force behind our human capital management. We attract and recruit top talent and we’re proud of our data-driven approach to talent engagement and feel privileged to support our global workforce. We’re looking for an experienced Contract Technical Recruiter to join our high-performing Talent Acquisition team for a six-month engagement supporting our subsidiary, Counterpart Health, partnering with stakeholders across every team to understand business objectives, develop strategic hiring plans, and recruit amazing talent. Our ideal candidate has experience recruiting for a variety of technical skill sets ideally in the HealthTech space and is eager to take on the challenge of our growing company and working wit",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Management and Finance",
+        "management"
+      ],
+      "postedAt": "Fri, 16 Oct 2026 07:31:00 +0000",
+      "category": "management"
+    },
+    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/airbnb-senior-manager-quality-volume-tiers",
       "source": "weworkremotely",
       "title": "Senior Manager, Quality, Volume Tiers",
@@ -2205,21 +2340,6 @@
         "management"
       ],
       "postedAt": "Thu, 17 Sep 2026 07:30:57 +0000",
-      "category": "management"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/salesloft-financial-analyst-r-d",
-      "source": "weworkremotely",
-      "title": "Financial Analyst, R&D",
-      "company": "Salesloft",
-      "url": "https://weworkremotely.com/remote-jobs/salesloft-financial-analyst-r-d",
-      "description": "Headquarters: United States, Remote Job Title:&nbsp; Financial Analyst Location: United State, REMOTE Clari + Salesloft are building the next era of enterprise revenue — one where teams make confident decisions powered by AI and real signals. By combining our scale, insights, and AI innovation, we’re building the industry’s first Predictive Revenue System, enabling humans and AI to work together to make smarter decisions and drive consistent growth. With thousands of customers using our platforms every day, we have an unmatched view into how revenue is actually won — the Revenue Context that reveals what happens, when, and with what outcome. This gives us a unique opportunity to transform an entire category and set a new benchmark for how modern revenue teams operate. Join us to help trans",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Management and Finance",
-        "management"
-      ],
-      "postedAt": "Wed, 16 Sep 2026 07:30:46 +0000",
       "category": "management"
     },
     {
