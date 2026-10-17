@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-17T03:13:57.514Z",
-  "count": 159,
+  "generatedAt": "2026-10-17T10:16:26.107Z",
+  "count": 161,
   "jobs": [
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/doximity-commercial-data-scientist",
@@ -363,6 +363,51 @@
       "category": "programming"
     },
     {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/beyondtrust-enterprise-account-manager-riyadh-saudi-national",
+      "source": "weworkremotely",
+      "title": "Enterprise Account Manager - Riyadh (Saudi National)",
+      "company": "BeyondTrust",
+      "url": "https://weworkremotely.com/remote-jobs/beyondtrust-enterprise-account-manager-riyadh-saudi-national",
+      "description": "Headquarters: Remote Saudi Arabia BeyondTrust is a place where you can bring your purpose to life through the work that you do, creating a safer world through our cybersecurity SaaS portfolio. Our culture of flexibility, trust, and continual learning means you will be recognized for your growth, and for the impact you make on our success. You will be surrounded by people who challenge, support, and inspire you to be the best version of yourself. The Role Identify, generate, qualify, and close new business for customers and prospects in a defined territory.&nbsp; Responsible for managing the full sales lifecycle, and building the go-to-market plan (including direct and indirect business).&nbsp; What You’ll Do Develop new and existing accounts within the defined territory. Establish and deli",
+      "location": "Anywhere in the World",
+      "tags": [
+        "DevOps and Sysadmin",
+        "devops"
+      ],
+      "postedAt": "Sat, 17 Oct 2026 07:31:02 +0000",
+      "category": "devops"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/expel-senior-detection-response-engineer",
+      "source": "weworkremotely",
+      "title": "Senior Detection & Response Engineer",
+      "company": "Expel",
+      "url": "https://weworkremotely.com/remote-jobs/expel-senior-detection-response-engineer",
+      "description": "Headquarters: Remote You're the detection engineer people turn to when they ask \"what does Microsoft actually see here?\" Not the marketing-slide answer, the real map. Which product emits which telemetry, any anticipated ingestion lags, what table or API it lands in, which license tier gates it, how long it survives before it ages out, and where the documentation quietly disagrees with reality. When a new technique drops, your first instinct is to ask which Microsoft signal would catch it, and whether customers have it switched on. You also know Microsoft never sits still. Hunting tables appear, columns get renamed, Graph versions retire, capability shuffles between SKUs, previews go GA, features quietly vanish, and native alert logic shifts underneath you. You've got a repeatable way of st",
+      "location": "Anywhere in the World",
+      "tags": [
+        "DevOps and Sysadmin",
+        "devops"
+      ],
+      "postedAt": "Sat, 17 Oct 2026 07:30:54 +0000",
+      "category": "devops"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/collibra-manager-professional-services",
+      "source": "weworkremotely",
+      "title": "Manager, Professional Services",
+      "company": "Collibra",
+      "url": "https://weworkremotely.com/remote-jobs/collibra-manager-professional-services",
+      "description": "Headquarters: Remote, USA Joining Collibra’s Professional Services Team At Collibra Public Sector, our Professional Services team relies on Federal Solution Architects to deliver on customer expectations for the services we sell, working directly with customer key projects stakeholders throughout the entire customer journey. Ensuring growth, adoption and renewal, Federal Solution Architects act as customer champions, ensuring customers are onboarded and realizing value rapidly. Managers, Professional Services at Collibra are responsible for&nbsp; Supporting federal customer engagements by delivering mission-aligned architectural design and execution of Collibra products that adhere to Collibra Public Sector’s Delivery Models, Engagement Processes, Methodologies, and Artifacts, while ensuri",
+      "location": "Anywhere in the World",
+      "tags": [
+        "DevOps and Sysadmin",
+        "devops"
+      ],
+      "postedAt": "Sat, 17 Oct 2026 07:30:50 +0000",
+      "category": "devops"
+    },
+    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/beyondtrust-elearning-developer",
       "source": "weworkremotely",
       "title": "eLearning Developer",
@@ -570,21 +615,6 @@
         "devops"
       ],
       "postedAt": "Tue, 06 Oct 2026 07:31:09 +0000",
-      "category": "devops"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/datadog-enterprise-sales-engineer-fed",
-      "source": "weworkremotely",
-      "title": "Enterprise Sales Engineer - FED",
-      "company": "Datadog",
-      "url": "https://weworkremotely.com/remote-jobs/datadog-enterprise-sales-engineer-fed",
-      "description": "Headquarters: District of Columbia, USA, Remote; Maryland, USA, Remote; Virginia, USA, Remote As an Enterprise Sales Engineer, you'll partner with Sales to help customers understand the value of Datadog and how it solves their most important technical and business challenges. You'll lead technical evaluations, deliver compelling demos, and guide customers through the journey from discovery to successful adoption. You'll act as a trusted advisor, bridging business goals with technical solutions, and play a key role in winning new business and expanding existing accounts. At Datadog, we place value in our office culture - the relationships and collaboration it builds and the creativity it brings to the table. We operate as a hybrid workplace to ensure our Datadogs can create a work-life harm",
-      "location": "Anywhere in the World",
-      "tags": [
-        "DevOps and Sysadmin",
-        "devops"
-      ],
-      "postedAt": "Mon, 05 Oct 2026 07:31:16 +0000",
       "category": "devops"
     },
     {
@@ -1143,6 +1173,36 @@
       "category": "design"
     },
     {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/legion-principal-product-manager-agentic-ai",
+      "source": "weworkremotely",
+      "title": "Principal Product Manager, Agentic AI",
+      "company": "Legion",
+      "url": "https://weworkremotely.com/remote-jobs/legion-principal-product-manager-agentic-ai",
+      "description": "Headquarters: Remote, United States Principal Product Manager, Agentic AI REMOTE, United States JOB OVERVIEW Legion is building AI agents that carry out workforce management work, not agents that describe it. Much of what is presented as AI in workforce management today is a conversational layer over an existing scheduling screen. The more substantial problem — software that reasons over demand, labor regulation, and employee preferences, then acts, with a person in the loop wherever the stakes require one — remains unsolved across the category. Legion intends to solve it, and this role leads the product work to get there. You will take an agent surface from operational research through specification, prototype, evaluation, and enterprise deployment, working hands-on throughout. You will w",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Product",
+        "product"
+      ],
+      "postedAt": "Sat, 17 Oct 2026 07:31:02 +0000",
+      "category": "product"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/customer-io-global-controller",
+      "source": "weworkremotely",
+      "title": "Global Controller",
+      "company": "Customer.io",
+      "url": "https://weworkremotely.com/remote-jobs/customer-io-global-controller",
+      "description": "Headquarters: Americas Remote About Customer.io Over 9,000 companies — from scrappy startups to global brands — use our platform to send billions of emails, push notifications, in-app messages, and SMS every day. Customer.io powers automated communication that people actually want to receive. We help teams send smarter, more relevant messages using real-time behavioral data. About the role Hi, my name is Diep N, VP, Finance at Customer.io , and I'm looking for a Global Controller to take the close, the books, and our control environment and make them theirs. We're a global, remote-first, private company built on subscription and usage-based revenue, and as we grow we need a controller who can lead the team already in place and sharpen the fundamentals. You'll lead a team of ~7, growing, ac",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Product",
+        "product"
+      ],
+      "postedAt": "Sat, 17 Oct 2026 07:30:55 +0000",
+      "category": "product"
+    },
+    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/pagerduty-senior-solutions-consultant",
       "source": "weworkremotely",
       "title": "Senior Solutions Consultant",
@@ -1230,21 +1290,6 @@
         "product"
       ],
       "postedAt": "Sat, 10 Oct 2026 07:31:08 +0000",
-      "category": "product"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/current-producer-client-experience-growth-contract",
-      "source": "weworkremotely",
-      "title": "Producer, Client Experience & Growth (Contract)",
-      "company": "Current",
-      "url": "https://weworkremotely.com/remote-jobs/current-producer-client-experience-growth-contract",
-      "description": "Headquarters: Remote (US) At Current At Current, we partner with ambitious brands to create digital experiences that drive meaningful business results. By bringing together strategy, design, production, and technology, we help organizations solve complex challenges and build experiences that create lasting impact. We're looking for a Producer, Client Experience & Growth to support our business development efforts by producing proposals, coordinating pitches, and keeping new business opportunities moving from intake through handoff. This role works closely with strategy, creative, production, and operations teams to deliver a seamless experience for prospective clients while ensuring every proposal is organized, polished, and on time. What You'll Do Coordinate business development opportuni",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Product",
-        "product"
-      ],
-      "postedAt": "Wed, 07 Oct 2026 07:31:04 +0000",
       "category": "product"
     },
     {
@@ -1473,19 +1518,34 @@
       "category": "product"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/typeform-ai-product-operations-lead",
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/mixpanel-customer-value-architect-iii-1",
       "source": "weworkremotely",
-      "title": "AI Product Operations Lead",
-      "company": "Typeform",
-      "url": "https://weworkremotely.com/remote-jobs/typeform-ai-product-operations-lead",
-      "description": "Headquarters: Germany (Remote) ; Ireland (Remote); Netherlands (Remote) ; Portugal (Remote) ; Spain (Remote) ; United Kingdom (Remote) Who we are Typeform is a refreshingly different form builder. We help over 150,000 businesses collect the data they need with forms, surveys, and quizzes that people enjoy. Designed to look striking and feel effortless to fill out, Typeform drives 500 million responses every year—and integrates with essential tools like Slack, Zapier, and Hubspot. Typeform is fully remote by design. For this role, we can hire candidates based in the UK, Ireland, Germany, Portugal or The Netherlands About the team Product Operations sits at the center of how our Product and wider R&D teams work. We help create the systems, practices, and connections that allow teams to focus",
+      "title": "Customer Value Architect III",
+      "company": "Mixpanel",
+      "url": "https://weworkremotely.com/remote-jobs/mixpanel-customer-value-architect-iii-1",
+      "description": "Headquarters: Remote, US About Mixpanel Mixpanel is the leading product intelligence and analytics platform, trusted by more than 29,000 companies to help understand how people use the products they build. By combining powerful analytics with AI that knows your business, Mixpanel helps teams see what’s working, diagnose what’s not, and decide what to build next. Learn more at mixpanel.com . About the Team The Customer Value Architects team sits inside the revenue organization and owns the connection between what customers buy and what they actually get out of Mixpanel. We turn product usage into measurable business outcomes, working across onboarding, adoption, and renewal to make sure customers see the value they signed up for. About the Role The right candidate is a relationship-first ad",
       "location": "Anywhere in the World",
       "tags": [
-        "Product",
-        "product"
+        "Full-Stack Programming",
+        "full-stack"
       ],
-      "postedAt": "Thu, 17 Sep 2026 07:30:57 +0000",
-      "category": "product"
+      "postedAt": "Sat, 17 Oct 2026 07:30:54 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/mixpanel-customer-value-architect-iii",
+      "source": "weworkremotely",
+      "title": "Customer Value Architect III",
+      "company": "Mixpanel",
+      "url": "https://weworkremotely.com/remote-jobs/mixpanel-customer-value-architect-iii",
+      "description": "Headquarters: San Francisco, US (Remote) About Mixpanel Mixpanel is the leading product intelligence and analytics platform, trusted by more than 29,000 companies to help understand how people use the products they build. By combining powerful analytics with AI that knows your business, Mixpanel helps teams see what’s working, diagnose what’s not, and decide what to build next. Learn more at mixpanel.com . About the Team The Customer Value Architects team sits inside the revenue organization and owns the connection between what customers buy and what they actually get out of Mixpanel. We turn product usage into measurable business outcomes, working across onboarding, adoption, and renewal to make sure customers see the value they signed up for. About the Role The right candidate is a relat",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Sat, 17 Oct 2026 07:30:50 +0000",
+      "category": "full-stack"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/sanctuary-computer-head-of-technology",
@@ -1584,21 +1644,6 @@
       "company": "Lattice",
       "url": "https://weworkremotely.com/remote-jobs/lattice-senior-software-engineer-infrastructure-platform",
       "description": "Headquarters: Remote - Canada This is Engineering at Lattice Lattice’s Engineering team is continuously working to better both our product and our craft. We use a modern, cutting-edge tech stack and love experimenting with new technologies. We strive for maintainable, robust, and performant code. We’re highly collaborative and continuously iterative, and work closely with designers and product managers. We prioritize not only great technical architecture but also an amazing product experience. The Infrastructure Platform team focuses on the cloud services, infrastructure, and internal platforms that power Lattice’s products. We build reliable, scalable pathways that make it easier for product engineers to develop, deploy, operate, and troubleshoot their services.&nbsp; What You Will Do As ",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Thu, 15 Oct 2026 07:31:21 +0000",
-      "category": "full-stack"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/dropbox-gtm-readiness-manager",
-      "source": "weworkremotely",
-      "title": "GTM Readiness Manager",
-      "company": "Dropbox",
-      "url": "https://weworkremotely.com/remote-jobs/dropbox-gtm-readiness-manager",
-      "description": "Headquarters: Remote - Canada: Select locations Role Description As a GTM Readiness Manager within the GTM organization, you will help turn product and business changes into executable go-to-market motions. You will work across Product, Sales, Marketing, Customer Experience, Customer Success, Finance, Legal, Enablement, and Technology to ensure the business is operationally ready to bring new products, packaging, and other commercial changes to market. You will play a critical role in translating product decisions into GTM requirements, identifying cross-functional dependencies, coordinating operational readiness, and ensuring the end-to-end customer and seller experience works as intended. This role sits at the intersection of product and commercial execution, giving you broad exposure ac",
       "location": "Anywhere in the World",
       "tags": [
         "Full-Stack Programming",
@@ -2325,21 +2370,6 @@
         "management"
       ],
       "postedAt": "Sat, 19 Sep 2026 18:39:11 +0000",
-      "category": "management"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/salesloft-people-operations-generalist",
-      "source": "weworkremotely",
-      "title": "People Operations Generalist",
-      "company": "Salesloft",
-      "url": "https://weworkremotely.com/remote-jobs/salesloft-people-operations-generalist",
-      "description": "Headquarters: United States, Remote Job Title: People Operations Generalist&nbsp; Location: United States, Remote THE OPPORTUNITY: Salesloft is building the next era of enterprise revenue — one where teams make confident decisions powered by AI and real signals. By combining our scale, insights, and AI innovation, we're building the industry's first Predictive Revenue System, enabling humans and AI to work together to make smarter decisions and drive consistent growth. With thousands of customers using our platforms every day, we have an unmatched view into how revenue is actually won — the Revenue Context that reveals what happens, when, and with what outcome. This gives us a unique opportunity to transform an entire category and set a new benchmark for how modern revenue teams operate. J",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Management and Finance",
-        "management"
-      ],
-      "postedAt": "Thu, 17 Sep 2026 07:30:57 +0000",
       "category": "management"
     },
     {
