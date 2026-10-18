@@ -1,7 +1,22 @@
 {
-  "generatedAt": "2026-10-18T15:30:17.222Z",
-  "count": 169,
+  "generatedAt": "2026-10-18T20:13:33.233Z",
+  "count": 168,
   "jobs": [
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1",
+      "source": "weworkremotely",
+      "title": "FULL TIME: Software Engineer Position - React and Rest",
+      "company": "Yooli",
+      "url": "https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1",
+      "description": "Headquarters: Australia URL: http://yooli.co Job description We are seeking a highly skilled Senior Software Engineer to join our team and contribute to the transformative tech evolution in healthcare.&nbsp; This critical role involves developing, integrating, and optimising our backend and database systems.&nbsp; You will work closely with our Chief Engineer and CTO to build and refine our software solutions, ensuring they remain at the cutting edge of innovation. &nbsp; Your Role: Develop and maintain robust backend services using NestJS and Node.js , ensuring top-tier performance and security. Design and manage efficient REST API endpoints to optimise interactions with our SQL database. Collaborate with cross-functional teams to define, design, and deploy new features, focusing on backe",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "programming"
+      ],
+      "postedAt": "Wed, 05 Aug 2026 05:52:46 +0000",
+      "category": "programming"
+    },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/humane-world-for-animals-web-designer-ecrm-1",
       "source": "weworkremotely",
@@ -345,21 +360,6 @@
         "programming"
       ],
       "postedAt": "Sat, 19 Sep 2026 07:31:10 +0000",
-      "category": "programming"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/toptal-senior-integration-engineer-for-enterprise-api-integration-products",
-      "source": "weworkremotely",
-      "title": "Senior Integration Engineer for Enterprise API & Integration Products",
-      "company": "Toptal",
-      "url": "https://weworkremotely.com/remote-jobs/toptal-senior-integration-engineer-for-enterprise-api-integration-products",
-      "description": "Headquarters: Summary We are looking for a Senior Integration Engineer to build and operate integration products connecting Salesforce, SAP, and a carrier data lake. This role combines hands-on integration development with end-to-end production ownership, including API design, data mapping, testing, monitoring, troubleshooting, and recovery. General information This role focuses on building reliable, maintainable integrations rather than creating new point-to-point integration debt. You will work across Salesforce, SAP, and carrier data lake environments, taking ownership of integrations throughout their lifecycle—from implementation and testing through production support and continuous improvement. Strong experience with MuleSoft or a comparable enterprise integration/API platform is expe",
-      "location": "North America Only",
-      "tags": [
-        "Full-Stack Programming",
-        "programming"
-      ],
-      "postedAt": "Fri, 18 Sep 2026 17:01:08 +0000",
       "category": "programming"
     },
     {
@@ -2175,21 +2175,6 @@
         "full-stack"
       ],
       "postedAt": "Mon, 17 Aug 2026 13:57:14 +0000",
-      "category": "full-stack"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1",
-      "source": "weworkremotely",
-      "title": "FULL TIME: Software Engineer Position - React and Rest",
-      "company": "Yooli",
-      "url": "https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1",
-      "description": "Headquarters: Australia URL: http://yooli.co Job description We are seeking a highly skilled Senior Software Engineer to join our team and contribute to the transformative tech evolution in healthcare.&nbsp; This critical role involves developing, integrating, and optimising our backend and database systems.&nbsp; You will work closely with our Chief Engineer and CTO to build and refine our software solutions, ensuring they remain at the cutting edge of innovation. &nbsp; Your Role: Develop and maintain robust backend services using NestJS and Node.js , ensuring top-tier performance and security. Design and manage efficient REST API endpoints to optimise interactions with our SQL database. Collaborate with cross-functional teams to define, design, and deploy new features, focusing on backe",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Wed, 05 Aug 2026 05:52:46 +0000",
       "category": "full-stack"
     },
     {
