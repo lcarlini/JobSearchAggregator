@@ -1,7 +1,22 @@
 {
-  "generatedAt": "2026-10-19T03:29:38.705Z",
-  "count": 168,
+  "generatedAt": "2026-10-19T12:21:06.650Z",
+  "count": 172,
   "jobs": [
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/stripe-abuse-research-engineer",
+      "source": "weworkremotely",
+      "title": "Abuse Research Engineer",
+      "company": "Stripe",
+      "url": "https://weworkremotely.com/remote-jobs/stripe-abuse-research-engineer",
+      "description": "Headquarters: Remote from the US Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team Abuse Research Group (ARG) handles proactive threat hunting and adversary behavior analysis across Stripe products. Rather than reacting to alerts, the team maps end-to-end fraud and abuse paths, validates novel attack vectors, and ",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "programming"
+      ],
+      "postedAt": "Sun, 04 Oct 2026 07:31:08 +0000",
+      "category": "programming"
+    },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1",
       "source": "weworkremotely",
@@ -348,19 +363,19 @@
       "category": "programming"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/hex-technologies-cloud-security-engineer",
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/flexport-senior-security-engineer-detection-response",
       "source": "weworkremotely",
-      "title": "Cloud Security Engineer",
-      "company": "Hex Technologies",
-      "url": "https://weworkremotely.com/remote-jobs/hex-technologies-cloud-security-engineer",
-      "description": "Headquarters: SF, NYC, or Remote (US) About the role We are looking for an experienced Cloud Security Engineer to join Hex’s security team. You will be responsible for ensuring the security and resilience of our cloud infrastructure, providing leadership in cloud security practices, and collaborating closely with our infrastructure and engineering teams to secure our cloud-native applications. About the role: Design, implement, and manage security solutions and controls for AWS environments and Kubernetes clusters, including appropriate isolation/sandboxing methods for Hex’s RCE-as-a-Service platform Build, deploy, and maintain infrastructure-as-code using Terraform, ensuring robust security standards are enforced. Conduct security assessments, threat modeling, and audits on AWS cloud infr",
+      "title": "Senior Security Engineer, Detection & Response",
+      "company": "Flexport",
+      "url": "https://weworkremotely.com/remote-jobs/flexport-senior-security-engineer-detection-response",
+      "description": "Headquarters: U.S. Remote About Flexport:&nbsp; At Flexport, we believe global trade can move the human race forward. That’s why it’s our mission to make global commerce so easy there will be more of it. We’re shaping the future of a $10T industry with solutions powered by innovative technology and exceptional people. Today, companies of all sizes—from emerging brands to Fortune 500s—use Flexport technology to move more than $19B of merchandise across 112 countries a year.&nbsp; The recent global supply chain crisis has put Flexport center stage as we continue to play a pivotal role in how goods move around the world. We are proud to have the support of the best investors in the game who believe in our mission, solutions and people. Ready to tackle global challenges that impact business, s",
       "location": "Anywhere in the World",
       "tags": [
-        "Full-Stack Programming",
-        "programming"
+        "DevOps and Sysadmin",
+        "devops"
       ],
-      "postedAt": "Sat, 19 Sep 2026 07:31:10 +0000",
-      "category": "programming"
+      "postedAt": "Mon, 19 Oct 2026 07:31:25 +0000",
+      "category": "devops"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/planetscale-enterprise-support-engineer",
@@ -558,21 +573,6 @@
       "category": "devops"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/bluegeko-it-infrastructure-engineer",
-      "source": "weworkremotely",
-      "title": "IT Infrastructure Engineer",
-      "company": "BlueGeko",
-      "url": "https://weworkremotely.com/remote-jobs/bluegeko-it-infrastructure-engineer",
-      "description": "Headquarters: London URL: http://bluegeko.com IT Infrastructure Engineer (Full-Time / Remote) We are looking for an experienced IT Infrastructure Engineer to manage, maintain, and improve our company's IT systems, networks, and infrastructure. What You'll Do Manage and maintain IT infrastructure, servers, and networks. Monitor system performance, security, and reliability. Troubleshoot infrastructure, hardware, and network issues. Manage access controls, backups, and system configurations. Support infrastructure upgrades, migrations, and improvements. Ensure systems remain secure, scalable, and operational. Must Have 4+ years of IT infrastructure or systems administration experience. Strong knowledge of Windows and Linux environments. Experience with networking (TCP/IP, DNS, VPNs, firewall",
-      "location": "Anywhere in the World",
-      "tags": [
-        "DevOps and Sysadmin",
-        "devops"
-      ],
-      "postedAt": "Thu, 08 Oct 2026 07:54:30 +0000",
-      "category": "devops"
-    },
-    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/abnormal-director-renewals",
       "source": "weworkremotely",
       "title": "Director, Renewals",
@@ -723,19 +723,19 @@
       "category": "devops"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/circleci-software-engineer",
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/current-senior-product-designer-webflow-temp-to-perm",
       "source": "weworkremotely",
-      "title": "Software Engineer",
-      "company": "CircleCI",
-      "url": "https://weworkremotely.com/remote-jobs/circleci-software-engineer",
-      "description": "Headquarters: Ontario, Canada (Remote) About CircleCI Engineering CI/CD has been solved. Now it's being reinvented. AI agents don't just run pipelines. They write code, trigger builds, interpret failures, and propose fixes. The interfaces that developers use to understand and trust that work don't exist yet. We're building them. At CircleCI, our guiding principles aren't posters on a wall. We learn fast: we run experiments, accept failure, and scale what works. We think like the customer: every decision connects back to the developer sitting in front of a failing build at 2 am. We own the outcome: not just our slice of it, but the whole thing. If that's how you already work, you'll fit here. Team-Agnostic Placement We don't hire for a team. We hire for CircleCI. Where you land depends on w",
+      "title": "Senior Product Designer (Webflow) Temp to Perm",
+      "company": "Current",
+      "url": "https://weworkremotely.com/remote-jobs/current-senior-product-designer-webflow-temp-to-perm",
+      "description": "Headquarters: Remote (US) Senior Product Designer (Webflow) At Current At Current, Senior Product Designers (Webflow) lead the design and delivery of engaging digital experiences across multiple client engagements. You'll partner closely with cross-functional teams across strategy, production, engineering, and client services to create thoughtful, user-centered websites that are both beautifully designed and expertly built in Webflow. Senior Product Designers are strategic, hands-on creators. You're equally comfortable conducting UX discovery, designing polished experiences in Figma, and building production-ready websites in Webflow. You own projects from concept through launch, partnering with engineering only when advanced custom development or integrations are required. What You'll Do L",
       "location": "Anywhere in the World",
       "tags": [
-        "DevOps and Sysadmin",
-        "devops"
+        "Design",
+        "design"
       ],
-      "postedAt": "Sat, 19 Sep 2026 07:31:10 +0000",
-      "category": "devops"
+      "postedAt": "Mon, 19 Oct 2026 07:31:25 +0000",
+      "category": "design"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/mercury-aml-investigator-iii",
@@ -1188,6 +1188,21 @@
       "category": "design"
     },
     {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/clover-health-data-analyst-clinical-data-effectiveness",
+      "source": "weworkremotely",
+      "title": "Data Analyst, Clinical Data Effectiveness",
+      "company": "Clover Health",
+      "url": "https://weworkremotely.com/remote-jobs/clover-health-data-analyst-clinical-data-effectiveness",
+      "description": "Headquarters: Remote - USA Counterpart Health is an AI‑powered physician enablement platform that delivers clinical insights to providers at the point of care. Our flagship product, Counterpart Assistant, is embedded into clinicians’ workflows and integrates with EHR systems, helping care teams drive value-based outcomes, close care gaps, and proactively manage chronic disease. As we grow our data ecosystem, expanding across legacy interoperability networks, QHIN/TEFCA connectivity, and direct HIE integrations, we need rigorous analytical ownership to ensure the clinical data powering our platform is complete, reliable, and actionable. You will serve as the Subject Matter Expert (SME) for clinical data completeness and effectiveness at Counterpart Health. Sitting within the Data Products p",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Product",
+        "product"
+      ],
+      "postedAt": "Mon, 19 Oct 2026 07:31:04 +0000",
+      "category": "product"
+    },
+    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/legion-principal-product-manager-agentic-ai",
       "source": "weworkremotely",
       "title": "Principal Product Manager, Agentic AI",
@@ -1531,6 +1546,66 @@
       ],
       "postedAt": "Wed, 23 Sep 2026 07:31:13 +0000",
       "category": "product"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/bdf-experts-sap-berater-fi-co-m-w-d",
+      "source": "weworkremotely",
+      "title": "SAP Berater FI/CO (M/W/D)",
+      "company": "BDF EXPERTS",
+      "url": "https://weworkremotely.com/remote-jobs/bdf-experts-sap-berater-fi-co-m-w-d",
+      "description": "Headquarters: Germany Düsseldorf Werde zum Architekten digitaler Finanzwelten – und gestalte mit uns die Zukunft! Zahlen sind Deine Leidenschaft, die Financial Supply Chain und SAP FI/CO Dein Spielfeld? Perfekt! Denn als Consultant wirst Du: Aufgaben Digitale Finanzwelten erschaffen – Du berätst und implementierst SAP FI/CO-Lösungen, die unsere Kunden begeistern Geschäftsprozesse neu denken – Du analysierst, designst und revolutionierst Finanzprozesse Wissen teilen und multiplizieren – In Deinen Workshops und Schulungen machst Du aus Anwendern echte Power-User Konzepte entwickeln, die beeindrucken – Deine Fachkonzepte sind so klar wie durchdacht Bestehende Lösungen auf das nächste Level heben – Du entwickelst SAP- und BDF-Lösungen kontinuierlich weiter Qualifikation Du bist unser Perfect M",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Mon, 19 Oct 2026 10:01:21 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-5",
+      "source": "weworkremotely",
+      "title": "Senior Fullstack Developer (React.js / Node.js)",
+      "company": "Proxify AB",
+      "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-5",
+      "description": "Headquarters: Sweden URL: http://career.proxify.io The Role: &nbsp; We are looking for a Senior Fullstack Developer skilled in React.js and Node.js for one of our clients. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy working on new ideas to develop exciting products. &nbsp; What we are looking for: &nbsp; 5+ years experience as a Fullstack Developer. Backend experience with: Node.js Microservices architecture Database experience with: SQL MongoDB Intermediate-advanced English &nbsp; Nice-to-have:&nbsp; Located in CET timezone (+/- 3 hours). Database Architecture knowledge. &nbsp; Responsibilities: Ability to build libraries and frameworks of reusable efficient code. Competence in designing and implementing low-latency, stable and performing ap",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Mon, 19 Oct 2026 09:29:00 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/expel-systems-engineer",
+      "source": "weworkremotely",
+      "title": "Systems Engineer",
+      "company": "Expel",
+      "url": "https://weworkremotely.com/remote-jobs/expel-systems-engineer",
+      "description": "Headquarters: Remote Are you looking for a role where you're critical to every part of the business? Do you want to help ensure that our teams deliver software so that our analysts can deliver service to our customers? How about being a crucial part of making sure our internal teams operate efficiently? You're not afraid of new technology. In fact, you love diving in and figuring out how it works. Whether it's a successful launch or a few bumps in the road, you're always up for a challenge. Balancing multiple projects at once is no easy feat, but when everything clicks into place, there's nothing quite like that sense of satisfaction. The best part of the job? Seeing someone use a capability you've built and hearing them exclaim, \"Wow, I can't believe how easy that was.\" You care about the",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Mon, 19 Oct 2026 07:31:25 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/clover-health-director-ai-enabled-fraud-prevention-investigations",
+      "source": "weworkremotely",
+      "title": "Director, AI-Enabled Fraud Prevention & Investigations",
+      "company": "Clover Health",
+      "url": "https://weworkremotely.com/remote-jobs/clover-health-director-ai-enabled-fraud-prevention-investigations",
+      "description": "Headquarters: Remote - USA Clover Health is investing in our fraud detection and investigation capabilities and is seeking a Director, AI-Enabled Fraud Prevention & Investigations to join our Legal department as a senior individual contributor. This hybrid role combines: (1) managing hands-on investigations of potential provider fraud with (2) building AI-powered tools and processes to make investigations more efficient and help catch potential future fraud earlier. You will develop and pilot new AI-enabled investigatory processes for Clover’s Medicare Advantage business, and own resulting investigations, in collaboration with Clover’s Special Investigations Unit (SIU) and other stakeholders. This is a non-attorney role.&nbsp; You will work hand-in-hand with Clover’s lawyers and SIU to ens",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Mon, 19 Oct 2026 07:31:11 +0000",
+      "category": "full-stack"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-product-platform",
@@ -2133,21 +2208,6 @@
       "category": "full-stack"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/stripe-abuse-research-engineer",
-      "source": "weworkremotely",
-      "title": "Abuse Research Engineer",
-      "company": "Stripe",
-      "url": "https://weworkremotely.com/remote-jobs/stripe-abuse-research-engineer",
-      "description": "Headquarters: Remote from the US Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team Abuse Research Group (ARG) handles proactive threat hunting and adversary behavior analysis across Stripe products. Rather than reacting to alerts, the team maps end-to-end fraud and abuse paths, validates novel attack vectors, and ",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Sun, 04 Oct 2026 07:31:08 +0000",
-      "category": "full-stack"
-    },
-    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/sticker-mule-si-agent-engineer",
       "source": "weworkremotely",
       "title": "SI agent engineer",
@@ -2221,6 +2281,21 @@
       ],
       "postedAt": "Sun, 16 Jun 2024 17:30:51 +0000",
       "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/talkspace-billing-and-claims-support-representative",
+      "source": "weworkremotely",
+      "title": "Billing and Claims Support Representative",
+      "company": "Talkspace",
+      "url": "https://weworkremotely.com/remote-jobs/talkspace-billing-and-claims-support-representative",
+      "description": "Headquarters: New York, NY (Remote) At Talkspace, we are committed to fostering a diverse, equitable, inclusive, and belonging-centered workplace where everyone can thrive while making a difference in mental health. Want to help over two million people receive quality mental healthcare? Come join our mission of getting therapy in the hands of everyone! We are looking for an experienced Billing and Claims Support Representatitve to join our Customer Support &nbsp; team. This role would be responsible for educating clients on our billing and claims procedures, swiftly addressing escalated inquiries with empathy and accuracy.&nbsp; We are looking for someone who has experience providing white-glove service to our clients, ensuring they feel cared for and supported in every interaction. You'll",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Management and Finance",
+        "management"
+      ],
+      "postedAt": "Mon, 19 Oct 2026 07:31:12 +0000",
+      "category": "management"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/alloy-client-enablement-lead",
@@ -2445,21 +2520,6 @@
         "management"
       ],
       "postedAt": "Sat, 26 Sep 2026 07:30:50 +0000",
-      "category": "management"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/squarespace-senior-staff-operations-manager-office-of-the-president-ped",
-      "source": "weworkremotely",
-      "title": "Senior Staff Operations Manager, Office of the President (PED)",
-      "company": "Squarespace",
-      "url": "https://weworkremotely.com/remote-jobs/squarespace-senior-staff-operations-manager-office-of-the-president-ped",
-      "description": "Headquarters: Remote, California We are looking for a Chief of Staff–style operator to serve as the President’s right hand and help run, maintain, and continuously evolve the Product, Engineering & Design operating model and cadence.&nbsp; This role will turn strategy into a durable execution system. You will own the connective tissue across the President’s leadership cadence: preparing the right inputs, creating clarity on decisions and tradeoffs, ensuring commitments are followed through, surfacing risks early, and improving the operating model as the organization changes. You will work across Product, Engineering, Design, Commercial, Finance, People, and your peers in Business Operations, partnering with senior leaders who do not report to you and influencing through judgment, trust, an",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Management and Finance",
-        "management"
-      ],
-      "postedAt": "Wed, 23 Sep 2026 07:31:13 +0000",
       "category": "management"
     },
     {
