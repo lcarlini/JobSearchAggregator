@@ -1,7 +1,183 @@
 {
-  "generatedAt": "2026-10-20T16:29:18.233Z",
+  "generatedAt": "2026-10-20T21:22:03.084Z",
   "count": 150,
   "data": [
+    {
+      "id": "6b0d204a-4eb1-402f-9244-f20d7fb09e1d",
+      "title": "Security Engineer Senior - GRC",
+      "url": "https://remotejobs.org/remote-jobs/security-engineer-senior-grc-alan",
+      "apply_url": "https://remotejobs.org/remote-jobs/security-engineer-senior-grc-alan",
+      "company": {
+        "name": "Alan",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/0c927d46d4657fbc9fc322297a8f2ba4c60904436f1121b7d490e1b4219e3ed5.png",
+        "website": "https://alan.com",
+        "url": "https://remotejobs.org/companies/alan"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "Anywhere in France",
+      "location_normalization": {
+        "raw": "Anywhere in France",
+        "input": {
+          "workArrangement": "hybrid"
+        },
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [
+          "anywhere in france"
+        ],
+        "work_arrangement": "hybrid",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "c2"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "hybrid",
+        "allowed_countries": [
+          "BE",
+          "ES",
+          "FR"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": "senior",
+        "role_family": "security",
+        "required_skills": [],
+        "mentioned_skills": [],
+        "preferred_skills": [],
+        "experience_requirements": []
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "14e49a11-ee06-48f6-93ef-ff7a49aaf219",
+      "direct_apply": null,
+      "description": "<h3><strong>Health can’t wait</strong>.</h3>\n<p>Not for symptoms to get worse. Not for a six‑month appointment. Not for a system to catch up. But that’s exactly how healthcare works today. You wait, until you can’t.</p>\n<p>Alan exists to end the wait.</p>\n<p>Health is a universal right, and we believe this right can only become real when it’s coupled with prevention. We need to stop treating health as something we repair and start treating it as something we build, every day. It’s not solely a question of willpower. It’s the healthcare system itself that needs to work for everyone, in a sustainable way.</p>\n<p>So we are building the<strong> new standard in prevention insurance. </strong>Alan is the first company that integrates insurance, prevention, and care into a single, acclaimed user experience.</p>\n<p>We are on an incredible journey to build a <strong>global leading company, with a </strong><a href=\"https://alan.com/en/careers\"><strong>unique culture</strong></a>. We already partner with 40K+ companies of all sizes, serving more than 1M+ members, and have reached €800M+ in ARR.</p>\n<p>Prevention as the new norm. That's what we're building with our team of 1000+ people. If it speaks to you: we're hiring across France, Spain, Belgium, and Canada. And beyond.</p>\n<h2>🛡️ The role</h2>\n<p>Most GRC roles are about keeping auditors happy. This one is about earning our members' trust: every day, they share their diagnoses, their claims and their care with us.</p>\n<p>You'll own security governance and risk at Alan end to end. That means one clear framework across our certifications and regulations, which the whole company uses to decide what matters most. You set the direction, make the calls on risk, and help every team own its part.</p>\n<p>We just earned our HDS certification, and there's much more to build as we grow from 1M to many millions of members, across more countries and regulators. That includes how we govern AI, which Alan uses across its products and operations.</p>\n<p>This is a hands-on senior role. You do the work yourself, mentor the junior GRC engineer we're hiring alongside you, and grow the team over time.</p>\n<h2>🚀 What you'll do</h2>\n<ul>\n<li>\n<p><strong>Make our security framework a tool for the whole company.</strong> You own the full certification cycle (ISO 27001, HDS and those to come), and turn it into something teams use every day to prioritise, not a binder for auditors.</p>\n</li>\n<li>\n<p><strong>Bring the security view on regulation.</strong> Legal and Risk own the regulatory relationships. You bring the security answer: what the rules mean for how we protect data, and which controls make it work in practice.</p>\n</li>\n<li>\n<p><strong>Run risk as an ongoing programme.</strong> You map and prioritise security risks, including AI risks, turn them into clear treatment plans, and feed them into company-wide risk decisions with the Risk team.</p>\n</li>\n<li>\n<p><strong>Help every team own its risks.</strong> You define the controls framework and the standards, while the teams who build and run our systems own the controls. You brief the board and audit committee, and you know which findings need an urgent call and which can wait for the quarterly report.</p>\n</li>\n<li>\n<p><strong>Own incident governance.</strong> You triage and escalate incidents, own business continuity and disaster recovery, and shape the security side of our regulatory incident reports.</p>\n</li>\n<li>\n<p><strong>Be a credible partner to engineering.</strong> You work with engineering teams early on new designs and spot control gaps (access, encryption, logging) before they ship. You don't need to be an architect, but you can hold the conversation.</p>\n</li>\n</ul>\n<h2>🏗️ What you'll build</h2>\n<ul>\n<li>\n<p><strong>One governance model:</strong> clear ownership of risks and controls across teams, so security decisions don't bottleneck on one person.</p>\n</li>\n<li>\n<p><strong>A living risk map:</strong> prioritised risks that actually drive company and engineering decisions.</p>\n</li>\n<li>\n<p><strong>One compliance backbone:</strong> a single control system across our countries and regulators, built to scale.</p>\n</li>\n<li>\n<p><strong>An automated evidence engine:</strong> evidence collected straight from engineering systems, so audits run continuously instead of as a quarterly rush.</p>\n</li>\n</ul>\n<p>You'll work closely with Legal, the Data Protection Officer, Internal Audit and Risk, and day to day with engineering and operations teams.</p>\n<h2>⭐ What we're looking for</h2>\n<p><strong>Your team</strong></p>\n<p>You'll join Alan's Corporate team, which brings together our control functions: Risk, Corporate Governance &#x26; Internal Control, Legal, Compliance and Security. They share one mission: building what lets Alan operate at scale, safely and responsibly. Within that group, you carry the security governance and risk dimension, working hand in hand with the security engineers who run our infrastructure and platform security, and with a junior GRC engineer we're hiring alongside you. You'll be hands-on every day, building and owning the work yourself. Along the way, you'll mentor the junior engineer and help shape how GRC grows at Alan.</p>\n<p><strong>What you bring</strong></p>\n<ul>\n<li>\n<p>You want to build and own things yourself, and you enjoy helping someone else grow while you do it.</p>\n</li>\n<li>\n<p>6+ years in security, with real GRC ownership.</p>\n</li>\n<li>\n<p>You've run a GRC roadmap in a certified or strongly regulated environment (ISO 27001, HDS, SOC 2, or regulated sectors like health, insurance or finance). You're comfortable working with certification auditors, and you can explain what a framework requires and why it makes sense for business teams.</p>\n</li>\n<li>\n<p>You take a stand on risks, and you'd rather close one real risk than write ten policies.</p>\n</li>\n<li>\n<p>You're fluent in French and English.</p>\n</li>\n</ul>\n<p><strong>A big plus</strong></p>\n<ul>\n<li>\n<p>You've driven a certification or audit cycle end to end yourself.</p>\n</li>\n<li>\n<p>You've automated compliance work, or you're eager to, and you have a view on where AI can help.</p>\n</li>\n<li>\n<p>You've presented risk to senior leaders or a board.</p>\n</li>\n<li>\n<p>You've mentored or onboarded someone before.</p>\n</li>\n</ul>\n<h2>🌍 How we work</h2>\n<p><strong>Location:</strong> You must be legally eligible to work from France, Belgium or Spain.</p>\n<p><strong>Remote work:</strong> We offer remote work flexibility.</p>\n<h2><strong>🎯 Important note: we hire people, not roles.</strong></h2>\n<p>If you're excited about this opportunity but don't check every box, we'd love to hear from you. Everyone, no matter how underrepresented, should feel free to apply, as it can only bring learnings or success.</p>\n<p>Remember, this is just a guide, not a checklist. We'll be thrilled to receive your application!</p>\n<p>🔖 Check out our <a href=\"https://alan.com/about\">About Alan</a> and <a href=\"https://alan.com/careers\">Career</a> pages, as well as our <a href=\"https://medium.com/alan\">Medium</a>, <a href=\"https://blog.alan.com/\">blog</a> and <a href=\"https://www.glassdoor.com/Overview/Working-at-Alan-EI_IE1696043.11,15.htm\">Glassdoor page</a> for more info.</p>\n<h2><strong>You want to know more about Alan?</strong></h2>\n<p>🙌 <a href=\"https://alan.com/en/careers/a/salary-equity\">Perks &#x26; Benefits</a>: Alaners are provided with a stimulating environment and perks ensuring they are happy, efficient and spend only high-quality time with co-workers.</p>\n<p>🤘<a href=\"https://alan.com/en/about/a/leadership-principles\">A strong culture</a>: People joining Alan are often surprised and delighted by our innovative working method. We have a set of cultural values that guide our approach to work</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/security-engineer-senior-grc-alan</p>",
+      "posted_at": "2026-10-20T15:38:41.531+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "b6dd945d-e6e5-4204-927c-2c4d167612e8",
+      "title": "Security Engineer Junior - GRC",
+      "url": "https://remotejobs.org/remote-jobs/security-engineer-junior-grc-alan",
+      "apply_url": "https://remotejobs.org/remote-jobs/security-engineer-junior-grc-alan",
+      "company": {
+        "name": "Alan",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/0c927d46d4657fbc9fc322297a8f2ba4c60904436f1121b7d490e1b4219e3ed5.png",
+        "website": "https://alan.com",
+        "url": "https://remotejobs.org/companies/alan"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "Anywhere in France",
+      "location_normalization": {
+        "raw": "Anywhere in France",
+        "input": {
+          "workArrangement": "hybrid"
+        },
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [
+          "anywhere in france"
+        ],
+        "work_arrangement": "hybrid",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "c1"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "hybrid",
+        "allowed_countries": [
+          "BE",
+          "ES",
+          "FR"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": "junior",
+        "role_family": "security",
+        "required_skills": [],
+        "mentioned_skills": [],
+        "preferred_skills": [],
+        "experience_requirements": []
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "41224533-6e1c-45a5-9c18-7b1c3104c92d",
+      "direct_apply": null,
+      "description": "<h3><strong>Health can’t wait</strong>.</h3>\n<p>Not for symptoms to get worse. Not for a six‑month appointment. Not for a system to catch up. But that’s exactly how healthcare works today. You wait, until you can’t.</p>\n<p>Alan exists to end the wait.</p>\n<p>Health is a universal right, and we believe this right can only become real when it’s coupled with prevention. We need to stop treating health as something we repair and start treating it as something we build, every day. It’s not solely a question of willpower. It’s the healthcare system itself that needs to work for everyone, in a sustainable way.</p>\n<p>So we are building the<strong> new standard in prevention insurance. </strong>Alan is the first company that integrates insurance, prevention, and care into a single, acclaimed user experience.</p>\n<p>We are on an incredible journey to build a <strong>global leading company, with a </strong><a href=\"https://alan.com/en/careers\"><strong>unique culture</strong></a>. We already partner with 40K+ companies of all sizes, serving more than 1M+ members, and have reached €800M+ in ARR.</p>\n<p>Prevention as the new norm. That's what we're building with our team of 1000+ people. If it speaks to you: we're hiring across France, Spain, Belgium, and Canada. And beyond.</p>\n<h2>🛡️ The role</h2>\n<p>Most GRC roles are about keeping auditors happy. This one is about earning our members' trust: every day, they share their diagnoses, their claims and their care with us.</p>\n<p>You'll join Alan's security team to help run our compliance and risk work across ISO 27001, HDS and DORA, across a growing number of countries and regulators. We just earned our HDS certification, and there's much more to build, including how we govern AI across our products: assessing AI risks, setting the controls, and keeping up with the AI Act.</p>\n<p>You'll learn alongside experienced security engineers, with a dedicated coach from day one. You'll take on real ownership early, and your scope grows as we scale from 1M to many millions of members. And you'll learn how we work at Alan: teams own their risks and controls, we automate wherever we can, and we focus on real outcomes, not paperwork.</p>\n<h2>🚀 What you'll do</h2>\n<ul>\n<li>\n<p><strong>Keep our certifications on track.</strong> You run the day-to-day of the ISO 27001 and HDS audit cycles: collecting evidence, preparing internal audits, and following up on corrective actions until they're closed.</p>\n</li>\n<li>\n<p><strong>Turn regulations into practical actions.</strong> With Legal and the DPO, you help translate requirements like DORA, HDS, and GDPR into clear tasks for the teams, and track that they get done.</p>\n</li>\n<li>\n<p><strong>Learn the health sector rules.</strong> You build your knowledge of health-specific frameworks (ANS, HDS) and help apply them to how we handle health data.</p>\n</li>\n<li>\n<p><strong>Contribute to risk management.</strong> You help build and update our risk mapping, including AI risks, and follow up on the treatment plans with the teams who own them.</p>\n</li>\n<li>\n<p><strong>Support the teams who own the controls.</strong> You keep the controls framework up to date, answer teams' questions, and help explain security clearly to every stakeholder, from engineers to managers.</p>\n</li>\n<li>\n<p><strong>Support incident governance.</strong> You help classify and document incidents, keep Business continuity and Disaster recovery plans up to date, and prepare inputs for DORA incident reports.</p>\n</li>\n<li>\n<p><strong>Automate what slows us down.</strong> You spot repetitive compliance tasks and automate them with scripts, tools or AI.</p>\n</li>\n</ul>\n<h2>🏗️ What you'll help build</h2>\n<ul>\n<li>\n<p><strong>One compliance backbone:</strong> A single control system for several regulators in several countries, so Alan can scale without rebuilding compliance each time.</p>\n</li>\n<li>\n<p><strong>An automated evidence engine:</strong> evidence collected straight from engineering systems with scripts and AI, so audits run continuously instead of as a quarterly rush.</p>\n</li>\n</ul>\n<p>You'll work closely with Legal, the DPO, Internal Audit and Risk, and day to day with engineering and operations teams.</p>\n<h2>⭐ What we're looking for</h2>\n<ul>\n<li>\n<p>You want to do the work yourself and grow with it: a permanent, hands-on role where you build things for the long run.</p>\n</li>\n<li>\n<p>2+ years in security, GRC or compliance (an audit background is fine if you want to move into building).</p>\n</li>\n<li>\n<p>You've played a key part in a certification or audit cycle (ISO 27001, HDS, SOC 2 or similar).</p>\n</li>\n<li>\n<p>You're curious about how things work technically, and you've automated at least one manual task (a script, a tool, an AI workflow).</p>\n</li>\n<li>\n<p>You're fluent in French and English, and comfortable presenting in both.</p>\n</li>\n<li>\n<p>You learn fast, ask for feedback, and go into the details when it matters.</p>\n</li>\n</ul>\n<h2>🌍 How we work</h2>\n<p><strong>Location:</strong> You must be legally eligible to work from France, Belgium or Spain.</p>\n<p><strong>Remote work:</strong> We offer remote work flexibility.</p>\n<h3><strong>🎯 Important note: we hire people, not roles.</strong></h3>\n<p>If you're excited about this opportunity but don't check every box, we'd love to hear from you. Everyone, no matter how underrepresented, should feel free to apply, as it can only bring learnings or success.</p>\n<p>🔖 Check out our <a href=\"https://alan.com/about\">About Alan</a> and <a href=\"https://alan.com/careers\">Career</a> pages, as well as our <a href=\"https://medium.com/alan\">Medium</a>, <a href=\"https://blog.alan.com/\">blog</a> and <a href=\"https://www.glassdoor.com/Overview/Working-at-Alan-EI_IE1696043.11,15.htm\">Glassdoor page</a> for more info.</p>\n<h3><strong>You want to know more about Alan?</strong></h3>\n<p>🙌 <a href=\"https://alan.com/en/careers/a/salary-equity\">Perks &#x26; Benefits</a>: Alaners are provided with a stimulating environment and perks ensuring they are happy, efficient and spend only high-quality time with co-workers.</p>\n<p>🤘<a href=\"https://alan.com/en/about/a/leadership-principles\">A strong culture</a>: People joining Alan are often surprised and delighted by our innovative working method. We have a set of cultural values that guide our approach to work</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/security-engineer-junior-grc-alan</p>",
+      "posted_at": "2026-10-20T15:30:25.264+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
     {
       "id": "e5017884-fc7c-438a-9a00-200743fdb098",
       "title": "Full Stack Engineer",
@@ -786,6 +962,81 @@
       "direct_apply": null,
       "description": "<p>Category: Education <br><br>Location: <br><br><br></p><p>We are looking for a great JavaScript developer who is proficient with React.js. Your primary focus will be on developing user interface components and implementing them following well-known React.js workflows (such as Flux or Redux). You will ensure that these components and the overall application are robust and easy to maintain. You will coordinate with the rest of the team working on different layers of the infrastructure. Therefore, a commitment to collaborative problem solving, sophisticated design, and quality product is important. <br>\n</p><p>\n<strong>Responsibilities:</strong><br>\n</p><ul>\n<li>Developing new user-facing features using React.js<br>\n</li>\n<li>Building reusable components and front-end libraries for future use<br>\n</li>\n<li>Translating designs and wireframes into high quality code<br>\n</li>\n<li>Optimizing components for maximum performance across a vast array of web-capable devices and browsers<br>\n</li>\n</ul><p>\n<strong>Our Tech Stack</strong>:<br>\n</p><ul>\n<li>Svelte.js<br>\n</li>\n<li>React.js<br>\n</li>\n<li>Jest.js (Testing)<br>\n</li>\n<li>Tailwind<br>\n</li>\n<li>Typescript<br>\n</li>\n<li>GraphQL<br>\n</li>\n<li>Flutter<br>\n</li>\n<li>Terraform<br>\n</li>\n<li>Elixir / Node.js<br>\n</li>\n<li>AWS / Azure Cloud<br>\n</li>\n</ul><h2>Requirements</h2><ul>\n<li>2+ years of experience in React / Angular / Web Frameworks, Jest (unit testing). <br>\n</li>\n<li>Having GraphQL experience is a big plus.<br>\n</li>\n<li>Having Svelte experience is a big plus.<br>\n</li>\n<li>An excellent team player.<br>\n</li>\n<li>Constantly thinking about improving the current code, usability, user experience. Having laser focus on making the app super amazing and helping the team and company succeed.<br>\n</li>\n<li>Excellent communication and interpersonal skills. In the new world of work from home, we expect the ideal candidate to over-communicate.<br>\n</li>\n<li>Humility, collaboration, time management, and communication are as important as your technical skills.<br>\n</li>\n<li>Analytical thinker with exceptional problem-solving skills.<br>\n</li>\n<li>Excited about writing quality code, trying new technologies, and playing well with others.<br>\n</li>\n<li>Solid understanding of engineering and design best practices, especially as it relates to scaling high traffic and data heavy applications.<br>\n</li>\n<li>Previous experience with designing, building, and scaling an application to support load changes related to growth.<br>\n</li>\n<li>Comfortable in dealing with complexity, lots of moving pieces, coordinating with third parties, and cross-functional teams.<br>\n</li>\n<li>Exquisite attention to detail, ability to identify and solve edge-cases.<br>\n</li>\n<li>Comfortable learning new technologies and systems.<br>\n</li>\n</ul><p>\n<strong>Do Not Apply If:</strong><br>\n</p><ul>\n<li>If you haven’t used Git yet. <br>\n</li>\n<li>You are not comfortable with startups that move fast! We’re a small group (~40) of passionate individuals who are determined to change the status quo!<br>\n</li>\n</ul><h2>Benefits</h2><ul>\n<li>Opportunity to be a part of a dynamic growth focused tech startup <br>\n</li>\n<li>Great learning opportunities to develop new skills and understanding of cutting edge software tools and processes<br>\n</li>\n<li>Opportunity to work closely with serial tech entrepreneurs from Silicon Valley<br>\n</li>\n<li>Fun-loving environment and caring team mates and inclusive culture of the company<br>\n</li>\n</ul><p><br><br><br><br>Details</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/reactjs-svelte-engineer-remote-job-enthuziastic</p>",
       "posted_at": "2026-10-19T20:37:29+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "df07be6d-9634-45e7-b416-51ebaef157d9",
+      "title": "Software Engineer, Developer Platform",
+      "url": "https://remotejobs.org/remote-jobs/software-engineer-developer-platform-global-hr-solutions-amp-employment-tools-for-distributed-teams",
+      "apply_url": "https://remotejobs.org/remote-jobs/software-engineer-developer-platform-global-hr-solutions-amp-employment-tools-for-distributed-teams",
+      "company": {
+        "name": "Global Hr Solutions &amp; Employment Tools For Distributed Teams",
+        "logo_url": null,
+        "website": "https://notion.so",
+        "url": "https://remotejobs.org/companies/global-hr-solutions-amp-employment-tools-for-distributed-teams"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "San Francisco, California",
+      "location_normalization": {
+        "raw": "San Francisco, California",
+        "input": {
+          "workArrangement": "hybrid"
+        },
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [
+          "san francisco"
+        ],
+        "work_arrangement": "hybrid",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "allowed_subdivisions": [
+          "US-CA"
+        ],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": null,
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": null,
+        "role_family": "software-engineering",
+        "required_skills": [],
+        "mentioned_skills": [
+          "typescript"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": [
+          {
+            "text": "7+ years of experience",
+            "maximum_years": null,
+            "minimum_years": 7,
+            "classification": "mentioned"
+          }
+        ]
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "8c0bf773-e536-45c9-9a6c-8ee478148cc8",
+      "direct_apply": null,
+      "description": "<h2>Who We Are</h2><p>Notion is the collaborative AI workspace where teams and agents <a href=\"https://www.youtube.com/watch?v=vkpYpWfEK5s\">think together</a>. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.</p><p>Notinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next feature. Each and every team of Notinos is working to set the standard for how humans work together in the AI era. From building a business’s system of record to making and managing AI agents to automating away the busy work, we care deeply about giving our customers more time for their life’s work.</p><h2>About the Role:</h2><p>As a <a href=\"https://www.notion.com/product/dev\">Developer Platform</a> engineer, you will directly contribute to the foundational pieces that make Notion extensible and connected. You will build tools, APIs, and platform experiences that help customers connect Notion to the world — bringing their apps, data, and workflows into one workspace. Your work will make it easier for developers, admins, and builders to create reliable integrations and automations on top of Notion.<br></p><p>You will be a key player in building the robust technical foundation that allows Notion to achieve the connected workspace vision. Your work will include both internal platform contributions that accelerate other Notion engineering teams and end-user-facing functionality that enables toolmaking ubiquity. You will be presented with challenging technical problems, as Notion’s product needs are complex. You’ll play a key role in identifying and executing against technical investments that ensure the long-term quality, reliability, and performance of Notion’s platform as we scale.<br></p><p>This role can be based in either San Francisco or New York City. We work from our offices on Mondays, Tuesdays and Thursdays (our Anchor Days) because we do our best thinking and building together in person. We’re looking for someone who’s excited to work alongside the team during those days. </p><h2>What You'll Achieve:</h2><ul><li><p>You’ll work with a team of engineers and cross-functional partners across product, design, data science, and user research to define a product strategy and drive execution through conception, research, implementation, and maintenance.</p></li><li><p>You’ll evolve Developer Platform capabilities across APIs, MCP tools, and integration infrastructure that help customers automate workflows, customize Notion, and connect Notion to the tools and data they use every day.</p></li><li><p>You’ll contribute to the overall performance, reliability, and robustness of the Notion product, ensuring it scales elegantly across many dimensions.</p></li><li><p>You’ll partner with engineering leaders to identify and execute against high-leverage technical investments that ensure the long-term flexibility and sustainability of our core systems.</p></li></ul><h2>Skills You'll Need to Bring: </h2><ul><li><p>7+ years of experience shipping production software, with a strong track record of owning features end-to-end</p></li><li><p>Fluency with TypeScript across both backend and frontend</p></li><li><p>Strong product instincts: you can take a vague problem, propose a solid technical approach, and know when to cut scope</p></li><li><p>You don’t need to be an AI expert, but you’re curious and willing to adopt AI tools to work smarter and deliver better results</p></li></ul><h2>Nice to Haves:</h2><ul><li><p>Experience building developer tools like APIs and SDKs</p></li><li><p>Experience driving teams toward shared goals and balancing business priorities with individuals’ strengths, areas of interest, and career development goals</p></li><li><p>Familiarity with AI/agent tooling, evals, or LLM-driven product experiences</p></li></ul><p>Notion is committed to providing highly competitive cash compensation, equity, and benefits. The compensation offered for this role will be based on multiple factors such as location, the role’s scope and complexity, and the candidate’s experience and expertise, and may vary from the range provided below. For roles based in San Francisco or New York City, the estimated base salary range for this role is $179,000 – $200,000 per year.</p><p>By clicking “Submit Application”, I understand and agree that Notion and its affiliates and subsidiaries will collect and process my information in accordance with Notion’s <a href=\"https://notion.notion.site/Notion-Global-Recruiting-Privacy-Policy-fc3eb4e829354a26a2bb6fd5e289b550?pvs=74\">Global Recruiting Privacy Policy</a> and <a href=\"https://notion.notion.site/Ashby-AI-Bias-Audit-2b0efdeead05803bbbfae159ec86c528\">NYLL 144</a>.</p><p>#LI-Onsite</p><h2>A Note on AI</h2><p>You don’t need deep AI expertise for every role, but we do expect every Notino to be intellectually curious, drawn to tinkering and discovery, and excited to use AI as a real collaborator in their work. For some roles, AI fluency is a core requirement — when that’s the case, we'll say so explicitly in the qualifications. People who thrive here don’t treat AI as a novelty. They use it to think better, and make their work easier for others to build on.</p><h2>Equal Opportunity &#x26; Accommodations</h2><p>We hire talented people from a wide range of backgrounds. If you’re excited about this role but don’t meet every bullet, we still encourage you to apply. Notion is an equal opportunity employer and does not discriminate on the basis of any legally protected characteristic. Consistent with applicable law, we will consider for employment qualified applicants with arrest and conviction records. Notion provides reasonable accommodations during the application process; if you need one, please let your recruiter know.</p><p>Notion is proud to be an equal opportunity employer. We do not discriminate in hiring or any employment decision based on race, color, religion, national origin, age, sex (including pregnancy, childbirth, or related medical conditions), marital status, ancestry, physical or mental disability, genetic information, veteran status, gender identity or expression, sexual orientation, or other applicable legally protected characteristic. Notion considers qualified applicants with criminal histories, consistent with applicable federal, state and local law. Notion is also committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please let your recruiter know.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/software-engineer-developer-platform-global-hr-solutions-amp-employment-tools-for-distributed-teams</p>",
+      "posted_at": "2026-10-19T17:28:06.956+00:00",
       "is_translated": false,
       "original_language": null
     },
@@ -2163,7 +2414,29 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [
+          "GR"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -2305,7 +2578,31 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [
+          "Work arrangement conflict: description:6 says the role is based onsite at the Herndon, Virginia headquarters, while description:46 says it is a fully remote role open anywhere in the U.S. The required work arrangement cannot be fully resolved."
+        ],
+        "evidence_ids": [
+          "c1"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -3263,7 +3560,30 @@
         ],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "c2",
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "hybrid",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [
+          "US-MI"
+        ],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -3539,275 +3859,6 @@
       "direct_apply": null,
       "description": "<p><strong>Systems Engineer – Active Directory</strong><br></p><ul>\n<li>Support, design, install, customize, and maintain servers and all associated components.</li>\n<li>Provide general administration of systems. This includes user access administration, system services, configurations, and the development of tools to manage the environment.</li>\n<li>Assists with the development of prototypes/proofs of concepts to validate key project assumptions prior to making significant investments.</li>\n<li>Provide break/fix support of associated software and operating system.</li>\n<li>Communicating with team, customers, and sponsors effectively. Able to establish credibility by appealing to reason and using research, data and facts.</li>\n<li>Maintain system performance by pro-active monitoring and trending the utilization of system resources.</li>\n<li>Maintain system reliability and availability by managing system updates and patches.</li>\n<li>Design, install and implement systems to provide efficient, cost-effective solutions for the business' computing needs. Research industry trends and directions within the industry, to assist with developing long-term IT infrastructure strategies.</li>\n<li>Assists with the identification of system requirements. Devises or modifies procedures to solve problems considering computer equipment capacity and limitations, operating time, form of desired results, and integration of components.</li>\n<li>Use appropriate change control procedures for implementing software enhancements.</li>\n<li>Oversees systems testing, leads integration testing, and assists in user testing.</li>\n<li>Coordinates the maintenance of assigned applications.</li>\n<li>Monitors system and application performance metrics. May provide input to solutions and/or recommendations for improvements.</li>\n<li>Remain abreast of current technologies and best practices that may be applicable to the company.</li>\n<li>Establishes relationships with the users and the IT organization to provide technical solutions to meet user needs through the analysis of business workflows and an understanding of business needs.</li>\n<li>Assists in the performance of Merger and Acquisitions</li>\n<li>Assists in Domain mergers and divestures.<br><br><strong>Essential Skills/Experience:</strong>\n</li>\n</ul><h2>Active Directory - Microsoft centric environment</h2><ul>\n<li>Basic computer skills: Operating Systems, Microsoft Office</li>\n<li>Provide support for Active Directory and related technologies:</li>\n<li>Active Directory Domain Services (ADDS)</li>\n<li>Sites and Services Configuration</li>\n<li>Azure Entra ID</li>\n<li>AD Connect</li>\n<li>DNS</li>\n<li>DHCP</li>\n<li>Microsoft Certificate Authority (MSCA)</li>\n<li>KMS and RDP licensing</li>\n<li>PowerShell scripting</li>\n</ul><h2>TCP/IP Subnetting</h2><p><strong>Working Conditions:</strong><br></p><ul>\n<li>Professional office environment, expected to be hybrid or fully remote.</li>\n<li>24-hour on-call support will require occasional night and weekend work.</li>\n<li>Willingness to work overtime hours as necessary, especially during critical issue resolution and to achieve project milestones.</li>\n<li>Will be required to carry cell phones and be accessible after hours as needed.<br><br><strong>Minimum Requirements:</strong><br> Five (5) years business experience using and supporting active directory, computing, and network technology in an enterprise environment.<br><br><strong>Preferred Qualifications:</strong><br> Bachelor's degree in business, Computer Science, or related discipline from an accredited four-year college/university<br><br><strong>Additional Knowledge, Skills, and Abilities:</strong><br><br>\n</li>\n<li>Expresses technical and business concepts, ideas, feelings, opinions, and conclusions so that others understand or are persuaded to act.</li>\n<li>Creates an environment that encourages and values the opinions of others and promotes sharing of information and ideas.</li>\n<li>Consistently displays awareness and sensitivity to the needs of internal and/or external clients. Proactively ensures these needs are met or exceeded.</li>\n<li>Makes decision by quickly assessing the scope of an issue and providing options leading to its closure. Determines appropriate options based on the situation.</li>\n<li>Proactively identifies present and future obstacles, issues, and opportunities. Take actions to address such obstacles.</li>\n<li>Develop plans prior to acting and executes accordingly. Sets and renegotiates priorities to achieve goals.</li>\n<li>Thinks critically and anticipates, recognizes, identifies, and develops solutions to problems in a timely manner.</li>\n<li>Fosters an environment where individuals collaborate in pursuit of a common mission and mutual goals.</li>\n<li>Identifies risks and obstacles to plans. Defines scarcity and conflicts of resource needs, and potential constraints. Investigates risks within various project elements, assesses impact, and develops contingencyplans to address major risks.</li>\n<li>Knowledge of the systems architecture used consistently within or across the organization or enterprise.<br> In depth experience with architecture, installation and support of</li>\n<li>Active Directory and domain migrations and consolidations</li>\n<li>Server hardware support experience</li>\n<li>PowerShell scripting experience</li>\n<li>Cloud services experience: AWS, Azure</li>\n<li>Virtualization experience: VMware</li>\n<li>Leads the identification of system requirements. Devises or modifies procedures to solve problems considering computer equipment capacity and limitations, operating time, form of desired results, and integration of components</li>\n</ul><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/systems-engineer-inizio-partners-corp</p>",
       "posted_at": "2026-10-18T21:55:15+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "ade8291d-aa1d-4e91-9098-3f430d7e6e3a",
-      "title": "Director, Healthcare Commissioning",
-      "url": "https://remotejobs.org/remote-jobs/director-healthcare-commissioning-jll",
-      "apply_url": "https://remotejobs.org/remote-jobs/director-healthcare-commissioning-jll",
-      "company": {
-        "name": "JLL",
-        "logo_url": "https://we-work-remotely.imgix.net/logos/0171/5813/logo.gif",
-        "website": "https://jll.com",
-        "url": "https://remotejobs.org/companies/jll"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "United States",
-      "location_normalization": {
-        "raw": "United States",
-        "input": {},
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "partial",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [
-          "The description lists \"Remote –Atlanta, GA, Dallas, TX, Raleigh, NC, San Francisco, CA\". It is unclear whether applicants must live in or near these cities, or whether they are only hub or reporting locations, so it cannot be represented as a state-level or city residency rule."
-        ],
-        "evidence_ids": [
-          "source-location"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "remote",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-sonnet-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": "director",
-        "role_family": null,
-        "required_skills": [],
-        "mentioned_skills": [],
-        "preferred_skills": [],
-        "experience_requirements": []
-      },
-      "salary_min": 165000,
-      "salary_max": 195000,
-      "salary_text": "USD 165,000–195,000/year",
-      "salary_source_text": "USD 165000 - 195000",
-      "salary_currency": "USD",
-      "salary_period": "year",
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<p><strong>JLL empowers you to shape a brighter way</strong>.  </p><p>Our people at JLL are shaping the future of real estate for a better world by combining world class services, advisory and technology for our clients. We are committed to hiring the best, most talented people and empowering them to thrive, grow meaningful careers and to find a place where they belong.  Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry, join our team as we help shape a brighter way forward.   </p><p><strong>What this job involves - </strong>JLL is seeking an experienced Healthcare Commissioning Director to join our Commissioning team. This role requires independent leadership, strong technical expertise, and the ability to collaborate with diverse internal and external stakeholders across all organizational levels.  The successful candidate will drive business development efforts, support proposal excellence and collaborate with leadership to identify and pursue opportunities that expand the commissioning practice.</p><h2>Key Responsibilities</h2><h2>Technical Leadership &#x26; Project Management</h2><ul>\n<li>Manage staffing requirements to support successful project delivery while maintaining core profitability metrics</li>\n<li>Mentor and manage commissioning staff and contribute to team growth</li>\n<li>Demonstrated experience delivering commissioning projects in accordance with BCxA, ACG, LEED, NIBS Guideline 3 and ASHRAE guidelines and recognized industry best practice. Lead commissioning efforts for mission-critical facilities including acute care hospitals, medical centers, and P3 infrastructure projects through all delivery phases from design review through testing, turnover, and warranty.</li>\n<li>Protect JLL's contractual position and ensure all work meets contracted requirements</li>\n<li>Liaise with team members, external consultants, and contractors to lead cross-functional teams</li>\n</ul><h2>Business Development</h2><ul>\n<li>Lead Business Development efforts across the United States</li>\n<li>Support business development through proposal development</li>\n<li>Participate in industry events and networking opportunities</li>\n<li>Build new client relationships</li>\n</ul><h2>Field-Based Commissioning Activities</h2><ul>\n<li>Conduct comprehensive site reviews and evaluations</li>\n<li>Witness and verify equipment start-up, TAB activities and testing procedures</li>\n<li>Execute Functional Testing and Integrated Systems Testing</li>\n<li>Utilize calibrated testing equipment (flow hoods, anemometers, pitot tubes, IR cameras, meters, etc.)</li>\n<li>Develop and execute seasonal and performance testing protocols</li>\n</ul><h2>Documentation &#x26; Deliverables</h2><ul>\n<li>Perform Commissioning Design Drawing &#x26; Specification Reviews</li>\n<li>Review contractor submittals (shop drawings) and sequence of operations for compliance and quality</li>\n<li>Chair commissioning meetings with project stakeholders</li>\n<li>Prepare Pre-functional Checklists, Functional Test Forms, and Integrated Systems Test Forms</li>\n<li>Execute NFPA 3 and NFPA 4 Integrated Fire Protection and Life Safety System Testing</li>\n<li>Manage all project documentation requirements from preparation through issuance</li>\n<li>Proficiency in developing and reviewing training programs for installed equipment and systems</li>\n<li>Develop, track, and resolve issues using an Issues Log</li>\n</ul><h2>Education &#x26; Certifications</h2><ul>\n<li>Recognized university degree (Engineering degree preferred)</li>\n<li>Minimum 5 years of Healthcare related commissioning experience</li>\n<li>Any combination of the following designations is considered an asset:<ul>\n<li>BCxP (Building Commissioning Professional)</li>\n<li>CCP (Certified Commissioning Professional)</li>\n<li>CBCP (Certified Building Commissioning Professional)</li>\n<li>CEM (Certified Energy Manager)</li>\n<li>LEED AP (Leadership in Energy and Environmental Design Accredited Professional)</li>\n<li>CxA (ACG Certified Commissioning Authority)</li>\n<li>PE (Professional Engineer, licensed in the United States)</li>\n<li>PMP (Project Management Professional)</li>\n</ul>\n</li>\n</ul><h2>Technical Expertise</h2><ul>\n<li>Deep understanding of Mechanical, Electrical, Security, and Communications equipment/systems and associated commissioning activities</li>\n<li>Experience with Building Envelope Commissioning is an asset</li>\n<li>Fluency with all commissioning processes and deliverables covered in ASHRAE, ACG, and LEED commissioning requirements, including ASHRAE 170, NFPA 99, and FGI Guidelines for healthcare facilities</li>\n<li>Fluency and experience with NFPA 3 and NFPA 4 Integrated Testing of Fire Protection and Life Safety Systems</li>\n<li>Proficiency with commissioning software such as Cx Alloy, Facility Grid, Procore, Bluerithm</li>\n</ul><h2>Skills &#x26; Competencies</h2><ul>\n<li>Excellent written and verbal communication skills with proven record of running commissioning meetings and other stakeholder meetings</li>\n<li>Proficiency in MS Office suite</li>\n<li>Proficiency with commissioning software platforms</li>\n<li>Strong ability to coordinate and organize multiple sources of schedule inputs and performance data into master schedule platforms</li>\n<li>Demonstrated capability to analyze and report against contractor and third-party schedule updates</li>\n<li>Exceptional organizational and time management abilities</li>\n</ul><p>This position does not provide visa sponsorship. Candidates must be authorized to work in the United States without sponsorship.</p><h2>Expected compensation for this position:</h2><h2>165,000.00 – 195,000.00 USD per year</h2><p><em>Final compensation packages are determined by various considerations including but not limited to candidate qualifications, location, market conditions, and internal considerations.</em></p><h2>Location:</h2><p>Remote –Atlanta, GA, Dallas, TX, Raleigh, NC, San Francisco, CA<br></p><p>If this job description resonates with you, we encourage you to apply, even if you don’t meet all the requirements.  We’re interested in getting to know you and what you bring to the table!</p><p><strong>Personalized benefits that support personal well-being and growth:</strong></p><p>JLL recognizes the impact that the workplace can have on your wellness, so we offer a supportive culture and comprehensive benefits package that prioritizes mental, physical and emotional health. Some of these benefits include:</p><ul>\n<li>401(k) plan with matching company contributions</li>\n<li>Comprehensive Medical, Dental &#x26; Vision Care</li>\n<li>Paid parental leave at 100% of salary </li>\n<li>Paid Time Off and Company Holidays</li>\n<li>Early access to earned wages through Daily Pay</li>\n</ul><p>At JLL, we harness the power of artificial intelligence (AI) to efficiently accelerate meaningful connections between candidates and opportunities. Using AI capabilities, we analyze your application for relevant skills, experiences, and qualifications to generate valuable insights about how your unique profile aligns with the specific requirements of the role you're pursuing.</p><p><em><strong>JLL Privacy Notice</strong></em></p><p>Jones Lang LaSalle (JLL), together with its subsidiaries and affiliates, is a leading global provider of real estate and investment management services. We take our responsibility to protect the personal information provided to us seriously. Generally the personal information we collect from you are for the purposes of processing in connection with JLL’s recruitment process. We endeavour to keep your personal information secure with appropriate level of security and keep for as long as we need it for legitimate business or legal reasons. We will then delete it safely and securely.</p><p>For more information about how JLL processes your personal data, please view our Candidate Privacy Statement.</p><p>For additional details please see our career site pages for each country.</p><p>For candidates in the United States, please see a full copy of our Equal Employment Opportunity policy here.</p><p>Jones Lang LaSalle (“JLL”) is an Equal Opportunity Employer and is committed to working with and providing reasonable accommodations to individuals with disabilities.  If you need a reasonable accommodation because of a disability for any part of the employment process – including the online application and/or overall selection process – you may email us at . This email is only to request an accommodation. Please direct any other general recruiting inquiries to our Contact Us page > I want to work for JLL.</p><p>Pursuant to the Arizona Civil Rights Act, criminal convictions are not an absolute bar to employment.</p><p>Pursuant to Illinois Law, applicants are not obligated to disclose sealed or expunged records of conviction or arrest.</p><p>Pursuant to Columbia, SC ordinance, this position is subject to a background check for any convictions directly related to its duties and responsibilities. Only job-related convictions will be considered and will not automatically disqualify the candidate.</p><h2>California Residents only</h2><p>If you are a California resident as defined in the California Consumer Privacy Act (CCPA) please view our Supplemental Privacy Statement which describes your rights and disclosures about your personal information. If you are viewing this on a mobile device you may want to view the CCPA version on a larger device.</p><p>Pursuant to the Los Angeles Fair Chance Initiative for Hiring Ordinance, JLL will consider for employment all qualified Applicants, including those with Criminal Histories, in a manner consistent with the requirements of applicable state and local laws, including the City of Los Angeles’ Fair Chance Initiative for Hiring Ordinance.</p><p>Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.</p><p>Accepting applications on an ongoing basis until candidate identified.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/director-healthcare-commissioning-jll</p>",
-      "posted_at": "2026-10-18T21:52:45+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "d274f203-c3c0-4633-ad13-b89b815513e2",
-      "title": "Remote – Technical Manager of Electrical Engineering – Data Centres",
-      "url": "https://remotejobs.org/remote-jobs/remoto-responsable-tcnico-de-ingeniera-elctrica-data-centres-spanish-engineers",
-      "apply_url": "https://remotejobs.org/remote-jobs/remoto-responsable-tcnico-de-ingeniera-elctrica-data-centres-spanish-engineers",
-      "company": {
-        "name": "Spanish Engineers",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/dd7d675d22de36584406866b2bb517ec0293b8b312d252402bb36482f7ce11bf.webp",
-        "website": null,
-        "url": "https://remotejobs.org/companies/spanish-engineers"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "Spain",
-      "location_normalization": {
-        "raw": "Spain",
-        "input": {},
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "ES"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [],
-        "evidence_ids": [
-          "c1"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "remote",
-        "allowed_countries": [
-          "DE",
-          "ES",
-          "GB",
-          "IT",
-          "NL"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-sonnet-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": "manager",
-        "role_family": null,
-        "required_skills": [],
-        "mentioned_skills": [],
-        "preferred_skills": [],
-        "experience_requirements": [
-          {
-            "text": "5 years of experience in technical electrical leadership positions, such as Lead Electrical Engineer, Electrical Design Lead or Technical Manager of Electrical Engineering",
-            "maximum_years": null,
-            "minimum_years": 5,
-            "classification": "mentioned"
-          }
-        ]
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": null,
-      "salary_period": "year",
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<p>Desde Spanish Engineers we are looking for a <strong>Technical Manager of Electrical Engineering specializing in Data Centers</strong> to join an international technical consulting and construction company, participating in major large-scale data center projects in Europe.</p>\n<p>The selected person will play a key role in the technical oversight and validation of electrical designs, ensuring the reliability of critical power supply systems and compliance with the technical requirements of each project. Will work closely with engineering, design, construction and commissioning teams, as well as external consultants and other technical stakeholders.</p>\n<p>This is a position with European scope, with remote work modality and occasional travel to projects.</p>\n<p><strong>LOCATION:</strong> Remote from Spain, United Kingdom, Germany, Netherlands or Italy.</p>\n<p><strong>SECTOR:</strong> Data Centers/Critical Infrastructure.</p>\n<p><strong>MODALITY:</strong> 100% remote work with occasional travel throughout Europe.</p>\n<h2>FUNCTION AND RESPONSIBILITIES</h2>\n<ul>\n<li>Provide technical leadership and advice in electrical engineering for data center projects.</li>\n<li>Review and validate electrical designs from conceptual phases through detailed design, including drawings, single-line diagrams, load calculations and technical specifications.</li>\n<li>Oversee design solutions proposed by external engineering firms, identifying technical risks and proposing improvements.</li>\n<li>Evaluate high, medium and low voltage electrical systems, including UPS/SAI, generator sets, transformers, distribution cells and protection systems.</li>\n<li>Review critical power architectures and redundancy, including N+1, 2N and other high availability configurations.</li>\n<li>Ensure reliability, resilience, safety and maintainability of electrical installations.</li>\n<li>Coordinate electrical interfaces with mechanical, cooling, control, ICT, architecture and structural disciplines.</li>\n<li>Collaborate with project teams, consultants, contractors and suppliers to ensure the correct integration of engineering solutions.</li>\n<li>Provide technical support during construction, testing and commissioning phases of installations.</li>\n<li>Review commissioning procedures and results, including FAT/SAT tests and integrated system tests (IST).</li>\n<li>Verify compliance with applicable technical standards and data center design requirements.</li>\n<li>Participate in design review meetings, risk assessments and resolution of technical issues.</li>\n<li>Contribute to the optimization of electrical solutions, energy efficiency and future expansion capacity of installations.</li>\n</ul>\n<h2>REQUIREMENTS, EXPERIENCE AND TECHNICAL COMPETENCIES</h2>\n<ul>\n<li>University degree in Electrical Engineering or a related engineering discipline.</li>\n<li>At least 5 years of experience in technical electrical leadership positions, such as Lead Electrical Engineer, Electrical Design Lead or Technical Manager of Electrical Engineering.</li>\n<li>Direct experience in Data Center projects, preferably large-scale, <em>hyperscale</em> o <em>colocation</em>.</li>\n<li>Solid knowledge of critical electrical systems and high, medium and low voltage distribution.</li>\n<li>Experience with UPS/SAI systems, generator sets, transformers, distribution cells and electrical protection systems.</li>\n<li>Knowledge of redundancy, availability and resilience architectures in critical infrastructure.</li>\n<li>Experience in design review, technical documentation and solutions proposed by external engineering firms.</li>\n<li>Experience collaborating with construction, commissioning and startup teams.</li>\n<li>Knowledge of applicable electrical regulations and standards, such as IEC, IEEE, EN and BS.</li>\n<li>Knowledge of Uptime Institute Tier criteria and EN 50600 standard will be valued.</li>\n<li>Ability to coordinate multidisciplinary teams, solve technical problems and communicate recommendations clearly.</li>\n<li>Availability to travel occasionally to projects in Europe.</li>\n</ul>\n<h2>IDIOMAS</h2>\n<ul>\n<li><strong>Professional level English</strong>, both spoken and written (essential).</li>\n</ul>\n<h2>CONTRACT AND CONDITIONS</h2>\n<ul>\n<li>100% remote work modality from Spain, United Kingdom, Germany, Netherlands or Italy.</li>\n<li>Occasional travel to projects in different locations in Europe.</li>\n<li><strong>Remuneration</strong> according to experience and suitability for the position.</li>\n<li>Jornada completa.</li>\n<li>Participation in international large-scale Data Center projects.</li>\n<li>Opportunity to assume a technical reference role in the design and reliability of critical electrical infrastructure.</li>\n</ul>\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/remoto-responsable-tcnico-de-ingeniera-elctrica-data-centres-spanish-engineers</p>",
-      "posted_at": "2026-10-18T21:33:52+00:00",
-      "is_translated": true,
-      "original_language": "es"
-    },
-    {
-      "id": "740044f2-94d9-4128-be16-493cb05e01a2",
-      "title": "Integration Developer (Rhapsody / .NET)",
-      "url": "https://remotejobs.org/remote-jobs/integration-developer-rhapsody-net-next-generation-inc",
-      "apply_url": "https://remotejobs.org/remote-jobs/integration-developer-rhapsody-net-next-generation-inc",
-      "company": {
-        "name": "Next Generation Inc.",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/ce9491d7fbe7906a745fddc6e753c170e86dd7bec995960b362e6c95e2d20125.webp",
-        "website": null,
-        "url": "https://remotejobs.org/companies/next-generation-inc"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "United States",
-      "location_normalization": {
-        "raw": "United States",
-        "input": {},
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [],
-        "evidence_ids": [
-          "source-location"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "remote",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-sonnet-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": null,
-        "role_family": null,
-        "required_skills": [],
-        "mentioned_skills": [
-          "csharp",
-          "dotnet",
-          "sql"
-        ],
-        "preferred_skills": [],
-        "experience_requirements": []
-      },
-      "salary_min": 75,
-      "salary_max": 80,
-      "salary_text": "USD 75–80/hour",
-      "salary_source_text": "USD 75 - 80",
-      "salary_currency": "USD",
-      "salary_period": "hour",
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<h2><strong>Job Title</strong></h2>\n<h2>Integration Developer (Rhapsody / .NET)</h2>\n<h2><strong>Job Summary</strong></h2>\n<p>Next Generation, Inc., an Equal-Opportunity Employer, is seeking an experienced Integration Developer to support and maintain existing Rhapsody and .NET-based applications, troubleshoot and automate workflows, and contribute to a modernization initiative for legacy systems. This role is critical for managing public health data exchange processes and ensuring reliable integration between external organizations, DPH, and CDC systems. This role can be done remotely, with possible on-site visits to the Chicago area.</p>\n<h2><strong>Job Responsibilities</strong></h2>\n<ul>\n<li>Support and troubleshoot existing .NET applications and Windows-based infrastructure.</li>\n<li>Develop and maintain scripts and tools using PowerShell and SQL.</li>\n<li>Assist in planning and guiding modernization efforts for legacy systems and data integration.</li>\n<li>Evaluate and recommend modern technologies and tools for disease surveillance and data infrastructure.</li>\n<li>Collaborate with internal teams to assess architecture and recommend improvements.</li>\n<li>Provide documentation and knowledge transfer to internal staff.</li>\n</ul>\n<ul>\n<li>Manage and optimize data exchange processes between external organizations, DPH, and CDC.</li>\n<li>Configure, monitor, and troubleshoot interfaces using the Rhapsody Integration Engine.</li>\n<li>Maintain and enhance HL7 message routing, transformations, and mappings.</li>\n<li>Troubleshoot and maintain the NEDSS Base System (NBS).</li>\n<li>Implement upgrades and new functionality/modules.</li>\n<li>Maintain ancillary systems such as NBS Utilities and the ELR data store.</li>\n</ul>\n<h2><strong>Job Requirements</strong></h2>\n<ul>\n<li>Extensive experience with Rhapsody Integration Engine (interface development, message transformation, troubleshooting).</li>\n<li>Strong SQL development and troubleshooting skills</li>\n<li>Bachelors Degree in IT and/or strong related IT experience, including requirements analysis and programming</li>\n<li>Familiarity with Oracle PL/SQL.</li>\n<li>Proficient in C# and .NET Framework.</li>\n<li>Windows Server administration and IIS configuration.</li>\n<li>PowerShell scripting for automation and maintenance.</li>\n<li>Ability to contribute to planning and architectural discussions for system modernization.</li>\n<li>Experience evaluating and recommending modern technologies and tools for data systems.</li>\n<li>Ability to support public health data exchange systems and workflows.</li>\n</ul>\n<h2><em>Nice to Have:</em></h2>\n<ul>\n<li>Familiarity with HL7 or FHIR standards.</li>\n<li>Experience using TFS (Team Foundation Server).</li>\n<li>Knowledge of NBS/NEDSS systems and workflows.</li>\n<li>Experience with SMTP and SFTP protocols.</li>\n<li>Understanding of public health messaging vocabularies and clinical coding systems (LOINC, SNOMED, ICD-10-CM).</li>\n</ul>\n<h2><strong>Job Benefits</strong></h2>\n<ul>\n<li>Paid time off</li>\n<li>Medical insurance</li>\n<li>Dental plan</li>\n<li>Vision plan</li>\n<li>Life insurance</li>\n<li>Short-Term and Long-Term Disability</li>\n<li>Paid holidays</li>\n<li>Competitive hourly rate of $75-80 USD/hour based on experience, education, and location</li>\n</ul>\n<p>Salary: $75 – $80 / hour</p>\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/integration-developer-rhapsody-net-next-generation-inc</p>",
-      "posted_at": "2026-10-18T20:59:48+00:00",
       "is_translated": false,
       "original_language": null
     },
@@ -4119,7 +4170,29 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "hybrid",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
