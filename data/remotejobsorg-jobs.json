@@ -1,7 +1,107 @@
 {
-  "generatedAt": "2026-10-20T21:22:03.084Z",
+  "generatedAt": "2026-10-21T03:32:10.494Z",
   "count": 150,
   "data": [
+    {
+      "id": "1ec26970-4446-4a25-9bbf-666a1c866b98",
+      "title": "IT Operations Engineer",
+      "url": "https://remotejobs.org/remote-jobs/it-operations-engineer-roboflow",
+      "apply_url": "https://remotejobs.org/remote-jobs/it-operations-engineer-roboflow",
+      "company": {
+        "name": "Roboflow",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/db38519bbf73c97bb4a6ddf9f22936062f2a4b976c4f872e1de835df1eec899d.webp",
+        "website": "https://roboflow.com",
+        "url": "https://remotejobs.org/companies/roboflow"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "NY, SF or Remote ",
+      "location_normalization": {
+        "raw": "NY, SF or Remote ",
+        "input": {},
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [
+          "ny",
+          "sf or"
+        ],
+        "work_arrangement": "remote",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [
+          {
+            "kind": "timezone",
+            "areas": [],
+            "effect": "context",
+            "details": "Roboflow primarily operates during the daytime hours in the US and there are some synchronous meetings you'll be expected to attend each week.",
+            "regions": [],
+            "timezones": [],
+            "evidence_id": "c2",
+            "conditional_on": null
+          }
+        ],
+        "unresolved": [
+          "The header location 'NY, SF or Remote' does not enumerate an applicant country or subdivision for the Remote option; the description's 'distributed across the US and Europe' is company context and does not state which applicant locations are eligible for this role."
+        ],
+        "evidence_ids": [
+          "c2"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "hybrid",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": null,
+        "role_family": null,
+        "required_skills": [],
+        "mentioned_skills": [
+          "python"
+        ],
+        "preferred_skills": [
+          "aws"
+        ],
+        "experience_requirements": []
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "4805afd6-8e01-4cc8-bad1-3ac46c24d8f6",
+      "direct_apply": null,
+      "description": "<h2>Who We Are</h2><p>Our mission is to make the world programmable. Sight is one of the key ways we understand the world, and soon this will be true for the software we use, too.</p><p>We're building the tools, community, and resources needed to make the world programmable with artificial intelligence. Roboflow simplifies building and using computer vision models. Today, over 1M+ developers, including those from half the Fortune 100, use Roboflow's machine learning open source and hosted tools. That includes <a href=\"https://blog.roboflow.com/cancer-research-computer-vision/\">counting cells</a> to accelerate cancer research, improving <a href=\"https://blog.roboflow.com/preventing-accidents-on-construction-sites-with-computer-vision/\">construction site safety</a>, <a href=\"https://blog.roboflow.com/floor-plan-analysis-computer-vision/\">digitizing floor plans</a>, <a href=\"https://blog.roboflow.com/reefos-supercharging-coral-reef-restoration-with-ai/\">preserving coral reef populations</a>, <a href=\"https://blog.roboflow.com/georeferencing-drone-videos/\">guiding drone flight</a>, and <a href=\"https://roboflow.com/templates\">much more</a>.</p><p>Roboflow is supported by great customers and investors, having raised over 63 million from Y Combinator, Google Ventures, Craft Ventures, Sam Altman, Lachy Groom, amongst other leading software investors.</p><p>Roboflowers love building great things with passionate teammates. We value ownership, accountability, and a bias toward action, whether it's a big initiative or a small fix. You're naturally curious, hands-on with new tech, and prefer to show your work over talking about it. Many of us have founder mindsets and thrive in Roboflow's high-autonomy environment.</p><h2><br>What We're Looking For</h2><p>Primarily, you like to make great things with passionate colleagues. You are someone that likes to own outcomes, not only inputs. You're motivated by having responsibility and accountability. You're eager to 'do the work,' big and small.</p><p>This role suits someone who has run IT at a startup, likes automating repetitive work away, and wants real ownership rather than a ticket queue.</p><h2><br>What You'll Do</h2><p>As our IT Operations Engineer, you'll own corporate IT end to end: identity, devices, SaaS, and the employee lifecycle from first day to last. You'll own how Roboflowers get set up, stay productive, and get offboarded cleanly.</p><p>We serve some of the world's largest enterprise companies like Rivian, Pella, Chobani and BNSF, so smooth and secure IT is a shared priority across the company. You'll be the second member of our IT and security function, working alongside our first Security &#x26; Automation Engineer as part of our Infrastructure organization. They'll own the security program and audits, and you support it with the day-to-day controls and evidence.</p><h2><br>Skillset</h2><p>Required:</p><ul><li><p>3-5 years in IT operations or systems administration, including at least 1-2 years at a startup or small, fast-moving team</p></li><li><p>Hands-on admin experience with Okta or a similar SSO provider (Microsoft Entra ID, OneLogin, JumpCloud)</p></li><li><p>Proven macOS fleet management with an MDM (Kandji, Mosyle, Jamf, Intune, or similar)</p></li><li><p>Google Workspace administration</p></li><li><p>Scripting ability (Python, Bash, or similar) and a habit of automating repeated tasks</p></li><li><p>Clear written communication; you document as you go</p></li></ul><p>Nice to have:</p><ul><li><p>Supported a SOC 2, HIPAA, or ISO 27001 audit, or used a compliance platform like Secureframe, Vanta, or Drata</p></li><li><p>Okta Workflows or other no-code automation tools</p></li><li><p>Linux familiarity and basic GCP or AWS IAM</p></li><li><p>Experience supporting a remote team across time zones</p></li></ul><p>What this role is not:</p><ul><li><p>Not Windows administration: we run macOS and Linux</p></li><li><p>Not traditional enterprise networking: we're cloud-first with minimal on-prem infrastructure beyond our office hubs</p></li></ul><h2>A Glimpse of Your Work</h2><p>Identity and access:</p><ul><li><p>Administer Okta (or our SSO provider): app integrations, groups, provisioning and deprovisioning, and MFA policy</p></li><li><p>Run access requests and periodic access reviews across Google Workspace, Slack, GitHub, GCP, and our other SaaS tools</p></li></ul><p>Devices:</p><ul><li><p>Own our macOS fleet through MDM: enrollment, configuration profiles, OS and app patching, and encryption</p></li><li><p>Handle laptop procurement, shipping, inventory, and recovery for a distributed team across the US and Europe</p></li></ul><p>Employee lifecycle and support:</p><ul><li><p>Own onboarding and offboarding end to end, so new hires are productive on day one and departures are fully closed out the same day</p></li><li><p>Be the go-to person for hardware, software, and account issues, and turn recurring questions into docs or self-serve fixes</p></li><li><p>Support office IT (Wi-Fi, conference rooms, printers) at our New York and San Francisco hubs</p></li></ul><p>Automation:</p><ul><li><p>Script and automate repetitive IT work (for example, onboarding workflows, provisioning, and device compliance checks) using tools like Python, shell scripts, Okta Workflows, or HRIS integrations</p></li><li><p>Keep IT procedures, runbooks, and the asset inventory current</p></li></ul><p>SaaS and vendors:</p><ul><li><p>Manage the SaaS stack: licenses, renewals, spend, and removing unused seats</p></li><li><p>Evaluate new tools and vendors with the Security &#x26; Automation Engineer</p></li></ul><p>Security and compliance support:</p><ul><li><p>Keep IT controls healthy day to day (device compliance, access reviews, offboarding checks) and follow up on exceptions</p></li><li><p>Collect and organize audit evidence for SOC 2 Type 2, HIPAA, and future frameworks</p></li><li><p>Help roll out security awareness training and phishing simulations</p></li></ul><h2>Who You'll Be Working With</h2><p>Our team of ~100 attracts talent like executives that wanted to return to building, founders with a 100M+ exit, Roboflow users turned team members, open source contributors, a cyclist who biked across the United States, prolific high school hackers, a CTO from 100+ engineering organization, amongst many exceptional others.</p><p>You will directly be working with our Engineering Lead, our Security &#x26; Automation Engineer, and a team of product, infrastructure, and security engineers.</p><h2><br>Where You'll Work</h2><p>Roboflow is distributed across the US and Europe. We currently have Hubs in New York City and San Francisco (and plan to open more as we grow density in new cities). We provide opportunities (like team on-sites in different cities) and <a href=\"https://blog.roboflow.com/how-we-work-together-at-roboflow/\">resources</a> (like a $4000/yr travel stipend) to work in person with other team members as much as you'd like, while also supporting remote team members. You can work from one of our Hubs (we offer a relocation bonus), work from home, work at co-working spaces, etc. We want you to work where you work best!</p><h2><br>When You'll Work</h2><p>Roboflow primarily operates during the daytime hours in the US and there are some synchronous meetings you'll be expected to attend each week. Apart from that, we have a flexible schedule that allows you to work collaboratively with other team members and asynchronously when needed.</p><h2><br>What You'll Receive</h2><p>To determine your salary, we use a number of market and data-driven salary sources. We review all salaries every six months to ensure we stay in line with the market.</p><p>In addition to our cash compensation, we offer generous perks and benefits. Below are some of the highlights:</p><ul><li><p>$4000/yr Travel Stipend to travel anywhere anytime to work alongside other Roboflowers</p></li><li><p>$350/mo Productivity stipend to spend on things that make your work environment more productive, like high-speed internet at home or a co-working space</p></li><li><p>$350/mo AI Tools stipend</p></li><li><p>$150/mo team lunch stipend</p></li><li><p>$500/one time home office stipend</p></li><li><p>Cover up to 100% of your health insurance costs for you and your partner or family</p></li><li><p>Equity in the company so we are all invested in the future of computer vision</p></li></ul><h2>Interview Process (~4 hours)</h2><p>Below is the interview process you can expect for this role. You will be speaking directly with our team about what it's like to work and thrive at Roboflow. Each conversation is a separate session.</p><p>Before the Interview:</p><ul><li><p>We'll review your application, LinkedIn, GitHub, etc.</p></li></ul><p>Introduction Phase:</p><ul><li><p>[30m] Meet with Recruiting to talk through your background, what you've owned, motivation, location, compensation, and role expectations.</p></li><li><p>[30-45m] Meet with the hiring manager, a member of our IT team, to get to know more about the role, allow us to get to know you better, and ensure it's a good fit for both parties to continue moving forward in the process.</p></li></ul><p>Team Interview Phase:</p><ul><li><p>[60m] Technical interview covering identity and SSO, macOS fleet management, office and SaaS operations, and automation.</p></li><li><p>[75m] Operations exercise with the technical interviewer and a peer: troubleshooting and execution using a set of records we supply.</p></li></ul><p>Ask questions!</p><p>Final Interview Stage:</p><ul><li><p>[45m] Meet with our Security lead and a cross-functional partner to discuss delegated security work, evidence quality, escalation, and handoffs with People and Operations.</p></li><li><p>We check references and conduct a background check.</p></li></ul><p>Note: you are welcome to request additional conversations with anyone you would like to meet and we will accommodate as best we can.</p><h2><br>Learn More About Us</h2><p>We are building a diverse <a href=\"https://blog.roboflow.com/how-we-work-together-at-roboflow/\">Distributed team</a> that is distributed across the globe. Roboflow is an equal opportunity workplace; we welcome people from all backgrounds, communities, and experiences.</p><p>We provide competitive compensation and stellar benefits to accelerate your personal and work life. Learn more about what it is like to work at Roboflow by reading <a href=\"https://blog.roboflow.com/tag/working-at-roboflow/\">these blog posts</a>.</p><p>See our <a href=\"https://roboflow.com/careers\">careers page</a> for all open listings.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/it-operations-engineer-roboflow</p>",
+      "posted_at": "2026-10-20T21:34:58.146+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
     {
       "id": "6b0d204a-4eb1-402f-9244-f20d7fb09e1d",
       "title": "Security Engineer Senior - GRC",
@@ -418,7 +518,29 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -487,7 +609,34 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [
+          "Latin America"
+        ],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [
+          "The location header 'United States' conflicts with the description restricting the role exclusively to candidates based in Latin America; the Latin America region is not enumerated into ISO country or subdivision areas, so the applicant geography cannot be fully represented.",
+          "Unresolved area: description:19"
+        ],
+        "evidence_ids": [
+          "c1"
+        ],
+        "allowed_regions": [
+          "Latin America (LATAM)"
+        ],
+        "work_arrangement": "remote",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -633,7 +782,41 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [
+          {
+            "kind": "timezone",
+            "areas": [],
+            "effect": "context",
+            "details": "Preference given to candidates in Eastern or Central U.S. time zones",
+            "regions": [],
+            "timezones": [],
+            "evidence_id": "c2",
+            "conditional_on": null
+          }
+        ],
+        "unresolved": [],
+        "evidence_ids": [
+          "c2",
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -777,7 +960,29 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "GB"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -966,6 +1171,203 @@
       "original_language": null
     },
     {
+      "id": "8e36d452-7c8e-4e8c-b470-ae6aec0c4e40",
+      "title": "Senior Full-Stack Software Engineer",
+      "url": "https://remotejobs.org/remote-jobs/senior-full-stack-software-engineer-amplify",
+      "apply_url": "https://remotejobs.org/remote-jobs/senior-full-stack-software-engineer-amplify",
+      "company": {
+        "name": "Amplify",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/c4b355ee74146c913451d706034aa9c43a92de913c0fb7ea59706df094cc5550.jpeg",
+        "website": "https://amplify.com",
+        "url": "https://remotejobs.org/companies/amplify"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "Remote - United States",
+      "location_normalization": {
+        "raw": "Remote - United States",
+        "input": {
+          "workArrangement": "remote"
+        },
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": "senior",
+        "role_family": "software-engineering",
+        "required_skills": [],
+        "mentioned_skills": [
+          "aws",
+          "docker",
+          "java",
+          "nodejs",
+          "postgresql",
+          "react",
+          "terraform",
+          "typescript"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": [
+          {
+            "text": "5+ years of hands-on experience with modern frontend frameworks, including React, to build production-grade user experiences",
+            "maximum_years": null,
+            "minimum_years": 5,
+            "classification": "mentioned"
+          },
+          {
+            "text": "5+ years of hands-on experience with modern backend web technologies, including Node",
+            "maximum_years": null,
+            "minimum_years": 5,
+            "classification": "mentioned"
+          }
+        ]
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "8c9f0120-c3f0-4cc3-a39a-b7efb58e11b0",
+      "direct_apply": null,
+      "description": "<p><strong>About Amplify</strong></p>\n<p>Amplify helps teachers bring delight and rigor to students every day. We have become a leader in K–12 literacy, biliteracy, math, and science by building inspiring teaching and learning experiences based on research. The Amplify Classroom platform combines curriculum, assessment, and supplemental learning into one coherent high-quality instructional system. A pioneer in education since 2000, Amplify has developed deep relationships in states and districts by partnering with educators to drive implementation quality and improved outcomes. Today, Amplify serves more than 18 million students and teachers across all 50 states and on six continents. For more information, visit <a href=\"http://amplify.com\">Amplify.com</a>.</p>\n<p><strong>Job Description Summary</strong></p>\n<p>Amplify is where engineers build software that lands in real classrooms with real students and teachers, every day. What we build has to work reliably at scale, in schools with inconsistent connectivity, for users who don’t have time for things to break.</p>\n<p>We’re looking for a Senior Full-Stack Software Engineer who’s pragmatic about how software gets built, cares about the people who use it, and is comfortable operating across the stack. You’ll write and review both code and tests, own what you ship in production, and help the engineers around you get better. We expect you’ll use AI thoughtfully and pragmatically, knowing where it can help you be more productive and that it will never replace your own good judgment.</p>\n<p>Note: \"We are considering candidates for both the Senior Full-Stack Software Engineer level and the Staff Full-Stack Software Engineer level. You’ll be considered for the level that best aligns with your relevant experience, qualifications, and interview performance.\"</p>\n<p><strong>Essential Responsibilities</strong></p>\n<ul>\n<li>\n<p><strong>Writing, testing, and shipping code.</strong> You’ll work across the stack, primarily in React and TypeScript on the front end, with Node.js and AWS underneath. What you build will be used in real classrooms every day, so you care about getting it right, not just getting it done.</p>\n</li>\n<li>\n<p><strong>Owning what you ship.</strong> You’re responsible for the code you put into production, including monitoring, debugging, and incident response. You understand that blamelessness and responsibility are part of the same spectrum of ownership.</p>\n</li>\n<li>\n<p><strong>Improving the codebase.</strong> You bring a sharp eye for clarity, maintainability, and pragmatic tradeoffs. You catch the things that will cause problems down the line, and you’re proud of how much code you refactor and delete.</p>\n</li>\n<li>\n<p><strong>Helping the engineers around you to get better. </strong>Whether through code review, pairing, or mentorship, you raise the team's level, not just the codebase. You’re generous with what you know and direct about what you see.</p>\n</li>\n<li>\n<p><strong>Building with AI.</strong> AI is changing how software gets developed, and you’re actively engaged with that shift. You use these tools to work with more confidence, not to replace your own knowledge and judgment.</p>\n</li>\n<li>\n<p><strong>Collaborating across disciplines.</strong> You work with product managers, designers, and education experts to turn complex requirements into software that makes sense to the people who use it. You push back when a requirement doesn’t hold up technically, and you listen when someone who’s been in a classroom tells you your design doesn’t work there.</p>\n</li>\n</ul>\n<p><strong>Required Qualifications</strong></p>\n<ul>\n<li>\n<p><strong>Education &#x26; Experience:</strong> BS/MS in Computer Science or equivalent degree or training, with <strong>5+ years of professional full-stack software development experience.</strong></p>\n</li>\n<li>\n<p><strong>Software Design &#x26; Engineering Practices:</strong> Strong understanding of good software design principles and modern engineering practices, with experience working in complex systems and large codebases.</p>\n</li>\n<li>\n<p><strong>Frontend Development: 5+ years</strong> of hands-on experience with modern frontend frameworks, including <strong>React,</strong> to build production-grade user experiences.</p>\n</li>\n<li>\n<p><strong>Backend &#x26; Systems: 5+ years </strong>of hands-on experience with modern backend web technologies, including <strong>Node.js</strong>, and the ability to reason about scalable, maintainable service design.</p>\n</li>\n<li>\n<p><strong>Communication &#x26; Collaboration: </strong>Ability to articulate technical concepts clearly, verbally and in writing, and to thrive in a fast-paced, collaborative environment through self-driven learning.</p>\n</li>\n<li>\n<p><strong>Mission Alignment: </strong>A genuine passion for education products and a commitment to building tools that are more equitable and accessible for all learners.</p>\n</li>\n</ul>\n<p><strong>Preferred Qualifications</strong></p>\n<ul>\n<li>\n<p><strong>Data Stores:</strong> Experience with modern data stores such as PostgreSQL, DynamoDB, Mongo, and Snowflake.</p>\n</li>\n<li>\n<p><strong>Cloud Infrastructure:</strong> Hands-on experience managing cloud-based infrastructure using tools like Serverless, Datadog, Terraform, and Docker.</p>\n</li>\n<li>\n<p><strong>Testing: </strong>Proficiency in automated testing techniques using frameworks like Jest and WebdriverIO.</p>\n</li>\n<li>\n<p><strong>Languages and Frameworks:</strong> Experience with Java</p>\n</li>\n<li>\n<p><strong>Ed-Tech Experience: </strong>Prior experience in education or ed-tech environments.</p>\n</li>\n</ul>\n<p>Don't let a missing qualification stop you from applying. We hire for potential and curiosity as much as experience. If this role sounds like you, we'd love to hear from you.</p>\n<p><em>Amplify is an Equal Opportunity Employer. Amplify makes employment decisions based on qualifications and merit, and does not discriminate based on race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability status, veteran status, or any other legally protected characteristic or status.</em></p>\n<p><em>Amplify is committed to providing reasonable accommodations for qualified individuals with disabilities, including disabled veterans. If you have a disability and need an accommodation in connection with the application or hiring process, please email </em><a href=\"mailto:hiringaccommodations@amplify.com\"><em>hiringaccommodations@amplify.com</em></a><em>.</em></p>\n<p><em>If you are selected for employment, a background check will be required. As required by state and local laws and district policies, you may be required to provide additional documentation, such as proof of vaccination, or submit to enhanced background screening, such as fingerprinting.</em></p>\n<p><em>Amplify is an E-Verify participant.</em></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-full-stack-software-engineer-amplify</p>",
+      "posted_at": "2026-10-19T19:58:54.259+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "62e95ebe-2c2d-4290-8068-665149c287fa",
+      "title": "IT Engineer - San Francisco",
+      "url": "https://remotejobs.org/remote-jobs/it-engineer-san-francisco-happyrobot",
+      "apply_url": "https://remotejobs.org/remote-jobs/it-engineer-san-francisco-happyrobot",
+      "company": {
+        "name": "HappyRobot",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/9d222816bebfc94f8e3e590eb38760bb1c22efb6ede4ae3ee0e7dfa565ef5d98.jpeg",
+        "website": "https://happyrobot.com",
+        "url": "https://remotejobs.org/companies/happyrobot"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "San Francisco",
+      "location_normalization": {
+        "raw": "San Francisco",
+        "input": {
+          "workArrangement": "hybrid"
+        },
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [
+          "san francisco"
+        ],
+        "work_arrangement": "hybrid",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [
+          "Role requires the engineer to be based in San Francisco, CA (description:5); this city-based work-location requirement cannot be represented as a state or country area.",
+          "Unresolved area: description:5, location:1"
+        ],
+        "evidence_ids": [
+          "c1"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": null,
+        "role_family": null,
+        "required_skills": [],
+        "mentioned_skills": [
+          "python"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": []
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "f0971f8a-abca-47e2-9d56-10c15b9979d0",
+      "direct_apply": null,
+      "description": "<h2><strong>About HappyRobot</strong></h2><p>HappyRobot is the infrastructure for enterprises to build and orchestrate AI workforces. Our AI workers don't just communicate through voice and email - they make decisions, take action, and run operations autonomously across entire enterprise systems. Born in Y Combinator (S23) and backed by a16z, Base10, Prysm Capital and Eurazeo with over $200M raised, we power critical operations for global enterprises worldwide.</p><p><br>Our platform is battle-tested in the most demanding environments, where AI has real consequences. We started in logistics, built our own voice stack, models, and orchestration layer from the ground up, and are now bringing that infrastructure to every enterprise that runs the real economy. Learn more about our vision in<a href=\"https://www.happyrobot.ai/blog/manifesto\"> our manifesto.</a></p><h2><strong>About the Role</strong></h2><p>We are looking for an <strong>IT Engineer</strong> based in <strong>San Francisco, CA</strong> to lead our internal technical operations and ensure our team functions without friction. You will manage identity, devices and access across the company, and automate as much of the repetitive work as you can.</p><h2><strong>What You’ll Do</strong></h2><ul><li><p><strong>Identity &#x26; Access (IAM):</strong> Own our identity provider (Okta / Entra ID), including SSO (SAML/OIDC) and SCIM integrations for new and existing SaaS apps.</p></li><li><p><strong>Onboarding &#x26; Offboarding:</strong> Ensure every new hire in the region has their equipment configured and access ready from the very first minute of Day 1.</p></li><li><p><strong>Workspace Admin:</strong> Administer Google Workspace / M365, including users, groups, licenses, shared drives, admin roles and email security</p></li><li><p><strong>Device Management (MDM):</strong> Manage our fleet through Jamf/Iru/Intune, covering enrollment, configuration profiles, app deployment, patching, encryption and compliance.</p></li><li><p><strong>Support &#x26; Access Requests:</strong> Work the IT ticket queue against SLAs and handle access requests with approvals and least privilege.</p></li><li><p><strong>Automation &#x26; Documentation:</strong> Automate repetitive IT work with scripts and workflow tools, troubleshoot API, webhook and DNS issues, and write clear runbooks and communications for changes and outages.</p></li></ul><p><strong>Must-Haves</strong></p><ul><li><p><strong>Experience:</strong> 3+ years in IT administration or IT engineering, ideally in a fast-growing tech company.</p></li><li><p><strong>Tooling:</strong> Hands-on experience with at least one IDP (Okta, Google Auth), one MDM, and one ticketing tool.</p></li><li><p><strong>MDM:</strong> Working knowledge of at least one MDM (Jamf, Iru or Intune), including Apple ADE / Windows Autopilot.</p></li><li><p><strong>Technical Fundamentals:</strong> Solid grasp of REST APIs, webhooks and DNS records (A, CNAME, MX, TXT), and able to read and safely modify scripts in Python, Bash or PowerShell.</p></li><li><p><strong>Ways of Working:</strong> Experience with ticket queues and SLAs, strong communication with non-technical users, and clear written documentation.</p></li></ul><h2><strong>Why join us?</strong></h2><ul><li><p>Join a world-class team of engineers and builders.</p></li><li><p>Backed by top investors including a16z, Y Combinator, Base10, Prysm Capital and Eurazeo.</p></li><li><p>Have ownership and autonomy of projects and are encouraged to ship.</p></li><li><p>Comprehensive Benefits including healthcare, dental, vision coverage.</p></li><li><p>Competitive salary + equity in a high-growth startup.</p></li></ul><h2><strong>Our Operating Principles</strong></h2><h2><em><strong><br>Extreme Ownership</strong></em></h2><p>We take full responsibility for our work, outcomes, and team success. No excuses, no blame-shifting — if something needs fixing, we own it and make it better. This means stepping up, even when it’s not “your job.” If a ball is dropped, we pick it up. If a customer is unhappy, we fix it. If a process is broken, we redesign it. We don’t wait for someone else to solve it — we lead with accountability and expect the same from those around us.</p><p><em><strong>Craftsmanship</strong></em></p><p>Putting care and intention into every task, striving for excellence, and taking deep ownership of the quality and outcome of your work. Craftsmanship means never settling for “just fine.” We sweat the details because details compound. Whether it’s a product feature, an internal doc, or a sales call — we treat it as a reflection of our standards. We aim to deliver jaw-dropping customer experiences by being curious, meticulous, and proud of what we build — even when nobody’s watching.</p><p><em><strong>We are “majos”</strong><br></em>Be friendly &#x26; have fun with your coworkers. Always be genuine &#x26; honest, but kind. “Majo” is our way of saying: be a good human. Be approachable, helpful, and warm. We’re building something ambitious, and it’s easier (and more fun) when we enjoy the ride together. We give feedback with kindness, challenge each other with respect, and celebrate wins together without ego.</p><p><em><strong>Urgency with Focus</strong></em><br>Create the highest impact in the shortest amount of time. Move fast, but in the right direction. We operate with speed because time is our most limited resource. But speed without focus is chaos. We prioritize ruthlessly, act decisively, and stay aligned. We aim for high leverage: the biggest results from the simplest, smartest actions. We’re running a high-speed marathon — not a sprint with no strategy.</p><p><em><strong>Talent Density and Meritocracy</strong></em><br>Hire only people who can raise the average; ‘exceptional performance is the passing grade.’ Ability trumps seniority. We believe the best teams are built on talent density — every hire should raise the bar. We reward contribution, not titles or tenure. We give ownership to those who earn it, and we all hold each other to a high standard. A-players want to work with other A-players — that’s how we win.</p><p><em><strong>First-Principles Thinking</strong></em><br>Strip a problem to physics-level facts, ignore industry dogma, rebuild the solution from scratch. We don’t copy-paste solutions. We go back to basics, ask why things are the way they are, and rebuild from the ground up if needed. This mindset pushes us to innovate, challenge stale assumptions, and move faster than incumbents. It’s how we build what others think is impossible.</p><p><em>The personal data provided in your application and during the selection process will be processed by Happyrobot, Inc., acting as Data Controller.</em></p><p><em>By sending us your CV, you consent to the processing of your personal data for the purpose of evaluating and selecting you as a candidate for the position. Your personal data will be treated confidentially and will only be used for the recruitment process of the selected job offer.</em></p><p><em>In relation to the period of conservation of your personal data, these will be eliminated after three months of inactivity in compliance with the GDPR and legislation on the protection of personal data.</em></p><p><em>If you wish to exercise your rights of access, rectification, deletion, portability or opposition in relation to your personal data, you can do so through security@happyrobot.ai subject to the GDPR.</em></p><p><em>For more information, visit </em><a href=\"https://www.happyrobot.ai/privacy-policy\"><em>https://www.happyrobot.ai/privacy-policy</em></a></p><p><em>By submitting your request, you confirm that you have read and understood this clause and that you agree to the processing of your personal data as described.</em></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/it-engineer-san-francisco-happyrobot</p>",
+      "posted_at": "2026-10-19T19:09:27.658+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
       "id": "df07be6d-9634-45e7-b416-51ebaef157d9",
       "title": "Software Engineer, Developer Platform",
       "url": "https://remotejobs.org/remote-jobs/software-engineer-developer-platform-global-hr-solutions-amp-employment-tools-for-distributed-teams",
@@ -1003,7 +1405,33 @@
         ],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [
+          "Role work location is limited to San Francisco or New York City (city-level work-location rule, source: 'This role can be based in either San Francisco or New York City'), which cannot be represented as ISO country or subdivision areas.",
+          "Unresolved area: description:7"
+        ],
+        "evidence_ids": [
+          "c2",
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "hybrid",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [
+          "US-CA"
+        ],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -1591,7 +2019,31 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [
+          "Metropolitan France"
+        ],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [
+          "Unresolved area: description:9"
+        ],
+        "evidence_ids": [
+          "c1"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -1723,6 +2175,94 @@
       "direct_apply": null,
       "description": "<p>At H1, we believe access to the best healthcare information is a basic human right. Our mission is to provide a platform that can optimally inform every doctor interaction globally. This promotes health equity and builds needed trust in healthcare systems. To accomplish this, our teams harness the power of data and AI-technology to unlock groundbreaking medical insights and convert those insights into action that result in optimal patient outcomes and accelerates an equitable and inclusive drug development lifecycle. Visit h1.com to learn more about us.</p><p>As part of H1’s hiring process, all candidates are required to participate in an in-person final interview. Depending on your location, this may require travel.</p><p>The Health Plans Software Engineering group builds the products that help health plans keep provider data accurate. It is made up of two product teams, one focused on roster automation and one focused on directory accuracy. Directory Accuracy owns the master data management and client data integration side of that work: the data platform that ingests, matches and standardizes client data to support provider directory accuracy, site feasibility, and healthcare professional credentialing. The core loop is: client entity intake, unique ID assignment, entity matching against H1's core data layer, then sync back into client feeds and pipelines.</p><p><strong>WHAT YOU'LL DO AT H1</strong></p><p>As a Staff Software Engineer on the Health Plans team, you'll design, build, and run the big data pipelines and services behind products our health plan and life sciences customers rely on every day. We're expanding beyond pipelines into customer-facing applications and internal tools, so the data we build becomes products customers can see and use. This is a hands-on engineering role: most of your time goes to writing code in PySpark, Scala and SQL, solving hard data problems at scale, and shipping features that customers and internal teams use directly. You'll join an established team of a Staff engineer, a Senior engineer and two contractors, and report to the Director of Software Engineering, Health Plans.</p><p>You will:<br>- Design, build and operate large-scale data pipelines for ingesting, transforming, matching and syncing client data, using PySpark, Scala and SQL<br>- Build and improve the entity matching service that resolves client records against H1's core data layer, including its underlying schema<br>- Develop data asset management features such as scoring, status assignment and configurable intake<br>- Build the APIs and backend services that power customer-facing UIs and internal tools, making pipeline outputs easy to explore, act on and trust<br>- Contribute to customer-facing and internal applications that help bring new products to market<br>- Build self-service internal tools that let operations, customer success and other non-technical teams work with data without engineering help<br>- Work directly with messy enterprise client data, debugging issues end to end and making ingestion more reliable and repeatable<br>- Integrate clinical and provider data as new products and customers come onto the platform<br>- Work with product and design partners to shape features from customer problem through shipped product<br>- Improve pipeline performance, reliability, observability, testing and documentation<br>- Contribute to architecture decisions and design and code reviews<br>- Collaborate with adjacent teams that own feed delivery, access infrastructure, public-facing APIs and roster processing</p><p><strong>ABOUT YOU</strong></p><p>You're a senior big data engineer who loves building products, not just pipelines. You care about how data reaches the people who use it, whether that's a customer in our app or a teammate using an internal tool. You're happiest deep in the code, tuning Spark jobs, untangling messy source data and shipping features customers notice. You take ownership of systems end to end and know how to make an existing codebase better. You do well in fast-moving environments and communicate clearly with engineers, product partners and non-technical stakeholders.</p><p><strong>REQUIREMENTS </strong></p><p>- 8+ years of software engineering experience with a strong focus on data engineering and building data-driven products<br>- Deep experience designing, building and running production big data pipelines at scale (ETL/ELT, orchestration, scheduling, monitoring)<br>- Strong proficiency in PySpark, Scala, Python and SQL<br>- Solid experience with distributed data processing and performance tuning in Spark<br>- Experience building APIs or backend services that support customer-facing applications<br>- Working knowledge of cloud infrastructure (e.g., AWS, GCP or Azure)<br>- Hands-on experience with entity resolution, record matching or master data management<br>- Experience with data quality, scoring or validation frameworks<br>- Comfort working directly with client data, including messy source files, and onboarding enterprise customers<br>- Product-engineering mindset: you care about how customers use what you build<br>- Preferred: full-stack experience, or experience building web UIs with a modern framework (e.g., React)<br>- Preferred: experience building products that turn complex data into customer-facing features<br>- Preferred: experience building internal self-service tools<br>- Preferred: experience with healthcare data such as provider or HCP directories, rosters, credentialing, clinical trial or site feasibility data<br>- Preferred: experience with CTMS or other clinical systems data</p><p><strong>COMPENSATION</strong></p><p>This role pays $185,000 to $230,000 per year, based on experience, in addition to equity in the form of Restricted Stock Units (RSU).</p><p><br>Anticipated role close date: 11/25/2026</p><p><strong>H1 OFFERS</strong></p><p>- Full suite of health insurance options, in addition to generous paid time off</p><p>- Pre-planned company-wide wellness holidays</p><p>- Retirement options</p><p>- Health &#x26; charitable donation stipends</p><p>- Impactful Business Resource Groups</p><p>- The opportunity to work with leading biotech and life sciences companies in an innovative industry with a mission to improve healthcare around the globe</p><p><em>H1 is proud to be an equal opportunity employer that celebrates diversity and is committed to creating an inclusive workplace with equal opportunity for all applicants and teammates. Our goal is to recruit the most talented people from a diverse candidate pool regardless of race, color, ancestry, national origin, religion, disability, sex (including pregnancy), age, gender, gender identity, sexual orientation, marital status, veteran status, or any other characteristic protected by law.</em></p><p><em> </em></p><p><em>H1 is committed to working with and providing access and reasonable accommodation to applicants with mental and/or physical disabilities. If you require an accommodation, please reach out to your recruiter once you've begun the interview process. All requests for accommodations are treated discreetly and confidentially, as practical and permitted by law.</em></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/staff-software-engineer-directory-accuracy-health-plans-h1-insights</p>",
       "posted_at": "2026-10-19T14:08:36.036+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "c5ac39ee-9305-4c6f-9f78-346528c46894",
+      "title": "Research Engineer, Post-Training",
+      "url": "https://remotejobs.org/remote-jobs/research-engineer-post-training-deepgram",
+      "apply_url": "https://remotejobs.org/remote-jobs/research-engineer-post-training-deepgram",
+      "company": {
+        "name": "Deepgram",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/29a513d97ee19c52fd560fdc6e6b207b3854fee9a0b2f29fbd3d5ad1c8b894d6.jpeg",
+        "website": "https://deepgram.com",
+        "url": "https://remotejobs.org/companies/deepgram"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "USA - Remote",
+      "location_normalization": {
+        "raw": "USA - Remote",
+        "input": {
+          "workArrangement": "remote"
+        },
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": null,
+        "role_family": null,
+        "required_skills": [],
+        "mentioned_skills": [
+          "python"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": []
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "dcea53a5-5650-406d-a154-fad077c4b81b",
+      "direct_apply": null,
+      "description": "<h2><strong>Company Overview</strong></h2><p>Deepgram is the leading platform underpinning the emerging trillion-dollar Voice AI economy, providing real-time APIs for speech-to-text (STT), text-to-speech (TTS), and building production-grade voice agents at scale. More than 200,000 developers and 1,300+ organizations build voice offerings that are ‘Powered by Deepgram’, including Twilio, Cloudflare, Sierra, Decagon, Vapi, Daily, Cresta, Granola, and Jack in the Box. Deepgram’s voice-native foundation models are accessed through cloud APIs or as self-hosted and on-premises software, with unmatched accuracy, low latency, and cost efficiency. Backed by a recent Series C led by leading global investors and strategic partners, Deepgram has processed over 50,000 years of audio and transcribed more than 1 trillion words. There is no organization in the world that understands voice better than Deepgram.</p><h2><strong>Company Operating Rhythm</strong></h2><p>At Deepgram, we expect an AI-first mindset—AI use and comfort aren’t optional, they’re core to how we operate, innovate, and measure performance.</p><p>Every team member who works at Deepgram is expected to actively use and experiment with advanced AI tools, and even build your own into your everyday work. We measure how effectively AI is applied to deliver results, and consistent, creative use of the latest AI capabilities is key to success here. Candidates should be comfortable adopting new models and modes quickly, integrating AI into their workflows, and continuously pushing the boundaries of what these technologies can do.</p><p>Additionally, we move at the pace of AI. Change is rapid, and you can expect your day-to-day work to evolve just as quickly. This may not be the right role if you’re not excited to experiment, adapt, think on your feet, and learn constantly, or if you’re seeking something highly prescriptive with a traditional 9-to-5.</p><h3><strong>The Opportunity </strong></h3><p>We're building the engine that solves customer challenges at scale. When customers hit a limit in our voice AI, you'll measure it, fix it, and ship the fix to every customer in weeks.</p><p>Example projects:</p><ul><li><p>Expanding our models to new languages and regions</p></li><li><p>Improving how text-to-speech pronounces names, terms, and numbers</p></li><li><p>Isolating a speaker's voice from background noise and crosstalk</p></li><li><p>Giving customers early access to new voice capabilities, like steerable and cloned voices, and using their feedback to guide the research methodology</p></li><li><p>Releasing new benchmarks for Voice AI use-cases<br></p></li></ul><h3><strong>The Role</strong></h3><p>You will thrive in this role if you enjoy:</p><ul><li><p>Turning vague customer problems into clear metrics</p></li><li><p>Using whatever works to fix them, including fine-tuning, new data, and external models</p></li><li><p>Shipping work that customers use within weeks<br></p></li></ul><h3><strong>The Challenge</strong></h3><p>We are seeking researchers who:</p><ul><li><p>Own a customer problem until it measurably improves in production</p></li><li><p>Find the fastest path to a fix, even if it's an approach no one has tried</p></li><li><p>Can tell when a result is ready for customers</p></li></ul><p>If these expectations energize you, you might be the person we need. This role takes focus on the customer's problem, creativity in approach, and a strong drive to ship.<br></p><h3><strong>What You'll Do</strong></h3><ul><li><p>Find where our models fall short and set targets for improvement</p></li><li><p>Design evaluations that show whether a model is better and why</p></li><li><p>Curate and generate data and fine-tune models</p></li><li><p>Build working systems quickly and ship them to production</p></li></ul><p>We don't require a specific degree. Show us hard problems you've solved in past projects, shipped systems, or open source work.<br></p><h3><strong>You May Be a Good Fit If You Have</strong></h3><ul><li><p>Deep experience training, fine-tuning, and evaluating deep learning models</p></li><li><p>Strong Python and PyTorch skills</p></li><li><p>A track record of shipping ML to production</p></li><li><p>A habit of owning problems end to end and learning what you need along the way</p></li><li><p>Good judgment about which problems matter and when a result is ready to ship<br></p></li></ul><h3><strong>Strong Candidates May Also Have</strong></h3><ul><li><p>Experience with speech-to-text, text-to-speech, or voice agents</p></li><li><p>Experience with distributed training</p></li><li><p>Published papers, open source contributions, or public benchmarks</p></li></ul><p><em><strong>Notice</strong>: We're aware of individuals impersonating Deepgram recruiters. All legitimate Deepgram recruiting communication comes from an @</em><a href=\"http://deepgram.com\"><em>deepgram.com</em></a><em> email address. If you've received a message claiming to be Deepgram, please forward it to careers@deepgram.com.</em></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/research-engineer-post-training-deepgram</p>",
+      "posted_at": "2026-10-19T13:54:47.821+00:00",
       "is_translated": false,
       "original_language": null
     },
@@ -3459,376 +3999,52 @@
       "original_language": null
     },
     {
-      "id": "15ce629e-a6df-4fc6-a06b-494c58c81ff4",
-      "title": "Senior Systems Engineer, Vehicle Access & Passive Safety",
-      "url": "https://remotejobs.org/remote-jobs/senior-systems-engineer-vehicle-access-passive-safety-ford",
-      "apply_url": "https://remotejobs.org/remote-jobs/senior-systems-engineer-vehicle-access-passive-safety-ford",
+      "id": "14f0a7a3-8c05-4f1b-8af2-be6ed6e7f93a",
+      "title": "Staff Engineer – Issuing",
+      "url": "https://remotejobs.org/remote-jobs/staff-engineer-issuing-cloudwalk",
+      "apply_url": "https://remotejobs.org/remote-jobs/staff-engineer-issuing-cloudwalk",
       "company": {
-        "name": "Ford",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/166d3f95ecb65de82be4d678d72998035b9cdb743ee6c15e67267624144270f4.webp",
-        "website": "https://ford.com",
-        "url": "https://remotejobs.org/companies/ford"
+        "name": "CloudWalk",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/ecfcb146d68f3f4b478f5055b7d50edb025a8068f329d0ad302a0aa808749396.png",
+        "website": "https://cloudwalk.io",
+        "url": "https://remotejobs.org/companies/cloudwalk"
       },
       "category": {
         "name": "Programming",
         "slug": "programming"
       },
-      "location": "Allen Park, MI, United States",
+      "location": null,
       "location_normalization": {
-        "raw": "Allen Park, MI, United States",
+        "raw": null,
         "input": {},
-        "scope": "restricted",
-        "status": "partial",
+        "scope": "unknown",
+        "status": "unknown",
         "regions": [],
         "version": "job-location/1",
         "timezones": [],
-        "unresolved": [
-          "allen park"
-        ],
+        "unresolved": [],
         "work_arrangement": "unknown",
         "allowed_countries": [],
         "reference_version": "iso-3166@4.4.0",
         "excluded_countries": [],
-        "allowed_subdivisions": [
-          "US-MI"
-        ],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": null,
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": "senior",
-        "role_family": null,
-        "required_skills": [],
-        "mentioned_skills": [
-          "python"
-        ],
-        "preferred_skills": [],
-        "experience_requirements": []
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": null,
-      "salary_period": null,
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": "72902",
-      "direct_apply": null,
-      "description": "<p>We made history and now we work to transform the future – for our customers, our communities and our families. You'll see your work on the road every day, helping people move freely and pursue their dreams. At Ford, you can build more than vehicles. Come build what matters.</p><p><br>Product Creation and Industrialization (PC&#x26;I) brings together Ford’s vehicle, electric, digital and design teams with our global manufacturing system. Working as one end-to-end organization, we turn ideas into high-quality vehicles, software and experiences across gas, hybrid and electric, designed around what customers need.</p><p>In this position...<br>The Senior Software Systems Engineer (Vehicle Access) will lead the development of the requirements that define the software involved in vehicle access features like the immobilizer, key cards, key fobs, and digital keys. You will work with cross-functional stakeholders to establish performance requirements, review signal chains, capture interface definitions, document state machines, and coordinate verification and validation to deliver successful implementation of vehicle features via hardware and software.</p><p>You will lead bring-up and validation activities as software is delivered, and support overall functionality and performance of vehicle systems throughout the product life cycle. You will conceptualize, design, engineer, develop, and support the launch of next-generation vehicle platform architectures for electric vehicles.</p><p>What you'll do...</p><ul><li>Lead the feature and function development of systems related to Vehicle Access, defining requirements, iterating via stakeholder reviews, and enabling software development teams.</li><li>Define, test, and validate combined hardware and system requirements for Vehicle Access platform features and functions.</li><li>Lead and manage the integration of initial prototype systems, including debugging and engineering tests for prototype bucks, lab cars, and vehicles.</li><li>Conduct architecture investigations and execute trade-off studies to optimize design strategies for experience, cost, and performance.</li><li>Author and manage interface definitions for the functions you define, including CAN and Ethernet signal definitions</li></ul><p>You'll have...</p><ul><li>B.S. in Computer Science or Electrical, Computer, or Mechanical Engineering or equivalent combination of relevant education and experience.</li><li>Strong understanding of systems engineering fundamentals and ability to apply them to automotive concepts</li><li>Experience and working knowledge of systems development, electrical architecture, functional architecture, and system integration</li><li>Experience with model-based systems engineering (MBSE) tools</li><li>Experience defining and driving to implementation complex and cross-functional features and functions</li><li>Experience with creating and executing component and system level test procedures</li><li>Experience using Git in a collaborative development workflow</li><li>Excellent teamwork, problem-solving, communication, and project management skills</li><li>Strong written and verbal communication skills</li><li>An eagerness to work cross-functionally in a dynamic environment where you are part of a high performing team</li><li><p>A systems approach to design and development with the desire and curiosity to strive for exceptional delivery execution and continuous improvement</p><p>Even better, you may have...</p></li><li>> 5 year’s experience in a systems engineering or similar role</li><li>Master’s Degree Computer Science or Electrical Engineering, Computer Science, Mechanical Engineering, or equivalent</li><li>Expert in model-based systems engineering (MBSE) tools</li><li>Experience with embedded C, Python, MATLAB, Simulink, SPICE, IQ-FMEA, and similar</li><li>Experience with cryptography, cybersecurity, certificate/key exchanges, and similar</li><li>Experience with near-field communication (NFC), Bluetooth Low-Energy (BLE), and Ultra-Wideband (UWB) technologies</li></ul><p>You may not check every box, or your experience may look a little different from what we've outlined, but if you think you can bring value to Ford Motor Company, we encourage you to apply!</p><p>As an established global company, we offer the benefit of choice. You can choose what your Ford future will look like: will your story span the globe, or keep you close to home? Will your career be a deep dive into what you love, or a series of new teams and new skills? Will you be a leader, a changemaker, a technical expert, a culture builder…or all of the above? No matter what you choose, we offer a work life that works for you, including:<br>• Immediate medical, dental, vision and prescription drug coverage<br>• Flexible family care days, paid parental leave, new parent ramp-up programs, subsidized back-up child care and more<br>• Family building benefits including adoption and surrogacy expense reimbursement, fertility treatments, and more<br>• Vehicle discount program for employees and family members and management leases<br>• Tuition assistance<br>• Established and active employee resource groups<br>• Paid time off for individual and team community service<br>• A generous schedule of paid holidays, including the week between Christmas and New Year’s Day<br>• Paid time off and the option to purchase additional vacation time.</p><p><br>This position is a salary grade 8 and ranges from $115,000-$192,900.    <br><em><strong>Final determination of salary grade will be based on candidate's skills and experience, and base salary will be set within the applicable range according to job scope, responsibility and competitive market value.</strong></em></p><p><br>For more information on salary and benefits, click here: <a href=\"https://fordcareers.co/GSR\">https://fordcareers.co/GSR</a> </p><p>Visa sponsorship is available for this position.</p><p>Candidates for positions with Ford Motor Company must be legally authorized to work in the United States. Verification of employment eligibility will be required at the time of hire.</p><p>We are an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, religion, color, age, sex, national origin, sexual orientation, gender identity, disability status or protected veteran status. In the United States, if you need a reasonable accommodation for the online application process due to a disability, please call 1-888-336-0660.</p><p>This position is hybrid with a requirement to be onsite four or more days per week. #LI-Hybrid</p><p>   #LI-BB1 #UEV</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-systems-engineer-vehicle-access-passive-safety-ford</p>",
-      "posted_at": "2026-10-19T00:00:00+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "48a75466-6706-412b-bfdd-4e915612dc94",
-      "title": "Engine Control System Engineer",
-      "url": "https://remotejobs.org/remote-jobs/engine-control-system-engineer-ford",
-      "apply_url": "https://remotejobs.org/remote-jobs/engine-control-system-engineer-ford",
-      "company": {
-        "name": "Ford",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/166d3f95ecb65de82be4d678d72998035b9cdb743ee6c15e67267624144270f4.webp",
-        "website": "https://ford.com",
-        "url": "https://remotejobs.org/companies/ford"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "Dearborn, MI, United States",
-      "location_normalization": {
-        "raw": "Dearborn, MI, United States",
-        "input": {},
-        "scope": "restricted",
-        "status": "partial",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [
-          "dearborn"
-        ],
-        "work_arrangement": "unknown",
-        "allowed_countries": [],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [
-          "US-MI"
-        ],
+        "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
       "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "known",
+        "scope": "unknown",
+        "status": "unknown",
         "regions": [],
         "version": "applicant-location/1",
         "timezones": [],
         "conditions": [],
         "unresolved": [],
-        "evidence_ids": [
-          "c2",
-          "source-location"
-        ],
+        "evidence_ids": [],
         "allowed_regions": [],
-        "work_arrangement": "hybrid",
+        "work_arrangement": "unknown",
         "allowed_countries": [],
         "reference_version": "iso-3166@4.4.0",
         "excluded_countries": [],
         "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [
-          "US-MI"
-        ],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": null,
-        "role_family": null,
-        "required_skills": [],
-        "mentioned_skills": [
-          "python"
-        ],
-        "preferred_skills": [],
-        "experience_requirements": [
-          {
-            "text": "1 year of experience",
-            "maximum_years": null,
-            "minimum_years": 1,
-            "classification": "mentioned"
-          }
-        ]
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": null,
-      "salary_period": null,
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": "72782",
-      "direct_apply": null,
-      "description": "<p><strong>In this position... </strong><br>\nAs a member of the Engine Controls software team, you will collaborate across departments—including calibration, systems engineering, and vehicle integration—to develop robust, production-ready solutions for current and next-generation boosted engine programs. <br>\n<br>\n </p>\n<p><strong>What you'll do...</strong></p>\n<ul>\n<li>Design and implement embedded engine controls and diagnostic monitors within the powertrain control module software</li>\n<li>Capture and maintain requirements for vehicle control features, document changes using Ford’s model-based design process and tools, and create and execute validation plans using simulation, hardware-in-the-loop, and in-vehicle resources</li>\n<li>Manage configuration and complexity for a wide range of vehicle programs and powerpacks, and maintain high levels of compatibility and commonality with Gas, Diesel, HEV, and BEV powerpack configurations</li>\n<li>Develop and validate control algorithms using C-code to meet functional, emissions, performance, and functional safety requirements (ISO 26262)</li>\n<li>Apply powertrain control system software validation test methods—including unit testing (Unity/Ceedling), SIL, MIL, and HIL—to ensure system functionality and robustness</li>\n<li>Troubleshoot vehicle and powertrain fuel-path functional and diagnostic issues; determine and validate corrective actions through data analysis, vehicle testing, and simulation</li>\n<li>Maintain software description documentation, calibration guides, release notes, and requirements traceability for fuel-path software components</li>\n</ul>\n<p><strong>You’ll have…</strong></p>\n<ul>\n<li>Bachelor's degree in Mechanical Engineering, Electrical Engineering or a related engineering field.</li>\n<li>At least 1 year of experience writing software in C.</li>\n</ul>\n<p><strong>Even better, you may have…</strong></p>\n<ul>\n<li>Master's degree in Mechanical Engineering, Electrical Engineering or a related engineering field.</li>\n<li>Experience writing embedded control software for vehicles or other real-time systems.</li>\n<li>Experience with MATLAB, Simulink and Stateflow, including generating C code with Embedded Coder.</li>\n<li>Knowledge of how gasoline engines work, exhaust aftertreatment (three-way catalysts, particulate filters) or heat transfer.</li>\n<li>Experience with OBD regulations (CARB 1968.2, EPA or EU) and building diagnostic monitors.</li>\n<li>Experience with unit test frameworks (Ceedling/Unity or similar) and static analysis tools (Polyspace, MISRA C).</li>\n<li>Experience with ATI Vision, INCA or similar calibration and data-logging tools.</li>\n<li>Experience with ClearCase, Git or another version control system.</li>\n<li>Experience writing Python scripts.</li>\n</ul>\n<p>You may not check every box, or your experience may look a little different from what we've outlined, but if you think you can bring value to Ford Motor Company, we encourage you to apply!<br>\n<br>\nAs an established global company, we offer the benefit of choice. You can choose what your Ford future will look like: will your story span the globe, or keep you close to home? Will your career be a deep dive into what you love, or a series of new teams and new skills? Will you be a leader, a changemaker, a technical expert, a culture builder…or all of the above? No matter what you choose, we offer a work life that works for you, including:<br>\n• Immediate medical, dental, vision and prescription drug coverage<br>\n• Flexible family care days, paid parental leave, new parent ramp-up programs, subsidized back-up child care and more<br>\n• Family building benefits including adoption and surrogacy expense reimbursement, fertility treatments, and more<br>\n• Vehicle discount program for employees and family members and management leases<br>\n• Tuition assistance<br>\n• Established and active employee resource groups<br>\n• Paid time off for individual and team community service <br>\n• A generous schedule of paid holidays, including the week between Christmas and New Year’s Day <br>\n• Paid time off and the option to purchase additional vacation time. </p>\n<p>This position is a salary grade 8 and ranges from $115,000-$192,900. <br>\nFinal determination of salary grade will be based on candidate's skills and experience, and base salary will be set within the applicable range according to job scope, responsibility and competitive market value.<br>\n<br>\n<br>\nFor more information on salary and benefits, click here: <a href=\"https://urldefense.com/v3/__https:/fordcareers.co/GSR__;!!N_LtwI-RPugbI9wg0dJn!B_OoGXyzy3wMXT_rl7RNPaaL28FTTbpVt0YEpb4VmUrKj2NwmSVoAOm4Tw5wcTqjwjqZ_lO88NFFbtga$\">https://fordcareers.co/GSR</a></p>\n<p>Visa sponsorship is not available for this position.</p>\n<p>Candidates for positions with Ford Motor Company must be legally authorized to work in the United States. Verification of employment eligibility will be required at the time of hire.</p>\n<p>We are an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, religion, color, age, sex, national origin, sexual orientation, gender identity, disability status or protected veteran status. In the United States, if you need a reasonable accommodation for the online application process due to a disability, please call 1-888-336-0660.</p>\n<p>This position is hybrid with a requirement to be onsite four or more days per week. #LI-Hybrid</p>\n<p>#LI-AC4</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/engine-control-system-engineer-ford</p>",
-      "posted_at": "2026-10-19T00:00:00+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "8806bf00-22c8-45bd-89bf-e848ca921042",
-      "title": "Closures Systems Launch Engineer",
-      "url": "https://remotejobs.org/remote-jobs/closures-systems-launch-engineer-ford",
-      "apply_url": "https://remotejobs.org/remote-jobs/closures-systems-launch-engineer-ford",
-      "company": {
-        "name": "Ford",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/166d3f95ecb65de82be4d678d72998035b9cdb743ee6c15e67267624144270f4.webp",
-        "website": "https://ford.com",
-        "url": "https://remotejobs.org/companies/ford"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "Allen Park, MI, United States",
-      "location_normalization": {
-        "raw": "Allen Park, MI, United States",
-        "input": {},
-        "scope": "restricted",
-        "status": "partial",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [
-          "allen park"
-        ],
-        "work_arrangement": "unknown",
-        "allowed_countries": [],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [
-          "US-MI"
-        ],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": null,
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": null,
-        "role_family": null,
-        "required_skills": [],
-        "mentioned_skills": [],
-        "preferred_skills": [],
-        "experience_requirements": [
-          {
-            "text": "3+ years of experience",
-            "maximum_years": null,
-            "minimum_years": 3,
-            "classification": "mentioned"
-          },
-          {
-            "text": "5+ years of experience in automotive closures or mechanism engineering",
-            "maximum_years": null,
-            "minimum_years": 5,
-            "classification": "mentioned"
-          },
-          {
-            "text": "5+ years of experience",
-            "maximum_years": null,
-            "minimum_years": 5,
-            "classification": "preferred"
-          }
-        ]
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": null,
-      "salary_period": null,
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": "72889",
-      "direct_apply": null,
-      "description": "<p>We made history and now we work to transform the future – for our customers, our communities and our families. You'll see your work on the road every day, helping people move freely and pursue their dreams. At Ford, you can build more than vehicles. Come build what matters.</p><p><br>Product Creation and Industrialization (PC&#x26;I) brings together Ford’s vehicle, electric, digital and design teams with our global manufacturing system. Working as one end-to-end organization, we turn ideas into high-quality vehicles, software and experiences across gas, hybrid and electric, designed around what customers need.</p><p>In this position...<br>The Staff Closures Systems Engineer will be a key member responsible for the design, development, and integration of closure mechanisms for Advanced EV development programs. This role spans the entire product lifecycle, from supporting early concept development and studio feasibility to leading production-level engineering and launch. You will focus on the complex world of moving parts—including door, hood, and tailgate latches, hinges, struts, and handles—ensuring these systems integrate seamlessly with sheet metal structures and meet all functional, safety, and aesthetic requirements.</p><p><span lang=\"EN-US\">What you'll do...</span></p><ul><li><span lang=\"EN-US\">Lead the mechanical development and integration of closure systems, including door latches, hinges, hood/tailgate hardware, struts, and exterior handles.</span></li><li><span lang=\"EN-US\">Act as a primary individual contributor for production-level engineering, ensuring all components meet rigorous performance and durability standards for vehicle launch.</span></li><li><span lang=\"EN-US\">Support early-stage concept development, working closely with Studio Design to ensure 'Class A' surfaces are compatible with mechanism kinematics and packaging requirements.</span></li><li><span lang=\"EN-US\">Integrate complex mechanisms into sheet metal environments, providing technical expertise on reinforcements, attachment strategies, and material selection.</span></li><li><span lang=\"EN-US\">Interpret and utilize CAE simulation results (kinematics, strength, and crash) to optimize designs and resolve integration issues before physical prototyping.</span></li><li><span lang=\"EN-US\">Own the CAD and BOM for closure systems, delivering high-quality surface development, datum strategies, and comprehensive GD&#x26;T.</span></li><li><span lang=\"EN-US\">Collaborate with cross-functional teams within engineering, manufacturing, and purchasing to ensure system manufacturing, assembly feasibility, and serviceability. Support vehicle development milestones and prototype/production build events</span></li><li><span lang=\"EN-US\">Manage supplier technical execution to ensure components meet Ford’s stringent quality and functional specifications.</span></li></ul><p><span lang=\"EN-US\">You'll have...</span></p><ul><li><span lang=\"EN-US\">B.S. in Mechanical Engineering or equivalent combination of relevant education and experience.</span></li><li><span lang=\"EN-US\">3+ years of experience owning components through a full production vehicle development cycle and launch.</span></li><li><span lang=\"EN-US\">5+ years of experience in automotive closures or mechanism engineering.</span></li><li><span lang=\"EN-US\">5+ years of experience utilizing CAD collaboratively (3DX or CATIA preferred; NX, ICEMSURF, or Alias considered).</span></li><li><span lang=\"EN-US\">Demonstrated experience in the design and release of moving mechanical systems (latches, hinges, or actuators).</span></li></ul><p><span lang=\"EN-US\">Even better, you may have...</span></p><ul><li><span lang=\"EN-US\">Expert Mechanical Fundamentals: Deep understanding of mechanism kinematics, linkages, and electromechanical integration (e.g., e-latches and powered closures).</span></li><li><span lang=\"EN-US\">Materials &#x26; Manufacturing: Strong knowledge of sheet metal stamping, casting, and materials science to facilitate seamless integration of hardware into the vehicle body.</span></li><li><span lang=\"EN-US\">CAE Literacy: Ability to leverage CAE tools to drive design decisions regarding mechanism stiffness, timing, and structural integrity.</span></li><li><span lang=\"EN-US\">Regulatory Knowledge: Familiarity with global safety standards and FMVSS requirements related to door retention and closure systems.</span></li><li><span lang=\"EN-US\">Craftsmanship: Strong understanding of GD&#x26;T and how mechanism tolerances impact vehicle-level gaps, flushes, and user perceived quality.</span></li><li><span lang=\"EN-US\">Hands-on Approach: Experience in physical prototyping and a 'boots-on-the-ground' mentality during production build events.</span></li></ul><p><span lang=\"EN-US\">You may not check every box, or your experience may look a little different from what we've outlined, but if you think you can bring value to Ford Motor Company, we encourage you to apply!</span></p><p><span lang=\"EN-US\">As an established global company, we offer the benefit of choice. You can choose what your Ford future will look like: will your story span the globe, or keep you close to home? Will your career be a deep dive into what you love, or a series of new teams and new skills? Will you be a leader, a changemaker, a technical expert, a culture builder…or all of the above? No matter what you choose, we offer a work life that works for you, including:</span><br><span lang=\"EN-US\">• Immediate medical, dental, vision and prescription drug coverage</span><br><span lang=\"EN-US\">• Flexible family care days, paid parental leave, new parent ramp-up programs, subsidized back-up child care and more</span><br><span lang=\"EN-US\">• Family building benefits including adoption and surrogacy expense reimbursement, fertility treatments, and more</span><br><span lang=\"EN-US\">• Vehicle discount program for employees and family members and management leases</span><br><span lang=\"EN-US\">• Tuition assistance</span><br><span lang=\"EN-US\">• Established and active employee resource groups</span><br><span lang=\"EN-US\">• Paid time off for individual and team community service</span><br><span lang=\"EN-US\">• A generous schedule of paid holidays, including the week between Christmas and New Year’s Day</span><br><span lang=\"EN-US\">• Paid time off and the option to purchase additional vacation time.</span><br> </p><p><span lang=\"EN-US\">This position is leadership level 6 and ranges from $132,800-$250,800.    </span><br><span lang=\"EN-US\"><strong>Final determination of salary grade will be based on candidate's skills and experience, and base salary will be set within the applicable range according to job scope, responsibility and competitive market value.</strong></span></p><p><br><span lang=\"EN-US\">For more information on salary and benefits, click here: </span><a href=\"https://fordcareers.co/LL6\"><span lang=\"EN-US\">https://fordcareers.co/LL6</span></a><span lang=\"EN-US\"> </span></p><p><span lang=\"EN-US\">Visa sponsorship is available for this position.</span></p><p><span lang=\"EN-US\">Candidates for positions with Ford Motor Company must be legally authorized to work in the United States. Verification of employment eligibility will be required at the time of hire.</span></p><p><span lang=\"EN-US\">We are an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, religion, color, age, sex, national origin, sexual orientation, gender identity, disability status or protected veteran status. In the United States, if you need a reasonable accommodation for the online application process due to a disability, please call 1-888-336-0660.</span></p><p><span lang=\"EN-US\">This position is hybrid with a requirement to be onsite four or more days per week. #LI-Hybrid</span></p><p><span lang=\"EN-US\">   #LI-BB1  #UEV</span></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/closures-systems-launch-engineer-ford</p>",
-      "posted_at": "2026-10-19T00:00:00+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "bb4590dc-24b4-405d-b0d1-ed0e76951e84",
-      "title": "Closures Systems Engineer",
-      "url": "https://remotejobs.org/remote-jobs/closures-systems-engineer-ford",
-      "apply_url": "https://remotejobs.org/remote-jobs/closures-systems-engineer-ford",
-      "company": {
-        "name": "Ford",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/166d3f95ecb65de82be4d678d72998035b9cdb743ee6c15e67267624144270f4.webp",
-        "website": "https://ford.com",
-        "url": "https://remotejobs.org/companies/ford"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "Long Beach, CA, United States",
-      "location_normalization": {
-        "raw": "Long Beach, CA, United States",
-        "input": {},
-        "scope": "restricted",
-        "status": "partial",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [
-          "long beach"
-        ],
-        "work_arrangement": "unknown",
-        "allowed_countries": [],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [
-          "US-CA"
-        ],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": null,
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": null,
-        "role_family": null,
-        "required_skills": [],
-        "mentioned_skills": [
-          "python"
-        ],
-        "preferred_skills": [],
-        "experience_requirements": [
-          {
-            "text": "6+ years of experience in an automotive product development environment",
-            "maximum_years": null,
-            "minimum_years": 6,
-            "classification": "mentioned"
-          }
-        ]
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": null,
-      "salary_period": null,
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": "72878",
-      "direct_apply": null,
-      "description": "<p>We made history and now we work to transform the future – for our customers, our communities and our families. You'll see your work on the road every day, helping people move freely and pursue their dreams. At Ford, you can build more than vehicles. Come build what matters.</p><p><br>Product Creation and Industrialization (PC&#x26;I) brings together Ford’s vehicle, electric, digital and design teams with our global manufacturing system. Working as one end-to-end organization, we turn ideas into high-quality vehicles, software and experiences across gas, hybrid and electric, designed around what customers need.</p><p>In this position...<br>As a Mechanisms Engineer, you’ll use your technical expertise to wholistically drive complex mechanism design problems to completion. You’ll work amongst the team to scope work, plan requirements, identify risks, estimate budgets, and clearly communicate ongoing progress of the sealing system.</p><p>You will be working on a small high performing team that will have a high interaction and collaboration quotient to deliver fully integrated EV vehicle sealing systems that achieve aspirational targets associated with cost, weight, efficiency, and exceed operational tolerances required to deliver the ambitious project scope. Engineering trade-offs are minimized by the development of solutions and innovations to minimize settling for an inferior product or solution. This team will be highly technical in nature and will come from engineering and data centric team environments that have had to deliver the holistic end to end engineering life cycle from ideation through design, engineering, test and ensuring efficient industrialization. This environment is not for everyone but will enrich the best talent with the opportunity to perform some of the best work of their careers.   </p><p>What you'll do...</p><ul><li>Ownership over the design, development, and release of mechanisms related to closures applications, or similar</li><li>Lead the investigation, creation, and implementation of new designs to support future products on the Universal Electric Vehicle platform</li><li>Collaborate directly with the studio team to realize concepts that deliver both the design vision and the engineering function</li><li>Leverage engineering analyses and simulations to prove out product function &#x26; quality, from cradle to grave</li><li>Iterate concepts &#x26; designs rapidly using strong fundamentals in statics, mechanics of materials, dynamics, and mechatronics</li><li>Develop and build proof-of-concept prototypes to validate the virtual using the physical</li><li>Own design &#x26; technical documentation, including part and assembly drawings, to support sourcing, manufacturing, and service teams</li><li>Serve as design responsible individual through all design, tooling, testing, and build phases</li><li>Collaborate with suppliers, vendors, and contractors to support industrialization</li><li>Scrutinize and optimize project costs, prioritizing design effectiveness and safety, in conjunction with supply chain colleagues</li><li>Manage bills of material and maintain accurate records.</li></ul><p>You'll have...</p><ul><li>6+ years of experience in an automotive product development environment</li><li>Experience with Catia V5/6, 3DX or other similar CAD packages</li><li>Experience with Confluence and JIRA applications</li><li>Detailed knowledge of the product development process from design, development, validation and industrialization</li><li>Knowledge of the materials, processes, and technologies used to deliver electromechanical systems for automotive applications</li><li>Willingness to explore inventive mechanisms applicable to current &#x26; future closures systems</li><li>Proven experience driving progress on multiple projects across multiple locations and timelines</li><li>Strong written and verbal communication skills</li><li>An eagerness to work cross-functionally in a dynamic environment where you are part of a high-performing team</li><li>A system approach with the desire and curiosity to strive for exceptional delivery execution and continuous improvement</li></ul><p>Even better, you may have...</p><ul><li>Ability to develop, generate, and assess kinematic &#x26; dynamics models for mechanism creation (Python, MATLAB, etc.)</li><li>Ability to post-process CAE data (META, Altair Hyperview etc.).</li><li>Evidence of deploying automotive mechanisms at scale and at quality</li></ul><p>You may not check every box, or your experience may look a little different from what we've outlined, but if you think you can bring value to Ford Motor Company, we encourage you to apply!</p><p>As an established global company, we offer the benefit of choice. You can choose what your Ford future will look like: will your story span the globe, or keep you close to home? Will your career be a deep dive into what you love, or a series of new teams and new skills? Will you be a leader, a changemaker, a technical expert, a culture builder…or all of the above? No matter what you choose, we offer a work life that works for you, including:<br>• Immediate medical, dental, vision and prescription drug coverage<br>• Flexible family care days, paid parental leave, new parent ramp-up programs, subsidized back-up child care and more<br>• Family building benefits including adoption and surrogacy expense reimbursement, fertility treatments, and more<br>• Vehicle discount program for employees and family members and management leases<br>• Tuition assistance<br>• Established and active employee resource groups<br>• Paid time off for individual and team community service<br>• A generous schedule of paid holidays, including the week between Christmas and New Year’s Day<br>• Paid time off and the option to purchase additional vacation time.</p><p> This position is a salary grade 7 and ranges from $118,700-$198,500., </p><p>This position is a salary grade 8 and ranges from $138,800-$232,700.  <br><strong>Final determination of salary grade will be based on candidate's skills and experience, and base salary will be set within the applicable range according to job scope, responsibility and competitive market value.</strong></p><p><br>For more information on salary and benefits, click here: <a href=\"https://fordcareers.co/GSR\">https://fordcareers.co/GSR</a> </p><p>Visa sponsorship is available for this position.</p><p>Candidates for positions with Ford Motor Company must be legally authorized to work in the United States. Verification of employment eligibility will be required at the time of hire.</p><p>We are an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, religion, color, age, sex, national origin, sexual orientation, gender identity, disability status or protected veteran status. In the United States, if you need a reasonable accommodation for the online application process due to a disability, please call 1-888-336-0660.</p><p>This position is hybrid with a requirement to be onsite four or more days per week. #LI-Hybrid</p><p>   #LI-BB1 #UEV</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/closures-systems-engineer-ford</p>",
-      "posted_at": "2026-10-19T00:00:00+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "e156fc6b-4e63-49c5-859c-ffeaac80107c",
-      "title": "Systems Engineer",
-      "url": "https://remotejobs.org/remote-jobs/systems-engineer-inizio-partners-corp",
-      "apply_url": "https://remotejobs.org/remote-jobs/systems-engineer-inizio-partners-corp",
-      "company": {
-        "name": "Inizio Partners Corp",
-        "logo_url": null,
-        "website": "https://inizio.com",
-        "url": "https://remotejobs.org/companies/inizio-partners-corp"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "United States",
-      "location_normalization": {
-        "raw": "United States",
-        "input": {},
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [],
-        "evidence_ids": [
-          "source-location"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "hybrid",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-sonnet-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1",
         "allowed_subdivisions": [],
         "excluded_subdivisions": [],
         "worldwide_permission_verified": false
@@ -3836,11 +4052,11 @@
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": null,
+        "seniority": "staff",
         "role_family": null,
         "required_skills": [],
         "mentioned_skills": [
-          "aws"
+          "rust"
         ],
         "preferred_skills": [],
         "experience_requirements": []
@@ -3850,15 +4066,15 @@
       "salary_text": null,
       "salary_source_text": null,
       "salary_currency": null,
-      "salary_period": "year",
+      "salary_period": null,
       "type": "Full-time",
       "employment_types": [
         "FULL_TIME"
       ],
-      "employer_job_id": null,
+      "employer_job_id": "14",
       "direct_apply": null,
-      "description": "<p><strong>Systems Engineer – Active Directory</strong><br></p><ul>\n<li>Support, design, install, customize, and maintain servers and all associated components.</li>\n<li>Provide general administration of systems. This includes user access administration, system services, configurations, and the development of tools to manage the environment.</li>\n<li>Assists with the development of prototypes/proofs of concepts to validate key project assumptions prior to making significant investments.</li>\n<li>Provide break/fix support of associated software and operating system.</li>\n<li>Communicating with team, customers, and sponsors effectively. Able to establish credibility by appealing to reason and using research, data and facts.</li>\n<li>Maintain system performance by pro-active monitoring and trending the utilization of system resources.</li>\n<li>Maintain system reliability and availability by managing system updates and patches.</li>\n<li>Design, install and implement systems to provide efficient, cost-effective solutions for the business' computing needs. Research industry trends and directions within the industry, to assist with developing long-term IT infrastructure strategies.</li>\n<li>Assists with the identification of system requirements. Devises or modifies procedures to solve problems considering computer equipment capacity and limitations, operating time, form of desired results, and integration of components.</li>\n<li>Use appropriate change control procedures for implementing software enhancements.</li>\n<li>Oversees systems testing, leads integration testing, and assists in user testing.</li>\n<li>Coordinates the maintenance of assigned applications.</li>\n<li>Monitors system and application performance metrics. May provide input to solutions and/or recommendations for improvements.</li>\n<li>Remain abreast of current technologies and best practices that may be applicable to the company.</li>\n<li>Establishes relationships with the users and the IT organization to provide technical solutions to meet user needs through the analysis of business workflows and an understanding of business needs.</li>\n<li>Assists in the performance of Merger and Acquisitions</li>\n<li>Assists in Domain mergers and divestures.<br><br><strong>Essential Skills/Experience:</strong>\n</li>\n</ul><h2>Active Directory - Microsoft centric environment</h2><ul>\n<li>Basic computer skills: Operating Systems, Microsoft Office</li>\n<li>Provide support for Active Directory and related technologies:</li>\n<li>Active Directory Domain Services (ADDS)</li>\n<li>Sites and Services Configuration</li>\n<li>Azure Entra ID</li>\n<li>AD Connect</li>\n<li>DNS</li>\n<li>DHCP</li>\n<li>Microsoft Certificate Authority (MSCA)</li>\n<li>KMS and RDP licensing</li>\n<li>PowerShell scripting</li>\n</ul><h2>TCP/IP Subnetting</h2><p><strong>Working Conditions:</strong><br></p><ul>\n<li>Professional office environment, expected to be hybrid or fully remote.</li>\n<li>24-hour on-call support will require occasional night and weekend work.</li>\n<li>Willingness to work overtime hours as necessary, especially during critical issue resolution and to achieve project milestones.</li>\n<li>Will be required to carry cell phones and be accessible after hours as needed.<br><br><strong>Minimum Requirements:</strong><br> Five (5) years business experience using and supporting active directory, computing, and network technology in an enterprise environment.<br><br><strong>Preferred Qualifications:</strong><br> Bachelor's degree in business, Computer Science, or related discipline from an accredited four-year college/university<br><br><strong>Additional Knowledge, Skills, and Abilities:</strong><br><br>\n</li>\n<li>Expresses technical and business concepts, ideas, feelings, opinions, and conclusions so that others understand or are persuaded to act.</li>\n<li>Creates an environment that encourages and values the opinions of others and promotes sharing of information and ideas.</li>\n<li>Consistently displays awareness and sensitivity to the needs of internal and/or external clients. Proactively ensures these needs are met or exceeded.</li>\n<li>Makes decision by quickly assessing the scope of an issue and providing options leading to its closure. Determines appropriate options based on the situation.</li>\n<li>Proactively identifies present and future obstacles, issues, and opportunities. Take actions to address such obstacles.</li>\n<li>Develop plans prior to acting and executes accordingly. Sets and renegotiates priorities to achieve goals.</li>\n<li>Thinks critically and anticipates, recognizes, identifies, and develops solutions to problems in a timely manner.</li>\n<li>Fosters an environment where individuals collaborate in pursuit of a common mission and mutual goals.</li>\n<li>Identifies risks and obstacles to plans. Defines scarcity and conflicts of resource needs, and potential constraints. Investigates risks within various project elements, assesses impact, and develops contingencyplans to address major risks.</li>\n<li>Knowledge of the systems architecture used consistently within or across the organization or enterprise.<br> In depth experience with architecture, installation and support of</li>\n<li>Active Directory and domain migrations and consolidations</li>\n<li>Server hardware support experience</li>\n<li>PowerShell scripting experience</li>\n<li>Cloud services experience: AWS, Azure</li>\n<li>Virtualization experience: VMware</li>\n<li>Leads the identification of system requirements. Devises or modifies procedures to solve problems considering computer equipment capacity and limitations, operating time, form of desired results, and integration of components</li>\n</ul><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/systems-engineer-inizio-partners-corp</p>",
-      "posted_at": "2026-10-18T21:55:15+00:00",
+      "description": "<p>• Build and operate high-performance services in Rust</p><p>• Own critical paths in the issuing flow (authorization, clearing, ledger)</p><p>• Design systems for low latency, high reliability, and fault tolerance</p><p>• Debug complex production issues involving real money</p><p>• Ensure system integrity and correctness across all transaction flows</p><p>• Drive architecture decisions across teams</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/staff-engineer-issuing-cloudwalk</p>",
+      "posted_at": "2026-10-19T00:00:00+00:00",
       "is_translated": false,
       "original_language": null
     },
@@ -4037,7 +4253,30 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "c1",
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -4257,7 +4496,25 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [],
+        "allowed_regions": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -9209,6 +9466,84 @@
       "original_language": null
     },
     {
+      "id": "bdb984de-3043-4451-89a2-dd1f87e0925c",
+      "title": "Machine Learning Engineer",
+      "url": "https://remotejobs.org/remote-jobs/machine-learning-engineer-cloudwalk",
+      "apply_url": "https://remotejobs.org/remote-jobs/machine-learning-engineer-cloudwalk",
+      "company": {
+        "name": "CloudWalk",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/ecfcb146d68f3f4b478f5055b7d50edb025a8068f329d0ad302a0aa808749396.png",
+        "website": "https://cloudwalk.io",
+        "url": "https://remotejobs.org/companies/cloudwalk"
+      },
+      "category": {
+        "name": "Data Science",
+        "slug": "data-science"
+      },
+      "location": null,
+      "location_normalization": {
+        "raw": null,
+        "input": {},
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [],
+        "allowed_regions": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": null,
+        "role_family": "data-science",
+        "required_skills": [],
+        "mentioned_skills": [],
+        "preferred_skills": [],
+        "experience_requirements": []
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "a82mO0KhJ0i2mtXWHlqW9w",
+      "direct_apply": null,
+      "description": "<ul>\n<li>Build edge intelligence. Design and train machine learning models focused on anomaly detection, bot mitigation, and zero-day intrusion detection.</li>\n<li>Deploy at scale. Implement and optimize inference models to run efficiently at the edge, processing massive volumes of HTTP traffic with ultra-low latency.</li>\n<li>Turn attacks into data. Work closely with our offensive security engineers to understand attack vectors, simulate realistic threats, and generate high-quality datasets for model training.</li>\n<li>Automate the defense. Create robust data pipelines that continuously ingest traffic logs, monitor model performance, detect concept drift, and automate retraining based on the latest threat intelligence.</li>\n</ul><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/machine-learning-engineer-cloudwalk</p>",
+      "posted_at": "2026-10-19T00:00:00+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
       "id": "579b07d7-d761-4f19-a587-b8036563eb97",
       "title": "Applied AI Architect (Principal/Lead)",
       "url": "https://remotejobs.org/remote-jobs/applied-ai-architect-principallead-salesforce",
@@ -10618,7 +10953,47 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [
+          "EU"
+        ],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [
+          {
+            "kind": "timezone",
+            "areas": [],
+            "effect": "require",
+            "details": "Working hours: 11.00-20.00 CET",
+            "regions": [],
+            "timezones": [],
+            "evidence_id": "c2",
+            "conditional_on": null
+          }
+        ],
+        "unresolved": [
+          "Candidate locations are limited to the EU region (EU ONLY); the regional label is retained in regions but its member jurisdictions are not enumerated as ISO areas.",
+          "Unresolved area: description:3",
+          "Working hours 11.00-20.00 CET are stated without an IANA timezone identifier; the wording is retained in details and timezones is empty."
+        ],
+        "evidence_ids": [
+          "c1",
+          "c2"
+        ],
+        "allowed_regions": [
+          "European Union"
+        ],
+        "work_arrangement": "unknown",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -11296,7 +11671,29 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [
+          "GB"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -12604,97 +13001,6 @@
       "direct_apply": null,
       "description": "<p><strong>Data Platform Engineer – Remote</strong><br>\n<br>\nBright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and enterprise solutions across the United States.<br>\n<br>\nThis is a fantastic opportunity to join an established and well-respected organization offering tremendous career growth potential.<br>\n<br>\n<strong>Job Title:</strong> Data Platform Engineer<br>\n<strong>Location:</strong> 100% Remote (United States)<br>\n<strong>Position Type:</strong> Full-time, Direct W2<br>\n<strong>Salary Range:</strong> $100,000–$150,000 Annually<br>\n<strong>Experience:</strong> 6+ years<br>\n<br>\n<strong>Sponsorship: </strong>U.S. Citizens, Green Card Holders, EAD Holders, and H-1B transfer candidates are encouraged to apply. We are unable to sponsor new H-1B visa petitions for this position.<br>\n<br>\n<strong>Job Summary</strong><br>\nWe are seeking a Data Platform Engineer to design, build, and operate high-performance, highly reliable inference platforms for serving large machine learning models in production. The role focuses on the systems engineering side of AI deployment, including request routing, batching, caching, autoscaling, GPU utilization, and end-to-end observability across diverse model workloads. The ideal candidate brings strong distributed systems and performance engineering expertise, has shipped serving systems at scale, and understands the trade-offs between latency, throughput, cost, and quality in ML serving.<br>\n<br>\n<strong>Required Qualifications</strong></p>\n<ul>\n<li>Bachelor’s or Master’s degree in Computer Science or a related field.</li>\n<li>Six or more years of experience in distributed systems, infrastructure, or ML platform engineering.</li>\n<li>Strong proficiency in Python and a systems language such as Go, Rust, or C++.</li>\n<li>Deep experience operating high-throughput, low-latency services in production.</li>\n<li>Hands-on experience with LLM or large model inference frameworks such as vLLM or TensorRT-LLM.</li>\n<li>Strong understanding of GPU architecture, memory hierarchies, and accelerator utilization.</li>\n<li>Familiarity with Kubernetes, autoscaling, and modern cloud platforms.</li>\n<li>Experience with observability stacks including metrics, tracing, and structured logging.</li>\n<li>Solid grounding in performance engineering and capacity planning.</li>\n<li>Strong communication and incident response skills.</li>\n</ul>\n<p><strong>Preferred Qualifications</strong></p>\n<ul>\n<li>Open-source contributions to model serving infrastructure.</li>\n<li>Experience with multi-region or globally distributed AI serving.</li>\n<li>Familiarity with model quantization, distillation, and compression techniques.</li>\n<li>Exposure to FinOps for AI workloads and cost-efficient serving design.</li>\n<li>Experience supporting external-facing AI APIs at scale.</li>\n</ul>\n<p><strong>How to Apply</strong><br>\nWould you like to know more about this opportunity? For immediate consideration, please send your resume to<strong>  </strong>or contact us at(908) 505-3544 . Learn more about Bright Vision Technologies at .<br>\nBright Vision Technologies is an Equal Opportunity Employer.</p>\n<p>Equal Employment Opportunity (EEO) Statement</p>\n<p>Bright Vision Technologies (BV Teck) is committed to equal employment opportunity (EEO) for all employees and applicants without regard to race, color, religion, sex, sexual orientation, gender identity or expression, national origin, age, genetic information, disability, veteran status, or any other protected status as defined by applicable federal, state, or local laws. This commitment extends to all aspects of employment, including recruitment, hiring, training, compensation, promotion, transfer, leaves of absence, termination, layoffs, and recall.</p>\n<p>BV Teck expressly prohibits any form of workplace harassment or discrimination. Any improper interference with employees' ability to perform their job duties may result in disciplinary action up to and including termination of employment.</p>\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/data-platform-engineer-bright-vision-technologies-3a857b40582541df85856f885f4a1c5c</p>",
       "posted_at": "2026-10-14T20:55:31+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "aca4be66-7eb6-4a3b-8672-2beb4e271779",
-      "title": "Sr. Director, MaintainX AI",
-      "url": "https://remotejobs.org/remote-jobs/sr-director-maintainx-ai-maintainx",
-      "apply_url": "https://remotejobs.org/remote-jobs/sr-director-maintainx-ai-maintainx",
-      "company": {
-        "name": "MaintainX",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/2335005d4d1688f8fa88e740fea95aa333d421c5c24d49591b30725e09872242.png",
-        "website": "https://maintainx.com",
-        "url": "https://remotejobs.org/companies/maintainx"
-      },
-      "category": {
-        "name": "Data Science",
-        "slug": "data-science"
-      },
-      "location": "USA",
-      "location_normalization": {
-        "raw": "USA",
-        "input": {},
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [],
-        "evidence_ids": [
-          "source-location"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-sonnet-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "partial",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": null,
-        "role_family": null,
-        "required_skills": [],
-        "mentioned_skills": [],
-        "preferred_skills": [],
-        "experience_requirements": [
-          {
-            "text": "12+ years of experience in applied AI/ML, with 7+ years leading teams in high-growth, data-driven technology companies",
-            "maximum_years": null,
-            "minimum_years": 12,
-            "classification": "mentioned"
-          }
-        ]
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": null,
-      "salary_period": null,
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<p><em><strong><a href=\"https://jobicy.com/company/maintainx\">MaintainX</a> is a leading mobile-first work execution platform </strong>for industrial and frontline teams. <strong>More than 13,000 customers</strong>, including Duracell, McDonald's, Shell, DHL and Volvo, use MaintainX to cut unplanned downtime and run better operations, across 13.9 million managed assets and 79.5 million completed work orders.</em></p>\n<p><em><strong>In August 2026 MaintainX became part of Autodesk, joining </strong></em><a href=\"https://adsknews.autodesk.com/en/views/inside-autodesk-operations-solutions/\"><em><strong>Autodesk Operations Solutions</strong></em></a><em><strong>, the organization unifying Autodesk's operations platform alongside Tandem, FlexSim and Fusion Operations. </strong>Autodesk's strategy is to converge design, make and operate into one continuous lifecycle: design an asset, build it, run it, then feed what you learn running it back into the next design. Autodesk had design and make. Operate is the phase that tells you what actually happened, and it is ours.</em></p>\n<p><strong>The Role:</strong></p>\n<p>We are seeking a <strong>visionary and execution-driven AI leader </strong>to define and scale our <strong>AI strategy and organization</strong>. This leader will drive innovation across <strong>Agentic AI </strong>and <strong>Machine Learning </strong>solutions to ensure MaintainX becomes the category-defining intelligence layer for industrial operations.</p>\n<ul>\n<li>\n<p><strong>Work Intelligence: </strong>Conversational and Agentic AI solutions to empower frontline teams to digitize their operations, schedule and execute work, manage inventory and deliver insights.</p>\n</li>\n<li>\n<p><strong>Asset Intelligence: </strong>Transforming raw machine and sensor data into actionable insights, predictive models, prescriptive recommendations and automated workflows to reduce downtime and labor costs. The vertical scope encompasses integration with OT/IT platforms/protocols, Machine Learning platform, full-stack product development and various sensor modalities such as tabular, vibration, and image data.</p>\n</li>\n<li>\n<p><strong>GTM Intelligence: </strong>Accelerate MaintainX's and potentially Autodesk’s business by building AI-powered agents, tools, and internal products that help our revenue, service, and operations teams move faster, close smarter and scale. The flagship platform is MaintainX's data intelligence layer (Atlas) — a unified, agentic system that connects our internal knowledge with external signals. Atlas empowers agentic or conversational solutions through the tools teams already use such as Salesforce and Claude.</p>\n</li>\n</ul>\n<p>You’ll shape how MaintainX and potentially Autodesk Operations Solutions leverages predictive, generative and agentic AI to unlock new enterprise value. You’ll partner cross-functionally with not only Engineering, Product and Design, but also Marketing, Sales and Customer Support; while building and leading a world-class AI/ML team.</p>\n<p><strong>What You’ll Do:</strong></p>\n<p><strong>AI Strategy &#x26; Vision</strong></p>\n<ul>\n<li>\n<p>Define the long-term product and platform vision with progressive milestones and KPIs.</p>\n</li>\n<li>\n<p>Empower every MaintainX engineer to incorporate Agentic AI tools into their feature development flows.</p>\n</li>\n<li>\n<p>Translate emerging AI/ML research (GenAI, anomaly detection, RUL prediction, multimodal fusion) into production-ready solutions that deliver measurable customer value.</p>\n</li>\n<li>\n<p>Build and evangelize Autodesk and MaintainX’s position as the <strong>AI leader in CMMS/EAM</strong>, differentiating through workflow-native intelligence.</p>\n</li>\n</ul>\n<p><strong>Execution &#x26; Delivery</strong></p>\n<ul>\n<li>\n<p>Lead the design and build of scalable <strong>Agentic AI platforms</strong>: Retrieval augmented generation (RAG) systems, evals and agentic orchestration frameworks.</p>\n</li>\n<li>\n<p>Build a data ingestion, processing and inference pipelines that can <strong>scale to millions of unstructured documents and videos</strong>.</p>\n</li>\n<li>\n<p>Drive delivery of predictive models across sensor modalities (tabular, vibration, IoT, multimodal), balancing time-to-market with reliability and scalability.</p>\n</li>\n<li>\n<p>Ensure models are explainable, trusted, and deeply embedded into MaintainX workflows — not siloed features.</p>\n</li>\n</ul>\n<p><strong>People Leadership &#x26; Organization Building</strong></p>\n<ul>\n<li>\n<p>Build and scale a high-performing AI organization spanning <strong>platform, machine learning and product teams</strong>.</p>\n</li>\n<li>\n<p>Hire and develop technical leaders; create a culture of innovation and accountability.</p>\n</li>\n<li>\n<p>Establish a feedback-driven and high performance culture, empowering teams to take calculated risks and learn from successes and failures.</p>\n</li>\n</ul>\n<p><strong>Cross-Functional Leadership</strong></p>\n<ul>\n<li>\n<p>Represent AI internally and externally as a thought leader — with executives, customers, and industry stakeholders.</p>\n</li>\n<li>\n<p>Partner with Product and Design to translate customer needs into AI-powered workflows.</p>\n</li>\n<li>\n<p>Collaborate with GTM teams to develop AI messaging, customer pilots, pricing strategies, and case studies.</p>\n</li>\n</ul>\n<p><strong>About You:</strong></p>\n<ul>\n<li>\n<p><strong>12+ years of experience </strong>in applied AI/ML, with <strong>7+ years leading teams </strong>in high-growth, data-driven technology companies.</p>\n</li>\n<li>\n<p>Proven success designing, building and deploying <strong>predictive deep learning models into production </strong>at scale (ranking &#x26; recommendation systems, anomaly detection, forecasting, multimodal).</p>\n</li>\n<li>\n<p>Track record of <strong>organizational leadership</strong>: building AI/ML teams, hiring senior technical leaders, and scaling organizations through growth.</p>\n</li>\n<li>\n<p>Deep expertise across one or more: multimodal ML (sensor, text, image, vibration), MLOps or Agentic AI frameworks.</p>\n</li>\n<li>\n<p>Adept at operating at multiple altitudes: from <strong>architecture design reviews </strong>to <strong>C-suite strategic planning</strong>.</p>\n</li>\n<li>\n<p>Comfortable working in fast-moving environments; you balance speed with reliability and long-term vision.</p>\n</li>\n<li>\n<p>Strong communication skills, able to influence across disciplines, present to executive leadership and inspire both technical and non-technical stakeholders.</p>\n</li>\n<li>\n<p>Entrepreneurial mindset: thrives in ambiguity, biases for action, and balances long-term vision with near-term execution.</p>\n</li>\n</ul>\n<p><strong>Our mission is to keep the physical world running. </strong>Factories, fleets, hospitals and campuses stay up because the people who maintain them have tools worth using. That is what we build.</p>\n<p><strong>Compensation and benefits. </strong>Base pay is one part of the package. Depending on the role, compensation may also include commission, an annual bonus and equity. Benefits differ by country. For roles in the United States, Autodesk’s benefits are described at <a href=\"http://benefits.autodesk.com\">benefits.autodesk.com</a>. For roles in Canada and other countries, the plan differs on health coverage, retirement and leave, and your recruiter will walk you through it.</p>\n<p><strong>Belonging. </strong>We take pride in a culture where everyone can thrive. More at <a href=\"http://autodesk.com/company/global-belonging\">autodesk.com/company/global-belonging</a>. More on where this is going: Autodesk CEO Andrew Anagnost on building the future of connected operations, and AOS SVP Stephen Hooper on welcoming MaintainX to Autodesk.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/sr-director-maintainx-ai-maintainx</p>",
-      "posted_at": "2026-10-14T16:56:40+00:00",
       "is_translated": false,
       "original_language": null
     }
