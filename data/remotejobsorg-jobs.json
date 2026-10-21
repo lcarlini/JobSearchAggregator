@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T03:32:10.494Z",
+  "generatedAt": "2026-10-21T11:19:25.127Z",
   "count": 150,
   "data": [
     {
@@ -423,6 +423,103 @@
       "original_language": null
     },
     {
+      "id": "20fbd5b1-36ca-4569-b587-abd39073cbd8",
+      "title": "Sr Data Engineer",
+      "url": "https://remotejobs.org/remote-jobs/sr-data-engineer-wealthcom",
+      "apply_url": "https://remotejobs.org/remote-jobs/sr-data-engineer-wealthcom",
+      "company": {
+        "name": "Wealth.com",
+        "logo_url": "https://we-work-remotely.imgix.net/logos/0171/5404/logo.gif",
+        "website": "https://wealth.com",
+        "url": "https://remotejobs.org/companies/wealthcom"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "Hybrid, New York, Tempe, San Francisco",
+      "location_normalization": {
+        "raw": "Hybrid, New York, Tempe, San Francisco",
+        "input": {
+          "workArrangement": "hybrid"
+        },
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [
+          "san francisco",
+          "tempe"
+        ],
+        "work_arrangement": "hybrid",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "allowed_subdivisions": [
+          "US-NY"
+        ],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [
+          "Hybrid role requires attendance at the NYC Office 3 days a week; the header lists New York, Tempe, and San Francisco, and this city-level office requirement cannot be represented as ISO 3166-2 areas.",
+          "Unresolved area: description:35"
+        ],
+        "evidence_ids": [
+          "c2",
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "hybrid",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [
+          "US-NY"
+        ],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": "senior",
+        "role_family": "data-engineering",
+        "required_skills": [],
+        "mentioned_skills": [
+          "aws",
+          "python",
+          "sql"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": []
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "2465ee7d-3e98-4571-bcef-8621c224adde",
+      "direct_apply": null,
+      "description": "<p><strong>About Us:</strong></p>\n<p><a href=\"http://Wealth.com\">Wealth.com</a> is the industry's leading estate planning platform, empowering more than 1,000 wealth management firms to modernize the delivery of estate planning guidance to their clients. As the only tech-led, end-to-end platform built specifically for financial institutions, <a href=\"http://Wealth.com\">Wealth.com</a> enables firms to drive scale, efficiency, and measurable client impact. Trusted by some of the largest names in finance, <a href=\"http://Wealth.com\">Wealth.com</a> combines proprietary AI, robust security, and deep technological and legal expertise to serve the full range of client needs, from foundational plans to the most sophisticated estate strategies. The company has been widely recognized for innovation and leadership, winning Top Estate Planning Technology and Top Estate Planning Implementation at the 2025 <a href=\"http://WealthManagement.com\">WealthManagement.com</a> Industry Awards, being named the 2024 Best Technology Provider in the Trust category, and earning #1 in estate planning market share in the 2025 Kitces AdvisorTech Study.</p>\n<p>Our team is fundamental to our standing as the leading estate planning platform. We cultivate a collaborative and supportive environment, fostering innovation and making <a href=\"http://Wealth.com\">Wealth.com</a> a truly enjoyable workplace. <a href=\"http://Wealth.com\">Wealth.com</a> is proud to be certified as a Great Place to Work for 2025.</p>\n<p><strong>The Opportunity:</strong></p>\n<p>Every number at <a href=\"http://Wealth.com\">Wealth.com</a>, from product usage to finance reporting to what we show our executive team, runs through our data platform. We're hiring the first dedicated Senior Data Engineer to own it.</p>\n<p>This is a true ownership role. You'll take responsibility for our AWS data infrastructure, our dbt project, our Redshift warehouse, and the pipelines and Airflow environment that connect them. You won't inherit a mature, fully staffed function. You'll help decide what good looks like and then build it.</p>\n<p>You'll join a team of analysts and engineers who rely on this platform every day, and you'll work closely with our Platform engineers so that when product data models change, the data platform is ready for it. Your stakeholders are mostly internal, so you'll see the impact of your work quickly and hear about it directly.</p>\n<p><strong>What You'll Own:</strong></p>\n<ul>\n<li>\n<p>The data platform end to end. Our pipelines, Airflow environment, dbt, and Redshift warehouse are yours to design, operate, and improve.</p>\n</li>\n<li>\n<p>Reliability and trust in the data. When a pipeline breaks or a number looks wrong, you're the person who finds the cause and makes sure it doesn't happen again.</p>\n</li>\n<li>\n<p>The path from messy source to clean warehouse. You'll bring data in from many sources, clean it, model it, and make it easy for others to use.</p>\n</li>\n<li>\n<p>Our data architecture decisions. You'll weigh in on warehouse design, scalability, and cost, and write down why we chose what we chose.</p>\n</li>\n<li>\n<p>The bridge with Platform. You'll stay ahead of upstream data model changes and make sure data and analytics have a voice in major engineering decisions.</p>\n</li>\n</ul>\n<p><strong>What to Expect:</strong></p>\n<ul>\n<li>\n<p>First 30 days: Get to know our stack, our stakeholders, and where the data platform is today. Ship something small and real.</p>\n</li>\n<li>\n<p>First 90 days: Take on day-to-day ownership of pipelines and dbt, and be the person people go to with data infrastructure questions.</p>\n</li>\n<li>\n<p>First year: Leave the platform more reliable, better documented, and easier to build on than you found it, with a clear direction for where it goes next.</p>\n</li>\n<li>\n<p>What the work looks like: A mix of building new pipelines, hardening existing ones, and partnering with stakeholders to turn a business question into a system that answers it. We're in the middle of moving onto Airflow, so you'll help carry that through.</p>\n</li>\n<li>\n<p>What the team is like: Small, collaborative, and low on process. Your priorities will come from the business, not a ticket queue, and you're expected to drive your own work.</p>\n</li>\n</ul>\n<p><strong>What We're Looking For:</strong></p>\n<p>You're a data engineer who likes owning the whole problem. You've worked on small teams where you ended up responsible for many pieces of the stack, and ideally you've also seen what a well-run data organization looks like at a more mature, scaled company. You write real Python and real SQL, and you care about whether the thing you built is still working next month.</p>\n<p><strong>Specifically:</strong></p>\n<ul>\n<li>\n<p>4+ years in data engineering, analytics engineering, or a closely related role, including at least 2 years at a company operating at meaningful scale</p>\n</li>\n<li>\n<p>Strong SQL and Python, with Python used for data processing and pipeline work</p>\n</li>\n<li>\n<p>Hands-on experience with dbt and with orchestrating production pipelines (Airflow or similar)</p>\n</li>\n<li>\n<p>Working knowledge of AWS and a cloud data warehouse (we use Redshift)</p>\n</li>\n<li>\n<p>Good instincts for warehouse and system design</p>\n</li>\n<li>\n<p>The ability to turn a stakeholder's requirements into code and systems, and to explain your decisions clearly</p>\n</li>\n</ul>\n<p><strong>Nice to Have:</strong></p>\n<ul>\n<li>\n<p>Experience moving pipelines onto Airflow or a similar orchestrator</p>\n</li>\n<li>\n<p>Experience in fintech, wealth management, or other regulated environments (compliance, audit, PII handling)</p>\n</li>\n<li>\n<p>Experience with document processing or AI/ML data pipelines</p>\n</li>\n</ul>\n<p><strong>Benefits &#x26; Perks:</strong></p>\n<ul>\n<li>\n<p>Competitive Salary.</p>\n</li>\n<li>\n<p>Hybrid in the NYC Office (3x a week)</p>\n</li>\n<li>\n<p>Excellent Medical, Dental, and Vision insurance options, with low-cost premium structures that demonstrate our commitment to offering great value to our employees.</p>\n</li>\n<li>\n<p>100% Company Paid Basic Life Insurance, Short Term and Long Term Disability</p>\n</li>\n<li>\n<p>100% Paid Parental Leave upon eligibility</p>\n</li>\n<li>\n<p>Company equity managed through Carta.</p>\n</li>\n<li>\n<p>401k with Match and 100% vesting upon hire.</p>\n</li>\n<li>\n<p>Flexible PTO in an environment where taking time off to relax or recharge is supported and encouraged.</p>\n</li>\n<li>\n<p>Take time off for holidays—and yes, your birthday counts too. Celebrate, relax, and recharge without thinking twice.</p>\n</li>\n<li>\n<p>Free estate planning for life!</p>\n</li>\n</ul><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/sr-data-engineer-wealthcom</p>",
+      "posted_at": "2026-10-19T21:35:49.274+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
       "id": "9dea25be-49ff-44a5-8303-8807ed96f598",
       "title": "KI-Consultant / AI Enthusiast in der Baubranche (m/w/d) – Remote",
       "url": "https://remotejobs.org/remote-jobs/ki-consultant-ai-enthusiast-in-der-baubranche-mwd-remote-teamsware",
@@ -456,7 +553,29 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "unknown",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -1057,7 +1176,29 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [
+          "MY"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -1125,7 +1266,29 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -1502,7 +1665,29 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "AR"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -1628,7 +1813,27 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "worldwide",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "c2"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": true
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -1752,7 +1957,33 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [
+          "europe"
+        ],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [
+          "Unresolved area: location:1"
+        ],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [
+          "Europe"
+        ],
+        "work_arrangement": "remote",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "unknown",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -1882,7 +2113,46 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [
+          "latam"
+        ],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [
+          {
+            "kind": "timezone",
+            "areas": [],
+            "effect": "context",
+            "details": "The team's timezone is a mix of EST and PST, with at least 6 hours of overlap with PST, generally from 8 am to 2 pm PST.",
+            "regions": [],
+            "timezones": [],
+            "evidence_id": "c1",
+            "conditional_on": null
+          }
+        ],
+        "unresolved": [
+          "Unresolved area: location:1",
+          "Working-hour overlap condition: the team's timezone is a mix of EST and PST with at least 6 hours of overlap with PST, generally 8 am to 2 pm PST. This vague time overlap cannot be represented as IANA timezone applicability."
+        ],
+        "evidence_ids": [
+          "c1",
+          "source-location"
+        ],
+        "allowed_regions": [
+          "Latin America (LATAM)"
+        ],
+        "work_arrangement": "unknown",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -1944,7 +2214,29 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [
+          "BR"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "partial",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -2384,7 +2676,25 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [],
+        "allowed_regions": [],
+        "work_arrangement": "hybrid",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -2670,7 +2980,40 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [
+          {
+            "kind": "timezone",
+            "areas": [],
+            "effect": "require",
+            "details": "Located in CET timezone (+/- 3 hours); the company is unable to consider applications from candidates in other time zones.",
+            "regions": [],
+            "timezones": [],
+            "evidence_id": "c2",
+            "conditional_on": null
+          }
+        ],
+        "unresolved": [
+          "Timezone condition: applicants must be located in CET (+/- 3 hours), and candidates in other time zones are not considered. The CET abbreviation and vague +/- 3 hour overlap cannot be represented as explicit IANA timezones (evidence: description:13)."
+        ],
+        "evidence_ids": [
+          "c2"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -3212,7 +3555,25 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [],
+        "allowed_regions": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -3279,7 +3640,31 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [
+          "The job-location header 'Anywhere in the World' and the description 'Headquarters: Remote - USA' do not establish whether applicants outside the USA are eligible; worldwide applicant permission is not confirmed by the full posting."
+        ],
+        "evidence_ids": [
+          "c2"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -3999,86 +4384,6 @@
       "original_language": null
     },
     {
-      "id": "14f0a7a3-8c05-4f1b-8af2-be6ed6e7f93a",
-      "title": "Staff Engineer – Issuing",
-      "url": "https://remotejobs.org/remote-jobs/staff-engineer-issuing-cloudwalk",
-      "apply_url": "https://remotejobs.org/remote-jobs/staff-engineer-issuing-cloudwalk",
-      "company": {
-        "name": "CloudWalk",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/ecfcb146d68f3f4b478f5055b7d50edb025a8068f329d0ad302a0aa808749396.png",
-        "website": "https://cloudwalk.io",
-        "url": "https://remotejobs.org/companies/cloudwalk"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": null,
-      "location_normalization": {
-        "raw": null,
-        "input": {},
-        "scope": "unknown",
-        "status": "unknown",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "unknown",
-        "status": "unknown",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [],
-        "evidence_ids": [],
-        "allowed_regions": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": "staff",
-        "role_family": null,
-        "required_skills": [],
-        "mentioned_skills": [
-          "rust"
-        ],
-        "preferred_skills": [],
-        "experience_requirements": []
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": null,
-      "salary_period": null,
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": "14",
-      "direct_apply": null,
-      "description": "<p>• Build and operate high-performance services in Rust</p><p>• Own critical paths in the issuing flow (authorization, clearing, ledger)</p><p>• Design systems for low latency, high reliability, and fault tolerance</p><p>• Debug complex production issues involving real money</p><p>• Ensure system integrity and correctness across all transaction flows</p><p>• Drive architecture decisions across teams</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/staff-engineer-issuing-cloudwalk</p>",
-      "posted_at": "2026-10-19T00:00:00+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
       "id": "8671e773-29b2-4c21-9a06-6fa79fde5e36",
       "title": "Solutions Architect - DevOps",
       "url": "https://remotejobs.org/remote-jobs/solutions-architect-devops-nvidia",
@@ -4112,7 +4417,29 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [
+          "AU"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -6263,93 +6590,6 @@
       "original_language": null
     },
     {
-      "id": "8ec04f6a-2559-4aa6-b33b-f56999cc9b23",
-      "title": "Enterprise Support Engineer",
-      "url": "https://remotejobs.org/remote-jobs/enterprise-support-engineer-planetscale",
-      "apply_url": "https://remotejobs.org/remote-jobs/enterprise-support-engineer-planetscale",
-      "company": {
-        "name": "PlanetScale",
-        "logo_url": null,
-        "website": null,
-        "url": "https://remotejobs.org/companies/planetscale"
-      },
-      "category": {
-        "name": "DevOps",
-        "slug": "devops"
-      },
-      "location": "Anywhere in the World",
-      "location_normalization": {
-        "raw": "Anywhere in the World",
-        "input": {},
-        "scope": "worldwide",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "unknown",
-        "status": "unknown",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [
-          "The location field says Anywhere in the World, but the description lists the company's remote headquarters as NA, APAC and EMEA. No block explicitly grants worldwide applicant eligibility or enumerates the countries where hiring is allowed, so applicant geography cannot be confirmed."
-        ],
-        "evidence_ids": [],
-        "allowed_regions": [],
-        "work_arrangement": "remote",
-        "allowed_countries": [],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-sonnet-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": null,
-        "role_family": null,
-        "required_skills": [],
-        "mentioned_skills": [
-          "aws",
-          "golang",
-          "kubernetes",
-          "php",
-          "postgresql",
-          "python"
-        ],
-        "preferred_skills": [],
-        "experience_requirements": []
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": null,
-      "salary_period": null,
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<p><strong>Headquarters:</strong> Remote - NA, APAC, EMEA</p>\n<p>PlanetScale is growing rapidly and reinventing the database space. The PlanetScale platform offers both Postgres and Vitess clusters. Vitess, an open-source database clustering system for horizontal scaling of MySQL, enables businesses to efficiently handle large-scale data workloads — without sacrificing developer experience.</p>\n<p>Our customers entrust us with what is often their most precious digital asset, their data, so the stakes couldn't be higher. We're looking for a Software Engineer to join our core engineering team and help us build the next generation of database infrastructure.</p>\n<h2>What's the job to be done?</h2>\n<ul>\n<li>You will advise and handle support requests from enterprise customers on the PlanetScale platform.</li>\n<li>You will become a customer-facing subject-matter expert for enterprise customers on the PlanetScale platform.</li>\n<li>You will identify product gaps in a customer-specific context and work with Technical Account Management, Engineering and Sales Engineering teams to prioritize and escalate them.</li>\n<li>You will be part of an on call rotation for high priority issues.</li>\n</ul>\n<h2>These attributes best describe you…</h2>\n<ul>\n<li>You are comfortable in front of customers, empathetic but understanding when to push back to help customers become successful on their own.</li>\n<li>You have excellent debugging and troubleshooting skills; with a mix of enough experience and intuition to zero in on root-causes for bugs that can leave others stumped.</li>\n<li>You are comfortable stepping outside your comfort zone. Be it delving into unfamiliar code in Vitess, one of its dependencies, or a random MySQL connector, written in a language you may not know (yet!). Working with code as your main source of documentation doesn't fluster you, and you are happy to help add/correct it as necessary where it may be inaccurate.</li>\n<li>You can operate independently, but you know when you are in too deep and need to ask for help.</li>\n<li>You know how to work under pressure in times of urgency. We and our customers both take issues with their data platform seriously.</li>\n</ul>\n<h2>What you will need</h2>\n<ul>\n<li>Experience supporting production databases and applications, preferably at scale.</li>\n<li>Experience with database internals and peformance tuning, specifically for PostgreSQL and MySQL databases</li>\n<li>Working knowledge of Kubernetes.</li>\n<li>Strong ability to communicate and deal directly with customers, whether in email, Slack, video conference, or in person.</li>\n</ul>\n<h2>What else will help you be successful</h2>\n<ul>\n<li>Knowledge of common application deployment platforms and frameworks. Eg Python, Go, Node, PHP</li>\n<li>Experience with cloud platforms (AWS, GCP, Azure)</li>\n<li>Knowledge of monitoring, observability, and debugging tools</li>\n<li>Contributions to open-source projects, especially in the database or infrastructure space</li>\n</ul>\n<h2>Why PlanetScale</h2>\n<p>We're redefining how high-growth companies manage data at scale—and we work with some of the most exciting brands in gaming, consumer tech, and B2B SaaS. As a Software Engineer, you'll be at the core of building the platform that powers world-class apps used by hundreds of millions of users worldwide. PlanetScale is a profitable company with a philosophy centered around building small teams of p99 individuals and is recognized as one of the fastest growing companies in America.</p>\n<p>At PlanetScale we believe in supporting people to do their best work and thrive no matter the location. Our mission is to build a diverse, equitable, and inclusive company. We strive to build an inclusive environment where all people feel that they are equally respected and valued, whether they are a candidate or an employee. We welcome applicants of any educational background, gender identity and expression, sexual orientation, religion, ethnicity, age, citizenship, socioeconomic status, disability, pregnancy status, and veteran status.</p>\n<p>If you have a disability, please let us know if there's any way we can make the interview process better for you; we're happy to accommodate!</p>\n<h2>Total Compensation and Pay Transparency</h2>\n<p>An employee's total compensation consists of base salary + variable comp where appropriate + benefits + equity. A member of our Talent Acquisition team will be happy to answer any further questions when we engage with you to begin the interview process.</p>\n<p><strong>Salary range:</strong> US $120,000 - $200,000</p>\n<p><strong>To apply:</strong> https://weworkremotely.com/remote-jobs/planetscale-enterprise-support-engineer</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/enterprise-support-engineer-planetscale</p>",
-      "posted_at": "2026-10-18T07:30:58+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
       "id": "be673dfd-abc3-47ae-9d81-5ea306ac9d7d",
       "title": "Senior Software Engineer - SRE",
       "url": "https://remotejobs.org/remote-jobs/senior-software-engineer-sre-salesloft",
@@ -6966,114 +7206,6 @@
       "direct_apply": null,
       "description": "<p><a href=\"https://phantom.com\">Phantom</a> is on a mission to connect the world to the freedom of open markets. Tens of millions of people all over the world use <a href=\"https://jobicy.com/company/phantom\">Phantom</a> to access global markets that never close, including perpetuals, prediction markets, tokenized assets, stablecoins and memes. Phantom users are able to discover the markets that matter and the cultural moments that shape them, building conviction through real-time data and the verified performance of top traders. With self-custody and access to open networks at its core, Phantom lets them control their financial moves in the same app they use to safely store or spend money worldwide.</p>\n<p>Phantom has reached #1 in Google Play's finance category and consistently ranks in the top 50 apps across all categories. Check out our<a href=\"https://www.forbes.com/sites/ninabambysheva/2026/02/23/inside-phantoms-battle-plan-to-win-the-crypto-fueled-superapp-war/\"> Forbes Fintech 50</a> and CNBC and Statista's<a href=\"https://www.cnbc.com/worlds-top-fintech-companies-2026/\"> World's Top Fintech Companies 2026</a>!</p>\n<p>We are around 180 people, fully remote, backed by a $150M Series C investment from a16z, Sequoia Capital and Paradigm.</p>\n<h2>Responsibilities</h2>\n<ul>\n<li>\n<p><strong>Kubernetes Ownership</strong>: Manage and scale Kubernetes clusters on <strong>AWS EKS</strong>, ensuring reliability, performance, and security.</p>\n</li>\n<li>\n<p><strong>Infrastructure Automation</strong>: Implement and maintain Infrastructure-as-Code (Terraform/Pulumi) to automate infrastructure provisioning and management.</p>\n</li>\n<li>\n<p><strong>Performance Optimization</strong>: Monitor and optimize system performance, scalability, and resource utilization.</p>\n</li>\n<li>\n<p><strong>Blockchain Infrastructure</strong>: Configure and maintain <strong>crypto nodes</strong> across multiple blockchains to support our wallet’s operations.</p>\n</li>\n<li>\n<p><strong>Database Scaling</strong>: Optimize and scale database infrastructure to handle <strong>terabytes of blockchain data</strong> efficiently.</p>\n</li>\n<li>\n<p><strong>System Reliability</strong>: Continuously improve system uptime, monitoring, and observability using tools like <strong>Datadog</strong> and <strong>OpenTelemetry</strong>.</p>\n</li>\n<li>\n<p><strong>Collaboration</strong>: Work closely with backend and product teams to support feature development and system scaling.</p>\n</li>\n</ul>\n<h2>Qualifications</h2>\n<ul>\n<li>\n<p>5+ years in a SRE or Software Engineer role.</p>\n</li>\n<li>\n<p>Strong hands-on experience with Kubernetes (EKS) in production environments.</p>\n</li>\n<li>\n<p>Proficiency with AWS infrastructure and services (EC2, S3, RDS, IAM).</p>\n</li>\n<li>\n<p>Solid experience with Docker and Infrastructure-as-Code tools like Terraform or Pulumi.</p>\n</li>\n<li>\n<p>Monitoring and observability experience using tools like Datadog or OpenTelemetry.</p>\n</li>\n</ul>\n<p>The target base salary for this role will range between $200,000 to $250,000 with the addition of equity and benefits. This is determined by a few factors including your skillset, prior relevant experience, quality of interviews and market factors (such as location) at the point in time of offer.</p>\n<p><strong>Why Work With Us</strong></p>\n<p>Phantom's journey to becoming a global trading app began with making crypto easier to use.<em><strong> </strong></em>Today, we’re building on that foundation to help people discover the markets that matter, make informed financial moves, and safely store or spend their money worldwide. Joining Phantom means helping shape that next chapter: building products that bring the freedom of open markets to more people.</p>\n<ul>\n<li>\n<p><strong>Build for global impact:</strong> Create products used by tens of millions of people, making innovative financial markets more accessible to users around the world.</p>\n</li>\n<li>\n<p><strong>Make complexity feel simple:</strong> Solve meaningful challenges across design, engineering, and user experience to make discovering markets and managing money seamless.</p>\n</li>\n<li>\n<p><strong>Put users in control:</strong> Help build a future where people have greater freedom over their assets and financial decisions, with security and self-custody at the foundation.</p>\n</li>\n</ul>\n<p><strong>Benefits </strong>(<em>only available to full-time employees)</em></p>\n<ul>\n<li>\n<p>Competitive salary and equity</p>\n</li>\n<li>\n<p>Comprehensive insurance (medical/dental/vision): base plan 100% covered</p>\n</li>\n<li>\n<p>Flexible hours and a long-standing, supportive remote environment</p>\n</li>\n<li>\n<p>Unlimited vacation: Take time when you need it (and we really mean it!)</p>\n</li>\n<li>\n<p>401(k) retirement plan</p>\n</li>\n<li>\n<p>Wellness stipend</p>\n</li>\n<li>\n<p>Weekly meal stipend</p>\n</li>\n<li>\n<p>Learning &#x26; Development stipend</p>\n</li>\n<li>\n<p>Remote / WFH set-up stipend</p>\n</li>\n</ul>\n<p><strong>We strongly encourage candidates of all backgrounds to apply.</strong> We believe that our work is stronger with a variety of perspectives, and we’re eager to further diversify our company. If you have a background that you feel would make an impact at Phantom, please consider applying. We’re committed to building an inclusive, supportive place for you to do the best work of your career.</p>\n<p><em>By submitting your resume and application materials, you acknowledge and agree that Phantom Technologies, Inc. (\"Phantom\") collects and processes your personal information (including application materials, interview records, and related data) to evaluate your candidacy. Phantom may use AI-powered tools and third-party service providers for transcription, note-taking, scheduling, and other administrative tasks. Phantom does not sell your information and your materials will be handled securely and in accordance with applicable data protection laws.</em></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/staff-software-engineer-sre-phantom-9753326e2f944ef6ae34652c99079b18</p>",
       "posted_at": "2026-10-17T14:06:35+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "634c57bb-709c-47de-9e9e-bfb2ecad3092",
-      "title": "Senior DevOps Engineer",
-      "url": "https://remotejobs.org/remote-jobs/senior-devops-engineer-dscout",
-      "apply_url": "https://remotejobs.org/remote-jobs/senior-devops-engineer-dscout",
-      "company": {
-        "name": "dscout",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/a35bd455b08241e73dd1659595fec00cd87a0175f20f633919280825b8867a5c.jpeg",
-        "website": null,
-        "url": "https://remotejobs.org/companies/dscout"
-      },
-      "category": {
-        "name": "DevOps",
-        "slug": "devops"
-      },
-      "location": "USA",
-      "location_normalization": {
-        "raw": "USA",
-        "input": {},
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [],
-        "evidence_ids": [
-          "c1",
-          "c2",
-          "source-location"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-sonnet-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [
-          "US-AK",
-          "US-DC",
-          "US-HI",
-          "US-MT"
-        ],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": "senior",
-        "role_family": "devops",
-        "required_skills": [],
-        "mentioned_skills": [
-          "aws",
-          "docker",
-          "terraform"
-        ],
-        "preferred_skills": [],
-        "experience_requirements": [
-          {
-            "text": "4-6 years experience in any engineering role",
-            "maximum_years": 6,
-            "minimum_years": 4,
-            "classification": "mentioned"
-          },
-          {
-            "text": "2 years of experience in a DevOps engineer role specifically",
-            "maximum_years": null,
-            "minimum_years": 2,
-            "classification": "mentioned"
-          }
-        ]
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": null,
-      "salary_period": null,
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<p>At <a href=\"https://jobicy.com/company/dscout\">Dscout</a>, we’re building the most flexible and powerful UX research platform on the market—trusted by the world’s top brands in finance (JP Morgan Chase, Intuit, Charles Schwab, PayPal), healthcare (Aya, Headspace), consumer goods (Keen, Verizon, Target, Northface), and tech (Google, Amazon, Facebook, Meta, Spotify, AirBnB). Our tools help teams deeply understand the humans behind their products, so they can build better ones. We are expanding our smart and driven team and would love for you to join us.</p><p>We’re looking for smart and driven DevOps Engineers to help scale our platform. You have experience with AWS infrastructure and beyond and have seen a couple (or more) different ways to do it. You are fully bought into IaC (Infrastructure as Code), have used one of the popular tools (Terraform, CloudFormation, etc), and are excited to help us evolve our infrastructure automation.</p><p>You have a product mindset and have a history of working with application developers, Quality Engineers, and Security &#x26; Compliance teams to understand their needs, prioritize them, and deliver DevOps solutions that address those. You use AI coding tools daily, and like everything else you ship, you trust the output only as far as you've verified it. You are also data driven and use metrics to drive your decisions.</p><p>You are capable of juggling many tasks involving future projects, support requests, and SRE duties — including being a primary responder to production incidents, since compliance limits production access on many systems to DevOps.</p><p>Our team is growing but we’re not a big company. We work collaboratively, move fast (we deploy to production many times a day), and we value technical quality. If you are excited about the challenge of building a platform that powers an incredible product while working alongside a great engineering team, we’d love to hear from you!</p><h2><strong>the job</strong></h2><h2><strong>what you will do</strong></h2><ul>\n<li>Be an active member of the DevOps team</li>\n<li>Work with a product mindset where the rest of Engineering are your customers</li>\n<li>Collaborate with teammates to continuously improve the ways you and your team work</li>\n<li>Design &#x26; implement DevOps solutions using a modern toolset</li>\n<li>Use metrics and data to drive communication and decisions</li>\n<li>Be responsible for the platform stability and help inform application architecture decisions in that context</li>\n<li>Actively partner with AppEng to support production incidents</li>\n<li>Deliver platform changes in an iterative way and with no downtime</li>\n<li>Work with the Principal DevOps Engineer, VP of Compliance, and Chief Architect on defining &#x26; adopting security best practices &#x26; solutions</li>\n<li>Be a part of our on-call rotation</li>\n</ul><h2><strong>what you need to have</strong></h2><ul>\n<li>4-6 years experience in any engineering role</li>\n<li>At least 2 years of experience in a DevOps engineer role specifically</li>\n<li>Expertise with designing, creating, and managing AWS infrastructure</li>\n<li>Expertise with using IaC tools (Terraform, CloudFormation, Ansible, etc) to manage cloud infrastructure</li>\n<li>Experience using AI coding tools to improve ops automation without compromising security or reliability</li>\n<li>Experience with Linux, shell scripting, and a scripting language</li>\n<li>Experience with modern tools like Docker, GitHub, CircleCI/RWX, etc</li>\n<li>Understanding of how DevOps design influences, enables, and constrains application architecture and SDLC</li>\n<li>Experience with observability tools (logs, metrics, tracing), troubleshooting, monitoring, and alarming</li>\n<li>Solid understanding of security principles and how to design with security-first approach</li>\n</ul><p>This position is open to candidates who are legally authorized to work in the United States and who will be located in the US by their start date.</p><p>Of course, what is outlined above is an ideal set of expectations; however, business needs and other projects and tasks may shift, and additional tasks could be assigned at the discretion of your manager.</p><p><strong>About Dscout</strong></p><p>Dscout is a team of passionate, empathetic, and curious professionals. As a recognized leader in the Forrester Wave, we’re at the cutting edge of experience research technology. The power of research drives us - how in-context insights from real people can build more enjoyable products and services. </p><p>We prioritize learning, sharing, and building. We also deeply value being a diverse and inclusive team and company and look for team members who align with that belief. Join our dynamic team and help shape product roadmaps and business strategies for the world’s most loved brands.</p><p>It doesn't stop there. When you join the Dscout team, you will get:</p><ul>\n<li>A strong and competitive compensation package with a built-in bonus and equity program.</li>\n<li>An incredible and progressive benefits package (for both you and your dependents) to support work/life balance, including flexible PTO, 15 company holidays, 12 weeks of paid parental leave, 401k match, and much more.</li>\n<li>An education stipend to support your growth &#x26; development, and a remote work stipend.</li>\n<li>A company that is open and transparent with our team. You will know what is happening and why it matters.</li>\n</ul><p>Dscout is an equal-opportunity employer that values diversity. We do not discriminate based on identity, including race, color, religion, national origin or ancestry, sex, gender identity and expression, age, physical or mental disability, pregnancy, veteran or military status, unfavorable discharge from military service, genetic information, sexual orientation, marital status, order of protection status, citizenship status, arrest record or expunged or sealed convictions, or any other legally recognized protected basis under federal, state, or local law.</p><p>If you need reasonable accommodations for any part of the employment process, please email us at accommodations@dscout.com with the nature of your request and your contact information. We'll do everything possible to ensure you're well-prepared for success during our interview process, while also upholding your privacy, including accommodating any special requests. Please note that only inquiries regarding requests for reasonable accommodation will be responded to from this email address.</p><p>When you apply at Dscout, we will process your job applicant data, including your employment and education history, transcript, writing samples, and references, as necessary to consider your job application for open positions. For more information about our privacy practices, please visit our <a href=\"https://www.dscout.com/legal/master-access-agreement\">Privacy Policy</a>. </p><p>Dscout participates in the E-Verify program in certain locations, as required by law.</p><p><strong>Location Flexibility: </strong>Dscout is proud to support a remote-first workforce and enable employees to work from almost anywhere. At this time, however, we are unable to hire in the following locations: Montana, Hawaii, Alaska, and Washington DC.</p><p><strong>NOTE: DSCOUT NEVER CONTACTS JOB APPLICANTS VIA TEXT, MESSENGER, OR OTHER SIMILAR APPLICATIONS. BE AWARE OF PHISHING AND SPOOFING SCAMS, BOTH VIA TEXT AND EMAIL. ONLY RESPOND TO EMAILS FROM DSCOUT.COM</strong></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-devops-engineer-dscout</p>",
-      "posted_at": "2026-10-17T07:48:29+00:00",
       "is_translated": false,
       "original_language": null
     },
@@ -7810,84 +7942,6 @@
       "original_language": null
     },
     {
-      "id": "29abe0df-3647-4e88-942a-cb0f611766a4",
-      "title": "Senior DevOps Engineer",
-      "url": "https://remotejobs.org/remote-jobs/senior-devops-engineer-documo-inc",
-      "apply_url": "https://remotejobs.org/remote-jobs/senior-devops-engineer-documo-inc",
-      "company": {
-        "name": "Documo Inc.",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/27edc5f4f101d3ff9bcbd439b7f70fd4cfd247e5513bce32431c032f1ae081ac.jpeg",
-        "website": null,
-        "url": "https://remotejobs.org/companies/documo-inc"
-      },
-      "category": {
-        "name": "DevOps",
-        "slug": "devops"
-      },
-      "location": "Anywhere",
-      "location_normalization": {
-        "raw": "Anywhere",
-        "input": {},
-        "scope": "worldwide",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "unknown",
-        "status": "unknown",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [],
-        "evidence_ids": [],
-        "allowed_regions": [],
-        "work_arrangement": "remote",
-        "allowed_countries": [],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-sonnet-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": "senior",
-        "role_family": "devops",
-        "required_skills": [],
-        "mentioned_skills": [],
-        "preferred_skills": [],
-        "experience_requirements": []
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": null,
-      "salary_period": null,
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<p>Documo is on a mission to help businesses digitize and streamline their document workflows. As a fast-growing B2B SaaS company, our platform makes it easier to handle unstructured files like faxes and forms through tools like Intelligent Document Processing - turning messy paperwork into structured, usable data. We believe great products start with great people. That’s why we invest in top talent, value strong culture, and prioritize customer success and design excellence.</p><p>If you’re excited to do impactful work and want to grow with a team that values innovation, collaboration, and purpose - we’d love to meet you!</p><table>\n<tbody>\n<tr>\n<td>\n<p><strong>Job title</strong> Senior DevOps Engineer (Remote)</p>\n</td>\n</tr>\n<tr>\n<td>\n<p><strong>Team</strong> Engineering</p>\n</td>\n</tr>\n<tr>\n<td>\n<p><strong>Department function</strong></p>\n<p>The Engineering Department is crucial in designing, developing, and maintaining our company's software products. Our department manages critical areas such as development, infrastructure, operations, quality assurance, and product management, collaborating to provide reliable, secure, and scalable technology solutions.</p>\n<p>Our primary objective is to build and sustain software products that satisfy customer needs and align with our long-term business strategy. The department is instrumental in researching and integrating new technologies to enhance our internal products and operations. We are also responsible for ensuring our products meet the company's IT, information security, and compliance program requirements.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p><strong>Department Responsibilities</strong></p>\n<ul>\n<li>Providing the strategic technical direction for the business</li>\n<li>Architecting, developing, and maintaining Documo’s software product catalog in collaboration with the Product Team, internal stakeholders, and customers</li>\n<li>Ensuring technology solutions meet high standards for reliability, security, and scalability</li>\n<li>Maintaining technical documentation and procedures to ensure the effective development, maintenance, and support of software products</li>\n<li>Researching and implementing new technologies that improve internal operations</li>\n<li>Implementing requirements to satisfy information technology, information security, and compliance programs</li>\n<li>Providing escalated technical support to customers and internal stakeholders as needed</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td>\n<p><strong>Reports to</strong> Engineering Manager, DevOps</p>\n</td>\n</tr>\n<tr>\n<td>\n<p><strong>Direct reports</strong> None</p>\n</td>\n</tr>\n<tr>\n<td>\n<p><strong>Key Relationships</strong></p>\n<p><strong>Internal:</strong> Applied AI, Customer Success, Development, Information Security, Product Management, Quality Assurance, System Architects</p>\n<p><strong>External:</strong> Cloud and tooling vendors, compliance auditors, and customer technical stakeholders as needed for escalations and integrations</p>\n</td>\n</tr>\n<tr>\n<td>\n<p><strong>Role Purpose</strong></p>\n<p>The Senior DevOps Engineer designs, builds, and operates the cloud platform that runs Documo's document processing and fax products, including the infrastructure behind our AI and machine learning services. You will own how code gets from a pull request to production, how production stays healthy, and how the platform scales securely as our product catalog and AI workloads grow.</p>\n<p>You will bring 6+ years of DevOps, site reliability, or platform engineering experience, use AI tools in your daily work, treat infrastructure as a product, and act as a technical lead who mentors other engineers.</p>\n<p>This role can be up to 10% customer-facing, mainly escalations, connectivity and integration discussions, and security reviews.</p>\n</td>\n</tr>\n</tbody>\n</table><p><strong>Why join Documo?</strong></p><ul>\n<li>\n<p>Competitive U.S. benefits: medical, dental, vision, and a 401(k) with a strong match.</p>\n</li>\n<li>Annual bonus program based on role and company performance. </li>\n<li>\n<p>Annual performance reviews with merit increases.</p>\n</li>\n<li>\n<p>In-person company kick-off to connect, collaborate, and celebrate.</p>\n</li>\n<li>\n<p>Equity opportunities to grow with us.</p>\n</li>\n<li>\n<p>Flexible remote work that fits your life, plus flexible paid time off.</p>\n</li>\n<li>\n<p>Competitive paid parental leave, mental health support, and Employee Assistance Programs (EAP).</p>\n</li>\n<li>\n<p>Be part of a small, fast-growing tech company with a supportive, inclusive, and fun culture.</p>\n</li>\n</ul><p><strong>We celebrate differences.</strong><br>Documo welcomes applicants from all backgrounds, especially those underrepresented in tech. We do not discriminate based on ancestry, race, place of origin, political belief, religion, marital or family status, physical or mental ability, sex, sexual orientation, gender identity or expression, age, or any other legally protected characteristic. Documo is an equal opportunity employer.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-devops-engineer-documo-inc</p>",
-      "posted_at": "2026-10-16T16:46:30+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
       "id": "a74a325b-f49c-4f51-8f02-a7f6b7a86289",
       "title": "Middle DevOps Engineer",
       "url": "https://remotejobs.org/remote-jobs/middle-devops-engineer-patrianna",
@@ -7923,7 +7977,29 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "UA"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -8546,6 +8622,286 @@
       "direct_apply": null,
       "description": "<h2>Summary</h2>\n<p>We are seeking a Senior ServiceNow Developer with strong expertise in IT Asset Management (HAM Pro &#x26; SAM Pro), Service Catalog development, workflow automation, and enterprise integrations. The ideal candidate will design, develop, and support scalable ServiceNow solutions that improve asset lifecycle management, software governance, operational efficiency, and user experience. This role requires hands-on experience with ServiceNow development, Flow Designer, Integration Hub, REST APIs, and a solid understanding of ITSM, CMDB, and CSDM concepts. The successful candidate will be a proactive problem solver who leverages out-of-the-box ServiceNow capabilities to deliver maintainable and business-driven solutions.</p>\n<h2>Responsibilities</h2>\n<ul>\n<li>Design, develop, and support Hardware Asset Management (HAM Pro) and Software Asset Management (SAM Pro) solutions.</li>\n<li>Configure and optimize hardware and software asset lifecycle processes, including request, fulfillment, deployment, reclamation, refresh, and retirement.</li>\n<li>Support software compliance, normalization, reclamation, SaaS optimization, and asset governance initiatives.</li>\n<li>Develop and maintain Service Catalog Items, Record Producers, approval workflows, and fulfillment processes.</li>\n<li>Build automation solutions using Flow Designer, Integration Hub, and ServiceNow platform capabilities.</li>\n<li>Design and implement integrations using REST APIs, Import Sets, and Transform Maps.</li>\n<li>Integrate ServiceNow with enterprise applications, SaaS platforms, endpoint management tools, and asset repositories.</li>\n<li>Develop and maintain Business Rules, Script Includes, Client Scripts, UI Policies, UI Actions, Flow Designer Flows, Scheduled Jobs, and Scripted REST APIs.</li>\n<li>Troubleshoot platform, integration, and automation issues through root cause analysis.</li>\n<li>Support ITSM processes including Incident, Change, Problem, and Request Management.</li>\n<li>Maintain CMDB data quality, asset-to-CI relationships, and support CSDM initiatives.</li>\n<li>Ensure solutions adhere to ServiceNow best practices, governance standards, and technical documentation requirements.</li>\n</ul>\n<ul>\n<li>.8+ years of hands-on ServiceNow development experience.</li>\n<li>5+ years of experience implementing and supporting IT Asset Management solutions.</li>\n<li>Strong experience with HAM Pro, SAM Pro, Service Catalog, Flow Designer, Integration Hub, and REST API integrations.</li>\n<li>Extensive experience building Catalog Items, Record Producers, and automated fulfillment workflows.</li>\n<li>Strong JavaScript and ServiceNow scripting expertise.</li>\n<li>Experience with Import Sets, Transform Maps, Data Imports, and workflow automation.</li>\n<li>Good understanding of ITSM processes and service delivery concepts.</li>\n<li>Working knowledge of CMDB, Discovery, CSDM concepts, and Asset-to-CI relationships.</li>\n<li>ServiceNow Certified System Administrator (CSA) certification required.</li>\n</ul>\n<h2>Nice to Have</h2>\n<ul>\n<li>Certified Application Developer (CAD).</li>\n<li>ITIL Foundation Certification.</li>\n<li>Experience with ServiceNow Discovery and CMDB health initiatives.</li>\n<li>Exposure to SaaS license optimization and software compliance programs.</li>\n<li>Experience working in large enterprise ServiceNow environments.</li>\n</ul>\n<h2>We offer:</h2>\n<ul>\n<li><strong>Culture of Relentless Performance:</strong> join an unstoppable technology development team with a 99% project success rate and more than 30% year-over-year revenue growth.</li>\n<li><strong>Competitive Pay and Benefits:</strong> enjoy a comprehensive compensation and benefits package, including health insurance, and a relocation program.</li>\n<li><strong>Work From Anywhere Culture:</strong> make the most of the flexibility that comes with remote work.</li>\n<li><strong>Growth Mindset</strong>: reap the benefits of a range of professional development opportunities, including certification programs, mentorship and talent investment programs, internal mobility and internship opportunities.</li>\n<li><strong>Global Impact:</strong> collaborate on impactful projects for top global clients and shape the future of industries.</li>\n<li><strong>Welcoming Multicultural Environment:</strong> be a part of a dynamic, global team and thrive in an inclusive and supportive work environment with open communication and regular team-building company social events.</li>\n<li><strong>Social Sustainability Values:</strong> join our sustainable business practices focused on five pillars, including IT education, community empowerment, fair operating practices, environmental sustainability, and gender equality.</li>\n</ul>\n<p>*<em> Miratech is an equal opportunity employer and does not discriminate against any employee or applicant for employment on the basis of race, color, religion, sex, national origin, age, disability, veteran status, sexual orientation, gender identity, or any other protected status under applicable law.</em></p>\n<p>Miratech helps visionaries change the world. We are a global IT services and consulting company that brings together enterprise and start-up innovation. Today, we support digital transformation for some of the world's largest enterprises. By partnering with both large and small players, we stay at the leading edge of technology, remain nimble even as a global leader, and create technology that helps our clients further enhance their business. We are a values-driven organization and our culture of Relentless Performance has enabled over 99% of Miratech's engagements to succeed by meeting or exceeding our scope, schedule, and/or budget objectives since our inception in 1989.<br>\nMiratech has coverage across 5 continents and operates in over 25 countries around the world. Miratech retains nearly 1000 full-time professionals, and our annual growth rate exceeds 25%.</p>\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-servicenow-developer-miratech</p>",
       "posted_at": "2026-10-16T13:33:23+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "8a1a42fd-9c23-41af-ade7-b043538c0e41",
+      "title": "Senior Cloud Engineer",
+      "url": "https://remotejobs.org/remote-jobs/senior-cloud-engineer-world-wildlife-fund",
+      "apply_url": "https://remotejobs.org/remote-jobs/senior-cloud-engineer-world-wildlife-fund",
+      "company": {
+        "name": "World Wildlife Fund",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/53b20ccc07526c6308db1c9709a4e6a19533a35e09fa285b680f36d7de692338.jpeg",
+        "website": null,
+        "url": "https://remotejobs.org/companies/world-wildlife-fund"
+      },
+      "category": {
+        "name": "DevOps",
+        "slug": "devops"
+      },
+      "location": "Mexico",
+      "location_normalization": {
+        "raw": "Mexico",
+        "input": {},
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [
+          "MX"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "c1"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [
+          "BO",
+          "BZ",
+          "CL",
+          "EC",
+          "GT",
+          "GY",
+          "HN",
+          "MX",
+          "PE",
+          "PY",
+          "SR"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-sonnet-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": "senior",
+        "role_family": null,
+        "required_skills": [],
+        "mentioned_skills": [
+          "golang",
+          "sql"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": [
+          {
+            "text": "8 years of work experience",
+            "maximum_years": null,
+            "minimum_years": 8,
+            "classification": "mentioned"
+          },
+          {
+            "text": "6 years of experience in IT)",
+            "maximum_years": null,
+            "minimum_years": 6,
+            "classification": "mentioned"
+          }
+        ]
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": "year",
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": null,
+      "direct_apply": null,
+      "description": "<h2>About This Role</h2>\n<p>Every day, WWF's conservation teams across the globe rely on robust, secure cloud infrastructure to protect wildlife, engage communities, and drive climate action. As our Senior Cloud Engineer, you'll be the foundational force ensuring our technology systems enable this global impact by managing mission-critical infrastructure that directly supports conservation programs.</p>\n<p>In this position, you'll directly enable WWF-US and our network of Country Offices across South America, Central America, Africa, and Asia to operate seamlessly. Your work ensures that critical systems stay online so our teams can focus on what matters most: protecting nature at scale.</p>\n<h2>What You'll Do:</h2>\n<p><strong>Own Our Azure Infrastructure</strong><br>\nYou'll be the architect behind WWF's Azure environment, spinning up subscriptions, provisioning resources, and building/deploying VMs (Windows, SQL, Red Hat, firewalls) from the ground up in both production and staging.</p>\n<p><strong>Lock Down Security &#x26; Identity</strong><br>\nConfigure Microsoft Entra tenants, manage SSO through Azure Enterprise Apps, and keep our RBAC and user groups clean and secure. You'll patch systems proactively and use PowerShell + Graph API to automate the boring stuff so the important stuff runs smoother.</p>\n<p><strong>Be Our Safety Net</strong><br>\nDesign backup strategies and disaster recovery playbooks that actually work when it matters. You're the reason we sleep at night knowing our systems can bounce back from anything.</p>\n<p><strong>Keep Everything Connected</strong><br>\nTroubleshoot networking across VNETs, sites, and tenants. Firewalls, load balancers, DNS (Azure + Cloudflare), you speak the language fluently and fix problems before they become fires.</p>\n<p><strong>Be the Go-To Expert</strong><br>\nWhen Azure, Entra ID, or M365 issues get complicated, you're who the team calls. You'll lead projects end-to-end and keep stakeholders, technical and non-technical alike, in the loop every step of the way.</p>\n<p><strong>Show Up When It Counts</strong><br>\nOccasional after-hours or weekend work for critical outages or planned maintenance, because uptime matters, and so does the team that protects it.</p>\n<h2>Key Competencies</h2>\n<ul>\n<li><strong>Ability to Multitask. </strong>Demonstrates strong technical and operational agility, effectively navigating complex business and cloud environments to deliver tailored, high-quality support across WWF’s Azure and multi-cloud platforms.</li>\n<li><strong>Solution-Oriented and Strategic Collaboration. </strong>Clear, influential communicator who leads projects end-to-end, ensuring alignment, transparency, and active engagement with stakeholders across technical and non-technical teams.</li>\n<li><strong>Growth Mindset.</strong> Demonstrates a strong growth mindset, continually expanding expertise in evolving cloud, automation, and security technologies and applying new knowledge to strengthen WWF’s technical capabilities.</li>\n<li><strong>Big Picture Thinking. </strong>Strategic acumen complemented by robust technical proficiency</li>\n<li><strong>Collaborative. </strong>Proven ability to work effectively as part of a team</li>\n<li><strong>Project Management. </strong>Strong organizational, documentation, and project management capabilities, including development of comprehensive project plans</li>\n</ul>\n<h2>Skills and Abilities</h2>\n<ul>\n<li>\n<p>Degree in IT or related field AND minimum of 8 years of work experience (including at least 6 years of experience in IT)</p>\n</li>\n<li>\n<p>MUST HAVE Verbal and written fluency in English and Spanish</p>\n</li>\n<li>\n<p>Experience managing large-scale enterprise IT systems</p>\n</li>\n<li>\n<p>Extensive hands-on experience managing highly available and resilient Azure production systems.</p>\n</li>\n<li>\n<p>In-depth knowledge of Microsoft Azure services, cloud architecture, cloud networking, Entra ID, Microsoft 365, and Windows and Linux servers</p>\n</li>\n<li>\n<p>Proficient in managing Windows domains and Active Directory</p>\n</li>\n<li>\n<p>Expertise in using PowerShell and Graph API for Azure management, workflow automation, and deployment orchestration</p>\n</li>\n<li>\n<p>Familiarity with provisioning and managing access for technologies such as Fabric, Power BI, and Azure Foundry</p>\n</li>\n<li>\n<p>Experience integrating Microsoft Copilot for M365, Copilot Studio, and Copilot Agents into enterprise Azure/M365 environments, including configuration and governance of data access controls</p>\n</li>\n<li>\n<p>Significant expertise in building, deploying, and managing virtual machines in Azure from inception</p>\n</li>\n<li>\n<p>History of applying structured thinking to diagnose complex cloud or hybrid system issues and develop scalable, sustainable solutions.</p>\n</li>\n<li>\n<p>Well-honed methodologies for diagnosing and troubleshooting technical issues.</p>\n</li>\n<li>\n<p>Broad enterprise scale expertise across infrastructure, Azure cloud architecture, identity and access management with Entra ID, and emerging AI‑ driven‑ automation technologies—enabling the evaluation and recommendation of modernization opportunities, security improvements, and strategic technology replacements. skills in configuring Microsoft Entra tenants and domains, including DNS and VNET setup.</p>\n</li>\n<li>\n<p>Committed to building and strengthening a culture of inclusion within and across teams.</p>\n</li>\n<li>\n<p>Identifies and aligns with WWF’s core values:</p>\n<ul>\n<li>\n<p>COURAGE – We demonstrate courage through our actions, we work for change where it’s needed, and we inspire people and institutions to tackle the greatest threats to nature and the future of the planet, which is our home.</p>\n</li>\n<li>\n<p>INTEGRITY – We live the principles we call on others to meet. We act with integrity, accountability and transparency, and we rely on facts and science to guide us and to ensure that we learn and evolve.</p>\n</li>\n<li>\n<p>RESPECT – We honor the voices and knowledge of people and communities that we serve, and we work to secure their rights to a sustainable future.</p>\n</li>\n<li>\n<p>COLLABORATION – We deliver impact at the scale of the challenges we face through the power of collective action and innovation.</p>\n</li>\n</ul>\n</li>\n</ul>\n<p><strong>Please note: </strong>Candidates must be currently based and authorized to work in one of the following countries to be eligible for this position: <strong>Bolivia, Chile, Ecuador, Guatemala, Belize, Honduras, Mexico, Paraguay, Peru, Suriname, or Guyana.</strong></p>\n<p><strong>Remuneration: </strong>Salary and benefits for this position will be paid in local currency.</p>\n<p><strong>Application instructions:</strong> Resumes and cover letters must be submitted in English to be considered for this position</p>\n<p><strong>Please note:</strong> Applicants must be legally authorized to work in <strong>the job's location.</strong> Position is not eligible for employment visa sponsorship.<br>\n<br>\n<strong>World Wildlife Fund (WWF) promotes equal employment opportunities for all qualified individuals regardless of age, race, color, sex, religion, national origin, disability, or any other characteristic protected under applicable law.</strong></p>\n<p>Founded in 1961, WWF works to help people and nature thrive. As a global conservation organization, WWF operates in more than 100 countries, partnering with communities, companies, and governments to protect wildlife, conserve vital habitats, and advance sustainable solutions. Grounded in science and driven by collaboration, WWF works to help nature by conserving biodiversity, supporting resilient communities, and addressing climate change. Nearly 1 million people in the United States and more than 5 million globally are WWF members.</p>\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-cloud-engineer-world-wildlife-fund</p>",
+      "posted_at": "2026-10-16T13:32:46+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "070ef350-f865-47e8-8183-b3ef7a38e08a",
+      "title": "eLearning Developer",
+      "url": "https://remotejobs.org/remote-jobs/elearning-developer-beyondtrust",
+      "apply_url": "https://remotejobs.org/remote-jobs/elearning-developer-beyondtrust",
+      "company": {
+        "name": "BeyondTrust",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/1c2e30678a498f3a8b984634f5e11635a41f832e112b5dfc86bf2d2e40653f9e.jpeg",
+        "website": "https://beyondtrust.dev",
+        "url": "https://remotejobs.org/companies/beyondtrust"
+      },
+      "category": {
+        "name": "DevOps",
+        "slug": "devops"
+      },
+      "location": "Anywhere in the World",
+      "location_normalization": {
+        "raw": "Anywhere in the World",
+        "input": {},
+        "scope": "worldwide",
+        "status": "known",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-sonnet-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": null,
+        "role_family": null,
+        "required_skills": [],
+        "mentioned_skills": [],
+        "preferred_skills": [],
+        "experience_requirements": [
+          {
+            "text": "3 years of professional experience in eLearning development or a related field",
+            "maximum_years": null,
+            "minimum_years": 3,
+            "classification": "mentioned"
+          }
+        ]
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": null,
+      "direct_apply": null,
+      "description": "<p><strong>Headquarters:</strong> Remote United States</p>\n<p>BeyondTrust is a place where you can bring your purpose to life through the work that you do, creating a safer world through our cybersecurity SaaS portfolio.</p>\n<p>Our culture of flexibility, trust, and continual learning means you will be recognized for your growth, and for the impact you make on our success. You will be surrounded by people who challenge, support, and inspire you to be the best version of yourself.</p>\n<p>The Role</p>\n<p>At BeyondTrust, we believe learning and training should be engaging, interactive, and impactful. The eLearning Developer plays a key role in bringing this vision to life by designing and delivering innovative, effective, and visually compelling training solutions. This position collaborates closely with Subject Matter Experts (SMEs) to create technical and functional eLearning courses that meet learner needs and business objectives. Leveraging instructional design principles, adult learning theory, and cutting-edge technologies, the eLearning Developer will craft multimedia-rich content, including eLearning modules, interactive simulations, videos, and assessments.</p>\n<p>What You’ll Do</p>\n<ul>\n<li>Partner with SMEs to analyze learning objectives, define content requirements, and develop engaging, interactive eLearning courses aligned with organizational goals.</li>\n<li>Design and produce instructional materials, incorporating animations, graphics, audio, video, and other multimedia elements to enhance the learning experience.</li>\n<li>Utilize authoring tools (e.g., Articulate Storyline), graphic design software, and video editing platforms to create polished, user-friendly training content.</li>\n<li>Contribute to the development, maintenance, and continuous improvement of training materials and processes.</li>\n<li>Explore and implement new eLearning technologies and methodologies to elevate training effectiveness.</li>\n<li>Organize, plan, and execute self-paced course creation and updates with strong attention to detail and deadlines.</li>\n<li>Communicate complex concepts clearly through exceptional visual design and written content.</li>\n</ul>\n<p>What You’ll Bring</p>\n<ul>\n<li>Bachelor’s degree (or equivalent experience) and a minimum of 3 years of professional experience in eLearning development or a related field.</li>\n<li>Proven experience creating professional eLearning content, preferably for software products, using rapid development tools (strong preference for Articulate Storyline).</li>\n<li>Proficiency in basic video editing for educational purposes (e.g., Camtasia or similar tools).</li>\n<li>Excellent presentation, interpersonal, and written communication skills.</li>\n<li>Strong time management, task prioritization, and organizational abilities.</li>\n<li>A proactive, team-oriented mindset with a passion for learning new skills and technologies.</li>\n<li>Commitment to upholding BeyondTrust’s core values.</li>\n</ul>\n<p>Nice To Have</p>\n<ul>\n<li>Visual design experience (e.g., graphic design or UI/UX principles).</li>\n<li>Experience with Learning Management Systems (LMS) administration or content integration.</li>\n<li>Simulation development expertise.</li>\n<li>Proficiency in producing AI-generated voiceovers.</li>\n<li>Technical training experience, particularly for software solutions.</li>\n<li>Familiarity with Adobe Creative Suite tools (e.g., Photoshop, Audition, After Effects, Premiere).</li>\n</ul>\n<p>Better Together</p>\n<p>Diversity. Inclusion. They’re more than just words for us. They are the guiding values of how we build our teams, cultivate leaders, and create a culture where people feel connected.</p>\n<p>We take care of our employees so they can take care of our customers. Customers who come from all walks of life just like us. We hire incredible people from diverse backgrounds because when we are different together, we are stronger together.</p>\n<p>About Us</p>\n<p>BeyondTrust is the global identity security leader protecting Paths to Privilege™. Our identity-centric approach goes beyond securing privileges and access, empowering organizations with the most effective solution to manage the entire identity attack surface and neutralize threats, whether from external attacks or insiders.<br>\n<br>\nBeyondTrust is leading the charge in transforming identity security to prevent breaches and limit the blast radius of attacks, while creating a superior customer experience and operational efficiencies. We are trusted by 20,000 customers, including 75 of the Fortune 100, and our global ecosystem of partners.<br>\n<br>\nLearn more at <a href=\"http://www.beyondtrust.com/\">www.beyondtrust.com</a>.</p>\n<p>#LI-JB1</p>\n<p><strong>To apply:</strong> https://weworkremotely.com/remote-jobs/beyondtrust-elearning-developer</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/elearning-developer-beyondtrust</p>",
+      "posted_at": "2026-10-16T07:31:07+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "30aa0eb1-f785-4196-a4f4-a5e3e32b8198",
+      "title": "Cloud Network Engineer",
+      "url": "https://remotejobs.org/remote-jobs/cloud-network-engineer-beyondtrust",
+      "apply_url": "https://remotejobs.org/remote-jobs/cloud-network-engineer-beyondtrust",
+      "company": {
+        "name": "BeyondTrust",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/1c2e30678a498f3a8b984634f5e11635a41f832e112b5dfc86bf2d2e40653f9e.jpeg",
+        "website": "https://beyondtrust.dev",
+        "url": "https://remotejobs.org/companies/beyondtrust"
+      },
+      "category": {
+        "name": "DevOps",
+        "slug": "devops"
+      },
+      "location": "Anywhere in the World",
+      "location_normalization": {
+        "raw": "Anywhere in the World",
+        "input": {},
+        "scope": "worldwide",
+        "status": "known",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [
+          "Header says Anywhere in the World, but the description gives only 'Headquarters: Remote United States' and no explicit applicant geography, so worldwide or US eligibility cannot be confirmed.",
+          "Work arrangement depends on geographic proximity to a BeyondTrust office, but no office locations or proximity rules are given."
+        ],
+        "evidence_ids": [],
+        "allowed_regions": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-sonnet-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": null,
+        "role_family": null,
+        "required_skills": [],
+        "mentioned_skills": [
+          "aws",
+          "python",
+          "terraform"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": []
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": null,
+      "direct_apply": null,
+      "description": "<p><strong>Headquarters:</strong> Remote United States</p>\n<p>BeyondTrust is a place where you can bring your purpose to life through the work that you do, creating a safer world through our cybersecurity SaaS portfolio.</p>\n<p>Our culture of flexibility, trust, and continual learning means you will be recognized for your growth, and for the impact you make on our success. You will be surrounded by people who challenge, support, and inspire you to be the best version of yourself.</p>\n<p>The Role</p>\n<p>The Cloud Network Engineer extends BeyondTrust's on-premises networking fundamentals into AWS cloud networking, with a primary focus on architecting and operating FedRAMP-aligned environments. The successful candidate demonstrates strong technical judgment, operational discipline, and the ability to apply practical solutions to complex hybrid network engineering challenges, while serving as the primary liaison between the Network and Cloud Ops teams.</p>\n<p>What You’ll Do</p>\n<ul>\n<li>Operate and maintain BeyondTrust's on-premises and cloud network infrastructure, including routing/switching changes, datacenter resource changes, and routine firewall/security group changes end-to-end across on-prem and cloud environments; escalate complex or security-sensitive changes to the Sr. Engineer/SecOps.</li>\n<li>Design and implement AWS network architectures, including VPCs, Transit Gateway, VPN, Direct Connect, Route 53, and network security controls, aligned with FedRAMP, ISO 27001, and SOX requirements.</li>\n<li>Lead the CIDR range overlap remediation project by auditing existing on-prem and AWS CIDR allocations, designing a conflict-free addressing plan, and executing remediation/re-IP work with minimal disruption to production traffic.</li>\n<li>Serve as the primary day-to-day liaison between the Network team and Cloud Ops on network design, shared infrastructure changes, and incident coordination.</li>\n<li>Mentor Network Administrators and Engineers on cloud networking fundamentals and hybrid connectivity best practices, extending networking expertise into AWS environments.</li>\n<li>Develop and maintain Infrastructure-as-Code and automation using Terraform, Ansible, Python, contributing reusable modules to the team's shared automation library.</li>\n<li>Participate in the shared 24x7 on-call rotation, independently resolving Tier-1 and Tier-2 escalations, including cloud connectivity issues.</li>\n<li>Maintain network diagrams, CIDR/IPAM records, architecture documentation, and SOPs, and provide regular progress updates.</li>\n<li>Manage vendor relationships for cloud connectivity services, circuit vendors, and network infrastructure procurement and renewals.</li>\n<li>Work a hybrid or remote schedule depending on geographic proximity to a BeyondTrust office; travel to offices or datacenters as needed (5–10%).</li>\n</ul>\n<p>What You’ll Bring</p>\n<ul>\n<li>3–5 years of total network administration/engineering experience, including 2+ years hands-on AWS cloud networking work with VPC design, Transit Gateway, VPN/Direct Connect, Route 53, network security controls across hybrid environments.</li>\n<li>Demonstrated proficiency in Administrator/Engineer-level on-premises networking fundamentals.</li>\n<li>3-5 hands-on experience with Cisco NX-OS/IOS/IOS-XE, Dell, and Palo Alto equipment.</li>\n<li>CCNA certification or equivalent hands-on experience</li>\n<li>Experience implementing and maintaining security controls aligned with industry frameworks such as ISO 27001, SOC2, and FedRAMP.</li>\n<li>Strong documentation and organizational skills — demonstrated ability to produce clear network diagrams, IPAM records, and runbooks that hold up under audit.</li>\n<li>Strong analytical and cross-team communication skills; comfortable operating as a liaison between technical teams with different priorities.</li>\n</ul>\n<p>Nice To Have</p>\n<ul>\n<li>CCNP in progress, or equivalent Network Engineer-level experience.</li>\n<li>Experience with IPAM tooling such asNetBox, phpIPAM, Infoblox, BlueCat.</li>\n<li>Experience with Azure networking services and hybrid connectivity.</li>\n<li>Direct experience supporting a FedRAMP ATO or continuous monitoring (ConMon) process.</li>\n<li>Formal project management or technical project leadership experience.</li>\n<li>Proficiency in dynamic routing protocols (EIGRP, BGP) and in identity and access management services including RADIUS, TACACS+, Duo, Okta, and Cisco ISE.</li>\n</ul>\n<p>Better Together</p>\n<p>Diversity. Inclusion. They’re more than just words for us. They are the guiding values of how we build our teams, cultivate leaders, and create a culture where people feel connected.</p>\n<p>We take care of our employees so they can take care of our customers. Customers who come from all walks of life just like us. We hire incredible people from diverse backgrounds because when we are different together, we are stronger together.</p>\n<p>About Us</p>\n<p>BeyondTrust is the global identity security leader protecting Paths to Privilege™. Our identity-centric approach goes beyond securing privileges and access, empowering organizations with the most effective solution to manage the entire identity attack surface and neutralize threats, whether from external attacks or insiders.</p>\n<p>BeyondTrust is leading the charge in transforming identity security to prevent breaches and limit the blast radius of attacks, while creating a superior customer experience and operational efficiencies. We are trusted by 20,000 customers, including 75 of the Fortune 100, and our global ecosystem of partners.</p>\n<p>Learn more at <a href=\"http://www.beyondtrust.com/\">www.beyondtrust.com</a>. </p>\n<p>#LI-BS1</p>\n<p><strong>To apply:</strong> https://weworkremotely.com/remote-jobs/beyondtrust-cloud-network-engineer</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/cloud-network-engineer-beyondtrust</p>",
+      "posted_at": "2026-10-16T07:31:00+00:00",
       "is_translated": false,
       "original_language": null
     },

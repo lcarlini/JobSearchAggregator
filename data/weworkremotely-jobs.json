@@ -1,7 +1,22 @@
 {
-  "generatedAt": "2026-10-21T03:32:13.739Z",
-  "count": 179,
+  "generatedAt": "2026-10-21T11:19:28.930Z",
+  "count": 181,
   "jobs": [
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr",
+      "source": "weworkremotely",
+      "title": "Senior Independent Software Developer ($90-$170/hr)",
+      "company": "A.Team",
+      "url": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr",
+      "description": "Headquarters: NYC and TLV URL: https://build.a.team/wwrfastrackreferral Imagine choosing your projects, collaborating with the best, and keeping every dollar you earn. At A·Team, we’ve turned this vision into reality for top-tier independent software builders. Since May 2020, A·Teamers have earned over $108 million working on high-impact projects for companies backed by a16z, YC, Insight Partners, Tiger Global, Softbank, General Catalyst, and more. Why A·Team? High-paying, meaningful missions: Earn $90-$170/hr with over 500 companies—from trailblazing startups like Sightful, D-ID, and Apprentice to enterprise innovators like Lyft, Google X, and HCA. Collaborate with trusted peers: Work in small, elite teams for high-impact projects, ensuring top-tier collaboration. Full autonomy: Choose pr",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "programming"
+      ],
+      "postedAt": "Sun, 16 Jun 2024 17:30:51 +0000",
+      "category": "programming"
+    },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/stripe-abuse-research-engineer",
       "source": "weworkremotely",
@@ -348,21 +363,6 @@
       "category": "programming"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/adventure-travel-365-senior-full-stack-developer-marketplace-web-mobile-platform",
-      "source": "weworkremotely",
-      "title": "Senior Full-Stack Developer - Marketplace Web & Mobile Platform",
-      "company": "Adventure Travel 365",
-      "url": "https://weworkremotely.com/remote-jobs/adventure-travel-365-senior-full-stack-developer-marketplace-web-mobile-platform",
-      "description": "Headquarters: Phoenix, Arizona URL: https://adventuretravel365.com/ Senior Full-Stack Developer - Marketplace Web & Mobile Platform We have a big idea, and we’re looking for a top-notch Senior Full-Stack Developer to help us bring it to life. We’re building a new contractor referral and services marketplace, think Thumbtack or Angi , where clients can easily find and connect with contractors and service providers. The vision includes both an interactive web platform and mobile app, with everything from user accounts and referrals to job tracking, payments, advertising, and more. This is a fully remote, full-time, ongoing position, and we’re open to applicants worldwide. There are a lot of moving pieces, which is exactly why we’re looking for someone who has built something like this before",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "programming"
-      ],
-      "postedAt": "Mon, 21 Sep 2026 10:14:35 +0000",
-      "category": "programming"
-    },
-    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/carrot-director-information-security",
       "source": "weworkremotely",
       "title": "Director, Information Security",
@@ -480,21 +480,6 @@
         "devops"
       ],
       "postedAt": "Thu, 15 Oct 2026 07:31:14 +0000",
-      "category": "devops"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/huntress-sales-development-representative-service-provider",
-      "source": "weworkremotely",
-      "title": "Sales Development Representative - Service Provider",
-      "company": "Huntress",
-      "url": "https://weworkremotely.com/remote-jobs/huntress-sales-development-representative-service-provider",
-      "description": "Headquarters: Remote US What We Do: Cybercrime is growing, and more businesses are getting hit by threats that used to target only the biggest organizations. That pushes defenders like us to operate at the highest level, and it deepens our need for good people who want to make a meaningful impact. Founded in 2015 by former NSA cyber operators, Huntress is a remote-first team working to make enterprise-grade cybersecurity accessible to businesses of all sizes. We work closely with security teams and service providers protecting complex environments, often without the time or headcount to handle it all. That’s why we build our technology in-house and back it with a 24/7 human-led Security Operations Center (SOC). As a result, our platform is never disconnected from the experts who manage it,",
-      "location": "Anywhere in the World",
-      "tags": [
-        "DevOps and Sysadmin",
-        "devops"
-      ],
-      "postedAt": "Tue, 13 Oct 2026 07:30:39 +0000",
       "category": "devops"
     },
     {
@@ -1188,6 +1173,21 @@
       "category": "design"
     },
     {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/upsun-product-manager",
+      "source": "weworkremotely",
+      "title": "Product Manager",
+      "company": "Upsun",
+      "url": "https://weworkremotely.com/remote-jobs/upsun-product-manager",
+      "description": "Headquarters: Remote • Germany, Canada, France, Spain or the UK About Upsun (formerly Platform.sh)&nbsp; Upsun is the cloud application platform humans and robots love. It is built for today’s hybrid teams, where AI agents write and test code and humans focus on solving the problems that really matter. Developers, DevOps engineers, and platform teams use Upsun to build, ship, and scale confidently without wrestling with backend infrastructure. We give you your time back. You get: Predictable performance, even at scale Secure, compliant environments by default&nbsp; Real-time observability and profiling built in Cloning, configuration, and provisioning in seconds&nbsp; AI-ready features that plug directly into your stack The name says it all. \"Up\" means uptime, reliability, and acceleration",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Product",
+        "product"
+      ],
+      "postedAt": "Wed, 21 Oct 2026 07:31:25 +0000",
+      "category": "product"
+    },
+    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/datadog-manager-ii-developer-advocacy",
       "source": "weworkremotely",
       "title": "Manager II, Developer Advocacy",
@@ -1398,21 +1398,6 @@
       "category": "product"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/wrike-group-product-manager-klaxoon",
-      "source": "weworkremotely",
-      "title": "Group Product Manager [Klaxoon]",
-      "company": "Wrike",
-      "url": "https://weworkremotely.com/remote-jobs/wrike-group-product-manager-klaxoon",
-      "description": "Headquarters: Poland - Remote Wrike is the most powerful work management platform. Built for teams and organizations looking to collaborate, create, and exceed every day, Wrike brings everyone and all work into a single place to remove complexity, increase productivity, and free people up to focus on their most purposeful work. &nbsp; Wrike is our people, not a place. As a distributed team, we own our growth, stay globally connected, and rely on the product we build to deliver impactful work alongside brilliant minds. You'll have real ownership over meaningful work, a global team that has your back, and the flexibility to do your best work your way. If that sounds like you, we'd love to hear from you. &nbsp; Our vision:&nbsp; A world where everyone is free to focus on their most purposeful",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Product",
-        "product"
-      ],
-      "postedAt": "Tue, 06 Oct 2026 07:31:00 +0000",
-      "category": "product"
-    },
-    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/smartsheet-group-product-manager-corporate-systems",
       "source": "weworkremotely",
       "title": "Group Product Manager – Corporate Systems",
@@ -1576,6 +1561,36 @@
       ],
       "postedAt": "Wed, 23 Sep 2026 07:31:13 +0000",
       "category": "product"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/ritual-core-protocol-engineer",
+      "source": "weworkremotely",
+      "title": "Core Protocol Engineer",
+      "company": "Ritual",
+      "url": "https://weworkremotely.com/remote-jobs/ritual-core-protocol-engineer",
+      "description": "Headquarters: Remote About Ritual&nbsp; Ritual is building a sovereign, execution layer for AI, with our private testnet already live and running. The Ritual chain is the first blockchain custom-built to support AI-native operations, designed from the ground up to enable a new class of applications at the intersection of crypto and AI. Our first product, Infernet, is pioneering new ground as the first solution to enable developers to access AI models both on-chain via smart contracts and off-chain, demonstrating our commitment to bridging these transformative technologies. About the role We're seeking a Core Protocol Engineer with deep expertise with Ethereum execution clients to help us extend the EVM for next-generation compute capabilities. You'll work on expanding the execution layer t",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Wed, 21 Oct 2026 07:31:25 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/oportun-senior-data-engineer-capital-markets-r13923",
+      "source": "weworkremotely",
+      "title": "Senior Data Engineer - Capital Markets (R13923)",
+      "company": "Oportun",
+      "url": "https://weworkremotely.com/remote-jobs/oportun-senior-data-engineer-capital-markets-r13923",
+      "description": "Headquarters: Remote - MX Who We Are Oportun (Nasdaq: OPRT) is a mission-driven financial services company that puts its members' financial goals within reach. With intelligent borrowing, savings, and budgeting capabilities, Oportun empowers members with the confidence to build a better financial future. Since inception, Oportun has provided more than $22.7 billion in responsible and affordable credit, saved its members more than $2.5 billion in interest and fees, and helped its members set aside an average of more than $1,800 annually. The Opportunity&nbsp; As a Sr. Data Engineer at Oportun, you will be a key member of our team, responsible for designing, developing, and maintaining sophisticated software / data platforms in achieving the charter of the engineering group. Your mastery of ",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Wed, 21 Oct 2026 07:31:06 +0000",
+      "category": "full-stack"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/toptal-senior-analytics-engineer-bi-lead-channel-insights-ix360",
@@ -1785,21 +1800,6 @@
         "full-stack"
       ],
       "postedAt": "Sun, 18 Oct 2026 07:30:59 +0000",
-      "category": "full-stack"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/airbnb-engineering-manager-payments",
-      "source": "weworkremotely",
-      "title": "Engineering Manager, Payments",
-      "company": "Airbnb",
-      "url": "https://weworkremotely.com/remote-jobs/airbnb-engineering-manager-payments",
-      "description": "Headquarters: Remote - USA Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way. The Community You Will Join AirCover protects Hosts and guests on Airbnb, including Host liability insurance, Experiences liability insurance and Host damage protection. As the Engineering Manager for the AirCover Insurance Platform, you will lead the system that lets Airbnb launch, price, enroll and service insurance products in new regions, and that lets the business test what drives Hosts and guests to be",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Sun, 18 Oct 2026 07:30:58 +0000",
       "category": "full-stack"
     },
     {
@@ -2388,19 +2388,49 @@
       "category": "full-stack"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr",
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/ping-identity-chief-of-staff-cco",
       "source": "weworkremotely",
-      "title": "Senior Independent Software Developer ($90-$170/hr)",
-      "company": "A.Team",
-      "url": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr",
-      "description": "Headquarters: NYC and TLV URL: https://build.a.team/wwrfastrackreferral Imagine choosing your projects, collaborating with the best, and keeping every dollar you earn. At A·Team, we’ve turned this vision into reality for top-tier independent software builders. Since May 2020, A·Teamers have earned over $108 million working on high-impact projects for companies backed by a16z, YC, Insight Partners, Tiger Global, Softbank, General Catalyst, and more. Why A·Team? High-paying, meaningful missions: Earn $90-$170/hr with over 500 companies—from trailblazing startups like Sightful, D-ID, and Apprentice to enterprise innovators like Lyft, Google X, and HCA. Collaborate with trusted peers: Work in small, elite teams for high-impact projects, ensuring top-tier collaboration. Full autonomy: Choose pr",
+      "title": "Chief of Staff, CCO",
+      "company": "Ping Identity",
+      "url": "https://weworkremotely.com/remote-jobs/ping-identity-chief-of-staff-cco",
+      "description": "Headquarters: USA - Remote About Ping Identity:&nbsp; At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it's not just something we provide our customers. It's something that inspires our company. People don't come here to join a culture that's built on digital freedom. They come to cultivate it.&nbsp; Our intelligent, cloud identity platform lets people shop, work, bank, and interact wherever and however they want. Without friction. Without fear.&nbsp; While protecting digital identities is at the core of our technology, protecting individual identities is at the core of our culture.&nbsp; We champion every identity. One of our core values, Respect Individuality, reminds us to celebrate d",
       "location": "Anywhere in the World",
       "tags": [
-        "Full-Stack Programming",
-        "full-stack"
+        "Management and Finance",
+        "management"
       ],
-      "postedAt": "Sun, 16 Jun 2024 17:30:51 +0000",
-      "category": "full-stack"
+      "postedAt": "Wed, 21 Oct 2026 07:31:16 +0000",
+      "category": "management"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/ritual-controller",
+      "source": "weworkremotely",
+      "title": "Controller",
+      "company": "Ritual",
+      "url": "https://weworkremotely.com/remote-jobs/ritual-controller",
+      "description": "Headquarters: Remote About Ritual&nbsp; Ritual is building a sovereign, execution layer for AI, with our private testnet already live and running. The Ritual chain is the first blockchain custom-built to support AI-native operations, designed from the ground up to enable a new class of applications at the intersection of crypto and AI. Our first product, Infernet, is pioneering new ground as the first solution to enable developers to access AI models both on-chain via smart contracts and off-chain, demonstrating our commitment to bridging these transformative technologies. About the role We’re looking for a hands-on Controller to build and oversee our financial operations as we scale. You’ll work directly with the founders and leadership team to manage all accounting, financial reporting, ",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Management and Finance",
+        "management"
+      ],
+      "postedAt": "Wed, 21 Oct 2026 07:31:15 +0000",
+      "category": "management"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/cribl-analytics-business-partner",
+      "source": "weworkremotely",
+      "title": "Analytics Business Partner",
+      "company": "Cribl",
+      "url": "https://weworkremotely.com/remote-jobs/cribl-analytics-business-partner",
+      "description": "Headquarters: Remote - United States Join the company that’s building the telemetry infrastructure for the AI era. At Cribl, we partner with IT and Security teams at many of the world’s biggest enterprises, including half of the Fortune 100, to bridge the gap between AI ambition and infrastructure reality. As the AI Platform for Telemetry, we give customers the choice, control, and flexibility to manage and analyze telemetry for both humans and agents, so they can build what’s next. We’re one of the fastest‑growing private companies and a leading player in a massive, fast‑moving market. With a global workforce, we’re remote‑first and grounded in a simple idea: software is a people business. Cribl is the place where curious, collaborative people can do their best work, grow fast, and bring ",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Management and Finance",
+        "management"
+      ],
+      "postedAt": "Wed, 21 Oct 2026 07:31:11 +0000",
+      "category": "management"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/carrot-business-intelligence-analyst",
