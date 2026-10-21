@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T16:46:07.794Z",
+  "generatedAt": "2026-10-21T21:21:36.147Z",
   "count": 150,
   "data": [
     {
@@ -249,7 +249,33 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [
+          "Applicants must live close to one of the designated IT locations (NYC, NY; Louisville, KY; Tampa, FL; Fort Lauderdale, FL; Dallas/Frisco, TX; Boston, MA; Washington, D.C; Atlanta, GA; Nashville, TN; Chicago, IL; or Charlotte, NC); the radius for 'close to' is not specified and cannot be represented as areas.",
+          "Unresolved area: description:29"
+        ],
+        "evidence_ids": [
+          "c2",
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -3987,7 +4013,29 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "c1"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "CA"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -4807,10 +4855,10 @@
       ],
       "employer_job_id": null,
       "direct_apply": null,
-      "description": "<p>Na <strong>IRIUM</strong> queremos que persigas sempre os teus sonhos! Aqui, prepara-te para conquistares as tuas metas, enquanto desfrutas do caminho.</p>\n<p>Atualmente estamos à procura de um <strong>Ingeniero Cloud</strong>.</p>\n<h2>Competencias Requeridas:</h2>\n<ul>\n<li>Experiencia práctica en la implementación y operación de infraestructuras Cloud y plataformas Kubernetes;</li>\n<li>Experiencia con servicios Cloud relacionados con computación, redes, almacenamiento y gestión de identidades;</li>\n<li>Buenos conocimientos de administración de sistemas Linux, incluyendo servicios, permisos, aplicación de parches, hardening y resolución de incidencias;</li>\n<li>Experiencia con Terraform y Ansible;</li>\n<li>Experiencia con Docker, Kubernetes y Helm;</li>\n<li>Buenos conocimientos de redes y conectividad, incluyendo TCP/IP, DNS, routing, TLS y SSH;</li>\n<li>Experiencia con monitorización, logging, alertas, backup y recuperación;</li>\n<li>Conocimientos de IAM/RBAC, gestión de secretos y seguridad;</li>\n<li>Conocimientos de Git, Bash, Python y GitLab CI/CD;</li>\n<li>Experiencia con componentes de red y almacenamiento de Kubernetes, incluyendo CNI, CSI e Ingress;</li>\n<li>Inglés avanzado.</li>\n</ul>\n<h2>Competencias Deseables:</h2>\n<ul>\n<li>Experiencia con STACKIT;</li>\n<li>Español B2/C1.</li>\n</ul>\n<p><strong>Modalidad:</strong> 100% Remoto</p>\n<p><strong>Rango Salarial:</strong> 2.400€–2.800€ brutos al mes</p>\n<p><strong>Nota:</strong> Salario bruto mensual. Beneficios adicionales de acuerdo con la política de la empresa.</p>\n<h2>¿Qué ofrecemos?</h2>\n<ul>\n<li>Una empresa innovadora y en crecimiento, con muchas oportunidades de desarrollo profesional.</li>\n<li>Retribución acorde con tu experiencia y desempeño. Acceso a retribución flexible y seguro médico como beneficio social.</li>\n<li>Acceso ilimitado a formación tecnológica en modalidad libre.</li>\n</ul>\n<p><strong>IRIUM</strong> es una empresa formada por profesionales dinámicos y proactivos. Nuestros valores son la responsabilidad y el compromiso con la calidad del trabajo. Este es el espíritu que buscamos en IRIUM, independientemente de tu edad.</p>\n<p>Si te identificas con estos valores, ¡esta es tu empresa!</p>\n<p>Podemos construir juntos el futuro. ¿Hablamos?</p>\n<p><strong>Envía tu candidatura a:</strong></p>\n<p>En <strong>IRIUM</strong> defendemos un mundo sin estereotipos ni limitaciones y creemos en la igualdad para todos, principios que suscribimos en nuestro Plan de Igualdad y Código Ético, garantizando la igualdad de trato y de oportunidades independientemente de cualquier condición personal, física o social.</p>\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/ingeniero-cloud-remoto-espaa-irium-portugal</p>",
+      "description": "<p>Na <strong>IRIUM</strong> we want you to always pursue your dreams! Here, get ready to achieve your goals while enjoying the journey.</p>\n<p>We are currently looking for a <strong>Ingeniero Cloud</strong>.</p>\n<h2>Competencias Requeridas:</h2>\n<ul>\n<li>Practical experience in the implementation and operation of Cloud infrastructures and Kubernetes platforms;</li>\n<li>Experience with Cloud services related to computing, networking, storage and identity management;</li>\n<li>Good knowledge of Linux system administration, including services, permissions, patch management, hardening and incident resolution;</li>\n<li>Experiencia con Terraform y Ansible;</li>\n<li>Experiencia con Docker, Kubernetes y Helm;</li>\n<li>Good knowledge of networking and connectivity, including TCP/IP, DNS, routing, TLS and SSH;</li>\n<li>Experiencia con monitorización, logging, alertas, backup y recuperación;</li>\n<li>Conocimientos de IAM/RBAC, gestión de secretos y seguridad;</li>\n<li>Conocimientos de Git, Bash, Python y GitLab CI/CD;</li>\n<li>Experience with Kubernetes networking and storage components, including CNI, CSI and Ingress;</li>\n<li>Inglés avanzado.</li>\n</ul>\n<h2>Competencias Deseables:</h2>\n<ul>\n<li>Experiencia con STACKIT;</li>\n<li>Español B2/C1.</li>\n</ul>\n<p><strong>Modalidad:</strong> 100% Remoto</p>\n<p><strong>Rango Salarial:</strong> 2.400€–2.800€ brutos al mes</p>\n<p><strong>Nota:</strong> Gross monthly salary. Additional benefits in accordance with company policy.</p>\n<h2>¿Qué ofrecemos?</h2>\n<ul>\n<li>An innovative and growing company, with many opportunities for professional development.</li>\n<li>Compensation in line with your experience and performance. Access to flexible compensation and health insurance as a social benefit.</li>\n<li>Acceso ilimitado a formación tecnológica en modalidad libre.</li>\n</ul>\n<p><strong>IRIUM</strong> is a company made up of dynamic and proactive professionals. Our values are responsibility and commitment to the quality of work. This is the spirit we look for at IRIUM, regardless of your age.</p>\n<p>Si te identificas con estos valores, ¡esta es tu empresa!</p>\n<p>Podemos construir juntos el futuro. ¿Hablamos?</p>\n<p><strong>Envía tu candidatura a:</strong></p>\n<p>En <strong>IRIUM</strong> we defend a world without stereotypes or limitations and we believe in equality for all, principles that we subscribe to in our Equality Plan and Code of Ethics, guaranteeing equal treatment and equal opportunities regardless of any personal, physical or social condition.</p>\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/ingeniero-cloud-remoto-espaa-irium-portugal</p>",
       "posted_at": "2026-10-21T11:31:33+00:00",
-      "is_translated": false,
-      "original_language": null
+      "is_translated": true,
+      "original_language": "mul"
     },
     {
       "id": "6ea6d14e-f6ab-47d0-b26b-1f4f22bbab62",
@@ -4915,7 +4963,29 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "partial",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -5257,7 +5327,30 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [
+          "Hybrid role requires residence within commutable distance of the office/location specified in the job listing (description:7); this city/commute-radius residency requirement cannot be represented as a country or subdivision area.",
+          "If this role is Hybrid"
+        ],
+        "evidence_ids": [
+          "c2"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "hybrid",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -9383,7 +9476,25 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -11395,97 +11506,6 @@
       "original_language": "es"
     },
     {
-      "id": "cca6e358-9d91-48d4-be1e-141ef67529d7",
-      "title": "Data Engineer - US Remote",
-      "url": "https://remotejobs.org/remote-jobs/data-engineer-us-remote-perfectserve",
-      "apply_url": "https://remotejobs.org/remote-jobs/data-engineer-us-remote-perfectserve",
-      "company": {
-        "name": "PerfectServe",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/a43308bdbc92caeec5eec5dcca429ea5de67aac92739ccb72d0f336ce10aea04.jpeg",
-        "website": "https://perfectserve.com",
-        "url": "https://remotejobs.org/companies/perfectserve"
-      },
-      "category": {
-        "name": "Data Science",
-        "slug": "data-science"
-      },
-      "location": "USA",
-      "location_normalization": {
-        "raw": "USA",
-        "input": {},
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [],
-        "evidence_ids": [
-          "source-location"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "remote",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-sonnet-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": null,
-        "role_family": "data-engineering",
-        "required_skills": [],
-        "mentioned_skills": [
-          "aws",
-          "golang",
-          "python",
-          "sql"
-        ],
-        "preferred_skills": [
-          "sql"
-        ],
-        "experience_requirements": []
-      },
-      "salary_min": 115000,
-      "salary_max": 140000,
-      "salary_text": "USD 115,000–140,000/year",
-      "salary_source_text": "USD 115000 - 140000",
-      "salary_currency": "USD",
-      "salary_period": "year",
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<h2><strong>What is <a href=\"https://jobicy.com/company/perfectserve\">PerfectServe</a>?</strong></h2>\n<p>PerfectServe is a leading provider of clinical communication and physician scheduling solutions in the health IT space. The company was founded in 1997 and has grown steadily since then, with a notable jump after several major acquisitions were announced in 2019. PerfectServe now has 400+ employees, 30,000+ customers — spanning medical practices, hospitals, and health systems — and $100 million+ in annual revenue.</p>\n<p>PerfectServe’s mission is to accelerate speed to care by optimizing provider schedules and routing communications — including messages, pages, calls, and alerts — to the right place at the right time in any care setting. By facilitating real-time information sharing, building better schedules, and automating important clinical workflows, we believe we can help our customers advance patient care and improve the well-being of their clinicians.</p>\n<p>Leading analyst firms like Gartner® and KLAS Research have consistently validated our approach:</p>\n<ol>\n<li>In 2026, PerfectServe was named highest in execution and furthest in vision in the Gartner Magic Quadrant™ for Clinical Communication and Collaboration — the clear segment leader.</li>\n<li>PerfectServe also received two Best in KLAS awards in 2026 — one for physician scheduling and another for ambulatory clinical communications. That makes for 11 Best in KLAS awards over the past 9 years.</li>\n</ol>\n<p>At PerfectServe, you'll have a unique opportunity to join a collaborative team with decades of experience that finds new ways to delight our customers every day. This involves consistent efforts to stay on the cutting edge of product development, which includes everything from implementing AI in new and existing solutions to brainstorming with customers about novel workflows. But you don't have to be in product to make in impact — everybody at PerfectServe contributes to important work that moves the business forward.</p>\n<p>If you're looking for a well-established, tech-forward company full of smart people doing meaningful work, you've found the right place!</p>\n<h2>About the role</h2>\n<p>Join a new, small team building PerfectServe's data platform.</p>\n<p>We are building the pipelines and models that bring data together from across PerfectServe's product portfolio. You will work closely with a staff data engineer and a platform engineer, with enough ownership to see your work in production and enough support to learn quickly.</p>\n<p>The source systems are varied, so the work spans extending established pipelines and designing new ones from scratch. That range is a good part of the job.</p>\n<h2>Why this role, specifically</h2>\n<p>Joining a platform in its first months is a different experience from joining one that is five years old. The patterns are still being set, which means your questions change them. You will see the whole path — a production source system at one end, someone making a decision at the other — rather than one layer of a stack somebody else assembled.</p>\n<p>You will have a dedicated team to work with and learn from so the ownership comes without being thrown in unsupported.</p>\n<h2>What you will do</h2>\n<ul>\n<li>Build and maintain ingestion pipelines from production source systems</li>\n<li>Write transformation models that turn raw data into datasets people can trust</li>\n<li>Apply dimensional and medallion modelling patterns as the warehouse takes shape</li>\n<li>Deploy pipelines to production, and test them properly — idempotency, data quality checks</li>\n<li>Contribute to data model and schema design, and to design reviews</li>\n<li>Document what you build, including runbooks for the pipelines you own</li>\n</ul>\n<h2>What you bring</h2>\n<ul>\n<li>Professional experience building data pipelines, with production ownership of at least some</li>\n<li>Strong SQL, and a working programming language — Python, Go or equivalent</li>\n<li>Hands-on dbt, or another transformation framework</li>\n<li>A cloud data warehouse — Snowflake, BigQuery, Redshift or similar</li>\n<li>Practical ELT and orchestration experience (Fivetran, Airflow or equivalent)</li>\n<li>Working AWS knowledge — object storage, access basics, and enough networking to reason about where data moves</li>\n<li>A testing instinct for data, not only for code</li>\n</ul>\n<h2>Nice to have</h2>\n<ul>\n<li>Change-data-capture</li>\n<li>SQL Server sources</li>\n<li>Healthcare or another regulated data environment</li>\n<li>Exposure to a BI or semantic layer</li>\n</ul>\n<h2>Why Join PerfectServe?</h2>\n<p>At PerfectServe, we are transforming healthcare communication and collaboration to help clinicians deliver better care. You’ll work with a dedicated and mission‑driven team in an environment that values growth, transparency, and innovation.</p>\n<p>We offer a salary range of <strong>$115,000–$140,000 USD</strong> per year, with compensation tailored to your background, strengths, and growth potential. This range reflects our commitment to pay transparency and is based on market data, internal equity, and the scope of responsibilities. Compensation is determined by several factors, including experience, skills, and team impact. We regularly review compensation to ensure fairness and consistency. Current employees with questions are encouraged to connect with their manager or People Operations.</p>\n<h2><strong>Benefits:</strong></h2>\n<ul>\n<li>Remote first work environment</li>\n<li>Health, Dental, Vision, Life and Disability Insurance options available day one.</li>\n<li>401K - with match and immediately vested.</li>\n<li>17 company holidays, 2 floating holidays plus competitive paid time off policy</li>\n<li>Internal Advancement Opportunities</li>\n</ul>\n<p><a href=\"https://www.perfectserve.com/\">PerfectServe</a> offers unified healthcare communication solutions to help physicians, nurses, and care team members provide exceptional patient care. PerfectServe’s cloud-based solutions enhance patient safety and reduce provider burnout by automating workflows, speeding time to treatment, optimizing shift schedules, empowering nurse mobility, and engaging patients in their own care.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/data-engineer-us-remote-perfectserve</p>",
-      "posted_at": "2026-10-17T14:06:33+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
       "id": "e7246158-9de9-4c4d-beec-efac425c7699",
       "title": "Data Engineer",
       "url": "https://remotejobs.org/remote-jobs/data-engineer-thehivecareers-52f66fe2947e4890bd572ca130a772e9",
@@ -13127,6 +13147,88 @@
       "direct_apply": null,
       "description": "<p>1inch is the DeFi ecosystem building financial freedom for everyone. 1inch products help users and builders trade, hold and track digital assets - with the self-custody, comprehensive security and the intuitive user experience they need to unlock the potential of true crypto ownership. 1inch protocols and APIs provide core infrastructure across the DeFi industry and beyond. So if you're someone who thinks big, moves fast and wants to make an impact right from day one, then get ready to join our industry-changing team.</p>\n<h2>Your mission</h2>\n<p>As Data &#x26; Analytics Lead, your mission is to turn complex business and product questions into reliable, actionable answers.</p>\n<p>You will combine AI, data analytics, data engineering, and deep DeFi expertise to build a more intelligent and scalable approach to decision-making. You will use AI not just to accelerate existing analytics, but to rethink how we explore data, test hypotheses, identify patterns, and make insights accessible across the organization.</p>\n<p>You will be highly hands-on, with expert-level Dune capabilities and a strong understanding of DEXes, DEX aggregators, on-chain data, liquidity, routing, and market dynamics.</p>\n<h2>What you’ll do</h2>\n<ul>\n<li>\n<p>Create intuitive ways for teams to explore trusted data using AI, natural language, dashboards, and other analytical interfaces.</p>\n</li>\n<li>\n<p>Build AI-enabled workflows and agents that accelerate analysis, uncover insights, and reduce repetitive analytical work, ensuring AI-generated answers are grounded in trusted data, transparent, and verifiable.</p>\n</li>\n<li>\n<p>Turn complex and ambiguous business and product questions into structured analyses, clear insights, and actionable answers.</p>\n</li>\n<li>\n<p>Develop metrics and analytical frameworks that connect user behavior, product performance, on-chain activity, market dynamics, and business outcomes.</p>\n</li>\n<li>\n<p>Proactively identify trends, anomalies, opportunities, and risks, and establish standards for analytical quality, metrics, dashboards, and decision support.</p>\n</li>\n<li>\n<p>Design and evolve data architecture, models, pipelines, and transformations, integrating on-chain and off-chain data into reliable, scalable, and reusable data products.</p>\n</li>\n<li>\n<p>Ensure data is accurate, well-structured, documented, discoverable, and accessible to people and AI systems, with strong standards for quality, observability, maintainability, and performance.</p>\n</li>\n<li>\n<p>Use Dune at an expert level to investigate DEX aggregators, DEXes, swaps, liquidity, routing, users, protocols, and markets, building reusable on-chain datasets and analytical models.</p>\n</li>\n<li>\n<p>Combine blockchain, product, and business data to create a comprehensive view of users, ecosystem activity, and market dynamics, and continuously explore new data sources and analytical approaches.</p>\n</li>\n</ul>\n<h2>Who you are</h2>\n<ul>\n<li>\n<p>Deep understanding of DeFi and blockchain data, particularly DEXes and DEX aggregators, including swaps, liquidity, routing, transactions, events, traces, and smart-contract interactions.</p>\n</li>\n<li>\n<p>Expert-level Dune skills, with advanced SQL proficiency and demonstrated experience building sophisticated on-chain queries, datasets, dashboards, and analyses.</p>\n</li>\n<li>\n<p>Strong AI-native way of working, with advanced hands-on experience using Cursor to accelerate analytics and engineering, automate workflows, and build AI-enabled data solutions.</p>\n</li>\n<li>\n<p>Strong proficiency in Python for data analysis, data processing, automation, and AI-enabled workflows.</p>\n</li>\n<li>\n<p>Hands-on experience building and operating modern data platforms with ClickHouse and Airflow, including data modeling, pipelines, transformations, data quality, and observability.</p>\n</li>\n<li>\n<p>Proven ability to turn ambiguous business and product questions into structured hypotheses, robust analyses, and clear, actionable answers.</p>\n</li>\n</ul>\n<h2>Nice to haves</h2>\n<ul>\n<li>\n<p>Experience working directly within a DEX, DEX aggregator, DeFi protocol, or other data-intensive Web3 product.</p>\n</li>\n<li>\n<p>Experience working with raw multi-chain blockchain data, including decoding contracts, events, traces, and transactions.</p>\n</li>\n<li>\n<p>Experience applying statistical methods, experimentation, forecasting, or anomaly detection to product and business questions.</p>\n</li>\n<li>\n<p>A strong public track record in the DeFi data ecosystem, such as high-quality Dune dashboards, research, open-source contributions, or community analytics.</p>\n</li>\n</ul><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/data-analytics-lead-1inch</p>",
       "posted_at": "2026-10-15T09:56:11.37+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "59a99fd0-faba-46fa-8a79-039e87b7db54",
+      "title": "Lead Engineer - AI-Native Email App",
+      "url": "https://remotejobs.org/remote-jobs/lead-engineer-ai-native-email-app-bjak",
+      "apply_url": "https://remotejobs.org/remote-jobs/lead-engineer-ai-native-email-app-bjak",
+      "company": {
+        "name": "Bjak",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/9efddc26f506bb66e171d6d141f7e5b2e00966a73d5ad72e1ca6b8b9358acc1d.jpeg",
+        "website": "https://bjak.com",
+        "url": "https://remotejobs.org/companies/bjak"
+      },
+      "category": {
+        "name": "Data Science",
+        "slug": "data-science"
+      },
+      "location": "Thailand",
+      "location_normalization": {
+        "raw": "Thailand",
+        "input": {},
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [
+          "TH"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "worldwide",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "c1"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-sonnet-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": true
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": "lead",
+        "role_family": null,
+        "required_skills": [],
+        "mentioned_skills": [],
+        "preferred_skills": [],
+        "experience_requirements": []
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": "year",
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": null,
+      "direct_apply": null,
+      "description": "<h2><strong>About BJAK</strong></h2>\n<p>The original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name.</p>\n<p>Started in 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, its the leading insurance platform in Southeast Asia.</p>\n<p>Today, we are expanding ways to help people in the region — this includes spending, saving, investing, exchanging, travelling, and more. Our mission is help people get more from their money every day.</p>\n<p>We have teams working around the world, with over 20 nationalities from our offices and remotely, who truly enjoys their work. We are looking for the most talented and driven people we can find. We are looking for people who work for their passion, not counting hours. Who loves building great next-generation products, not status quo. Who cares about redefining how everyone around us can get the best financial applications, not for an exclusive few.</p>\n<h2>The Role</h2>\n<p>We are looking for a <strong>Lead Engineer</strong> to take technical ownership of complex products and systems and raise the engineering bar across the team.</p>\n<p>This is a hands-on technical leadership role. You will be expected to design systems, write and review code, solve difficult engineering problems, guide other engineers and drive major initiatives from idea to production.</p>\n<p>You should be comfortable moving between architecture and implementation — making strong technical decisions while still being close enough to the code to execute when needed.</p>\n<h2>What You'll Own</h2>\n<ul>\n<li>\n<p>Lead the technical design and execution of major products, features and engineering initiatives.</p>\n</li>\n<li>\n<p>Design scalable, reliable and maintainable systems across backend, frontend, APIs, databases and infrastructure.</p>\n</li>\n<li>\n<p>Stay hands-on with engineering through coding, prototyping, code reviews, debugging and production problem-solving.</p>\n</li>\n<li>\n<p>Make architecture decisions and technical trade-offs that balance speed, scalability, reliability and maintainability.</p>\n</li>\n<li>\n<p>Break ambiguous product and technical problems into clear engineering solutions and execution plans.</p>\n</li>\n<li>\n<p>Set a high bar for code quality, system design, testing, security, observability and production reliability.</p>\n</li>\n<li>\n<p>Review technical designs and code from other engineers and provide clear, actionable feedback.</p>\n</li>\n<li>\n<p>Mentor engineers and help strengthen technical capability across the team.</p>\n</li>\n<li>\n<p>Identify technical risks, bottlenecks and architectural weaknesses before they become larger problems.</p>\n</li>\n<li>\n<p>Work closely with engineering, product, design and AI teams to ship high-quality products quickly.</p>\n</li>\n<li>\n<p>Improve engineering tooling, development practices and automation to increase team velocity.</p>\n</li>\n<li>\n<p>Own systems beyond release — monitor production, investigate incidents, resolve root causes and continuously improve reliability.</p>\n</li>\n</ul>\n<h2>What We're Looking For</h2>\n<ul>\n<li>\n<p>Strong software engineering background with significant experience building and shipping production systems.</p>\n</li>\n<li>\n<p>Deep technical expertise in one or more areas such as backend, frontend, distributed systems, APIs, databases or cloud infrastructure.</p>\n</li>\n<li>\n<p>Strong system design and architecture skills with experience making technical decisions for complex or high-scale systems.</p>\n</li>\n<li>\n<p>Strong coding ability and willingness to remain hands-on.</p>\n</li>\n<li>\n<p>Proven experience leading major engineering projects or providing technical leadership to other engineers.</p>\n</li>\n<li>\n<p>Comfortable reviewing code, debugging complex issues and working directly with production systems.</p>\n</li>\n<li>\n<p>Able to explain complex technical decisions clearly and influence engineers across teams.</p>\n</li>\n<li>\n<p>Strong product sense and ability to connect technical decisions to customer and business outcomes.</p>\n</li>\n<li>\n<p>Able to work fast with ambiguity and take ownership from problem definition through production.</p>\n</li>\n<li>\n<p>Strong judgment around when to move quickly, when to simplify and when deeper engineering investment is required.</p>\n</li>\n</ul>\n<h2>This Role Is Not For</h2>\n<ul>\n<li>\n<p>Engineers who want a leadership title but no longer want to write or review code.</p>\n</li>\n<li>\n<p>People who only want to work within one narrow technical area.</p>\n</li>\n<li>\n<p>Engineers who wait for complete specifications before starting.</p>\n</li>\n<li>\n<p>Candidates who over-engineer solutions when a simpler approach would achieve the outcome.</p>\n</li>\n<li>\n<p>Engineers who focus only on implementation without understanding the product or business problem.</p>\n</li>\n<li>\n<p>People who avoid production incidents, difficult debugging or ownership after release.</p>\n</li>\n<li>\n<p>Candidates who make vague claims about technical leadership without being able to explain what they personally designed, built, shipped or scaled.</p>\n</li>\n</ul>\n<h2>The Bar</h2>\n<p>We are looking for technical leaders with real engineering career highlights.</p>\n<p>A strong highlight is not simply having a senior title or working at a famous technology company. A strong highlight means you personally designed, built, shipped or scaled a serious product, platform or system and can go deep into the technical decisions behind it.</p>\n<p>You should be able to demonstrate both technical depth and technical leadership — someone who can solve difficult engineering problems personally while making the engineers around them stronger.</p>\n<h2>Location</h2>\n<p>This is a <strong>remote role</strong>. We hire globally and work across multiple countries and time zones.</p>\n<p>Candidates should be comfortable working effectively in a distributed, fast-moving international team and collaborating with colleagues across different locations.</p>\n<h2>Language</h2>\n<p>English is our main working language across global teams. Strong English communication is required.</p>\n<h2>Interview Process</h2>\n<h2>Our process is designed to move fast:</h2>\n<ol>\n<li>\n<h2>Online assessment or practical task</h2>\n</li>\n<li>\n<h2>Technical interview</h2>\n</li>\n<li>\n<h2>CEO / final round</h2>\n</li>\n</ol>\n<p>For strong candidates, we aim to complete the process and make an offer within <strong>1 week</strong> from the start of the interview process. Candidates who complete assessments quickly will be prioritized.</p>\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/lead-engineer-ai-native-email-app-bjak</p>",
+      "posted_at": "2026-10-15T04:41:28+00:00",
       "is_translated": false,
       "original_language": null
     }
