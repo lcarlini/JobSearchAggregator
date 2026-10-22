@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T21:21:34.835Z",
+  "generatedAt": "2026-10-22T03:30:42.845Z",
   "count": 202,
   "jobs": [
     {
@@ -482,6 +482,40 @@
         "id": 15000190,
         "short_name": "spacex",
         "name": "SpaceX"
+      }
+    },
+    {
+      "contents": "<p><strong>About the Role</strong><br> <br>Uber has expanded its services beyond transporting people to include the delivery of <strong>nearly anything customers need, often within hours</strong>, with Grocery &amp; Retail being a major growth priority.<br> <br>The Grocery and Retail Consumer Ranking Team is dedicated to creating a seamless and efficient shopping experience, enabling users to effortlessly find what they need. <br> <br>As the Engineering Manager for the Grocery &amp; Retail Consumer Ranking team, you will lead the evolution of Uber's online ranking architecture and high-throughput serving stack. Your primary mission is to build the engine that powers seamless shopping experiences, ensuring that millions of users can find what they need in milliseconds.<br> <br>We are looking for a systems-focused leader to drive the design of our online retrieval and ranking services. You will oversee the delivery of real-time features, caching strategies, and storage solutions, while ruthlessly optimizing for p99 latency, resource costs, and 99.99% availability. This role is at the intersection of complex distributed systems and product innovation, requiring a leader who can balance rapid experimentation with rock-solid operational excellence.<br> <br>While the core of this role is backend infrastructure, you will partner closely with Data Science and ML Engineering to integrate state-of-the-art models (Deep Learning, Embeddings, and GenAI) into a production environment that operates at Uber's global scale.<br> <br><strong>What You Will Do</strong><br> <ol> <li><strong>Lead the team</strong> of backend and ML engineers owning the online ranking serving stack and integrations powering key consumer surfaces.</li> <li><strong>Own the Roadmap:</strong> Define, prioritize, and execute an ambitious product roadmap through strong people leadership-managing, coaching, and growing all team members.</li> <li><strong>Drive Reliability &amp; Performance:</strong> Lead high-impact initiatives to improve p99 latency, tail-latency mitigation, and infra-cost efficiency for high-QPS services.</li> <li><strong>Evolve Data Flow:</strong> Oversee the development of real-time and batch pipelines, ensuring online/offline consistency for features and model inputs.</li> <li><strong>Technical Vision:</strong> Lay out the multi-quarter roadmap for ranking infra, leveraging senior ICs to drive architectural migrations and capacity planning.</li> <li><strong>Operational Excellence:</strong> Champion a strong engineering culture of on-call health, post-mortems, and graceful degradation/fallback strategies.</li> <li><strong>Scale Experimentation:</strong> Build and extend automated experimentation capabilities, including guardrails, logging, and debiasing.</li> </ol> <br>---- Basic Qualifications ----<br> <ol> <li><strong>Experience:</strong> 10+ years in software engineering with a primary focus on high-traffic backend systems.</li> <li><strong>Leadership:</strong> 4+ years of engineering management experience.</li> <li><strong>Backend &amp; Systems Expertise:</strong> Deep experience in distributed systems, API/service design, and high-scale production serving.</li> <li><strong>Operational Ownership:</strong> Proven track record in managing SLOs/SLAs, incident response, and performance/latency optimization.</li> <li><strong>ML Partnership:</strong> Experience delivering ML-backed services and the ability to partner with DS/MLE on model requirements and evaluation.</li> <li><strong>Communication:</strong> Strong verbal and written communication skills with the ability to influence technical and product roadmaps.</li> </ol> <br>---- Preferred Qualifications ----<br> <ol> <li><strong>People leadership</strong>: Unwavering commitment to maintaining high standards for personal contributions, team members, and product outcomes. A successful track record of hiring and developing high-performing teams.</li> <li><strong>Scale &amp; Scope:</strong> Experience managing teams of 10+ engineers in a large-scale tech company (10k+ employees).</li> <li><strong>ML Platform Mastery:</strong> Experience integrating with large-scale ML platforms (feature stores, training infra, model registry) and model rollout patterns (canary/shadow, auto-rollback).</li> <li><strong>Optimization:</strong> Proven ability to make practical tradeoffs among latency, model quality, capacity, and maintainability.</li> <li><strong>Project Impact:</strong> History of leading multi-quarter re-architecture projects or migrations that significantly reduced costs or improved availability.</li> <li><strong>Cross-functional Negotiation:</strong> Ability to partner and negotiate cross-organizationally (Marketplace, Search, Merchandising) to integrate ranking outputs into end-to-end user flows.</li> </ol> <br> ~~ ~~ <br><br>For New York City, NY-based roles: The base salary range for this role is USD $232,000 per year - USD $258,000 per year.<br><br>You will be eligible to participate in Uber's bonus program, and may be offered an equity award &amp; other types of comp. All full-time employees are eligible to participate in a 401(k) plan. You will also be eligible for various benefits.<br> <br><strong>Ready to Ride?</strong><br> <br>This isn't the kind of place where you follow a playbook - it's where you help write one. If you're driven by impact, energized by challenge, and ready to shape how the world moves - we'd love to hear from you.<br> <br>You may be eligible for bonuses, equity, and other compensation, as well as a range of benefits. Explore our benefits. <br> <br>Offices remain key to collaboration and Uber's culture. Unless approved for full remote work, employees must spend at least 50% of their time in-office. Some roles, like those at greenlight hubs, require full-time in-office presence. Ask your Recruiter for details about this role's requirements.<br> <br>Uber is proud to be an Equal Opportunity employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you have a disability or special need that requires accommodation, please let us know by completing this form.</p>",
+      "name": "Engineering Manager II, Ranking and Recommendations, Grocery and Retail",
+      "type": "external",
+      "publication_date": "2026-10-22T02:42:43Z",
+      "short_name": "engineering-manager-ii-ranking-and-recommendations-grocery-and-retail",
+      "model_type": "jobs",
+      "id": 21449586,
+      "locations": [
+        {
+          "name": "New York, NY"
+        }
+      ],
+      "categories": [
+        {
+          "name": "Software Engineering"
+        }
+      ],
+      "levels": [
+        {
+          "name": "Senior Level",
+          "short_name": "senior"
+        }
+      ],
+      "tags": [],
+      "refs": {
+        "landing_page": "https://www.themuse.com/jobs/uber/engineering-manager-ii-ranking-and-recommendations-grocery-and-retail"
+      },
+      "company": {
+        "id": 61,
+        "short_name": "uber",
+        "name": "Uber"
       }
     },
     {
@@ -1646,48 +1680,6 @@
         "id": 15000852,
         "short_name": "coxautomotive",
         "name": "Cox Automotive"
-      }
-    },
-    {
-      "contents": "<p><b>Job Description:</b><br><br><b>About Us</b><br><br>At Bank of America, we are guided by a common purpose to help make financial lives better through the power of every connection. We do this by driving Responsible Growth and delivering for our clients, teammates, communities and shareholders every day.<br>Being a Great Place to Work and providing a culture of caring is core to how we drive Responsible Growth. We are intentional about fostering an inclusive workplace where every teammate has the opportunity to succeed, build a career and contribute to our shared success. This includes attracting and developing exceptional talent, recognizing and rewarding performance, and supporting our teammates' physical, emotional, and financial wellness through affordable, competitive and flexible benefits.<br>We value the unique perspectives individuals bring from all backgrounds and career paths - whether shaped by military service, community college education, or a wide range of work and life experiences. These journeys foster resilience, leadership and innovation, strengthening our workforce and positively impact the communities we serve.<br>Bank of America is committed to an in-office culture that supports collaboration, engagement, and career development. Our approach includes clear in-office expectations, while providing an appropriate level of flexibility based on role-specific responsibilities and business needs.<br>At Bank of America, you can build a successful career with opportunities to learn, grow, and make an impact. Join us!<br><br><b>Global Business Services</b><br><br>Global Business Services delivers Technology and Operations capabilities to Lines of Business and Staff Support Functions of Bank of America through a centrally managed, globally integrated delivery model and globally resilient operations. Global Business Services is recognized for flawless execution, sound risk management, operational resiliency, operational excellence and innovation. In India, we are present in five locations and operate as BA Continuum India Private Limited (BACI), a non-banking subsidiary of Bank of America Corporation and the operating company for India operations of Global Business Services.<br><br><b>Process Overview</b><br><br>The Global Information Security (GIS) is responsible for protecting Bank information systems, confidential and proprietary data, and customer information. The team develops the Bank's Information Security strategy and policy, manages the Information Security program and identifies and addresses vulnerabilities, Develops, deploys and manages a risk-based controls portfolio, Manages and operates a global security operations center that monitors, detects and responds to cybersecurity incidents.<br><br><b>Job Description</b><br><br>This role involves specialization in Identity and Access Management (IAM) technologies with deeper understanding of SSO and authentication, directory services. Participates in design, development and implementation of systems engineering activities, to include OS technical support, systems programming, and data center capabilities. Responsible for components of complex engineering and/or analytical tasks and activities. Assists in establishment of input/output processes and working parameters for hardware compatibility and coordination of subsystems design and integration of total system. Serves as a fully seasoned/proficient technical resource; provides tech knowledge and capabilities as team member and individual contributor. Will not have direct reports but will influence and direct activities of a team related to special initiatives or operations. Provides input on staffing, budget, and personnel.<br><br><b>Responsibilities</b><br><br>Contribute to story refinement/defining requirements.<br>•  Understand and utilize basic network, virtualization, and datacenter technologies for deployment strategies.<br>•  Work with solutions to integrate, transform and control systems in operational environments per the defined acceptance criteria.<br>•  Work across development teams to understand and aid in the delivery of system requirements.<br>•  Work with large, complex data sets that meet functional/ non-functional requirements.<br>•  Build and improve processes supporting system transformation, structures, quality controls, dependency, and workload management.<br>•  Define and build deployment pipelines that enable faster, better, data-informed decision-making within the business.<br>•  Perform/Implement existing test suites (integration, regression, and performance), analyse test reports, identify any test issues/errors, and triage the underlying cause.<br>•  Document and communicate required information for deployment, maintenance, support, and business functionality.<br>•  Document and communicate required information for deployment, maintenance, support, and business functionality.<br>•  Identify gaps in environment management standards adherence and work with appropriate partners to develop plans to close gaps<br><br><b>Requirements</b><br><br><b> Education : </b>B.E. / B. Tech/M.E. /M. Tech/B.Sc./M.Sc./BCA/MCA (prefer IT/CS specialization)<br><br><b>Certifications If Any</b> : NA<br><br><b>Experience Range : </b>7+ years<br><br><b> Foundational skills</b><br><br>•  7+ years of experience in Information Security<br>•  Strong hands-on experience with industry standard SSO technologies and protocols (OAuth, OpenID Connect, FIDO, SCIM, LDAP, SAML)<br>•  Expertise in Identity and Authentication solutions such as Ping Federate/Ping Access (preferred)<br>•  Strong experience in designing Ping policies including custom solutions<br>•  Strong expertise in development of Cloud IAM solutions for AWS, GCP and Azure<br>•  Strong experience in federating cloud applications with PingFederate<br>•  Strong experience in implementing identity synchronization to Cloud IAM using PingIDM/SCIM<br>•  Strong development experience in Java/J2EE technologies<br>•  Knowledge of LDAP and Active Directory services, MFA, Risk based authentication and privileged access management<br>•  Holistic view of IAM (Authentication and Authorization Data, Endpoint Security, Network Security, Policy Engine)<br>•  Proficient in Linux, Windows, Tomcat, Web Logic, IBM WebSphere environments<br>•  Ability to utilize various programming or scripting languages such as Shell scripting, Perl, Java, Python, JavaScript and PowerShell<br>•  Familiarity with deployments and integration of IAM solutions within the cloud (Azure, AWS or Google Cloud)<br>•  Experience in deploying large-scale, global projects and programs<br>•  Leadership skills and qualities which enable you to work with peers and various levels of management<br>•  Effective communication skills and motivation/willingness to learn<br><br><b> Desired skills</b><br><br>• Experience in Web-Development technologies: HTML, XML, XSL/XSLT, XPATH and Java script<br><br>•  Understanding of API design concepts, RESTful Services and modern application interaction patterns<br><br>•  Familiarity with IT security and risk management practices<br><br><b>Work Timings : </b>1:30pm to 10:30 pm<br><br><b>Job Location : </b>Hyderabad, Chennai</p>",
-      "name": "Lead Analyst",
-      "type": "external",
-      "publication_date": "2026-10-09T20:52:25Z",
-      "short_name": "lead-analyst-55387c",
-      "model_type": "jobs",
-      "id": 21925521,
-      "locations": [
-        {
-          "name": "Chennai, India"
-        },
-        {
-          "name": "Hyderabad, India"
-        }
-      ],
-      "categories": [
-        {
-          "name": "Software Engineering"
-        }
-      ],
-      "levels": [
-        {
-          "name": "Senior Level",
-          "short_name": "senior"
-        }
-      ],
-      "tags": [
-        {
-          "name": "Fortune 1000",
-          "short_name": "fortune-1000-companies"
-        }
-      ],
-      "refs": {
-        "landing_page": "https://www.themuse.com/jobs/bankofamerica/lead-analyst-55387c"
-      },
-      "company": {
-        "id": 12145,
-        "short_name": "bankofamerica",
-        "name": "Bank of America"
       }
     },
     {
