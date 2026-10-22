@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T11:18:27.592Z",
+  "generatedAt": "2026-10-22T16:45:55.730Z",
   "count": 150,
   "data": [
     {
@@ -9736,6 +9736,111 @@
       "original_language": null
     },
     {
+      "id": "93e3ebff-e991-4b02-b5a2-ffc13a8be0f4",
+      "title": "Data Scientist - Product Analytics",
+      "url": "https://remotejobs.org/remote-jobs/data-scientist-product-analytics-elevenlabs",
+      "apply_url": "https://remotejobs.org/remote-jobs/data-scientist-product-analytics-elevenlabs",
+      "company": {
+        "name": "Elevenlabs",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/6a8c6ba3426476621d9aefb6471d872dec2d6edf9c95ffe392cd91dadba5401f.png",
+        "website": "https://elevenlabs.io",
+        "url": "https://remotejobs.org/companies/elevenlabs"
+      },
+      "category": {
+        "name": "Data Science",
+        "slug": "data-science"
+      },
+      "location": "GB",
+      "location_normalization": {
+        "raw": "GB",
+        "input": {},
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [
+          "GB"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [
+          "Europe"
+        ],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [
+          {
+            "kind": "timezone",
+            "areas": [],
+            "effect": "require",
+            "details": "with the ability to operate in GMT and GMT+1 timezones",
+            "regions": [],
+            "timezones": [],
+            "evidence_id": "c3",
+            "conditional_on": null
+          }
+        ],
+        "unresolved": [
+          "The regional grant 'anywhere in Europe' is not enumerated to ISO 3166 countries or subdivisions, and its relationship to the GB header market is not stated.",
+          "The timezone wording 'GMT and GMT+1' is not mapped to explicit IANA identifiers in the source.",
+          "Unresolved area: description:44"
+        ],
+        "evidence_ids": [
+          "c2",
+          "c3"
+        ],
+        "allowed_regions": [
+          "Europe"
+        ],
+        "work_arrangement": "remote",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": null,
+        "role_family": "data-science",
+        "required_skills": [
+          "python",
+          "sql"
+        ],
+        "mentioned_skills": [],
+        "preferred_skills": [],
+        "experience_requirements": []
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "41b892ba-b530-44cb-9ae1-178908fc324c",
+      "direct_apply": null,
+      "description": "<h2>About ElevenLabs</h2>\n<p>ElevenLabs is an AI research and product company transforming how we interact with technology.</p>\n<p>We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $22B - multiples of 11, always.<br>\n<br>\nWe have expanded from voice into three main platforms:</p>\n<ul>\n<li>\n<p>ElevenAgents enables businesses to deliver seamless and intelligent customer experiences, with the integrations, testing, monitoring, and reliability necessary to deploy voice and chat agents at scale.</p>\n</li>\n<li>\n<p>ElevenCreative empowers creators and marketers to generate and edit speech, music, image, and video across 70+ languages.</p>\n</li>\n<li>\n<p>ElevenAPI gives developers access to our leading AI audio foundational models.</p>\n</li>\n</ul>\n<p>Everything we do is the result of the creativity and commitment of our team - builders doing the best work of their lives. We are researchers, engineers, and operators. IOI medalists and ex-founders. If you want to work hard and create lasting positive impact, we want to hear from you.</p>\n<h2>How we work</h2>\n<ul>\n<li>\n<p><strong>High-velocity: </strong>Rapid experimentation, lean autonomous teams, and minimal bureaucracy.</p>\n</li>\n<li>\n<p><strong>Impact not job titles: </strong>We don’t have job titles. Instead, it’s about the impact you have. No task is above or beneath you.</p>\n</li>\n<li>\n<p><strong>AI first:</strong> We use AI to move faster with higher-quality results. We do this across the whole company—from engineering to growth to operations.</p>\n</li>\n<li>\n<p><strong>Excellence everywhere: </strong>Everything we do should match the quality of our AI models.</p>\n</li>\n<li>\n<p><strong>Global team: </strong>We prioritize your talent, not your location.</p>\n</li>\n</ul>\n<h2>What we offer</h2>\n<ul>\n<li>\n<p><strong>Innovative culture:</strong> You’ll be part of a generational opportunity to define the trajectory of AI, surrounded by a team pushing the boundaries of what’s possible.</p>\n</li>\n<li>\n<p><strong>Growth paths: </strong>Joining ElevenLabs means joining a dynamic team with countless opportunities to drive impact - beyond your immediate role and responsibilities.</p>\n</li>\n<li>\n<p><strong>Learning &#x26; development</strong>: ElevenLabs proactively supports professional development through an annual discretionary stipend.</p>\n</li>\n<li>\n<p><strong>Social travel</strong>: We also provide an annual discretionary stipend to meet up with colleagues each year, however you choose.</p>\n</li>\n<li>\n<p><strong>Annual company offsite: </strong>Each year, we bring the entire team together in a new location - past offsites have included Croatia and Italy.</p>\n</li>\n<li>\n<p><strong>Co-working</strong>: If you’re not located near one of our main hubs, we offer a monthly co-working stipend.</p>\n</li>\n</ul>\n<p><strong>About the role</strong></p>\n<p>We're looking for a Data Scientist - Product Analytics to join our Growth Data team. You'll own the analysis behind how people discover, adopt and stick with ElevenLabs' products, partnering closely with Product, Growth and the central Data team's certified metrics layer.</p>\n<ul>\n<li>\n<p>Define and own product health metrics: activation, feature adoption, retention and engagement across ElevenCreative, ElevenAgents and ElevenAPI.</p>\n</li>\n<li>\n<p>Design, analyse and communicate the results of product experiments (A/B tests, feature launches, onboarding changes).</p>\n</li>\n<li>\n<p>Partner with Analytics Engineering on the certified product KPI layer in dbt, and with Product on turning ambiguous questions into trusted analysis.</p>\n</li>\n<li>\n<p>Work alongside fellow Growth data scientists on marketing- and revenue-adjacent questions that touch the product funnel.</p>\n</li>\n</ul>\n<p><strong>Requirements</strong></p>\n<p>Demonstrated experience as a data scientist embedded with a product or growth team, ideally at a product-led company.</p>\n<ul>\n<li>\n<p><strong>Strong SQL and Python</strong>, with hands-on experience in experimentation (A/B testing) and product analytics.</p>\n</li>\n<li>\n<p><strong>Ability to translate ambiguous product questions</strong> into clear, reusable analysis and defensible metrics.</p>\n</li>\n<li>\n<p><strong>Comfort working directly with Product and Growth stakeholders</strong>, and pushing back on ill-defined asks.</p>\n</li>\n<li>\n<p><strong>Structured thinker</strong> who can move fast without sacrificing rigour.</p>\n</li>\n</ul>\n<p><strong>Bonus</strong></p>\n<ul>\n<li>\n<p>Experience with activation / retention modelling or lifecycle analytics at a consumer or prosumer product.</p>\n</li>\n<li>\n<p>Experience with dbt or a modern warehouse, partnering directly with analytics engineers.</p>\n</li>\n<li>\n<p>Experience using AI tools or agents to speed up analysis or enable self-serve data access.</p>\n</li>\n</ul>\n<p><strong>Growth potential</strong></p>\n<p>We believe in hiring the best talent in the world to make an impact in the right role at the right time. At ElevenLabs, strong performance creates opportunities for growth. Here are some of the career paths you can expect after excelling in this role:</p>\n<ul>\n<li>\n<p>Grow into a Senior or Staff Product Data Scientist role as the Growth Data team scales.</p>\n</li>\n<li>\n<p>Expand scope across additional product lines (ElevenAgents, ElevenAPI).</p>\n</li>\n<li>\n<p>Path into a Growth Data Science lead or broader data leadership track.</p>\n</li>\n</ul>\n<h2><strong>Location</strong></h2>\n<p>This role is remote-first, so it can be executed from anywhere in Europe, with the ability to operate in GMT and GMT+1 timezones. If you prefer, you can work from our offices in London and Warsaw.</p>\n<p>#LI-Remote</p>\n<p>We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or other legally protected statuses.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/data-scientist-product-analytics-elevenlabs</p>",
+      "posted_at": "2026-10-21T00:00:00+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
       "id": "60b9bdb5-dc1f-423a-9474-83a2af0a86bc",
       "title": "Senior Analytics Engineer / BI Lead — Channel Insights (iX360)",
       "url": "https://remotejobs.org/remote-jobs/senior-analytics-engineer-bi-lead-channel-insights-ix360-toptal",
@@ -13745,88 +13850,6 @@
       "direct_apply": null,
       "description": "<p>1inch is the DeFi ecosystem building financial freedom for everyone. 1inch products help users and builders trade, hold and track digital assets - with the self-custody, comprehensive security and the intuitive user experience they need to unlock the potential of true crypto ownership. 1inch protocols and APIs provide core infrastructure across the DeFi industry and beyond. So if you're someone who thinks big, moves fast and wants to make an impact right from day one, then get ready to join our industry-changing team.</p>\n<h2>Your mission</h2>\n<p>As Data &#x26; Analytics Lead, your mission is to turn complex business and product questions into reliable, actionable answers.</p>\n<p>You will combine AI, data analytics, data engineering, and deep DeFi expertise to build a more intelligent and scalable approach to decision-making. You will use AI not just to accelerate existing analytics, but to rethink how we explore data, test hypotheses, identify patterns, and make insights accessible across the organization.</p>\n<p>You will be highly hands-on, with expert-level Dune capabilities and a strong understanding of DEXes, DEX aggregators, on-chain data, liquidity, routing, and market dynamics.</p>\n<h2>What you’ll do</h2>\n<ul>\n<li>\n<p>Create intuitive ways for teams to explore trusted data using AI, natural language, dashboards, and other analytical interfaces.</p>\n</li>\n<li>\n<p>Build AI-enabled workflows and agents that accelerate analysis, uncover insights, and reduce repetitive analytical work, ensuring AI-generated answers are grounded in trusted data, transparent, and verifiable.</p>\n</li>\n<li>\n<p>Turn complex and ambiguous business and product questions into structured analyses, clear insights, and actionable answers.</p>\n</li>\n<li>\n<p>Develop metrics and analytical frameworks that connect user behavior, product performance, on-chain activity, market dynamics, and business outcomes.</p>\n</li>\n<li>\n<p>Proactively identify trends, anomalies, opportunities, and risks, and establish standards for analytical quality, metrics, dashboards, and decision support.</p>\n</li>\n<li>\n<p>Design and evolve data architecture, models, pipelines, and transformations, integrating on-chain and off-chain data into reliable, scalable, and reusable data products.</p>\n</li>\n<li>\n<p>Ensure data is accurate, well-structured, documented, discoverable, and accessible to people and AI systems, with strong standards for quality, observability, maintainability, and performance.</p>\n</li>\n<li>\n<p>Use Dune at an expert level to investigate DEX aggregators, DEXes, swaps, liquidity, routing, users, protocols, and markets, building reusable on-chain datasets and analytical models.</p>\n</li>\n<li>\n<p>Combine blockchain, product, and business data to create a comprehensive view of users, ecosystem activity, and market dynamics, and continuously explore new data sources and analytical approaches.</p>\n</li>\n</ul>\n<h2>Who you are</h2>\n<ul>\n<li>\n<p>Deep understanding of DeFi and blockchain data, particularly DEXes and DEX aggregators, including swaps, liquidity, routing, transactions, events, traces, and smart-contract interactions.</p>\n</li>\n<li>\n<p>Expert-level Dune skills, with advanced SQL proficiency and demonstrated experience building sophisticated on-chain queries, datasets, dashboards, and analyses.</p>\n</li>\n<li>\n<p>Strong AI-native way of working, with advanced hands-on experience using Cursor to accelerate analytics and engineering, automate workflows, and build AI-enabled data solutions.</p>\n</li>\n<li>\n<p>Strong proficiency in Python for data analysis, data processing, automation, and AI-enabled workflows.</p>\n</li>\n<li>\n<p>Hands-on experience building and operating modern data platforms with ClickHouse and Airflow, including data modeling, pipelines, transformations, data quality, and observability.</p>\n</li>\n<li>\n<p>Proven ability to turn ambiguous business and product questions into structured hypotheses, robust analyses, and clear, actionable answers.</p>\n</li>\n</ul>\n<h2>Nice to haves</h2>\n<ul>\n<li>\n<p>Experience working directly within a DEX, DEX aggregator, DeFi protocol, or other data-intensive Web3 product.</p>\n</li>\n<li>\n<p>Experience working with raw multi-chain blockchain data, including decoding contracts, events, traces, and transactions.</p>\n</li>\n<li>\n<p>Experience applying statistical methods, experimentation, forecasting, or anomaly detection to product and business questions.</p>\n</li>\n<li>\n<p>A strong public track record in the DeFi data ecosystem, such as high-quality Dune dashboards, research, open-source contributions, or community analytics.</p>\n</li>\n</ul><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/data-analytics-lead-1inch</p>",
       "posted_at": "2026-10-15T09:56:11.37+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "59a99fd0-faba-46fa-8a79-039e87b7db54",
-      "title": "Lead Engineer - AI-Native Email App",
-      "url": "https://remotejobs.org/remote-jobs/lead-engineer-ai-native-email-app-bjak",
-      "apply_url": "https://remotejobs.org/remote-jobs/lead-engineer-ai-native-email-app-bjak",
-      "company": {
-        "name": "Bjak",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/9efddc26f506bb66e171d6d141f7e5b2e00966a73d5ad72e1ca6b8b9358acc1d.jpeg",
-        "website": "https://bjak.com",
-        "url": "https://remotejobs.org/companies/bjak"
-      },
-      "category": {
-        "name": "Data Science",
-        "slug": "data-science"
-      },
-      "location": "Thailand",
-      "location_normalization": {
-        "raw": "Thailand",
-        "input": {},
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "TH"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "worldwide",
-        "status": "known",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [],
-        "evidence_ids": [
-          "c1"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "remote",
-        "allowed_countries": [],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-sonnet-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": true
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": "lead",
-        "role_family": null,
-        "required_skills": [],
-        "mentioned_skills": [],
-        "preferred_skills": [],
-        "experience_requirements": []
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": null,
-      "salary_period": "year",
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<h2><strong>About BJAK</strong></h2>\n<p>The original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name.</p>\n<p>Started in 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, its the leading insurance platform in Southeast Asia.</p>\n<p>Today, we are expanding ways to help people in the region — this includes spending, saving, investing, exchanging, travelling, and more. Our mission is help people get more from their money every day.</p>\n<p>We have teams working around the world, with over 20 nationalities from our offices and remotely, who truly enjoys their work. We are looking for the most talented and driven people we can find. We are looking for people who work for their passion, not counting hours. Who loves building great next-generation products, not status quo. Who cares about redefining how everyone around us can get the best financial applications, not for an exclusive few.</p>\n<h2>The Role</h2>\n<p>We are looking for a <strong>Lead Engineer</strong> to take technical ownership of complex products and systems and raise the engineering bar across the team.</p>\n<p>This is a hands-on technical leadership role. You will be expected to design systems, write and review code, solve difficult engineering problems, guide other engineers and drive major initiatives from idea to production.</p>\n<p>You should be comfortable moving between architecture and implementation — making strong technical decisions while still being close enough to the code to execute when needed.</p>\n<h2>What You'll Own</h2>\n<ul>\n<li>\n<p>Lead the technical design and execution of major products, features and engineering initiatives.</p>\n</li>\n<li>\n<p>Design scalable, reliable and maintainable systems across backend, frontend, APIs, databases and infrastructure.</p>\n</li>\n<li>\n<p>Stay hands-on with engineering through coding, prototyping, code reviews, debugging and production problem-solving.</p>\n</li>\n<li>\n<p>Make architecture decisions and technical trade-offs that balance speed, scalability, reliability and maintainability.</p>\n</li>\n<li>\n<p>Break ambiguous product and technical problems into clear engineering solutions and execution plans.</p>\n</li>\n<li>\n<p>Set a high bar for code quality, system design, testing, security, observability and production reliability.</p>\n</li>\n<li>\n<p>Review technical designs and code from other engineers and provide clear, actionable feedback.</p>\n</li>\n<li>\n<p>Mentor engineers and help strengthen technical capability across the team.</p>\n</li>\n<li>\n<p>Identify technical risks, bottlenecks and architectural weaknesses before they become larger problems.</p>\n</li>\n<li>\n<p>Work closely with engineering, product, design and AI teams to ship high-quality products quickly.</p>\n</li>\n<li>\n<p>Improve engineering tooling, development practices and automation to increase team velocity.</p>\n</li>\n<li>\n<p>Own systems beyond release — monitor production, investigate incidents, resolve root causes and continuously improve reliability.</p>\n</li>\n</ul>\n<h2>What We're Looking For</h2>\n<ul>\n<li>\n<p>Strong software engineering background with significant experience building and shipping production systems.</p>\n</li>\n<li>\n<p>Deep technical expertise in one or more areas such as backend, frontend, distributed systems, APIs, databases or cloud infrastructure.</p>\n</li>\n<li>\n<p>Strong system design and architecture skills with experience making technical decisions for complex or high-scale systems.</p>\n</li>\n<li>\n<p>Strong coding ability and willingness to remain hands-on.</p>\n</li>\n<li>\n<p>Proven experience leading major engineering projects or providing technical leadership to other engineers.</p>\n</li>\n<li>\n<p>Comfortable reviewing code, debugging complex issues and working directly with production systems.</p>\n</li>\n<li>\n<p>Able to explain complex technical decisions clearly and influence engineers across teams.</p>\n</li>\n<li>\n<p>Strong product sense and ability to connect technical decisions to customer and business outcomes.</p>\n</li>\n<li>\n<p>Able to work fast with ambiguity and take ownership from problem definition through production.</p>\n</li>\n<li>\n<p>Strong judgment around when to move quickly, when to simplify and when deeper engineering investment is required.</p>\n</li>\n</ul>\n<h2>This Role Is Not For</h2>\n<ul>\n<li>\n<p>Engineers who want a leadership title but no longer want to write or review code.</p>\n</li>\n<li>\n<p>People who only want to work within one narrow technical area.</p>\n</li>\n<li>\n<p>Engineers who wait for complete specifications before starting.</p>\n</li>\n<li>\n<p>Candidates who over-engineer solutions when a simpler approach would achieve the outcome.</p>\n</li>\n<li>\n<p>Engineers who focus only on implementation without understanding the product or business problem.</p>\n</li>\n<li>\n<p>People who avoid production incidents, difficult debugging or ownership after release.</p>\n</li>\n<li>\n<p>Candidates who make vague claims about technical leadership without being able to explain what they personally designed, built, shipped or scaled.</p>\n</li>\n</ul>\n<h2>The Bar</h2>\n<p>We are looking for technical leaders with real engineering career highlights.</p>\n<p>A strong highlight is not simply having a senior title or working at a famous technology company. A strong highlight means you personally designed, built, shipped or scaled a serious product, platform or system and can go deep into the technical decisions behind it.</p>\n<p>You should be able to demonstrate both technical depth and technical leadership — someone who can solve difficult engineering problems personally while making the engineers around them stronger.</p>\n<h2>Location</h2>\n<p>This is a <strong>remote role</strong>. We hire globally and work across multiple countries and time zones.</p>\n<p>Candidates should be comfortable working effectively in a distributed, fast-moving international team and collaborating with colleagues across different locations.</p>\n<h2>Language</h2>\n<p>English is our main working language across global teams. Strong English communication is required.</p>\n<h2>Interview Process</h2>\n<h2>Our process is designed to move fast:</h2>\n<ol>\n<li>\n<h2>Online assessment or practical task</h2>\n</li>\n<li>\n<h2>Technical interview</h2>\n</li>\n<li>\n<h2>CEO / final round</h2>\n</li>\n</ol>\n<p>For strong candidates, we aim to complete the process and make an offer within <strong>1 week</strong> from the start of the interview process. Candidates who complete assessments quickly will be prioritized.</p>\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/lead-engineer-ai-native-email-app-bjak</p>",
-      "posted_at": "2026-10-15T04:41:28+00:00",
       "is_translated": false,
       "original_language": null
     }
