@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-22T16:45:59.446Z",
-  "count": 187,
+  "generatedAt": "2026-10-22T21:17:54.476Z",
+  "count": 189,
   "jobs": [
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr",
@@ -1561,6 +1561,36 @@
       ],
       "postedAt": "Wed, 23 Sep 2026 07:31:13 +0000",
       "category": "product"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/toptal-senior-deployment-engineer-with-llm-and-gpu-infrastructure-experience",
+      "source": "weworkremotely",
+      "title": "Senior Deployment Engineer with LLM and GPU Infrastructure experience",
+      "company": "Toptal",
+      "url": "https://weworkremotely.com/remote-jobs/toptal-senior-deployment-engineer-with-llm-and-gpu-infrastructure-experience",
+      "description": "Headquarters: Summary We are seeking an Infrastructure Engineer for Air-gapped LLM Deployments to support secure, large-scale software deployments in GPU-based environments. The role focuses on deploying LLM workloads in air-gapped settings and establishing observability with Grafana and Prometheus, with onsite presence in Riyadh required for two weeks per month. General information They need a senior engineer who can take ownership of complex deployments across isolated or air-gapped environments. The role will involve working with GPU infrastructure for LLM workloads and ensuring systems can be deployed, monitored, and maintained reliably at scale. The engineer should be comfortable troubleshooting infrastructure and deployment issues, automating deployment processes, and working with ob",
+      "location": "EMEA Only",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Thu, 22 Oct 2026 18:59:03 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/toptal-ai-engineer-agentic-systems",
+      "source": "weworkremotely",
+      "title": "AI Engineer - Agentic Systems",
+      "company": "Toptal",
+      "url": "https://weworkremotely.com/remote-jobs/toptal-ai-engineer-agentic-systems",
+      "description": "Headquarters: Summary We are seeking a highly hands-on AI Engineer with a proven track record of shipping agentic AI systems into production for enterprise environments. In this role, you will design, build, and deploy production-grade AI agents capable of multi-agent orchestration, complex tool execution, and dynamic context management. You will implement robust safety guardrails and integrate frontier models using leading agent frameworks and cloud infrastructure. This position is remote within the US (East Coast time zone slightly preferred) with minimal travel required. Tasks and Deliverables Design and deploy autonomous and multi-agent orchestration workflows capable of executing complex, multi-step enterprise processes. Implement structured tool-use frameworks and integrate external ",
+      "location": "USA Only",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Thu, 22 Oct 2026 18:54:42 +0000",
+      "category": "full-stack"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/moonshot-solidity-rust-remote",

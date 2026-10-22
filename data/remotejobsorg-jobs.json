@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T16:45:55.730Z",
+  "generatedAt": "2026-10-22T21:17:50.402Z",
   "count": 150,
   "data": [
     {
@@ -5966,7 +5966,40 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [
+          {
+            "kind": "timezone",
+            "areas": [],
+            "effect": "require",
+            "details": "Located in CET timezone (+/- 3 hours), we are unable to consider applications from candidates in other time zones.",
+            "regions": [],
+            "timezones": [],
+            "evidence_id": "c2",
+            "conditional_on": null
+          }
+        ],
+        "unresolved": [
+          "Applicants must be located in the CET timezone (+/- 3 hours); candidates in other time zones are not considered. This range cannot be represented with IANA timezone identifiers."
+        ],
+        "evidence_ids": [
+          "c2"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
