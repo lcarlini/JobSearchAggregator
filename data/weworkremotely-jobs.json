@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-22T03:30:47.865Z",
-  "count": 183,
+  "generatedAt": "2026-10-22T11:18:30.747Z",
+  "count": 186,
   "jobs": [
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr",
@@ -573,21 +573,6 @@
       "category": "devops"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/beyondtrust-cloud-engineer",
-      "source": "weworkremotely",
-      "title": "Cloud Engineer",
-      "company": "BeyondTrust",
-      "url": "https://weworkremotely.com/remote-jobs/beyondtrust-cloud-engineer",
-      "description": "Headquarters: Remote Canada | Remote United States BeyondTrust is a place where you can bring your purpose to life through the work that you do, creating a safer world through our cybersecurity SaaS portfolio. Our culture of flexibility, trust, and continual learning means you will be recognized for your growth, and for the impact you make on our success. You will be surrounded by people who challenge, support, and inspire you to be the best version of yourself. The Role The Cloud Engineer designs, secures, and supports mission-critical cloud infrastructure that enables reliable services for users worldwide. The successful candidate demonstrates strong technical judgment, operational discipline, and the ability to apply practical solutions to complex cloud engineering challenges. What You’",
-      "location": "Anywhere in the World",
-      "tags": [
-        "DevOps and Sysadmin",
-        "devops"
-      ],
-      "postedAt": "Wed, 07 Oct 2026 07:30:53 +0000",
-      "category": "devops"
-    },
-    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/pagerduty-principal-solutions-consultant",
       "source": "weworkremotely",
       "title": "Principal Solutions Consultant",
@@ -735,21 +720,6 @@
         "design"
       ],
       "postedAt": "Mon, 19 Oct 2026 07:31:25 +0000",
-      "category": "design"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/mercury-aml-investigator-iii",
-      "source": "weworkremotely",
-      "title": "AML Investigator III",
-      "company": "Mercury",
-      "url": "https://weworkremotely.com/remote-jobs/mercury-aml-investigator-iii",
-      "description": "Headquarters: San Francisco, CA, New York, NY, Portland, OR, or Remote within United States Mercury is building a complete finance stack for startups. We work hard to create the easiest and safest banking* experience possible to simplify entrepreneurs' and business owners’ financial lives.The challenge is to do so while ensuring we protect Mercury, customers and the broader financial ecosystem from bad actors and harmful, illegal or unauthorized activities. Our AML Investigations team is crucial in this mission and is responsible for detecting suspicious activity, conducting thorough investigations, and shutting down bad actors. This team is growing and we’re looking to hire an additional AML Risk Investigator to help us with Bank Partner Requests for Information, Transaction Monitoring, F",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Design",
-        "design"
-      ],
-      "postedAt": "Sun, 18 Oct 2026 07:31:05 +0000",
       "category": "design"
     },
     {
@@ -1188,6 +1158,21 @@
       "category": "design"
     },
     {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/maven-clinic-director-pm-payments-client-success",
+      "source": "weworkremotely",
+      "title": "Director PM, Payments & Client Success",
+      "company": "Maven Clinic",
+      "url": "https://weworkremotely.com/remote-jobs/maven-clinic-director-pm-payments-client-success",
+      "description": "Headquarters: San Francisco, CA; Remote, US Maven Clinic is the world's largest virtual clinic for women and families on a mission to make healthcare work for all of us. Through Maven Enterprise, the company partners with more than 2,300 employers and health plans to provide end-to-end women's and family health programs spanning fertility and family building, maternity and newborn care, parenting and pediatrics, and menopause and midlife — improving clinical outcomes, reducing healthcare costs, and expanding equitable access to high-quality care at scale. Through its consumer platform, Maven provides direct access to virtual care across 30+ specialties, as well as dedicated hormone and GLP-1 care programs purpose-built for women. Founded in 2014 by CEO Kate Ryder, Maven Clinic has raised m",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Product",
+        "product"
+      ],
+      "postedAt": "Thu, 22 Oct 2026 07:30:54 +0000",
+      "category": "product"
+    },
+    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/upsun-product-manager",
       "source": "weworkremotely",
       "title": "Product Manager",
@@ -1578,6 +1563,81 @@
       "category": "product"
     },
     {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/affirm-analytics-engineer-ii-full-stack-revenue-analytics",
+      "source": "weworkremotely",
+      "title": "Analytics Engineer II, Full Stack (Revenue Analytics)",
+      "company": "Affirm",
+      "url": "https://weworkremotely.com/remote-jobs/affirm-analytics-engineer-ii-full-stack-revenue-analytics",
+      "description": "Headquarters: Remote Poland At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. We’re looking for a curious, driven professional to join our Revenue Analytics team. This builds and owns the data products, reporting infrastructure, semantic foundations, and analytical systems that power Affirm’s Revenue organization. As a Senior Analyst, Revenue Analytics, you’ll build scalable data products that power day-to-day decision-making - owning end-to-end work across data modeling, metric definitions, dashboards, automation, and enablement.&nbsp; You’ll also help strengthen our semantic layer and data governance, laying the foundation for reliable AI. The ideal candidate c",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Thu, 22 Oct 2026 07:31:25 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/netlify-senior-staff-data-scientist",
+      "source": "weworkremotely",
+      "title": "Senior Staff Data Scientist",
+      "company": "Netlify",
+      "url": "https://weworkremotely.com/remote-jobs/netlify-senior-staff-data-scientist",
+      "description": "Headquarters: Remote About the Team: Netlify’s Data team helps the company understand and improve the full product-led growth journey, from activation and engagement through conversion, retention, and monetization. We partner closely with Product, Engineering, and Growth to uncover opportunities, evaluate investments, and understand what drives customer and business outcomes. We’re hiring a Senior Staff Data Scientist to deepen how data shapes our product and growth strategy. You’ll develop an end-to-end understanding of the PLG journey, proactively identify opportunities, and turn complex data into hypotheses, experiments, and recommendations that influence where we invest and what we build. This is a highly autonomous role for someone who can move from identifying an important question t",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Thu, 22 Oct 2026 07:31:14 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/mercury-business-continuity-management-lead",
+      "source": "weworkremotely",
+      "title": "Business Continuity Management Lead",
+      "company": "Mercury",
+      "url": "https://weworkremotely.com/remote-jobs/mercury-business-continuity-management-lead",
+      "description": "Headquarters: San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States About the Role Mercury is seeking a Business Continuity Management (BCM) Lead to build and lead an enterprise-wide continuity program as we prepare to become a bank. As part of the Risk team, this leader will establish practical standards, clear accountability, and tested capabilities to maintain critical services and recover effectively from disruptions, with direct visibility to the CRO and senior leadership. This role fills the need for a dedicated leader to coordinate BCM across the organization. The ideal candidate combines deep continuity and resilience expertise with the judgment to build a proportionate program in a fast-moving environment, working effectively with Engineering, Ope",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Thu, 22 Oct 2026 07:31:14 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/offerup-software-development-engineer-ii-remote-colombia",
+      "source": "weworkremotely",
+      "title": "Software Development Engineer II (Remote @ Colombia)",
+      "company": "OfferUp",
+      "url": "https://weworkremotely.com/remote-jobs/offerup-software-development-engineer-ii-remote-colombia",
+      "description": "Headquarters: Remote @ Colombia About the role:&nbsp; The OfferUp Connect team builds the moments that turn a listing into a sale. Every chat between buyers and sellers, every offer notification, and every saved-search alert runs through services we own, from messaging and notifications to location, meetups, and the subscriptions sellers pay for. We run high-volume Java microservices and streaming pipelines, integrate with partners like Braze, Amazon Pinpoint, Apple, and Google, and use experimentation to decide what ships. We also take on high-visibility work beyond our domain. Connect built OfferUp's video infrastructure for listing videos and LLM-powered catalog enrichment on Amazon Bedrock, both company priorities that changed what buyers see every day. The roadmap is wide open for som",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Thu, 22 Oct 2026 07:31:08 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/maven-clinic-head-of-member-growth-b2b2c",
+      "source": "weworkremotely",
+      "title": "Head of Member Growth (B2B2C)",
+      "company": "Maven Clinic",
+      "url": "https://weworkremotely.com/remote-jobs/maven-clinic-head-of-member-growth-b2b2c",
+      "description": "Headquarters: New York, NY; Remote, US (Hub cities) Maven Clinic is the world's largest virtual clinic for women and families on a mission to make healthcare work for all of us. Through Maven Enterprise, the company partners with more than 2,300 employers and health plans to provide end-to-end women's and family health programs spanning fertility and family building, maternity and newborn care, parenting and pediatrics, and menopause and midlife — improving clinical outcomes, reducing healthcare costs, and expanding equitable access to high-quality care at scale. Through its consumer platform, Maven provides direct access to virtual care across 30+ specialties, as well as dedicated hormone and GLP-1 care programs purpose-built for women. Founded in 2014 by CEO Kate Ryder, Maven Clinic has ",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Thu, 22 Oct 2026 07:31:08 +0000",
+      "category": "full-stack"
+    },
+    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/lemon-io-senior-vue-developer-1",
       "source": "weworkremotely",
       "title": "Senior Vue Developer",
@@ -1740,21 +1800,6 @@
         "full-stack"
       ],
       "postedAt": "Mon, 19 Oct 2026 09:29:00 +0000",
-      "category": "full-stack"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/expel-systems-engineer",
-      "source": "weworkremotely",
-      "title": "Systems Engineer",
-      "company": "Expel",
-      "url": "https://weworkremotely.com/remote-jobs/expel-systems-engineer",
-      "description": "Headquarters: Remote Are you looking for a role where you're critical to every part of the business? Do you want to help ensure that our teams deliver software so that our analysts can deliver service to our customers? How about being a crucial part of making sure our internal teams operate efficiently? You're not afraid of new technology. In fact, you love diving in and figuring out how it works. Whether it's a successful launch or a few bumps in the road, you're always up for a challenge. Balancing multiple projects at once is no easy feat, but when everything clicks into place, there's nothing quite like that sense of satisfaction. The best part of the job? Seeing someone use a capability you've built and hearing them exclaim, \"Wow, I can't believe how easy that was.\" You care about the",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Mon, 19 Oct 2026 07:31:25 +0000",
       "category": "full-stack"
     },
     {
@@ -2418,6 +2463,36 @@
       "category": "full-stack"
     },
     {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/netlify-senior-marketing-operations-manager",
+      "source": "weworkremotely",
+      "title": "Senior Marketing Operations Manager",
+      "company": "Netlify",
+      "url": "https://weworkremotely.com/remote-jobs/netlify-senior-marketing-operations-manager",
+      "description": "Headquarters: Remote About the Team Netlify is a product-led growth company, and Revenue Operations owns the systems, data, and infrastructure that turn that growth into revenue.&nbsp; With a large volume of people discovering and signing up for Netlify every day, Marketing Operations is critical to understanding those users, connecting activity across our systems, and creating scalable ways to engage them throughout their journey. As Senior Marketing Operations Manager, you’ll own the operational foundation behind that work. You’ll connect HubSpot, Salesforce, product data, and analytics, build the systems and lifecycle infrastructure that turn signals into action, and give Marketing and our GTM partners trusted visibility into performance. Reporting to the Senior Director of Revenue Oper",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Management and Finance",
+        "management"
+      ],
+      "postedAt": "Thu, 22 Oct 2026 07:31:09 +0000",
+      "category": "management"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/storyblok-marketing-automation-manager-canada-spain-india",
+      "source": "weworkremotely",
+      "title": "Marketing Automation Manager - Canada, Spain, India",
+      "company": "Storyblok",
+      "url": "https://weworkremotely.com/remote-jobs/storyblok-marketing-automation-manager-canada-spain-india",
+      "description": "Headquarters: Remote Storyblok is a headless CMS that enables marketers and developers to create with joy and publish with confidence. It empowers you to deliver structured and consistent content everywhere: websites, apps, AI search, and beyond. Legendary brands like Virgin Media O2, Oatly, and TomTom use Storyblok to make a bigger, faster market impact. &nbsp; WHAT IS IN IT FOR YOU You will be joining a growing company where you can contribute to many “firsts”. Plus these benefits: Monthly remote work stipend (home internet costs, electricity). Home office equipment package right at the start (laptop, keyboard, monitor…) Home office equipment upgrade (furniture, ear plugs …) or membership to a local co-working space after your onboarding Sick leave benefit, parental leave and 25 days of ",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Management and Finance",
+        "management"
+      ],
+      "postedAt": "Thu, 22 Oct 2026 07:31:08 +0000",
+      "category": "management"
+    },
+    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/ping-identity-chief-of-staff-cco",
       "source": "weworkremotely",
       "title": "Chief of Staff, CCO",
@@ -2508,21 +2583,6 @@
       "category": "management"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/clover-health-contract-technical-recruiter",
-      "source": "weworkremotely",
-      "title": "Contract Technical Recruiter",
-      "company": "Clover Health",
-      "url": "https://weworkremotely.com/remote-jobs/clover-health-contract-technical-recruiter",
-      "description": "Headquarters: Remote - USA Clover Health’s People Operations team is the strategic force behind our human capital management. We attract and recruit top talent and we’re proud of our data-driven approach to talent engagement and feel privileged to support our global workforce. We’re looking for an experienced Contract Technical Recruiter to join our high-performing Talent Acquisition team for a six-month engagement supporting our subsidiary, Counterpart Health, partnering with stakeholders across every team to understand business objectives, develop strategic hiring plans, and recruit amazing talent. Our ideal candidate has experience recruiting for a variety of technical skill sets ideally in the HealthTech space and is eager to take on the challenge of our growing company and working wit",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Management and Finance",
-        "management"
-      ],
-      "postedAt": "Fri, 16 Oct 2026 07:31:00 +0000",
-      "category": "management"
-    },
-    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/airbnb-senior-manager-quality-volume-tiers",
       "source": "weworkremotely",
       "title": "Senior Manager, Quality, Volume Tiers",
@@ -2580,21 +2640,6 @@
         "management"
       ],
       "postedAt": "Sat, 10 Oct 2026 07:31:08 +0000",
-      "category": "management"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/faire-senior-business-recruiter",
-      "source": "weworkremotely",
-      "title": "Senior Business Recruiter",
-      "company": "Faire",
-      "url": "https://weworkremotely.com/remote-jobs/faire-senior-business-recruiter",
-      "description": "Headquarters: Kitchener-Waterloo, ON; Remote - Canada (British Columbia, Alberta, Nova Scotia); Toronto, ON About Faire Faire is a technology wholesale platform built on the belief that the future is local. Independent retailers around the globe collectively represent a multi-hundred-billion-dollar wholesale market that has historically been fragmented and offline. At Faire, we're using the power of tech, data, and machine learning to connect this thriving community of entrepreneurs across the globe. Picture your favorite boutique in town — we help them discover the best products from around the world to sell in their stores. With the right tools and insights, we believe that we can level the playing field so businesses can grow and local communities can thrive. We’re looking for smart, re",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Management and Finance",
-        "management"
-      ],
-      "postedAt": "Thu, 08 Oct 2026 07:31:21 +0000",
       "category": "management"
     },
     {
