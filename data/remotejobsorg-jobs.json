@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T11:10:08.134Z",
+  "generatedAt": "2026-10-23T16:36:41.521Z",
   "count": 150,
   "data": [
     {
@@ -2713,6 +2713,204 @@
       "original_language": null
     },
     {
+      "id": "34e7e637-bfde-4a60-9e21-564dfab8fe61",
+      "title": "Software Engineer 2 - Development Infrastructure",
+      "url": "https://remotejobs.org/remote-jobs/software-engineer-2-development-infrastructure-abnormal",
+      "apply_url": "https://remotejobs.org/remote-jobs/software-engineer-2-development-infrastructure-abnormal",
+      "company": {
+        "name": "Abnormal",
+        "logo_url": null,
+        "website": "https://assets.contentstack.io",
+        "url": "https://remotejobs.org/companies/abnormal"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "USA",
+      "location_normalization": {
+        "raw": "USA",
+        "input": {},
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": null,
+        "role_family": "software-engineering",
+        "required_skills": [],
+        "mentioned_skills": [
+          "docker",
+          "golang",
+          "kubernetes",
+          "python"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": [
+          {
+            "text": "3+ years of professional experience as a hands-on engineer building backend systems and/or platforms",
+            "maximum_years": null,
+            "minimum_years": 3,
+            "classification": "mentioned"
+          },
+          {
+            "text": "2+ years of experience",
+            "maximum_years": null,
+            "minimum_years": 2,
+            "classification": "mentioned"
+          }
+        ]
+      },
+      "salary_min": 149200,
+      "salary_max": 214500,
+      "salary_text": "USD 149,200–214,500/year",
+      "salary_source_text": null,
+      "salary_currency": "USD",
+      "salary_period": "year",
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "11605936",
+      "direct_apply": null,
+      "description": "<p><strong>About the Role</strong></p><p>Abnormal AI empowers businesses of all sizes to combat cybercrime through our innovative cloud products. To achieve our mission, we're building a suite of interconnected security solutions on a unified platform, designed to operate flawlessly in global data centers.</p><p>The Development Infrastructure team plays a critical role in multiplying the impact of our product teams. We create an environment that fosters high-quality software development, and engineering excellence. This team has become instrumental in the success of our engineering organization.</p><p>You are someone who:</p><ul><li>Thrives in a collaborative, fast-paced environment</li><li>Possesses a passion for helping others build world-class systems</li><li>Demonstrates exceptional teamwork skills</li><li>Embraces continuous learning and enjoys tackling complex problems</li></ul><p><strong><strong>What you will do</strong></strong></p><ul><li>Lead the design and delivery of complex, multi-component features and systems of the Development Infrastructure team's offerings, and shape the roadmap for this area.</li><li>Develop and maintain CI/CD infrastructure and tools for Engineering to develop and ship their changes reliably with less effort.</li><li>Design and implement enhancements to GHA infrastructure, base Docker images and build/deploy pipelines with improvements in scalability, performance and costs.</li><li>Use AI tools to explore and compare solutions, and adapt the generated changes to real production constraints, weighing system complexity and long-term maintainability.</li><li>Take ownership of on-call issues, including complex issues where the root cause is unclear, and fix the systemic gaps behind them.</li><li>Participate in planning, code reviews, standups, and other aspects of the software development life cycle, and coach other engineers on the team.</li></ul><p><strong>Must Haves</strong></p><ul><li>3+ years of professional experience as a hands-on engineer building backend systems and/or platforms.</li><li>2+ years of experience working with Python.</li><li>Experience delivering complex projects end-to-end in a cloud native environment.</li><li>Experience building or operating CI/CD, build, or deployment systems in production, including on-call and incident response.</li><li>Understanding of distributed systems, containerization and microservices.</li><li>Practical experience using Generative AI tools in day-to-day engineering workflows.</li></ul><p><strong>Nice to Haves</strong></p><ul><li>Experience creating and maintaining CI/CD systems.</li><li>Experience with GitHub Actions.</li><li>Experience with Go.</li><li>Experience with Bazel.</li><li>Experience working on or with teams like “Engineering Effectiveness”, “Engineering Productivity”, “Development Experience”, “Development Infrastructure” or similar.</li><li>Knowledge of Docker, Kubernetes, or similar technologies.</li><li>Familiarity with Generative AI tools such as Codex and Claude, and experience driving AI-first workflows and solutions.</li></ul><p>#LI-ML1</p><p>Actual compensation will be determined based on several non-discriminatory factors including skills, experience, qualifications, and geographic location.<br>In addition to base salary, this role may be eligible for bonus or incentive compensation, equity, and a comprehensive benefits package.</p><p>Base salary range:</p><p>$149,200—$214,500 USD</p><p><strong>A note on AI in our process: <br></strong>Abnormal AI uses AI-assisted tools to help our recruiting team prepare for candidate interviews. These tools analyze resume content and role requirements to suggest interview questions and areas for the interviewer to explore.They do not make hiring decisions or screen candidates automatically. Every decision about a candidacy is made by a person. Further, if your application is successful and Abnormal AI makes a conditional offer of employment, we will carry out pre-employment checks which must be successfully completed to progress to a final offer. All processes and pre-employment checks are in line with prevailing legislation and Abnormal AI's policies relevant to our security and privacy standards.</p><p>Abnormal AI is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status or other characteristics protected by law. For our EEO policy statement please <em>click here</em>. If you would like more information on your EEO rights under the law, please <em>click here</em>.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/software-engineer-2-development-infrastructure-abnormal</p>",
+      "posted_at": "2026-10-22T00:00:00+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "59c2b61f-3819-4b56-bfc6-e81b622f15b1",
+      "title": "Software Engineer 1 - Data Platforms",
+      "url": "https://remotejobs.org/remote-jobs/software-engineer-1-data-platforms-abnormal",
+      "apply_url": "https://remotejobs.org/remote-jobs/software-engineer-1-data-platforms-abnormal",
+      "company": {
+        "name": "Abnormal",
+        "logo_url": null,
+        "website": "https://assets.contentstack.io",
+        "url": "https://remotejobs.org/companies/abnormal"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "USA",
+      "location_normalization": {
+        "raw": "USA",
+        "input": {},
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": null,
+        "role_family": "software-engineering",
+        "required_skills": [],
+        "mentioned_skills": [
+          "aws",
+          "golang",
+          "postgresql",
+          "python"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": [
+          {
+            "text": "1+ years of professional experience in software engineering: backend, distributed systems, or infrastructure preferred",
+            "maximum_years": null,
+            "minimum_years": 1,
+            "classification": "preferred"
+          }
+        ]
+      },
+      "salary_min": 122400,
+      "salary_max": 176000,
+      "salary_text": "USD 122,400–176,000/year",
+      "salary_source_text": null,
+      "salary_currency": "USD",
+      "salary_period": "year",
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "11320792",
+      "direct_apply": null,
+      "description": "<p><strong>About the Role</strong></p><p>Enterprises of all sizes trust Abnormal AI’s cloud products to stop cybercrime. These AI-native, data-intensive SaaS applications depend on fast, reliable, and secure access to massive datasets. That’s where the <strong>Data Platform</strong> team comes in: designing and operating scalable storage systems (PostgreSQL, OpenSearch, Redis, RocksDB, DynamoDB), batch and stream data processing (Kafka, Spark), orchestration (Airflow, DBT), and more.</p><p>We build and maintain the core infrastructure that powers Abnormal’s most data-heavy workloads, providing scalable, reliable, and efficient data platforms and services to all of engineering and data science. We also create tools that make this infrastructure simple to operate and integrate, enabling teams to deliver faster with confidence.</p><p>We’re looking for a <strong>Software Engineer I</strong> who is eager to learn and ready to take on meaningful technical challenges. You’ll work alongside experienced engineers, contribute to ambitious projects, and grow your skills while helping to scale the systems that support Abnormal’s rapid growth.</p><p><strong>What you will do </strong></p><ul><li>Contribute to the design, development, and operation of core components of Abnormal’s data platform.</li><li>Build tools and services that make it easy for other teams to adopt and scale data systems.</li><li>Help automate infrastructure and operations to improve reliability, performance, and scalability.</li><li>Apply cutting-edge GenAI techniques to build smarter developer and operator experiences.</li><li>Collaborate across engineering teams to solve scalability and reliability challenges.</li><li>Take ownership of projects, delivering features end-to-end with guidance from senior engineers.</li></ul><p><strong>What you bring</strong></p><ul><li>1+ years of professional experience in software engineering: backend, distributed systems, or infrastructure preferred.</li><li>Solid programming skills in Python, Go, or a similar language (school, personal, or work experience all count).</li><li>Strong software engineering fundamentals like data structures, clean code, testing, and debugging.</li><li>Interest in learning about AWS, Databricks, and technologies in our stack (databases, streaming, orchestration).</li><li>Curiosity, problem-solving skills, and a willingness to ask questions.</li><li>Ability to work both independently and as part of a team, and strong communication skills.</li></ul><p><strong>Nice to Have (but you can also learn here)</strong></p><ul><li>Experience with one or more of: Kafka, Kinesis, Flink.</li><li>Familiarity with cloud platforms (AWS, GCP, Azure).</li><li>Exposure to large-scale or data-intensive systems.</li></ul><p><strong>Why you’ll love it here</strong></p><ul><li>You’ll be part of a high-impact team solving problems that matter.</li><li>You’ll learn from and work with experienced engineers in a collaborative, supportive environment.</li><li>You’ll get real opportunities for ownership and career growth early in your journey.</li><li>You’ll help shape the future of our data platform at a fast-growing, AI-first company.</li></ul><p>#LI-ML1</p><p>Actual compensation will be determined based on several non-discriminatory factors including skills, experience, qualifications, and geographic location.<br>In addition to base salary, this role may be eligible for bonus or incentive compensation, equity, and a comprehensive benefits package.</p><p>Base salary range:</p><p>$122,400—$176,000 USD</p><p><strong>A note on AI in our process: <br></strong>Abnormal AI uses AI-assisted tools to help our recruiting team prepare for candidate interviews. These tools analyze resume content and role requirements to suggest interview questions and areas for the interviewer to explore.They do not make hiring decisions or screen candidates automatically. Every decision about a candidacy is made by a person. Further, if your application is successful and Abnormal AI makes a conditional offer of employment, we will carry out pre-employment checks which must be successfully completed to progress to a final offer. All processes and pre-employment checks are in line with prevailing legislation and Abnormal AI's policies relevant to our security and privacy standards.</p><p>Abnormal AI is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status or other characteristics protected by law. For our EEO policy statement please <em>click here</em>. If you would like more information on your EEO rights under the law, please <em>click here</em>.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/software-engineer-1-data-platforms-abnormal</p>",
+      "posted_at": "2026-10-22T00:00:00+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
       "id": "9fbd8953-32fc-4108-b9fd-83f31929caff",
       "title": "Senior Software Engineer, Data Infrastructure (RDBMS) (LATAM)",
       "url": "https://remotejobs.org/remote-jobs/senior-software-engineer-data-infrastructure-rdbms-latam-trm-labs",
@@ -4490,192 +4688,6 @@
       "original_language": null
     },
     {
-      "id": "d756bdde-83f2-45f7-8319-a83224b17602",
-      "title": "Salesforce Developer for Org Ownership and Ongoing Platform Development",
-      "url": "https://remotejobs.org/remote-jobs/salesforce-developer-for-org-ownership-and-ongoing-platform-development-toptal",
-      "apply_url": "https://remotejobs.org/remote-jobs/salesforce-developer-for-org-ownership-and-ongoing-platform-development-toptal",
-      "company": {
-        "name": "Toptal",
-        "logo_url": "https://we-work-remotely.imgix.net/logos/0171/4777/logo.gif",
-        "website": "https://we-work-remotely.imgix.net",
-        "url": "https://remotejobs.org/companies/toptal"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "North America Only",
-      "location_normalization": {
-        "raw": "North America Only",
-        "input": {},
-        "scope": "restricted",
-        "status": "partial",
-        "regions": [
-          "north america"
-        ],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "partial",
-        "regions": [
-          "north america"
-        ],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [
-          "The job-location header 'North America Only' (location:1) is a regional restriction whose member countries and subdivisions are not enumerated in the posting, so its applicant market cannot be represented as ISO 3166 areas.",
-          "Unresolved area: location:1"
-        ],
-        "evidence_ids": [
-          "source-location"
-        ],
-        "allowed_regions": [
-          "North America"
-        ],
-        "work_arrangement": "unknown",
-        "allowed_countries": [],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "unknown",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": null,
-        "role_family": null,
-        "required_skills": [],
-        "mentioned_skills": [],
-        "preferred_skills": [],
-        "experience_requirements": []
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": null,
-      "salary_period": null,
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<p><strong>Headquarters:</strong></p>\n<p>Summary</p>\n<p>We are seeking a Salesforce developer to support and manage an existing Salesforce org. The role focuses on developing and rolling out new features, maintaining the org’s architecture, and ensuring updates align with existing processes.</p>\n<p>General information</p>\n<p>This engagement centers on ongoing Salesforce development and org management. The developer will work closely with project managers and internal teams to understand business needs, assess how the current org is structured, and carry requested enhancements through to completion while preserving compatibility with existing workflows.</p>\n<p>Tasks and Deliverables</p>\n<p>Support and manage the existing Salesforce org.</p>\n<p>Develop and roll out new Salesforce features.</p>\n<p>Understand the current org structure and configuration.</p>\n<p>Maintain the org’s architecture over time.</p>\n<p>Ensure updates work with existing processes and workflows.</p>\n<p>Collaborate with project managers and internal teams on requirements.</p>\n<p>Carry Salesforce enhancements through to completion.</p>\n<p>Required experience</p>\n<p>Strong Salesforce development experience.</p>\n<p>Solid understanding of the Salesforce platform.</p>\n<p>Experience maintaining and evolving Salesforce org architecture.</p>\n<p>Ability to support ongoing Salesforce development and maintenance.</p>\n<p>Experience translating stakeholder needs into completed Salesforce solutions.</p>\n<p>Strong collaboration skills with project managers and internal teams.</p>\n<p>Engagement highlights</p>\n<p>Full-time engagement with an estimated duration of 6-12 months.</p>\n<p>Ownership of ongoing development and architectural maintenance within a live Salesforce org.</p>\n<p>Direct collaboration with project managers and internal stakeholders on feature delivery.</p>\n<p><strong>To apply:</strong> https://weworkremotely.com/remote-jobs/toptal-salesforce-developer-for-org-ownership-and-ongoing-platform-development</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/salesforce-developer-for-org-ownership-and-ongoing-platform-development-toptal</p>",
-      "posted_at": "2026-10-20T17:54:13+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "17cc14d8-7c36-43b3-ac64-f02eb826c145",
-      "title": "Forward Deployed Engineer - Spanish",
-      "url": "https://remotejobs.org/remote-jobs/forward-deployed-engineer-spanish-fonio",
-      "apply_url": "https://remotejobs.org/remote-jobs/forward-deployed-engineer-spanish-fonio",
-      "company": {
-        "name": "Fonio",
-        "logo_url": null,
-        "website": "https://fonio.com",
-        "url": "https://remotejobs.org/companies/fonio"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "European Union",
-      "location_normalization": {
-        "raw": "European Union",
-        "input": {
-          "workArrangement": "remote"
-        },
-        "scope": "restricted",
-        "status": "partial",
-        "regions": [
-          "european union"
-        ],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "remote",
-        "allowed_countries": [],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "partial",
-        "regions": [
-          "european union"
-        ],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [
-          "The location header lists European Union, but the description states the role is for the Spanish market and does not explicitly say whether applicants must reside in Spain or may be based elsewhere in the EU, so the full applicant market cannot be confirmed.",
-          "Unresolved area: location:1"
-        ],
-        "evidence_ids": [
-          "source-location"
-        ],
-        "allowed_regions": [
-          "European Union"
-        ],
-        "work_arrangement": "unknown",
-        "allowed_countries": [],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": null,
-        "role_family": null,
-        "required_skills": [],
-        "mentioned_skills": [
-          "golang"
-        ],
-        "preferred_skills": [
-          "python",
-          "sql",
-          "typescript"
-        ],
-        "experience_requirements": []
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": null,
-      "salary_period": null,
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": "bb12bdde-c53c-4443-8dcd-a7bc0085d689",
-      "direct_apply": null,
-      "description": "<h2>About fonio</h2><p><strong>We grew from $1M to $10M ARR in under 12 months and now serve 10,000+ customers.</strong></p><p>Fonio is Europe’s market leader for AI phone agents for SMBs. Now we’re expanding globally and into new products.<br>We move fast, take ownership, give direct feedback, and avoid politics and unnecessary meetings.<br>Join one of <strong>Europe’s fastest-growing companies</strong>.</p><h3>Your Role</h3><p>As a <strong>Forward Deployed Engineer</strong> for our for our <em>Spanish market</em>, you work directly at the intersection of product and customer setups. You capture requirements, translate them into robust implementations, and take fonio live at customers – including integrations, automations, and ongoing optimization.</p><p><br>You work closely with Product/Engineering and Go-to-Market, making sure deployments are fast, stable, and repeatable across <em>the Spanish market</em>.</p><h3>What you'll do</h3><p><br>• Capture customer requirements and translate them into concrete implementation plans<br>• Build and roll out fonio setups in production: workflows, logic, prompts, guardrails<br>• Implement integrations with third-party systems (APIs, webhooks, CRM, calendar, ticketing, etc.)<br>• Develop smaller features and glue code to cleanly map customer cases<br>• Debug under production conditions: calls, flows, edge cases, fast fixes<br>• Build reusable templates and deployment playbooks to make setups scalable<br>• Deliver product feedback: bring pain points and feature gaps to the team, prioritized and concrete</p><h3><br><strong>Who we're looking for</strong></h3><p><br>• Solid coding skills: you can implement independently, not just configure<br>• Strong understanding of AI systems and LLMs (prompting, tool-use, RAG, failure modes)<br>• Workflow thinking: translate complex processes into robust, testable flows<br>• Experience with APIs, webhooks, auth, and common integration patterns<br>• Cloud fundamentals: deployments, observability, debugging in production<br>• Highly pragmatic working style: ship fast, make it stable, iterate<br>• Bonus: Voice/Telephony, n8n, TypeScript/Python, SQL, monitoring/tracing, GDPR<br>• <strong>Spanish</strong><em><strong> </strong></em>at native or near-native level + solid English</p><h3>What we offer</h3><p><br>• Competitive salary: <em><strong>€60,000–€95,000</strong></em> per year<br>• <strong>100% Focus Time</strong> (no regular meetings)<br>• <strong>Unlimited budget</strong> when the ROI is right<br>• Extreme <strong>speed</strong> (we ship almost daily)<br>• Thousands of enthusiastic customers building the product together with us</p><p><br><strong>Hiring Process</strong></p><ul><li><p>25 min intro</p></li><li><p>30 min deep dive with CTO &#x26; Co-Founder Matthias</p></li><li><p>20 min culture fit with one of our founders</p></li></ul><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/forward-deployed-engineer-spanish-fonio</p>",
-      "posted_at": "2026-10-20T16:15:05.084+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
       "id": "75fc1722-a759-4de5-8e48-b9b4d981fff3",
       "title": "Platform Engineer III",
       "url": "https://remotejobs.org/remote-jobs/platform-engineer-iii-grupo-boticrio",
@@ -5135,6 +5147,115 @@
       "direct_apply": null,
       "description": "<p><strong>About <a href=\"https://jobicy.com/company/nebius\">Nebius</a>:</strong></p>\n<p>Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure.</p>\n<p>Built by engineers, for engineers. From large-scale GPU orchestration to inference optimization, we own the hard problems across compute, storage, networking and applied AI.</p>\n<p>Listed on Nasdaq (NBIS) and headquartered in Amsterdam, we have a global footprint with R&#x26;D hubs across Europe, the UK, North America and Israel. Our team of 1,500+ includes hundreds of engineers with deep expertise across hardware, software and AI R&#x26;D.</p>\n<h2><strong>The role</strong></h2>\n<p>We are seeking an experienced, customer-obsessed <strong>Principal Solutions Architect – Middle East</strong> to lead technical engagement with Nebius' most strategic customers across the Gulf region. This is a senior, high-impact role focused on complex presales, large-scale ML workloads, and end-to-end customer solution ownership—from early discovery through production adoption.</p>\n<p>As a Principal Solutions Architect, you will act as a trusted technical partner for executive stakeholders, AI/ML leaders, and platform teams. You will shape solution strategy, drive complex PoCs, influence product direction, and ensure successful adoption of Nebius AI Cloud for mission-critical AI/ML workloads across the Middle East.</p>\n<p>The ideal candidate has extensive experience working with enterprise organizations in the Gulf region, understands the local technology landscape, and can effectively engage both business and technical stakeholders ideally in Arabic and English.</p>\n<p>You're welcome to work remotely from the <strong>Middle East</strong>, with preference for candidates based in the <strong>United Arab Emirates</strong>.</p>\n<p><strong>Your responsibilities will include:</strong></p>\n<ul>\n<li>Own end-to-end technical presales and solution delivery for strategic and enterprise customers across the Middle East, from initial discovery through PoC, architecture design, and production readiness.</li>\n<li>Serve as a trusted technical advisor to senior customer stakeholders (CTO, Head of ML, Platform Engineering, AI Infrastructure teams).</li>\n<li>Lead complex ML/AI infrastructure and MLOps architectures, including large-scale training and inference workloads on GPU-accelerated cloud platforms.</li>\n<li>Design, validate, and document reference architectures, Infrastructure-as-Code solutions, and best-practice deployment patterns using Nebius AI.</li>\n<li>Drive and execute advanced PoCs, workshops, architecture reviews, and executive-level presentations to demonstrate value and accelerate customer adoption.</li>\n<li>Build trusted relationships with customers across government, enterprise, AI-native, and digital-native organizations throughout the Gulf region.</li>\n<li>Partner closely with Sales, Product, Engineering, and Support to represent real-world customer requirements and influence product roadmap decisions.</li>\n<li>Act as a single point of technical authority for key customer scenarios across internal teams (Product, Support, Marketing).</li>\n<li>Support strategic marketing initiatives including conferences, hackathons, webinars, customer case studies, and technical thought leadership across the Middle East.</li>\n<li>Mentor and provide technical leadership to other Solutions Architects, helping raise the overall technical bar of the organization.</li>\n</ul>\n<p><strong>We expect you to have:</strong></p>\n<ul>\n<li>10+ years of experience in senior technical roles such as Solutions Architect, Systems Architect, ML Platform Engineer, or similar, with significant customer-facing responsibilities.</li>\n<li>Deep expertise in cloud infrastructure, distributed systems, networking, storage, Kubernetes, containers, and GPU-accelerated computing.</li>\n<li>Strong understanding of AI/ML infrastructure, MLOps platforms, model training, inference, and large-scale GPU environments.</li>\n<li>Experience designing and delivering complex enterprise architectures and technical solutions for strategic customers.</li>\n<li>Excellent communication and executive presentation skills, with the ability to translate complex technical concepts into business value.</li>\n<li>Demonstrated experience leading technical discovery sessions, architecture workshops, and proof-of-concepts.</li>\n<li>Experience collaborating with Sales, Product, Engineering, and Customer Success organizations.</li>\n<li><strong>Strong experience working with enterprise customers across the Gulf Cooperation Council (GCC), including the UAE, Saudi Arabia, Qatar, Kuwait, Bahrain, and Oman.</strong></li>\n<li><strong>Strong understanding of the regional technology ecosystem, procurement processes, and customer landscape in the Gulf countries.</strong></li>\n<li><strong>Native or fluent Arabic and professional English are required.</strong></li>\n<li>Ability to travel across the Middle East as required.</li>\n</ul>\n<p><strong>It will be an added bonus if you have:</strong></p>\n<ul>\n<li>Experience working with hyperscale cloud providers or AI infrastructure companies.</li>\n<li>Experience supporting sovereign cloud, government, or regulated industry customers.</li>\n<li>Knowledge of modern AI frameworks, distributed training technologies, and open-source AI tooling.</li>\n<li>Public speaking experience at industry conferences or technical community events.</li>\n<li>Existing relationships within the regional AI, cloud, or enterprise technology ecosystem.</li>\n</ul>\n<p><strong>Benefits &#x26; Perks:</strong></p>\n<ul>\n<li>Competitive compensation</li>\n<li>Career growth and learning opportunities</li>\n<li>Flexibility and ownership</li>\n<li>Collaborative and innovative culture</li>\n<li>Opportunity to work on impactful AI projects</li>\n<li>International environment and talented teams</li>\n</ul>\n<p><strong>What's it like to work at Nebius:</strong></p>\n<p>Fast moving - Bold thinking - Constant growth - Meaningful impact - Trust and real ownership - Opportunity to shape the future of AI</p>\n<p><strong>Equal Opportunity Statement:</strong></p>\n<p>Nebius is an equal opportunity employer. We are committed to fostering an inclusive and diverse workplace and to providing equal employment opportunities in all aspects of employment. We do not discriminate on the basis of race, color, religion, sex (including pregnancy), national origin, ancestry, age, disability, genetic information, marital status, veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by applicable law.</p>\n<p>Applicants must be authorized to work in the country in which they apply and will be required to provide proof of employment eligibility as a condition of hire.</p>\n<p>If you need accommodations during the application process, please let us know.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/principal-solutions-architect-middle-east-nebius</p>",
       "posted_at": "2026-10-22T11:37:32+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "7d607444-882e-4fc1-a8fd-ee354fb7b14e",
+      "title": "Software Engineer 1 - Cloud Infrastructure",
+      "url": "https://remotejobs.org/remote-jobs/software-engineer-1-cloud-infrastructure-abnormal",
+      "apply_url": "https://remotejobs.org/remote-jobs/software-engineer-1-cloud-infrastructure-abnormal",
+      "company": {
+        "name": "Abnormal",
+        "logo_url": null,
+        "website": "https://assets.contentstack.io",
+        "url": "https://remotejobs.org/companies/abnormal"
+      },
+      "category": {
+        "name": "DevOps",
+        "slug": "devops"
+      },
+      "location": "USA",
+      "location_normalization": {
+        "raw": "USA",
+        "input": {},
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": null,
+        "role_family": "software-engineering",
+        "required_skills": [],
+        "mentioned_skills": [
+          "aws",
+          "golang",
+          "kubernetes",
+          "python",
+          "terraform"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": [
+          {
+            "text": "1-2 years of experience",
+            "maximum_years": 2,
+            "minimum_years": 1,
+            "classification": "mentioned"
+          },
+          {
+            "text": "1+ years of experience with Python",
+            "maximum_years": null,
+            "minimum_years": 1,
+            "classification": "mentioned"
+          },
+          {
+            "text": "1 year of experience with at least 2 of these areas: Terraform, AWS (or equivalent public cloud provider services), Kubernetes",
+            "maximum_years": null,
+            "minimum_years": 1,
+            "classification": "mentioned"
+          }
+        ]
+      },
+      "salary_min": 122400,
+      "salary_max": 176000,
+      "salary_text": "USD 122,400–176,000/year",
+      "salary_source_text": null,
+      "salary_currency": "USD",
+      "salary_period": "year",
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "11736088",
+      "direct_apply": null,
+      "description": "<p><strong>About the Role</strong></p><p>Abnormal AI is an AI-native behavioral security platform that protects enterprises from advanced threats by analyzing and understanding communication patterns and access behavior at scale. We now protect more than 25% of the Fortune 500, and as we expand into new product lines and geographies, a scalable, reliable infrastructure foundation is critical to our next phase of growth.</p><p>The Platform &#x26; Infrastructure team is seeking a strong Cloud Infrastructure Engineer to help design, build, and operate the core compute and business-critical infrastructure services that form the foundation of Abnormal’s product platform.</p><p><strong>What you will do</strong></p><ul><li>Design, build, test, scale, monitor, and maintain secure, cost-efficient infrastructure in a multi-cloud environment (AWS and Azure)</li><li>Develop, evolve, and operate infrastructure as code to support repeatable, auditable, and scalable system provisioning.</li><li>Drive design collaboration by participating in technical discussions and providing constructive reviews</li><li>Contribute as a core member of an agile team with a strong sense of ownership and teamwork.</li><li>Partner closely with product and application engineering teams to understand platform needs and deliver well-designed, developer-friendly infrastructure abstractions.</li><li>Participate in an on-call rotation with a learning-oriented mindset, gaining insight into customer pain points, identifying systemic gaps, and driving long-term reliability improvements.</li><li>Drive down technical debt and operational toil by addressing root causes, automating repetitive work, and shaping roadmap investments to sustainably reduce both.</li><li>Use AI as a primary way to explore, design, and ship solutions, and automate repetitive work and operational toil. Improve team and system context (docs, runbooks, AI skills) so AI-assisted work gets better for everyone.</li></ul><p><strong>Must Haves</strong></p><ul><li>Bachelor’s degree in Computer Science or a related technical field</li><li>1-2 years of experience engineering cloud infrastructure solutions for microservice-based systems in production environments, accounting for optimal performance, reliability, security and cost.</li><li>1+ years of experience with Python</li><li>6 months - 1 year of experience with at least 2 of these areas: Terraform, AWS (or equivalent public cloud provider services), Kubernetes. </li><li>Experience working within mature software development practices, including source control, testing, and deployment.</li><li>Experience with on-call rotations, incident response, and operating production-grade systems</li><li>Experience using AI coding tools (e.g., Claude Code, Codex) in daily engineering work, with the judgment to validate, simplify, and reject AI-generated output that doesn’t hold up in production.</li><li>Strong communication skills and the ability to thrive in a fast-paced, remote-first environment—balancing autonomy with collaboration, demonstrating a bias toward action, and maintaining a positive, constructive mindset.</li></ul><p><strong>Nice to Haves</strong></p><ul><li>Experience with Bash, Golang, and Terragrunt.</li><li>Prior experience building large-scale infrastructure-as-code abstractions.</li><li>AWS certifications.</li></ul><p>#LI-ML1</p><p>Actual compensation will be determined based on several non-discriminatory factors including skills, experience, qualifications, and geographic location.<br>In addition to base salary, this role may be eligible for bonus or incentive compensation, equity, and a comprehensive benefits package.</p><p>Base salary range:</p><p>$122,400—$176,000 USD</p><p><strong>A note on AI in our process: <br></strong>Abnormal AI uses AI-assisted tools to help our recruiting team prepare for candidate interviews. These tools analyze resume content and role requirements to suggest interview questions and areas for the interviewer to explore.They do not make hiring decisions or screen candidates automatically. Every decision about a candidacy is made by a person. Further, if your application is successful and Abnormal AI makes a conditional offer of employment, we will carry out pre-employment checks which must be successfully completed to progress to a final offer. All processes and pre-employment checks are in line with prevailing legislation and Abnormal AI's policies relevant to our security and privacy standards.</p><p>Abnormal AI is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status or other characteristics protected by law. For our EEO policy statement please <em>click here</em>. If you would like more information on your EEO rights under the law, please <em>click here</em>.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/software-engineer-1-cloud-infrastructure-abnormal</p>",
+      "posted_at": "2026-10-22T00:00:00+00:00",
       "is_translated": false,
       "original_language": null
     },
@@ -9173,95 +9294,6 @@
       "direct_apply": null,
       "description": "<h2>Forward Deployed Engineer / Implementation Engineer</h2>\n<p><strong>Remote, Montreal, QC, Canada. Full time.</strong><br>\nMust be located in QC, Canada. Travel up to 25 percent: team meetings, customer site visits when a customer asks for one, and occasional industry events.</p>\n<h2>About CWS</h2>\n<p>CWS builds and runs the security and cloud infrastructure companies depend on. We design, deploy, tune and operate production platforms across <strong>Montreal, QC, Canada</strong>: SIEM onboarding and detection engineering, cloud identity and access, edge and firewall platforms, security programs, data protection, and secure cloud environments built as code. We do not hand off at go-live. We run the managed service on top of what we build, so the systems we deploy stay tuned and defensible.</p>\n<p>We work through technology partners and directly with customers. Every engineer here works directly with the founders and owns a real customer outcome from day one.</p>\n<h2>Role &#x26; Responsibilities</h2>\n<p>As a Forward Deployed Engineer, you own the customer engagement end to end: you scope the work, architect the solution, build and configure it, prove it holds up, and hand over a system the customer's team can run without you. You are both the engineer and the person accountable for the result.</p>\n<p>You carry one to three engagements at a time, spanning cloud and infrastructure delivery (AWS, Google Cloud, infrastructure as code, networking, edge and firewall platforms) and security delivery (tool implementation, tuning, and assessments).</p>\n<ul>\n<li>Deploy, configure and integrate security and cloud platforms in customer environments, and prove they work before you hand them over.</li>\n<li>Plan and run your engagements: milestones, dependencies, acceptance criteria, and a weekly status the customer can read in two minutes.</li>\n<li>Raise risks early, and bring options and a recommendation with them.</li>\n<li>Write the as-built documentation and runbooks, run the knowledge transfer, and train the customer's team so they can operate without you.</li>\n<li>Contribute to managed-service work on platforms we run: health checks, tuning, and renewal assessments.</li>\n<li>Help scope new work: effort estimates, technical input to statements of work, and kickoff material.</li>\n<li>After each engagement, write down what changed between the plan and what it took, and turn it into an asset the team reuses.</li>\n</ul>\n<h2>Qualifications</h2>\n<ul>\n<li>Three to five years in security engineering, DevSecOps or platform engineering, or software engineering, including at least one year delivering into environments you did not own.</li>\n<li>Hands-on AWS, and working knowledge of Azure or Google Cloud: identity, networking, compute, storage, logging.</li>\n<li>Networking you can troubleshoot: DNS, routing, VPN, firewalls, load balancing, TLS.</li>\n<li>Infrastructure as code (Terraform or similar) and version control as daily habits.</li>\n<li>Python or TypeScript at a level where you build your own tooling.</li>\n<li>Security fundamentals across identity, endpoint, network and cloud posture, and the ability to explain a finding to a non-technical owner.</li>\n<li>Clear written and spoken English. You write your own status updates, as-builts and runbooks.</li>\n<li>Comfort working on your own. You take an ambiguous problem, break it down, decide what to build and what to configure, and ask for help early when you need it.</li>\n</ul>\n<p>You do not need to match every line. If you meet most of them and you learn fast, apply.</p>\n<h2>Nice to have:</h2>\n<ul>\n<li>Certifications: a cloud provider certification (security specialty preferred), a firewall or edge platform certification, a SIEM or security operations certification, CISSP, Security+ or a GIAC certification, or Kubernetes.</li>\n<li>Delivery experience in a consulting, professional services or managed security firm, where you owned a schedule and a customer relationship.</li>\n<li>French, spoken and written. Part of our delivery is in French.</li>\n<li>Detection engineering or security automation.</li>\n<li>Compliance context: SOC 2, ISO 27001, HIPAA, PCI DSS.</li>\n</ul>\n<h2>Compensation and benefits</h2>\n<ul>\n<li>Competitive salary</li>\n<li>Unlimited paid time off</li>\n<li>Dedicated mental health days</li>\n<li>Performance bonuses</li>\n<li>Learning and certification stipend</li>\n<li>Home office equipment</li>\n</ul>\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/forward-deployed-engineer-implementation-engineer-cws</p>",
       "posted_at": "2026-10-16T21:38:13+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "28c016f7-f6eb-4d5b-b2e7-0310d254b6d8",
-      "title": "Database Engineer",
-      "url": "https://remotejobs.org/remote-jobs/database-engineer-easy-consult-rs",
-      "apply_url": "https://remotejobs.org/remote-jobs/database-engineer-easy-consult-rs",
-      "company": {
-        "name": "Easy Consult RS",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/469fc61c1f13112a340b7c361cf98ec4dacd574e29ff92c8c2943d97937f6ba0.webp",
-        "website": null,
-        "url": "https://remotejobs.org/companies/easy-consult-rs"
-      },
-      "category": {
-        "name": "DevOps",
-        "slug": "devops"
-      },
-      "location": "Serbia",
-      "location_normalization": {
-        "raw": "Serbia",
-        "input": {},
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "RS"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [],
-        "evidence_ids": [
-          "source-location"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "RS"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-sonnet-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": null,
-        "role_family": null,
-        "required_skills": [],
-        "mentioned_skills": [
-          "aws",
-          "sql"
-        ],
-        "preferred_skills": [
-          "aws"
-        ],
-        "experience_requirements": []
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": null,
-      "salary_period": "year",
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<p>Our client is an innovative provider of award-winning biometric identity assurance software products and services focused on meeting the needs of governments and large commercial organizations worldwide. They are currently looking for highly motivated <strong>Database Engineers</strong> to join their engineering teams in Belgrade/Novi Sad.</p>\n<p>You will work with international engineering teams to help deliver and support database solutions for their identity assurance products. You will be responsible for and must be proficient in the development, implementation, maintenance and support of MySQL, SQL Server and Oracle databases running on a wide range of platforms. The role will also involve working with devops, support, professional services and sales teams when necessary for database level input and support.</p>\n<p>You have:</p>\n<blockquote>\n<ul>\n<li>Minimum of 3 years in a Database Administration role.</li>\n<li>Strong working experience with MySQL, SQL Server and Oracle databases.</li>\n<li>Practical experience of installing, monitoring and supporting production databases running on Linux/Unix/Windows, AWS EC2 and RDS. Knowledge of AWS Aurora experience would be beneficial.</li>\n<li>Working knowledge of database software and user security standards.</li>\n<li>Strong proficiency in SQL and SQL scripting with experience in PL/SQL, T-sql with perl and shell scripting experience.</li>\n<li>Knowledge of database design and modelling techniques with experience in a database modelling software like SAP Powerdesigner would be beneficial.</li>\n<li>Experience of tracking database schema and data changes from design to SQL script creation.</li>\n<li>Experience of large scale data manipulation for migrations, upgrades, archival, backup and recovery.</li>\n<li>Knowledge of high availability and scalability solutions like Oracle RAC, Oracle Dataguard, SQL Server failover clustering and AAG, MySQL InnoDB Cluster.</li>\n<li>Experience of defining and maintaining partitioning strategies and knowledge of replication technologies like Oracle Goldengate would be an advantage.</li>\n<li>Experience with AWS is a plus.</li>\n</ul>\n</blockquote>\n<p>What they offer:</p>\n<blockquote>\n<ul>\n<li>An opportunity to work in the growing world of biometric and identity management technologies</li>\n<li>The chance to be part of an established and successful product development team</li>\n<li>Competitive compensation and benefits</li>\n<li>Flexible working environment to create a very balanced work/life schedule for you and your family</li>\n</ul>\n</blockquote>\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/database-engineer-easy-consult-rs</p>",
-      "posted_at": "2026-10-16T21:34:20+00:00",
       "is_translated": false,
       "original_language": null
     },
