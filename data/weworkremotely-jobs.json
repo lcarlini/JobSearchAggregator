@@ -1,7 +1,22 @@
 {
-  "generatedAt": "2026-10-23T03:36:54.531Z",
-  "count": 189,
+  "generatedAt": "2026-10-23T11:10:11.777Z",
+  "count": 187,
   "jobs": [
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/a-team-senior-independent-ai-engineer-architect",
+      "source": "weworkremotely",
+      "title": "Senior Independent AI Engineer / Architect",
+      "company": "A.Team",
+      "url": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-ai-engineer-architect",
+      "description": "Headquarters: NYC and TLV URL: http://a.team/ai-jobs?utm_source=wwr&utm_medium=post&utm_campaign=wwrai Senior Independent AI Engineer / Architect Remote | Americas, Europe, or Israel Most AI engineers can find work. Finding work worth doing is harder. A.Team is an invite-only network of senior AI engineers, ML engineers, and AI architects working on production AI systems for startups, scale-ups, and global companies. Since 2020, builders in the network have earned more than $200M working with companies including Lyft, Google X, HCA, Unilever, Sightful, D-ID, and others. The Work You'll join small teams tackling problems that matter. Not demos. Not prototypes that never ship. Not another chatbot wrapper. Real systems. Real users. Real outcomes. Recent work has included: - LLM-powered produc",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "programming"
+      ],
+      "postedAt": "Sun, 16 Jun 2024 18:08:52 +0000",
+      "category": "programming"
+    },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr",
       "source": "weworkremotely",
@@ -348,19 +363,79 @@
       "category": "programming"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/glean-application-security-engineer",
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/ping-identity-channel-account-manager-1",
       "source": "weworkremotely",
-      "title": "Application Security Engineer",
-      "company": "Glean",
-      "url": "https://weworkremotely.com/remote-jobs/glean-application-security-engineer",
-      "description": "Headquarters: United States, Remote About Glean: &nbsp; Glean is the Work AI platform that helps everyone work smarter with AI. What began as the industry’s most advanced enterprise search has evolved into a full-scale Work AI ecosystem, powering intelligent Search, an AI Assistant, and scalable AI agents on one secure, open platform. With over 100 enterprise SaaS connectors, flexible LLM choice, and robust APIs, Glean gives organizations the infrastructure to govern, scale, and customize AI across their entire business - without vendor lock-in or costly implementation cycles. &nbsp; At its core, Glean is redefining how enterprises find, use, and act on knowledge. Its Enterprise Graph and Personal Knowledge Graph map the relationships between people, content, and activity, delivering deepl",
+      "title": "Channel Account Manager",
+      "company": "Ping Identity",
+      "url": "https://weworkremotely.com/remote-jobs/ping-identity-channel-account-manager-1",
+      "description": "Headquarters: AUS-Remote About Ping Identity:&nbsp; At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it's not just something we provide our customers. It's something that inspires our company. People don't come here to join a culture that's built on digital freedom. They come to cultivate it.&nbsp; Our intelligent, cloud identity platform lets people shop, work, bank, and interact wherever and however they want. Without friction. Without fear.&nbsp; While protecting digital identities is at the core of our technology, protecting individual identities is at the core of our culture.&nbsp; We champion every identity. One of our core values, Respect Individuality, reminds us to celebrate dif",
       "location": "Anywhere in the World",
       "tags": [
-        "Full-Stack Programming",
-        "programming"
+        "DevOps and Sysadmin",
+        "devops"
       ],
-      "postedAt": "Wed, 23 Sep 2026 07:31:13 +0000",
-      "category": "programming"
+      "postedAt": "Fri, 23 Oct 2026 07:31:21 +0000",
+      "category": "devops"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/beyondtrust-enterprise-account-manager-sled-1",
+      "source": "weworkremotely",
+      "title": "Enterprise Account Manager, SLED",
+      "company": "BeyondTrust",
+      "url": "https://weworkremotely.com/remote-jobs/beyondtrust-enterprise-account-manager-sled-1",
+      "description": "Headquarters: Remote Chicago, IL | Remote Detroit, MI | Remote Columbus, OH | Remote Indianapolis, IN BeyondTrust is a place where you can bring your purpose to life through the work that you do, creating a safer world through our cybersecurity SaaS portfolio. Our culture of flexibility, trust, and continual learning means you will be recognized for your growth, and for the impact you make on our success. You will be surrounded by people who challenge, support, and inspire you to be the best version of yourself. The Role Identify, generate, qualify, and close new business for customers and prospects in a defined territory.&nbsp; Responsible for managing the full sales lifecycle, building the go-to-market plan (including direct and indirect business).&nbsp; LOCATION: This is a remote role b",
+      "location": "Anywhere in the World",
+      "tags": [
+        "DevOps and Sysadmin",
+        "devops"
+      ],
+      "postedAt": "Fri, 23 Oct 2026 07:31:21 +0000",
+      "category": "devops"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/discord-qa-devops-engineer",
+      "source": "weworkremotely",
+      "title": "QA/DevOps Engineer",
+      "company": "Discord",
+      "url": "https://weworkremotely.com/remote-jobs/discord-qa-devops-engineer",
+      "description": "Headquarters: San Francisco Bay Area or Remote (U.S.) Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people to hang out before, during, and after playing games. We are seeking a QA/DevOps Engineer&nbsp;to join Discord’s Business Systems team. In this role, you will own automated test suite development and maintenance across Oracle ERP Cloud (Fusion) and Salesforce, with a focus on Tosca-based regression and progression testing. You will embed automated testing into CI/CD pipelines and partner closely with ERP Functional, Technical,",
+      "location": "Anywhere in the World",
+      "tags": [
+        "DevOps and Sysadmin",
+        "devops"
+      ],
+      "postedAt": "Fri, 23 Oct 2026 07:31:21 +0000",
+      "category": "devops"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/discord-engineering-manager-platform-security",
+      "source": "weworkremotely",
+      "title": "Engineering Manager, Platform Security",
+      "company": "Discord",
+      "url": "https://weworkremotely.com/remote-jobs/discord-engineering-manager-platform-security",
+      "description": "Headquarters: Remote (West Coast) Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people to hang out before, during, and after playing games. More broadly, Discord is about empowering people to find belonging in all kinds of communities, and those people trust us to keep their communications safe. Our Platform Security Engineering team protects the systems we use to create Discord, making the “secure way” the “easy way.” We’re looking for an Engineering Manager to lead a team of software engineers in articulating and pursuing the mo",
+      "location": "Anywhere in the World",
+      "tags": [
+        "DevOps and Sysadmin",
+        "devops"
+      ],
+      "postedAt": "Fri, 23 Oct 2026 07:31:21 +0000",
+      "category": "devops"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/ping-identity-channel-account-manager",
+      "source": "weworkremotely",
+      "title": "Channel Account Manager",
+      "company": "Ping Identity",
+      "url": "https://weworkremotely.com/remote-jobs/ping-identity-channel-account-manager",
+      "description": "Headquarters: USA - Remote About Ping Identity:&nbsp; At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it's not just something we provide our customers. It's something that inspires our company. People don't come here to join a culture that's built on digital freedom. They come to cultivate it.&nbsp; Our intelligent, cloud identity platform lets people shop, work, bank, and interact wherever and however they want. Without friction. Without fear.&nbsp; While protecting digital identities is at the core of our technology, protecting individual identities is at the core of our culture.&nbsp; We champion every identity. One of our core values, Respect Individuality, reminds us to celebrate d",
+      "location": "Anywhere in the World",
+      "tags": [
+        "DevOps and Sysadmin",
+        "devops"
+      ],
+      "postedAt": "Fri, 23 Oct 2026 07:31:06 +0000",
+      "category": "devops"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/carrot-director-information-security",
@@ -420,36 +495,6 @@
         "devops"
       ],
       "postedAt": "Sat, 17 Oct 2026 07:30:54 +0000",
-      "category": "devops"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/collibra-manager-professional-services",
-      "source": "weworkremotely",
-      "title": "Manager, Professional Services",
-      "company": "Collibra",
-      "url": "https://weworkremotely.com/remote-jobs/collibra-manager-professional-services",
-      "description": "Headquarters: Remote, USA Joining Collibra’s Professional Services Team At Collibra Public Sector, our Professional Services team relies on Federal Solution Architects to deliver on customer expectations for the services we sell, working directly with customer key projects stakeholders throughout the entire customer journey. Ensuring growth, adoption and renewal, Federal Solution Architects act as customer champions, ensuring customers are onboarded and realizing value rapidly. Managers, Professional Services at Collibra are responsible for&nbsp; Supporting federal customer engagements by delivering mission-aligned architectural design and execution of Collibra products that adhere to Collibra Public Sector’s Delivery Models, Engagement Processes, Methodologies, and Artifacts, while ensuri",
-      "location": "Anywhere in the World",
-      "tags": [
-        "DevOps and Sysadmin",
-        "devops"
-      ],
-      "postedAt": "Sat, 17 Oct 2026 07:30:50 +0000",
-      "category": "devops"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/beyondtrust-elearning-developer",
-      "source": "weworkremotely",
-      "title": "eLearning Developer",
-      "company": "BeyondTrust",
-      "url": "https://weworkremotely.com/remote-jobs/beyondtrust-elearning-developer",
-      "description": "Headquarters: Remote United States BeyondTrust is a place where you can bring your purpose to life through the work that you do, creating a safer world through our cybersecurity SaaS portfolio. Our culture of flexibility, trust, and continual learning means you will be recognized for your growth, and for the impact you make on our success. You will be surrounded by people who challenge, support, and inspire you to be the best version of yourself. The Role At BeyondTrust, we believe learning and training should be engaging, interactive, and impactful. The eLearning Developer plays a key role in bringing this vision to life by designing and delivering innovative, effective, and visually compelling training solutions. This position collaborates closely with Subject Matter Experts (SMEs) to cr",
-      "location": "Anywhere in the World",
-      "tags": [
-        "DevOps and Sysadmin",
-        "devops"
-      ],
-      "postedAt": "Fri, 16 Oct 2026 07:31:07 +0000",
       "category": "devops"
     },
     {
@@ -765,21 +810,6 @@
         "design"
       ],
       "postedAt": "Sat, 10 Oct 2026 07:30:40 +0000",
-      "category": "design"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/affirm-analyst",
-      "source": "weworkremotely",
-      "title": "Analyst",
-      "company": "Affirm",
-      "url": "https://weworkremotely.com/remote-jobs/affirm-analyst",
-      "description": "Headquarters: Remote US At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. About the Risk & Analytics Team The Risk & Analytics (R&A) team makes crucial decisions that direct Affirm’s business strategy. We partner with Machine Learning, Product, Engineering, Capital Markets, and Commercial teams to grow Affirm responsibly by optimizing approval, conversion, losses, and profitability. Operating across the entire customer and merchant lifecycle, we tackle a diverse array of challenges, from optimizing checkout conversion and mitigating fraud risk to building scalable data foundations and enabling international growth. We analyze performance not just to report on it,",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Design",
-        "design"
-      ],
-      "postedAt": "Fri, 09 Oct 2026 07:30:56 +0000",
       "category": "design"
     },
     {
@@ -1548,21 +1578,6 @@
       "category": "product"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/squarespace-senior-product-director-client-engagement-group",
-      "source": "weworkremotely",
-      "title": "Senior Product Director, Client Engagement Group",
-      "company": "Squarespace",
-      "url": "https://weworkremotely.com/remote-jobs/squarespace-senior-product-director-client-engagement-group",
-      "description": "Headquarters: Remote, United States At Squarespace, we empower our product teams to solve hard problems in ways that our customers love and strengthen our business. As Senior Director of Product for the Client Engagement Group (CEG), you will lead the product strategy and execution for Squarespace's customer engagement platform: the CRM, email campaigns, automations, and transactional communications that enable our merchants to build lasting customer relationships and grow their businesses on Squarespace. The Client Engagement Group sits at the center of Squarespace's growth strategy. Our marketing tools are a critical lever in increasing product attach, reducing merchant churn, and building a differentiated position in the service commerce landscape. You will own the vision for transformi",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Product",
-        "product"
-      ],
-      "postedAt": "Wed, 23 Sep 2026 07:31:13 +0000",
-      "category": "product"
-    },
-    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/toptal-senior-deployment-engineer-with-llm-and-gpu-infrastructure-experience",
       "source": "weworkremotely",
       "title": "Senior Deployment Engineer with LLM and GPU Infrastructure experience",
@@ -2103,21 +2118,6 @@
       "category": "full-stack"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/coinbase-analyst-privacy-privacy-assessments",
-      "source": "weworkremotely",
-      "title": "Analyst, Privacy (Privacy Assessments)",
-      "company": "Coinbase",
-      "url": "https://weworkremotely.com/remote-jobs/coinbase-analyst-privacy-privacy-assessments",
-      "description": "Headquarters: Remote - USA Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.”&nbsp; learn more about working at Coinbase . As a Privacy Analyst on the Privacy Operations team within Security, you'll play a central role in how Coinbase identifies and manages privacy risk across its pro",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Wed, 14 Oct 2026 07:30:48 +0000",
-      "category": "full-stack"
-    },
-    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/melio-senior-talent-acquisition-partner-contract",
       "source": "weworkremotely",
       "title": "Senior Talent Acquisition Partner (Contract)",
@@ -2343,21 +2343,6 @@
       "category": "full-stack"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/coinbase-analyst-privacy",
-      "source": "weworkremotely",
-      "title": "Analyst, Privacy",
-      "company": "Coinbase",
-      "url": "https://weworkremotely.com/remote-jobs/coinbase-analyst-privacy",
-      "description": "Headquarters: Remote - USA Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.”&nbsp; learn more about working at Coinbase . Coinbase's Privacy team is hiring a Privacy Analyst to own the Privacy Incident Management function, reporting to the Head of Privacy. You'll partner across Priva",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Wed, 07 Oct 2026 07:31:00 +0000",
-      "category": "full-stack"
-    },
-    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/dremio-software-engineer-query-execution",
       "source": "weworkremotely",
       "title": "Software Engineer - Query Execution",
@@ -2493,19 +2478,19 @@
       "category": "full-stack"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/a-team-senior-independent-ai-engineer-architect",
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/storyblok-salesforce-lead-usa",
       "source": "weworkremotely",
-      "title": "Senior Independent AI Engineer / Architect",
-      "company": "A.Team",
-      "url": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-ai-engineer-architect",
-      "description": "Headquarters: NYC and TLV URL: http://a.team/ai-jobs?utm_source=wwr&utm_medium=post&utm_campaign=wwrai Senior Independent AI Engineer / Architect Remote | Americas, Europe, or Israel Most AI engineers can find work. Finding work worth doing is harder. A.Team is an invite-only network of senior AI engineers, ML engineers, and AI architects working on production AI systems for startups, scale-ups, and global companies. Since 2020, builders in the network have earned more than $200M working with companies including Lyft, Google X, HCA, Unilever, Sightful, D-ID, and others. The Work You'll join small teams tackling problems that matter. Not demos. Not prototypes that never ship. Not another chatbot wrapper. Real systems. Real users. Real outcomes. Recent work has included: - LLM-powered produc",
+      "title": "Salesforce Lead - USA",
+      "company": "Storyblok",
+      "url": "https://weworkremotely.com/remote-jobs/storyblok-salesforce-lead-usa",
+      "description": "Headquarters: Remote Storyblok is a headless CMS that enables marketers and developers to create with joy and publish with confidence. It empowers you to deliver structured and consistent content everywhere: websites, apps, AI search, and beyond. Legendary brands like Virgin Media O2, Oatly, and TomTom use Storyblok to make a bigger, faster market impact. &nbsp; WHAT IS IN IT FOR YOU You will be joining a growing company where you can contribute to many “firsts”. Plus these benefits: Monthly remote work stipend (home internet costs, electricity). Home office equipment package right at the start (laptop, keyboard, monitor…) Home office equipment upgrade (furniture, ear plugs …) or membership to a local co-working space after your onboarding Sick leave benefit, parental leave and 25 days of ",
       "location": "Anywhere in the World",
       "tags": [
-        "Full-Stack Programming",
-        "full-stack"
+        "Management and Finance",
+        "management"
       ],
-      "postedAt": "Sun, 16 Jun 2024 18:08:52 +0000",
-      "category": "full-stack"
+      "postedAt": "Fri, 23 Oct 2026 07:31:21 +0000",
+      "category": "management"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/netlify-senior-marketing-operations-manager",
@@ -2670,21 +2655,6 @@
         "management"
       ],
       "postedAt": "Sun, 11 Oct 2026 07:30:56 +0000",
-      "category": "management"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/typeform-freelance-principal-recruiter",
-      "source": "weworkremotely",
-      "title": "Freelance Principal Recruiter",
-      "company": "Typeform",
-      "url": "https://weworkremotely.com/remote-jobs/typeform-freelance-principal-recruiter",
-      "description": "Headquarters: Germany (Remote) ; Ireland (Remote); Netherlands (Remote) ; Portugal (Remote) ; Spain (Remote) ; United Kingdom (Remote) Who we are Typeform is a refreshingly different form builder. We help over 150,000 businesses collect the data they need with forms, surveys, and quizzes that people enjoy. Designed to look striking and feel effortless to fill out, Typeform drives 500 million responses every year—and integrates with essential tools like Slack, Zapier, and Hubspot. About the Role We’re looking for a Freelance Principal Recruiter to join Typeform on an initial, full-time engagement .&nbsp;In this role, you’ll operate as a full-cycle Talent Acquisition Partner , owning hiring end-to-end across a mix of technical and business roles .&nbsp;You’ll work in a small, high-ownership ",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Management and Finance",
-        "management"
-      ],
-      "postedAt": "Sat, 10 Oct 2026 07:31:08 +0000",
       "category": "management"
     },
     {

@@ -1,7 +1,97 @@
 {
-  "generatedAt": "2026-10-23T03:36:51.366Z",
+  "generatedAt": "2026-10-23T11:10:08.134Z",
   "count": 150,
   "data": [
+    {
+      "id": "2345eb1f-c480-4947-9f7b-bf672b4a394d",
+      "title": "Senior Software Development Engineer",
+      "url": "https://remotejobs.org/remote-jobs/senior-software-development-engineer-lambda",
+      "apply_url": "https://remotejobs.org/remote-jobs/senior-software-development-engineer-lambda",
+      "company": {
+        "name": "Lambda",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/1f8fcacb7f6e8c312610b71a104b57662e8ee56ad246502a2ccddb142d95c4d2.jpeg",
+        "website": null,
+        "url": "https://remotejobs.org/companies/lambda"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "Bellevue Office",
+      "location_normalization": {
+        "raw": "Bellevue Office",
+        "input": {
+          "workArrangement": "hybrid"
+        },
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [
+          "bellevue office"
+        ],
+        "work_arrangement": "hybrid",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [
+          "Office presence requirement: this position requires presence in the Bellevue or San Francisco office location 4 days per week (description:3); the named office cities cannot be represented as applicant residence or state/country areas.",
+          "Unresolved area: description:3"
+        ],
+        "evidence_ids": [
+          "c1"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "hybrid",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": "senior",
+        "role_family": null,
+        "required_skills": [],
+        "mentioned_skills": [],
+        "preferred_skills": [
+          "kubernetes",
+          "terraform"
+        ],
+        "experience_requirements": []
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "f7b9f214-b395-4fd3-8fc7-934da0106064",
+      "direct_apply": null,
+      "description": "<p>Lambda, The Superintelligence Cloud, is a leader in AI cloud infrastructure serving tens of thousands of customers. Our customers range from AI researchers to enterprises and hyperscalers. Lambda's mission is to make compute as ubiquitous as electricity and give everyone the power of superintelligence. One person, one GPU.</p><p>If you'd like to build the world's best AI cloud, join us.</p><p><br>*Note: This position requires presence in our Bellevue or San Francisco office location 4 days per week; Lambda’s designated work from home day is currently Tuesday.<br></p><p><strong>What You’ll Do</strong></p><ul><li><p>Design, build, and operate the software that automates Lambda's network lifecycle, from data center build-out and device provisioning through day-2 operations</p></li><li><p>Build provisioning and zero-touch deployment systems that take network devices for new GPU clusters from racked to production-ready with minimal manual work</p></li><li><p>Develop pipelines that generate, validate, and deploy network configuration as code, with automated testing, staged rollouts, and safe rollback</p></li><li><p>Build capacity planning tools that combine inventory, topology, and utilization data to forecast port, bandwidth, optics, and IP address needs as Lambda's footprint grows</p></li><li><p>Keep intended and live network state in sync by integrating automation with Lambda's source-of-truth, inventory, and IPAM systems</p></li><li><p>Create APIs, services, and CLIs that network engineers and other internal teams use to request, change, and audit network resources</p></li><li><p>Instrument the systems you own with metrics, logging, and alerting, and use that data to improve their reliability and speed</p></li><li><p>Partner with Network Engineering, Data Center Operations, and platform teams to turn manual runbooks into reliable, self-service automation</p></li><li><p>Participate in the on-call rotation for the automation systems and tooling your team owns</p></li></ul><p><strong>You</strong></p><ul><li><p>Have 6+ years of professional software engineering experience building and operating production systems</p></li><li><p>Write production-quality code, with deep expertise in multiple languages</p></li><li><p>Have built automation or infrastructure tooling used by other engineers, such as provisioning systems, deployment pipelines, workflow engines, or internal APIs</p></li><li><p>Have a solid grasp of distributed systems design, including API design, data modeling, idempotency, and handling partial failures</p></li><li><p>Follow strong engineering practices: code review, automated testing, CI/CD, and git-based workflows</p></li><li><p>Are comfortable on the Linux command line and understand core networking concepts such as TCP/IP, DNS, DHCP, VLANs, and IP routing</p></li><li><p>Have led technical projects end to end, from design doc through production rollout, and mentored other engineers along the way</p></li><li><p>Communicate clearly with software engineers, network engineers, and operations teams, and can turn operational pain points into software requirements</p></li></ul><p><strong>Nice to Have</strong></p><ul><li><p>Experience in the networking domain, such as designing or operating data center networks (Clos/spine-leaf fabrics, BGP, EVPN/VXLAN, ECMP)</p></li><li><p>Experience automating network devices from vendors such as Arista, Juniper, Cisco, or NVIDIA (Cumulus/SONiC) through their APIs, NETCONF/gNMI, or Jinja templating</p></li><li><p>Familiarity with network automation tools and libraries such as Ansible, Nornir, Netmiko, NAPALM, or Terraform</p></li><li><p>Experience building on network source-of-truth, DCIM, or IPAM systems</p></li><li><p>Experience building capacity planning or forecasting tools, or working with large volumes of time-series telemetry</p></li><li><p>Familiarity with HPC/AI networking, such as InfiniBand or RoCEv2, at GPU cluster scale</p></li><li><p>Experience running services on Kubernetes</p></li><li><p>Understanding of data center power, space, and cooling constraints and how they shape build-out plans</p></li></ul><p><strong>Salary Range Information</strong></p><p>The annual salary range for this position has been set based on market data and other factors. However, a salary higher or lower than this range may be appropriate for a candidate whose qualifications differ meaningfully from those listed in the job description.<br></p><p><strong>About Lambda</strong></p><ul><li><p>Founded in 2012, with 500+ employees, and growing fast</p></li><li><p>Our investors notably include TWG Global, US Innovative Technology Fund (USIT), Andra Capital, SGW, Andrej Karpathy, ARK Invest, Fincadia Advisors, G Squared, In-Q-Tel (IQT), KHK &#x26; Partners, NVIDIA, Pegatron, Supermicro, Wistron, Wiwynn, Gradient Ventures, Mercato Partners, SVB, 1517, and Crescent Cove</p></li><li><p>We have research papers accepted at top machine learning and graphics conferences, including NeurIPS, ICCV, SIGGRAPH, and TOG</p></li><li><p>Our values are publicly available: <a href=\"https://lambda.ai/careers\">https://lambda.ai/careers</a></p></li><li><p>We offer generous cash &#x26; equity compensation</p></li><li><p>Health, dental, and vision coverage for you and your dependents</p></li><li><p>Wellness and commuter stipends for select roles</p></li><li><p>401k Plan with 2% company match (USA employees)</p></li><li><p>Flexible paid time off plan that we all actually use</p></li></ul><p><strong>Equal Opportunity Employer</strong></p><p>Lambda is an Equal Opportunity employer. Applicants are considered without regard to race, color, religion, creed, national origin, age, sex, gender, marital status, sexual orientation and identity, genetic information, veteran status, citizenship, or any other factors prohibited by local, state, or federal law.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-software-development-engineer-lambda</p>",
+      "posted_at": "2026-10-22T23:07:20.307+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
     {
       "id": "65f0b194-7f3e-45cc-bb93-3524a7307509",
       "title": "Full Time Senior Full-Stack Developer",
@@ -1347,6 +1437,105 @@
       "direct_apply": null,
       "description": "<p>At HCSC, our employees are the cornerstone of our business and the foundation to our success. We empower employees with curated development plans that foster growth and promote rewarding, fulfilling careers.</p>\n<p>Join HCSC and be part of a purpose-driven company that will invest in your professional development.</p>\n<h2><strong>Job Summary</strong></h2>\n<p>This Position Is Responsible For Acting As A Concierge To The Divisional Analytics Teams (Dats). It Will Use Its Deep Knowledge And Understanding Of Business Needs To Help The Dats Define &#x26; Execute A Data Strategy. It Will Coordinate The Development &#x26; Delivery Of Data Assets And Serve As A Single Point Of Contact For Issues / Escalations To Business Stakeholders.</p>\n<h2>Required Job Qualifications</h2>\n<ul>\n<li>Bachelor Degree and 4 years Information Technology OR Technical Certification and/or College Courses and 6 year Information Technology experience OR 8 years Information Technology experience.</li>\n</ul>\n<h2>* Knowledge of application configuration</h2>\n<h2>* Knowledge of Big Data Analytics</h2>\n<ul>\n<li>Knowledge of Cloud computing<br>\n* Knowledge of Integration Technologies<br>\n* Rapid prototyping<br>\n* Requirements definition &#x26; management<br>\n* SDLC Methodology - Agile / Scrum / Iterative Development<br>\n* System Performance management<br>\n* Conceptual thinking<br>\n* Creative thinking<br>\n* Problem solving and analytical thinking<br>\n* Strong oral/written communication skills<br>\n<br>\n<br>\nPreferred Job Qualifications:<br>\n* Bachelor Degree in Computer Science or Information Technology related<br>\n* Ability to execute<br>\n* Experience with Onboarding Data Systems</li>\n</ul>\n<p><strong>Are you being referred to one of our roles? If so, ask your connection at HCSC about our Employee Referral process!</strong></p>\n<h2>Pay Transparency Statement:</h2>\n<p>At Health Care Service Corporation, you will be part of an organization committed to offering meaningful benefits to our employees to support their life outside of work. From health and wellness benefits, 401(k) savings plan, pension plan, paid time off, paid parental leave, disability insurance, supplemental life insurance, employee assistance program, paid holidays, tuition reimbursement, plus other incentives, we offer a robust total rewards package for employees. Learn more about our benefit offerings by visiting .</p>\n<p>The compensation offered will vary depending on your job-related skills, education, knowledge, and experience. This role aligns with an annual incentive bonus plan subject to the terms and the conditions of the plan.</p>\n<p>This position may be performed remotely from anywhere within the continental United States, <strong>excluding California, New York, Alaska, and Hawaii</strong>.</p>\n<h2>HCSC Employment Statement:</h2>\n<p>We are an Equal Opportunity Employment employer dedicated to providing a welcoming environment where the unique differences of our employees are respected and valued. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or any other legally protected characteristics. We are a drug-free and smoke-free workplace. Employment may be contingent upon successful completion of drug screening in accordance with applicable law.</p>\n<h2><strong>Base Pay Range</strong></h2>\n<p>$92,700.00 - $167,500.00</p>\n<p>Exact compensation may vary based on skills, experience, and location.</p>\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/sr-systems-analyst-health-care-service-corporation</p>",
       "posted_at": "2026-10-22T19:53:30+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "eb70c038-c389-49f1-877d-4d1d14518149",
+      "title": ".NET Developer, SaaS Manager",
+      "url": "https://remotejobs.org/remote-jobs/net-developer-saas-manager-1password",
+      "apply_url": "https://remotejobs.org/remote-jobs/net-developer-saas-manager-1password",
+      "company": {
+        "name": "1Password",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/32f3b6ef758dff3134b7249f949bd338c1cd4d628fc4a0526da5ac5bacd9509d.webp",
+        "website": "https://1password.com",
+        "url": "https://remotejobs.org/companies/1password"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "Remote (United States | Canada)",
+      "location_normalization": {
+        "raw": "Remote (United States | Canada)",
+        "input": {
+          "workArrangement": "remote"
+        },
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "CA",
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [
+          "Applicants must work from their home country (description:57); the specific countries or subdivisions this resolves to are not enumerated beyond the header market, so the work-location restriction cannot be fully represented.",
+          "Unresolved area: description:57"
+        ],
+        "evidence_ids": [
+          "c2",
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "CA",
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": "manager",
+        "role_family": null,
+        "required_skills": [],
+        "mentioned_skills": [
+          "csharp",
+          "dotnet",
+          "golang",
+          "react",
+          "rust",
+          "typescript"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": []
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "005d4b48-d31e-449f-90b7-83313f98a907",
+      "direct_apply": null,
+      "description": "<p><em><strong>1Password is growing.</strong> We’ve surpassed $500M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing.</em></p><p><strong>About 1Password</strong></p><p><em>At 1Password, we’re building the foundation for a safe, productive digital future. Our mission is to unleash employee productivity without compromising security by ensuring every identity is authentic, every application sign-in is secure, and every device is trusted. We innovated the market-leading enterprise password manager and pioneered Unified Access Management, a new cybersecurity category built for the way people and AI agents work today. As one of the most loved brands in cybersecurity, we take a human-centric approach in everything from product strategy to user experience. Over 180,000 businesses, from Fortune 100 leaders to the world’s most innovative AI companies, trust 1Password to help their teams securely adopt the SaaS and AI tools they need to do their best work.</em></p><p><em>If you're excited about the opportunity to contribute to the digital safety of millions, to work alongside a team of curious, driven individuals, and to solve hard problems in a fast-paced, dynamic environment, then we want to hear from you. Come join us and help shape a safer, simpler digital future.</em></p><p>As part of the<a href=\"https://1password.com/product/saas-manager\"> SaaS Manager</a> team, you'll be building the platform that IT and Security teams rely on to discover, govern, and optimize their AI and SaaS ecosystems (work that just earned 1Password recognition as a Leader in the 2026 Gartner® Magic Quadrant™ for SaaS Management Platforms). You'll work on real problems: uncontrolled AI spend, shadow IT, SaaS sprawl, and the complex access lifecycles that come with it. Following<a href=\"https://blog.1password.com/1password-acquires-trelica/\"> 1Password's acquisition of Trelica in early 2025</a>, you'll join a collaborative team with a startup mindset backed by the resources and mission of one of the most trusted names in security. As we scale the platform to meet our enterprise-scale ambitions, you'll help shape not just what we build, but how we build it.</p><p>We are looking for an Intermediate Developer who is energized by doing meaningful work, growing fast, and building great software alongside great humans. This is a role for someone with a solid technical foundation who knows how they learn, takes real ownership of their work, and is ready to make an impact from day one.</p><p><strong>How we’re using AI today</strong></p><p>Our Engineering, Product, and Design teams are thoughtfully integrating AI across the full software and product development lifecycle to move faster without sacrificing quality or security. In practice, that looks like engineers using AI-assisted coding tools to accelerate reviews and catch bugs earlier, product managers synthesizing user research at scale, and designers rapidly prototyping and iterating with AI-generated mockups. We approach AI the same way we approach security: with clear principles, human accountability at every consequential decision point, and rigorous evaluation before anything ships to customers.</p><p>This is a remote opportunity within Canada and the US.</p><p><strong>What we're looking for:</strong></p><ul><li><p>You have 2–4 years of professional software development experience with some knowledge of .NET/C# and exposure to MongoDB or a comparable document database</p></li><li><p>You know how you learn, and you learn quickly: you're comfortable picking up new concepts, technologies, and codebases, and you don't need everything handed to you before you can get started</p></li><li><p>You take real ownership of your assigned work: you follow through, flag problems early, and hold a high bar for what \"done\" means</p></li><li><p>You write clean, well-tested, well-documented code and you understand why those things matter in a production environment</p></li><li><p>You're a strong collaborator: you communicate clearly, ask good questions, and work well with teammates across engineering, product, and design</p></li><li><p>You're curious about how agentic AI tools fit into your own development workflow and you use them thoughtfully</p></li><li><p>You're proactive by nature: you look for opportunities to improve the codebase or the team's processes and you surface them, even when you haven't been asked<br></p></li></ul><p><strong>Bonus points for:</strong></p><ul><li><p>Comfort across a wide range of technical stacks (.NET/C#, MongoDB, Go, Rust, TypeScript, React, and others); you evaluate technology on its merits for the problem at hand, not personal preference, and you pick up new languages quickly<br></p></li></ul><p><strong>What you can expect:</strong></p><ul><li><p>Deliver features and improvements on the SaaS Manager platform</p></li><li><p>Take end-to-end ownership of well-defined features from initial development through production</p></li><li><p>Participate actively in code reviews, giving and receiving thoughtful feedback,  and use both as opportunities to grow your technical judgment</p></li><li><p>Write meaningful tests and clear documentation as part of your regular workflow, not as an afterthought</p></li><li><p>Collaborate with product managers and designers to understand the customer problems behind your work and advocate for good outcomes within your scope</p></li><li><p>Surface blockers and open questions early, keeping yourself and your teammates unblocked and the work moving forward</p></li></ul><p>USA-based roles only: The annual base salary for this role is between $123,000 USD and $172,000 USD, plus immediate participation in 1Password's benefits program (health, dental, 401k and many others), utilization of our generous paid time off, an equity grant and, where applicable, participation in our incentive programs.</p><p>Canada-based roles only: The annual base salary for this role is between $111,000 CAD and $155,000 CAD, plus immediate participation in 1Password’s generous benefits program (health, dental, RRSP and many others), utilization of our generous paid time off, an equity grant and, where applicable, participation in our incentive programs.</p><p><br><br>At 1Password, we approach each individual's compensation with a promise of fair market value and internal equity commensurate with experience and specific skill set.<br><br><em>This posting is for an existing vacancy.</em></p><p><br><strong>Our culture </strong><br>At 1Password, we prioritize collaboration, clear and transparent communication, receptiveness to feedback, and alignment with our core values: keep it simple, lead with honesty, and put people first. <br><br>You’ll be part of a team that challenges the status quo, and is excited to experiment and iterate in search of the best solution. That said, <a href=\"https://blog.1password.com/inside-the-culture-powering-1passwords-next-chapter/\"><em>1Password is not for everyone</em></a>. Our work is demanding, we strive for excellence, and the pace is fast. We need people who are keen to take on challenging problems, who seek feedback to grow, and who are driven to make an impact. If you're looking for a place where you can settle into a comfortable routine, this might not be the right fit for you. We’re looking for individuals who are proven experts in their fields, as well as those who are highly adaptable, can thrive in ambiguity and through change, are curious, and above all deliver results. <br><br><strong>How we work with AI</strong><br>We are committed to leveraging cutting-edge technology—including AI—to achieve our mission. We also understand that thinking critically about AI in its current forms will help us create better solutions for our customers and ourselves with its future forms, which will help us continue to close the gap between security and privacy and achieve our mission. We want team members at all levels to take the approach of actively learning AI best practices, identifying opportunities to apply AI in meaningful ways, and driving innovative solutions in their daily work. Embracing the future of AI isn't just encouraged—it's an essential part of how we will be successful at 1Password.</p><p>This approach extends to our hiring process—candidates are welcome to use AI tools responsibly and thoughtfully during the application process. To us, this means we do ask that you join live interviews without using AI tools so we can get to know how you communicate, solve problems, and collaborate with others.<br><br><strong>Our approach to remote work </strong><br>We believe in the power of remote work, but recognize that in-person connection is important to help us achieve our mission. While we are a remote-first company, travel for in-person engagement is a part of almost all roles, and we require our employees to be ready and willing to take part. Frequency will depend on role and responsibilities, and may include, but is not limited to: annual department-wide offsites, team meetings, and customer/industry events.<br><br><strong>What we offer</strong><br>We believe in working hard, and rewarding that hard work through our benefits. While not an exhaustive list, here is a glance at what we currently offer: <br><br><em>Health and wellbeing</em><br>👶 Maternity and parental leave top-up programs<br>🩺 Competitive health benefits<br>🏝 Generous PTO policy <br><br><em> Growth and future </em><br>📈 RSU program for most employees<br>💸 Retirement matching program<br>🔑 Free 1Password account<br><br><em>Community </em><br>🤝 Paid volunteer days <br>🏆 Peer-to-peer recognition through Bonusly<br>🌎 Remote-first work environment<br><em>*Some roles in our GTM team are currently being hired for in-person hybrid work in Toronto and Austin. These roles will specify on the posting.</em></p><p><strong>You belong here.</strong></p><p><em>1Password is proud to be an equal opportunity employer. We are committed to fostering an inclusive, diverse and equitable workplace that is built on trust, support and respect. We welcome all individuals and do not discriminate on the basis of gender identity and expression, race, ethnicity, disability, sexual orientation, colour, religion, creed, gender, national origin, age, marital status, pregnancy, sex, citizenship, education, languages spoken or veteran status. Be yourself, find your people and share the things you love.</em></p><p><em>Accommodation is available upon request at any point during our recruitment process. If you require an accommodation, please speak to your talent acquisition partner or email us at nextbit@agilebits.com and we’ll work to meet your needs.</em></p><p><em>Remote work is a part of our DNA. Given that our company was founded remotely in 2005, we can safely say we're experts at building remote culture. That said, remote work at 1Password does mean working from your home country. If you've got questions or concerns about this, your talent partner would be happy to address them with you.</em></p><p><em>Successful applicants will be required to complete a background check that may consist of prior employment verification, reference checks, education confirmation, criminal background, publicly available social media, credit history, or other information, as permitted by local law.</em></p><p><em>1Password uses artificial intelligence (AI) and machine learning (ML) technologies, including natural language processing and predictive analytics, to assist in the initial screening of employment applications and improve our recruitment process. See </em><a href=\"https://www.ashbyhq.com/downloadables/ashby-bias-audit-08-2024.pdf\"><em>here</em></a><em> for the latest third party bias audit information. If you prefer not to have your application assessed using AI/ML features, you may opt out by completing </em><a href=\"https://jobs.ashbyhq.com/1password/automation-notice\"><em>this form</em></a><em>. For additional information see our </em><a href=\"https://1password.com/files/candidate-privacy-notice.pdf\"><em>Candidate Privacy Notice</em></a><em>.</em></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/net-developer-saas-manager-1password</p>",
+      "posted_at": "2026-10-22T19:03:53.057+00:00",
       "is_translated": false,
       "original_language": null
     },
@@ -4200,6 +4389,107 @@
       "original_language": null
     },
     {
+      "id": "f8f39b4b-de69-4e39-97f8-71b631f0590f",
+      "title": "Frontend Developer, Device Security",
+      "url": "https://remotejobs.org/remote-jobs/frontend-developer-device-security-1password",
+      "apply_url": "https://remotejobs.org/remote-jobs/frontend-developer-device-security-1password",
+      "company": {
+        "name": "1Password",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/32f3b6ef758dff3134b7249f949bd338c1cd4d628fc4a0526da5ac5bacd9509d.webp",
+        "website": "https://1password.com",
+        "url": "https://remotejobs.org/companies/1password"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "Remote (United States | Canada)",
+      "location_normalization": {
+        "raw": "Remote (United States | Canada)",
+        "input": {
+          "workArrangement": "remote"
+        },
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "CA",
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "c2",
+          "c3"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "CA",
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": null,
+        "role_family": "software-engineering",
+        "required_skills": [],
+        "mentioned_skills": [
+          "golang",
+          "react",
+          "rust",
+          "typescript"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": [
+          {
+            "text": "2+ years of experience in software development, including building web experiences with React and TypeScript",
+            "maximum_years": null,
+            "minimum_years": 2,
+            "classification": "mentioned"
+          }
+        ]
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "e9f8842c-3ed3-4b89-bd55-f59cff9773cb",
+      "direct_apply": null,
+      "description": "<p><em><strong>1Password is growing.</strong> We’ve surpassed $500M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing.</em></p><p><strong>About 1Password</strong></p><p><em>At 1Password, we’re building the foundation for a safe, productive digital future. Our mission is to unleash employee productivity without compromising security by ensuring every identity is authentic, every application sign-in is secure, and every device is trusted. We innovated the market-leading enterprise password manager and pioneered Unified Access Management, a new cybersecurity category built for the way people and AI agents work today. As one of the most loved brands in cybersecurity, we take a human-centric approach in everything from product strategy to user experience. Over 180,000 businesses, from Fortune 100 leaders to the world’s most innovative AI companies, trust 1Password to help their teams securely adopt the SaaS and AI tools they need to do their best work.</em></p><p><em>If you're excited about the opportunity to contribute to the digital safety of millions, to work alongside a team of curious, driven individuals, and to solve hard problems in a fast-paced, dynamic environment, then we want to hear from you. Come join us and help shape a safer, simpler digital future.</em></p><p>We’re hiring an Intermediate Frontend Developer to join our Device Security team. 1Password helps people use technology safely, and our Device Security initiative is expanding that mission to the devices where work happens. As a mid-level Developer, you’ll help build administrative experiences such as device compliance dashboards and policy configuration tools while contributing to a new product initiative from the ground up. You’ll work closely with Engineering, Product, Design, and infrastructure partners to make complex security information easier for enterprise administrators to understand and act on.</p><p><strong>How we’re using AI today</strong></p><p>Our Engineering, Product, and Design teams are thoughtfully integrating AI across the full software and product development lifecycle to move faster without sacrificing quality or security. In practice, that looks like engineers using AI-assisted coding tools to accelerate reviews and catch bugs earlier, product managers synthesizing user research at scale, and designers rapidly prototyping and iterating with AI-generated mockups. We approach AI the same way we approach security: with clear principles, human accountability at every consequential decision point, and rigorous evaluation before anything ships to customers.</p><p>This is a remote opportunity within Canada and the US.</p><p><strong>What we're looking for:</strong></p><ul><li><p>You have 2+ years of experience in software development, including building web experiences with React and TypeScript.</p></li><li><p>You have experience developing clear, maintainable frontend components and interfaces for complex product requirements.</p></li><li><p>You have worked on products serving large user bases and understand how frontend decisions can affect scalability, performance, and optimization.</p></li><li><p>You communicate technical concepts clearly and collaborate effectively with engineers, Product, Design, and other cross-functional partners.</p></li><li><p>You ask thoughtful questions, reflect on what you’ve learned, and use challenges and mistakes as opportunities to improve your technical judgment.</p></li><li><p>You’re comfortable using artificial intelligence (AI)-assisted development tools thoughtfully and understand their capabilities and limitations.</p></li></ul><p><strong>Bonus points for:</strong></p><ul><li><p>Experience with Rust or Go, full-stack development with a frontend focus, composable design system components, or security, administration, or device management products.</p></li></ul><p><strong>What you can expect:</strong></p><ul><li><p>Build and maintain administrative interfaces for enterprise customers, including device compliance dashboards and policy configuration tools.</p></li><li><p>Develop intuitive experiences that help administrators understand device security posture, identify risks, and take action.</p></li><li><p>Contribute to a new Device Security initiative that is still being shaped, with opportunities to influence product direction and technical solutions.</p></li><li><p>Initially contribute to client-side work in related product areas before transitioning more fully to Device Security as the initiative develops.</p></li><li><p>Collaborate with experienced engineers and cross-functional partners through planning, technical discussions, code reviews, testing, and documentation.</p></li><li><p>Grow your technical judgment and ownership through mentorship, knowledge sharing, pair programming, and feedback.</p></li></ul><p>USA-based roles only: The annual base salary for this role is between $123,000 USD and $172,000 USD, plus immediate participation in 1Password's benefits program (health, dental, 401k and many others), utilization of our generous paid time off, an equity grant and, where applicable, participation in our incentive programs.</p><p>Canada-based roles only: The annual base salary for this role is between $111,000 CAD and $155,000 CAD, plus immediate participation in 1Password’s generous benefits program (health, dental, RRSP and many others), utilization of our generous paid time off, an equity grant and, where applicable, participation in our incentive programs.<br><br>At 1Password, we approach each individual's compensation with a promise of fair market value and internal equity commensurate with experience and specific skill set.<br><br><em>This posting is for an existing vacancy.</em></p><p><br><strong>Our culture </strong><br>At 1Password, we prioritize collaboration, clear and transparent communication, receptiveness to feedback, and alignment with our core values: keep it simple, lead with honesty, and put people first. <br><br>You’ll be part of a team that challenges the status quo, and is excited to experiment and iterate in search of the best solution. That said, <a href=\"https://blog.1password.com/inside-the-culture-powering-1passwords-next-chapter/\"><em>1Password is not for everyone</em></a>. Our work is demanding, we strive for excellence, and the pace is fast. We need people who are keen to take on challenging problems, who seek feedback to grow, and who are driven to make an impact. If you're looking for a place where you can settle into a comfortable routine, this might not be the right fit for you. We’re looking for individuals who are proven experts in their fields, as well as those who are highly adaptable, can thrive in ambiguity and through change, are curious, and above all deliver results. <br><br><strong>How we work with AI</strong><br>We are committed to leveraging cutting-edge technology—including AI—to achieve our mission. We also understand that thinking critically about AI in its current forms will help us create better solutions for our customers and ourselves with its future forms, which will help us continue to close the gap between security and privacy and achieve our mission. We want team members at all levels to take the approach of actively learning AI best practices, identifying opportunities to apply AI in meaningful ways, and driving innovative solutions in their daily work. Embracing the future of AI isn't just encouraged—it's an essential part of how we will be successful at 1Password.</p><p>This approach extends to our hiring process—candidates are welcome to use AI tools responsibly and thoughtfully during the application process. To us, this means we do ask that you join live interviews without using AI tools so we can get to know how you communicate, solve problems, and collaborate with others.<br><br><strong>Our approach to remote work </strong><br>We believe in the power of remote work, but recognize that in-person connection is important to help us achieve our mission. While we are a remote-first company, travel for in-person engagement is a part of almost all roles, and we require our employees to be ready and willing to take part. Frequency will depend on role and responsibilities, and may include, but is not limited to: annual department-wide offsites, team meetings, and customer/industry events.<br><br><strong>What we offer</strong><br>We believe in working hard, and rewarding that hard work through our benefits. While not an exhaustive list, here is a glance at what we currently offer: <br><br><em>Health and wellbeing</em><br>👶 Maternity and parental leave top-up programs<br>🩺 Competitive health benefits<br>🏝 Generous PTO policy <br><br><em> Growth and future </em><br>📈 RSU program for most employees<br>💸 Retirement matching program<br>🔑 Free 1Password account<br><br><em>Community </em><br>🤝 Paid volunteer days <br>🏆 Peer-to-peer recognition through Bonusly<br>🌎 Remote-first work environment<br><em>*Some roles in our GTM team are currently being hired for in-person hybrid work in Toronto and Austin. These roles will specify on the posting.</em></p><p><strong>You belong here.</strong></p><p><em>1Password is proud to be an equal opportunity employer. We are committed to fostering an inclusive, diverse and equitable workplace that is built on trust, support and respect. We welcome all individuals and do not discriminate on the basis of gender identity and expression, race, ethnicity, disability, sexual orientation, colour, religion, creed, gender, national origin, age, marital status, pregnancy, sex, citizenship, education, languages spoken or veteran status. Be yourself, find your people and share the things you love.</em></p><p><em>Accommodation is available upon request at any point during our recruitment process. If you require an accommodation, please speak to your talent acquisition partner or email us at nextbit@agilebits.com and we’ll work to meet your needs.</em></p><p><em>Remote work is a part of our DNA. Given that our company was founded remotely in 2005, we can safely say we're experts at building remote culture. That said, remote work at 1Password does mean working from your home country. If you've got questions or concerns about this, your talent partner would be happy to address them with you.</em></p><p><em>Successful applicants will be required to complete a background check that may consist of prior employment verification, reference checks, education confirmation, criminal background, publicly available social media, credit history, or other information, as permitted by local law.</em></p><p><em>1Password uses artificial intelligence (AI) and machine learning (ML) technologies, including natural language processing and predictive analytics, to assist in the initial screening of employment applications and improve our recruitment process. See </em><a href=\"https://www.ashbyhq.com/downloadables/ashby-bias-audit-08-2024.pdf\"><em>here</em></a><em> for the latest third party bias audit information. If you prefer not to have your application assessed using AI/ML features, you may opt out by completing </em><a href=\"https://jobs.ashbyhq.com/1password/automation-notice\"><em>this form</em></a><em>. For additional information see our </em><a href=\"https://1password.com/files/candidate-privacy-notice.pdf\"><em>Candidate Privacy Notice</em></a><em>.</em></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/frontend-developer-device-security-1password</p>",
+      "posted_at": "2026-10-20T19:13:28.677+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
       "id": "d756bdde-83f2-45f7-8319-a83224b17602",
       "title": "Salesforce Developer for Org Ownership and Ongoing Platform Development",
       "url": "https://remotejobs.org/remote-jobs/salesforce-developer-for-org-ownership-and-ongoing-platform-development-toptal",
@@ -4382,283 +4672,6 @@
       "direct_apply": null,
       "description": "<h2>About fonio</h2><p><strong>We grew from $1M to $10M ARR in under 12 months and now serve 10,000+ customers.</strong></p><p>Fonio is Europe’s market leader for AI phone agents for SMBs. Now we’re expanding globally and into new products.<br>We move fast, take ownership, give direct feedback, and avoid politics and unnecessary meetings.<br>Join one of <strong>Europe’s fastest-growing companies</strong>.</p><h3>Your Role</h3><p>As a <strong>Forward Deployed Engineer</strong> for our for our <em>Spanish market</em>, you work directly at the intersection of product and customer setups. You capture requirements, translate them into robust implementations, and take fonio live at customers – including integrations, automations, and ongoing optimization.</p><p><br>You work closely with Product/Engineering and Go-to-Market, making sure deployments are fast, stable, and repeatable across <em>the Spanish market</em>.</p><h3>What you'll do</h3><p><br>• Capture customer requirements and translate them into concrete implementation plans<br>• Build and roll out fonio setups in production: workflows, logic, prompts, guardrails<br>• Implement integrations with third-party systems (APIs, webhooks, CRM, calendar, ticketing, etc.)<br>• Develop smaller features and glue code to cleanly map customer cases<br>• Debug under production conditions: calls, flows, edge cases, fast fixes<br>• Build reusable templates and deployment playbooks to make setups scalable<br>• Deliver product feedback: bring pain points and feature gaps to the team, prioritized and concrete</p><h3><br><strong>Who we're looking for</strong></h3><p><br>• Solid coding skills: you can implement independently, not just configure<br>• Strong understanding of AI systems and LLMs (prompting, tool-use, RAG, failure modes)<br>• Workflow thinking: translate complex processes into robust, testable flows<br>• Experience with APIs, webhooks, auth, and common integration patterns<br>• Cloud fundamentals: deployments, observability, debugging in production<br>• Highly pragmatic working style: ship fast, make it stable, iterate<br>• Bonus: Voice/Telephony, n8n, TypeScript/Python, SQL, monitoring/tracing, GDPR<br>• <strong>Spanish</strong><em><strong> </strong></em>at native or near-native level + solid English</p><h3>What we offer</h3><p><br>• Competitive salary: <em><strong>€60,000–€95,000</strong></em> per year<br>• <strong>100% Focus Time</strong> (no regular meetings)<br>• <strong>Unlimited budget</strong> when the ROI is right<br>• Extreme <strong>speed</strong> (we ship almost daily)<br>• Thousands of enthusiastic customers building the product together with us</p><p><br><strong>Hiring Process</strong></p><ul><li><p>25 min intro</p></li><li><p>30 min deep dive with CTO &#x26; Co-Founder Matthias</p></li><li><p>20 min culture fit with one of our founders</p></li></ul><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/forward-deployed-engineer-spanish-fonio</p>",
       "posted_at": "2026-10-20T16:15:05.084+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "8493101b-d878-4820-b560-5115b5a14708",
-      "title": "Forward Deployed Engineer - Italian",
-      "url": "https://remotejobs.org/remote-jobs/forward-deployed-engineer-italian-fonio",
-      "apply_url": "https://remotejobs.org/remote-jobs/forward-deployed-engineer-italian-fonio",
-      "company": {
-        "name": "Fonio",
-        "logo_url": null,
-        "website": "https://fonio.com",
-        "url": "https://remotejobs.org/companies/fonio"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "European Union",
-      "location_normalization": {
-        "raw": "European Union",
-        "input": {
-          "workArrangement": "remote"
-        },
-        "scope": "restricted",
-        "status": "partial",
-        "regions": [
-          "european union"
-        ],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "remote",
-        "allowed_countries": [],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "partial",
-        "regions": [
-          "european union"
-        ],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [
-          "The location header lists European Union, but the description states the role is for the Italian market (description:7, description:8) without an explicit applicant residence or work-location permission, so the applicant geography cannot be fully represented.",
-          "Unresolved area: location:1"
-        ],
-        "evidence_ids": [
-          "source-location"
-        ],
-        "allowed_regions": [
-          "European Union"
-        ],
-        "work_arrangement": "unknown",
-        "allowed_countries": [],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": null,
-        "role_family": null,
-        "required_skills": [],
-        "mentioned_skills": [
-          "golang"
-        ],
-        "preferred_skills": [
-          "python",
-          "sql",
-          "typescript"
-        ],
-        "experience_requirements": []
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": null,
-      "salary_period": null,
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": "089f996b-0b09-4b16-bae8-edfd3ce44fee",
-      "direct_apply": null,
-      "description": "<h2>About fonio</h2><p><strong>We grew from $1M to $10M ARR in under 12 months and now serve 10,000+ customers.</strong></p><p>Fonio is Europe’s market leader for AI phone agents for SMBs. Now we’re expanding globally and into new products.<br>We move fast, take ownership, give direct feedback, and avoid politics and unnecessary meetings.<br>Join one of <strong>Europe’s fastest-growing companies</strong>.</p><h3>Your Role</h3><p>As a <strong>Forward Deployed Engineer</strong> for our for our <em>Italian market</em>, you work directly at the intersection of product and customer setups. You capture requirements, translate them into robust implementations, and take fonio live at customers – including integrations, automations, and ongoing optimization.</p><p><br>You work closely with Product/Engineering and Go-to-Market, making sure deployments are fast, stable, and repeatable across <em>the Italian market</em>.</p><h3>What you'll do</h3><p><br>• Capture customer requirements and translate them into concrete implementation plans<br>• Build and roll out fonio setups in production: workflows, logic, prompts, guardrails<br>• Implement integrations with third-party systems (APIs, webhooks, CRM, calendar, ticketing, etc.)<br>• Develop smaller features and glue code to cleanly map customer cases<br>• Debug under production conditions: calls, flows, edge cases, fast fixes<br>• Build reusable templates and deployment playbooks to make setups scalable<br>• Deliver product feedback: bring pain points and feature gaps to the team, prioritized and concrete</p><h3><br><strong>Who we're looking for</strong></h3><p><br>• Solid coding skills: you can implement independently, not just configure<br>• Strong understanding of AI systems and LLMs (prompting, tool-use, RAG, failure modes)<br>• Workflow thinking: translate complex processes into robust, testable flows<br>• Experience with APIs, webhooks, auth, and common integration patterns<br>• Cloud fundamentals: deployments, observability, debugging in production<br>• Highly pragmatic working style: ship fast, make it stable, iterate<br>• Bonus: Voice/Telephony, n8n, TypeScript/Python, SQL, monitoring/tracing, GDPR<br>• <em><strong>Italian </strong></em>at native or near-native level + solid English</p><h3>What we offer</h3><p><br>• Competitive salary: <em><strong>€60,000–€95,000</strong></em> per year<br>• <strong>100% Focus Time</strong> (no regular meetings)<br>• <strong>Unlimited budget</strong> when the ROI is right<br>• Extreme <strong>speed</strong> (we ship almost daily)<br>• Thousands of enthusiastic customers building the product together with us</p><p><br><strong>Hiring Process</strong></p><ul><li><p>25 min intro</p></li><li><p>30 min deep dive with CTO &#x26; Co-Founder Matthias</p></li><li><p>20 min culture fit with one of our founders</p></li></ul><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/forward-deployed-engineer-italian-fonio</p>",
-      "posted_at": "2026-10-20T16:13:12.784+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "f5a34639-023d-4c8a-bdc9-5123743a548e",
-      "title": "Forward Deployed Engineer - French",
-      "url": "https://remotejobs.org/remote-jobs/forward-deployed-engineer-french-fonio",
-      "apply_url": "https://remotejobs.org/remote-jobs/forward-deployed-engineer-french-fonio",
-      "company": {
-        "name": "Fonio",
-        "logo_url": null,
-        "website": "https://fonio.com",
-        "url": "https://remotejobs.org/companies/fonio"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "European Union",
-      "location_normalization": {
-        "raw": "European Union",
-        "input": {
-          "workArrangement": "remote"
-        },
-        "scope": "restricted",
-        "status": "partial",
-        "regions": [
-          "european union"
-        ],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "remote",
-        "allowed_countries": [],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [],
-        "evidence_ids": [
-          "c1"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "FR"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": null,
-        "role_family": null,
-        "required_skills": [],
-        "mentioned_skills": [
-          "golang"
-        ],
-        "preferred_skills": [
-          "python",
-          "sql",
-          "typescript"
-        ],
-        "experience_requirements": []
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": null,
-      "salary_period": null,
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": "4b9623b5-95cf-4af7-b60b-ad852091bbb8",
-      "direct_apply": null,
-      "description": "<h2>About fonio</h2><p><strong>We grew from $1M to $10M ARR in under 12 months and now serve 10,000+ customers.</strong></p><p>Fonio is Europe’s market leader for AI phone agents for SMBs. Now we’re expanding globally and into new products.<br>We move fast, take ownership, give direct feedback, and avoid politics and unnecessary meetings.<br>Join one of <strong>Europe’s fastest-growing companies</strong>.</p><h3>Your Role</h3><p>As a <strong>Forward Deployed Engineer</strong> for our for our <em>French market</em>, you work directly at the intersection of product and customer setups. You capture requirements, translate them into robust implementations, and take fonio live at customers – including integrations, automations, and ongoing optimization.</p><p><br>You work closely with Product/Engineering and Go-to-Market, making sure deployments are fast, stable, and repeatable across <em>the French market</em>.</p><h3>What you'll do</h3><p><br>• Capture customer requirements and translate them into concrete implementation plans<br>• Build and roll out fonio setups in production: workflows, logic, prompts, guardrails<br>• Implement integrations with third-party systems (APIs, webhooks, CRM, calendar, ticketing, etc.)<br>• Develop smaller features and glue code to cleanly map customer cases<br>• Debug under production conditions: calls, flows, edge cases, fast fixes<br>• Build reusable templates and deployment playbooks to make setups scalable<br>• Deliver product feedback: bring pain points and feature gaps to the team, prioritized and concrete</p><h3><br><strong>Who we're looking for</strong></h3><p><br>• Solid coding skills: you can implement independently, not just configure<br>• Strong understanding of AI systems and LLMs (prompting, tool-use, RAG, failure modes)<br>• Workflow thinking: translate complex processes into robust, testable flows<br>• Experience with APIs, webhooks, auth, and common integration patterns<br>• Cloud fundamentals: deployments, observability, debugging in production<br>• Highly pragmatic working style: ship fast, make it stable, iterate<br>• Bonus: Voice/Telephony, n8n, TypeScript/Python, SQL, monitoring/tracing, GDPR<br>• <em><strong>French </strong></em>at native or near-native level + solid English</p><h3>What we offer</h3><p><br>• Competitive salary: <em><strong>€60,000–€95,000</strong></em> per year<br>• <strong>100% Focus Time</strong> (no regular meetings)<br>• <strong>Unlimited budget</strong> when the ROI is right<br>• Extreme <strong>speed</strong> (we ship almost daily)<br>• Thousands of enthusiastic customers building the product together with us</p><p><br><strong>Hiring Process</strong></p><ul><li><p>25 min intro</p></li><li><p>30 min deep dive with CTO &#x26; Co-Founder Matthias</p></li><li><p>20 min culture fit with one of our founders</p></li></ul><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/forward-deployed-engineer-french-fonio</p>",
-      "posted_at": "2026-10-20T16:11:30.118+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "6b0d204a-4eb1-402f-9244-f20d7fb09e1d",
-      "title": "Security Engineer Senior - GRC",
-      "url": "https://remotejobs.org/remote-jobs/security-engineer-senior-grc-alan",
-      "apply_url": "https://remotejobs.org/remote-jobs/security-engineer-senior-grc-alan",
-      "company": {
-        "name": "Alan",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/0c927d46d4657fbc9fc322297a8f2ba4c60904436f1121b7d490e1b4219e3ed5.png",
-        "website": "https://alan.com",
-        "url": "https://remotejobs.org/companies/alan"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "Anywhere in France",
-      "location_normalization": {
-        "raw": "Anywhere in France",
-        "input": {
-          "workArrangement": "hybrid"
-        },
-        "scope": "unknown",
-        "status": "unknown",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [
-          "anywhere in france"
-        ],
-        "work_arrangement": "hybrid",
-        "allowed_countries": [],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [],
-        "evidence_ids": [
-          "c2"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "hybrid",
-        "allowed_countries": [
-          "BE",
-          "ES",
-          "FR"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": "senior",
-        "role_family": "security",
-        "required_skills": [],
-        "mentioned_skills": [],
-        "preferred_skills": [],
-        "experience_requirements": []
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": null,
-      "salary_period": null,
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": "14e49a11-ee06-48f6-93ef-ff7a49aaf219",
-      "direct_apply": null,
-      "description": "<h3><strong>Health can’t wait</strong>.</h3>\n<p>Not for symptoms to get worse. Not for a six‑month appointment. Not for a system to catch up. But that’s exactly how healthcare works today. You wait, until you can’t.</p>\n<p>Alan exists to end the wait.</p>\n<p>Health is a universal right, and we believe this right can only become real when it’s coupled with prevention. We need to stop treating health as something we repair and start treating it as something we build, every day. It’s not solely a question of willpower. It’s the healthcare system itself that needs to work for everyone, in a sustainable way.</p>\n<p>So we are building the<strong> new standard in prevention insurance. </strong>Alan is the first company that integrates insurance, prevention, and care into a single, acclaimed user experience.</p>\n<p>We are on an incredible journey to build a <strong>global leading company, with a </strong><a href=\"https://alan.com/en/careers\"><strong>unique culture</strong></a>. We already partner with 40K+ companies of all sizes, serving more than 1M+ members, and have reached €800M+ in ARR.</p>\n<p>Prevention as the new norm. That's what we're building with our team of 1000+ people. If it speaks to you: we're hiring across France, Spain, Belgium, and Canada. And beyond.</p>\n<h2>🛡️ The role</h2>\n<p>Most GRC roles are about keeping auditors happy. This one is about earning our members' trust: every day, they share their diagnoses, their claims and their care with us.</p>\n<p>You'll own security governance and risk at Alan end to end. That means one clear framework across our certifications and regulations, which the whole company uses to decide what matters most. You set the direction, make the calls on risk, and help every team own its part.</p>\n<p>We just earned our HDS certification, and there's much more to build as we grow from 1M to many millions of members, across more countries and regulators. That includes how we govern AI, which Alan uses across its products and operations.</p>\n<p>This is a hands-on senior role. You do the work yourself, mentor the junior GRC engineer we're hiring alongside you, and grow the team over time.</p>\n<h2>🚀 What you'll do</h2>\n<ul>\n<li>\n<p><strong>Make our security framework a tool for the whole company.</strong> You own the full certification cycle (ISO 27001, HDS and those to come), and turn it into something teams use every day to prioritise, not a binder for auditors.</p>\n</li>\n<li>\n<p><strong>Bring the security view on regulation.</strong> Legal and Risk own the regulatory relationships. You bring the security answer: what the rules mean for how we protect data, and which controls make it work in practice.</p>\n</li>\n<li>\n<p><strong>Run risk as an ongoing programme.</strong> You map and prioritise security risks, including AI risks, turn them into clear treatment plans, and feed them into company-wide risk decisions with the Risk team.</p>\n</li>\n<li>\n<p><strong>Help every team own its risks.</strong> You define the controls framework and the standards, while the teams who build and run our systems own the controls. You brief the board and audit committee, and you know which findings need an urgent call and which can wait for the quarterly report.</p>\n</li>\n<li>\n<p><strong>Own incident governance.</strong> You triage and escalate incidents, own business continuity and disaster recovery, and shape the security side of our regulatory incident reports.</p>\n</li>\n<li>\n<p><strong>Be a credible partner to engineering.</strong> You work with engineering teams early on new designs and spot control gaps (access, encryption, logging) before they ship. You don't need to be an architect, but you can hold the conversation.</p>\n</li>\n</ul>\n<h2>🏗️ What you'll build</h2>\n<ul>\n<li>\n<p><strong>One governance model:</strong> clear ownership of risks and controls across teams, so security decisions don't bottleneck on one person.</p>\n</li>\n<li>\n<p><strong>A living risk map:</strong> prioritised risks that actually drive company and engineering decisions.</p>\n</li>\n<li>\n<p><strong>One compliance backbone:</strong> a single control system across our countries and regulators, built to scale.</p>\n</li>\n<li>\n<p><strong>An automated evidence engine:</strong> evidence collected straight from engineering systems, so audits run continuously instead of as a quarterly rush.</p>\n</li>\n</ul>\n<p>You'll work closely with Legal, the Data Protection Officer, Internal Audit and Risk, and day to day with engineering and operations teams.</p>\n<h2>⭐ What we're looking for</h2>\n<p><strong>Your team</strong></p>\n<p>You'll join Alan's Corporate team, which brings together our control functions: Risk, Corporate Governance &#x26; Internal Control, Legal, Compliance and Security. They share one mission: building what lets Alan operate at scale, safely and responsibly. Within that group, you carry the security governance and risk dimension, working hand in hand with the security engineers who run our infrastructure and platform security, and with a junior GRC engineer we're hiring alongside you. You'll be hands-on every day, building and owning the work yourself. Along the way, you'll mentor the junior engineer and help shape how GRC grows at Alan.</p>\n<p><strong>What you bring</strong></p>\n<ul>\n<li>\n<p>You want to build and own things yourself, and you enjoy helping someone else grow while you do it.</p>\n</li>\n<li>\n<p>6+ years in security, with real GRC ownership.</p>\n</li>\n<li>\n<p>You've run a GRC roadmap in a certified or strongly regulated environment (ISO 27001, HDS, SOC 2, or regulated sectors like health, insurance or finance). You're comfortable working with certification auditors, and you can explain what a framework requires and why it makes sense for business teams.</p>\n</li>\n<li>\n<p>You take a stand on risks, and you'd rather close one real risk than write ten policies.</p>\n</li>\n<li>\n<p>You're fluent in French and English.</p>\n</li>\n</ul>\n<p><strong>A big plus</strong></p>\n<ul>\n<li>\n<p>You've driven a certification or audit cycle end to end yourself.</p>\n</li>\n<li>\n<p>You've automated compliance work, or you're eager to, and you have a view on where AI can help.</p>\n</li>\n<li>\n<p>You've presented risk to senior leaders or a board.</p>\n</li>\n<li>\n<p>You've mentored or onboarded someone before.</p>\n</li>\n</ul>\n<h2>🌍 How we work</h2>\n<p><strong>Location:</strong> You must be legally eligible to work from France, Belgium or Spain.</p>\n<p><strong>Remote work:</strong> We offer remote work flexibility.</p>\n<h2><strong>🎯 Important note: we hire people, not roles.</strong></h2>\n<p>If you're excited about this opportunity but don't check every box, we'd love to hear from you. Everyone, no matter how underrepresented, should feel free to apply, as it can only bring learnings or success.</p>\n<p>Remember, this is just a guide, not a checklist. We'll be thrilled to receive your application!</p>\n<p>🔖 Check out our <a href=\"https://alan.com/about\">About Alan</a> and <a href=\"https://alan.com/careers\">Career</a> pages, as well as our <a href=\"https://medium.com/alan\">Medium</a>, <a href=\"https://blog.alan.com/\">blog</a> and <a href=\"https://www.glassdoor.com/Overview/Working-at-Alan-EI_IE1696043.11,15.htm\">Glassdoor page</a> for more info.</p>\n<h2><strong>You want to know more about Alan?</strong></h2>\n<p>🙌 <a href=\"https://alan.com/en/careers/a/salary-equity\">Perks &#x26; Benefits</a>: Alaners are provided with a stimulating environment and perks ensuring they are happy, efficient and spend only high-quality time with co-workers.</p>\n<p>🤘<a href=\"https://alan.com/en/about/a/leadership-principles\">A strong culture</a>: People joining Alan are often surprised and delighted by our innovative working method. We have a set of cultural values that guide our approach to work</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/security-engineer-senior-grc-alan</p>",
-      "posted_at": "2026-10-20T15:38:41.531+00:00",
       "is_translated": false,
       "original_language": null
     },
