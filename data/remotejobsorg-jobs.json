@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T15:30:46.706Z",
+  "generatedAt": "2026-10-24T20:21:46.778Z",
   "count": 150,
   "data": [
     {
@@ -1725,6 +1725,109 @@
       "original_language": null
     },
     {
+      "id": "8bb2f306-ca25-4009-aea0-d623be5ca8b0",
+      "title": "Senior Design Quality Engineer",
+      "url": "https://remotejobs.org/remote-jobs/senior-design-quality-engineer-hinge-health",
+      "apply_url": "https://remotejobs.org/remote-jobs/senior-design-quality-engineer-hinge-health",
+      "company": {
+        "name": "Hinge Health",
+        "logo_url": null,
+        "website": null,
+        "url": "https://remotejobs.org/companies/hinge-health"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "San Francisco-HQ",
+      "location_normalization": {
+        "raw": "San Francisco-HQ",
+        "input": {
+          "workArrangement": "hybrid"
+        },
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [
+          "san francisco-hq"
+        ],
+        "work_arrangement": "hybrid",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "worksite_countries": [
+          "US"
+        ],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [
+          "The role requires in-person attendance three days per week at the San Francisco office (city-level work location); this cannot be represented as a country or subdivision work-location permission.",
+          "Unresolved area: location:1, description:39"
+        ],
+        "evidence_ids": [
+          "c2"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "hybrid",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": "senior",
+        "role_family": null,
+        "required_skills": [],
+        "mentioned_skills": [],
+        "preferred_skills": [],
+        "experience_requirements": [
+          {
+            "text": "6+ years of experience in quality engineering or a related field, including at least 4 years in a medical-device design and development environment",
+            "maximum_years": null,
+            "minimum_years": 6,
+            "classification": "mentioned"
+          },
+          {
+            "text": "3+ years of experience",
+            "maximum_years": null,
+            "minimum_years": 3,
+            "classification": "mentioned"
+          }
+        ]
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "cec75e13-9794-4ce1-8158-eae78a5e975e",
+      "direct_apply": null,
+      "description": "<h2>About the role</h2><p>Join Hinge Health’s Hardware organization and help build safe, reliable, scalable healthcare products that improve how people move beyond pain. As a Sr Design Quality Engineer, you’ll be a core member of cross-functional product development teams, guiding design quality from early concept through commercialization and design transfer.</p><p>You’ll bring practical expertise in design controls, risk management, verification and validation, reliability, manufacturability, product development lifecycle activities, and process validation. You’ll partner closely with engineering, product, manufacturing, purchasing, test, supplier engineering, and Regulatory Affairs to help teams move quickly without compromising patient safety, product quality, or compliance.</p><h2>What You’ll Accomplish</h2><h3>In your first 3 months</h3><ul><li><p>Build working knowledge of Hinge Health’s quality management system, product development lifecycle, tools, and design-quality practices.</p></li><li><p>Establish trusted partnerships with hardware, software, systems, product, program management, and Regulatory Affairs stakeholders.</p></li><li><p>Join active product development programs and begin reviewing requirements, design records, risk documentation, and development plans for quality and compliance gaps.</p></li></ul><h3>In your first 6 months</h3><ul><li><p>Own or materially contribute to design-control and risk-management execution across product development programs, from user needs and design inputs through design outputs, verification, validation, and transfer.</p></li><li><p>Help teams create and maintain complete, accurate, traceable, and inspection-ready design history file records.</p></li><li><p>Develop and review risk-based verification and validation strategies, including protocols, reports, acceptance criteria, traceability, and objective evidence.</p></li><li><p>Provide actionable quality feedback on design architectures, component selections, requirements, drawings, interfaces, usability and human-factors considerations, and risk controls.</p></li></ul><h3>In your first year</h3><ul><li><p>Drive quality readiness for design transfer and commercialization by partnering with manufacturing, purchasing, test, and supplier engineering on scalable designs, process validation, production readiness, and configuration control.</p></li><li><p>Lead or support product risk-management activities covering user, design, process, supplier, and software-enabled product risks, and help teams make balanced decisions that protect patient safety.</p></li><li><p>Support Regulatory Affairs with submissions, responses to regulatory questions, and audit preparation, participation, response development, and follow-up.</p></li><li><p>Coach and influence engineering teams on design quality, design controls, risk management, data analysis, protocol development, reliability, and design-for-quality methods.</p></li><li><p>Identify and implement practical improvements to quality workflows, templates, instructions, and cross-functional ways of working as Hinge Health scales its medical-device product organization.</p></li></ul><h2>Who You Are</h2><ul><li><p>A quality engineering subject matter expert who can guide cross-functional teams through complex, regulated product development and commercialization activities.</p></li><li><p>A risk-based decision maker who protects patient safety and product quality while thoughtfully balancing schedule, cost, technical, and business constraints.</p></li><li><p>An owner who solves complex problems with minimal oversight, follows issues through to resolution, and escalates risks that could affect safety, compliance, or launch readiness.</p></li><li><p>A clear communicator who can translate complex technical, quality, and regulatory information for engineers, cross-functional partners, and executive stakeholders.</p></li><li><p>A collaborative coach who makes design quality practical and relevant, helping teams adopt strong practices without relying solely on authority or procedure.</p></li><li><p>A Learn-it-all who stays curious about evolving medical-device standards, software-enabled products, reliability methods, and better ways to scale quality.</p></li></ul><h2>Basic Qualifications</h2><ul><li><p>Bachelor’s degree in electrical engineering, mechanical engineering, systems engineering, mathematics, physics, or a related technical field.</p></li><li><p>6+ years of experience in quality engineering or a related field, including at least 4 years in a medical-device design and development environment.</p></li><li><p>3+ years of experience applying design controls and risk management from early design and development through commercialization, including experience with electromechanical systems and applicable medical-device standards such as ISO 13485, ISO 14971, IEC 60601, IEC 62304, and 21 CFR Part 820.</p></li></ul><h2>Preferred Qualifications</h2><ul><li><p>Advanced degree in engineering, mathematics, physics, or a related technical field.</p></li><li><p>Experience with software as a medical device (SaMD) and software in a medical device (SiMD).</p></li><li><p>Experience navigating a quality management system with minimal oversight across individual product development projects.</p></li><li><p>Demonstrated ability to make balanced risk decisions, build consensus, and work through complex technical challenges.</p></li><li><p>Experience coaching, mentoring, or teaching engineering teams in design quality, data analysis, protocol development, reliability, or design-for-quality methods.</p></li><li><p>Experience communicating complex quality, technical, and regulatory information to executive management.</p></li></ul><h2>Hinge Health Hybrid Model</h2><p>This is a hybrid role based in the San Francisco office, requiring in-person attendance three days per week, for the full 8 hours of a typical business day. The San Francisco office has a dog-friendly workplace program.</p><h2>About Hinge Health</h2><p>At Hinge Health, we’re using technology to scale and automate the delivery of healthcare, starting with musculoskeletal (MSK) conditions, which affect over 1.7 billion people worldwide.</p><p>With an AI-powered human-centered care model, Hinge Health leverages cutting-edge technology to improve outcomes, experiences, and costs to help people move beyond their pain. The platform addresses a broad spectrum of MSK care, from acute injury to chronic pain to post-surgical rehabilitation, through personalized, evidence-based care.</p><p>As the preferred partner to 60+ health plans, PBMs, and other ecosystem partners, Hinge Health is available to over 20 million people across more than 2,800 employers. The company is headquartered in San Francisco, with additional offices in Montreal and Bangalore.</p><p>Learn more at <a href=\"http://hingehealth.com\">hingehealth.com</a>.</p><h2>What You’ll Love About Us</h2><ul><li><p>Inclusive healthcare and benefits: On top of comprehensive medical, dental, and vision coverage, we offer employees and their family members help with gender-affirming care, tools for family and fertility planning, and travel reimbursements if healthcare isn’t available where you live.</p></li><li><p>Planning for the future: Start saving for the future with our traditional or Roth 401(k) retirement plan options, which include a 2% company match.</p></li><li><p>Modern life stipends: Manage your own learning and development.</p></li><li><p>Grow with us: Grow with us through discounted company stock through our ESPP with easy payroll deductions.</p></li></ul><h2>Culture &#x26; Engagement</h2><p>Hinge Health is an equal opportunity employer and prohibits discrimination and harassment of any kind.</p><p>We make employment decisions without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, veteran status, disability status, pregnancy, or any other basis protected by federal, state, or local law.</p><p>We also consider qualified applicants regardless of criminal histories, consistent with legal requirements.</p><p>We provide reasonable accommodations for candidates with disabilities. If you feel you need assistance or an accommodation due to a disability, let us know by reaching out to your recruiter.</p><p>By submitting your application, you are acknowledging that we are using your personal data as outlined in the <a href=\"https://www.hingehealth.com/about/personnel-and-candidate-privacy-policy/\">personnel and candidate privacy policy</a>.</p><p><br>Beware of Phishing Attempts: We've noticed an increase in phishing where fraudsters impersonate employees and send fake job offers to steal sensitive information. We'll never ask for financial details during the hiring process and only use \"@<a href=\"http://hingehealth.com\">hingehealth.com</a>\" emails. If you receive a suspicious offer, stop communication and report it to the US FBI Internet Crime Complaint Center. To verify an email from our recruiting team, forward it to <a href=\"https://app.ashbyhq.com/admin/organizational-settings/theme#\">security@hingehealth.com</a>.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-design-quality-engineer-hinge-health</p>",
+      "posted_at": "2026-10-23T16:41:55.446+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
       "id": "273ae169-2b7c-4d2a-9f73-e688c363943b",
       "title": "Gestionnaire de développement logiciel",
       "url": "https://remotejobs.org/remote-jobs/gestionnaire-de-dveloppement-logiciel-maintainx",
@@ -1967,6 +2070,121 @@
       "direct_apply": null,
       "description": "<p><em><strong>MaintainX is a leading mobile-first work execution platform </strong>for industrial and frontline teams. <strong>More than 13,000 customers</strong>, including Duracell, McDonald's, Shell, DHL and Volvo, use MaintainX to cut unplanned downtime and run better operations, across 13.9 million managed assets and 79.5 million completed work orders.</em></p>\n<p><em><strong>In August 2026 MaintainX became part of Autodesk, joining </strong></em><a href=\"https://adsknews.autodesk.com/en/views/inside-autodesk-operations-solutions/\"><em><strong>Autodesk Operations Solutions</strong></em></a><em><strong>, the organization unifying Autodesk's operations platform alongside Tandem, FlexSim and Fusion Operations. </strong>Autodesk's strategy is to converge design, make and operate into one continuous lifecycle: design an asset, build it, run it, then feed what you learn running it back into the next design. Autodesk had design and make. Operate is the phase that tells you what actually happened, and it is ours.</em></p>\n<h2><strong>The role</strong></h2>\n<p>We're looking for multiple Software Development Managers to lead one of several engineering teams. As a Dev Manager at MaintainX, you're the person who turns a roadmap into shipped, reliable software. You'll manage 5 to 6 developers, own delivery and quality for your team's area, and make the calls that keep a group of builders moving without losing the craft.</p>\n<p>This is a single hiring pipeline across our product and platform teams. Teams currently looking for new leadership include:</p>\n<ul>\n<li>\n<p><strong>Reporting:</strong> Own the product surface where customers measure the value of MaintainX, turning millions of work orders and asset events into the dashboards and insights that maintenance leaders bring to their execs. It's a high-visibility team with a direct line from what you ship to why customers renew.</p>\n</li>\n<li>\n<p><strong>Identity &#x26; Access Management: </strong>Build the systems that power secure and seamless access across the MaintainX platform. You'd design and operate authentication, authorization, and governance services that scale with our enterprise customers and keep user experience frictionless and trusted.</p>\n</li>\n<li>\n<p><strong>Search: </strong>Design and build MaintainX’s end-to-end search and retrieval platform. Work across indexing, ranking, and semantic retrieval so technicians and managers find the right asset, procedure, or work order in seconds.</p>\n</li>\n</ul>\n<h2><strong>What you'll do</strong></h2>\n<ul>\n<li>\n<p>Manage a team of 5 to 6 developers: own their delivery, quality, and day-to-day priorities.</p>\n</li>\n<li>\n<p>Partner with Product Managers and Designers to scope, plan, and deliver against a high bar for reliability.</p>\n</li>\n<li>\n<p>Coach and grow your developers: help them build skills, navigate hard problems, and plan their next career step.</p>\n</li>\n<li>\n<p>Shape who joins next. All these teams are hiring and need a leader who will interview and raise our talent bar.</p>\n</li>\n<li>\n<p>Set clear expectations and give ongoing feedback, so your team always knows where it stands.</p>\n</li>\n<li>\n<p>Champion CI/CD, code quality, and observability practices across your team's systems.</p>\n</li>\n<li>\n<p>Give senior leadership visibility into your team's impact, progress, and risk.</p>\n</li>\n</ul>\n<h2><strong>Where we work</strong></h2>\n<p>We don't have a minimum in-office mandate, but we prefer our teams to be located around our office hubs. In Canada this includes: Montreal and Toronto.</p>\n<h2><strong>What we're looking for</strong></h2>\n<ul>\n<li>\n<p>2-3 years of people leadership experience, with a track record of leading teams that ship.</p>\n</li>\n<li>\n<p>A strong technical foundation. You should be comfortable performing at a senior level with system design, computer science fundamentals, and modern web technologies.</p>\n</li>\n<li>\n<p>Experience with technical design, problem-solving, and project management (Jira experience preferred).</p>\n</li>\n<li>\n<p>A genuine interest in hiring, coaching, and developing engineers, not just directing them.</p>\n</li>\n<li>\n<p>Comfort partnering with Recruiting and other managers to hire and scale the org.</p>\n</li>\n<li>\n<p>Excellent communication: you can carry a tradeoff conversation with an engineer and a non-technical stakeholder equally well.</p>\n</li>\n</ul>\n<p><strong>Our mission is to keep the physical world running. </strong>Factories, fleets, hospitals and campuses stay up because the people who maintain them have tools worth using. That is what we build.</p>\n<p><strong>Compensation and benefits. </strong>Base pay is one part of the package. Depending on the role, compensation may also include commission, an annual bonus and equity. Benefits differ by country. For roles in the United States, Autodesk’s benefits are described at <a href=\"http://benefits.autodesk.com\">benefits.autodesk.com</a>. For roles in Canada and other countries, the plan differs on health coverage, retirement and leave, and your recruiter will walk you through it.</p>\n<p><strong>Belonging. </strong>We take pride in a culture where everyone can thrive. More at <a href=\"http://autodesk.com/company/global-belonging\">autodesk.com/company/global-belonging</a>. More on where this is going: Autodesk CEO Andrew Anagnost on building the future of connected operations, and AOS SVP Stephen Hooper on welcoming MaintainX to Autodesk.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/software-development-manager-maintainx-337976dea38447a9bc92e357fa16fe8d</p>",
       "posted_at": "2026-10-23T13:35:53.604+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "86cfd68a-b084-4509-bfed-180062237dab",
+      "title": "Staff Software Engineer, Member Records",
+      "url": "https://remotejobs.org/remote-jobs/staff-software-engineer-member-records-hinge-health",
+      "apply_url": "https://remotejobs.org/remote-jobs/staff-software-engineer-member-records-hinge-health",
+      "company": {
+        "name": "Hinge Health",
+        "logo_url": null,
+        "website": null,
+        "url": "https://remotejobs.org/companies/hinge-health"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "Bengaluru-HQ",
+      "location_normalization": {
+        "raw": "Bengaluru-HQ",
+        "input": {
+          "workArrangement": "hybrid"
+        },
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [
+          "bengaluru-hq"
+        ],
+        "work_arrangement": "hybrid",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "worksite_countries": [
+          "IN"
+        ],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [
+          {
+            "kind": "timezone",
+            "areas": [],
+            "effect": "context",
+            "details": "Applicants should be open to meetings in the late evening Indian Standard Time to align with San Francisco working hours (8am - 6pm PT); San Francisco is 12 hours and 30 minutes behind India Standard Time.",
+            "regions": [],
+            "timezones": [],
+            "evidence_id": "c2",
+            "conditional_on": null
+          }
+        ],
+        "unresolved": [],
+        "evidence_ids": [
+          "c2"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "hybrid",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": "staff",
+        "role_family": "software-engineering",
+        "required_skills": [],
+        "mentioned_skills": [
+          "nodejs",
+          "react",
+          "typescript"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": [
+          {
+            "text": "3+ years hands-on experience with TypeScript and modern React application development",
+            "maximum_years": null,
+            "minimum_years": 3,
+            "classification": "mentioned"
+          },
+          {
+            "text": "1+ years of experience in mentoring and leading junior team members, collaborating effectively with cross-functional teams, and contributing to project planning and decision-making",
+            "maximum_years": null,
+            "minimum_years": 1,
+            "classification": "mentioned"
+          }
+        ]
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "6f03efe9-17b3-4aec-8c53-50a815edf9b2",
+      "direct_apply": null,
+      "description": "<h2><strong>The Opportunity</strong></h2><p>We are looking for a <strong>Staff Software Engineer</strong> to shape the systems that give Hinge Health care-team members a clear, actionable view of the people they support. <strong>Member Records</strong> is the care-team-facing context layer within CareHub: it brings together member history, clinical context, active programs, program focus, indications, device and fulfillment status, onboarding progress, and program transitions so care teams can spend less time navigating fragmented systems and more time delivering personalized care.</p><p>As a hands-on technical leader, you will help define the architecture and technical direction for Member Records while continuing to build production software. You will work across the user interface, backend services, APIs, and data models, partnering with Product, Design, Clinical, Quality, and adjacent engineering teams. You will turn complex healthcare workflows into reliable, intuitive experiences and lead work from discovery and technical design through implementation, launch, and operational support.</p><p>This is an opportunity to own a meaningful product area end to end, influence technical decisions beyond your immediate team, and raise the quality, reliability, and effectiveness of the systems and engineers around you.</p><h2><strong>What You'll Accomplish</strong></h2><ul><li><p>Lead the architecture and end-to-end delivery of complex, cross-service Member Records initiatives—from discovery through production—bringing clarity to ambiguous requirements, dependencies, and trade-offs.</p></li><li><p>Set and advance a multi-quarter technical direction for Member Records in partnership with engineering and product leadership.</p></li><li><p>Establish durable technical patterns for APIs, domain models, integrations, testing, observability, and secure handling of member data.</p></li><li><p>Mentor and support junior engineers, providing thoughtful code reviews and real-time pairing.</p></li><li><p>Integrate and leverage AI technologies to automate processes and enhance product features.</p></li><li><p>Raise the engineering bar through high-quality design and code reviews, pairing, mentoring, hiring participation, and coaching other engineers toward greater technical ownership.</p></li><li><p>Strengthen operational ownership by defining meaningful health metrics, improving incident response, and addressing root causes rather than symptoms.</p></li></ul><h2><strong>Hinge Health Hybrid Model</strong></h2><p>We believe that remote work and in-person work have their own advantages and disadvantages, and we want to be able to leverage the best of both worlds. Employees in hybrid roles are required to be in the office 3 days/week.</p><p><strong>This is a Bengaluru-based role</strong> that involves regular interaction and collaboration with Hinge Health colleagues in San Francisco, CA.</p><ul><li><p><strong>Time zones:</strong> San Francisco is in the Pacific Time Zone, which is 12 hours and 30 minutes behind India Standard Time (e.g., 8am in San Francisco is 8:30pm in Bengaluru).</p></li><li><p><strong>Hours:</strong> Applicants should be open to meetings in the late evening following India Standard Time to align with San Francisco working hours (8am - 6pm PT).</p></li></ul><h2><strong>Basic Qualifications</strong></h2><ul><li><p>Bachelor’s Degree in Computer Science or related technical degree</p></li><li><p>9+ years of professional software engineering experience, with meaningful experience delivering production software.</p></li><li><p>3+ years hands-on experience with TypeScript and modern React application development.</p></li><li><p>3+years backend experience with Node.js, service development, API design, and integration patterns.</p></li><li><p>1+ years of experience in mentoring and leading junior team members, collaborating effectively with cross-functional teams, and contributing to project planning and decision-making</p></li><li><p>Experience with using AI tools such as Github copilot or Cursor</p></li></ul><h2><strong>Preferred Qualifications</strong></h2><ul><li><p>Full stack engineer with strong experience to backend technology like NodeJS, RDBMS</p></li><li><p>Exposure to microservices, distributed systems, containerization,</p></li><li><p>Experience taking ownership of features from technical design through launch and ongoing production support.</p></li><li><p>Strong understanding of software engineering fundamentals, including testing, observability, performance, availability, and secure development practices.</p></li><li><p>Ability to communicate technical decisions clearly to both technical and non-technical partners.</p></li><li><p>A collaborative, product-minded approach and the ability to work effectively in a remote, cross-functional environment.</p></li><li><p>Familiarity with AI-assisted software development or integrating AI capabilities into production workflows.</p></li></ul><h2><strong>About Hinge Health</strong></h2><p>At Hinge Health, we’re using technology to scale and automate the delivery of healthcare, starting with musculoskeletal (MSK) conditions, which affect over 1.7 billion people worldwide. Our AI-powered, human-centered care model spans MSK, pelvic health, gastrointestinal (GI) and migraine care. With over 60 partnerships with health plans, PBMs and other ecosystem partners, Hinge Health is available to over 25 million people across more than 2,900 employers. The company is headquartered in San Francisco with additional offices in Montreal and Bangalore. Learn more at <a href=\"http://hingehealth.com\">hingehealth.com</a>.</p><h2><br><strong>What You'll Love About Us</strong></h2><ul><li><p><strong>Inclusive healthcare and benefits:</strong> In addition to comprehensive medical, dental, and vision coverage, we provide employees and their family members with Group Medical Coverage (GMC), Group Term Life Insurance (GTL), and Group Personal Accident Insurance (GPA).</p></li><li><p><strong>Well-being &#x26; Growth:</strong> We offer a lifestyle stipend to support your overall well-being, along with learning and development opportunities to help you grow both personally and professionally.</p></li><li><p><strong>Ownership:</strong> Grow with us through discounted company stock through our ESPP with easy payroll deductions.</p></li></ul><h2><strong>Culture &#x26; Engagement</strong></h2><p>Hinge Health is an equal opportunity employer and prohibits discrimination and harassment of any kind. We make employment decisions without regards to race, color, religion, sex, sexual orientation, gender identity, national origin, age, veteran status, disability status, pregnancy, or any other basis protected by federal, state or local law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. We provide reasonable accommodations for candidates with disabilities. If you feel you need assistance or an accommodation due to a disability, let us know by reaching out to your recruiter.</p><p>By submitting your application you are acknowledging we are using your personal data as outlined in the <a href=\"https://www.hingehealth.com/about/personnel-and-candidate-privacy-policy/\">personnel and candidate privacy policy.</a></p><p><br>Beware of Phishing Attempts: We've noticed an increase in phishing where fraudsters impersonate employees and send fake job offers to steal sensitive information. We'll never ask for financial details during the hiring process and only use \"@<a href=\"http://hingehealth.com\">hingehealth.com</a>\" emails. If you receive a suspicious offer, stop communication and report it to the US FBI Internet Crime Complaint Center. To verify an email from our recruiting team, forward it to <a href=\"https://app.ashbyhq.com/admin/organizational-settings/theme#\">security@hingehealth.com</a>.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/staff-software-engineer-member-records-hinge-health</p>",
+      "posted_at": "2026-10-23T13:18:19.795+00:00",
       "is_translated": false,
       "original_language": null
     },
@@ -4508,181 +4726,6 @@
       "posted_at": "2026-10-22T14:00:50.298+00:00",
       "is_translated": true,
       "original_language": "fr"
-    },
-    {
-      "id": "ee9323c3-d308-455b-99ab-fa65dadf47b9",
-      "title": "Senior Principal Software Developer, Mobile Platform",
-      "url": "https://remotejobs.org/remote-jobs/senior-principal-software-developer-mobile-platform-maintainx",
-      "apply_url": "https://remotejobs.org/remote-jobs/senior-principal-software-developer-mobile-platform-maintainx",
-      "company": {
-        "name": "MaintainX",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/2335005d4d1688f8fa88e740fea95aa333d421c5c24d49591b30725e09872242.png",
-        "website": "https://maintainx.com",
-        "url": "https://remotejobs.org/companies/maintainx"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "Toronto",
-      "location_normalization": {
-        "raw": "Toronto",
-        "input": {
-          "workArrangement": "hybrid"
-        },
-        "scope": "unknown",
-        "status": "unknown",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [
-          "toronto"
-        ],
-        "work_arrangement": "hybrid",
-        "allowed_countries": [],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "unknown",
-        "status": "unknown",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [],
-        "evidence_ids": [],
-        "allowed_regions": [],
-        "work_arrangement": "hybrid",
-        "allowed_countries": [],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "partial",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": null,
-        "role_family": "software-engineering",
-        "required_skills": [],
-        "mentioned_skills": [
-          "react"
-        ],
-        "preferred_skills": [],
-        "experience_requirements": []
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": null,
-      "salary_period": null,
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": "18416cb9-5a75-45ea-b04f-236a0d567a1a",
-      "direct_apply": null,
-      "description": "<p><em><strong>MaintainX is a leading mobile-first work execution platform </strong>for industrial and frontline teams. <strong>More than 13,000 customers</strong>, including Duracell, McDonald's, Shell, DHL and Volvo, use MaintainX to cut unplanned downtime and run better operations, across 13.9 million managed assets and 79.5 million completed work orders.</em></p>\n<p><em><strong>In August 2026 MaintainX became part of Autodesk, joining </strong></em><a href=\"https://adsknews.autodesk.com/en/views/inside-autodesk-operations-solutions/\"><em><strong>Autodesk Operations Solutions</strong></em></a><em><strong>, the organization unifying Autodesk's operations platform alongside Tandem, FlexSim and Fusion Operations. </strong>Autodesk's strategy is to converge design, make and operate into one continuous lifecycle: design an asset, build it, run it, then feed what you learn running it back into the next design. Autodesk had design and make. Operate is the phase that tells you what actually happened, and it is ours.</em></p>\n<p>You'd be joining our Mobile Platform team within the Platform Engineering division.</p>\n<p>We're building an AI-native platform for our internal developers, over 150 of them, guided by a single question: does this shorten the time from idea to value, for the teams building on our platform and for the customers they ultimately serve?</p>\n<p>The smooth path is the safe, fast path, because the platform makes it the default. We build the route that maximizes AI acceleration.</p>\n<p>You'll shape the technical direction for how Mobile features get built, shipped, and operated across the engineering org, not just for one team.</p>\n<p><strong>What you’ll do</strong></p>\n<ul>\n<li>\n<p>Define and drive the multi-year technical strategy, governance and architecture for our mobile platform, balancing near-term developer pain with long-term scalability.</p>\n</li>\n<li>\n<p>Design and build critical foundations and tooling that power our Mobile app, and set the bar for quality through hands-on contributions to the hardest problems.</p>\n</li>\n<li>\n<p>Lead the consolidation and evolution of platform primitives: SDKs, CI pipelines, build tooling, release trains, observability, and agentic development golden paths.</p>\n</li>\n<li>\n<p>Champion AI-native ways of working, embedding AI workflows into your own practice, into the platform, and into how our feature teams build and ship.</p>\n</li>\n<li>\n<p>Raise engineering excellence standards across the organization through architectural reviews, RFCs, and technical mentorship of senior engineers and tech leads.</p>\n</li>\n<li>\n<p>Partner with Platform Engineering managers across multiple teams to set priorities, shape roadmaps, and align on cross-team technical direction.</p>\n</li>\n<li>\n<p>Define success metrics for the platform (adoption, build times, release velocity, developer satisfaction) and use them to guide investment and communicate impact.</p>\n</li>\n<li>\n<p>Present technical priorities, trade-offs, and results to executive stakeholders, and collaborate daily with engineering leaders across the company.</p>\n</li>\n</ul>\n<p><strong>About you</strong></p>\n<ul>\n<li>\n<p>10+ years of software engineering experience, including significant experience in mobile engineering, with a track record of technical leadership at the staff, principal, or equivalent level.</p>\n</li>\n<li>\n<p>A strong AI-native mindset. You've brought AI-assisted workflows into a platform or org, not just your own workflow.</p>\n</li>\n<li>\n<p>Deep expertise in React Native, including its architecture, performance, and native integration (iOS and Android).</p>\n</li>\n<li>\n<p>Proven success designing and driving adoption of shared modules, SDKs, and reusable components used across many teams.</p>\n</li>\n<li>\n<p>Strong expertise in Mobile foundations: CI/CD, build systems, release management, code signing and distribution, and mobile observability.</p>\n</li>\n<li>\n<p>A history of influencing technical direction across teams and organizations without relying on formal authority, including leading cross-team initiatives from proposal to adoption.</p>\n</li>\n<li>\n<p>A product mindset toward internal platforms: you understand your customers, measure adoption, and make pragmatic build-vs-buy decisions.</p>\n</li>\n<li>\n<p>Excellent mentorship and communication skills, with the ability to coach senior engineers and translate complex technical topics for executive audiences.</p>\n</li>\n<li>\n<p>Expert-level English, spoken and written, as you’ll lead platform engineering managers across multiple teams, present technical priorities to executive stakeholders, and align daily with engineering leaders outside Québec.</p>\n</li>\n</ul>\n<p><strong>Our mission is to keep the physical world running. </strong>Factories, fleets, hospitals and campuses stay up because the people who maintain them have tools worth using. That is what we build.</p>\n<p><strong>Compensation and benefits. </strong>Base pay is one part of the package. Depending on the role, compensation may also include commission, an annual bonus and equity. Benefits differ by country. For roles in the United States, Autodesk’s benefits are described at <a href=\"http://benefits.autodesk.com\">benefits.autodesk.com</a>. For roles in Canada and other countries, the plan differs on health coverage, retirement and leave, and your recruiter will walk you through it.</p>\n<p><strong>Belonging. </strong>We take pride in a culture where everyone can thrive. More at <a href=\"http://autodesk.com/company/global-belonging\">autodesk.com/company/global-belonging</a>. More on where this is going: Autodesk CEO Andrew Anagnost on building the future of connected operations, and AOS SVP Stephen Hooper on welcoming MaintainX to Autodesk.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-principal-software-developer-mobile-platform-maintainx</p>",
-      "posted_at": "2026-10-22T14:00:40.404+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "ef6382c2-5552-48cf-84dc-7eef0c5a51ca",
-      "title": "Software Engineer (Engineer III to Principal) - Formal Methods",
-      "url": "https://remotejobs.org/remote-jobs/software-engineer-engineer-iii-to-principal-formal-methods-certik-f3ba6fd2469946918232f84e5cfc9e9e",
-      "apply_url": "https://remotejobs.org/remote-jobs/software-engineer-engineer-iii-to-principal-formal-methods-certik-f3ba6fd2469946918232f84e5cfc9e9e",
-      "company": {
-        "name": "CertiK",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/d50be3ba50fb1a7f10dcd89cb0e6c222d776219aedb3c54f5cf014046c286e2e.jpeg",
-        "website": "https://certik.com",
-        "url": "https://remotejobs.org/companies/certik"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "USA",
-      "location_normalization": {
-        "raw": "USA",
-        "input": {},
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [],
-        "evidence_ids": [
-          "source-location"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "remote",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": "principal",
-        "role_family": "software-engineering",
-        "required_skills": [],
-        "mentioned_skills": [],
-        "preferred_skills": [],
-        "experience_requirements": [
-          {
-            "text": "2 years of experience with one or more of the following: model checking, formal verification, SAT/SMT solving (Z3, CVC4, Yices, MathSAT, SMTInterpol), abstract interpretation, or closely related disciplines",
-            "maximum_years": null,
-            "minimum_years": 2,
-            "classification": "mentioned"
-          }
-        ]
-      },
-      "salary_min": 115000,
-      "salary_max": 230000,
-      "salary_text": "USD 115,000–230,000/year",
-      "salary_source_text": "USD 115000 - 230000",
-      "salary_currency": "USD",
-      "salary_period": "year",
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<p><strong>Why us?</strong></p>\n<p>Blockchain technology is enabling a rapidly-growing era of innovation for the digital world. It is crucial that blockchain code such as protocols and smart contracts are provably secure and correct. Once deployed, they are public and cannot be changed. Vulnerabilities and bugs in such programs regularly put millions of dollars at stake. This is where <a href=\"https://jobicy.com/company/certik\">CertiK</a> comes in. We are the leading blockchain security company. Our goal is to secure the cyber world by applying cutting edge techniques from academia to secure blockchain code. Come and join this ambitious mission as a research software engineer to work on automated analyses for provably secure and correct blockchain applications!</p>\n<p><strong>What you will do</strong></p>\n<p>You will design and develop tools that automatically ensure the correctness of smart contracts or identify security issues and bugs in smart contracts. We have software engineer positions available at all levels of seniority. Title and responsibilities will be commensurate with experience and background.</p>\n<p>As part of our multinational team of programming language experts, you will participate in the development of tools that rest upon techniques such as symbolic model checking, SAT/SMT solving, abstract interpretation, data flow analysis, and deductive verification. You will have the opportunity to work on all stages of tool development from idea generation to implementation and iterative improvements. Our team is highly supportive and collaborative with great opportunities to learn and grow.</p>\n<p><strong>About you</strong></p>\n<p>You have a background in programming language theory and automated reasoning and love to work on the forefront of applying results from theoretical computer science. You love to tackle computationally hard problems and have a proven track record of achieving results, where results are people using your tool to do their jobs. You are collaborative: you share ideas, love to brainstorm with peers, and give and receive feedback. You are comfortable with the unknown and understand that #startuplife means that you will be wearing multiple hats.</p>\n<h2>Responsibilities</h2>\n<ul>\n<li>Extend the scope and depth of our automated program verification tools and brainstorm, design, and implement new tools.</li>\n<li>Adapt and improve algorithms for symbolic software model checking. Examples include bounded model checking (BMC), counterexample-guided abstraction refinement (CEGAR), and property directed reachability (IC3/PDR).</li>\n<li>Build and extend translators from different input languages into intermediate representations, optimizing the generated models for automated analysis.</li>\n<li>Identify new classes of security properties of smart contracts and formalize properties for use in our automated verification tools.</li>\n<li>Closely collaborate with other software engineers in developing tools and set technical direction for solving problems in consultation with your team and management.</li>\n<li>Work on all aspects of delivering working software that meets customer needs, including analysis, design, automated testing, operations, CI/CD, measuring results, incorporating customer feedback, and support.</li>\n</ul>\n<h2>Required Qualifications</h2>\n<ul>\n<li>Master's Degree in Computer Science or a related field or 5 years of equivalent experience.</li>\n<li>Minimum of 4 years of software development experience (includes internships, software developed during research, and open-source development).</li>\n<li>Minimum of 2 years of experience with one or more of the following: model checking, formal verification, SAT/SMT solving (Z3, CVC4, Yices, MathSAT, SMTInterpol), abstract interpretation, or closely related disciplines.</li>\n<li>Demonstrated knowledge of fundamental computer science concepts such as data structures, algorithms, mathematical logic, and automata theory.</li>\n</ul>\n<h2>Preferred Qualifications</h2>\n<ul>\n<li>PhD in the broader field of automated reasoning.</li>\n<li>Publication record in conferences like POPL, CAV, TACAS, FMCAD, FM, etc.</li>\n<li>Experience in functional programming (OCaml or Haskell).</li>\n<li>Strong and creative problem-solving skills; always willing to learn and embrace new technologies and to collaborate.</li>\n<li>Prior experience in a professional software development environment.</li>\n</ul>\n<h2>Compensation</h2>\n<h2>Additional Information</h2>\n<p><strong>About the Company</strong></p>\n<p>Founded in 2018 by professors of Yale University and Columbia University, CertiK is a pioneer in blockchain security, utilizing best-in-class technology to secure and monitor blockchain protocols and smart contracts. CertiK’s mission is to secure the cyber world. Starting with blockchain, CertiK applies cutting-edge innovations from academia into enterprise, enabling mission-critical applications to be built with security and correctness.</p>\n<p><strong>Compensation</strong></p>\n<p>Target annual base salary for this role performed in the US is $115,000 - $230,000.</p>\n<p>The exact compensation at which this job is filled will be determined by the skills and experience of qualified candidates.</p>\n<p>#LI-Remote</p>\n<p>#blockchain</p>\n<p>#startups</p>\n<p>#hiring</p>\n<p>CertiK is proud to offer medical, vision, and dental insurance, 401(k) plan with company matching, life and accidental death and dismemberment insurance, HSA (with high deductible plan), FSA, and other benefits to all full-time employees, along with flexible paid time off and holidays. CertiK also offers a variable commission program for business development sales roles.</p>\n<p>In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification form upon hire.</p>\n<p>CertiK is proud to be an equal opportunity employer. We will not discriminate against any applicant or employee on the basis of age, race, color, creed, religion, sex, sexual orientation, gender, gender identity or expression, medical condition, national origin, ancestry, citizenship, marital status or civil partnership/union status, physical or mental disability, pregnancy, childbirth, genetic information, military and veteran status, or any other basis prohibited by applicable federal, state or local law.</p>\n<p>CertiK will consider for employment qualified applicants with criminal histories in a manner consistent with local and federal requirements.</p>\n<p><a href=\"https://www.eeoc.gov/sites/default/files/migrated_files/employers/poster_screen_reader_optimized.pdf\">https://www.eeoc.gov/sites/default/files/migrated_files/employers/poster_screen_reader_optimized.pdf</a></p>\n<p>All CertiK employees are expected to actively support diversity on their teams, and in the Company.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/software-engineer-engineer-iii-to-principal-formal-methods-certik-f3ba6fd2469946918232f84e5cfc9e9e</p>",
-      "posted_at": "2026-10-22T13:26:41+00:00",
-      "is_translated": false,
-      "original_language": null
     },
     {
       "id": "4018905a-2ee7-4266-b31e-8fb2a58d3161",
@@ -7363,6 +7406,101 @@
       "original_language": null
     },
     {
+      "id": "f5bb3ca0-cfbc-4872-9633-758119b84e1a",
+      "title": "IT Support Specialist, Tier 2",
+      "url": "https://remotejobs.org/remote-jobs/it-support-specialist-tier-2-keeper-security",
+      "apply_url": "https://remotejobs.org/remote-jobs/it-support-specialist-tier-2-keeper-security",
+      "company": {
+        "name": "Keeper Security",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/35ff33364005c961c0314675408b45b357da66f4a14204cef7aa1686b9926106.webp",
+        "website": "https://keepersecurity.com",
+        "url": "https://remotejobs.org/companies/keeper-security"
+      },
+      "category": {
+        "name": "DevOps",
+        "slug": "devops"
+      },
+      "location": "Remote, US",
+      "location_normalization": {
+        "raw": "Remote, US",
+        "input": {},
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [
+          "Applicant must be local to the El Dorado Hills area and reside within reasonable commuting distance of Keeper's El Dorado Hills, CA office (description:2, description:45); city/radius residence requirement cannot be mapped to ISO subdivisions or countries.",
+          "Unresolved area: description:2, description:45"
+        ],
+        "evidence_ids": [
+          "c2",
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "hybrid",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": null,
+        "role_family": null,
+        "required_skills": [],
+        "mentioned_skills": [],
+        "preferred_skills": [],
+        "experience_requirements": [
+          {
+            "text": "3+ years of experience in IT support, desktop support, systems support or a related technical role",
+            "maximum_years": null,
+            "minimum_years": 3,
+            "classification": "required"
+          }
+        ]
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "4459433009",
+      "direct_apply": null,
+      "description": "<p><strong>Description</strong></p><p>Keeper Security is hiring an IT Support Engineer, Tier 2 to join our IT team and provide advanced technical support for employees, office infrastructure and on-site systems at our El Dorado Hills, CA location. This role requires candidates to be local to the El Dorado Hills area and work on-site a minimum of 3 days per week, with additional on-site coverage as needed for projects, incidents or infrastructure support.</p><p>Keeper’s cybersecurity software is trusted by millions of people and thousands of organizations globally. Keeper is published in 23 languages and sold in over 150 countries. Join one of the fastest-growing cybersecurity companies and help maintain the reliable, secure technology environment that supports Keeper’s employees and business operations.</p><p><strong>About Keeper</strong></p><p>Keeper Security is one of the fastest-growing cybersecurity software companies that protects thousands of organizations and millions of people in over 150 countries. Keeper is a pioneer of zero-knowledge and zero-trust security built for any IT environment. Its core offering, KeeperPAM®, is an AI-enabled, cloud-native platform that protects all users, devices and infrastructure from cyber attacks. Recognized for its innovation in the Gartner Magic Quadrant for Privileged Access Management (PAM), Keeper secures passwords and passkeys, infrastructure secrets, remote connections and endpoints with role-based enforcement policies, least privilege and just-in-time access. Learn why Keeper is trusted by leading organizations to defend against modern adversaries at KeeperSecurity.com.</p><p><strong>About the Job</strong></p><p>The IT Support Engineer, Tier 2 will report to the Director of IT and provide advanced end-user support while serving as a key on-site technical resource for Keeper’s El Dorado Hills office.</p><p>This role will handle escalated support issues across hardware, software, identity, networking and endpoint systems while also supporting physical IT infrastructure including server racks, network equipment and on-site servers. You will work closely with Tier 1 support, senior IT resources and third-party vendors to resolve issues, maintain office technology and support IT projects. The ideal candidate is comfortable troubleshooting beyond standard desktop support and can move between end-user issues and hands-on infrastructure work in a fast-paced environment.</p><p><strong>Responsibilities</strong></p><ul>\n<li>Provide Tier 2 technical support for escalated hardware, software, endpoint, identity and access issues</li>\n<li>Serve as a primary on-site IT resource for Keeper’s El Dorado Hills office</li>\n<li>Install, configure, troubleshoot and maintain Windows and macOS workstations, laptops, mobile devices and related peripherals</li>\n<li>Support physical IT infrastructure including server racks, on-site servers, network switches, cabling, UPS systems and related equipment</li>\n<li>Assist with rack-and-stack activities, hardware replacement, server maintenance and basic infrastructure troubleshooting</li>\n<li>Support office network connectivity including wired and wireless access, DNS, DHCP, VPN and basic network troubleshooting</li>\n<li>Troubleshoot user access, authentication, MFA, account provisioning and identity-related issues</li>\n<li>Support employee onboarding and offboarding, including device provisioning, access changes and asset coordination</li>\n<li>Escalate complex infrastructure, security or systems issues to Tier 3 resources while providing clear troubleshooting documentation</li>\n<li>Monitor, triage and resolve IT service requests and incidents in accordance with internal service expectations</li>\n<li>Maintain accurate IT asset records and conduct regular inventory audits</li>\n<li>Assist with endpoint management, software deployment and device configuration through MDM and related management platforms</li>\n<li>Support office-based technology including conference room systems, printers, access control and other workplace systems</li>\n<li>Partner with third-party vendors and service providers on infrastructure, network and hardware-related projects</li>\n<li>Maintain technical documentation, troubleshooting procedures and knowledge base articles</li>\n<li>Mentor Tier 1 support team members and assist with escalation handling and technical guidance</li>\n<li>Participate in IT projects involving endpoint deployment, network upgrades, office infrastructure and system improvements</li>\n<li>Use AI-assisted tools such as Gemini, ChatGPT or similar platforms to improve troubleshooting, documentation and workflow efficiency</li>\n<li>Provide occasional after-hours support for critical office or infrastructure issues as needed</li>\n</ul><p><strong>Requirements</strong></p><ul>\n<li>3+ years of experience in IT support, desktop support, systems support or a related technical role</li>\n<li>Experience providing Tier 2 or escalated technical support in a business environment</li>\n<li>Strong hands-on experience supporting Microsoft Windows and macOS environments</li>\n<li>Experience working with physical servers, server racks, switches, cabling or other on-site IT infrastructure</li>\n<li>Working knowledge of networking concepts including TCP/IP, DNS, DHCP, VPNs, VLANs and wireless networking</li>\n<li>Experience troubleshooting hardware, operating systems, software, user access and connectivity issues</li>\n<li>Familiarity with enterprise identity and access concepts including MFA, user provisioning, groups and permissions</li>\n<li>Experience provisioning and supporting laptops, desktops, mobile devices and common productivity applications</li>\n<li>Familiarity with cloud-based platforms such as Google Workspace, Microsoft Azure or similar technologies</li>\n<li>Familiarity with endpoint management or MDM platforms</li>\n<li>Strong troubleshooting, analytical and problem-solving skills</li>\n<li>Strong written and verbal communication skills with a customer-service mindset</li>\n<li>Ability to work independently on-site and determine when issues require escalation</li>\n<li>Ability and willingness to use AI-assisted tools effectively to improve troubleshooting, documentation and day-to-day IT operations</li>\n<li>Ability to lift up to 50 pounds and safely move, install or replace IT hardware as part of regular job duties</li>\n<li>Must reside within reasonable commuting distance of Keeper’s El Dorado Hills, CA office and be able to work on-site a minimum of 3 days per week</li>\n</ul><p><strong>Preferred Qualifications</strong></p><ul>\n<li>Experience supporting Windows Server or Linux server environments</li>\n<li>Experience with rack-and-stack, server hardware maintenance or data center / server room support</li>\n<li>Familiarity with Microsoft Intune, Kandji or similar endpoint management platforms</li>\n<li>Experience supporting Active Directory, Microsoft Entra ID, Okta or similar identity platforms</li>\n<li>Experience with switches, firewalls, wireless access points or other network infrastructure</li>\n<li>Familiarity with virtualization technologies such as VMware or Hyper-V</li>\n<li>Experience supporting office AV, conference room or physical access systems</li>\n<li>Relevant CompTIA, Microsoft, networking or IT support certifications</li>\n<li>Experience working in a security-conscious or compliance-driven environment</li>\n</ul><p><strong>Benefits</strong></p><ul>\n<li>Medical, Dental &#x26; Vision (inclusive of domestic partnerships)</li>\n<li>Employer Paid Life Insurance &#x26; Employee/Spouse/Child Supplemental life</li>\n<li>Voluntary Short/Long Term Disability Insurance</li>\n<li>401K (Roth/Traditional)</li>\n<li>A generous PTO plan that celebrates your commitment and seniority (including paid Bereavement/Jury Duty, etc)</li>\n<li>Above market annual bonuses</li>\n</ul><p>Keeper Security, Inc. is an equal opportunity employer and participant in the U.S. Federal E-Verify program. We celebrate diversity and are committed to creating an inclusive environment for all employees.</p><p>Classification: Exempt</p><p><strong>Keeper Candidate Privacy Notice</strong></p><p>This notice explains how Keeper Security processes your personal data during recruitment. Depending on the role and location, the Controller of personal data (the organization responsible for determining why and how personal data is processed) will be Keeper Security Inc. (US), Keeper Security EMEA Ltd. (Ireland), or Keeper Security APAC K.K (Japan).</p><p> 1. <strong>Data We Collect</strong></p><p>Information You provide:</p><ul>\n<li>Contact details, CV/resume, cover letter</li>\n<li>Employment history, qualifications, work eligibility</li>\n<li>Application responses and uploaded documents</li>\n</ul><p>Information We generate:</p><ul>\n<li>Interview notes, assessments, communications</li>\n<li>Scheduling information</li>\n</ul><p>Information From Others:</p><ul>\n<li>Recruiter/referral information who submit your profile</li>\n<li>References (with your consent, before final offer)</li>\n<li>Public professional profiles</li>\n<li>Background verification (post offer)</li>\n</ul><p> Voluntary Diversity and Equal Opportunity Information</p><ul>\n<li>We may ask you to voluntarily provide diversity information including race/ethnicity, gender, disability status and veteran status (US). Providing this information is optional and Keeper collects this data in order to comply with EEOC and similar requirements</li>\n</ul><p> 2. <strong>How We Use Your Data</strong></p><ul>\n<li>Assess your application and suitability</li>\n<li>Manage interviews and recruitment workflow</li>\n<li>Consider you for other/future roles (we may seek your consent to keep your information on our systems beyond the retention period specified)</li>\n<li>Comply with employment law obligations</li>\n</ul><p> 3. <strong>Legal Basis</strong></p><ul>\n<li>Legitimate Interests (recruitment management, security and integrity of the hiring process)</li>\n<li>Contracting steps (for progressed candidates)</li>\n<li>Legal and regulatory compliance obligations; explicit consent where required</li>\n</ul><p> 4. <strong>Who We Share Information With</strong></p><p>Internal: </p><ul>\n<li>HR, hiring managers, interviewers*, IT support for system administration</li>\n</ul><p>*Note - diversity and equal opportunity data is not shared with hiring managers.</p><p>Third Parties:</p><p>Service providers who assist with:</p><ul>\n<li>Applicant tracking, recruitment systems and assessment providers</li>\n<li>Background verification vendors (post offer)</li>\n<li>Recruitment agencies (where applicable)</li>\n<li>Tools to support communication, collaboration and to securely store your data</li>\n</ul><p>Keeper ensures that all our third parties are contractually bound to protect your personal data with adequate safeguards in place.</p><p> 5. <strong>International Transfers</strong></p><p>Your data may be accessed by Keeper entities globally as needed for the purposes of hiring and decision making. We protect any such data transfer between Keeper entities using appropriate safeguards under applicable data protection laws. </p><p>6. <strong>Security</strong></p><p>We implement appropriate technical and organizational measures to protect your data, consistent with our industry leading security standards.</p><p>7. <strong>Retention</strong></p><p>We keep your data for 24 months from your last application activity, then delete or anonymize it. </p><p>Exceptions:</p><ul>\n<li>You opt into our talent database for further retention by providing consent (extended retention)</li>\n<li>You're hired (transfers to employee records)</li>\n</ul><p> 8. <strong>Your Rights</strong></p><p>You have the following rights and can contact us at the email below to exercise them:</p><ul>\n<li>Access, correct, or delete your data, subject to applicable law and retention requirements</li>\n<li>Object to or restrict processing</li>\n<li>Withdraw consent (where applicable)</li>\n<li>Request data portability</li>\n<li>Lodge a complaint with your data protection authority</li>\n</ul><p>If you become an employee, your rights regarding your employee record are governed by our internal Employee Privacy Notice and certain data will be retained as required under relevant laws such as employment or tax law. </p><p>When you request access to your personal data, some information may be redacted if it includes the personal data of other individuals or information that we must protect in order to preserve their privacy rights.</p><p> 9. <strong>Automated Decisions</strong></p><p>Keeper does not make hiring decisions using solely automated processing.</p><p>10. <strong>Contact</strong> - Candidates can send privacy questions to: privacy@keepersecurity.com</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/it-support-specialist-tier-2-keeper-security</p>",
+      "posted_at": "2026-10-20T17:08:45+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
       "id": "8671e773-29b2-4c21-9a06-6fa79fde5e36",
       "title": "Solutions Architect - DevOps",
       "url": "https://remotejobs.org/remote-jobs/solutions-architect-devops-nvidia",
@@ -9236,93 +9374,6 @@
       "original_language": null
     },
     {
-      "id": "977a9136-50ac-4cb0-a6a1-01582e532aee",
-      "title": "Senior Network Engineer",
-      "url": "https://remotejobs.org/remote-jobs/senior-network-engineer-leidos-d3a344a7fccd4cf0bd5a4f4e73b8ee23",
-      "apply_url": "https://remotejobs.org/remote-jobs/senior-network-engineer-leidos-d3a344a7fccd4cf0bd5a4f4e73b8ee23",
-      "company": {
-        "name": "Leidos",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/c82c00af227c0de377083ca573333517a31204c4716b2b39a723fa78b017b98a.png",
-        "website": "https://leidos.dev",
-        "url": "https://remotejobs.org/companies/leidos"
-      },
-      "category": {
-        "name": "DevOps",
-        "slug": "devops"
-      },
-      "location": "United States",
-      "location_normalization": {
-        "raw": "United States",
-        "input": {},
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [],
-        "evidence_ids": [
-          "c3",
-          "source-location"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "remote",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-sonnet-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": "senior",
-        "role_family": null,
-        "required_skills": [],
-        "mentioned_skills": [
-          "aws"
-        ],
-        "preferred_skills": [],
-        "experience_requirements": []
-      },
-      "salary_min": 92300,
-      "salary_max": 166850,
-      "salary_text": "USD 92,300–166,850/year",
-      "salary_source_text": "USD 92300 - 166850",
-      "salary_currency": "USD",
-      "salary_period": "year",
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<p>Leidos is seeking a<strong> Senior Network Engineer</strong> to support Federal Civil customer in the Washington, DC metropolitan area. </p><p><strong>LOCATION: </strong>This position is remote; however, prefer candidates that are within driving distance to the Washington, DC area.</p><h2>POSITION SUMMARY:</h2><p>The Senior Network Engineer will serve as a senior technical contributor responsible for designing, implementing, optimizing, and sustaining complex network solutions spanning on-premises infrastructure and hybrid cloud environments. The position requires technical expertise, independent problem-solving, and the ability to develop effective solutions to complex network challenges involving multiple technologies and technical disciplines. The successful candidate will collaborate with customer stakeholders, engineering teams, cybersecurity professionals, and program leadership to maintain network availability, performance, and security while supporting infrastructure modernization and evolving mission requirements. This role also provides technical guidance to other engineers and contributes to network architecture, engineering standards, and continuous operational improvement.</p><h2>CLEARANCE REQUIREMENTS:</h2><ul><li>Must have or able to obtain a Public Trust clearance; Must be a US Citizen.</li></ul><h2>PRIMARY RESPONSBILITIES:</h2><ul>\n<li>Serve as a Senior technical and escalation resource for complex network engineering and operational issues affecting mission-critical enterprise infrastructure.</li>\n<li>Lead the planning, design, implementation, and optimization of complex network infrastructure solutions across geographically distributed, multi-vendor environments.</li>\n<li>Independently analyze complex technical challenges involving multiple systems and disciplines, develop engineering solutions, and implement corrective actions that improve network reliability, performance, and security.</li>\n<li>Design, configure, maintain, and troubleshoot enterprise routing and switching infrastructure, including BGP, OSPF, VLANs, VRFs, routing redundancy, and network failover.</li>\n<li>Engineer and support enterprise network security solutions, including Cisco Firepower, Firepower Management Center (FMC), ASA, firewall policies, access controls, and security hardening.</li>\n<li>Design, implement, and sustain secure site-to-site and remote-access VPN solutions, including Cisco Secure Client/AnyConnect and connectivity with external partners and vendors.</li>\n<li>Engineer and maintain hybrid cloud network connectivity integrating on-premises infrastructure with AWS networking services, including VPCs, Direct Connect, Transit Gateway, and load balancing.</li>\n<li>Support enterprise wireless networking and network access control technologies, including Cisco Identity Services Engine (ISE).</li>\n<li>Lead technical planning and execution of network infrastructure upgrades, modernization initiatives, lifecycle replacements, and security remediation activities.</li>\n<li>Evaluate network performance, availability, capacity, and emerging technical requirements; recommend and implement improvements to strengthen service delivery and operational resilience.</li>\n<li>Lead complex incident investigations and root cause analysis, identifying systemic issues and developing sustainable corrective and preventive solutions.</li>\n<li>Collaborate with customer representatives, program leadership, cybersecurity teams, vendors, and service providers to assess requirements, develop technical solutions, and influence network engineering decisions.</li>\n<li>Develop and maintain network architecture documentation, configuration standards, technical implementation plans, and operational procedures.</li>\n<li>Support incident, problem, change, and service request management processes while ensuring technical accuracy, documentation, and operational accountability.</li>\n<li>Provide technical mentorship, peer review, and engineering guidance to junior and mid-level network engineers.</li>\n<li>Identify opportunities for network automation, standardization, and process improvement to increase operational efficiency, reliability, and security.</li>\n</ul><p>BASIC QUALIFICATIONS:</p><ul>\n<li>Bachelor's degree in Information Technology, Computer Science, Engineering, or a related technical field with 8+ years of relevant network engineering experience; additional education and experience equivalencies may be considered.</li>\n<li>Advanced hands-on experience designing, implementing, administering, and troubleshooting complex enterprise network infrastructure in production environments.</li>\n<li>Expert-level knowledge of enterprise routing and switching technologies, including BGP, OSPF, VLANs, VRFs, and network redundancy and failover.</li>\n<li>Demonstrated experience developing and implementing technical solutions to complex network problems involving multiple systems, technologies, or engineering disciplines.</li>\n<li>Hands-on experience configuring, maintaining, and troubleshooting enterprise network security infrastructure, including firewalls, access control policies, and VPN connectivity.</li>\n<li>Experience supporting Cisco and/or Juniper enterprise networking platforms in complex, multi-vendor environments.</li>\n<li>Experience designing, implementing, or supporting hybrid cloud network connectivity between on-premises infrastructure and AWS environments.</li>\n<li>Demonstrated experience independently leading complex network troubleshooting, root cause analysis, and corrective action efforts.</li>\n<li>Experience planning and executing network infrastructure changes, upgrades, and security remediation activities in production environments.</li>\n<li>Demonstrated ability to develop technical recommendations, communicate complex technical information, and collaborate with customer stakeholders, engineering teams, vendors, and service providers.</li>\n<li>Experience producing and maintaining network diagrams, technical documentation, configuration standards, and implementation procedures.</li>\n<li>Strong communication skills, with experience collaborating directly with customers, vendors, and ISPs to support network design, troubleshooting, and issue resolution.</li>\n<li>Hands-on experience with Juniper EX/QFX &#x26; Junos OS, Cisco ISR &#x26; IOS devices, ASA, Firepower &#x26; FMC.</li>\n<li>Demonstrated experience with routing/switching protocols (e.g., BGP, `OSPF, VRF) and core infrastructure services.</li>\n<li>Hands-on experience managing AWS network infrastructure and hybrid cloud connectivity (e.g., VPC, direct-connect, transit gateways, load balancers) between on-prem and cloud environments.</li>\n<li>Experience with remote access VPN solutions, including Cisco AnyConnect/Secure Client configuration and support.</li>\n<li>Experience with virtual computing/virtualization platforms (e.g., VMware/vSphere) as they relate to network design and connectivity.</li>\n<li>Experience with wireless infrastructure and NAC solutions (e.g., Cisco ISE).</li>\n<li>Experience with Cisco CUCM/UC voice solutions.</li>\n<li>Able to obtain a baseline 8140 certification [(IAT Level II) CCNA-Security, CySA+, GICSP, GSEC, Security+ CE, CND, SSCP] within 90 days.</li>\n</ul><p><strong>PREFERRED QUALIFICATIONS:</strong></p><ul><li><strong>Cisco Certified CCNA</strong></li></ul><ul>\n<li><strong>Cisco Certified CCNP or Juniper JNCIP-ENT.</strong></li>\n<li><strong>Experience with Cisco Meraki wireless solutions.</strong></li>\n<li><strong>Experience with Cisco ISE.</strong></li>\n<li><strong>Experience with Dell switches and OS10.</strong></li>\n<li><strong>Experience with ServiceNow.</strong></li>\n<li><strong>Security+ CE certification.</strong></li>\n</ul><p><strong> ***Candidates selected for an interview should note that it will be conducted live via video, with cameras on at all times. As part of our identity verification process, a photo will be taken during the interview to confirm your identity and help protect against fraud.  At hire, candidates complete formal identity verification.***</strong></p><p><strong><br></strong></p><p>If you're looking for comfort, keep scrolling. At Leidos, we outthink, outbuild, and outpace the status quo — because the mission demands it. We're not hiring followers. We're recruiting the ones who disrupt, provoke, and refuse to fail. Step 10 is ancient history. We're already at step 30 — and moving faster than anyone else dares.</p><h2><strong>Original Posting:</strong></h2><p>October 15, 2026</p><p>For U.S. Positions: While subject to change based on business needs, Leidos reasonably anticipates that this job requisition will remain open for at least 3 days with an anticipated close date of no earlier than 3 days after the original posting date as listed above.</p><h2><strong>Pay Range:</strong></h2><p>Pay Range $92,300.00 - $166,850.00</p><p>The Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary. Additional factors considered in extending an offer include (but are not limited to) responsibilities of the job, education, experience, knowledge, skills, and abilities, as well as internal equity, alignment with market data, applicable bargaining agreement (if any), or other law.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-network-engineer-leidos-d3a344a7fccd4cf0bd5a4f4e73b8ee23</p>",
-      "posted_at": "2026-10-18T13:47:23+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
       "id": "7d84e44c-aab3-4493-9a80-5ee9f1c17249",
       "title": "Director of Supply Chain & Global Logistics",
       "url": "https://remotejobs.org/remote-jobs/director-of-supply-chain-global-logistics-greater-good-charities",
@@ -10154,6 +10205,99 @@
       "direct_apply": null,
       "description": "<h2><strong>Building the Future of Open Finance</strong><br></h2><p>Payward - the parent company behind Kraken, NinjaTrader, Breakout,  xStocks, Payward Services and CF Benchmarks - has spent the last 15 years building one of the most modern and globally accessible financial infrastructure platforms in the industry, built to advance an open, global financial system.</p><h3><strong>The team</strong></h3><p>Founded in 2011, Kraken is one of the world's longest-standing crypto platforms, trusted by over 10 million individuals and institutions across the globe. It offers spot trading, margin, futures, staking, and OTC services, with products built for both individual investors and institutional clients.</p><p>We're looking for a Sr. Data Analyst, Compliance to join our team remotely! The primary goal of this role is to elevate decision-making by uncovering emerging trends and root causes, and by driving insights and actions that provide full visibility into business performance and operational efficiency.</p><p>Beyond technical expertise, success in this role depends on being a true business partner who combines data-driven insights with strategic thinking to deliver actionable recommendations, guide decision-making, and drive measurable impact across the organization.</p><p>In this role, you'll own end-to-end data management, from building and maintaining datasets and pipelines to designing dashboards and delivering insights for the Compliance team. A core part of this role is owning the logic and rule-setting behind transaction monitoring across deposits and withdrawals. You'll also contribute to experimentation infrastructure, laying the groundwork for future ML and intelligence initiatives.</p><h3><strong>The opportunity</strong></h3><ul><li><p>Own the logic and rule-setting behind transaction monitoring across deposits and withdrawals, partnering closely with Compliance to study patterns and refine detection logic</p></li><li><p>Translate compliance requirements into production detection logic, preserving correctness across alert eligibility, thresholds, customer segmentation, date windows, and deduplication</p></li><li><p>Develop and maintain Python and SQL pipelines for transaction data preparation, feature engineering, and detection workflows</p></li><li><p>Evaluate detection rules and analytical models across coverage, alert quality, threshold sensitivity, and the impact of proposed changes</p></li><li><p>Design reproducible evaluations on historical data that account for limited labels, class imbalance, and shifts in customer behaviour over time</p></li><li><p>Own testing, deployment, scheduling, monitoring, and operational support for detection workflows, including investigating data quality issues, pipeline failures, and unexpected changes in detection results</p></li><li><p>Execute historical backfills with clear validation and traceability, and maintain reliable downstream alert delivery and integrations with compliance systems</p></li><li><p>Be at the forefront of data innovation by experimenting, testing hypotheses, and translating insights into action, while incorporating software engineering best practices into pipelines and dashboards.</p></li></ul><h3><strong>What you bring</strong></h3><ul><li><p>7+ years of experience in data analysis, data science, and data management within the fintech, crypto, financial services, or gambling industry, gained in a fast-paced, high-growth environment</p></li><li><p>Experience working with compliance, fraud, funding, finance, and customer support teams and analyzing large datasets, engineering features, and applying statistical methods to practical business problems</p></li><li><p>Strong Python and SQL skills, with experience building and supporting production data or analytical systems</p></li><li><p>Hands-on experience using dbt or similar tooling to model and organize high-fidelity data for reporting and decision-making</p></li><li><p>Experience setting up and managing data pipelines with a strong understanding of workflow orchestration, plus strong software engineering practices including version control, automated testing, code review, and CI/CD</p></li><li><p>Solid statistical foundation; ML exposure is a strong plus</p></li><li><p>Proficiency with BI and data visualization tools (e.g., Hex, Tableau, Power BI, or similar) to build executive-facing dashboards</p></li><li><p>Ability to investigate production issues independently and communicate technical findings and uncertainty to non-technical stakeholders</p></li><li><p>You believe wholeheartedly in the values outlined in Kraken's Tentaclements document</p></li><li><p>A degree in a field emphasizing analytical rigor, such as analytics, software engineering, statistics, or economics</p></li><li><p>Based in Canada, the US, or Brazil, and fluent in English</p></li></ul><h3><strong>Nice to haves</strong></h3><ul><li><p>Fraud detection, AML, anomaly detection, or other risk applications</p></li><li><p>Experience with Athena, Trino, Kafka, and Kubernetes alongside the core Airflow/dbt/S3 stack</p></li><li><p>Transaction pattern analysis, customer segmentation, and detection threshold tuning</p></li><li><p>Developing or productionising machine learning models, including experiment tracking and performance monitoring</p></li><li><p>Working with sparse or delayed feedback from investigations to evaluate and improve detection</p></li><li><p>Explainability, auditability, and change control in regulated environments</p></li></ul><p><em>Unless a specific application deadline is stated in the job posting, applications are accepted on an ongoing basis.</em></p><p><em>Please note, applicants are permitted to redact or remove information on their resume that identifies age, date of birth, or dates of attendance at or graduation from an educational institution.</em></p><p><em>We consider qualified applicants with criminal histories for employment on our team, assessing candidates in a manner consistent with the requirements of the San Francisco Fair Chance Ordinance.</em></p><h2><strong>Our commitment</strong></h2><p>Payward is powered by people from around the world and we celebrate the diverse talents, backgrounds, contributions, and unique perspectives that everyone brings to the table. We hire based on merit, seeking out people with the right abilities, knowledge, and skills for the job. We encourage you to apply for roles where you don't fully meet the listed requirements, especially if you're passionate or knowledgeable about crypto.<br></p><p>We may ask candidates to complete job-related skills or work-style assessments as part of our hiring process. These assessments evaluate competencies relevant to the role and are applied consistently across candidates for similar positions. Results are considered alongside experience and interviews, and are not the sole basis for any employment decision.<br></p><p>As an equal opportunity employer, we don't tolerate discrimination or harassment of any kind, whether based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status, or any other protected characteristic as outlined by federal, state, or local laws.</p><p><strong>Stay connected</strong></p><p><a href=\"https://twitter.com/krakenfx\">Follow us on Twitter</a></p><p><a href=\"https://blog.kraken.com/#:~:text=Enter%20your%20email%20address\">Learn on the Kraken Blog</a></p><p><a href=\"https://www.linkedin.com/company/kraken-exchange/\">Connect on LinkedIn</a></p><p><br><a href=\"https://www.kraken.com/legal/candidate-privacy-notice\">Candidate Privacy Notice</a></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/sr-data-analyst-compliance-kraken-3b92443658154bcebbad7b41fecb048a</p>",
       "posted_at": "2026-10-23T08:38:25.056+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "2496b6f1-60c6-4277-9fb7-98e2c2611cca",
+      "title": "Analyst, Strategy & Analytics",
+      "url": "https://remotejobs.org/remote-jobs/analyst-strategy-analytics-great-minds",
+      "apply_url": "https://remotejobs.org/remote-jobs/analyst-strategy-analytics-great-minds",
+      "company": {
+        "name": "Great Minds",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/5da499e080c05a6487d590f8de3d90a82b60a79fa0bee20b6d53bf4303aa58ad.jpeg",
+        "website": "https://greatminds.org",
+        "url": "https://remotejobs.org/companies/great-minds"
+      },
+      "category": {
+        "name": "Data Science",
+        "slug": "data-science"
+      },
+      "location": "DC, DC, US",
+      "location_normalization": {
+        "raw": "DC, DC, US",
+        "input": {},
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "allowed_subdivisions": [
+          "US-DC"
+        ],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "conflicting",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [
+          "US-DC"
+        ],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": null,
+        "role_family": null,
+        "required_skills": [
+          "sql"
+        ],
+        "mentioned_skills": [],
+        "preferred_skills": [],
+        "experience_requirements": [
+          {
+            "text": "1+ years of experience in analytics, data science, finance, management consulting, or another analytical role where data-driven analysis and execution were critical to success",
+            "maximum_years": null,
+            "minimum_years": 1,
+            "classification": "required"
+          }
+        ]
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "4fe795ace2988a725290c07023d1ff3482a363d70664b35b4c4aa4a41b23db9a",
+      "direct_apply": null,
+      "description": "<p><strong>Who We Are</strong></p><p>Great Minds is a high-growth, mission-driven organization founded by educators in 2007. As a for-profit, Public Benefit Corporation, we believe all students deserve access to meaningful, challenging content—and all teachers deserve tools that are intuitive, effective, and built for the realities of today’s classrooms.</p><p>We develop high-quality, knowledge-rich math, science and ELA curricula grounded in research and designed in collaboration with educators. Our materials reflect real classroom needs and are built to drive lasting student outcomes.</p><p>We are committed to usability, coherence, and practical implementation—supporting teachers not just through curriculum, but with professional learning, purposeful technology, and responsive service that enable strong adoption and impact.</p><p><strong>What We Build</strong></p><p>Our products—<strong>Eureka Math and </strong>Eureka Math², <strong>Wit &#x26; Wisdom</strong>, <strong>Geodes</strong>, and the newly launched <strong>Arts &#x26; Letters ELA</strong>—are trusted by thousands of schools and districts nationwide.</p><ul><li><p><strong>Eureka Math</strong> is the most widely used math curriculum in the U.S., and is focused on balancing conceptual understanding, procedural fluency, and application.</p></li><li><p><strong>Wit &#x26; Wisdom®</strong> and <strong>Arts &#x26; Letters ELA™</strong> anchor our reading strategy with content-rich, grade-level instruction that integrates literature, history, and the arts, grounded in the science of reading. <strong>Geodes®</strong> complements our reading suite with decodable texts that pair phonics with meaningful content to support early literacy.</p></li></ul><p>These programs reflect a shared belief in high expectations, joyful rigor, and deep respect for educators and students.</p><p><strong>Where We’re Headed</strong></p><p>Great Minds is entering a new stage of growth and product maturity. We are focused on building more connected, customer-informed experiences across the full educator journey—from curriculum to professional learning to platform and support.</p><p>Our long-term vision is to become a true partner in impact—not just delivering curriculum, but supporting educators in achieving outcomes at scale.</p><p><strong><br>Job Purpose</strong></p><p>Great Minds is looking for an analytically minded, and strategically curious professional to join our Strategy and Analytics team as an Analyst, Strategy &#x26; Analytics. Our team partners with leaders across the enterprise on Great Minds’ more important strategic priorities. We use data to inform strategy, evaluate performance, and help the organization accelerate progress toward its goals.</p><p>In this role, you will use data to drive insights, helping leaders across the organization understand what is happening and why, make the case for change, implement process improvements, and build analytical tools to support these changes.</p><p><strong><br>Responsibilities</strong></p><p>The duties and responsibilities include, but are not limited to, the following:</p><ul><li><p>Partner with stakeholders to understand their highest-priority issues that can be addressed with data, prototypes, discussion, and mock-ups</p></li><li><p>Track down and integrate the critical datasets needed to uncover actionable insights, building expertise in our data systems and structures across operational, financial and accounting, customer management, and digital platform applications</p></li><li><p>Perform critical analyses across disparate sources using a variety of analytical tools and methods to derive actionable insights</p></li><li><p>Create compelling cases for change through targeted analytics and storytelling, tailored for senior leaders</p></li><li><p>Apply rapid-cycle hypothesis testing and proofs of concept to help build and scale new tools, processes, and ways of working</p></li><li><p>Contribute to team-wide strategic projects that elevate business understanding, improve operational efficiency, and build data infrastructure and reporting capabilities</p></li></ul><p><strong>Requirements</strong></p><ul><li><p>1+ years of experience in analytics, data science, finance, management consulting, or another analytical role where data-driven analysis and execution were critical to success</p></li><li><p>Strong analytical skills, with familiarity with SQL and data visualization tools (e.g., Tableau, Power BI)</p></li><li><p>Experience using data to uncover advanced business and customer insights</p></li><li><p>Experience creating compelling presentations that concisely share data and insights in a form suitable for senior leaders</p></li><li><p>Intellectual curiosity and comfort navigating ambiguity and unfamiliar domains</p></li><li><p>Strong written and verbal communication skills across technical and non-technical audiences</p></li><li><p>Ability to work across multiple projects and balance competing demands, with strong time management skills</p></li><li><p>Team player with a commitment to excellence and a high level of integrity<strong><br></strong></p></li></ul><p><strong>Qualifications</strong></p><ul><li><p>Interest in K-12 public education and an understanding of how data can drive change, from leadership to the classroom</p></li><li><p>Working knowledge of the full data analytics pipeline (e.g., data gathering, ETL, automation, engineering, databases and storage, cleaning and reshaping, analysis, visualization), including data models, database design, data mining, and segmentation techniques</p></li><li><p>Experience working with data from CRM and ERP systems</p></li><li><p>Experience in consulting, transformation, or project-based environments<strong><br></strong></p></li></ul><p><strong>Required Education</strong></p><p>Bachelor’s degree in Finance, Math, Computer Science, Engineering, or another quantitative discipline</p><p><strong><br></strong></p><p><strong>Status</strong></p><p>Full-time, permanent <br></p><p><strong>Location</strong></p><p>Remote<strong><br></strong></p><p>The expected base salary range for this position is $61,000-$70,000, however the offered salary<strong> </strong>may be higher or lower than the above range dependent on numerous factors including, but not limited to location, work experience, skills and internal equity considerations. The base salary is not inclusive of benefits or other incentives.</p><p>A cover letter and resume are required to be considered for this position.</p><p>New employees will be required to successfully complete a background check.</p><p>Any communication to applicants relating to the Great Minds hiring process will only come from email addresses with the domains <strong><a href=\"http://greatminds.org/\">greatminds.org</a></strong> or <strong><a href=\"http://greatminds.recruitee.com/\">greatminds.recruitee.com</a></strong>. If in the course of the application or hiring process with Great Minds you are contacted through another domain, are requested to provide banking or other sensitive information, or you note any other suspicious activity, please contact <a href=\"mailto:security@greatminds.org\">security@greatminds.org</a></p><p>Great Minds is an equal opportunity employer. We will extend equal opportunity to all individuals without regard to race, religion, color, sex (including pregnancy, sexual orientation, and gender identity), national origin, disability, age, genetic information, or any other status protected under applicable federal, state, or local laws. Our policy reflects and affirms the organization’s commitment to the principles of fair employment and the elimination of all discriminatory practices.</p><p>#LI-Remote #LI-Hybrid</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/analyst-strategy-analytics-great-minds</p>",
+      "posted_at": "2026-10-23T00:00:00+00:00",
       "is_translated": false,
       "original_language": null
     },
@@ -13890,93 +14034,6 @@
       "direct_apply": null,
       "description": "<p><strong>Intetics Inc.</strong>, a global technology company providing custom software application development, distributed professional teams, software product quality assessment, and “all-things-digital” solutions, is seeking a highly skilled and experienced <strong>ML/Data Engineer </strong>to join our dynamic team on a full-time basis.</p>\n<h2>Customer location: USA</h2>\n<h2>Candidate locations: EU ONLY</h2>\n<h2>Working hours: 11.00-20.00 CET</h2>\n<h2>Language: English B2+</h2>\n<h2>Estimated start date: 16.11.2026</h2>\n<h2>Duration: 12 months</h2>\n<h2>Project Responsibilities</h2>\n<ul>\n<li>Design and build production data infrastructure for high-volume athlete performance and sensor data.</li>\n<li>Build and operate real-time and near-real-time ingestion systems for streaming data.</li>\n<li>Design storage and data architectures for high-volume time-series data and longitudinal athlete records.</li>\n<li>Build infrastructure that makes production features and derived metrics available to machine learning systems and AI agents with low latency.</li>\n<li>Design and implement graph data models and schemas representing relationships between athletes, training loads, injuries, performance, and outcomes.</li>\n<li>Build data and ML evaluation infrastructure that helps measure model reliability, calibration, and performance across real-world cases.</li>\n<li>Design systems that maintain strong tenant-level data isolation across clubs and customers.</li>\n<li>Establish appropriate data provenance, lineage, auditability, and observability across the platform.</li>\n<li>Work with ML and AI engineers to provide reliable data foundations for model training, inference, and evaluation.</li>\n<li>Work with sport scientists and domain experts to translate complex requirements into durable production systems.</li>\n<li>Make pragmatic technology and architecture decisions as the platform evolves.</li>\n</ul>\n<h2>Requirements</h2>\n<ul>\n<li>5+ years of full-time professional software or data engineering experience, excluding internships, university placements, coursework, and academic projects.</li>\n<li>Proven experience designing, building, and operating production data infrastructure at scale.</li>\n<li>Strong experience working with time-series data or time-series databases, such as InfluxDB, TimescaleDB, Prometheus, ClickHouse, or equivalent technologies.</li>\n<li>Significant experience with real-time or streaming data ingestion, using technologies such as Kafka, Kinesis, Flink, Spark Streaming, Pulsar, or equivalent.</li>\n<li>Experience designing graph data models or graph database schemas, not simply querying or consuming an existing graph database.</li>\n<li>Experience designing or operating multi-tenant systems with tenant-level data isolation.</li>\n<li>Strong Python and SQL skills. Professional experience with Go is highly desirable.</li>\n<li>Experience working with production systems where reliability, scalability, observability, and data correctness matter.</li>\n<li>Ability to take ownership of ambiguous technical problems and turn them into practical production architectures.</li>\n<li>Experience working directly with data scientists, ML engineers, or other technical domain specialists.</li>\n<li>Experience building probabilistic evaluation, model calibration, or model monitoring infrastructure.</li>\n<li>Experience with causal inference, counterfactual modelling, or simulation.</li>\n<li>Experience working with wearable sensors, IoT data, biomechanics, sports technology, or other high-frequency telemetry.</li>\n<li>Experience building knowledge graphs or domain-specific ontologies.</li>\n<li>Experience with LLM or AI evaluation frameworks and an understanding of their limitations.</li>\n<li>Experience with AWS, including ECS, EC2, Lambda, SNS, SQS, or related services.</li>\n<li>Experience with GraphQL, REST, gRPC, Postgres, MongoDB, or similar technologies.</li>\n</ul>\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/mldata-engineer-intetics</p>",
       "posted_at": "2026-10-17T12:51:58+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "bc0e0973-842f-4c81-a094-e5363617fa8e",
-      "title": "Sr. Data Analyst | Canada | Remote",
-      "url": "https://remotejobs.org/remote-jobs/sr-data-analyst-canada-remote-sutherland",
-      "apply_url": "https://remotejobs.org/remote-jobs/sr-data-analyst-canada-remote-sutherland",
-      "company": {
-        "name": "Sutherland",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/7c8ea13df0380b3ae6943574c1cc6d43d2896773dce4d366e2d8ccd4f60328c7.jpeg",
-        "website": "https://sutherland.io",
-        "url": "https://remotejobs.org/companies/sutherland"
-      },
-      "category": {
-        "name": "Data Science",
-        "slug": "data-science"
-      },
-      "location": "Canada",
-      "location_normalization": {
-        "raw": "Canada",
-        "input": {},
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "CA"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [],
-        "evidence_ids": [
-          "c1",
-          "source-location"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "remote",
-        "allowed_countries": [
-          "CA"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-sonnet-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": "senior",
-        "role_family": null,
-        "required_skills": [],
-        "mentioned_skills": [
-          "sql"
-        ],
-        "preferred_skills": [],
-        "experience_requirements": []
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": null,
-      "salary_period": "year",
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<h2>**CANADA BASED**(remote)</h2>\n<p>As a <strong>Senior Data Analyst</strong>, you’ll be a key driver of insight and innovation within our Enterprise Data and Analytics team. We’re looking for a curious, detail-oriented professional who thrives on turning complex scientific and operational data into clear, actionable intelligence. In this role, you’ll lead the development of analytical solutions that illuminate critical KPIs, uncover performance trends, and support strategic decision-making across the business. You’ll partner closely with stakeholders to map business processes, align data solutions with real-world operations, and conduct deep-dive analyses that solve high-value challenges. This is a high-impact opportunity to shape how data informs strategy and contributes to our mission of creating healthier lives.</p>\n<p>As a <strong>Sr. Data Analyst</strong> you will be focused on:</p>\n<p>Our team thrives on curiosity, collaboration, and a commitment to excellence. We work closely with cross-functional engineering and business partners to deliver impactful data and analytics solutions that shape the future of research and development.</p>\n<p>In this role, primary <strong>responsibilities </strong>include:</p>\n<ul>\n<li>Analyzing complex scientific datasets to uncover meaningful insights and support strategic initiatives.</li>\n<li>Mapping key business process rules to ensure data solutions align with operational realities.</li>\n<li>Creating insight-driven solutions that bring visibility into critical KPIs and performance metrics.</li>\n<li>Conducting deep-dive analyses to solve challenging problems and support evidence-based recommendations.</li>\n<li>Engage Business Stakeholders at all levels to identify requirements for current and future products through ongoing interaction.</li>\n</ul>\n<ul>\n<li>Lead requirements workshops and User Acceptance Testing for new data, products and analytics solutions.</li>\n</ul>\n<ul>\n<li>Analyze business processes and develop business flow diagrams and data flow diagrams to support system design and optimization.</li>\n<li>Work cross-functionally with engineering, product, and business teams to ensure alignment and successful delivery.</li>\n</ul>\n<ul>\n<li>Data Profiling, mining, and data validation/testing to ensure data is fit for use by the business.</li>\n<li>Perform ad-hoc analysis and present results in a clear and user-friendly manner.</li>\n<li>Build strong business relationships that foster a collaborative and trusting approach and partnership.</li>\n</ul>\n<p>We are looking for the following <strong>minimum qualifications</strong> for this role:</p>\n<ul>\n<li>Bachelor degree in Business Management, Computer Science or any related field.</li>\n<li>Master in Business Administration/ Information Systems/ Computer Science is an asset.</li>\n<li>Excellent analytical and problem-solving skills with the ability to approach challenges creatively.</li>\n<li>Ability to understand and make sense of complex datasets with a strong attention to detail</li>\n<li>Ability to translate requirements to well-written user stories to bridge the gap between business and technology.</li>\n<li>Strong business mindset with ability to collaborate with business partners to identify needs and opportunities for improved data management and delivery.</li>\n<li>Ability to see big picture and then identify key areas for deep analysis to support sound solutions.</li>\n<li>Self-driven and capable of working both independently and collaboratively within a team setting.</li>\n<li>Experience in life science or Biotechnology industry is a plus.</li>\n<li>MUST be based in Canada</li>\n</ul>\n<h2>Technical Expertise required:</h2>\n<ul>\n<li>Minimum of 5 years’ experience in writing complex SQL queries, data mining, data profiling, and data validation/testing;</li>\n<li>Minimum of 5 years’ experience as a Business Systems Analyst / Data Analyst specializing in the Data &#x26; Analytics discipline, preferably in a senior or lead role;</li>\n<li>Minimum of 5 years’ experience organizing and running User Acceptance Testing cycles and training with business users and stakeholders;</li>\n<li>Experience working with Data Visualization Tools like Power BI, Tableau, Looker, MicroStrategy</li>\n<li>Experienced working in Agile Software Development Methodology.</li>\n</ul>\n<p>All your information will be kept confidential according to EEO guidelines.</p>\n<h2>EEOC and Veteran Documentation</h2>\n<p>During employment, employees are treated without regard to race, color, religion, sex, national origin, age, marital or veteran status, medical condition or handicap, or any other legally protected status.<br>\nAt times, government agencies require periodic reports from employers on the sex, ethnicity, handicap, veteran and other protected status of employees. The purpose of this Administrative EEO Record is for statistical analysis only and is used to comply with government record keeping, reporting, and other legal requirements. Periodic reports are made to the government on the following information. The completion of the Administrative EEO record is optional. If you choose to volunteer the requested information, please note that all<br>\nAdministrative EEO Records are kept in a Confidential File and are not part of your Application for Employment or Personnel file.<br>\nPlease note: YOUR COOPERATION IS VOLUNTARY. INCLUSION OR EXCLUSION OF ANY DATA WILL NOT AFFECT ANY EMPLOYMENT DECISION.</p>\n<h2>About Sutherland:</h2>\n<p>At Sutherland Healthcare Solutions, we’re transforming how we work by harnessing the power of AI, data, and digital innovation to accelerate the discovery and development of life-saving therapies. Our vision is to embed artificial intelligence and advanced analytics across every stage of our scientific and operational workflows—empowering our teams with smarter tools, seamless data, and actionable insights to deliver client-centric services and solutions that better serve our customers and, ultimately, improve patients’ lives.</p>\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/sr-data-analyst-canada-remote-sutherland</p>",
-      "posted_at": "2026-10-17T12:39:21+00:00",
       "is_translated": false,
       "original_language": null
     }
