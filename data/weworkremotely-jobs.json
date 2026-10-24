@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-24T03:31:00.166Z",
-  "count": 188,
+  "generatedAt": "2026-10-24T10:25:27.711Z",
+  "count": 194,
   "jobs": [
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/wrike-director-global-gtm-strategy-operations",
@@ -738,6 +738,21 @@
       "category": "devops"
     },
     {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/gusto-inc-senior-product-design-manager-payroll",
+      "source": "weworkremotely",
+      "title": "Senior Product Design Manager, Payroll",
+      "company": "Gusto, Inc.",
+      "url": "https://weworkremotely.com/remote-jobs/gusto-inc-senior-product-design-manager-payroll",
+      "description": "Headquarters: Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Toronto, Ontario - Remote &nbsp; About Gusto At Gusto, we're on a mission to grow the small business economy. We handle the hard stuff — payroll, health insurance, 401(k)s, and HR — so owners can focus on their craft and their customers. With teams in Denver, San Francisco, and New York, we support more than 500,000 small businesses nationwide and are building a workplace that reflects the people we serve. All full-time employees receive competitive base pay, benefits, and equity (RSUs) — because everyone who helps build Gusto should share in its success. Offer amounts are determined by role, level, and location. Learn more about our Total Rewards philosophy . AI is a fundamental part of how work gets don",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Design",
+        "design"
+      ],
+      "postedAt": "Sat, 24 Oct 2026 07:31:04 +0000",
+      "category": "design"
+    },
+    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/cata-kor-graphic-designer",
       "source": "weworkremotely",
       "title": "Graphic Designer",
@@ -909,21 +924,6 @@
       "company": "Vercel",
       "url": "https://weworkremotely.com/remote-jobs/vercel-design-engineer",
       "description": "Headquarters: Remote - United States About Vercel: Vercel is the agentic infrastructure company, freeing people and agents to ship what's next. For more than a decade we've helped builders move from idea to production with speed, security, and exceptional developer experience. Now we're scaling our products for both agents and people to ship and run software, built in the open and trusted by OpenAI, PayPal, Ramp, Supreme, and millions of developers worldwide. About the Role: AI Gateway gives developers one place to connect applications and agents to hundreds of models with one API key. It handles provider routing and fallbacks, unifies billing and observability, and lets teams manage spend and security controls across production AI workloads. Designing this well is a systems problem. A dev",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Design",
-        "design"
-      ],
-      "postedAt": "Thu, 01 Oct 2026 07:30:47 +0000",
-      "category": "design"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/calm-com-senior-product-designer",
-      "source": "weworkremotely",
-      "title": "Senior Product Designer",
-      "company": "Calm.com",
-      "url": "https://weworkremotely.com/remote-jobs/calm-com-senior-product-designer",
-      "description": "Headquarters: Remote, United States About Calm Calm is the leading mental health brand on a mission to make the world happier and healthier. Known for its flagship consumer app—ranked #1 in its category with over 180 million downloads and availability in ten languages across 190 countries—Calm helps people sleep better, stress less, and live more mindfully through content and tools from experts and beloved celebrity voices. Building on this foundation, Calm has created a broader portfolio including evidence-based solutions like Calm Health , offered through employers, health plans and providers, designed to expand access to mental health and sleep support, boost benefits engagement, and drive positive health outcomes. Today, Calm supports more than 3,500 organizations and reaches over 42 m",
       "location": "Anywhere in the World",
       "tags": [
         "Design",
@@ -1201,6 +1201,36 @@
       ],
       "postedAt": "Wed, 26 Aug 2026 11:52:22 +0000",
       "category": "design"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/cribl-director-product-management-security",
+      "source": "weworkremotely",
+      "title": "Director, Product Management (Security)",
+      "company": "Cribl",
+      "url": "https://weworkremotely.com/remote-jobs/cribl-director-product-management-security",
+      "description": "Headquarters: Remote - United States Join the company that’s building the telemetry infrastructure for the AI era. At Cribl, we partner with IT and Security teams at many of the world’s biggest enterprises, including half of the Fortune 100, to bridge the gap between AI ambition and infrastructure reality. As the AI Platform for Telemetry, we give customers the choice, control, and flexibility to manage and analyze telemetry for both humans and agents, so they can build what’s next. We’re one of the fastest‑growing private companies and a leading player in a massive, fast‑moving market. With a global workforce, we’re remote‑first and grounded in a simple idea: software is a people business. Cribl is the place where curious, collaborative people can do their best work, grow fast, and bring ",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Product",
+        "product"
+      ],
+      "postedAt": "Sat, 24 Oct 2026 07:31:04 +0000",
+      "category": "product"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/gusto-inc-payment-operations-analyst",
+      "source": "weworkremotely",
+      "title": "Payment Operations Analyst",
+      "company": "Gusto, Inc.",
+      "url": "https://weworkremotely.com/remote-jobs/gusto-inc-payment-operations-analyst",
+      "description": "Headquarters: San Francisco, CA - Hybrid; Seattle, WA - Remote &nbsp; About Gusto At Gusto, we're on a mission to grow the small business economy. We handle the hard stuff — payroll, health insurance, 401(k)s, and HR — so owners can focus on their craft and their customers. With teams in Denver, San Francisco, and New York, we support more than 500,000 small businesses nationwide and are building a workplace that reflects the people we serve. All full-time employees receive competitive base pay, benefits, and equity (RSUs) — because everyone who helps build Gusto should share in its success. Offer amounts are determined by role, level, and location. Learn more about our Total Rewards philosophy . AI is a fundamental part of how work gets done at Gusto. We expect all team members to activel",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Product",
+        "product"
+      ],
+      "postedAt": "Sat, 24 Oct 2026 07:31:03 +0000",
+      "category": "product"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/committee-for-children-senior-product-manager-edtech-innovation",
@@ -1518,21 +1548,6 @@
       "category": "product"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/calm-com-growth-product-manager",
-      "source": "weworkremotely",
-      "title": "Growth Product Manager",
-      "company": "Calm.com",
-      "url": "https://weworkremotely.com/remote-jobs/calm-com-growth-product-manager",
-      "description": "Headquarters: Remote, United States About Calm Calm is the leading mental health brand on a mission to make the world happier and healthier. Known for its flagship consumer app—ranked #1 in its category with over 180 million downloads and availability in ten languages across 190 countries—Calm helps people sleep better, stress less, and live more mindfully through content and tools from experts and beloved celebrity voices. Building on this foundation, Calm has created a broader portfolio including evidence-based solutions like Calm Health , offered through employers, health plans and providers, designed to expand access to mental health and sleep support, boost benefits engagement, and drive positive health outcomes. Today, Calm supports more than 3,500 organizations and reaches over 42 m",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Product",
-        "product"
-      ],
-      "postedAt": "Thu, 01 Oct 2026 07:30:44 +0000",
-      "category": "product"
-    },
-    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/accelerate-agency-brand-content-manager",
       "source": "weworkremotely",
       "title": "Brand Content Manager",
@@ -1606,6 +1621,96 @@
       ],
       "postedAt": "Mon, 28 Sep 2026 14:39:57 +0000",
       "category": "product"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/stockx-category-manager-trading-cards",
+      "source": "weworkremotely",
+      "title": "Category Manager - Trading Cards",
+      "company": "StockX",
+      "url": "https://weworkremotely.com/remote-jobs/stockx-category-manager-trading-cards",
+      "description": "Headquarters: Remote, USA Help empower our global customers to connect to culture through their passions. Why you’ll love this role: StockX is the world’s leading marketplace for current culture, built at the intersection of commerce, community, and credibility. Trading Cards are foundational to StockX — not just as products, but as artifacts of fandom, nostalgia, speculation, and identity. We are expanding how Trading Cards culture shows up on StockX through creator-driven, community-oriented commerce experiences that blend storytelling, expertise, and transaction. To do this well, we need category leaders who don’t just understand collectibles — they live inside them. The Trading Cards Category Manager is the single-threaded owner of collectibles category growth within a new, high-priori",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Sat, 24 Oct 2026 07:31:04 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/carrot-lead-product-management",
+      "source": "weworkremotely",
+      "title": "Lead Product Management",
+      "company": "Carrot",
+      "url": "https://weworkremotely.com/remote-jobs/carrot-lead-product-management",
+      "description": "Headquarters: Remote About Carrot: Carrot is the leading global fertility and family care platform, built on intelligent care orchestration: the right clinical guidance, at the right moment, in the context of each member’s life. More than a thousand multinational employers, health plans, and health systems trust Carrot to support millions of members across 195 countries – from pre-pregnancy through menopause and major life moments in between. Carrot's comprehensive clinical program delivers industry-leading cost savings for plan sponsors and award-winning experiences and improved outcomes for millions of people worldwide. Carrot is widely regarded as a defining force in healthcare innovation as a recipient of several top-tier awards, including Fast Company's 'Most Innovative Companies' and",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Sat, 24 Oct 2026 07:31:03 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/stockx-category-manager-sneakers",
+      "source": "weworkremotely",
+      "title": "Category Manager - Sneakers",
+      "company": "StockX",
+      "url": "https://weworkremotely.com/remote-jobs/stockx-category-manager-sneakers",
+      "description": "Headquarters: Remote, USA Help empower our global customers to connect to culture through their passions. Why you’ll love this role: StockX is the world’s leading marketplace for current culture, built at the intersection of commerce, community, and credibility. Sneakers are foundational to StockX — not just as a category, but as a culture, an economy, and a global community. We are expanding how sneaker culture shows up on StockX through creator-driven, community-oriented commerce experiences that blend storytelling, expertise, and transaction. To do this well, we need category leaders who don’t just understand the sneaker market — they live inside it. The Sneakers Category Manager is the single-threaded owner of sneaker category growth within a new, high-priority commerce initiative. Thi",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Sat, 24 Oct 2026 07:31:03 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/beyondtrust-associate-data-engineer",
+      "source": "weworkremotely",
+      "title": "Associate Data Engineer",
+      "company": "BeyondTrust",
+      "url": "https://weworkremotely.com/remote-jobs/beyondtrust-associate-data-engineer",
+      "description": "Headquarters: Remote United States BeyondTrust is a place where you can bring your purpose to life through the work that you do, creating a safer world through our cybersecurity SaaS portfolio. Our culture of flexibility, trust, and continual learning means you will be recognized for your growth, and for the impact you make on our success. You will be surrounded by people who challenge, support, and inspire you to be the best version of yourself. The Role As an Associate Data Engineer at BeyondTrust, you will contribute to building and enhancing our data lake which currently consumes billions of events each day. You will&nbsp; leverage &nbsp; state-of-the-art &nbsp;data engineering tools to help develop cost-effective cloud solutions that enable next-level cybersecurity research. You will&",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Sat, 24 Oct 2026 07:30:50 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/oportun-sr-data-analytics-engineer-r14153",
+      "source": "weworkremotely",
+      "title": "Sr. Data Analytics Engineer (R14153)",
+      "company": "Oportun",
+      "url": "https://weworkremotely.com/remote-jobs/oportun-sr-data-analytics-engineer-r14153",
+      "description": "Headquarters: Remote - MX Who We Are Oportun (Nasdaq: OPRT) is a mission-driven financial services company that puts its members' financial goals within reach. With intelligent borrowing, savings, and budgeting capabilities, Oportun empowers members with the confidence to build a better financial future. Since inception, Oportun has provided more than $22.7 billion in responsible and affordable credit, saved its members more than $2.5 billion in interest and fees, and helped its members set aside an average of more than $1,800 annually. The Opportunity&nbsp; As a Sr. Data Engineer at Oportun, you will be a key member of our team, responsible for designing, developing, and maintaining sophisticated software / data platforms in achieving the charter of the engineering group. Your mastery of ",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Sat, 24 Oct 2026 07:30:50 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/oportun-senior-software-engineer-r14285",
+      "source": "weworkremotely",
+      "title": "Senior Software Engineer (R14285)",
+      "company": "Oportun",
+      "url": "https://weworkremotely.com/remote-jobs/oportun-senior-software-engineer-r14285",
+      "description": "Headquarters: Remote - US Who We Are Oportun (Nasdaq: OPRT) is a mission-driven financial services company that puts its members' financial goals within reach. With intelligent borrowing, savings, and budgeting capabilities, Oportun empowers members with the confidence to build a better financial future. Since inception, Oportun has provided more than $22.7 billion in responsible and affordable credit, saved its members more than $2.5 billion in interest and fees, and helped its members set aside an average of more than $1,800 annually. The Opportunity The Engineering Ecosystem Org exists to help engineers deliver member value with high speed and high quality. As a Senior Software Engineer, you will design, build, and operate scalable platform services and shared libraries that improve dev",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Sat, 24 Oct 2026 07:30:45 +0000",
+      "category": "full-stack"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/toptal-senior-deployment-engineer-with-llm-and-gpu-infrastructure-experience",
@@ -2418,21 +2523,6 @@
       "category": "full-stack"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/launchdarkly-backend-engineer-multiple-positions",
-      "source": "weworkremotely",
-      "title": "Backend Engineer (Multiple Positions)",
-      "company": "LaunchDarkly",
-      "url": "https://weworkremotely.com/remote-jobs/launchdarkly-backend-engineer-multiple-positions",
-      "description": "Headquarters: Remote - US Backend Engineer About LaunchDarkly Engineering LaunchDarkly helps engineering organizations ship software and AI with speed, safety, and control. Our platform gives teams the confidence to release gradually, target experiences to the right audiences, learn through experimentation, understand what is happening in production, and respond quickly when risk appears. Our engineers build the systems, services, SDKs, developer tools, cloud infrastructure, and product experiences that make this possible. The work spans high-scale distributed systems, reliable data and event pipelines, intuitive enterprise workflows, and AI-powered capabilities that help teams manage the next generation of software delivery. LaunchDarkly’s SDKs are used in systems that perform trillions o",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Tue, 06 Oct 2026 07:31:05 +0000",
-      "category": "full-stack"
-    },
-    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/steuart-nutrition-software-developer-ai-coding",
       "source": "weworkremotely",
       "title": "Software Developer AI Coding",
@@ -2491,6 +2581,21 @@
       ],
       "postedAt": "Thu, 14 May 2026 09:14:28 +0000",
       "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/carrot-medical-expert-fertility-contractor",
+      "source": "weworkremotely",
+      "title": "Medical Expert, Fertility (Contractor)",
+      "company": "Carrot",
+      "url": "https://weworkremotely.com/remote-jobs/carrot-medical-expert-fertility-contractor",
+      "description": "Headquarters: Remote About Carrot: Carrot is the leading global fertility and family care platform, built on intelligent care orchestration: the right clinical guidance, at the right moment, in the context of each member’s life. More than a thousand multinational employers, health plans, and health systems trust Carrot to support millions of members across 195 countries – from pre-pregnancy through menopause and major life moments in between. Carrot's comprehensive clinical program delivers industry-leading cost savings for plan sponsors and award-winning experiences and improved outcomes for millions of people worldwide. Carrot is widely regarded as a defining force in healthcare innovation as a recipient of several top-tier awards, including Fast Company's 'Most Innovative Companies' and",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Management and Finance",
+        "management"
+      ],
+      "postedAt": "Sat, 24 Oct 2026 07:31:04 +0000",
+      "category": "management"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/storyblok-salesforce-lead-usa",
@@ -2595,21 +2700,6 @@
         "management"
       ],
       "postedAt": "Tue, 20 Oct 2026 07:30:58 +0000",
-      "category": "management"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/talkspace-billing-and-claims-support-representative",
-      "source": "weworkremotely",
-      "title": "Billing and Claims Support Representative",
-      "company": "Talkspace",
-      "url": "https://weworkremotely.com/remote-jobs/talkspace-billing-and-claims-support-representative",
-      "description": "Headquarters: New York, NY (Remote) At Talkspace, we are committed to fostering a diverse, equitable, inclusive, and belonging-centered workplace where everyone can thrive while making a difference in mental health. Want to help over two million people receive quality mental healthcare? Come join our mission of getting therapy in the hands of everyone! We are looking for an experienced Billing and Claims Support Representatitve to join our Customer Support &nbsp; team. This role would be responsible for educating clients on our billing and claims procedures, swiftly addressing escalated inquiries with empathy and accuracy.&nbsp; We are looking for someone who has experience providing white-glove service to our clients, ensuring they feel cared for and supported in every interaction. You'll",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Management and Finance",
-        "management"
-      ],
-      "postedAt": "Mon, 19 Oct 2026 07:31:12 +0000",
       "category": "management"
     },
     {
