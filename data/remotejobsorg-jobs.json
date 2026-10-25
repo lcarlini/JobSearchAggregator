@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T15:40:53.790Z",
+  "generatedAt": "2026-10-25T20:29:37.559Z",
   "count": 150,
   "data": [
     {
@@ -771,7 +771,7 @@
     },
     {
       "id": "e9d68398-fcd2-4b89-96f2-a7becf2f0d42",
-      "title": "Fullstackutvecklare till Umeå",
+      "title": "Full-stack developer in Umeå",
       "url": "https://remotejobs.org/remote-jobs/fullstackutvecklare-till-ume-cygni-part-of-accenture",
       "apply_url": "https://remotejobs.org/remote-jobs/fullstackutvecklare-till-ume-cygni-part-of-accenture",
       "company": {
@@ -834,7 +834,7 @@
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
         "seniority": null,
-        "role_family": null,
+        "role_family": "software-engineering",
         "required_skills": [],
         "mentioned_skills": [
           "angular",
@@ -865,10 +865,10 @@
       ],
       "employer_job_id": null,
       "direct_apply": null,
-      "description": "<h2>Vilka är vi?</h2>\n<p>Vår vision är att vara den absolut bästa arbetsgivaren för en skicklig och ambitiös IT-konsult. Därför lägger vi stor vikt vid dig då du är det viktigaste vi har. Vi lyssnar på dig, vi arbetar för dig och vi gör vårt yttersta för att du ska må bra hos oss. Dessutom älskar vi tech, teambuilding och framförallt: att ha kul tillsammans! Klyschigt tänker du kanske? – helt sant menar vi!</p>\n<h2>Vem är du?</h2>\n<p>Ja, vem är du? Vad vill du göra? Vad brinner du för? Vi arbetar fram det uppdrag som går i linje med din plan för framtiden. Om du inte har någon plan så fixar vi en tillsammans!</p>\n<p>Som fullstackutvecklare hos oss arbetar du vanligtvis över hela teknikstacken med alltifrån Serverless, Cloud, REST-tjänster, scripting och NoSQL-databaser till frontnära JavaScript-programmering. Några vanliga buzzwords som vi ser i våra projekt just nu är open source (såklart), Java, Kotlin, JavaScript, C#, .NET core, Node.js, Go, Git, NoSQL, Docker, Amazon AWS, Azure, Continuous Delivery, React, Vue.js, Angular, microservices, async, ReactiveX.</p>\n<p>Vi ser gärna att du har några års arbetslivserfarenhet efter dina studier från något tekniskt universitet. Sannolikt är du systemvetare eller ingenjör. Viktigast är dock att du är en relationsbyggande person som trivs i konsultrollen.</p>\n<h2>Vad erbjuder vi?</h2>\n<p>Hos oss får du roliga uppdrag som du själv är med och styr över. Kompetensutveckling öser vi över dig och den är naturligtvis betald och individuell. Du får passionerade kollegor som gärna delar med sig av sin kunskap, och vill lära sig av dig. Kulturen är inkluderande och förutom fast lön har vi även marknadens bästa förmånspaket (ja, vi benchmarkar).</p>\n<p>Vill du också arbeta på Sveriges bästa arbetsplats?</p>\n<p>Ansök då med att fylla i formuläret nedan, men innan dess så kan det vara bra att veta, att <strong>intervjuerna sker på svenska</strong> så vi förutsätter att du behärskar det väl i både tal och skrift.</p>\n<h2>Vi ser fram emot din ansökan!</h2>\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/fullstackutvecklare-till-ume-cygni-part-of-accenture</p>",
+      "description": "<h2>Who are we?</h2>\n<p>Our vision is to be the absolute best employer for a skilled and ambitious IT consultant. That is why we place great emphasis on you, as you are our most important asset. We listen to you, we work for you, and we do our utmost to make sure you feel good with us. In addition, we love tech, team building and, above all: having fun together! Sounds cliché, you might think? – we truly mean it!</p>\n<h2>Who are you?</h2>\n<p>So, who are you? What do you want to do? What are you passionate about? We work out the assignment that aligns with your plan for the future. If you don't have a plan, we'll create one together!</p>\n<p>As a full-stack developer with us, you typically work across the entire technology stack, from Serverless, Cloud, REST services, scripting and NoSQL databases to front-end JavaScript programming. Some common buzzwords we see in our projects right now are open source (of course), Java, Kotlin, JavaScript, C#, .NET core, Node.js, Go, Git, NoSQL, Docker, Amazon AWS, Azure, Continuous Delivery, React, Vue.js, Angular, microservices, async, ReactiveX.</p>\n<p>We would like you to have a few years of work experience after your studies at a technical university. You are likely a systems scientist or engineer. Most important, however, is that you are a relationship-building person who thrives in the consultant role.</p>\n<h2>What do we offer?</h2>\n<p>With us, you get fun assignments that you help steer yourself. We pour competence development over you, which is of course paid and individual. You get passionate colleagues who gladly share their knowledge and want to learn from you. The culture is inclusive and, in addition to a fixed salary, we also have the market's best benefits package (yes, we benchmark).</p>\n<p>Do you also want to work at Sweden's best workplace?</p>\n<p>Apply by filling in the form below, but before that it may be good to know that <strong>the interviews are conducted in Swedish</strong> so we assume that you master it well in both speech and writing.</p>\n<h2>We look forward to your application!</h2>\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/fullstackutvecklare-till-ume-cygni-part-of-accenture</p>",
       "posted_at": "2026-10-25T12:27:49+00:00",
-      "is_translated": false,
-      "original_language": null
+      "is_translated": true,
+      "original_language": "sv"
     },
     {
       "id": "49cd75bd-9025-4efa-8209-baecd5a11401",
@@ -904,7 +904,29 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "CA"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -8043,6 +8065,78 @@
       "original_language": null
     },
     {
+      "id": "54a8b7e1-5c88-432f-b1dc-762885e5c821",
+      "title": "Senior Technical Trainer — AI / DevOps Remote, worldwide",
+      "url": "https://remotejobs.org/remote-jobs/senior-technical-trainer-ai-devops-remote-worldwide-onhires",
+      "apply_url": "https://remotejobs.org/remote-jobs/senior-technical-trainer-ai-devops-remote-worldwide-onhires",
+      "company": {
+        "name": "OnHires",
+        "logo_url": null,
+        "website": "https://onhires.com",
+        "url": "https://remotejobs.org/companies/onhires"
+      },
+      "category": {
+        "name": "DevOps",
+        "slug": "devops"
+      },
+      "location": "USA",
+      "location_normalization": {
+        "raw": "USA",
+        "input": {
+          "workArrangement": "remote"
+        },
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "worksite_countries": [
+          "US"
+        ],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": null,
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": "senior",
+        "role_family": null,
+        "required_skills": [],
+        "mentioned_skills": [
+          "kubernetes"
+        ],
+        "preferred_skills": [
+          "aws",
+          "kubernetes"
+        ],
+        "experience_requirements": []
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "53d11172-6c16-4d97-acf5-04e24fb3b826",
+      "direct_apply": null,
+      "description": "<h2>Senior Technical Trainer — <em>AI</em> / DevOps</h2>\n<p><strong>Remote, worldwide · Freelance course project with a path to full-time</strong></p>\n<p>We’re hiring on behalf of a global hands-on tech-education platform used by over a million engineers to learn DevOps, <em>cloud</em>, Kubernetes and <em>AI</em>. Its courses are built around real labs, not slides, and taught by practising engineers who are great on camera.</p>\n<p>We’re looking for a DevOps engineer who loves teaching to create and present a course on <em>AI</em> for DevOps: how engineers use <em>AI</em> agents and modern <em>AI</em> tooling in real infrastructure work.</p>\n<p>This role suits you if you already teach as part of what you do: you’ve published courses on Udemy, Pluralsight or YouTube, written a book, worked in DevRel, run workshops, or regularly speak at meetups and conferences.</p>\n<p><strong>How it works</strong></p>\n<ul>\n<li>\n<p><strong>It starts with one paid course project.</strong> You can do it alongside your current job. There’s no fixed weekly-hour requirement, just a delivery plan you agree on together. A typical project takes around 3 months.</p>\n</li>\n<li>\n<p><strong>The goal is long-term.</strong> The team is growing its internal trainer pool, and the first project is how both sides find out if it’s a fit. After that, it can lead to a full-time role or more course projects.</p>\n</li>\n<li>\n<p><strong>A fixed fee per course is agreed upfront,</strong> based on course length and topic complexity. Fees are competitive, and advanced topics and exceptional instructors are paid accordingly. Payment is made on delivery of the completed course.</p>\n</li>\n<li>\n<p><strong>Fully remote with flexible hours.</strong> Expect a weekly sync, Slack communication, and some time-zone overlap with a Europe/Asia-based team.</p>\n</li>\n</ul>\n<p><strong>What you’ll do</strong></p>\n<ul>\n<li>\n<p>Shape the course with the curriculum team: sections, lessons, and hands-on labs.</p>\n</li>\n<li>\n<p>Write lab specs that a dedicated labs team builds, then test them.</p>\n</li>\n<li>\n<p>Write and narrate short, story-driven video lessons (about 6 minutes each). You’re welcome to use <em>AI</em> to draft, but the final script should sound like you.</p>\n</li>\n<li>\n<p>Record demo and lab-solution walkthroughs.</p>\n</li>\n<li>\n<p>Work through structured editorial feedback, especially on your first section.</p>\n</li>\n</ul>\n<p>Video editing, animation, lab infrastructure and publishing are all handled by the production team. You focus on the teaching.</p>\n<p><strong>What we’re looking for</strong></p>\n<ul>\n<li>\n<p><strong>Hands-on DevOps foundations:</strong> Linux, containers, Kubernetes, a major <em>cloud</em>, CI/CD, IaC. You build and run infrastructure yourself.</p>\n</li>\n<li>\n<p><strong>Real, current use of </strong><em><strong>AI</strong></em><strong> in your engineering work:</strong> <em>AI</em> agents, coding assistants, LLM-based automation. Deep <em>AI</em> specialisation isn’t required, but curiosity and staying current are.</p>\n</li>\n<li>\n<p><strong>Excellent spoken and written English.</strong> All courses are scripted, narrated and delivered in English, so you need clear, natural, easily understood English and confidence on camera.</p>\n</li>\n<li>\n<p><strong>A genuine passion for teaching,</strong> shown through courses, tutorials, talks, workshops or mentoring you’ve done because you enjoy it.</p>\n</li>\n<li>\n<p><strong>The ability to explain complex topics simply,</strong> with empathy for beginners.</p>\n</li>\n<li>\n<p><strong>Clear, engaging spoken English and confidence on camera.</strong></p>\n</li>\n<li>\n<p><strong>Openness to an established teaching methodology</strong> and to editorial feedback.</p>\n</li>\n</ul>\n<p><strong>Nice to have</strong></p>\n<ul>\n<li>\n<p>Published online courses or a book.</p>\n</li>\n<li>\n<p>Conference talks, a growing YouTube channel or blog, or community roles (CNCF Ambassador, AWS Community Builder, Microsoft MVP, etc.).</p>\n</li>\n<li>\n<p>Kubernetes (CKA/CKAD/CKS, Kubestronaut) or AWS/Azure certifications.</p>\n</li>\n</ul>\n<p><strong>How to apply</strong><br>\nSend your CV or LinkedIn profile, plus a link that shows how you teach: a course, a talk, a tutorial or a short video.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-technical-trainer-ai-devops-remote-worldwide-onhires</p>",
+      "posted_at": "2026-10-21T09:44:15.504+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
       "id": "f5bb3ca0-cfbc-4872-9633-758119b84e1a",
       "title": "IT Support Specialist, Tier 2",
       "url": "https://remotejobs.org/remote-jobs/it-support-specialist-tier-2-keeper-security",
@@ -9360,90 +9454,6 @@
       "original_language": null
     },
     {
-      "id": "2ba16fea-b208-4d70-a5a6-11645672c8b9",
-      "title": "Technology Manager",
-      "url": "https://remotejobs.org/remote-jobs/technology-manager-empower-ai-inc",
-      "apply_url": "https://remotejobs.org/remote-jobs/technology-manager-empower-ai-inc",
-      "company": {
-        "name": "Empower AI Inc.",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/932919a5764605a74a5fa82e7b35fd4627a1c546a474c0f290e41660ebaa10a0.webp",
-        "website": "https://empower.com",
-        "url": "https://remotejobs.org/companies/empower-ai-inc"
-      },
-      "category": {
-        "name": "DevOps",
-        "slug": "devops"
-      },
-      "location": "United States",
-      "location_normalization": {
-        "raw": "United States",
-        "input": {},
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [],
-        "evidence_ids": [
-          "source-location"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-sonnet-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": "manager",
-        "role_family": null,
-        "required_skills": [],
-        "mentioned_skills": [],
-        "preferred_skills": [],
-        "experience_requirements": []
-      },
-      "salary_min": 105660,
-      "salary_max": 163530,
-      "salary_text": "USD 105,660–163,530/year",
-      "salary_source_text": "USD 105660 - 163530",
-      "salary_currency": "USD",
-      "salary_period": "year",
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<h2>Overview</h2><p>Empower AI is AI for government. Empower AI gives federal agency leaders the tools to elevate the potential of their workforce with a direct path for meaningful transformation. Headquartered in Reston, Va., Empower AI leverages three decades of experience solving complex challenges in Health, Defense, and Civilian missions. Our proven Empower AI Platform® provides a practical, sustainable path for clients to achieve transformation that is true to who they are, what they do, how they work, with the resources they have. The result is a government workforce that is exponentially more creative and productive. For more information, visit www.Empower.ai.</p><p>Empower AI is proud to be recognized as a 2024 Military Friendly Employer by Viqtory, the publisher of G.I. Jobs. This designation reflects the company’s commitment to hiring and supporting active-duty and veteran employees.</p><h2>Responsibilities</h2><p>Empower AI is seeking an experienced <strong>Technology Manager</strong> to provide expertise in implementing Salesforce technical solutions in a contact center environment.</p><h2>Responsibilities: </h2><ul>\n<li>Manage IT projects within contact center environment</li>\n<li>Implement Salesforce technical solutions</li>\n<li>Implement and manage intelligent IVR, Chatbot, live Chat, VOIP telephony, ACD/CTI, CRM, KM, and associated tools.</li>\n<li>Evaluate emerging contact center technologies and present findings to stakeholders</li>\n<li>Facilitate work sessions with business users to understand business processes and requirements</li>\n</ul><h2>Qualifications</h2><h2>Qualifications: </h2><ul>\n<li>Bachelors degree in information technology, computer science, management information systems (MIS), management or a related area.</li>\n<li>6 or more years experience managing IT projects and implementing Salesforce technical solutions in a contact center environment with at least 100 seats.</li>\n<li>Salesforce Certified Administrator and/or Salesforce Certified Technical Architect</li>\n<li>Certified CRM consultant with multiple CRM contact center implementations</li>\n<li>Experience in contact center solution design, architecture, and implementation</li>\n<li>Expertise and experience implementing and managing intelligent IVR, Chatbot, live Chat, VOIP telephony, ACD/CTI, CRM, KM, and associated tools</li>\n<li>Experience leveraging user-centered design methodologies to manage a technology stack that supports business objectives.</li>\n<li>Ability to evaluate technical operations and customer experience and identify and present recommendations for improvements.</li>\n</ul><h2>About Empower AI</h2><p>All hiring and promotion decisions at Empower AI are based on merit to bring the best talent available to contribute to our firm’s overall success. It is the policy of Empower AI not to discriminate against any applicant for employment, or employee because of age, color, sex, disability, national origin, race, religion, or veteran status. Empower AI is a VEVRAA Federal Contractor.</p><p>If hired for this position, the base salary range would be within the range provided. The base salary range represents the anticipated low and high end of the salary range for this position. Actual salaries may vary based on various factors including but not limited to work location, skills, experience, gov con contractual requirements, and performance. The range listed is just one component of Empower AI's total compensation package for employees.</p><h2>Pay Band Min</h2><p>USD $105,660.00/Yr.</p><h2>Pay Band Max</h2><p>USD $163,530.00/Yr.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/technology-manager-empower-ai-inc</p>",
-      "posted_at": "2026-10-18T21:33:52+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
       "id": "4bc6d7f4-b409-4c1b-964c-3c597b736aff",
       "title": "Sr. Data Solution Architect",
       "url": "https://remotejobs.org/remote-jobs/sr-data-solution-architect-owens-minor",
@@ -9477,7 +9487,29 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -9556,7 +9588,29 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -9714,7 +9768,34 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [
+          "The role is based in London or Stockholm. These city-level work locations cannot be mapped to ISO 3166-2 subdivisions without guessing, so the restriction is retained without areas.",
+          "Unresolved area: description:27"
+        ],
+        "evidence_ids": [
+          "c2",
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "hybrid",
+        "allowed_countries": [
+          "GB",
+          "SE"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -11075,6 +11156,98 @@
       "original_language": null
     },
     {
+      "id": "56734d8d-ba71-4600-8e54-3f17c645c67f",
+      "title": "Senior Business Systems Analyst, Content Supply Chain & AI (Pharma Commercial)",
+      "url": "https://remotejobs.org/remote-jobs/senior-business-systems-analyst-content-supply-chain-ai-pharma-commercial-onhires",
+      "apply_url": "https://remotejobs.org/remote-jobs/senior-business-systems-analyst-content-supply-chain-ai-pharma-commercial-onhires",
+      "company": {
+        "name": "OnHires",
+        "logo_url": null,
+        "website": "https://onhires.com",
+        "url": "https://remotejobs.org/companies/onhires"
+      },
+      "category": {
+        "name": "Data Science",
+        "slug": "data-science"
+      },
+      "location": "San Francisco",
+      "location_normalization": {
+        "raw": "San Francisco",
+        "input": {
+          "workArrangement": "hybrid"
+        },
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [
+          "san francisco"
+        ],
+        "work_arrangement": "hybrid",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "worksite_countries": [
+          "US"
+        ],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [
+          "San Francisco Bay Area"
+        ],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [
+          "The hybrid work location 'San Francisco Bay Area' is a regional label that cannot be mapped to ISO 3166-2 subdivisions, and the posting does not define the exact in-person or commuting requirement.",
+          "Unresolved area: description:2"
+        ],
+        "evidence_ids": [
+          "c2"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "hybrid",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": "senior",
+        "role_family": null,
+        "required_skills": [],
+        "mentioned_skills": [],
+        "preferred_skills": [],
+        "experience_requirements": []
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "b874904e-183a-4835-9623-0efc0b080642",
+      "direct_apply": null,
+      "description": "<p><strong>Senior Business Systems Analyst, Content Supply Chain &#x26; AI (Pharma Commercial)</strong></p>\n<p><strong>Location:</strong> Hybrid, San Francisco Bay Area<br>\n<strong>Type:</strong> Contract, project-based<br>\n<strong>Industry:</strong> Pharma / Life Sciences</p>\n<p><strong>About the role</strong><br>\nOur client, a global pharmaceutical company, is looking for a senior BSA to support its commercial content platforms and the move toward AI-assisted content production. You’ll sit between the business, external system integrators, and AI/ML developers, turning business needs into clear functional and technical requirements.</p>\n<p><strong>What you’ll do</strong></p>\n<ul>\n<li>\n<p>Own functional requirements for the content supply chain: modular content, derivative and de novo content creation, assembly, and composition workflows</p>\n</li>\n<li>\n<p>Act as the first point of contact for product questions, feature requests, and troubleshooting</p>\n</li>\n<li>\n<p>Coordinate delivery with system integrators and make sure builds match functional designs and user stories</p>\n</li>\n<li>\n<p>Track milestones, delivery risks, and cross-workstream dependencies through to release</p>\n</li>\n<li>\n<p>Support implementation and enhancement of Adobe Express, Creative Cloud, and content assembly platforms</p>\n</li>\n<li>\n<p>Document how AI agents source data from workflow tools, generate draft content, pull metadata from DAM, and pass content to downstream systems via API</p>\n</li>\n<li>\n<p>Work with AI/ML developers to define how the orchestration layer connects to existing and legacy systems</p>\n</li>\n<li>\n<p>Recommend scalable, governed content processes and operating models</p>\n</li>\n</ul>\n<p><strong>What we’re looking for</strong></p>\n<ul>\n<li>\n<p>Experience in business or systems analysis on enterprise marketing content platforms, ideally in pharma or another regulated environment</p>\n</li>\n<li>\n<p>Working knowledge of the Adobe content stack (Workfront, Experience Manager/Assets, Express, Firefly) and/or Veeva Vault PromoMats</p>\n</li>\n<li>\n<p>Understanding of how marketing content moves through an enterprise tech stack (workflow tools, DAM, production and journey tools such as AJO)</p>\n</li>\n<li>\n<p>Comfort with API-based integrations and enterprise architecture</p>\n</li>\n<li>\n<p>Exposure to generative AI in content workflows, including guardrails and compliance</p>\n</li>\n<li>\n<p>Track record of working with external vendors and delivery teams</p>\n</li>\n</ul>\n<p><strong>Compensation:</strong> Competitive, to be discussed individually.</p>\n<p><strong>To apply:</strong> send your resume, and we’ll set up a short call.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-business-systems-analyst-content-supply-chain-ai-pharma-commercial-onhires</p>",
+      "posted_at": "2026-10-23T16:04:53.237+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
       "id": "f03a79fe-4e78-4976-840c-c6364b727ca5",
       "title": "Staff, Fraud Countermeasures",
       "url": "https://remotejobs.org/remote-jobs/staff-fraud-countermeasures-wealthsimple-technologies",
@@ -11217,6 +11390,9 @@
         ],
         "reference_version": "iso-3166@4.4.0",
         "excluded_countries": [],
+        "worksite_countries": [
+          "US"
+        ],
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
@@ -11316,6 +11492,10 @@
         ],
         "reference_version": "iso-3166@4.4.0",
         "excluded_countries": [],
+        "worksite_countries": [
+          "BR",
+          "CA"
+        ],
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
@@ -12438,6 +12618,111 @@
       "direct_apply": null,
       "description": "<h2>\n<strong>Become a part of our caring community</strong><br>\n</h2><p>The Associate Actuary, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. Establishes metrics, provides data analyses, and works directly to support business intelligence. Evaluates industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Associate Actuary, Analytics/Forecasting work assignments involve moderately complex to complex issues where the analysis of situations or data requires an in-depth evaluation of variable factors.</p><p>The Associate Actuary, Analytics/Forecasting ensures data integrity by developing and executing necessary processes and controls around the flow of data. Collaborates with stakeholders to understand business needs/issues, troubleshoots problems, conducts root cause analysis, and develops cost effective resolutions for data anomalies. Begins to influence department’s strategy. Makes decisions on moderately complex to complex issues regarding technical approach for project components, and work is performed without direction. Exercises considerable latitude in determining objectives and approaches to assignments.</p><p>The Associate Actuary will work primarily in Databricks to support the development of three new Net Present Valuation models for Medicare Supplement, Dental &#x26; Vision, and Medicaid. The role will assist with building and enhancing models, collaborating with cross-functional partners, identifying model issues, and proposing practical solutions to improve model performance and accuracy.</p><h2>Responsibilities</h2><ul>\n<li><p>Analyze financial, economic, and market data to support forecasting and business decisions</p></li>\n<li><p>Develop and maintain metrics, reporting, and analytical models to support business intelligence</p></li>\n<li><p>Evaluate industry, economic, financial, and competitive trends affecting organizational performance</p></li>\n<li><p>Build, enhance, and support actuarial and forecasting models used in financial analysis</p></li>\n<li><p>Work primarily in<strong>Databricks</strong>to develop<strong>Net Present Valuation (NPV) models</strong>for<strong>Medicare Supplement, Dental &#x26; Vision, and Medicaid</strong></p></li>\n<li><p>Ensure data integrity by establishing and executing processes and controls around data flow and quality</p></li>\n<li><p>Investigate data anomalies, perform root cause analysis, and implement practical, cost-effective solutions</p></li>\n<li><p>Collaborate with cross-functional partners to understand business needs, resolve model issues, and improve outcomes</p></li>\n<li><p>Identify opportunities to improve model performance, accuracy, and efficiency</p></li>\n<li><p>Independently manage moderately complex to complex assignments and determine appropriate technical approaches</p></li>\n<li><p>Contribute analytical insight that helps influence departmental strategy and forecasting practices</p></li>\n</ul><h2>Required Qualifications</h2><ul>\n<li><h2>Bachelor's Degree</h2></li>\n<li><p><strong>Associate of Society of Actuaries (ASA) designation</strong></p></li>\n<li><p><strong>Meets eligibility requirements for Humana's Actuarial Professional Development Program (APDP)</strong></p></li>\n<li><h2>Member of the American Academy of Actuaries (MAAA)</h2></li>\n<li><p>Strong written and verbal professional communication skills</p></li>\n<li><p>Must be passionate about contributing to an organization focused on continuously improving consumer experiences</p></li>\n<li><p><em>Sponsorship is not available for this role</em></p></li>\n</ul><h2>Preferred Qualifications</h2><ul>\n<li><p>Advanced experience using SQL or SAS to analyze, manage and interpret complex data sets and models</p></li>\n<li><h2>Strong model building skills</h2></li>\n<li><h2>Familiarity with Python or Oracle</h2></li>\n</ul><h2>\n<br><strong>Use your skills to make an impact </strong><br>\n</h2><h2>Reporting Relationship:</h2><p>This position reports directly to the Actuary, Analytics/Forecasting</p><p><strong>Work Hours</strong>: Typical business hours are Monday-Friday, 8am-5pm some flexibility might be possible, depending on business needs.</p><h2>Interview Format </h2><p>As part of our hiring process, we will be using on-demand technology provided by Hire Vue, a third-party vendor. This technology provides our team of recruiters and hiring managers with an enhanced method for decision-making through on-demand candidate assessments.</p><p>If you are selected to move forward from your application prescreen, you will receive correspondence inviting you to participate in an on-demand assessment with pre-determined questions. You should anticipate the assessment to take approximately 10-15 minutes.</p><p>Your on-demand assessment will be reviewed, and you will subsequently be informed if you will be moving forward to next round of interviews.</p><h2>SSN Task via Workday</h2><p>Should you be extended a formal employment offer you will receive a request to enter your SSN into our Workday system to scan for duplicate profiles.</p><p>Work at Home Requirements: To ensure Home or Hybrid Home/Office employees’ ability to work effectively, the self-provided internet service of Home or Hybrid Home/Office employees must meet the following criteria: At minimum, a download speed of 25 Mbps and an upload speed of 10 Mbps is required; wireless, wired cable or DSL connection is suggested. In certain roles, the minimum recommended internet speed required by Humana may not be sufficient for business needs. Humana reserves the right to require associates to upgrade their internet service if necessary. Work from a dedicated space lacking ongoing interruptions to protect member PHI / HIPAA information.Travel: While this is a remote position, occasional travel to Humana's offices for training or meetings may be required.</p><h2>Scheduled Weekly Hours</h2><p>40</p><h2>Pay Range</h2><p>The compensation range below reflects a good faith estimate of starting base pay for full time (40 hours per week) employment at the time of posting. The pay range may be higher or lower based on geographic location and individual pay will vary based on demonstrated job related skills, knowledge, experience, education, certifications, etc.$106,900 - $147,000 per yearThis job is eligible for a bonus incentive plan. This incentive opportunity is based upon company and/or individual performance.</p><h2>Description of Benefits</h2><p>Humana, Inc. and its affiliated subsidiaries (collectively, “Humana”) offers competitive benefits that support whole-person well-being. Associate benefits are designed to encourage personal wellness and smart healthcare decisions for you and your family while also knowing your life extends outside of work. Among our benefits, Humana provides medical, dental and vision benefits, 401(k) retirement savings plan, time off (including paid time off, company and personal holidays, paid parental and caregiver leave), short-term and long-term disability, life insurance and many other opportunities.</p><h2>\n<br><strong>About us</strong><br>\n</h2><p>About Humana: Humana Inc. (NYSE: HUM) is a leading U.S. healthcare company. Through our Humana insurance services and our CenterWell healthcare services, we make it easier for the millions of people we serve to achieve their best health – delivering the care and service they need, when they need it. These efforts are leading to a better quality of life for people with Medicare and Medicaid, families, individuals, military service personnel, and communities at large. Learn more about what we offer at Humana.com and at CenterWell.com.</p><h2>​</h2><h2>Equal Opportunity Employer</h2><p>It is the policy of Humana not to discriminate against any employee or applicant for employment because of race, color, religion, sex, sexual orientation, gender identity, national origin, age, marital status, genetic information, disability or protected veteran status. It is also the policy of Humana to take affirmative action, in compliance with Section 503 of the Rehabilitation Act and VEVRAA, to employ and to advance in employment individuals with disability or protected veteran status, and to base all employment decisions only on valid job requirements. This policy shall apply to all employment actions, including but not limited to recruitment, hiring, upgrading, promotion, transfer, demotion, layoff, recall, termination, rates of pay or other forms of compensation and selection for training, including apprenticeship, at all levels of employment.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/assoc-actuary-analyticsforecast-humana</p>",
       "posted_at": "2026-10-21T11:31:31+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "1bd740dc-97f0-4873-81fc-078d5cf8a444",
+      "title": "Senior Technical Trainer — Machine Learning Remote, worldwide",
+      "url": "https://remotejobs.org/remote-jobs/senior-technical-trainer-machine-learning-remote-worldwide-onhires",
+      "apply_url": "https://remotejobs.org/remote-jobs/senior-technical-trainer-machine-learning-remote-worldwide-onhires",
+      "company": {
+        "name": "OnHires",
+        "logo_url": null,
+        "website": "https://onhires.com",
+        "url": "https://remotejobs.org/companies/onhires"
+      },
+      "category": {
+        "name": "Data Science",
+        "slug": "data-science"
+      },
+      "location": "USA",
+      "location_normalization": {
+        "raw": "USA",
+        "input": {
+          "workArrangement": "remote"
+        },
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "worksite_countries": [
+          "US"
+        ],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "worldwide",
+        "status": "partial",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [
+          {
+            "kind": "timezone",
+            "areas": [],
+            "effect": "context",
+            "details": "Some time-zone overlap with a Europe/Asia-based team.",
+            "regions": [],
+            "timezones": [],
+            "evidence_id": "c3",
+            "conditional_on": null
+          }
+        ],
+        "unresolved": [
+          "Required time-zone overlap with a Europe/Asia-based team is vague and has no enumerated IANA timezones."
+        ],
+        "evidence_ids": [
+          "c2",
+          "c3"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": true
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": "senior",
+        "role_family": null,
+        "required_skills": [],
+        "mentioned_skills": [
+          "kubernetes"
+        ],
+        "preferred_skills": [
+          "aws"
+        ],
+        "experience_requirements": []
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "2532399f-f1de-4869-b919-1b0990f83dbe",
+      "direct_apply": null,
+      "description": "<p><strong>Remote, worldwide · Freelance course project with a path to full-time</strong></p>\n<p>We’re hiring on behalf of a global hands-on tech-education platform used by over a million engineers to learn DevOps, <em>cloud</em>, Kubernetes and <em>AI</em>. Its courses are built around real labs, not slides, and taught by practising engineers who are great on camera.</p>\n<p>We’re looking for a machine learning practitioner who loves teaching to create and present ML courses for engineers, from foundations to training their own models.</p>\n<p>This role suits you if you already teach as part of what you do: you’ve published courses on Udemy, Pluralsight, Coursera or YouTube, written a book, taught at a university or bootcamp, or regularly run workshops and talks.</p>\n<p><strong>How it works</strong></p>\n<ul>\n<li>\n<p><strong>It starts with one paid course project.</strong> You can do it alongside your current job. There’s no fixed weekly-hour requirement, just a delivery plan you agree on together. A typical project takes around 3 months.</p>\n</li>\n<li>\n<p><strong>The goal is long-term.</strong> The team is growing its internal trainer pool, and the first project is how both sides find out if it’s a fit. After that, it can lead to a full-time role or more course projects.</p>\n</li>\n<li>\n<p><strong>A fixed fee per course is agreed upfront,</strong> based on course length and topic complexity. Fees are competitive, and advanced topics and exceptional instructors are paid accordingly. Payment is made on delivery of the completed course.</p>\n</li>\n<li>\n<p><strong>Fully remote with flexible hours.</strong> Expect a weekly sync, Slack communication, and some time-zone overlap with a Europe/Asia-based team.</p>\n</li>\n</ul>\n<p><strong>What you’ll do</strong></p>\n<ul>\n<li>\n<p>Shape the course with the curriculum team: sections, lessons, labs and notebooks.</p>\n</li>\n<li>\n<p>Write lab specs that a dedicated labs team builds, then test them.</p>\n</li>\n<li>\n<p>Write and narrate short, story-driven video lessons (about 6 minutes each) that make ML intuitive. You’re welcome to use <em>AI</em> to draft, but the final script should sound like you.</p>\n</li>\n<li>\n<p>Record demo and lab-solution walkthroughs.</p>\n</li>\n<li>\n<p>Work through structured editorial feedback, especially on your first section.</p>\n</li>\n</ul>\n<p>Video editing, animation, lab infrastructure and publishing are all handled by the production team. You focus on the teaching.</p>\n<p><strong>What we’re looking for</strong></p>\n<ul>\n<li>\n<p><strong>Strong, hands-on ML foundations:</strong> you’ve trained, evaluated and shipped models yourself (scikit-learn, PyTorch or TensorFlow).</p>\n</li>\n<li>\n<p><strong>The ability to explain the “why” behind ML clearly to engineers new to it.</strong></p>\n</li>\n<li>\n<p><strong>Excellent spoken and written English.</strong> All courses are scripted, narrated and delivered in English, so you need clear, natural, easily understood English and confidence on camera.</p>\n</li>\n<li>\n<p><strong>A genuine passion for teaching,</strong> shown through courses, tutorials, talks, workshops or mentoring you’ve done because you enjoy it.</p>\n</li>\n<li>\n<p><strong>Current with the field</strong> and keen to keep learning.</p>\n</li>\n<li>\n<p><strong>Clear, engaging spoken English and confidence on camera.</strong></p>\n</li>\n<li>\n<p><strong>Openness to an established teaching methodology</strong> and to editorial feedback.</p>\n</li>\n</ul>\n<p><strong>Nice to have</strong></p>\n<ul>\n<li>\n<p>Published online courses, a book, or university/bootcamp teaching experience.</p>\n</li>\n<li>\n<p>Experience with fine-tuning, MLOps or deploying models in production.</p>\n</li>\n<li>\n<p><em>Cloud</em> ML certifications (AWS, Azure, GCP, <em>Databricks</em>).</p>\n</li>\n</ul>\n<p><strong>How to apply</strong><br>\nSend your CV or LinkedIn profile, plus a link that shows how you teach: a course, a talk, a tutorial or a short video.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-technical-trainer-machine-learning-remote-worldwide-onhires</p>",
+      "posted_at": "2026-10-21T09:50:59.814+00:00",
       "is_translated": false,
       "original_language": null
     },
@@ -13916,178 +14201,6 @@
       "direct_apply": null,
       "description": "<ul>\n<li>Build edge intelligence. Design and train machine learning models focused on anomaly detection, bot mitigation, and zero-day intrusion detection.</li>\n<li>Deploy at scale. Implement and optimize inference models to run efficiently at the edge, processing massive volumes of HTTP traffic with ultra-low latency.</li>\n<li>Turn attacks into data. Work closely with our offensive security engineers to understand attack vectors, simulate realistic threats, and generate high-quality datasets for model training.</li>\n<li>Automate the defense. Create robust data pipelines that continuously ingest traffic logs, monitor model performance, detect concept drift, and automate retraining based on the latest threat intelligence.</li>\n</ul><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/machine-learning-engineer-cloudwalk</p>",
       "posted_at": "2026-10-19T00:00:00+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "579b07d7-d761-4f19-a587-b8036563eb97",
-      "title": "Applied AI Architect (Principal/Lead)",
-      "url": "https://remotejobs.org/remote-jobs/applied-ai-architect-principallead-salesforce",
-      "apply_url": "https://remotejobs.org/remote-jobs/applied-ai-architect-principallead-salesforce",
-      "company": {
-        "name": "Salesforce",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/dfc73ba6c5b62f28bb42526a20d9282ba3e577be23947201d6980531709cffb6.jpeg",
-        "website": "https://salesforce.com",
-        "url": "https://remotejobs.org/companies/salesforce"
-      },
-      "category": {
-        "name": "Data Science",
-        "slug": "data-science"
-      },
-      "location": "United States",
-      "location_normalization": {
-        "raw": "United States",
-        "input": {},
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [],
-        "evidence_ids": [
-          "source-location"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-sonnet-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "partial",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": null,
-        "role_family": null,
-        "required_skills": [],
-        "mentioned_skills": [],
-        "preferred_skills": [],
-        "experience_requirements": []
-      },
-      "salary_min": 148190,
-      "salary_max": 217980,
-      "salary_text": "USD 148,190–217,980/year",
-      "salary_source_text": "USD 148190 - 217980",
-      "salary_currency": "USD",
-      "salary_period": "year",
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<p><em>To get the best candidate experience, please consider applying for a maximum of 3 roles within 12 months to ensure you are not duplicating efforts.</em></p>\n<h2>Job Category</h2>\n<p>Sales</p>\n<h2>Job Details</h2>\n<h2><strong>About Salesforce</strong></h2>\n<p>Salesforce is the #1 AI CRM, where humans with agents drive customer success together. Here, ambition meets action. Tech meets trust. And innovation isn’t a buzzword — it’s a way of life. The world of work as we know it is changing and we're looking for Trailblazers who are passionate about bettering business and the world through AI, driving innovation, and keeping Salesforce's core values at the heart of it all.</p>\n<p>Ready to level-up your career at the company leading workforce transformation in the agentic era? You’re in the right place! Agentforce is the future of AI, and you are the future of Salesforce.</p>\n<p>Applications will be accepted until 01/31/2027.</p>\n<h2>About the Role</h2>\n<p>Our architect team is organized into four domains that together make the platform work for customers: Platform Advantage (why Salesforce, why now), Emerging Tech &#x26; UI Innovation (agent execution and dev tooling), Data &#x26; AI Excellence (data, semantics, and AI context), and Governance &#x26; Trust (identity, security, and audit). This req can land in any of the four, based on where your deepest expertise fits and where the team has the most need at the time of hire.<br>\n<br>\nAcross all four domains, the DNA is the same: you lead with the customer's business and technical problem, not a product pitch, you're fluent across Salesforce and its alternatives, and you stay engaged through execution so the work actually lands, not just the recommendation.</p>\n<h2>What You'll Do</h2>\n<p>Your day-to-day will concentrate in one or two of the following, depending on domain placement:</p>\n<ul>\n<li>Agent Architecture (Platform Advantage / Governance &#x26; Trust): orchestration, agent-to-agent interaction, state and memory, guardrails, testing.</li>\n<li>MCP &#x26; Capability Architecture (Platform Advantage / Emerging Tech): exposing business capabilities for agents to discover and act on, not just raw objects.</li>\n<li>Data 360 &#x26; Semantic Architecture (Data &#x26; AI Excellence): unified customer data, semantic layers, and the context AI needs to be useful.</li>\n<li>Headless &#x26; Composable Architecture (Platform Advantage / Emerging Tech): APIs, headless experiences, and composable extensions of Salesforce beyond the standard UI.</li>\n<li>AI-Assisted Development (Emerging Tech): coding assistants, reviewing AI-generated work, dev lifecycle and quality practices.</li>\n<li>AI Governance &#x26; Security (Governance &#x26; Trust): identity and permissions, data access, agent authority, human-in-the-loop controls, audit.</li>\n</ul>\n<h2>Regardless of domain, you'll also:</h2>\n<ul>\n<li>Work collaboratively across multiple pre and post sale teams.</li>\n<li>Align C-suite stakeholders around a shared view of a business problem and map it to a capability someone can act on.</li>\n<li>Help resolve platform-fit ambiguity for customers facing conflicting internal recommendations or a troubled prior rollout.</li>\n<li>Name ambiguity and route it explicitly to the right domain rather than letting unclear work default to whoever's in the room.</li>\n</ul>\n<h2>What We're Looking For</h2>\n<h2>Required:</h2>\n<ul>\n<li>5+ years in enterprise or solutions architecture, with direct experience influencing senior technical and business stakeholders.</li>\n<li>Experience with AI tooling to build solutions, learn new skills, and be more efficient with your job.</li>\n<li>Deep, credible expertise in at least one of the six focus areas above, deep enough to be the final word in a room, not conversational familiarity.</li>\n<li>Fluency across the Salesforce platform or at least one major alternative / adjacent technology relevant to your focus area.</li>\n<li>A track record of staying engaged through delivery, including recovering stalled or politically stuck work.</li>\n<li>B.S., M.S. or PhD in Computer Science, Software Engineering or MIS</li>\n</ul>\n<h2>Preferred:</h2>\n<ul>\n<li>Working knowledge of a second focus area above, enough to know when to hand off rather than overreach.</li>\n<li>Experience untangling a failed or stalled enterprise rollout (data, MDM, platform, or AI) for a customer.</li>\n<li>Strong visual communication skills for architecture storytelling.</li>\n</ul>\n<h2>Domain Placement</h2>\n<p>Final domain assignment (Platform Advantage, Emerging Tech &#x26; UI Innovation, Data &#x26; AI Excellence, or Governance &#x26; Trust) is determined during the interview process based on demonstrated depth and current team need, not fixed at the time of posting.</p>\n<h2>Unleash Your Potential</h2>\n<p>When you join Salesforce, you’ll be limitless in all areas of your life. Our benefits and resources support you to find balance and<em>be your best</em>, and our AI agents accelerate your impact so you can<em>do your best</em>. Together, we’ll bring the power of Agentforce to organizations of all sizes and deliver amazing experiences that customers love. Apply today to not only shape the future — but to redefine what’s possible — for yourself, for AI, and the world.</p>\n<h2>Accommodations</h2>\n<p>If you need a reasonable accommodation during the application or the recruiting process, please submit a request via this Accommodations Request Form.</p>\n<p>Please note that Salesforce uses artificial intelligence (AI) tools to help our recruiters assess and evaluate candidates’ resumes and qualifications throughout the recruiting process. Humans will always make any candidate selection and hiring decisions. Please see our Candidate Privacy Statement for more information about how we use your personal data and your rights, including with regard to use of AI tools and opt out options.</p>\n<h2>Posting Statement</h2>\n<p>Salesforce is an equal opportunity employer and maintains a policy of non-discrimination with all employees and applicants for employment. What does that mean exactly? It means that at Salesforce, we believe in equality for all. And we believe we can lead the path to equality in part by creating a workplace that’s inclusive, and free from discrimination. Know your rights: workplace discrimination is illegal. Any employee or potential employee will be assessed on the basis of merit, competence and qualifications – without regard to race, religion, color, national origin, sex, sexual orientation, gender expression or identity, transgender status, age, disability, veteran or marital status, political viewpoint, or other classifications protected by law. This policy applies to current and prospective employees, no matter where they are in their Salesforce employment journey. It also applies to recruiting, hiring, job assignment, compensation, promotion, benefits, training, assessment of job performance, discipline, termination, and everything in between. Recruiting, hiring, and promotion decisions at Salesforce are fair and based on merit. The same goes for compensation, benefits, promotions, transfers, reduction in workforce, recall, training, and education.</p>\n<p>In the United States, compensation offered will be determined by factors such as location, job level, job-related knowledge, skills, and experience. Certain roles may be eligible for incentive compensation, equity, and benefits. Salesforce offers a variety of benefits to help you live well including: time off programs, medical, dental, vision, mental health support, paid parental leave, life and disability insurance, 401(k), and an employee stock purchasing program. More details about company benefits can be found at the following link: to the San Francisco Fair Chance Ordinance and the Los Angeles Fair Chance Initiative for Hiring, Salesforce will consider for employment qualified applicants with arrest and conviction records.At Salesforce, we believe in equitable compensation practices that reflect the dynamic nature of labor markets across various regions.The typical base salary range for this position is $148,190 - $198,170 annuallyThere is a different range applicable to specific work locations. In California and New York, and select cities in the metropolitan areas of Boston, Chicago, Seattle, and Washington DC, the base pay range for this role in those locations is $162,960 - $217,980 per year. Your recruiter can share more about the specific salary range for the job location during the hiring process.The range represents base salary only, and does not include company bonus, incentive for sales roles, equity or benefits, as applicable.</p>\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/applied-ai-architect-principallead-salesforce</p>",
-      "posted_at": "2026-10-18T21:19:52+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "5f632eaf-6298-4284-af81-f06bf5350fed",
-      "title": "Senior Data Engineer",
-      "url": "https://remotejobs.org/remote-jobs/senior-data-engineer-s5-stratos",
-      "apply_url": "https://remotejobs.org/remote-jobs/senior-data-engineer-s5-stratos",
-      "company": {
-        "name": "S5 Stratos",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/efbc43782dbb21067a463eaff8f9012c1453446b847da101b5544c5cbebf8739.webp",
-        "website": null,
-        "url": "https://remotejobs.org/companies/s5-stratos"
-      },
-      "category": {
-        "name": "Data Science",
-        "slug": "data-science"
-      },
-      "location": "United States",
-      "location_normalization": {
-        "raw": "United States",
-        "input": {},
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [],
-        "evidence_ids": [
-          "c2",
-          "source-location"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "remote",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-sonnet-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": "senior",
-        "role_family": "data-engineering",
-        "required_skills": [
-          "python",
-          "sql"
-        ],
-        "mentioned_skills": [],
-        "preferred_skills": [],
-        "experience_requirements": []
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": null,
-      "salary_period": "year",
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<h2>This is a remote position.</h2><p>At S5, we are on a mission to make Advanced Data Science consumable to Business Users. S5 is a SaaS software provider of AI/ML-powered products which transform planning and decision making capabilities across the digital supply chain for the Retail and CPG industries. To support our aggressive growth, we are actively seeking talent (at multiple levels) to join our team. \n<strong>The Role:</strong>\nS5 Stratos is seeking an experienced Sr. Data Engineer, capable of creating and optimizing a scalable, resilient, and event-driven data pipeline architecture through our cloud-based solutions. The right person will have a proven ability to innovate, work across a variety of APIs and databases, and maintain a comprehensive catalog of all data streams, data mapping, and data integration solutions. The right fit will embrace the challenge and opportunity of an informal, fast-paced startup environment with a flat organizational structure. \n<strong>What You’ll Do:</strong>\n<strong>​</strong></p><ul>\n<li>Develop and automate large scale, high-performance data processing systems (batch and/or streaming) </li>\n<li>Translate business needs into data models: implement data strategies, build data flows and develop conceptual data models. </li>\n<li>Implement deployment and infrastructure automation strategies. </li>\n<li>Build data support for our experimentation efforts, solving problems from statistical test automation to building real-time M/L pipelines </li>\n<li>Automate manual processes, optimize data delivery, and re-design infrastructure for greater scalability. </li>\n<li>Promote data modeling standardization, define, and drive adoption of the standards. </li>\n<li>Build analytics and reporting tools that utilize the data pipeline to provide results and business value to make data-driven decisions. </li>\n<li>Maintain and improve upon our existing ETL pipeline </li>\n<li>Perform routine maintenance tasks and upgrades of our server architecture </li>\n<li>Work with stakeholders to assist with data-related technical issues and support data infrastructure needs. </li>\n<li>Apply best practices for testing and deployment in an agile environment. </li>\n<li>Contribute to shared Data Engineering tooling &#x26; standards to improve engineering productivity across the company </li>\n</ul><h2>Requirements</h2><p><strong>What We’re Looking For:</strong></p><ul>\n<li>Expert-level understanding of relational databases (columnar and row-based) </li>\n<li>Expertise in SQL is a must. </li>\n<li>Prior experience working with Tier-1 technology consulting firms is a huge plus </li>\n<li>Proven hands-on experience building complex ETLs in a business environment with large-scale, complex datasets </li>\n<li>Scripting experience in python and bash shell required </li>\n<li>Fully proficient in pipeline building and job automations </li>\n<li>Proficiency with Git </li>\n<li>Experience building RESTful APIs </li>\n<li>Experience with error handling and data validation </li>\n<li>Experience working in GCP or other cloud platforms </li>\n<li>Bachelors in Computer Science, Engineering or similar </li>\n<li>Must be eligible to work in the US. </li>\n</ul><h2>Benefits</h2><p><strong>What’s in it for You?</strong>At S5, you will get an opportunity to truly innovate while working with some of the smartest brains in the industry to solve existing and emerging business problems. Additionally, you will play a key role in defining the next generation work culture and work ethic to solve problems that others thought - simply impossible. There’s never been a more exciting time to join our team! </p><p>Job Type: Full-time <br>\n</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-data-engineer-s5-stratos</p>",
-      "posted_at": "2026-10-18T20:55:55+00:00",
       "is_translated": false,
       "original_language": null
     }
