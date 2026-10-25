@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T20:21:46.778Z",
+  "generatedAt": "2026-10-25T03:26:42.697Z",
   "count": 150,
   "data": [
     {
@@ -1430,92 +1430,6 @@
       "original_language": null
     },
     {
-      "id": "c1bf2b25-03c1-4254-85a6-fcfeeb2b833b",
-      "title": "Senior Android Engineer",
-      "url": "https://remotejobs.org/remote-jobs/senior-android-engineer-medium",
-      "apply_url": "https://remotejobs.org/remote-jobs/senior-android-engineer-medium",
-      "company": {
-        "name": "Medium",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/39ff7a1ef3625d0c0b81267ead9a6c713024db0fe333d53d1f3a795c41f3dfe5.jpeg",
-        "website": null,
-        "url": "https://remotejobs.org/companies/medium"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "USA",
-      "location_normalization": {
-        "raw": "USA",
-        "input": {},
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [],
-        "evidence_ids": [
-          "source-location"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "remote",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": "senior",
-        "role_family": null,
-        "required_skills": [],
-        "mentioned_skills": [
-          "kotlin"
-        ],
-        "preferred_skills": [],
-        "experience_requirements": []
-      },
-      "salary_min": 165000,
-      "salary_max": 215000,
-      "salary_text": "USD 165,000–215,000/year",
-      "salary_source_text": "USD 165000 - 215000",
-      "salary_currency": "USD",
-      "salary_period": "year",
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<h2>About <a href=\"https://jobicy.com/company/medium\">Medium</a></h2>\n<p>Medium is one of the world's most influential writing platforms, connecting millions of readers with ideas that matter. We're a small, dedicated team that cares deeply and takes real ownership of the problems we tackle, moving fast while building something that lasts. Our actions and decision-making are guided by four <a href=\"https://medium.com/jobs-at-medium/mediums-operating-principles-5cec86504e44\">principles</a>: Humans First, Deepen Understanding, Orient for Impact, and Ladder Together.</p>\n<h2>About the Role</h2>\n<p>We're looking for a Senior Mobile Engineer to help build and evolve the Android experience that millions of readers and writers rely on every day. You'll own Android features end to end. That means digging into what users actually need, building it, shipping it, and paying attention to how it actually performs once it's out in the world. You'll work closely with our design team the whole way through.</p>\n<p>This is a product engineering role at heart. We don't have a dedicated product team, so you won't be handed a fully-specified ticket and told to go build it. Rather, you'll be the one figuring out what's worth building in the first place, partnering with design and other engineers, and making good calls when the ask is vague or doesn't quite solve the real problem. Android is where you'll spend most of your time, but we want someone who can also hold their own on at least one other platform, whether that's web, iOS, or backend. That range matters: it means you can see how a feature fits into the bigger picture, make good calls about where logic should live, and work credibly with whoever owns that other platform.</p>\n<h2>What You'll Do</h2>\n<ul>\n<li>Own Android features end to end. Understand the problem, build it, ship it, and see how it actually does</li>\n<li>Shape what gets built, not just how it gets built. Push back on scope, propose simpler solutions, and raise platform constraints early rather than after the fact</li>\n<li>Write idiomatic, well-tested Kotlin and Compose UI that fits naturally into the team's existing architecture</li>\n<li>Work directly with iOS, web, or backend engineers depending on what a feature needs, and help decide where functionality should live</li>\n<li>Partner with our leadership team, design team, and engineers in the US and France to turn a rough idea into something that actually ships well on Android</li>\n<li>Bring superb judgment to ambiguous requests. You can ask good questions, spot edge cases early, and propose reasonable first steps when the full scope isn't clear yet</li>\n<li>Own shaping product and feature spaces, maintaining and driving a sense of forward momentum even when the final destination of your work may not be clear</li>\n<li>Help raise the bar for the mobile team on code quality, testing, and product thinking</li>\n<li>Attend Medium's twice-yearly, in-person offsites (hosted in locations around the U.S.)</li>\n</ul>\n<h2>What You Have</h2>\n<ul>\n<li>You've spent several years building production Android apps and you're genuinely fluent in Kotlin, Jetpack Compose, coroutines and Flow, and modern Android architecture</li>\n<li>You're an expert with all things Android engineering, but you can also hold your own on at least one other platform (web, iOS, or backend) and can work credibly there when a feature calls for it</li>\n<li>You think like a product engineer. You don't just build what's asked, but can own and appreciate the impact at a product impact altitude of your work.You understand the problem underneath the request, push back when something doesn't add up, and care about whether it actually worked once it shipped</li>\n<li>You've worked closely with designers and engineers on other platforms before. You're good at explaining a technical tradeoff in a way that actually lands for someone who isn't an engineer</li>\n<li>You have good instincts about systems, you're adaptable, and you're genuinely eager to learn. You can advocate for an approach while staying open to a better one. We care a lot about collaboration and psychological safety here. We want someone who adds to it</li>\n<li>You have the ability to push forward in ambiguity and make great trade off decisions to keep a project moving</li>\n</ul>\n<h2>Nice to Haves</h2>\n<ul>\n<li>Experience using AI to improve a team's leverage, reach, output and impact</li>\n<li>You've owned product direction yourself rather than just executing someone else's plan</li>\n<li>You personally use Medium and are genuinely excited to contribute to its mission, which is empowering humans to write meaningfully for other humans</li>\n</ul>\n<h2>Benefits</h2>\n<p>In addition to the new skills you'll pick up, here's what else you'll enjoy by working at Medium:</p>\n<ul>\n<li>Working with a fully distributed team: We’re fully remote and have teammates across the U.S. &#x26; France</li>\n<li>Healthcare benefits covered at 100% for employees and 80% for dependents</li>\n<li>Generous parental leave policy</li>\n<li>Mental health support through Spring Health (or find a provider through Rula or Kaiser Mental Health Network)</li>\n<li>Financial wellness support through Northstar</li>\n<li>Stipends for co-working, professional development, wifi, and a one-time home office bonus</li>\n<li>Unlimited PTO and standard company holidays</li>\n<li>A discounted Medium membership</li>\n</ul>\n<h2>Why Medium</h2>\n<p>We're a small team doing meaningful work. Beyond guiding your team's execution, you'll have real influence over engineering strategy, culture, and direction. You'll work alongside people who are genuinely good at what they do and who care about building something worth building.</p>\n<p>At Medium, inclusion, diversity, and equity are core to how we work and what we build. We believe a more inclusive team creates a better product—one that’s intuitive, thoughtful, and serves a wide range of users. We strive to foster a supportive, fun, and challenging environment where people from all backgrounds can thrive.</p>\n<p>We welcome applicants from all walks of life and strongly encourage those from historically underrepresented groups to apply. Our hiring process is built to ensure fairness and equal opportunity for everyone. Even if your experience doesn’t match every requirement, we’d still love to hear from you—your perspective and passion matter more than checking every box.</p>\n<p>Learn more about our mission, operating principles, and culture:</p>\n<ul>\n<li><a href=\"https://medium.com/blog/yes-to-a-diverse-community-3f72df3c2ff9\">Yes to a diverse community</a></li>\n<li><a href=\"https://medium.com/blog/be-part-of-a-better-internet-5c4aa58ec826\">Be part of a better internet</a></li>\n<li><a href=\"https://policy.medium.com/medium-rules-30e5502c4eb4\">Medium Rules</a></li>\n<li><a href=\"https://medium.com/jobs-at-medium/mediums-operating-principles-5cec86504e44\">Operating Principles</a></li>\n</ul>\n<p>Read about our story <a href=\"https://medium.com/about\">here</a>.</p>\n<p>Read our <a href=\"https://medium.com/jobs-at-medium/guidance-on-ai-use-for-medium-candidates-bf8288de180e\">guidance on AI use for candidates</a>. We believe human ideas have the power to change how people think, for the better. That belief shapes how we hire. We use AI tools ourselves, but we’ve thought carefully about where it adds value and where it gets in the way of something important.</p>\n<p>Salary Range</p>\n<p>$165,000—$215,000 USD</p>\n<h2>GDPR Notice</h2>\n<p>We will process your personal data as part of our recruitment process, in accordance with the General Data Protection Regulation (GDPR). For details on how we use your data, including the legal bases for processing, how long we retain it, and your rights under GDPR, please refer to our <a href=\"https://medium.com/@JobsAtMedium/privacy-policy-fb092a3ce836\">Privacy Notice</a>.</p>\n<p>We may retain your information for future job opportunities based on our legitimate interest in building a talent pool. You can object to this at any time by contacting us at <a href=\"mailto:recruiting@medium.com\">recruiting@medium.com</a>.</p>\n<h2>CCPA Notice</h2>\n<p>If you are a California resident, you have rights under the California Consumer Privacy Act (CCPA), as amended by the California Privacy Rights Act (CPRA). These include the right to know what personal information we collect about you, the right to request deletion or correction of your data, and the right to opt out of certain uses.</p>\n<p>During the hiring process, we may collect personal information such as your name, contact details, resume/CV, employment history, education background, and any information gathered through interviews or assessments. We may share this information with service providers who support our recruitment process, in compliance with CCPA/CPRA. This information is used solely for recruitment and hiring purposes.</p>\n<p>We do not sell or share your personal information as defined under CCPA/CPRA. Candidate data is retained for up to 48 months for our legitimate business purposes and in accordance with applicable laws.</p>\n<p>To exercise your rights or request more information, please contact us at <a href=\"mailto:recruiting@medium.com\">recruiting@medium.com</a>. This notice can also be found on our <a href=\"https://medium.com/@JobsAtMedium/privacy-policy-fb092a3ce836\">Privacy Notice</a>.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-android-engineer-medium</p>",
-      "posted_at": "2026-10-23T18:57:35+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
       "id": "9b9fbb5f-8ccb-4928-8c3b-3bbcd5bd9ebd",
       "title": "Mobile Principal Software Engineer",
       "url": "https://remotejobs.org/remote-jobs/mobile-principal-software-engineer-dscout",
@@ -1988,6 +1902,105 @@
       "direct_apply": null,
       "description": "<p><em><strong>MaintainX is a leading mobile-first work execution platform </strong>for industrial and frontline teams. <strong>More than 13,000 customers</strong>, including Duracell, McDonald's, Shell, DHL and Volvo, use MaintainX to cut unplanned downtime and run better operations, across 13.9 million managed assets and 79.5 million completed work orders.</em></p>\n<p><em><strong>In August 2026 MaintainX became part of Autodesk, joining </strong></em><a href=\"https://adsknews.autodesk.com/en/views/inside-autodesk-operations-solutions/\"><em><strong>Autodesk Operations Solutions</strong></em></a><em><strong>, the organization unifying Autodesk's operations platform alongside Tandem, FlexSim and Fusion Operations. </strong>Autodesk's strategy is to converge design, make and operate into one continuous lifecycle: design an asset, build it, run it, then feed what you learn running it back into the next design. Autodesk had design and make. Operate is the phase that tells you what actually happened, and it is ours.</em></p>\n<h2><strong>The role</strong></h2>\n<p>We're looking for multiple Software Development Managers to lead one of several engineering teams. As a Dev Manager at MaintainX, you're the person who turns a roadmap into shipped, reliable software. You'll manage 5 to 6 developers, own delivery and quality for your team's area, and make the calls that keep a group of builders moving without losing the craft.</p>\n<p>This is a single hiring pipeline across our product and platform teams. Teams currently looking for new leadership include:</p>\n<ul>\n<li>\n<p><strong>Reporting:</strong> Own the product surface where customers measure the value of MaintainX, turning millions of work orders and asset events into the dashboards and insights that maintenance leaders bring to their execs. It's a high-visibility team with a direct line from what you ship to why customers renew.</p>\n</li>\n<li>\n<p><strong>Identity &#x26; Access Management: </strong>Build the systems that power secure and seamless access across the MaintainX platform. You'd design and operate authentication, authorization, and governance services that scale with our enterprise customers and keep user experience frictionless and trusted.</p>\n</li>\n<li>\n<p><strong>Search: </strong>Design and build MaintainX’s end-to-end search and retrieval platform. Work across indexing, ranking, and semantic retrieval so technicians and managers find the right asset, procedure, or work order in seconds.</p>\n</li>\n</ul>\n<h2><strong>What you'll do</strong></h2>\n<ul>\n<li>\n<p>Manage a team of 5 to 6 developers: own their delivery, quality, and day-to-day priorities.</p>\n</li>\n<li>\n<p>Partner with Product Managers and Designers to scope, plan, and deliver against a high bar for reliability.</p>\n</li>\n<li>\n<p>Coach and grow your developers: help them build skills, navigate hard problems, and plan their next career step.</p>\n</li>\n<li>\n<p>Shape who joins next. All these teams are hiring and need a leader who will interview and raise our talent bar.</p>\n</li>\n<li>\n<p>Set clear expectations and give ongoing feedback, so your team always knows where it stands.</p>\n</li>\n<li>\n<p>Champion CI/CD, code quality, and observability practices across your team's systems.</p>\n</li>\n<li>\n<p>Give senior leadership visibility into your team's impact, progress, and risk.</p>\n</li>\n</ul>\n<h2><strong>Where we work</strong></h2>\n<p>We don't have a minimum in-office mandate, but we prefer our teams to be located around our office hubs. In Canada this includes: Montreal and Toronto.</p>\n<h2><strong>What we're looking for</strong></h2>\n<ul>\n<li>\n<p>2-3 years of people leadership experience, with a track record of leading teams that ship.</p>\n</li>\n<li>\n<p>A strong technical foundation. You should be comfortable performing at a senior level with system design, computer science fundamentals, and modern web technologies.</p>\n</li>\n<li>\n<p>Experience with technical design, problem-solving, and project management (Jira experience preferred).</p>\n</li>\n<li>\n<p>A genuine interest in hiring, coaching, and developing engineers, not just directing them.</p>\n</li>\n<li>\n<p>Comfort partnering with Recruiting and other managers to hire and scale the org.</p>\n</li>\n<li>\n<p>Excellent communication: you can carry a tradeoff conversation with an engineer and a non-technical stakeholder equally well.</p>\n</li>\n</ul>\n<p><strong>Our mission is to keep the physical world running. </strong>Factories, fleets, hospitals and campuses stay up because the people who maintain them have tools worth using. That is what we build.</p>\n<p><strong>Compensation and benefits. </strong>Base pay is one part of the package. Depending on the role, compensation may also include commission, an annual bonus and equity. Benefits differ by country. For roles in the United States, Autodesk’s benefits are described at <a href=\"http://benefits.autodesk.com\">benefits.autodesk.com</a>. For roles in Canada and other countries, the plan differs on health coverage, retirement and leave, and your recruiter will walk you through it.</p>\n<p><strong>Belonging. </strong>We take pride in a culture where everyone can thrive. More at <a href=\"http://autodesk.com/company/global-belonging\">autodesk.com/company/global-belonging</a>. More on where this is going: Autodesk CEO Andrew Anagnost on building the future of connected operations, and AOS SVP Stephen Hooper on welcoming MaintainX to Autodesk.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/software-development-manager-maintainx</p>",
       "posted_at": "2026-10-23T14:54:38.414+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "4d0a021f-4f09-41a8-bf8e-71fa37a8596e",
+      "title": "Senior Cloud Engineer (Kubernetes)",
+      "url": "https://remotejobs.org/remote-jobs/senior-cloud-engineer-kubernetes-trengo",
+      "apply_url": "https://remotejobs.org/remote-jobs/senior-cloud-engineer-kubernetes-trengo",
+      "company": {
+        "name": "Trengo",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/ecb0067b3975e742a2c2c4bd3a38fd4c6ed16424bcd0a4bfe2a124f4a72bc291.png",
+        "website": "https://trengo.com",
+        "url": "https://remotejobs.org/companies/trengo"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "Utrecht",
+      "location_normalization": {
+        "raw": "Utrecht",
+        "input": {
+          "workArrangement": "hybrid"
+        },
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [],
+        "work_arrangement": "hybrid",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "worksite_countries": [
+          "NL"
+        ],
+        "allowed_subdivisions": [
+          "NL-UT"
+        ],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "hybrid",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [
+          "NL-UT"
+        ],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": "senior",
+        "role_family": null,
+        "required_skills": [],
+        "mentioned_skills": [
+          "aws",
+          "docker",
+          "kubernetes",
+          "postgresql",
+          "terraform"
+        ],
+        "preferred_skills": [
+          "aws",
+          "kubernetes",
+          "postgresql"
+        ],
+        "experience_requirements": []
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "97cd7ee8-88c3-4f90-b8f6-9462fdd00a2f",
+      "direct_apply": null,
+      "description": "<p>We're a SaaS company innovating at the intersection of AI and scalable cloud infrastructure. Our platform empowers thousands of users daily, and we're scaling rapidly. As we grow, we are investing deeply into developer enablement, infrastructure automation, and reliability to support both velocity and resilience.</p>\n<h2><strong>About Trengo</strong></h2>\n<p>Welcome to the forefront of AI-driven communication. At Trengo, we’re redefining the industry by replacing repetitive work with meaningful conversations through our AI-powered customer engagement platform. We unify communication channels and leverage agentic AI to deliver proactive, human-like service, boosting efficiency for thousands of businesses worldwide.</p>\n<p>As a fast-moving Dutch scale-up, backed by a $36M Series A and an official WhatsApp Business Solutions Provider, we thrive on acceleration. Your expertise will drive growth: you’ll make a strategic impact, champion AI innovation, and help shape the product roadmap. You’ll do this alongside an international team guided by our Dynamic pace, Future-proof mindset, Ownership, and Open culture.</p>\n<h2><strong>The opportunity</strong></h2>\n<p>You'll work on the Kubernetes platform behind Trengo's customer engagement and AI products: EKS clusters managed through GitOps, plus the migration of our EC2-based workloads onto it. This is a platform engineering role within our cloud team. You'll work closely with the product and AI teams and the rest of the cloud team, so developers can ship safely and on their own. A big part of the role is bringing people along: helping developers understand and adopt the platform, and sharing what you know with the team.</p>\n<h2><strong>Our stack</strong></h2>\n<ul>\n<li>\n<p><strong>Kubernetes and GitOps:</strong> EKS, Karpenter, FluxCD, KCL, kro, Envoy Gateway (Gateway API)</p>\n</li>\n<li>\n<p><strong>Cloud and IaC:</strong> AWS across multiple accounts (EC2, Lambda, ECR, Bedrock), Terraform, GitHub Actions</p>\n</li>\n<li>\n<p><strong>Data:</strong> PlanetScale (MySQL), Aurora PostgreSQL, MongoDB Atlas, ElastiCache (Valkey/Redis), Elastic Cloud, S3, SQS, MSK (Kafka)</p>\n</li>\n<li>\n<p><strong>Networking and security:</strong> VPC, PrivateLink, Route 53, ALB, CloudFront, Cloudflare, IAM, KMS, external-secrets</p>\n</li>\n<li>\n<p><strong>Observability:</strong> Grafana Cloud, VictoriaMetrics, Loki, Tempo, OpenTelemetry</p>\n</li>\n</ul>\n<h2><strong>What your role looks like</strong></h2>\n<ul>\n<li>\n<p>Work on our EKS clusters and GitOps platform: upgrades, security, autoscaling and the core platform components.</p>\n</li>\n<li>\n<p>Improve how teams deploy to Kubernetes: the GitOps workflows, CI/CD pipelines and self-service templates developers use to ship their apps.</p>\n</li>\n<li>\n<p>Help migrate our core Laravel application from EC2 to Kubernetes, while keeping the existing EC2 fleet healthy.</p>\n</li>\n<li>\n<p>Manage AWS infrastructure with Terraform, and improve observability, alerting, security and cost across the platform.</p>\n</li>\n<li>\n<p>Bring engineers along: mentor them, pair on platform changes, write clear docs and help define our engineering standards.</p>\n</li>\n</ul>\n<h2><strong>What you’ll bring</strong></h2>\n<p>We’d love to meet you if have:</p>\n<ul>\n<li>\n<p>Production experience running Kubernetes and Docker-based workloads, including cluster upgrades, autoscaling and troubleshooting.</p>\n</li>\n<li>\n<p>Hands-on experience deploying to Kubernetes with GitOps and CI/CD pipelines (we use FluxCD and GitHub Actions).</p>\n</li>\n<li>\n<p>5+ years in Cloud Infrastructure, Platform Engineering or DevOps roles, with deep AWS experience (EKS, EC2, IAM, VPC networking).</p>\n</li>\n<li>\n<p>Strong Terraform and Linux skills, and a solid understanding of observability, secrets management and least-privilege access.</p>\n</li>\n<li>\n<p>Excellent communication skills and experience mentoring engineers and bringing teams along when tools or ways of working change.</p>\n</li>\n</ul>\n<h2><strong>Nice to have</strong></h2>\n<ul>\n<li>\n<p>Experience with FluxCD, Envoy Gateway, Karpenter, kro, KCL or Kubernetes operators</p>\n</li>\n<li>\n<p>Migrating a monolith from VMs to Kubernetes</p>\n</li>\n<li>\n<p>Managed databases and search in production (MySQL/PlanetScale, PostgreSQL, MongoDB Atlas, Elasticsearch)</p>\n</li>\n<li>\n<p>Multi-account AWS, Kafka, Cloudflare or AI/LLM workloads in production</p>\n</li>\n<li>\n<p>A background in security, compliance (e.g. GDPR) or incident response</p>\n</li>\n</ul>\n<h2><strong>⚙️ Our tech &#x26; AI mindset</strong></h2>\n<p>AI is not a buzzword at Trengo. It is part of how we build and operate. You’ll work with AI-driven features, automation, data, or tools that help us move faster and smarter. We value thoughtful use of AI that creates real value for customers and teams.</p>\n<h2><strong>What’s in it for you?</strong></h2>\n<p>We believe in supporting you to perform at your best and grow with us:</p>\n<ul>\n<li>\n<p>🚀 A key role where you’ll make a visible impact in a vibrant scale-up environment.</p>\n</li>\n<li>\n<p>🌍 Hybrid working + 60 days per year to work abroad.</p>\n</li>\n<li>\n<p>🧘 Mental health support with free sessions from on-demand psychologists (OpenUp).</p>\n</li>\n<li>\n<p>📚 Learning budget + 2 extra days off to attend courses or conferences.</p>\n</li>\n<li>\n<p>🌴 28 vacation days to rest, recharge, and travel</p>\n</li>\n<li>\n<p>🚆 Travel reimbursement to our Utrecht HQ.</p>\n</li>\n<li>\n<p>📶 Monthly internet &#x26; phone allowance to stay connected.</p>\n</li>\n<li>\n<p>🍴 Daily warm lunches prepared by our workplace experience team when you’re at our beautiful Utrecht office.</p>\n</li>\n<li>\n<p>💼 Pension contribution to help you plan for the future.</p>\n</li>\n<li>\n<p>🛫 Sabbatical: After two years, enjoy up to three months away (unpaid) to rest, recharge, or see the world.</p>\n</li>\n</ul>\n<h2><strong>🔍 Our hiring process</strong></h2>\n<ol>\n<li>\n<p><strong>Introductory call</strong> – First conversation with our Talent team.</p>\n</li>\n<li>\n<p><strong>Manager interview</strong> – Deep dive into experience and expectations.</p>\n</li>\n<li>\n<p><strong>Practical assignment</strong> – Role-related, real-world challenge.</p>\n</li>\n<li>\n<p><strong>Team connection</strong> – Meet future colleagues and confirm mutual fit.</p>\n</li>\n</ol>\n<p>We aim to keep the process clear, fair, and timely, and we’ll keep you informed at every step.</p>\n<p>Join us in building the future of customer engagement — we’d love to have you on the team.</p>\n<p>👉 <strong>Apply today and let’s grow together!</strong></p>\n<p><em>We believe great ideas come from diverse perspectives. If you’re excited about this role but don’t meet every requirement, we encourage you to apply.</em></p>\n<p>#LI-Hybrid</p>\n<p>#LI-MT1</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-cloud-engineer-kubernetes-trengo</p>",
+      "posted_at": "2026-10-23T14:48:54.825+00:00",
       "is_translated": false,
       "original_language": null
     },
@@ -9852,6 +9865,318 @@
       "original_language": null
     },
     {
+      "id": "302db558-49e7-4f0c-bd55-b57b77223da4",
+      "title": "Data Scientist",
+      "url": "https://remotejobs.org/remote-jobs/data-scientist-jerry-3a3c39b787a7434187b61efd7ba970b8",
+      "apply_url": "https://remotejobs.org/remote-jobs/data-scientist-jerry-3a3c39b787a7434187b61efd7ba970b8",
+      "company": {
+        "name": "Jerry",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/6d76d60b0491aff4bf82b8d6e724ae66ad582ad0c1dd81fbfc9a527c615b94b2.webp",
+        "website": "https://jerry.co",
+        "url": "https://remotejobs.org/companies/jerry"
+      },
+      "category": {
+        "name": "Data Science",
+        "slug": "data-science"
+      },
+      "location": "New York, New York",
+      "location_normalization": {
+        "raw": "New York, New York",
+        "input": {
+          "workArrangement": "remote"
+        },
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "worksite_countries": [
+          "US"
+        ],
+        "allowed_subdivisions": [
+          "US-NY"
+        ],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [
+          "if the employment is full-time hourly",
+          "if the employment is full-time salaried"
+        ],
+        "evidence_ids": [
+          "c2",
+          "c3",
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [
+          "US-NY"
+        ],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": null,
+        "role_family": "data-science",
+        "required_skills": [],
+        "mentioned_skills": [
+          "python",
+          "sql"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": [
+          {
+            "text": "2+ years of experience",
+            "maximum_years": null,
+            "minimum_years": 2,
+            "classification": "mentioned"
+          }
+        ]
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "9ab9a075-ef2a-4cb2-b94b-d00fb91f2b9c",
+      "direct_apply": null,
+      "description": "<p><strong>Why We Exist</strong></p>\n<p>Your car and your home are your most important assets, yet the experience of owning them is stuck in the 90s. Every part of the journey — buy/sell, insurance, maintenance, repairs — is fragmented, complicated, and expensive.<br>\n<br>\n<a href=\"http://Jerry.ai\">Jerry.ai</a> is building the first app to manage it all. We started with car insurance in 2019, became one of the top 3 brokers in the U.S., then added driving insights, diagnostics, and a repair marketplace.<br>\n<br>\nWe've reached 5M+ customers, raised $240M+, scaled revenue 70X, and became profitable in early 2024. We're now expanding into adjacent verticals (e.g. home, motorcycle, RV, etc) to become the one-stop-shop for all your physical assets.</p>\n<p><strong>Why We’re Hiring</strong></p>\n<p>Our Data Science &#x26; Analytics team has been a force multiplier and accelerant to our business that has helped us reach these pivotal milestones in spite of headwinds and within a highly competitive market. They are a team of former McKinsey, BCG and Bain consultants who drive data &#x26; insights, and inform decision-making across every corner of our business. They are analytical powerhouses and first principles problem solvers who push forward our most important initiatives across product, growth, tech, and operations.<br>\n<br>\nEvery business unit has a Data Science team member embedded within it — someone who doesn't just run analyses and build dashboards, but shapes what questions we should ask, what data to pull, what conclusions to draw, what decisions to make, and then drives our teams towards our next goal: go from 5M to 50M customers and become a $10B business in the next 4 years.</p>\n<p>As our business continues to expand, there is growing demand for more Data Science team members. We are hiring 2-3 people to drive impact in these areas:</p>\n<ul>\n<li>\n<p>Growth Marketing</p>\n</li>\n<li>\n<p>Product Development</p>\n</li>\n<li>\n<p>AI &#x26; Automation</p>\n</li>\n<li>\n<p>Strategic Partnerships</p>\n</li>\n</ul>\n<p><strong>On leveling: </strong>You may see job ads for this role at different job levels. Our priority is finding the right people, we can be flexible with job title/leveling.</p>\n<p><strong>Why You Will (Or Won't) Like Working Here</strong></p>\n<ul>\n<li>\n<p><strong>No slides:</strong> If you've worked in consulting, you know what it feels like to be up at 3am reformatting a deck. That doesn't exist here. The only work that gets done at Jerry is work that will materially change the trajectory of our business — an important product, a new growth channel, a key metric, a critical partner relationship, etc.</p>\n</li>\n<li>\n<p><strong>No corporate fluff:</strong> The Data Science &#x26; Analytics team is 14 insatiable learners who care deeply about solving difficult problems and making a tangible impact. Every person owns a critical domain. There is no bloat, unnecessary meetings, or waiting for approvals.</p>\n</li>\n<li>\n<p><strong>Hands-on: </strong>This is not a pure strategy role, you will also own execution. Your day-to-day will be surfacing analytical insights, driving decisions, and seeing them through end-to-end.</p>\n</li>\n</ul>\n<p><strong>What You'll Own</strong></p>\n<p>You'll sit on our central Data Science &#x26; Analytics team but you’ll be embedded in one of Jerry's core business areas — growth, product, AI and automation, strategic partnerships — and own the analytical function for that business unit end-to-end.</p>\n<ul>\n<li>\n<p><strong>Define the right problems: </strong>Before any analysis, understand what business question it's answering and what decision it will inform. Push back if the question is flawed.</p>\n</li>\n<li>\n<p><strong>Data and insights: </strong>Define metrics, build reports, run analyses, design experiments, and surface data insights that move your team's key metrics.</p>\n</li>\n<li>\n<p><strong>Drive outcomes: </strong>Bring recommendations to your counterparts in product, growth, finance or operations, tell them what's happening and why, and what next steps should be.</p>\n</li>\n</ul>\n<p><strong>Who You Are</strong></p>\n<ul>\n<li>\n<p><strong>First principles thinker: </strong>You break ambiguous problems into clear hypotheses before touching data. You're analytically strong (comfortable with SQL or Python) but your instinct is to ask \"what are we trying to solve here?\" before jumping to \"what should I build?\"</p>\n</li>\n<li>\n<p><strong>Direct communicator:</strong> You can walk a skeptical stakeholder through a complex finding and get buy-in quickly. You write clearly, speak precisely, and don't bury the lede.</p>\n</li>\n<li>\n<p><strong>Owner: </strong>You act like your name is on the door. If something is broken, you feel responsible for fixing it, even if it’s outside of your swim lane.</p>\n</li>\n</ul>\n<p><strong>What You'll Bring</strong></p>\n<ul>\n<li>\n<p>2+ years of experience at a consulting firm, investment bank, or high-growth technology company.</p>\n</li>\n<li>\n<p>Strong analytical skills; ability to pull, structure, and interpret data independently.</p>\n</li>\n<li>\n<p>Track record of owning ambiguous problems and delivering impact.</p>\n</li>\n<li>\n<p>Clear, persuasive communicator who can influence decisions at the leadership level.</p>\n</li>\n</ul>\n<p><strong>Our Tools</strong></p>\n<p>SQL (Clickhouse), Metabase, Python, Jupyter Hub, GitHub.</p>\n<p><em>While we appreciate your interest and application, due to the volume of applications we receive, only applicants under consideration will be contacted.</em></p>\n<p><em><strong>Please note: </strong></em><a href=\"http://Jerry.ai\"><em><strong>Jerry.ai</strong></em></a><em><strong> is only able to hire full-time salaried employees who currently reside in AZ, CA, CO, FL, GA, IL, MA, NC, NJ, NV, NY, OR, TN, TX, UT, VA, or Ontario, Canada, and full-time hourly employees who currently reside in AZ, FL, GA, NV, NY, NC, TN, TX, UT, or VA. Unfortunately, we cannot accept applications from candidates residing elsewhere at this time.</strong></em></p>\n<p><em>Jerry.ai is proud to be an Equal Employment Opportunity employer. We prohibit discrimination based on race, religion, color, national origin, sex, pregnancy, reproductive health decisions or related medical conditions, sexual orientation, gender identity, gender expression, age, veteran status, disability, genetic information, or other characteristics protected by applicable local, state or federal laws.</em></p>\n<p><em>Jerry.ai is committed to providing reasonable accommodations for individuals with disabilities in our job application process. If you need assistance or an accommodation due to a disability, please contact us at </em><a href=\"mailto:recruiting@getjerry.com\"><em>recruiting@jerry.ai</em></a></p>\n<p><em>The successful candidate’s starting pay will fall within the pay range listed on this job posting, determined based on job-related factors including, but not limited to, skills, experience, qualifications, work location, and market conditions. Ranges are market-dependent and may be modified in the future. In addition to base salary, the compensation may include opportunities for equity grants.</em></p>\n<p><em>We offer a comprehensive benefits package to regular employees, including health, dental, and vision coverage, paid time off, paid parental leave, 401(K) plan with employer matching, and wellness benefits, among others. Equity opportunities may also be part of your total rewards package. Part-time, contract, or freelance roles may not be eligible for certain benefits.</em></p>\n<p><strong>About Jerry.ai</strong></p>\n<p>Jerry is building the first AI-powered advisor to manage all your physical assets.</p>\n<p>Your car, home, and motorcycle aren't just purchases, they're the physical embodiment of the life you've worked hard to build. Yet the experience of owning them is stuck in the 90s. Every step of the journey — buying, insuring, maintaining, repairing, selling — is fragmented, complicated, and expensive.</p>\n<p>Imagine having a trusted friend in your pocket who takes care of everything: they find you the right car or home at the right price, lock in the best insurance rate without you lifting a finger, remind you before that service appointment turns into an expensive repair, and help you sell at the best price when the time is right. That friend is Jerry.</p>\n<p>We started with car insurance in 2019, became one of the top 3 brokers in the U.S., then added driving insights, diagnostics, and a repair marketplace. We've reached 5M+ customers, raised $240M+, and achieved profitability in 2024. We're now expanding into home, motorcycle, RV, and beyond.</p>\n<p>Led by serial entrepreneurs and backed by Y Combinator, our team comprises talented and big-hearted leaders from places like Nvidia, Meta, Amazon, BCG, McKinsey, Bain, and GEICO. Our culture is the #1 reason people join Jerry and stay — we are a small and mighty team of competitive but kind people who think and act like owners, care deeply about the quality and impact of our work, and are relentless in our pursuit of learning and mastery over our craft.</p>\n<p>We are proud to consistently rank as one of Y Combinator's Top Companies, Forbes and Statista's Best Startup Employers, and to have received other accolades in fintech and insurtech innovation, workplace culture, and leadership.</p>\n<p>We support remote work for most roles, but if you prefer in-person or hybrid, we also have offices in Palo Alto, New York City, Chicago, and Toronto.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/data-scientist-jerry-3a3c39b787a7434187b61efd7ba970b8</p>",
+      "posted_at": "2026-10-23T17:22:43.828+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "3f7e0a19-883e-4459-9419-ffbfa43759b6",
+      "title": "Senior Associate, Business Operations & Analytics",
+      "url": "https://remotejobs.org/remote-jobs/senior-associate-business-operations-analytics-jerry",
+      "apply_url": "https://remotejobs.org/remote-jobs/senior-associate-business-operations-analytics-jerry",
+      "company": {
+        "name": "Jerry",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/6d76d60b0491aff4bf82b8d6e724ae66ad582ad0c1dd81fbfc9a527c615b94b2.webp",
+        "website": "https://jerry.co",
+        "url": "https://remotejobs.org/companies/jerry"
+      },
+      "category": {
+        "name": "Data Science",
+        "slug": "data-science"
+      },
+      "location": "New York, New York",
+      "location_normalization": {
+        "raw": "New York, New York",
+        "input": {
+          "workArrangement": "remote"
+        },
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "worksite_countries": [
+          "US"
+        ],
+        "allowed_subdivisions": [
+          "US-NY"
+        ],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [
+          "full-time hourly employee",
+          "full-time salaried employee"
+        ],
+        "evidence_ids": [
+          "c1",
+          "c2",
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [
+          "US-NY"
+        ],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": "senior",
+        "role_family": null,
+        "required_skills": [],
+        "mentioned_skills": [
+          "python",
+          "sql"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": [
+          {
+            "text": "2+ years of experience",
+            "maximum_years": null,
+            "minimum_years": 2,
+            "classification": "mentioned"
+          }
+        ]
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "78e42201-3fbd-4358-b37c-f2edcd09f62f",
+      "direct_apply": null,
+      "description": "<p><strong>Why We Exist</strong></p>\n<p>Your car and your home are your most important assets, yet the experience of owning them is stuck in the 90s. Every part of the journey — buy/sell, insurance, maintenance, repairs — is fragmented, complicated, and expensive.</p>\n<p><a href=\"http://Jerry.ai\">Jerry.ai</a> is building the first app to manage it all. We started with car insurance in 2019, became one of the top 3 brokers in the U.S., then added driving insights, diagnostics, and a repair marketplace.</p>\n<p>We've reached 5M+ customers, raised $240M+, scaled revenue 70X, and became profitable in early 2024. We're now expanding into adjacent verticals (e.g. home, motorcycle, RV, etc) to become the one-stop-shop for all your physical assets.</p>\n<p><strong>Why We’re Hiring</strong></p>\n<p>Our Business Operations &#x26; Analytics team has been a force multiplier and accelerant to our business that has helped us reach these pivotal milestones in spite of headwinds and within a highly competitive market. They are a team of former McKinsey, BCG and Bain consultants who drive data &#x26; insights, and inform decision-making across every corner of our business. They are analytical powerhouses and first principles problem solvers who push forward our most important initiatives across product, growth, tech, and operations.</p>\n<p>Every business unit has a Business Operations &#x26; Analytics team member embedded within it — someone who doesn't just run analyses and build dashboards, but shapes what questions we should ask, what data to pull, what conclusions to draw, what decisions to make, and then drives our teams towards our next goal: go from 5M to 50M customers and become a $10B business in the next 4 years.</p>\n<p>As our business continues to expand, there is growing demand for more Business Operations &#x26; Analytics team members. We are hiring 2-3 people to drive impact in these areas:</p>\n<ul>\n<li>\n<p>Growth Marketing</p>\n</li>\n<li>\n<p>Product Development</p>\n</li>\n<li>\n<p>AI &#x26; Automation</p>\n</li>\n<li>\n<p>Strategic Partnerships</p>\n</li>\n</ul>\n<p><strong>On leveling: </strong>You may see job ads for this role at different job levels. Our priority is finding the right people, we can be flexible with job title/leveling.</p>\n<p><strong>Why You Will (Or Won't) Like Working Here</strong></p>\n<ul>\n<li>\n<p><strong>No slides:</strong> If you've worked in consulting, you know what it feels like to be up at 3am reformatting a deck. That doesn't exist here. The only work that gets done at Jerry is work that will materially change the trajectory of our business — an important product, a new growth channel, a key metric, a critical partner relationship, etc.</p>\n</li>\n<li>\n<p><strong>No corporate fluff:</strong> The Business Operations &#x26; Analytics team is 14 insatiable learners who care deeply about solving difficult problems and making a tangible impact. Every person owns a critical domain. There is no bloat, unnecessary meetings, or waiting for approvals.</p>\n</li>\n<li>\n<p><strong>Hands-on: </strong>This is not a pure strategy role, you will also own execution. Your day-to-day will be surfacing analytical insights, driving decisions, and seeing them through end-to-end.</p>\n</li>\n</ul>\n<p><strong>What You'll Own</strong></p>\n<p>You'll sit on our central Business Operations &#x26; Analytics team but you’ll be embedded in one of Jerry's core business areas — growth, product, AI and automation, strategic partnerships — and own the analytical function for that business unit end-to-end.</p>\n<ul>\n<li>\n<p><strong>Define the right problems: </strong>Before any analysis, understand what business question it's answering and what decision it will inform. Push back if the question is flawed.</p>\n</li>\n<li>\n<p><strong>Data and insights: </strong>Define metrics, build reports, run analyses, design experiments, and surface data insights that move your team's key metrics.</p>\n</li>\n<li>\n<p><strong>Drive outcomes: </strong>Bring recommendations to your counterparts in product, growth, finance or operations, tell them what's happening and why, and what next steps should be.</p>\n</li>\n</ul>\n<p><strong>Who You Are</strong></p>\n<ul>\n<li>\n<p><strong>First principles thinker: </strong>You break ambiguous problems into clear hypotheses before touching data. You're analytically strong (comfortable with SQL or Python) but your instinct is to ask \"what are we trying to solve here?\" before jumping to \"what should I build?\"</p>\n</li>\n<li>\n<p><strong>Direct communicator:</strong> You can walk a skeptical stakeholder through a complex finding and get buy-in quickly. You write clearly, speak precisely, and don't bury the lede.</p>\n</li>\n<li>\n<p><strong>Owner: </strong>You act like your name is on the door. If something is broken, you feel responsible for fixing it, even if it’s outside of your swim lane.</p>\n</li>\n</ul>\n<p><strong>What You'll Bring</strong></p>\n<ul>\n<li>\n<p>2+ years of experience at a consulting firm, investment bank, or high-growth technology company.</p>\n</li>\n<li>\n<p>Strong analytical skills; ability to pull, structure, and interpret data independently.</p>\n</li>\n<li>\n<p>Track record of owning ambiguous problems and delivering impact.</p>\n</li>\n<li>\n<p>Clear, persuasive communicator who can influence decisions at the leadership level.</p>\n</li>\n</ul>\n<p><strong>Our Tools</strong></p>\n<p>SQL (Clickhouse), Metabase, Python, Jupyter Hub, GitHub.</p>\n<p><em>While we appreciate your interest and application, due to the volume of applications we receive, only applicants under consideration will be contacted.</em></p>\n<p><em><strong>Please note: </strong></em><a href=\"http://Jerry.ai\"><em><strong>Jerry.ai</strong></em></a><em><strong> is only able to hire full-time salaried employees who currently reside in AZ, CA, CO, FL, GA, IL, MA, NC, NJ, NV, NY, OR, TN, TX, UT, VA, or Ontario, Canada, and full-time hourly employees who currently reside in AZ, FL, GA, NV, NY, NC, TN, TX, UT, or VA. Unfortunately, we cannot accept applications from candidates residing elsewhere at this time.</strong></em></p>\n<p><em>Jerry.ai is proud to be an Equal Employment Opportunity employer. We prohibit discrimination based on race, religion, color, national origin, sex, pregnancy, reproductive health decisions or related medical conditions, sexual orientation, gender identity, gender expression, age, veteran status, disability, genetic information, or other characteristics protected by applicable local, state or federal laws.</em></p>\n<p><em>Jerry.ai is committed to providing reasonable accommodations for individuals with disabilities in our job application process. If you need assistance or an accommodation due to a disability, please contact us at </em><a href=\"mailto:recruiting@getjerry.com\"><em>recruiting@jerry.ai</em></a></p>\n<p><em>The successful candidate’s starting pay will fall within the pay range listed on this job posting, determined based on job-related factors including, but not limited to, skills, experience, qualifications, work location, and market conditions. Ranges are market-dependent and may be modified in the future. In addition to base salary, the compensation may include opportunities for equity grants.</em></p>\n<p><em>We offer a comprehensive benefits package to regular employees, including health, dental, and vision coverage, paid time off, paid parental leave, 401(K) plan with employer matching, and wellness benefits, among others. Equity opportunities may also be part of your total rewards package. Part-time, contract, or freelance roles may not be eligible for certain benefits.</em></p>\n<p><strong>About Jerry.ai</strong></p>\n<p>Jerry is building the first AI-powered advisor to manage all your physical assets.</p>\n<p>Your car, home, and motorcycle aren't just purchases, they're the physical embodiment of the life you've worked hard to build. Yet the experience of owning them is stuck in the 90s. Every step of the journey — buying, insuring, maintaining, repairing, selling — is fragmented, complicated, and expensive.</p>\n<p>Imagine having a trusted friend in your pocket who takes care of everything: they find you the right car or home at the right price, lock in the best insurance rate without you lifting a finger, remind you before that service appointment turns into an expensive repair, and help you sell at the best price when the time is right. That friend is Jerry.</p>\n<p>We started with car insurance in 2019, became one of the top 3 brokers in the U.S., then added driving insights, diagnostics, and a repair marketplace. We've reached 5M+ customers, raised $240M+, and achieved profitability in 2024. We're now expanding into home, motorcycle, RV, and beyond.</p>\n<p>Led by serial entrepreneurs and backed by Y Combinator, our team comprises talented and big-hearted leaders from places like Nvidia, Meta, Amazon, BCG, McKinsey, Bain, and GEICO. Our culture is the #1 reason people join Jerry and stay — we are a small and mighty team of competitive but kind people who think and act like owners, care deeply about the quality and impact of our work, and are relentless in our pursuit of learning and mastery over our craft.</p>\n<p>We are proud to consistently rank as one of Y Combinator's Top Companies, Forbes and Statista's Best Startup Employers, and to have received other accolades in fintech and insurtech innovation, workplace culture, and leadership.</p>\n<p>We support remote work for most roles, but if you prefer in-person or hybrid, we also have offices in Palo Alto, New York City, Chicago, and Toronto.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-associate-business-operations-analytics-jerry</p>",
+      "posted_at": "2026-10-23T17:21:50.316+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "39623b25-b621-44a1-b9f4-55b04ef06aef",
+      "title": "Associate, Business Operations & Analytics",
+      "url": "https://remotejobs.org/remote-jobs/associate-business-operations-analytics-jerry",
+      "apply_url": "https://remotejobs.org/remote-jobs/associate-business-operations-analytics-jerry",
+      "company": {
+        "name": "Jerry",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/6d76d60b0491aff4bf82b8d6e724ae66ad582ad0c1dd81fbfc9a527c615b94b2.webp",
+        "website": "https://jerry.co",
+        "url": "https://remotejobs.org/companies/jerry"
+      },
+      "category": {
+        "name": "Data Science",
+        "slug": "data-science"
+      },
+      "location": "New York, New York",
+      "location_normalization": {
+        "raw": "New York, New York",
+        "input": {
+          "workArrangement": "remote"
+        },
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "worksite_countries": [
+          "US"
+        ],
+        "allowed_subdivisions": [
+          "US-NY"
+        ],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [
+          "if the employee is a full-time hourly employee",
+          "if the employee is a full-time salaried employee"
+        ],
+        "evidence_ids": [
+          "c1",
+          "c2",
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [
+          "US-NY"
+        ],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": null,
+        "role_family": null,
+        "required_skills": [],
+        "mentioned_skills": [
+          "python",
+          "sql"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": [
+          {
+            "text": "1+ years of experience",
+            "maximum_years": null,
+            "minimum_years": 1,
+            "classification": "mentioned"
+          }
+        ]
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "a99cb51b-5f41-44c6-ac88-79dd9cefe642",
+      "direct_apply": null,
+      "description": "<p><strong>Why We Exist</strong></p>\n<p>Your car and your home are your most important assets, yet the experience of owning them is stuck in the 90s. Every part of the journey — buy/sell, insurance, maintenance, repairs — is fragmented, complicated, and expensive.</p>\n<p><a href=\"http://Jerry.ai\">Jerry.ai</a> is building the first app to manage it all. We started with car insurance in 2019, became one of the top 3 brokers in the U.S., then added driving insights, diagnostics, and a repair marketplace.</p>\n<p>We've reached 5M+ customers, raised $240M+, scaled revenue 70X, and became profitable in early 2024. We're now expanding into adjacent verticals (e.g. home, motorcycle, RV, etc) to become the one-stop-shop for all your physical assets.</p>\n<p><strong>Why We’re Hiring</strong></p>\n<p>Our Business Operations &#x26; Analytics team has been a force multiplier and accelerant to our business that has helped us reach these pivotal milestones in spite of headwinds and within a highly competitive market. They are a team of former McKinsey, BCG and Bain consultants who drive data &#x26; insights, and inform decision-making across every corner of our business. They are analytical powerhouses and first principles problem solvers who push forward our most important initiatives across product, growth, tech, and operations.</p>\n<p>Every business unit has a Business Operations &#x26; Analytics team member embedded within it — someone who doesn't just run analyses and build dashboards, but shapes what questions we should ask, what data to pull, what conclusions to draw, what decisions to make, and then drives our teams towards our next goal: go from 5M to 50M customers and become a $10B business in the next 4 years.</p>\n<p>As our business continues to expand, there is growing demand for more Business Operations &#x26; Analytics team members. We are hiring 2-3 people to drive impact in these areas:</p>\n<ul>\n<li>\n<p>Growth Marketing</p>\n</li>\n<li>\n<p>Product Development</p>\n</li>\n<li>\n<p>AI &#x26; Automation</p>\n</li>\n<li>\n<p>Strategic Partnerships</p>\n</li>\n</ul>\n<p><strong>On leveling: </strong>You may see job ads for this role at different job levels. Our priority is finding the right people, we can be flexible with job title/leveling.</p>\n<p><strong>Why You Will (Or Won't) Like Working Here</strong></p>\n<ul>\n<li>\n<p><strong>No slides:</strong> If you've worked in consulting, you know what it feels like to be up at 3am reformatting a deck. That doesn't exist here. The only work that gets done at Jerry is work that will materially change the trajectory of our business — an important product, a new growth channel, a key metric, a critical partner relationship, etc.</p>\n</li>\n<li>\n<p><strong>No corporate fluff:</strong> The Business Operations &#x26; Analytics team is 14 insatiable learners who care deeply about solving difficult problems and making a tangible impact. Every person owns a critical domain. There is no bloat, unnecessary meetings, or waiting for approvals.</p>\n</li>\n<li>\n<p><strong>Hands-on: </strong>This is not a pure strategy role, you will also own execution. Your day-to-day will be surfacing analytical insights, driving decisions, and seeing them through end-to-end.</p>\n</li>\n</ul>\n<p><strong>What You'll Own</strong></p>\n<p>You'll sit on our central Business Operations &#x26; Analytics team but you’ll be embedded in one of Jerry's core business areas — growth, product, AI and automation, strategic partnerships — and own the analytical function for that business unit end-to-end.</p>\n<ul>\n<li>\n<p><strong>Define the right problems: </strong>Before any analysis, understand what business question it's answering and what decision it will inform. Push back if the question is flawed.</p>\n</li>\n<li>\n<p><strong>Data and insights: </strong>Define metrics, build reports, run analyses, design experiments, and surface data insights that move your team's key metrics.</p>\n</li>\n<li>\n<p><strong>Drive outcomes: </strong>Bring recommendations to your counterparts in product, growth, finance or operations, tell them what's happening and why, and what next steps should be.</p>\n</li>\n</ul>\n<p><strong>Who You Are</strong></p>\n<ul>\n<li>\n<p><strong>First principles thinker: </strong>You break ambiguous problems into clear hypotheses before touching data. You're analytically strong (comfortable with SQL or Python) but your instinct is to ask \"what are we trying to solve here?\" before jumping to \"what should I build?\"</p>\n</li>\n<li>\n<p><strong>Direct communicator:</strong> You can walk a skeptical stakeholder through a complex finding and get buy-in quickly. You write clearly, speak precisely, and don't bury the lede.</p>\n</li>\n<li>\n<p><strong>Owner: </strong>You act like your name is on the door. If something is broken, you feel responsible for fixing it, even if it’s outside of your swim lane.</p>\n</li>\n</ul>\n<p><strong>What You'll Bring</strong></p>\n<ul>\n<li>\n<p>1+ years of experience at a consulting firm, investment bank, or high-growth technology company.</p>\n</li>\n<li>\n<p>Strong analytical skills; ability to pull, structure, and interpret data independently.</p>\n</li>\n<li>\n<p>Track record of owning ambiguous problems and delivering impact.</p>\n</li>\n<li>\n<p>Clear, persuasive communicator who can influence decisions at the leadership level.</p>\n</li>\n</ul>\n<p><strong>Our Tools</strong></p>\n<p>SQL (Clickhouse), Metabase, Python, Jupyter Hub, GitHub.</p>\n<p><em>While we appreciate your interest and application, due to the volume of applications we receive, only applicants under consideration will be contacted.</em></p>\n<p><em><strong>Please note: </strong></em><a href=\"http://Jerry.ai\"><em><strong>Jerry.ai</strong></em></a><em><strong> is only able to hire full-time salaried employees who currently reside in AZ, CA, CO, FL, GA, IL, MA, NC, NJ, NV, NY, OR, TN, TX, UT, VA, or Ontario, Canada, and full-time hourly employees who currently reside in AZ, FL, GA, NV, NY, NC, TN, TX, UT, or VA. Unfortunately, we cannot accept applications from candidates residing elsewhere at this time.</strong></em></p>\n<p><em>Jerry.ai is proud to be an Equal Employment Opportunity employer. We prohibit discrimination based on race, religion, color, national origin, sex, pregnancy, reproductive health decisions or related medical conditions, sexual orientation, gender identity, gender expression, age, veteran status, disability, genetic information, or other characteristics protected by applicable local, state or federal laws.</em></p>\n<p><em>Jerry.ai is committed to providing reasonable accommodations for individuals with disabilities in our job application process. If you need assistance or an accommodation due to a disability, please contact us at </em><a href=\"mailto:recruiting@getjerry.com\"><em>recruiting@jerry.ai</em></a></p>\n<p><em>The successful candidate’s starting pay will fall within the pay range listed on this job posting, determined based on job-related factors including, but not limited to, skills, experience, qualifications, work location, and market conditions. Ranges are market-dependent and may be modified in the future. In addition to base salary, the compensation may include opportunities for equity grants.</em></p>\n<p><em>We offer a comprehensive benefits package to regular employees, including health, dental, and vision coverage, paid time off, paid parental leave, 401(K) plan with employer matching, and wellness benefits, among others. Equity opportunities may also be part of your total rewards package. Part-time, contract, or freelance roles may not be eligible for certain benefits.</em></p>\n<p><strong>About Jerry.ai</strong></p>\n<p>Jerry is building the first AI-powered advisor to manage all your physical assets.</p>\n<p>Your car, home, and motorcycle aren't just purchases, they're the physical embodiment of the life you've worked hard to build. Yet the experience of owning them is stuck in the 90s. Every step of the journey — buying, insuring, maintaining, repairing, selling — is fragmented, complicated, and expensive.</p>\n<p>Imagine having a trusted friend in your pocket who takes care of everything: they find you the right car or home at the right price, lock in the best insurance rate without you lifting a finger, remind you before that service appointment turns into an expensive repair, and help you sell at the best price when the time is right. That friend is Jerry.</p>\n<p>We started with car insurance in 2019, became one of the top 3 brokers in the U.S., then added driving insights, diagnostics, and a repair marketplace. We've reached 5M+ customers, raised $240M+, and achieved profitability in 2024. We're now expanding into home, motorcycle, RV, and beyond.</p>\n<p>Led by serial entrepreneurs and backed by Y Combinator, our team comprises talented and big-hearted leaders from places like Nvidia, Meta, Amazon, BCG, McKinsey, Bain, and GEICO. Our culture is the #1 reason people join Jerry and stay — we are a small and mighty team of competitive but kind people who think and act like owners, care deeply about the quality and impact of our work, and are relentless in our pursuit of learning and mastery over our craft.</p>\n<p>We are proud to consistently rank as one of Y Combinator's Top Companies, Forbes and Statista's Best Startup Employers, and to have received other accolades in fintech and insurtech innovation, workplace culture, and leadership.</p>\n<p>We support remote work for most roles, but if you prefer in-person or hybrid, we also have offices in Palo Alto, New York City, Chicago, and Toronto.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/associate-business-operations-analytics-jerry</p>",
+      "posted_at": "2026-10-23T17:00:37.015+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
       "id": "beefc919-30aa-4235-acb2-11cdc3811ea9",
       "title": "Insights Sector Lead, Emerging Verticals",
       "url": "https://remotejobs.org/remote-jobs/insights-sector-lead-emerging-verticals-yipitdata",
@@ -9885,7 +10210,41 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [
+          {
+            "kind": "timezone",
+            "areas": [],
+            "effect": "require",
+            "details": "We expect East/West Coast/etc. work hours.",
+            "regions": [],
+            "timezones": [],
+            "evidence_id": "c3",
+            "conditional_on": null
+          }
+        ],
+        "unresolved": [],
+        "evidence_ids": [
+          "c1",
+          "c3"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -13745,295 +14104,6 @@
       "direct_apply": null,
       "description": "<p>Welcome to the intersection of energy and home services. At NRG, we’re all about propelling the next generation of leaders forward. We are driven by our passion to create a smarter, cleaner and more connected future. We deliver innovative solutions that make our customers’ lives easier—helping them power, protect, and intelligently manage their homes and businesses. To do this, we need creative and talented people to join our company.</p><p>We offer a dynamic work environment and a unified and inclusive culture. NRG fosters a strong sense of belonging that leads to better collaboration and business performance. Our company programs are designed to help employees develop the skills they need for success now and in the future. In everything we do, we aim to champion our employees and bring value to our customers, investors and society.</p><p>More information is available at www.nrg.com. Connect with NRG on Facebook, Instagram, LinkedIn and X.</p><h2>Role Summary:</h2><p>As a Sr. Analytics Engineer on our Analytics Engineering and Data Warehousing team, you will be responsible for developing the core Services that provides data to the entire enterprise. You will be responsible for building the data models that form the basis of our most important operational and strategic data-driven decisions.</p><p>Working closely with our finance teams, you will build and help maintain a data warehouse platform that provides timely, accurate, and reliable data that determines performance KPIs and commissions for thousands of employees.</p><h2>Primary Responsibilities:</h2><ul>\n<li>Build relationships with data analytic teams and business leaders to understand their goals, initiatives, and the data solutions they need.</li>\n<li>Help design, build, and maintain an enterprise data warehouse platform with its associated data models and data transformation pipelines.</li>\n<li>Implement best practices and innovative solutions to provide timely, accurate, &#x26; reliable data.</li>\n<li>Help in the implementation of a high-performing data warehouse platform (Snowflake) servicing thousands of users and a broad set of use cases.</li>\n<li>Constantly evaluate and optimize deployment of data architecture to achieve greater efficiency and reliability.</li>\n</ul><h2>Required Qualifications:</h2><ul>\n<li>Hard minimum of 3 years of data modeling and data warehousing development experience (dbt, SSIS, Matillion, or similar).</li>\n<li>Expert in SQL and the principles of cloud warehouse design.</li>\n<li>2+ years of professional experience specifically with Snowflake, Redshift, or Data Factory, or BigQuery. Snowflake preferred.</li>\n<li>2+ years of experience with Git, code reviews, and CI/CD environments.</li>\n<li>Ability to communicate effectively with business leaders and engineers to focus on the highest impact opportunities. You exhibit great judgment and sharp business instincts that allow you to differentiate essential versus nice-to-have and to make good choices about trade-offs.</li>\n</ul><h2>Required Education:</h2><ul><li>BA/BS or higher in Computer Science, Information Systems, Math, other technical field, or relevant work experience.</li></ul><h2>Nice-to-Have Experience:</h2><ul>\n<li>Experience with SSIS.</li>\n<li>Knowledgeable in scripting languages (python, .net, R, etc).</li>\n</ul><h2>Here are some highlighted perks you should ask us about:</h2><ul>\n<li><em>Free daily lunch and drinks on site</em></li>\n<li><em>Paid holidays and flexible paid time away</em></li>\n<li><em>Employee/Friends/Family Discounts</em></li>\n<li><em>Onsite health clinic, gym, gaming tables</em></li>\n<li><em>Medical/dental/vision/life coverage &#x26; 24/7 Medical Hotline</em></li>\n<li><em>401(k) + Employer Match</em></li>\n<li><em>Employee Resource Groups</em></li>\n</ul><h2>Working Conditions:</h2><p><em>This job operates in a professional office environment. This role routinely uses standard office equipment such as computers, phones, photocopiers, filing cabinets and fax machines.</em></p><p>NRG Energy is committed to a drug and alcohol-free workplace. To the extent permitted by law and any applicable collective bargaining agreement, employees are subject to periodic random drug testing, and post-accident and reasonable suspicion drug and alcohol testing. EOE AA M/F/Protected Veteran Status/Disability. Level, Title and/or Salary may be adjusted based on the applicant's experience or skills.</p><p>EEO is the Law Poster (The poster can be found at </p><p>Official description on file with Talent.</p><p>We support the use of AI tools to help you prepare for your interview (e.g., practicing responses, researching the role, or refining your resume). However, during interviews and assessments, we expect responses to reflect your own thinking, experience, and communication. Use of AI to generate or read answers in real time, complete assessments, or misrepresent your qualifications is not permitted and may impact your candidacy.</p><p><em>The base salary range for this position is: $131,400 - $157,300* *The base salary range above represents the low and high end of the salary range for this position. Actual salaries will vary based on several factors including but not limited to location, experience, and performance. The range listed is just one component of the total compensation package for employees. Other rewards may include annual bonus, short- and long-term incentives, and program-specific awards. In addition the position may be eligible to participate in the benefits program which include, but are not limited to, medical, vision, dental, 401K, and flexible spending accounts. </em></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-analytics-engineer-virtual-ca-us-00000-nrg</p>",
       "posted_at": "2026-10-17T20:44:26+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "a0e9f36b-e11f-49bb-927f-8fe1833c4a0f",
-      "title": "Senior Data Engineer 3468",
-      "url": "https://remotejobs.org/remote-jobs/ingeniero-de-datos-senior-3468-ready",
-      "apply_url": "https://remotejobs.org/remote-jobs/ingeniero-de-datos-senior-3468-ready",
-      "company": {
-        "name": "Ready",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/19749ac495c1ab60085885110a9dae4e559d5b028e64c04ef495409ae5bed29d.webp",
-        "website": null,
-        "url": "https://remotejobs.org/companies/ready"
-      },
-      "category": {
-        "name": "Data Science",
-        "slug": "data-science"
-      },
-      "location": null,
-      "location_normalization": {
-        "raw": null,
-        "input": {},
-        "scope": "unknown",
-        "status": "unknown",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "unknown",
-        "status": "unknown",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [],
-        "evidence_ids": [],
-        "allowed_regions": [],
-        "work_arrangement": "remote",
-        "allowed_countries": [],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-sonnet-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": "senior",
-        "role_family": "data-engineering",
-        "required_skills": [
-          "python",
-          "sql"
-        ],
-        "mentioned_skills": [
-          "python",
-          "sql"
-        ],
-        "preferred_skills": [],
-        "experience_requirements": []
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": "USD",
-      "salary_period": "month",
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<p>We are looking for a Senior Data Engineer with solid experience in Google Cloud Platform to design, implement, and maintain high-impact data pipelines and products. The role demands technical autonomy, architectural judgment, and the ability to work closely with business and engineering teams. If you master BigQuery, Dataform, and Python, and enjoy solving complex data challenges in cloud environments, this position is for you.</p>\n<ul>\n<li>\n<p>Design scalable and efficient data pipelines on Google Cloud Platform, ensuring quality, traceability, and performance at every stage of the workflow.</p>\n</li>\n<li>\n<p>Implement end-to-end data pipelines on Google Cloud Platform, from ingestion through to data availability for analytical consumption.</p>\n</li>\n<li>\n<p>Maintain, monitor, and optimize existing data pipelines and products on Google Cloud Platform, identifying opportunities for continuous improvement.</p>\n</li>\n<li>\n<p>Develop data transformations and models with primary focus on BigQuery and Dataform, ensuring consistency, efficiency, and maintainability of SQL and Python code.</p>\n</li>\n<li>\n<p>Integrate and consume external and internal APIs for data ingestion and enrichment within processing workflows.</p>\n</li>\n<li>\n<p>Actively collaborate with business and software engineering teams to translate functional requirements into robust and well-documented technical solutions.</p>\n</li>\n<li>\n<p>Define and apply data engineering best practices: versioning, testing, documentation, and dependency management in production pipelines.</p>\n</li>\n</ul>\n<h2>Requirements</h2>\n<ul>\n<li>\n<p>5 or more years of experience in data engineering, with proven participation in production projects involving pipelines and data architectures.</p>\n</li>\n<li>\n<p>Advanced mastery of BigQuery and Dataform for building and orchestrating data models and transformations at scale.</p>\n</li>\n<li>\n<p>Solid experience with Google Cloud Platform services, including Pub/Sub and Cloud Storage, in contexts of data ingestion, processing, and storage.</p>\n</li>\n<li>\n<p>Advanced handling of Python for automation, data processing, and pipeline development, along with advanced SQL oriented toward analytics and complex transformations.</p>\n</li>\n<li>\n<p>Experience in consuming and integrating REST APIs for data ingestion and enrichment workflows.</p>\n</li>\n<li>\n<p>Ability to work autonomously in remote environments, managing priorities and deliverables with independent judgment and without constant supervision.</p>\n</li>\n</ul>\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/ingeniero-de-datos-senior-3468-ready</p>",
-      "posted_at": "2026-10-17T20:31:30+00:00",
-      "is_translated": true,
-      "original_language": "es"
-    },
-    {
-      "id": "e7246158-9de9-4c4d-beec-efac425c7699",
-      "title": "Data Engineer",
-      "url": "https://remotejobs.org/remote-jobs/data-engineer-thehivecareers-52f66fe2947e4890bd572ca130a772e9",
-      "apply_url": "https://remotejobs.org/remote-jobs/data-engineer-thehivecareers-52f66fe2947e4890bd572ca130a772e9",
-      "company": {
-        "name": "TheHiveCareers",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/5a928965a2e792f59a611cf9f009bf5ac5df32ec909377c8b4e7fa12dea6b6c9.webp",
-        "website": "https://thehivecareers.co",
-        "url": "https://remotejobs.org/companies/thehivecareers"
-      },
-      "category": {
-        "name": "Data Science",
-        "slug": "data-science"
-      },
-      "location": "Jamaica",
-      "location_normalization": {
-        "raw": "Jamaica",
-        "input": {},
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "JM"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "partial",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [],
-        "evidence_ids": [
-          "source-location"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "JM"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-sonnet-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": null,
-        "role_family": "data-engineering",
-        "required_skills": [],
-        "mentioned_skills": [
-          "cpp",
-          "java",
-          "python",
-          "r",
-          "sql"
-        ],
-        "preferred_skills": [],
-        "experience_requirements": [
-          {
-            "text": "5+ years of experience in analyzing and preparing data, including considerable experience with very large data sets and unstructured data",
-            "maximum_years": null,
-            "minimum_years": 5,
-            "classification": "mentioned"
-          }
-        ]
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": null,
-      "salary_period": "year",
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<h2>Job Summary:</h2>\n<p>The data engineer designs and develops data models, collects and analyzes data for insights and communicates how those findings improve reliability, customer experience, profitability and other relevant factors. He / She also captures, transforms and stores clean data, leaving it ready for consumption.</p>\n<p>This role will be integral in ensuring the quality of the data collected, and the ability to leverage that data to create meaningful information for technical performance and strategic business decision making. It will provide the data insights and trends needed to evolve the product based on user behaviours and data trends.</p>\n<h2>RESPONSIBILITIES AND DUTIES</h2>\n<p>Ensure data requirements and delivery of robust and complete roadmap</p>\n<p>Assess data to determine strategic approach to data management and identify data dictionary</p>\n<p>Identify data security requirements and assess risk to determine security features</p>\n<p>Assess computational power required derived from data and analytics technology</p>\n<h2>Estimate milestones, resources and costs</h2>\n<p>Produce data via SQL and other programming tools</p>\n<h2>Develop reports and dashboards</h2>\n<p>Design and develop data and information structures</p>\n<p>Capture data and modify programs to extract information from company databases</p>\n<p>Engage with data scientists and translators to understand how data should be presented</p>\n<p>Improve data availability, acting as the link between the IT and analytics team</p>\n<h2>KNOWLEDGE AND SKILLS</h2>\n<h2>SQL knowledge</h2>\n<p>Deep knowledge of machine learning, statistics and optimization</p>\n<p>Advanced knowledge of statistical techniques, data mining, machine learning (regression, decision trees, clustering, random forests, generalized linear models, etc.)</p>\n<p>Experience in database development and data model design</p>\n<h2>QUALIFICATIONS AND EXPERIENCE</h2>\n<p>BS/BA (preferred MS) degree preferably in computer science, statistics, mathematics or equivalent mix of education and experience</p>\n<p>5+ years of experience in analyzing and preparing data, including considerable experience with very large data sets and unstructured data</p>\n<p>Strong experience in database development and model design</p>\n<p>Experience with R, Python, Matlab, C programming, C++, Java, Hadoop, Hive, Map reduces, Teradata, QSTK</p>\n<h2>DESIRED ATTRIBUTES AND BEHAVIOURAL COMPETENCIES</h2>\n<h2>Strong business and collaboration skills</h2>\n<p>Skills to respond to service needs and operational demands</p>\n<h2>Problem solving skills</h2>\n<p>Attitude to thrive in a fun, fast rhythm of getting started as an environment</p>\n<p>Able to build a sense of trust and rapport that creates a comfortable and effective workplace</p>\n<h2>SPECIAL CONDITIONS</h2>\n<p>Regularly work extended and irregular hours.</p>\n<p>Pressure/stress from the need to meet tight deadlines</p>\n<h2>FUNCTIONAL RELATIONSHIPS</h2>\n<h2>External:</h2>\n<p><strong>Internal: </strong>Business leads</p>\n<h2>PERFORMANCE CRITERIA</h2>\n<p>Timely delivery of agreed daily, weekly and monthly KPIs</p>\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/data-engineer-thehivecareers-52f66fe2947e4890bd572ca130a772e9</p>",
-      "posted_at": "2026-10-17T12:55:35+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "69ffbfa4-768b-4115-984e-37303bdcc021",
-      "title": "ML/Data Engineer",
-      "url": "https://remotejobs.org/remote-jobs/mldata-engineer-intetics",
-      "apply_url": "https://remotejobs.org/remote-jobs/mldata-engineer-intetics",
-      "company": {
-        "name": "Intetics",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/b4c30addae22b3b05464674322e7f7406b7c7da102b0e57a193765066f9b2cc7.webp",
-        "website": "https://intetics.com",
-        "url": "https://remotejobs.org/companies/intetics"
-      },
-      "category": {
-        "name": "Data Science",
-        "slug": "data-science"
-      },
-      "location": "Romania",
-      "location_normalization": {
-        "raw": "Romania",
-        "input": {},
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "RO"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "partial",
-        "regions": [
-          "EU"
-        ],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [
-          {
-            "kind": "timezone",
-            "areas": [],
-            "effect": "require",
-            "details": "Working hours: 11.00-20.00 CET",
-            "regions": [],
-            "timezones": [],
-            "evidence_id": "c2",
-            "conditional_on": null
-          }
-        ],
-        "unresolved": [
-          "Candidate locations are limited to the EU region (EU ONLY); the regional label is retained in regions but its member jurisdictions are not enumerated as ISO areas.",
-          "Unresolved area: description:3",
-          "Working hours 11.00-20.00 CET are stated without an IANA timezone identifier; the wording is retained in details and timezones is empty."
-        ],
-        "evidence_ids": [
-          "c1",
-          "c2"
-        ],
-        "allowed_regions": [
-          "European Union"
-        ],
-        "work_arrangement": "unknown",
-        "allowed_countries": [],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": null,
-        "role_family": "data-engineering",
-        "required_skills": [
-          "aws",
-          "python",
-          "sql"
-        ],
-        "mentioned_skills": [],
-        "preferred_skills": [
-          "golang"
-        ],
-        "experience_requirements": []
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": null,
-      "salary_period": "year",
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<p><strong>Intetics Inc.</strong>, a global technology company providing custom software application development, distributed professional teams, software product quality assessment, and “all-things-digital” solutions, is seeking a highly skilled and experienced <strong>ML/Data Engineer </strong>to join our dynamic team on a full-time basis.</p>\n<h2>Customer location: USA</h2>\n<h2>Candidate locations: EU ONLY</h2>\n<h2>Working hours: 11.00-20.00 CET</h2>\n<h2>Language: English B2+</h2>\n<h2>Estimated start date: 16.11.2026</h2>\n<h2>Duration: 12 months</h2>\n<h2>Project Responsibilities</h2>\n<ul>\n<li>Design and build production data infrastructure for high-volume athlete performance and sensor data.</li>\n<li>Build and operate real-time and near-real-time ingestion systems for streaming data.</li>\n<li>Design storage and data architectures for high-volume time-series data and longitudinal athlete records.</li>\n<li>Build infrastructure that makes production features and derived metrics available to machine learning systems and AI agents with low latency.</li>\n<li>Design and implement graph data models and schemas representing relationships between athletes, training loads, injuries, performance, and outcomes.</li>\n<li>Build data and ML evaluation infrastructure that helps measure model reliability, calibration, and performance across real-world cases.</li>\n<li>Design systems that maintain strong tenant-level data isolation across clubs and customers.</li>\n<li>Establish appropriate data provenance, lineage, auditability, and observability across the platform.</li>\n<li>Work with ML and AI engineers to provide reliable data foundations for model training, inference, and evaluation.</li>\n<li>Work with sport scientists and domain experts to translate complex requirements into durable production systems.</li>\n<li>Make pragmatic technology and architecture decisions as the platform evolves.</li>\n</ul>\n<h2>Requirements</h2>\n<ul>\n<li>5+ years of full-time professional software or data engineering experience, excluding internships, university placements, coursework, and academic projects.</li>\n<li>Proven experience designing, building, and operating production data infrastructure at scale.</li>\n<li>Strong experience working with time-series data or time-series databases, such as InfluxDB, TimescaleDB, Prometheus, ClickHouse, or equivalent technologies.</li>\n<li>Significant experience with real-time or streaming data ingestion, using technologies such as Kafka, Kinesis, Flink, Spark Streaming, Pulsar, or equivalent.</li>\n<li>Experience designing graph data models or graph database schemas, not simply querying or consuming an existing graph database.</li>\n<li>Experience designing or operating multi-tenant systems with tenant-level data isolation.</li>\n<li>Strong Python and SQL skills. Professional experience with Go is highly desirable.</li>\n<li>Experience working with production systems where reliability, scalability, observability, and data correctness matter.</li>\n<li>Ability to take ownership of ambiguous technical problems and turn them into practical production architectures.</li>\n<li>Experience working directly with data scientists, ML engineers, or other technical domain specialists.</li>\n<li>Experience building probabilistic evaluation, model calibration, or model monitoring infrastructure.</li>\n<li>Experience with causal inference, counterfactual modelling, or simulation.</li>\n<li>Experience working with wearable sensors, IoT data, biomechanics, sports technology, or other high-frequency telemetry.</li>\n<li>Experience building knowledge graphs or domain-specific ontologies.</li>\n<li>Experience with LLM or AI evaluation frameworks and an understanding of their limitations.</li>\n<li>Experience with AWS, including ECS, EC2, Lambda, SNS, SQS, or related services.</li>\n<li>Experience with GraphQL, REST, gRPC, Postgres, MongoDB, or similar technologies.</li>\n</ul>\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/mldata-engineer-intetics</p>",
-      "posted_at": "2026-10-17T12:51:58+00:00",
       "is_translated": false,
       "original_language": null
     }
