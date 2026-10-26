@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T03:27:31.261Z",
+  "generatedAt": "2026-10-26T12:24:07.684Z",
   "count": 150,
   "data": [
     {
@@ -2302,6 +2302,93 @@
       "direct_apply": null,
       "description": "<h2>As a Software Engineer you have:</h2>\n<ul>\n<li>\n<p>4+ years of experience in the art of writing code and solving problems in complex frontend projects</p>\n</li>\n<li>\n<p>Excellent command in Data Structures and Algorithms.</p>\n</li>\n<li>\n<p>BTech, MTech in Computer Science or related technical discipline (or equivalent)</p>\n</li>\n<li>\n<p>Strong desire to solving complex and interesting real-world problems</p>\n</li>\n<li>\n<p>Go-getter attitude that reflects in energy and intent behind assigned tasks</p>\n</li>\n</ul>\n<p><strong>As a Software Engineer you know your things around:</strong></p>\n<ul>\n<li>\n<p>Extensive and expert programming experience in at least one general programming language &#x26; ability to write maintainable, scalable, unit-tested code</p>\n</li>\n<li>\n<p>At least one of React Native or Flutter and related ecosystem</p>\n</li>\n<li>\n<p>At least one of native Android or iOS development</p>\n</li>\n<li>\n<h2>GraphQL and other modern JS ecosystems</h2>\n</li>\n<li>\n<p>Common design patterns and anti-patterns Javascript</p>\n</li>\n<li>\n<h2>Frontend performance issues</h2>\n</li>\n<li>\n<p>Excellent coding skills – should be able to convert the design into code</p>\n</li>\n<li>\n<p>Incremental changes to architecture: impact analysis of the same</p>\n</li>\n<li>\n<p>Performance tuning and improvements in large scale frontend codebases</p>\n</li>\n<li>\n<p>Mentoring young minds and foster team spirit, break down execution into phases</p>\n</li>\n</ul>\n<p>India has one of the largest consumer markets in the world for fish and seafood. Yet, the industry is extremely traditional, depriving businesses of consistent, reliable and trustworthy sources. CaptainFresh is re-imagining the future of fresh fish and seafood using cutting edge technology solutions. Some of our key initiatives are</p>\n<ul>\n<li>\n<p>Full Service Stack for Retailers &#x26; Suppliers</p>\n</li>\n<li>\n<h2>ML Driven Supply Demand Matching</h2>\n</li>\n<li>\n<h2>AI driven Standardizing Quality</h2>\n</li>\n<li>\n<h2>Optimal Material Flow</h2>\n</li>\n<li>\n<h2>Digital Footprint</h2>\n</li>\n</ul>\n<p><strong>You may read more about our Tech initiatives at</strong></p>\n<h2>Culture</h2>\n<p>At CaptainFresh, we go above and beyond to ensure that you give your best at work, every day! And one of the things we do is build the ideal environment for you. We empower people and trust them to do the right thing. Here, you own your work from start to finish, right from day one. Being enthusiastic about tech is a big part of being at CaptainFresh. If you enjoy developing technology that has an impact on millions, ideating with some of the best minds in the country and executing on your dreams with purpose and speed, join us!</p>\n<h2>Challenges</h2>\n<p>Building for Scale, Rapid Iterative Development, and Customer-centric Product Thinking at each step defines every day for a developer at CaptainFresh. While we are quick to adopt the latest in Engineering, we care utmost for security, stability, and automation. Apply if you want to experience the best combination of passionate application development and product-driven thinking.</p>\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/sde-iii-frontend-mobile-captain-fresh</p>",
       "posted_at": "2026-10-25T04:26:47+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "3b8b2962-6deb-4397-8a22-d4db39bbc306",
+      "title": "Ford Racing Instrument Panel (IP) Engineer",
+      "url": "https://remotejobs.org/remote-jobs/ford-racing-instrument-panel-ip-engineer-ford",
+      "apply_url": "https://remotejobs.org/remote-jobs/ford-racing-instrument-panel-ip-engineer-ford",
+      "company": {
+        "name": "Ford",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/166d3f95ecb65de82be4d678d72998035b9cdb743ee6c15e67267624144270f4.webp",
+        "website": "https://ford.com",
+        "url": "https://remotejobs.org/companies/ford"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "Allen Park, MI, United States",
+      "location_normalization": {
+        "raw": "Allen Park, MI, United States",
+        "input": {},
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [
+          "allen park"
+        ],
+        "work_arrangement": "unknown",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "allowed_subdivisions": [
+          "US-MI"
+        ],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "c2",
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "hybrid",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [
+          "US-MI"
+        ],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "partial",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": null,
+        "role_family": null,
+        "required_skills": [],
+        "mentioned_skills": [],
+        "preferred_skills": [],
+        "experience_requirements": []
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "72117",
+      "direct_apply": null,
+      "description": "<p><strong>In this position...</strong></p>\n<p>You will be responsible for the design and release of multiple interior products on the most exciting vehicles Ford Racing produces.  You will manage multiple cross functional relationships both internally and externally to help ensure the successful launch of the next generation, segment defining products. </p>\n<p><strong>What you'll do...</strong></p>\n<ul>\n<li>Lead the design, release, and delivery of components and systems across multiple interior commodities for Ford Racing on an upcoming new model program</li>\n<li>Manage Quality, Cost, Weight, Function and Timing (QCWFT) to support program &#x26; engineering GPDS milestones</li>\n<li>Lead FSS (Full-Service Suppliers) and/or other internal/external resources to deliver subject program</li>\n<li>Manage design and color/material studio interfaces to deliver to customer expectations</li>\n<li>Assure conformance to the Ford Racing DNA and all applicable Ford &#x26; regulatory requirements</li>\n<li>Develop innovative solutions for high-performance vehicles and our enthusiast customers</li>\n<li>Support issue resolution and design change management during the prototype build and launch builds</li>\n<li>Interface and maintain collaborative relationship with Core Body Interior Engineering Organization</li>\n</ul>\n<p><strong>You'll have...</strong></p>\n<ul>\n<li>Bachelors of Science in Engineering required</li>\n<li>5-8+ Years of experience in Body Interior Instrument Panel (IP) Design &#x26; Release, including delivery of 1 completed program</li>\n<li>3-5+ Years of experience using CAD or other visualization tools</li>\n<li>Understanding of program delivery processes / GPDS</li>\n<li>Working knowledge of 3DX, Teamcenter, Vis Mockup, CATIA, DFMEA, FEDE, FEDEBOM, WERS</li>\n<li>Fabrication/mockup skills to demonstrate proof of concept</li>\n<li>Independent self-starter that can connect analytical tools with physical hardware and vehicle performance</li>\n<li>Passion for performance vehicles</li>\n<li>Launch experience preferred</li>\n</ul>\n<p><strong>Even better, if you have...</strong></p>\n<ul>\n<li>A Master's degree in Engineering or a related field</li>\n<li>Launch experience</li>\n<li>A passion for performance vehicles</li>\n<li>Experience delivering multiple interior commodities on a single program</li>\n<li>Experience leading Full-Service Suppliers or other external engineering partners</li>\n</ul>\n<p>You may not check every box, or your experience may look a little different from what we've outlined, but if you think you can bring value to Ford Motor Company, we encourage you to apply!<br>\nAs an established global company, we offer the benefit of choice. You can choose what your Ford future will look like: will your story span the globe, or keep you close to home? Will your career be a deep dive into what you love, or a series of new teams and new skills? Will you be a leader, a changemaker, a technical expert, a culture builder…or all of the above? No matter what you choose, we offer a work life that works for you, including:</p>\n<ul>\n<li>Immediate medical, dental, vision and prescription drug coverage</li>\n<li>Flexible family care days, paid parental leave, new parent ramp-up programs, subsidized back-up child care and more</li>\n<li>Family building benefits including adoption and surrogacy expense reimbursement, fertility treatments, and more</li>\n<li>Vehicle discount program for employees and family members and management leases</li>\n<li>Tuition assistance</li>\n<li>Established and active employee resource groups</li>\n<li>Paid time off for individual and team community service</li>\n<li>A generous schedule of paid holidays, including the week between Christmas and New Year’s Day</li>\n<li>Paid time off and the option to purchase additional vacation time.</li>\n</ul>\n<p>This position is a salary grade 8 and ranges from $99,100-$166,200.</p>\n<p>Final determination of salary grade will be based on candidate's skills and experience, and base salary will be set within the applicable range according to job scope, responsibility and competitive market value.<br>\n </p>\n<p>Internal applicants: moving into this role may result in an adjustment to your current compensation based on the posted pay range for this role, taking into consideration your qualifications and other relevant factors.<br>\nFor more information on salary and benefits, click here: <a href=\"https://fordcareers.co/GSR\">https://fordcareers.co/GSR</a></p>\n<p>Visa sponsorship is not available for this position.</p>\n<p>Candidates for positions with Ford Motor Company must be legally authorized to work in the United States. Verification of employment eligibility will be required at the time of hire.</p>\n<p>We are an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, religion, color, age, sex, national origin, sexual orientation, gender identity, disability status or protected veteran status. In the United States, if you need a reasonable accommodation for the online application process due to a disability, please call 1-888-336-0660.</p>\n<p>This position is hybrid with a requirement to be onsite four or more days per week.<br>\n#LI-Hybrid<br>\n#FR1  <br>\n#LI-DH1</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/ford-racing-instrument-panel-ip-engineer-ford</p>",
+      "posted_at": "2026-10-25T00:00:00+00:00",
       "is_translated": false,
       "original_language": null
     },
@@ -4772,97 +4859,6 @@
       "direct_apply": null,
       "description": "<p>At <a href=\"https://jobicy.com/company/dscout\">Dscout</a>, we’re building the most flexible and powerful UX research platform on the market—trusted by the world’s top brands in finance (JP Morgan Chase, Intuit, Charles Schwab, PayPal), healthcare (Aya, Headspace), consumer goods (Keen, Verizon, Target, Northface), and tech (Google, Amazon, Facebook, Meta, Spotify, AirBnB). Our tools help teams deeply understand the humans behind their products, so they can build better ones. We are expanding our smart and driven team and would love for you to join us.</p><h2>Our Platform:</h2><p>Our mobile apps are Swift and Kotlin. Our frontend is built with React. Our backend uses Elixir and increasingly more and more Python. GenAI has significantly impacted our system architecture, requiring us to adapt and evolve. We are in the midst of a shift from existing products augmented with AI to a full AI-first platform.</p><h2>You Are:</h2><p>A <strong>Mobile Principal Software Engineer</strong> who will lead our mobile team and evolve it to meet the shifting demand of a full AI-first platform — on a timeline measured in weeks, not quarters. You're deeply hands-on with AI coding agents, and you've used them to ship serious work, not just autocomplete. You're as comfortable architecting a thin mobile client backed by a powerful API as you are dropping into our Python backend (with AI assist) to add what mobile needs. You'll shape our participant experience across mobile with heavy influence on the web too.</p><p>You're deeply product focused, energized by solving business problems, not just writing code. You ask \"why\" before \"how,\" and you partner with Product and Design as a peer — shaping problems, not just taking specs. You know when to ship a scrappy prototype to test an assumption versus when to invest in a foundation built to last, and you can explain that call to a PM or designer. You can hold multiple projects in your head at once, spotting where they'll collide, depend on each other, or share a chance for reuse.</p><p>You bring Principal/Staff-level scope as a product engineer — 10+ years of experience evolving apps and standing up new ones across product and technical dimensions. You have a proven track record of leading technical improvements and mentoring other developers, as collaboration and empathy are cornerstones of our culture. You thrive setting your own direction with minimal input while staying aligned to company goals.</p><p>Most of all, you're energized by the prospect of doing in months what used to take years. If this sounds exciting, we'd love to hear from you.</p><h2><strong>The Job</strong></h2><h2><strong>Working hours</strong></h2><p>Availability 9:30 AM - 5:00 PM CT</p><ul>\n<li>Dscout is a US-based company, and while working these core hours is expected in this role, we know that from time-to-time life happens and we can be flexible to meet your needs.</li>\n</ul><h2><strong>What you will do:</strong></h2><ul>\n<li>Lead our mobile team and its continued maturity and evolution in this AI-native space</li>\n<li>Stand up an AI-native development process for the mobile team — agents, evals, review loops — that sustains that pace beyond the rewrite</li>\n<li>Drive a thin-client architecture for the participant experience, pushing business logic to the backend so the apps stay simple</li>\n<li>Contribute Python to our AI backend service when mobile needs new capabilities — using AI agents to do it efficiently</li>\n<li>Set our participant API and broader participant platform direction beyond the mobile team</li>\n<li>Spend about 70% of your time supporting your product team; the other 30% on self-directed leadership tasks and platform improvements</li>\n<li>Drive continuous process improvement across the mobile team and its partner teams</li>\n<li>Mentor other engineers and help evolve the Engineering org</li>\n<li>Apply a DevOps mindset to improve the Continuous Delivery pipeline and other operational aspects of our SaaS &#x26; mobile platform</li>\n<li>Be involved in security and compliance efforts for the organization (we are SOC II &#x26; HITRUST certified)</li>\n</ul><h2><strong>What you need to have:</strong></h2><ul>\n<li>Significant experience as a mobile software engineer with Principal/Staff-level scope (titles aren’t important — we care about what you’ve shipped and led)</li>\n<li>Experience with iOS and Android, and a willingness to work outside the mobile ecosystem when the problem calls for it</li>\n<li>Hands-on experience with AI coding agents (Claude Code, Cursor, Codex, or similar) — not just autocomplete — and an opinion on how to design an SDLC around them</li>\n<li>Experience in system architecture to supplement mobile experience (backend API design, databases, mobile devops), how it all fits together, and design trade-offs</li>\n<li>A proven track record of leading, mentoring, and growing engineers</li>\n<li>Expertise with cloud-based SaaS architectures and evolutionary design</li>\n<li>At home with agile, DevOps, CI/CD, observability/tracing, and data/metrics-based decision making</li>\n</ul><p>Of course, what is outlined above is an ideal set of expectations; however, business needs and other projects and tasks may shift, and additional tasks could be assigned at the discretion of your manager.</p><p><strong>About Dscout</strong></p><p>Dscout is a team of passionate, empathetic, and curious professionals. As a recognized leader in the Forrester Wave, we’re at the cutting edge of experience research technology. The power of research drives us - how in-context insights from real people can build more enjoyable products and services. </p><p>We prioritize learning, sharing, and building. We also deeply value being a diverse and inclusive team and company and look for team members who align with that belief. Join our dynamic team and help shape product roadmaps and business strategies for the world’s most loved brands.</p><p>It doesn't stop there. When you join the Dscout team, you will get:</p><ul>\n<li>A strong and competitive compensation package with a built-in bonus and equity program.</li>\n<li>An incredible and progressive benefits package (for both you and your dependents) to support work/life balance, including flexible PTO, 15 company holidays, 12 weeks of paid parental leave, 401k match, and much more.</li>\n<li>An education stipend to support your growth &#x26; development, and a remote work stipend.</li>\n<li>A company that is open and transparent with our team. You will know what is happening and why it matters.</li>\n</ul><p>Dscout is an equal-opportunity employer that values diversity. We do not discriminate based on identity, including race, color, religion, national origin or ancestry, sex, gender identity and expression, age, physical or mental disability, pregnancy, veteran or military status, unfavorable discharge from military service, genetic information, sexual orientation, marital status, order of protection status, citizenship status, arrest record or expunged or sealed convictions, or any other legally recognized protected basis under federal, state, or local law.</p><p>If you need reasonable accommodations for any part of the employment process, please email us at accommodations@dscout.com with the nature of your request and your contact information. We'll do everything possible to ensure you're well-prepared for success during our interview process, while also upholding your privacy, including accommodating any special requests. Please note that only inquiries regarding requests for reasonable accommodation will be responded to from this email address.</p><p>When you apply at Dscout, we will process your job applicant data, including your employment and education history, transcript, writing samples, and references, as necessary to consider your job application for open positions. For more information about our privacy practices, please visit our <a href=\"https://www.dscout.com/legal/master-access-agreement\">Privacy Policy</a>. </p><p>Dscout participates in the E-Verify program in certain locations, as required by law.</p><p><strong>Location Flexibility: </strong>Dscout is proud to support a remote-first workforce and enable employees to work from almost anywhere. At this time, however, we are unable to hire in the following locations: Montana, Hawaii, Alaska, and Washington DC.</p><p><strong>NOTE: DSCOUT NEVER CONTACTS JOB APPLICANTS VIA TEXT, MESSENGER, OR OTHER SIMILAR APPLICATIONS. BE AWARE OF PHISHING AND SPOOFING SCAMS, BOTH VIA TEXT AND EMAIL. ONLY RESPOND TO EMAILS FROM DSCOUT.COM</strong></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/mobile-principal-software-engineer-dscout</p>",
       "posted_at": "2026-10-23T17:56:34+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "e067ed7a-dcbf-4e01-9202-e1fa27d6059d",
-      "title": "Engineering Manager",
-      "url": "https://remotejobs.org/remote-jobs/engineering-manager-signifyd",
-      "apply_url": "https://remotejobs.org/remote-jobs/engineering-manager-signifyd",
-      "company": {
-        "name": "Signifyd",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/8085647a14daef3fd8dc7cc96cc392511b4ea6ccf89ab5475abc9da860fed372.jpeg",
-        "website": "https://signifyd.com",
-        "url": "https://remotejobs.org/companies/signifyd"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "USA",
-      "location_normalization": {
-        "raw": "USA",
-        "input": {},
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [],
-        "evidence_ids": [
-          "source-location"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "remote",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": "manager",
-        "role_family": null,
-        "required_skills": [],
-        "mentioned_skills": [],
-        "preferred_skills": [],
-        "experience_requirements": [
-          {
-            "text": "4 years of experience",
-            "maximum_years": null,
-            "minimum_years": 4,
-            "classification": "mentioned"
-          }
-        ]
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": null,
-      "salary_period": null,
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<p>At <a href=\"https://jobicy.com/company/signifyd\">Signifyd</a>, we help merchants confidently grow their businesses by building trusted relationships with their customers. Our advanced technology, combined with a team genuinely invested in our clients’ success, creates frictionless shopping experiences, approving more good orders, protecting revenue, and keeping customers happy.</p>\n<p>Trusted by thousands of leading merchants across more than 100 countries, we securely process billions of transactions each year. Our people are the heart of everything we do, driving our mission forward with commitment, empathy, and creativity. Join us on our mission to empower confident, fraud-free commerce by helping online retailers provide superior customer experiences and eliminate fraud. Learn about our company values <a href=\"https://www.signifyd.com/about/#values\">here</a>!</p>\n<h2>Role Overview</h2>\n<p>Signifyd uses the latest in AI and machine learning technology to give our ecommerce customers the confidence they need to do business free from fears of fraud and other forms of ecommerce abuse. In order to do this we have to continually innovate and nowhere is this more important than in our modeling space. The modeling group creates, deploys and runs the models and services that keep us a step ahead and right now we need an engineering manager to help us build our next generation technology. The successful candidate will lead a team of engineers who will partner with our AI group and engineering as a whole to help bring ideas from conception to production, while ensuring the systems we already have continue to run smoothly. It’s a role for someone who can operate comfortably on both sides of the technical/business line, contributing to technical discussions but people-focused enough to build the relationships between engineering, our AI lab, product and our risk management organization.</p>\n<p>You will work daily with data scientists, machine learning engineers, product owners and other cross-functional stakeholders whose work depends on your team's systems. Success means being a trusted translator and partner across all of these groups, not just a manager of your own team's output.</p>\n<p>Your core responsibilities are delivery, fostering innovation and people leadership. How hands-on you get as part of that is up to you but you will be expected to drive closure on technical decisions and implementation.</p>\n<h2>Key Responsibilities (outcome and accountability)</h2>\n<h2>1. Team Leadership &#x26; Growth</h2>\n<ul>\n<li>Manage, coach and grow a team of engineers, providing regular feedback, career development while ensuring performance remains high.</li>\n<li>Build a healthy team culture with clear ownership, sustainable pace and high standards for quality and craftsmanship.</li>\n<li>Recruit and onboard new engineers as needed and develop technical leadership within the team.</li>\n</ul>\n<h2>2. Stakeholder &#x26; Relationship Management</h2>\n<ul>\n<li>Manage competing priorities and expectations across multiple stakeholder groups, building trust through fostering mutual understanding, delivering consistently and communicating transparently.</li>\n<li>Represent the team's roadmap, capacity and risks in cross-functional planning and prioritization discussions.</li>\n</ul>\n<h2>3. Technical Engagement &#x26; Decision-Making</h2>\n<ul>\n<li>Drive technical discussions and design reviews, with enough depth to understand the implications of key decisions on reliability, scalability and production outcomes.</li>\n<li>Partner with engineers on architecture and design choices, asking the right questions rather than dictating solutions.</li>\n<li>Ensure the team's technical decisions are well understood by, and defensible to, other stakeholders.</li>\n</ul>\n<h2>4. AI-Enabled Ways of Working</h2>\n<ul>\n<li>Model and champion effective use of AI tools across the team's day-to-day work, including AI-assisted research, administrative workflows, and code generation.</li>\n<li>Help the team develop good judgment about how to balance the productivity gains AI can bring against the risks it introduces.</li>\n<li>Continuously look for ways AI tooling can improve team efficiency, code quality, and decision-making, and share what's working with peers.</li>\n<li>Manage effectively through the major changes AI is bringing to the industry.</li>\n</ul>\n<h2>5. Delivery &#x26; Operational Rigor</h2>\n<ul>\n<li>Own delivery of the team's roadmap balancing feature work, technical debt and reliability commitments.</li>\n<li>Establish and maintain appropriate quality, testing and monitoring practices.</li>\n<li>Provide clear, proactive communication on progress, risks and blockers to stakeholders and leadership.</li>\n<li>Define metrics as needed and develop an understanding of why we did or didn’t hit our targets.</li>\n</ul>\n<h2>Qualifications &#x26; Skills (experience / depth)</h2>\n<h2>Experience</h2>\n<ul>\n<li>5+ years working as a software engineer. Some of that experience should be in the ML sphere.</li>\n<li>This should not be your first time managing and we’d prefer at least 4 years of experience managing engineers directly in an ML focused domain.</li>\n</ul>\n<h2>Technical &#x26; AI Fluency</h2>\n<ul>\n<li>Comfortable engaging in technical discussions on architecture, data flows, and system design.</li>\n<li>Demonstrable experience using AI tools in a professional capacity for research, administration and code generation with a clear point of view on how to use them responsibly and cost-effectively.</li>\n<li>Strong knowledge of software development best practices, cloud computing platforms, big data technologies, MLOps toolkits, and SLO-driven reliability management.</li>\n<li>Experience working with at least one of Databricks, Spark, Airflow, Vertex and the GCP technology stack in general is preferred.</li>\n</ul>\n<h2>Stakeholder Management &#x26; Communication</h2>\n<ul>\n<li>Strong track record managing relationships with a diverse set of technical and non-technical stakeholders.</li>\n<li>Ability to communicate clearly across audiences and influence without authority.</li>\n<li>Comfortable navigating competing priorities and pushing back constructively when needed.</li>\n</ul>\n<h2>Leadership</h2>\n<ul>\n<li>Genuine care for engineer growth and development, with experience giving structured feedback and building career paths.</li>\n<li>Ability to build trust and psychological safety within the team while holding a high bar for output and accountability.</li>\n</ul>\n<p>#LI-Remote</p>\n<p><strong>Benefits in our US offices:</strong></p>\n<ul>\n<li>Discretionary Time Off Policy (Unlimited!)</li>\n<li>401K Match</li>\n<li>Stock Options</li>\n<li>Annual Performance Bonus or Commissions</li>\n<li>Paid Parental Leave (12 weeks)</li>\n<li>On-Demand Therapy for all employees &#x26; their dependents</li>\n<li>Dedicated learning budget through Learnerbly</li>\n<li>Health Insurance</li>\n<li>Dental Insurance</li>\n<li>Vision Insurance</li>\n<li>Flexible Spending Account (FSA)</li>\n<li>Short Term and Long Term Disability Insurance</li>\n<li>Life Insurance</li>\n<li>Company Social Events</li>\n<li>Signifyd Swag</li>\n</ul>\n<p><strong>Compensation:</strong></p>\n<p><em>In the United States, each work location is assigned a specific pay zone, which determines the salary range for a given position. The starting base salary for the selected candidate will be based on a variety of factors, including job-related skills, experience, qualifications, geographic location, and current market conditions.</em></p>\n<p><strong>Base Salary Ranges by Pay Zone:</strong></p>\n<ul>\n<li>Tier 1 (NYC/SF Bay Area/Seattle): $210,000 – $235,000 annually</li>\n<li>Tier 2 (DC Metro/Austin/Chicago/Denver/Boston/Los Angeles/San Diego): $205,000 – $230,000 annually</li>\n<li>Tier 3 (US - All Other): $200,000 – $225,000 annually</li>\n</ul>\n<p><strong>Equity: </strong>This role is eligible for a stock option grant of 3,000 stock options, based on the position level and internal compensation guidelines.</p>\n<p><strong>Bonus:</strong> This role is eligible for an annual performance bonus of up to 10% of base salary.</p>\n<p>We want to provide an inclusive interview experience for all, including people with disabilities. We are happy to provide reasonable accommodations to candidates in need of individualized support during the hiring process.</p>\n<p><em>Signifyd provides a base salary, bonus, equity and benefits to all its employees. Our posted job may span more than one career level, and offered level and salary will be determined by the applicant’s specific experience, knowledge, skills, abilities, and location, as well as internal equity and alignment with market data.</em></p>\n<p>USA Base Salary Pay Range</p>\n<p>$200,000—$235,000 USD</p>\n<p><a href=\"https://drive.google.com/file/d/1HSnMY6HGjB1FNRX4Ez9bUre5mrPPcHIq/view?usp=sharing\">Signifyd's Applicant Privacy Notice</a></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/engineering-manager-signifyd</p>",
-      "posted_at": "2026-10-23T17:55:37+00:00",
       "is_translated": false,
       "original_language": null
     },
