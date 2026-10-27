@@ -1,7 +1,22 @@
 {
-  "generatedAt": "2026-10-27T03:56:11.645Z",
-  "count": 197,
+  "generatedAt": "2026-10-27T11:44:50.181Z",
+  "count": 198,
   "jobs": [
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/pagerduty-senior-director-field-enablement",
+      "source": "weworkremotely",
+      "title": "Senior Director, Field Enablement",
+      "company": "PagerDuty",
+      "url": "https://weworkremotely.com/remote-jobs/pagerduty-senior-director-field-enablement",
+      "description": "Headquarters: Remote (USA - San Francisco, CA) PagerDuty, Inc. (NYSE: PD) is the global leader in AI-first digital operations. By automatically detecting, diagnosing, and remediating issues, the PagerDuty Platform orchestrates AI agents and automated workflows with context from over 750 integrations. Trusted by approximately two-thirds of the Fortune 100 and nearly half of the Fortune 500, PagerDuty is the industry standard for organizations scaling resilient, autonomous operations. Notable customers include Chipotle, Cloudflare, Docusign, Fox, Nvidia, Salesforce, Spotify, Zoom and more. We are growing rapidly and hiring top talent with leading AI skills across engineering, sales, product, marketing, and beyond as we build the leading digital operations platform. &nbsp; ABOUT THE ROLE Page",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "programming"
+      ],
+      "postedAt": "Tue, 06 Oct 2026 07:31:16 +0000",
+      "category": "programming"
+    },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/webflow-senior-infrastructure-engineer",
       "source": "weworkremotely",
@@ -273,21 +288,6 @@
       "category": "programming"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/postscript-client-strategist",
-      "source": "weworkremotely",
-      "title": "Client Strategist",
-      "company": "Postscript",
-      "url": "https://weworkremotely.com/remote-jobs/postscript-client-strategist",
-      "description": "Headquarters: Remote, USA Postscript is the AI messaging platform trusted by 20,000+ Shopify brands — including Brooklinen, Ruggable, True Classic, and Dr. Squatch.&nbsp; With a mission to make SMS your number one revenue driving channel, we built the best-in-class SMS marketing platform and launched revenue-driving AI features not available on any other platform. And we're just getting started.&nbsp; Backed by Greylock and Y Combinator, fully remote since 2018. As a Client Strategist , you will be working with our biggest brands and be responsible for the end to end SMS strategy for a rotating group of customers. You will work closely with our Marketing, Product and Customer Success teams to learn best practices and use your marketing skills to drive consistent SMS revenue for select cust",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "programming"
-      ],
-      "postedAt": "Tue, 29 Sep 2026 07:30:41 +0000",
-      "category": "programming"
-    },
-    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/air-apps-framer-website-designer-1",
       "source": "weworkremotely",
       "title": "Framer Website Designer",
@@ -363,12 +363,27 @@
       "category": "programming"
     },
     {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/upsun-senior-it-systems-engineer",
+      "source": "weworkremotely",
+      "title": "Senior IT Systems Engineer",
+      "company": "Upsun",
+      "url": "https://weworkremotely.com/remote-jobs/upsun-senior-it-systems-engineer",
+      "description": "Headquarters: Remote • Canada About Upsun Upsun is the software factory for human-AI workflows. We give teams one unified platform to create, review, deploy, and run software, with AI agents and humans working in sync. Developers, DevOps engineers, and platform teams use Upsun to build and ship with confidence, without wrestling with infrastructure. Upsun brings this together through two products: one that shapes the work, and one that runs it. Upsun Dispatch™: the AI-first product accelerator. Dispatch governs and simplifies collaboration between AI agents and cross-functional human teams, so work gets shaped, reviewed, and moved to production faster. Ship better code, not just more code. Upsun Cloud: the Cloud Application Platform for AI acceleration. Cloud is where that software runs. I",
+      "location": "Anywhere in the World",
+      "tags": [
+        "DevOps and Sysadmin",
+        "devops"
+      ],
+      "postedAt": "Tue, 27 Oct 2026 07:30:51 +0000",
+      "category": "devops"
+    },
+    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/ignition-inc-msp-mac-help-desk-guru-work-from-home",
       "source": "weworkremotely",
       "title": "MSP Mac Help Desk Guru (work from home)",
       "company": "Ignition, Inc.",
       "url": "https://weworkremotely.com/remote-jobs/ignition-inc-msp-mac-help-desk-guru-work-from-home",
-      "description": "Headquarters: ignitionit.com URL: https://ignitionit.com APPLY HERE: https://go.cultureindex.com/p/bLvP56CvGHU Fully Remote · Work from home · Full-time (Eastern or Pacific time zones) · Apple-first&nbsp; TL;DR ignitionit.com is a seasoned, Apple-first MSP — in business for almost 30 years — and we're hiring a Help Desk Technician to be the friendly, capable first voice our clients reach when something isn't working. This position is a remote, work-from-home, full-time role. We've written this as a junior-to-mid-level job description because that's where most great people start on our team. But if you're more seasoned — comfortable in identity, MDM, or security work — don't scroll past. We'd be delighted to find someone who can step in higher up the ladder, and we'll happily talk about a m",
+      "description": "Headquarters: ignitionit.com URL: https://ignitionit.com Fully Remote · Work from home · Full-time (Eastern or Pacific time zones) · Apple-first&nbsp; TL;DR ignitionit.com is a seasoned, Apple-first MSP — in business for almost 30 years — and we're hiring a Help Desk Technician to be the friendly, capable first voice our clients reach when something isn't working. This position is a remote, work-from-home, full-time role. We've written this as a junior-to-mid-level job description because that's where most great people start on our team. But if you're more seasoned — comfortable in identity, MDM, or security work — don't scroll past. We'd be delighted to find someone who can step in higher up the ladder, and we'll happily talk about a more senior scope and comp if that's you. What the actu",
       "location": "Anywhere in the World",
       "tags": [
         "DevOps and Sysadmin",
@@ -690,21 +705,6 @@
         "devops"
       ],
       "postedAt": "Mon, 12 Oct 2026 07:31:05 +0000",
-      "category": "devops"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/beyondtrust-cyber-defense-engineer",
-      "source": "weworkremotely",
-      "title": "Cyber Defense Engineer",
-      "company": "BeyondTrust",
-      "url": "https://weworkremotely.com/remote-jobs/beyondtrust-cyber-defense-engineer",
-      "description": "Headquarters: Remote Manchester, UK BeyondTrust is a place where you can bring your purpose to life through the work that you do, creating a safer world through our cybersecurity SaaS portfolio. Our culture of flexibility, trust, and continual learning means you will be recognized for your growth, and for the impact you make on our success. You will be surrounded by people who challenge, support, and inspire you to be the best version of yourself. The Role BeyondTrust is a global leader in privileged access management. Our products provide remote access and privileged control capabilities that are deployed across thousands of enterprise environments worldwide. That makes us a high-value target. Nation-state actors, ransomware operators, and sophisticated threat groups actively target compa",
-      "location": "Anywhere in the World",
-      "tags": [
-        "DevOps and Sysadmin",
-        "devops"
-      ],
-      "postedAt": "Sat, 10 Oct 2026 07:30:48 +0000",
       "category": "devops"
     },
     {
@@ -1683,6 +1683,51 @@
       "category": "product"
     },
     {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/stockx-director-category-growth-general-manager",
+      "source": "weworkremotely",
+      "title": "Director, Category Growth (General Manager)",
+      "company": "StockX",
+      "url": "https://weworkremotely.com/remote-jobs/stockx-director-category-growth-general-manager",
+      "description": "Headquarters: Remote, USA Help empower our global customers to connect to culture through their passions. Why you’ll love this role: StockX has redefined the global marketplace for culture — where buyers and sellers transact with confidence on an always-on digital exchange. We are building the next frontier of creator-driven, culturally rich commerce that blends excitement, community, expertise, and transaction in one platform. To power this next chapter, we are building a category-led organization where each major vertical operates with clear ownership, accountability, and cultural authority. The Director, Category Growth (General Manager) is the business owner of a major category vertical. This leader is accountable for the full P&L and long-term trajectory of their category — including ",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Tue, 27 Oct 2026 07:31:09 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/coinbase-broker-dealer-operations-associate",
+      "source": "weworkremotely",
+      "title": "Broker Dealer Operations, Associate",
+      "company": "Coinbase",
+      "url": "https://weworkremotely.com/remote-jobs/coinbase-broker-dealer-operations-associate",
+      "description": "Headquarters: Remote - USA Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.”&nbsp; learn more about working at Coinbase . As an Associate, Broker Dealer Operations, you'll join the Coinbase Capital Markets team within Finance and help run the daily operational engine behind our U.S. ",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Tue, 27 Oct 2026 07:31:09 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/coinbase-associate-manager-internal-audit",
+      "source": "weworkremotely",
+      "title": "Associate Manager, Internal Audit",
+      "company": "Coinbase",
+      "url": "https://weworkremotely.com/remote-jobs/coinbase-associate-manager-internal-audit",
+      "description": "Headquarters: Remote - UK Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.”&nbsp; learn more about working at Coinbase . The Coinbase Internal Audit team is an independent, risk-based function that helps protect and strengthen the company by evaluating the effectiveness of governance",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Tue, 27 Oct 2026 07:30:57 +0000",
+      "category": "full-stack"
+    },
+    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/vested-inc-senior-software-engineer-1",
       "source": "weworkremotely",
       "title": "Senior Software Engineer",
@@ -2238,21 +2283,6 @@
       "category": "full-stack"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/maven-clinic-care-coach",
-      "source": "weworkremotely",
-      "title": "Care Coach",
-      "company": "Maven Clinic",
-      "url": "https://weworkremotely.com/remote-jobs/maven-clinic-care-coach",
-      "description": "Headquarters: Remote Maven Clinic is the world's largest virtual clinic for women and families on a mission to make healthcare work for all of us. Through Maven Enterprise, the company partners with more than 2,300 employers and health plans to provide end-to-end women's and family health programs spanning fertility and family building, maternity and newborn care, parenting and pediatrics, and menopause and midlife — improving clinical outcomes, reducing healthcare costs, and expanding equitable access to high-quality care at scale. Through its consumer platform, Maven provides direct access to virtual care across 30+ specialties, as well as dedicated hormone and GLP-1 care programs purpose-built for women. Founded in 2014 by CEO Kate Ryder, Maven Clinic has raised more than $425 million f",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Fri, 16 Oct 2026 07:30:50 +0000",
-      "category": "full-stack"
-    },
-    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/fivetran-global-alliance-lead-capgemini",
       "source": "weworkremotely",
       "title": "Global Alliance Lead, Capgemini",
@@ -2583,21 +2613,6 @@
       "category": "full-stack"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/pagerduty-senior-director-field-enablement",
-      "source": "weworkremotely",
-      "title": "Senior Director, Field Enablement",
-      "company": "PagerDuty",
-      "url": "https://weworkremotely.com/remote-jobs/pagerduty-senior-director-field-enablement",
-      "description": "Headquarters: Remote (USA - San Francisco, CA) PagerDuty, Inc. (NYSE: PD) is the global leader in AI-first digital operations. By automatically detecting, diagnosing, and remediating issues, the PagerDuty Platform orchestrates AI agents and automated workflows with context from over 750 integrations. Trusted by approximately two-thirds of the Fortune 100 and nearly half of the Fortune 500, PagerDuty is the industry standard for organizations scaling resilient, autonomous operations. Notable customers include Chipotle, Cloudflare, Docusign, Fox, Nvidia, Salesforce, Spotify, Zoom and more. We are growing rapidly and hiring top talent with leading AI skills across engineering, sales, product, marketing, and beyond as we build the leading digital operations platform. &nbsp; ABOUT THE ROLE Page",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Tue, 06 Oct 2026 07:31:16 +0000",
-      "category": "full-stack"
-    },
-    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/sticker-mule-si-agent-engineer",
       "source": "weworkremotely",
       "title": "SI agent engineer",
@@ -2641,6 +2656,21 @@
       ],
       "postedAt": "Thu, 14 May 2026 09:14:28 +0000",
       "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-director-corporate-tax",
+      "source": "weworkremotely",
+      "title": "Director, Corporate Tax",
+      "company": "ZoomInfo Technologies LLC",
+      "url": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-director-corporate-tax",
+      "description": "Headquarters: Remote-US ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen fast. &nbsp; Reporting to the Senior Director, Corporate Tax, the Director, Corporate Tax will oversee the Company’s global tax provision (ASC740), tax accounting policies, tax receivable agreement and U.S. federal tax matters. This role will manage two direct reports. The best candidates will be eager to learn, try new things, and be passionate about working in a team environment that strives to be 1% better every day. &nbsp; What Yo",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Management and Finance",
+        "management"
+      ],
+      "postedAt": "Tue, 27 Oct 2026 07:30:51 +0000",
+      "category": "management"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/talkspace-client-support-supervisor",
@@ -2715,21 +2745,6 @@
         "management"
       ],
       "postedAt": "Thu, 22 Oct 2026 07:31:08 +0000",
-      "category": "management"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/ping-identity-chief-of-staff-cco",
-      "source": "weworkremotely",
-      "title": "Chief of Staff, CCO",
-      "company": "Ping Identity",
-      "url": "https://weworkremotely.com/remote-jobs/ping-identity-chief-of-staff-cco",
-      "description": "Headquarters: USA - Remote About Ping Identity:&nbsp; At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it's not just something we provide our customers. It's something that inspires our company. People don't come here to join a culture that's built on digital freedom. They come to cultivate it.&nbsp; Our intelligent, cloud identity platform lets people shop, work, bank, and interact wherever and however they want. Without friction. Without fear.&nbsp; While protecting digital identities is at the core of our technology, protecting individual identities is at the core of our culture.&nbsp; We champion every identity. One of our core values, Respect Individuality, reminds us to celebrate d",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Management and Finance",
-        "management"
-      ],
-      "postedAt": "Wed, 21 Oct 2026 07:31:16 +0000",
       "category": "management"
     },
     {
