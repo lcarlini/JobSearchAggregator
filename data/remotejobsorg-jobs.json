@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T17:35:54.058Z",
+  "generatedAt": "2026-10-27T21:56:10.065Z",
   "count": 150,
   "data": [
     {
@@ -539,7 +539,29 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "GB"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -2132,7 +2154,31 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [
+          "Description:19 states that certain roles may require U.S. citizenship and the ability to obtain and maintain a federal background investigation and/or security clearance; the posting does not specify whether this role is one of them, so the applicability of this citizenship requirement cannot be represented."
+        ],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -2439,6 +2485,107 @@
       "direct_apply": null,
       "description": "<p>At <a href=\"https://jobicy.com/company/clickup\">ClickUp</a>, we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as part of our hiring process. Join us and help redefine what's possible. </p><h2>Role Overview</h2><p>As the <strong>Engineering Manager - Developer Productivity</strong>, you will lead a high-impact team focused on improving developer workflows, reducing friction, and enhancing the overall engineering experience. You’ll collaborate across teams to identify bottlenecks, implement scalable solutions, and foster a culture of continuous improvement. Your work will directly influence the speed, quality, and happiness of our engineering organization.</p><h2>Responsibilities:</h2><ol>\n<li>\n<p><strong>Infrastructure &#x26; Tooling</strong></p>\n<ul>\n<li>\n<p>Oversee the development and maintenance of CI/CD pipelines, build systems, and internal tools, including AI-powered internal tooling and agents.</p>\n</li>\n<li>\n<p>Ensure our developer infrastructure is scalable, reliable, and secure.</p>\n</li>\n<li>\n<p>Evaluate and implement new AI-native technologies, considering token economics, compute costs, and AI spend alongside productivity gains.</p>\n</li>\n</ul>\n</li>\n<li>\n<p><strong>Team Leadership &#x26; AI People Development</strong></p>\n<ul>\n<li>\n<p>Build, mentor, and lead a team of engineers focused on developer productivity.</p>\n</li>\n<li>\n<p>Foster a culture of collaboration, innovation, and accountability.</p>\n</li>\n<li>\n<p>Set clear goals and provide regular feedback to drive team performance in partnership with your Director.</p>\n</li>\n<li>\n<p>Assess each report's AI fluency level (Assisted, Augmented, Native) and set individual growth targets.</p>\n</li>\n<li>\n<p>Include AI fluency as a coaching topic in 1:1s; pair less AI-fluent engineers with AI-native peers for knowledge transfer.</p>\n</li>\n<li>\n<p>Create space for AI experimentation: dedicated time, safe-to-fail projects, and learning sprints.</p>\n</li>\n<li>\n<p>Recognize and reward AI-driven improvements in performance conversations.</p>\n</li>\n</ul>\n</li>\n<li>\n<p><strong>Collaboration &#x26; Communication</strong></p>\n<ul>\n<li>\n<p>Work closely with engineering, product, and design teams to align priorities.</p>\n</li>\n<li>\n<p>Advocate for developer needs and ensure alignment with company goals.</p>\n</li>\n<li>\n<p>Communicate capabilities and limitations to non-technical stakeholders.</p>\n</li>\n<li>\n<p>Write specs, rules files, and documentation that make AI more effective for the whole team.</p>\n</li>\n</ul>\n</li>\n<li>\n<p><strong>Metrics &#x26; Continuous Improvement</strong></p>\n<ul>\n<li>\n<p>Define and track key metrics to measure developer productivity, satisfaction, and AI-driven productivity gains.</p>\n</li>\n<li>\n<p>Use data-driven insights to prioritize initiatives and demonstrate impact.</p>\n</li>\n<li>\n<p>Track team-level AI adoption metrics and report on AI-augmented workflow effectiveness.</p>\n</li>\n<li>\n<p>Continuously iterate on processes to improve engineering velocity and quality.</p>\n</li>\n</ul>\n</li>\n<li>\n<p><strong>AI-Native Developer Experience</strong></p>\n<ul>\n<li>\n<p>Identify and eliminate pain points in the development lifecycle, with a focus on AI-augmented workflows.</p>\n</li>\n<li>\n<p>Drive adoption of AI coding tools (Cursor, Brain, copilots) as the default across engineering teams.</p>\n</li>\n<li>\n<p>Ensure every team member has access to and is actively using AI tools; track adoption and remove blockers (tooling, access, training).</p>\n</li>\n<li>\n<p>Partner with engineering teams to design AI-augmented development workflows that multiply team velocity.</p>\n</li>\n<li>\n<p>Coach engineers on the Builder model: planning, delegating to agents, reviewing with judgment, and shipping with velocity.</p>\n</li>\n</ul>\n</li>\n<li>\n<p><strong>AI Governance &#x26; Risk</strong></p>\n<ul>\n<li>\n<p>Ensure the team follows AI usage guidelines (data handling, code review, IP considerations).</p>\n</li>\n<li>\n<p>Flag risks from AI-generated code (security, correctness, licensing) proactively.</p>\n</li>\n<li>\n<p>Maintain visibility into what AI tools the team is using and how they're being used.</p>\n</li>\n<li>\n<p>Run regular retros and feedback loops on AI-related outcomes.</p>\n</li>\n<li>\n<p>Review AI-generated outputs alongside the team to build shared quality standards.</p>\n</li>\n</ul>\n</li>\n</ol><h2>Qualifications:</h2><ul>\n<li>\n<p><strong>Experience:</strong> 7+ years in software engineering, with 3+ years in a leadership role managing engineering teams.</p>\n</li>\n<li>\n<p><strong>Technical Expertise:</strong> Strong understanding of developer tools, CI/CD pipelines, and modern software development practices. Hands-on experience with AI coding tools (Cursor, Claude Code, Codex, or similar) and an understanding of how to integrate them into engineering workflows.</p>\n</li>\n<li>\n<p><strong>AI Fluency:</strong> Demonstrated ability to operate at the AI Augmented level or above: you personally use AI tools daily and have coached others on effective AI-assisted development. Familiar with prompt engineering, context engineering, and token economics.</p>\n</li>\n<li>\n<p><strong>Builder Mindset:</strong> Comfortable with the 80/20 model (planning and review vs. direct execution). Experience orchestrating work across humans and AI agents, with strong judgment on when to delegate to AI vs. when human decision-making is critical.</p>\n</li>\n<li>\n<p><strong>Leadership Skills:</strong> Proven ability to build and lead high-performing teams. Experience assessing and developing AI fluency across a team.</p>\n</li>\n<li>\n<p><strong>Problem-Solving:</strong> Track record of identifying inefficiencies and implementing scalable solutions, including building or adopting AI-powered tooling and eval frameworks.</p>\n</li>\n<li>\n<p><strong>Governance Awareness:</strong> Understanding of AI &#x26; non-AI related risks (security, correctness, licensing, data handling) and experience establishing quality standards for outputs.</p>\n</li>\n<li>\n<p><strong>Collaboration:</strong> Exceptional communication and stakeholder management skills. Ability to translate AI capabilities and limitations to non-technical audiences.</p>\n</li>\n<li>\n<p><strong>Mindset:</strong> Passion for improving developer experiences and driving organizational impact through AI-native practices with a customer first mentality.</p>\n</li>\n</ul><h2>Why Join Us?</h2><ul>\n<li>\n<p><strong>Impactful Work:</strong> Shape the future of developer productivity at a fast-growing, AI-native SaaS company.</p>\n</li>\n<li>\n<p><strong>AI-Native Culture:</strong> Work in an organization that treats AI as a core competency, not a nice-to-have, with industry-leading investment in AI tooling, agents, and engineering workflows.</p>\n</li>\n<li>\n<p><strong>Builder Operating Model:</strong> Join a team that's redefining how software gets built: orchestrating AI agents, shipping with compound engineering, and measuring what matters.</p>\n</li>\n<li>\n<p><strong>Growth Opportunities:</strong> Advance your career on a clear AI-native career pathway with structured fluency levels and development support.</p>\n</li>\n<li>\n<p><strong>Flexible Environment:</strong> Enjoy the freedom of remote work with a global team.</p>\n</li>\n</ul><p><strong>Equal Opportunity Employer </strong></p><p><em>ClickUp is an Equal Opportunity Employer, and qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, or national origin.</em></p><p><strong>Privacy Notice</strong></p><p><em>ClickUp collects and processes personal data in accordance with applicable data protection laws. You can find further details by viewing our </em><a href=\"https://clickup.com/careers-terms/candidate-privacy-notice\"><em>Global Candidate Privacy Notice.</em></a></p><p><em>If you are a Philippine Job Applicant, please also see our </em><a href=\"https://t333.s.clickup-attachments-stg.com/t333/d9a53ce2-6d2c-48cd-84b1-ed4e525f9613/Philippine%20Data%20Privacy%20Notice_2024.pdf?view=open\"><em>Philippine Data Privacy Notice</em></a><em> for further details.</em></p><p><strong>Visa Sponsorship</strong></p><p><em>Please note we are unable to sponsor or take over sponsorship of an employment visa for roles outside of engineering and product at this time. Sponsorship for engineering and product roles is not guaranteed, but is instead based on the business needs for that specific role at that time. Please reach out to the recruiter with any questions.</em></p><p><strong>Fraud Alert</strong></p><p><em>ClickUp Talent Acquisition will only initiate contact via an <strong>@</strong></em><a href=\"http://clickup.com\"><em><strong>clickup.com</strong></em></a><em> email or through our official careers portal on </em><a href=\"http://clickup.com\"><em>clickup.com</em></a><em>. We will never request fees, payments, or sensitive personal information. Please disregard any offers received outside these channels and report them to support@clickup.com.</em></p><p><strong>AI Processing Notice</strong></p><p><em>ClickUp may use artificial intelligence and machine learning technologies to help review and screen candidates' employment applications against role-related criteria. These tools support, but do not replace, human decision‑making. If you have questions or need an accommodation in the recruitment process, please contact us at AskPeople@ClickUp.com.</em></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/manager-software-engineering-developer-experience-clickup</p>",
       "posted_at": "2026-10-26T16:38:50+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "2671ff09-d2d1-4a38-818b-614b1bc8ce67",
+      "title": "Principal Software Engineer",
+      "url": "https://remotejobs.org/remote-jobs/principal-software-engineer-pattern-data",
+      "apply_url": "https://remotejobs.org/remote-jobs/principal-software-engineer-pattern-data",
+      "company": {
+        "name": "Pattern Data",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/a841a7f3f354cee97dde9f192434aa7d5c891a590d5978a876252562c3750eb2.png",
+        "website": "https://pattern.com",
+        "url": "https://remotejobs.org/companies/pattern-data"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "Lehi, UT, US",
+      "location_normalization": {
+        "raw": "Lehi, UT, US",
+        "input": {
+          "workArrangement": "hybrid"
+        },
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [
+          "lehi"
+        ],
+        "work_arrangement": "hybrid",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "worksite_countries": [
+          "US"
+        ],
+        "allowed_subdivisions": [
+          "US-UT"
+        ],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [],
+        "allowed_regions": [],
+        "work_arrangement": "hybrid",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": "principal",
+        "role_family": "software-engineering",
+        "required_skills": [],
+        "mentioned_skills": [
+          "aws",
+          "javascript",
+          "python",
+          "react",
+          "sql",
+          "typescript"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": [
+          {
+            "text": "5 years of experience in software development or related occupation and background in designing, building, and maintaining large-scale, distributed software systems",
+            "maximum_years": null,
+            "minimum_years": 5,
+            "classification": "required"
+          }
+        ]
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "05fabfeb-1b33-4abb-a40f-1d7ba8e4e0e6",
+      "direct_apply": null,
+      "description": "<p>Principal Software Engineer - AI-Accelerated Product Development. Responsible for leading complex technical initiatives and driving architectural decisions. Set technical direction, mentor engineers, and ensure the delivery of robust, scalable, and high-quality software solutions. Lead the design, development, and implementation of highly complex, large-scale distributed software systems and features, ensuring scalability, reliability, security, and performance. Drive technical strategy and architectural decisions, evaluating emerging technologies and recommending cloud-native, microservices-based solutions. Architect and integrate artificial intelligence and machine learning solutions into production-grade, multi-tenant software systems. Design and implement microservices-based, event-driven, and service-oriented architectures, reduce operational cost, and increase system resilience. Provide technical leadership and mentorship. Establish engineering standards for quality, observability, and operational excellence. Requires Bachelor's degree in Computer Science, Software Engineering, or a related technical field plus 5 years of experience in software development or related occupation and background in designing, building, and maintaining large-scale, distributed software systems. Ability to design and implement cloud-native architectures on Amazon Web Services (AWS). Ability to design and deliver microservices-based and event-driven software architectures. Background in architecting and integrating artificial intelligence and machine learning solutions into production software systems, including applied machine learning and computer vision, and foundation-model integration (such as Amazon Bedrock). Proficiency in multiple programming languages and frameworks and understanding of software architecture patterns, including Python and FastAPI for backend and API development and React and modern JavaScript / TypeScript for front-end delivery. Knowledge of data and storage technologies, including SQL and Snowflake, relational and NoSQL databases, and data pipelines and streaming for large-scale, high-volume processing. Knowledge of CI/CD pipelines and infrastructure-as-code, and of monitoring, logging, and observability tooling for production reliability. Ability to translate complex and ambiguous business problems into scalable, reliable, and secure technical solutions. Worksite: 1441 W Innovation Way, Suite 500, Lehi UT 84043 and Home Office combination. Resume to: Pattern, Inc., Attn: Makenna Kringlen, 1441 W Innovation Way, #500, Lehi UT 84043.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/principal-software-engineer-pattern-data</p>",
+      "posted_at": "2026-10-26T15:21:22.432+00:00",
       "is_translated": false,
       "original_language": null
     },
@@ -4617,86 +4764,6 @@
       "direct_apply": null,
       "description": "<h2>Responsibilities</h2>\n<p>This position will offer you the ability to apply and expand your knowledge of transmission line engineering including, conductors, hardware, insulation, structures, foundations and electrical principles to:</p>\n<ul>\n<li>Design transmission lines in the 69kV to 500kV range.</li>\n<li>Responsibility for cost analyses, development of design criteria, routing and siting of transmission lines.</li>\n<li>Responsibility for conductor selection studies, shielding, grounding and induction studies.</li>\n<li>Work with vendors and clients to specify transmission line components.</li>\n<li>Direct a small project team.</li>\n</ul>\n<p>The position will also offer you the opportunity to:</p>\n<ul>\n<li>Work with experienced engineers and mentor less experienced staff.</li>\n<li>Work with a diverse client base and interact with the client and other project teams.</li>\n<li>Occasional travel for site visits and client meetings.</li>\n<li>Develop proposals and cost estimates for new work.</li>\n</ul>\n<h2>Qualifications</h2>\n<p><strong>We do not sponsor employees for work authorization in the U.S. for this position.</strong></p>\n<h2>Essential Skills and experience:</h2>\n<ul>\n<li>This position requires a BS degree from an ABET-accredited engineering program.</li>\n<li>Proficiency with PLS-CADD software and ability to review transmission line models.</li>\n<li>5 or more years of experience as a member of a project team in observing project schedules and budget constraints on diverse transmission assignments that have included the following: transmission line design incorporating code requirements, cost estimate development, schedule creation and coordination, the preparation of specifications for procurement of transmission line materials and construction, and liaising with construction and installation.</li>\n<li>Knowledge to verify/review right of way requirements, conductor sags/tensions, transmission line plan and profile drawings and construction documents.</li>\n<li>Knowledge of design techniques, tools, and principles involved in the production of technical plans, drawings, and models.</li>\n<li>Experience in writing and providing support documentation for engineering calculations.</li>\n<li>Familiarity with design codes and standards such as NESC, IEC, CSA, IEEE, ANSI, IBC, ASCE 7, AISC, and ACI 318.</li>\n<li>Proficiency with MS Office applications.</li>\n<li>Excellent written and verbal communication skills.</li>\n<li>Attention to detail.</li>\n</ul>\n<p>Valued but not required skills and experience:</p>\n<ul>\n<li>Have a current PE license or the ability to acquire one within one year.</li>\n<li>Experience in developing engineering proposals and cost estimates.</li>\n<li>Experience with scheduling.</li>\n<li>Proficiency with any of the following programs: PLS-TOWER, SAG10, LPILE, MFAD, ArcGIS, CDEGS, AutoCAD, MicroStation.</li>\n</ul>\n<h2>Technology &#x26; Innovation</h2>\n<p>Sargent &#x26; Lundy values the appropriate use of technology to improve how work gets done and deliver high-quality outcomes for our clients. Depending on the role, employees may use data, automation, artificial intelligence, and other digital tools to support research, analysis, engineering and design activities, workflow improvement, or other aspects of their work. We value candidates who demonstrate an interest in learning and effectively using emerging technologies where relevant to their role. Employees remain accountable for their work and are expected to apply appropriate professional judgment and review when using technology-assisted tools. Experience with AI, automation, programming, or similar technologies is valued where relevant but is not required unless specifically identified elsewhere in the job description.</p>\n<h2>About Sargent &#x26; Lundy</h2>\n<p>At Sargent &#x26; Lundy, we care about the health and well-being of our employees. Our commitment extends beyond the workplace, offering comprehensive healthcare plans and generous paid time off to support our team members in every aspect of their lives. We understand the importance of work-life balance, which is why we are proud to provide competitive, award-winning benefits. Our dedication to employee satisfaction has earned us the prestigious Top Workplaces Culture Excellence Award for compensation and benefits in 2022, 2023, and 2024.</p>\n<p>Health &#x26; WellnessFinancial BenefitsWork-Life Balance</p>\n<ul>\n<li>Health Plans: Medical, Dental, Vision</li>\n<li>Life &#x26; Accident Insurance</li>\n<li>Disability Coverage</li>\n<li>Employee Assistance Program (EAP)</li>\n<li>Back-Up Daycare</li>\n<li>FSA &#x26; HSA</li>\n</ul>\n<ul>\n<li>401(k)</li>\n<li>Pre-Tax Commuter Account</li>\n<li>Merit Scholarship Program</li>\n<li>Employee Discount Program</li>\n<li>Corporate Charitable Giving Program</li>\n<li>Tuition Assistance</li>\n<li>First Professional Licensure Bonus</li>\n<li>Employee Referral Bonus</li>\n</ul>\n<ul>\n<li>Paid Annual Personal/Sick Time (PST)</li>\n<li>Paid Vacation</li>\n<li>Paid Holidays</li>\n<li>Paid Parental Leave</li>\n<li>Paid Bereavement Leave</li>\n<li>Flexible Work Arrangements</li>\n</ul>\n<h2>Compensation Range</h2>\n<p>$84,762 - $129,498</p>\n<h2>Transparency Statement</h2>\n<p>Sargent &#x26; Lundy discloses compensation ranges that comply with all local and state regulations. The total compensation package for eligible positions will include a base salary or an hourly rate and a comprehensive benefits package, reflecting our commitment to rewarding performance and supporting the overall well-being of our employees. Individuals may also be eligible to participate in our yearly discretionary bonus.</p>\n<h2>Equal Opportunity</h2>\n<p>Sargent &#x26; Lundy is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, national origin, disability status, protected veteran status, or any protected status as defined by applicable law.</p>\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-transmission-line-engineer-1-grid-sargent-lundy</p>",
       "posted_at": "2026-10-25T12:33:05+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "6d7d9bc1-dc39-4855-8d1e-c96c35960d07",
-      "title": "Database Report Writer",
-      "url": "https://remotejobs.org/remote-jobs/database-report-writer-compass-health-network",
-      "apply_url": "https://remotejobs.org/remote-jobs/database-report-writer-compass-health-network",
-      "company": {
-        "name": "Compass Health Network",
-        "logo_url": null,
-        "website": "https://compasshealthnetwork.org",
-        "url": "https://remotejobs.org/companies/compass-health-network"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": null,
-      "location_normalization": {
-        "raw": null,
-        "input": {},
-        "scope": "unknown",
-        "status": "unknown",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "unknown",
-        "status": "unknown",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [],
-        "evidence_ids": [],
-        "allowed_regions": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": null,
-        "role_family": null,
-        "required_skills": [
-          "sql"
-        ],
-        "mentioned_skills": [],
-        "preferred_skills": [],
-        "experience_requirements": []
-      },
-      "salary_min": 36.76,
-      "salary_max": 36.76,
-      "salary_text": "USD 36.76/hour",
-      "salary_source_text": "USD 36.76 - 36.76",
-      "salary_currency": "USD",
-      "salary_period": "hour",
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<div><strong>Turn data into meaningful insights that help expand access to care and strengthen communities.\n<br>The Database Report Writer plays a key role in supporting data-informed decision-making across the organization. This position is responsible for developing, maintaining, and optimizing reports from our electronic health record (EHR) systems and other data sources. You’ll collaborate with teams across the organization to ensure accurate, timely, and actionable reporting that supports our mission to Inspire Hope and Promote Wellness—especially in rural communities where access to care matters most.\n<strong><br>This is a great opportunity for someone</strong> who enjoys working with data to solve problems, thrives in a collaborative environment, and takes pride in delivering accurate, high-quality reporting that drives impact.<h2>Key Responsibilities</h2>\n<ul>\n<li>Develop, generate, and maintain daily, weekly, and monthly reports </li>\n<li> Design and build ad hoc reports to meet evolving organizational needs </li>\n<li> Modify, test, and enhance existing reports to ensure accuracy and usability </li>\n<li> Deploy reports and support end users with reporting needs </li>\n<li> Partner with the Director of Data Reporting Services on projects and initiatives </li>\n<li> Participate in meetings, trainings, and continuous improvement efforts </li>\n<li> Perform other duties as assigned</li>\n</ul>\n<h2>Skills, Knowledge and Expertise</h2>\n\n<ul>\n<li>High School/GED required </li>\n<li> Bachelor’s degree preferred</li>\n</ul>\n<p><strong><br>Work Experience/Training/Additional Requirements:</strong></p>\n<ul>\n<li> At least three (3) years’ experience using SQL to query complex relational databases and validate reporting results required </li>\n<li> At least three (3) years’ experience with various computer software and Enterprise Health Record applications preferred </li>\n<li> At least three (3) years’ experience using Crystal Reports preferred </li>\n<li> Possess the ability to determine the level of effort to accomplish requested tasks </li>\n<li> Ability to be flexible and adapt to the challenges and reporting needs of the organization</li>\n</ul>\n<p><strong><br>You’ll be a great fit for this role if you:</strong></p>\n<ul>\n<li> Enjoy translating complex data into clear, actionable insights </li>\n<li> Have strong attention to detail and a commitment to data accuracy </li>\n<li> Communicate effectively with both technical and non-technical audiences </li>\n<li> Are organized, responsive, and able to manage multiple priorities </li>\n<li> Thrive in a mission-driven, team-oriented environment </li>\n<li> Take initiative and look for ways to improve processes and reporting efficiency</li>\n</ul>\n\n\n</strong></div><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/database-report-writer-compass-health-network</p>",
-      "posted_at": "2026-10-25T12:32:02+00:00",
       "is_translated": false,
       "original_language": null
     },
@@ -9298,7 +9365,41 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "worldwide",
+        "status": "partial",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [
+          {
+            "kind": "timezone",
+            "areas": [],
+            "effect": "context",
+            "details": "Expect some time-zone overlap with a Europe/Asia-based team.",
+            "regions": [],
+            "timezones": [],
+            "evidence_id": "c2",
+            "conditional_on": null
+          }
+        ],
+        "unresolved": [
+          "The vague time-zone overlap expectation with a Europe/Asia-based team cannot be fully represented as an applicant condition and is preserved only as a timezone claim."
+        ],
+        "evidence_ids": [
+          "c2",
+          "c3"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": true
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
