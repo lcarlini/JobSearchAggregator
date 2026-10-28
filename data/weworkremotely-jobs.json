@@ -1,7 +1,37 @@
 {
-  "generatedAt": "2026-10-28T12:13:52.646Z",
-  "count": 194,
+  "generatedAt": "2026-10-28T22:18:01.243Z",
+  "count": 189,
   "jobs": [
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/lemon-io-senior-net-full-stack-developer-2",
+      "source": "weworkremotely",
+      "title": "Senior .NET Full-stack Developer",
+      "company": "Lemon.io",
+      "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-net-full-stack-developer-2",
+      "description": "Headquarters: New York, NY URL: https://lemon.io Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. We'll manually find the best project for you according to your skills and preferences. Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours. We respect your seniority so you can expe",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "programming"
+      ],
+      "postedAt": "Thu, 08 Oct 2026 11:41:36 +0000",
+      "category": "programming"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer-iv-biometrics",
+      "source": "weworkremotely",
+      "title": "Machine Learning Engineer - IV (Biometrics)",
+      "company": "Jumio",
+      "url": "https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer-iv-biometrics",
+      "description": "Headquarters: India (remote) Role Purpose We’re looking for a Staff/Senior Machine Learning Engineer with deep expertise in computer vision and biometrics to lead the design and scaling of face recognition systems in production. You’ll build and train models, and own ML systems end-to-end on AWS. The final job level for this role will be determined following the interview process. What You’ll Do Lead the design and development of computer vision systems for biometrics (face attributes, detection, quality, and recognition) Rigorous fairness analysis and benchmarking of biometric models across various datasets and operating conditions. Architect, train, and optimize models using PyTorch, Tensorflow, and/or JAX Own and evolve end-to-end ML pipelines, from data ingestion to deployment. Design ",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "programming"
+      ],
+      "postedAt": "Thu, 08 Oct 2026 07:31:21 +0000",
+      "category": "programming"
+    },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer",
       "source": "weworkremotely",
@@ -330,36 +360,6 @@
         "programming"
       ],
       "postedAt": "Tue, 29 Sep 2026 07:30:41 +0000",
-      "category": "programming"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/air-apps-framer-website-designer-1",
-      "source": "weworkremotely",
-      "title": "Framer Website Designer",
-      "company": "Air Apps",
-      "url": "https://weworkremotely.com/remote-jobs/air-apps-framer-website-designer-1",
-      "description": "Headquarters: Helsinki URL: http://airapps.com Framer Website Designer (Onsite – Presidio, San Francisco) About Air Apps At Air Apps, we believe in thinking bigger and moving faster. We’re a family-founded company on a mission to create the world’s first AI-powered Personal & Entrepreneurial Resource Planner (PRP), and we need your passion and ambition to help us change how people plan, work, and live. Born in Lisbon, Portugal in 2018 and now with offices in both Lisbon and San Francisco, we’ve remained self-funded while reaching over 100 million downloads worldwide. Our long-term focus drives us to challenge the status quo every day, pushing the boundaries of AI-driven solutions that truly make a difference. Here, you’ll be a creative force, shaping products that empower people across the",
-      "location": "Helsinki",
-      "tags": [
-        "Front-End Programming",
-        "programming"
-      ],
-      "postedAt": "Mon, 28 Sep 2026 22:12:46 +0000",
-      "category": "programming"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/wisevu-web-development-project-manager",
-      "source": "weworkremotely",
-      "title": "Web Development Project Manager",
-      "company": "Wisevu",
-      "url": "https://weworkremotely.com/remote-jobs/wisevu-web-development-project-manager",
-      "description": "Headquarters: Bosnia And Herzegovina URL: http://wisevu.com Description Wisevu™, along with our sister agencies Homevu™ and charitymarketing.com ™, has been providing industry-leading digital marketing services to medical practices, home service companies, and charities for over 17 years. Our multi-industry focus and diverse marketing approach create a dynamic and engaging work environment, supported by cutting-edge tools and collaboration with a highly skilled and experienced team of professionals. We are driven by a mission to harness our collective online marketing wisdom to help organizations that contribute to the betterment of our communities achieve their organizational objectives. Learn more at wisevu.com. Responsibilities Manage multiple website development projects from kickoff t",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Front-End Programming",
-        "programming"
-      ],
-      "postedAt": "Mon, 28 Sep 2026 22:12:45 +0000",
       "category": "programming"
     },
     {
@@ -1128,36 +1128,6 @@
       "category": "design"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/epam-systems-senior-vmware-engineer",
-      "source": "weworkremotely",
-      "title": "Senior VMware Engineer",
-      "company": "EPAM Systems",
-      "url": "https://weworkremotely.com/remote-jobs/epam-systems-senior-vmware-engineer",
-      "description": "Headquarters: Armenia, Georgia, Kazakhstan, Kyrgyzstan, Uzbekistan URL: http://epam.com We are looking for a Senior VMware Engineer to join our team supporting the delivery of a Unified Automation Platform for a large enterprise client. Within this role, you will develop and maintain VMware automation modules as part of an Internal Developer Platform (IDP) that standardizes project delivery, consolidates development resources, and ensures consistent provisioning across Azure and on-premises VMware environments. Your work will involve a modern toolchain built on Terraform/OpenTofu and Ansible, leveraging AI-assisted development with GitHub Copilot as a standard engineering practice. Responsibilities Develop and maintain Terraform/OpenTofu modules for vSphere VM provisioning, placement/resou",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Design",
-        "design"
-      ],
-      "postedAt": "Mon, 28 Sep 2026 22:13:12 +0000",
-      "category": "design"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/ehvert-engineering-a-salas-o-brien-company-electrical-design-engineer-albania",
-      "source": "weworkremotely",
-      "title": "Electrical Design Engineer (Albania)",
-      "company": "Ehvert Engineering a Salas O'Brien company",
-      "url": "https://weworkremotely.com/remote-jobs/ehvert-engineering-a-salas-o-brien-company-electrical-design-engineer-albania",
-      "description": "Headquarters: Tirana, AL URL: http://ehvert.com Location: Albania, Remote Industry: Mission-Critical Facilities, Data Centers Engagement Type: Independent Contractor Agreement for Provision of Services (long-term) Ehvert Mission Critical , a business unit within Salas O’Brien , is seeking an experienced Electrical Engineer for a long-term independent contractor basis . This is an ongoing contractual engagement with a US-based company and is not limited to a single project . The role involves continuous collaboration across multiple mission-critical projects, based on business needs. You will provide services as an independent, self-employed professional under a formal independent contractor agreement . How to Apply: Interested candidates should submit their resume in English detailing thei",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Design",
-        "design"
-      ],
-      "postedAt": "Mon, 28 Sep 2026 22:13:12 +0000",
-      "category": "design"
-    },
-    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/storyblok-senior-database-reliability-engineer-i-germany-austria-uk",
       "source": "weworkremotely",
       "title": "Senior Database Reliability Engineer I - Germany/Austria/UK",
@@ -1620,21 +1590,6 @@
         "product"
       ],
       "postedAt": "Tue, 29 Sep 2026 19:07:41 +0000",
-      "category": "product"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/zanda-health-product-owner",
-      "source": "weworkremotely",
-      "title": "Product Owner",
-      "company": "Zanda Health",
-      "url": "https://weworkremotely.com/remote-jobs/zanda-health-product-owner",
-      "description": "Headquarters: Australia URL: https://zandahealth.com/eu/ Product Owner Remote | Permanent Contractor | Core EU Collaboration Hours Reports to: Product Manager Are you a product driven problem solver who enjoys turning customer insight into things that actually get built? Do you love turning complexity into clarity, aligning teams, and shaping product experiences that genuinely make people’s lives easier? If so, we’d love to meet you! We build software that takes the stress, chaos, and friction out of managing a health practice. As our newest Product Owner, you’ll play a pivotal role in translating vision into action, turning customer needs into features and driving product outcomes that truly matter. You’re someone on the rise - intelligent, opinionated (in the best way), and ready to make",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Product",
-        "product"
-      ],
-      "postedAt": "Mon, 28 Sep 2026 14:39:57 +0000",
       "category": "product"
     },
     {
@@ -2505,36 +2460,6 @@
         "full-stack"
       ],
       "postedAt": "Fri, 09 Oct 2026 13:49:21 +0000",
-      "category": "full-stack"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/lemon-io-senior-net-full-stack-developer-2",
-      "source": "weworkremotely",
-      "title": "Senior .NET Full-stack Developer",
-      "company": "Lemon.io",
-      "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-net-full-stack-developer-2",
-      "description": "Headquarters: New York, NY URL: https://lemon.io Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. We'll manually find the best project for you according to your skills and preferences. Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours. We respect your seniority so you can expe",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Thu, 08 Oct 2026 11:41:36 +0000",
-      "category": "full-stack"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer-iv-biometrics",
-      "source": "weworkremotely",
-      "title": "Machine Learning Engineer - IV (Biometrics)",
-      "company": "Jumio",
-      "url": "https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer-iv-biometrics",
-      "description": "Headquarters: India (remote) Role Purpose We’re looking for a Staff/Senior Machine Learning Engineer with deep expertise in computer vision and biometrics to lead the design and scaling of face recognition systems in production. You’ll build and train models, and own ML systems end-to-end on AWS. The final job level for this role will be determined following the interview process. What You’ll Do Lead the design and development of computer vision systems for biometrics (face attributes, detection, quality, and recognition) Rigorous fairness analysis and benchmarking of biometric models across various datasets and operating conditions. Architect, train, and optimize models using PyTorch, Tensorflow, and/or JAX Own and evolve end-to-end ML pipelines, from data ingestion to deployment. Design ",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Thu, 08 Oct 2026 07:31:21 +0000",
       "category": "full-stack"
     },
     {
