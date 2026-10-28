@@ -1,7 +1,37 @@
 {
-  "generatedAt": "2026-10-28T04:16:06.043Z",
-  "count": 198,
+  "generatedAt": "2026-10-28T12:13:52.646Z",
+  "count": 194,
   "jobs": [
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer",
+      "source": "weworkremotely",
+      "title": "Machine Learning Engineer",
+      "company": "Jumio",
+      "url": "https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer",
+      "description": "Headquarters: Austria (remote) Machine Learning Engineer&nbsp; We’re looking for a Machine Learning Engineer with deep expertise in computer vision and biometrics to lead the design and scaling of face recognition systems in production. You’ll build and train models, and own ML systems end-to-end on AWS. The final job level for this role will be determined following the interview process. What You’ll Do Lead the design and development of computer vision systems for biometrics (face attributes, detection, quality, and recognition) Rigorous fairness analysis and benchmarking of biometric models across various datasets and operating conditions. Architect, train, and optimize models using PyTorch, Tensorflow, and/or JAX Own and evolve end-to-end ML pipelines, from data ingestion to deployment.",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "programming"
+      ],
+      "postedAt": "Thu, 08 Oct 2026 07:31:21 +0000",
+      "category": "programming"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/abnormal-director-of-security-engineering",
+      "source": "weworkremotely",
+      "title": "Director of Security Engineering",
+      "company": "Abnormal",
+      "url": "https://weworkremotely.com/remote-jobs/abnormal-director-of-security-engineering",
+      "description": "Headquarters: Remote - USA About the Role Abnormal AI protects organizations from the most sophisticated email and collaboration attacks using behavioral AI. Security is not a bolt-on at Abnormal; it is core to the product we sell and the trust our customers place in us. Our security organization operates a commercial cloud environment and a separate FedRAMP-authorized environment, and we are pursuing increasingly rigorous federal authorizations as we grow. We are hiring a Director of Security reporting to the CISO and leading the Security Engineering organization. You will build and scale high-performing security teams, own major security programs end to end, and operate autonomously in the CISO's absence, including representing security to executive leadership, customers, and auditors. T",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "programming"
+      ],
+      "postedAt": "Thu, 08 Oct 2026 07:31:00 +0000",
+      "category": "programming"
+    },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/dremio-software-engineer-query-execution",
       "source": "weworkremotely",
@@ -330,36 +360,6 @@
         "programming"
       ],
       "postedAt": "Mon, 28 Sep 2026 22:12:45 +0000",
-      "category": "programming"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/dremio-software-engineer-developer-experience",
-      "source": "weworkremotely",
-      "title": "Software Engineer - Developer Experience",
-      "company": "Dremio",
-      "url": "https://weworkremotely.com/remote-jobs/dremio-software-engineer-developer-experience",
-      "description": "Headquarters: Portugal - Remote Be Part of Building the Future Dremio is the unified lakehouse platform for self-service analytics and AI, serving hundreds of global enterprises, including Maersk, Amazon, Regeneron, NetApp, and S&P Global. Customers rely on Dremio for cloud, hybrid, and on-prem lakehouses to power their data mesh, data warehouse migration, data virtualization, and unified data access use cases. Based on open source technologies, including Apache Iceberg and Apache Arrow, Dremio provides an open lakehouse architecture enabling the fastest time to insight and platform flexibility at a fraction of the cost.&nbsp; Learn more at&nbsp; www.dremio.com. About the role In this role you will get opportunities to implement and maintain CI/CD systems and developer productivity solutio",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "programming"
-      ],
-      "postedAt": "Mon, 28 Sep 2026 07:31:05 +0000",
-      "category": "programming"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/dremio-senior-staff-software-engineer-query-execution",
-      "source": "weworkremotely",
-      "title": "Senior Staff Software Engineer - Query Execution",
-      "company": "Dremio",
-      "url": "https://weworkremotely.com/remote-jobs/dremio-senior-staff-software-engineer-query-execution",
-      "description": "Headquarters: Portugal - Remote Be Part of Building the Future Dremio is the unified lakehouse platform for self-service analytics and AI, serving hundreds of global enterprises, including Maersk, Amazon, Regeneron, NetApp, and S&P Global. Customers rely on Dremio for cloud, hybrid, and on-prem lakehouses to power their data mesh, data warehouse migration, data virtualization, and unified data access use cases. Based on open source technologies, including Apache Iceberg and Apache Arrow, Dremio provides an open lakehouse architecture enabling the fastest time to insight and platform flexibility at a fraction of the cost.&nbsp; Learn more at&nbsp; www.dremio.com. About the role Dremio’s Query Execution team builds the runtime responsible for executing analytical queries at scale. The team s",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "programming"
-      ],
-      "postedAt": "Mon, 28 Sep 2026 07:31:05 +0000",
       "category": "programming"
     },
     {
@@ -723,21 +723,6 @@
       "category": "devops"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/pagerduty-principal-solutions-consultant",
-      "source": "weworkremotely",
-      "title": "Principal Solutions Consultant",
-      "company": "PagerDuty",
-      "url": "https://weworkremotely.com/remote-jobs/pagerduty-principal-solutions-consultant",
-      "description": "Headquarters: Remote (USA) PagerDuty, Inc. (NYSE: PD) is the global leader in AI-first digital operations. By automatically detecting, diagnosing, and remediating issues, the PagerDuty Platform orchestrates AI agents and automated workflows with context from over 750 integrations. Trusted by approximately two-thirds of the Fortune 100 and nearly half of the Fortune 500, PagerDuty is the industry standard for organizations scaling resilient, autonomous operations. Notable customers include Chipotle, Cloudflare, Docusign, Fox, Nvidia, Salesforce, Spotify, Zoom and more. We are growing rapidly and hiring top talent with leading AI skills across engineering, sales, product, marketing, and beyond as we build the leading digital operations platform. &nbsp; PagerDuty is seeking a Principal Soluti",
-      "location": "Anywhere in the World",
-      "tags": [
-        "DevOps and Sysadmin",
-        "devops"
-      ],
-      "postedAt": "Tue, 06 Oct 2026 07:31:09 +0000",
-      "category": "devops"
-    },
-    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/launchdarkly-engineering-manager-cloud-engineering",
       "source": "weworkremotely",
       "title": "Engineering Manager, Cloud Engineering",
@@ -798,21 +783,6 @@
       "category": "devops"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/collibra-cps-solution-architect",
-      "source": "weworkremotely",
-      "title": "CPS Solution Architect",
-      "company": "Collibra",
-      "url": "https://weworkremotely.com/remote-jobs/collibra-cps-solution-architect",
-      "description": "Headquarters: Remote, USA Joining Collibra’s CPS Solution Architect Team At Collibra Public Sector, our Professional Services team relies on Federal Solution Architects to deliver on customer expectations for the services we sell, working directly with customer key projects stakeholders throughout the entire customer journey. Ensuring growth, adoption and renewal, Federal Solution Architects act as customer champions, ensuring customers are onboarded and realizing value rapidly.&nbsp; Federal Solution Architects are responsible for Supporting federal customer engagements by delivering mission-aligned architectural design and execution of Collibra products that adhere to Collibra Public Sector’s Delivery Models, Engagement Processes, Methodologies, and Artifacts, while ensuring compliance w",
-      "location": "Anywhere in the World",
-      "tags": [
-        "DevOps and Sysadmin",
-        "devops"
-      ],
-      "postedAt": "Mon, 28 Sep 2026 07:31:05 +0000",
-      "category": "devops"
-    },
-    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/trusted-building-technologies-inc-executive-assistant-project-manager",
       "source": "weworkremotely",
       "title": "Executive Assistant / Project Manager",
@@ -840,21 +810,6 @@
         "design"
       ],
       "postedAt": "Mon, 26 Oct 2026 11:48:42 +0000",
-      "category": "design"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/gusto-inc-senior-product-design-manager-payroll",
-      "source": "weworkremotely",
-      "title": "Senior Product Design Manager, Payroll",
-      "company": "Gusto, Inc.",
-      "url": "https://weworkremotely.com/remote-jobs/gusto-inc-senior-product-design-manager-payroll",
-      "description": "Headquarters: Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Toronto, Ontario - Remote &nbsp; About Gusto At Gusto, we're on a mission to grow the small business economy. We handle the hard stuff — payroll, health insurance, 401(k)s, and HR — so owners can focus on their craft and their customers. With teams in Denver, San Francisco, and New York, we support more than 500,000 small businesses nationwide and are building a workplace that reflects the people we serve. All full-time employees receive competitive base pay, benefits, and equity (RSUs) — because everyone who helps build Gusto should share in its success. Offer amounts are determined by role, level, and location. Learn more about our Total Rewards philosophy . AI is a fundamental part of how work gets don",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Design",
-        "design"
-      ],
-      "postedAt": "Sat, 24 Oct 2026 07:31:04 +0000",
       "category": "design"
     },
     {
@@ -1020,21 +975,6 @@
         "design"
       ],
       "postedAt": "Sun, 04 Oct 2026 07:31:28 +0000",
-      "category": "design"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/vercel-design-engineer",
-      "source": "weworkremotely",
-      "title": "Design Engineer",
-      "company": "Vercel",
-      "url": "https://weworkremotely.com/remote-jobs/vercel-design-engineer",
-      "description": "Headquarters: Remote - United States About Vercel: Vercel is the agentic infrastructure company, freeing people and agents to ship what's next. For more than a decade we've helped builders move from idea to production with speed, security, and exceptional developer experience. Now we're scaling our products for both agents and people to ship and run software, built in the open and trusted by OpenAI, PayPal, Ramp, Supreme, and millions of developers worldwide. About the Role: AI Gateway gives developers one place to connect applications and agents to hundreds of models with one API key. It handles provider routing and fallbacks, unifies billing and observability, and lets teams manage spend and security controls across production AI workloads. Designing this well is a systems problem. A dev",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Design",
-        "design"
-      ],
-      "postedAt": "Thu, 01 Oct 2026 07:30:47 +0000",
       "category": "design"
     },
     {
@@ -1218,49 +1158,49 @@
       "category": "design"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/bbe-marketing-inc-senior-graphic-designer",
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/storyblok-senior-database-reliability-engineer-i-germany-austria-uk",
       "source": "weworkremotely",
-      "title": "Senior Graphic Designer",
-      "company": "BBE Marketing Inc",
-      "url": "https://weworkremotely.com/remote-jobs/bbe-marketing-inc-senior-graphic-designer",
-      "description": "Headquarters: Hurst, TX URL: http://bbemarketing.com/ We’re looking for a creative, curious designer who can turn entertainment and sports industry data into compelling social content. You’ll come up with ideas, identify relevant news, create graphics, write captions, and check the information before it’s published. Our audience includes entertainment and sports professionals. We need someone who understands what would make these people stop, read, share, or join the conversation. What You’ll Do Generate original content ideas. Find interesting angles in our data and industry developments, including infographics, comparisons, agency breakdowns, rankings, and recurring series. Bring ideas proactively and experiment with new formats. Create the graphics yourself. Design clear, engaging infog",
+      "title": "Senior Database Reliability Engineer I - Germany/Austria/UK",
+      "company": "Storyblok",
+      "url": "https://weworkremotely.com/remote-jobs/storyblok-senior-database-reliability-engineer-i-germany-austria-uk",
+      "description": "Headquarters: Remote Storyblok is a headless CMS that enables marketers and developers to create with joy and publish with confidence. It empowers you to deliver structured and consistent content everywhere: websites, apps, AI search, and beyond. Legendary brands like Virgin Media O2, Oatly, and TomTom use Storyblok to make a bigger, faster market impact. &nbsp; WHAT IS IN IT FOR YOU You will be joining a growing company where you can contribute to many “firsts”. Plus these benefits: Monthly remote work stipend (home internet costs, electricity). Home office equipment package right at the start (laptop, keyboard, monitor…) Home office equipment upgrade (furniture, ear plugs …) or membership to a local co-working space after your onboarding Sick leave benefit, parental leave and 25 days of ",
       "location": "Anywhere in the World",
       "tags": [
-        "Design",
-        "design"
+        "Product",
+        "product"
       ],
-      "postedAt": "Mon, 28 Sep 2026 11:01:08 +0000",
-      "category": "design"
+      "postedAt": "Wed, 28 Oct 2026 07:31:13 +0000",
+      "category": "product"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/ixdf-interaction-design-foundation-course-writer-and-editor-ux-ui-and-ai-1",
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/carrot-product-design-lead",
       "source": "weworkremotely",
-      "title": "Course Writer and Editor: UX, UI, and AI",
-      "company": "IxDF - Interaction Design Foundation",
-      "url": "https://weworkremotely.com/remote-jobs/ixdf-interaction-design-foundation-course-writer-and-editor-ux-ui-and-ai-1",
-      "description": "Headquarters: Denmark URL: https://ixdf.org/about/careers You're the one people trust with the words, whether you're writing them or fixing them. You noticed that&nbsp; you loved it, and that you were unusually good at it . You turn rough, complex ideas into words people understand. Now you get the opportunity to work with some of the most respected designers alive, and help share their knowledge with hundreds of thousands of learners around the world. A great hook pulls your readers in, makes them see themselves in the topic, and shows them why it matters in their lives. That's your craft. Abstract ideas don't stay abstract for long, because you find the example that makes an idea concrete. You're structured and systematic, yet creative, and you'll rewrite a sentence six times until it sa",
+      "title": "Product Design Lead",
+      "company": "Carrot",
+      "url": "https://weworkremotely.com/remote-jobs/carrot-product-design-lead",
+      "description": "Headquarters: Remote About Carrot: Carrot is the leading global fertility and family care platform, built on intelligent care orchestration: the right clinical guidance, at the right moment, in the context of each member’s life. More than a thousand multinational employers, health plans, and health systems trust Carrot to support millions of members across 195 countries – from pre-pregnancy through menopause and major life moments in between. Carrot's comprehensive clinical program delivers industry-leading cost savings for plan sponsors and award-winning experiences and improved outcomes for millions of people worldwide. Carrot is widely regarded as a defining force in healthcare innovation as a recipient of several top-tier awards, including Fast Company's 'Most Innovative Companies' and",
       "location": "Anywhere in the World",
       "tags": [
-        "Design",
-        "design"
+        "Product",
+        "product"
       ],
-      "postedAt": "Mon, 28 Sep 2026 09:22:59 +0000",
-      "category": "design"
+      "postedAt": "Wed, 28 Oct 2026 07:31:07 +0000",
+      "category": "product"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/ixdf-interaction-design-foundation-education-designer-ux-ui-and-ai-1",
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/collibra-manager-professional-services-federal",
       "source": "weworkremotely",
-      "title": "Education Designer: UX, UI, and AI",
-      "company": "IxDF - Interaction Design Foundation",
-      "url": "https://weworkremotely.com/remote-jobs/ixdf-interaction-design-foundation-education-designer-ux-ui-and-ai-1",
-      "description": "Headquarters: Denmark URL: https://ixdf.org/about/careers You're a designer who has facilitated workshops or built online courses, and you noticed that &nbsp;you loved it and that you were unusually good at it . You know how to make complex skills easy to learn, and how to guide people in applying their new skills. As one of our Education Designers, you'll structure and create the courses and Master Classes you lead. You've taught design or AI to hundreds of people. Now you get the opportunity to&nbsp; teach it to hundreds of thousands&nbsp; of learners around the world. You see the fear around AI, and you understand where it comes from. But you also see the opportunities, and you want to show people how to work with AI in a way that benefits their lives, their users, and the world. The in",
+      "title": "Manager, Professional Services Federal",
+      "company": "Collibra",
+      "url": "https://weworkremotely.com/remote-jobs/collibra-manager-professional-services-federal",
+      "description": "Headquarters: Remote, USA Joining Collibra’s Professional Services Team At Collibra Public Sector (CPS), the Manager, Federal Professional Services is responsible for leading all services roles and functions to ensure the long-term success, adoption, and satisfaction of government clients. The role drives a cohesive customer journey, aligns services delivery with other CPS delivery to mission outcomes, and ensures operational excellence across the entire customer lifecycle. This role safeguards account health, revenue, and customer satisfaction by proactively identifying and mitigating technical risk, coordinating services engagements, and building operational frameworks for GTM clarity and alignment amongst the services teams. Federal Engagement Managers at Collibra Public Sector are resp",
       "location": "Anywhere in the World",
       "tags": [
-        "Design",
-        "design"
+        "Product",
+        "product"
       ],
-      "postedAt": "Mon, 28 Sep 2026 09:18:18 +0000",
-      "category": "design"
+      "postedAt": "Wed, 28 Oct 2026 07:30:57 +0000",
+      "category": "product"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/reddit-engineering-manager-knowledge-graph-platform",
@@ -1696,6 +1636,36 @@
       ],
       "postedAt": "Mon, 28 Sep 2026 14:39:57 +0000",
       "category": "product"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/carrot-sr-data-engineer",
+      "source": "weworkremotely",
+      "title": "Sr. Data Engineer",
+      "company": "Carrot",
+      "url": "https://weworkremotely.com/remote-jobs/carrot-sr-data-engineer",
+      "description": "Headquarters: Remote About Carrot: Carrot is the leading global fertility and family care platform, built on intelligent care orchestration: the right clinical guidance, at the right moment, in the context of each member’s life. More than a thousand multinational employers, health plans, and health systems trust Carrot to support millions of members across 195 countries – from pre-pregnancy through menopause and major life moments in between. Carrot's comprehensive clinical program delivers industry-leading cost savings for plan sponsors and award-winning experiences and improved outcomes for millions of people worldwide. Carrot is widely regarded as a defining force in healthcare innovation as a recipient of several top-tier awards, including Fast Company's 'Most Innovative Companies' and",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Wed, 28 Oct 2026 07:31:13 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/doximity-business-intelligence-analyst-contractor",
+      "source": "weworkremotely",
+      "title": "Business Intelligence Analyst (Contractor)",
+      "company": "Doximity",
+      "url": "https://weworkremotely.com/remote-jobs/doximity-business-intelligence-analyst-contractor",
+      "description": "Headquarters: San Francisco, CA or Remote (U.S.) **This is a contract role expected to last until April 15th, 2027 Location : This role is Remote in the U.S., with the option to work onsite from our San Francisco, CA headquarters. Visa sponsorship is not available for this role.&nbsp; About Doximity Doximity is the leading clinical AI company with the largest network of U.S. clinicians. Doximity’s AI-powered workflow platform is trusted by over 85% of U.S. physicians and 300+ health systems. Doximity's mission is to help clinicians be more productive so they can provide better care for their patients. At Doximity, we value curiosity, ownership, inclusion, and a commitment to making a meaningful impact. If you're excited about solving complex problems that improve healthcare, we'd love to h",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Wed, 28 Oct 2026 07:31:07 +0000",
+      "category": "full-stack"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/stockx-director-category-growth-general-manager",
@@ -2565,36 +2535,6 @@
         "full-stack"
       ],
       "postedAt": "Thu, 08 Oct 2026 07:31:21 +0000",
-      "category": "full-stack"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer",
-      "source": "weworkremotely",
-      "title": "Machine Learning Engineer",
-      "company": "Jumio",
-      "url": "https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer",
-      "description": "Headquarters: Austria (remote) Machine Learning Engineer&nbsp; We’re looking for a Machine Learning Engineer with deep expertise in computer vision and biometrics to lead the design and scaling of face recognition systems in production. You’ll build and train models, and own ML systems end-to-end on AWS. The final job level for this role will be determined following the interview process. What You’ll Do Lead the design and development of computer vision systems for biometrics (face attributes, detection, quality, and recognition) Rigorous fairness analysis and benchmarking of biometric models across various datasets and operating conditions. Architect, train, and optimize models using PyTorch, Tensorflow, and/or JAX Own and evolve end-to-end ML pipelines, from data ingestion to deployment.",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Thu, 08 Oct 2026 07:31:21 +0000",
-      "category": "full-stack"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/abnormal-director-of-security-engineering",
-      "source": "weworkremotely",
-      "title": "Director of Security Engineering",
-      "company": "Abnormal",
-      "url": "https://weworkremotely.com/remote-jobs/abnormal-director-of-security-engineering",
-      "description": "Headquarters: Remote - USA About the Role Abnormal AI protects organizations from the most sophisticated email and collaboration attacks using behavioral AI. Security is not a bolt-on at Abnormal; it is core to the product we sell and the trust our customers place in us. Our security organization operates a commercial cloud environment and a separate FedRAMP-authorized environment, and we are pursuing increasingly rigorous federal authorizations as we grow. We are hiring a Director of Security reporting to the CISO and leading the Security Engineering organization. You will build and scale high-performing security teams, own major security programs end to end, and operate autonomously in the CISO's absence, including representing security to executive leadership, customers, and auditors. T",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Thu, 08 Oct 2026 07:31:00 +0000",
       "category": "full-stack"
     },
     {
