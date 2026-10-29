@@ -1,7 +1,206 @@
 {
-  "generatedAt": "2026-10-29T04:37:36.172Z",
+  "generatedAt": "2026-10-29T12:27:48.489Z",
   "count": 150,
   "data": [
+    {
+      "id": "386173d1-3eaf-4373-9751-5238248ecba2",
+      "title": "Staff Site Reliability Engineer - Dev Platform",
+      "url": "https://remotejobs.org/remote-jobs/staff-site-reliability-engineer-dev-platform-kraken",
+      "apply_url": "https://remotejobs.org/remote-jobs/staff-site-reliability-engineer-dev-platform-kraken",
+      "company": {
+        "name": "Kraken",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/2e444303444376c34e4c6c8259804f680e09c560a9b45196de4a9decd80ffb3a.png",
+        "website": "https://kraken.com",
+        "url": "https://remotejobs.org/companies/kraken"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "Brazil",
+      "location_normalization": {
+        "raw": "Brazil",
+        "input": {
+          "workArrangement": "remote"
+        },
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "BR"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "worksite_countries": [
+          "AR",
+          "BR",
+          "CL",
+          "CO",
+          "MX",
+          "PE"
+        ],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "BR"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": "staff",
+        "role_family": "devops",
+        "required_skills": [],
+        "mentioned_skills": [
+          "kubernetes",
+          "python",
+          "rust",
+          "terraform"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": []
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "e24e55c7-a5dc-40c5-ac58-bd09284ca87e",
+      "direct_apply": null,
+      "description": "<h2><strong>Building the Future of Open Finance</strong><br></h2><p>Payward - the parent company behind Kraken, NinjaTrader, Breakout,  xStocks, Payward Services and CF Benchmarks - has spent the last 15 years building one of the most modern and globally accessible financial infrastructure platforms in the industry, built to advance an open, global financial system.</p><h3><strong>The Team</strong></h3><p>Founded in 2011, Kraken is one of the world's longest-standing crypto platforms, trusted by over 10 million individuals and institutions across the globe. It offers spot trading, margin, futures, staking, and OTC services, with products built for both individual investors and institutional clients.</p><p>The Dev Platform team builds the internal platform that Kraken's engineers use to build, ship and run software. Within Dev Platform, the AI Gateway is Kraken's company-wide LLM gateway: a single, governed entry point that gives teams self-service access to leading models from providers such as Anthropic, OpenAI and Google, with visibility into usage and cost, configurable budgets and rate limits, and routing across models and providers for efficiency and resilience.<br></p><h3><strong>The Opportunity</strong></h3><ul><li><p>Own the reliability, availability and performance of the AI Gateway as a production-critical service used across the company, including SLOs, error budgets and on-call practices</p></li><li><p>Design the gateway's resilience: multi-provider routing, failover, retries, rate limiting and graceful degradation when an upstream model provider is slow or unavailable</p></li><li><p>Set the technical direction for gateway architecture, capacity planning and scaling as LLM traffic grows and more workloads move onto the gateway</p></li><li><p>Build observability for LLM traffic, covering latency, errors, token usage and cost, attributed by team and use case</p></li><li><p>Partner with Security, Finance and AI governance stakeholders to put access controls, budgets, audit logging and data-handling requirements into the platform</p></li><li><p>Lead incident response and blameless post-incident reviews, and turn what you learn into lasting reliability improvements</p></li><li><p>Automate operations through infrastructure as code, safe deployments and progressive rollouts</p></li><li><p>Mentor engineers and raise the operating standard across Dev Platform</p></li></ul><h3>Skills You Should HODL</h3><ul><li><p>Extensive experience in site reliability, infrastructure or platform engineering, with a track record of owning high-traffic, business-critical services in production</p></li><li><p>Deep hands-on experience with Kubernetes, a major cloud provider and infrastructure as code (for example Terraform)</p></li><li><p>Strong command of SLOs, observability and incident management, and the judgment to know which reliability work matters most</p></li><li><p>Proficiency in a language such as Rust or Python, and comfort reading and contributing to a production service's codebase</p></li><li><p>Experience with API gateways, reverse proxies or traffic management: load balancing, rate limiting, failover and caching</p></li><li><p>Experience with Consul and Vault for service discovery, configuration and secrets management</p></li><li><p>Working knowledge of authentication and authorization mechanisms for internal platforms and APIs, such as OAuth 2.0/OIDC, JWT, mTLS and API keys, and how to apply them to a multi-tenant service</p></li><li><p>Experience with model evaluations: building or operating eval pipelines to compare models, prompts and agents, and to catch quality regressions before and after rollout</p></li><li><p>Familiarity with coding agents and agent harnesses (for example OpenHands, Claude Code or similar), including running them safely in sandboxed environments for engineering teams</p></li><li><p>Experience with agent memory systems and the databases behind them (vector stores, search, relational and key-value stores), and operating them reliably</p></li><li><p>Staff-level influence: you set direction across teams, write clear design documents and bring others with you</p></li><li><p>Good judgment balancing reliability, cost and developer velocity for internal customers</p></li></ul><h3><br><strong>Nice to Haves</strong></h3><ul><li><p>Experience operating LLM gateways or integrating LLM provider APIs at scale (streaming, token-based rate limiting, model routing, caching)</p></li><li><p>Experience hosting and serving models yourself, including vLLM, and running distributed inference or training workloads with Ray (GPU scheduling, batching, autoscaling, cost per token)</p></li><li><p>Experience designing, developing and maintaining Kubernetes controllers and operators (for example with controller-runtime or kubebuilder), including CRDs, reconciliation loops and safe upgrades</p></li><li><p>Experience with cost attribution, budgeting or FinOps for usage-based services</p></li><li><p>Background in security-sensitive or regulated environments such as financial services or crypto</p></li><li><p>Contributions to open-source gateway, proxy or observability projects</p></li></ul><p><em>Unless a specific application deadline is stated in the job posting, applications are accepted on an ongoing basis.</em></p><p><em>Please note, applicants are permitted to redact or remove information on their resume that identifies age, date of birth, or dates of attendance at or graduation from an educational institution.</em></p><p><em>We consider qualified applicants with criminal histories for employment on our team, assessing candidates in a manner consistent with the requirements of the San Francisco Fair Chance Ordinance.</em></p><h2><strong>Our commitment</strong></h2><p>Payward is powered by people from around the world and we celebrate the diverse talents, backgrounds, contributions, and unique perspectives that everyone brings to the table. We hire based on merit, seeking out people with the right abilities, knowledge, and skills for the job. We encourage you to apply for roles where you don't fully meet the listed requirements, especially if you're passionate or knowledgeable about crypto.<br></p><p>We may ask candidates to complete job-related skills or work-style assessments as part of our hiring process. These assessments evaluate competencies relevant to the role and are applied consistently across candidates for similar positions. Results are considered alongside experience and interviews, and are not the sole basis for any employment decision.<br></p><p>As an equal opportunity employer, we don't tolerate discrimination or harassment of any kind, whether based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status, or any other protected characteristic as outlined by federal, state, or local laws.</p><p><strong>Stay connected</strong></p><p><a href=\"https://twitter.com/krakenfx\">Follow us on Twitter</a></p><p><a href=\"https://blog.kraken.com/#:~:text=Enter%20your%20email%20address\">Learn on the Kraken Blog</a></p><p><a href=\"https://www.linkedin.com/company/kraken-exchange/\">Connect on LinkedIn</a></p><p><br><a href=\"https://www.kraken.com/legal/candidate-privacy-notice\">Candidate Privacy Notice</a></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/staff-site-reliability-engineer-dev-platform-kraken</p>",
+      "posted_at": "2026-10-28T13:39:24.473+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "56cd4fc8-b8b0-4223-803f-c82f82e1e944",
+      "title": "Senior Software Engineer - Dev Platform",
+      "url": "https://remotejobs.org/remote-jobs/senior-software-engineer-dev-platform-kraken",
+      "apply_url": "https://remotejobs.org/remote-jobs/senior-software-engineer-dev-platform-kraken",
+      "company": {
+        "name": "Kraken",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/2e444303444376c34e4c6c8259804f680e09c560a9b45196de4a9decd80ffb3a.png",
+        "website": "https://kraken.com",
+        "url": "https://remotejobs.org/companies/kraken"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "Brazil",
+      "location_normalization": {
+        "raw": "Brazil",
+        "input": {
+          "workArrangement": "remote"
+        },
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "BR"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "worksite_countries": [
+          "AR",
+          "BR",
+          "CL",
+          "CO",
+          "MX",
+          "PE",
+          "UY"
+        ],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [
+          "BR"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": "senior",
+        "role_family": "software-engineering",
+        "required_skills": [],
+        "mentioned_skills": [
+          "kubernetes",
+          "python",
+          "rust",
+          "typescript"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": []
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "11c70bea-e807-4f35-bde7-7422e639290b",
+      "direct_apply": null,
+      "description": "<h2><strong>Building the Future of Open Finance</strong><br></h2><p>Payward - the parent company behind Kraken, NinjaTrader, Breakout,  xStocks, Payward Services and CF Benchmarks - has spent the last 15 years building one of the most modern and globally accessible financial infrastructure platforms in the industry, built to advance an open, global financial system.</p><h3><strong>The Team</strong></h3><p>Founded in 2011, Kraken is one of the world's longest-standing crypto platforms, trusted by over 10 million individuals and institutions across the globe. It offers spot trading, margin, futures, staking, and OTC services, with products built for both individual investors and institutional clients.</p><p>The Dev Platform team builds the internal platform that Kraken's engineers use to build, ship and run software. Within Dev Platform, the AI Gateway is Kraken's company-wide LLM gateway: a single, governed entry point that gives teams self-service access to leading models from providers such as Anthropic, OpenAI and Google, with visibility into usage and cost, configurable budgets and rate limits, and routing across models and providers for efficiency and resilience.</p><h3><strong>The Opportunity</strong></h3><ul><li><p>Build and extend the AI Gateway: new model and provider integrations, routing policies, budgets, rate limits, and usage and cost reporting</p></li><li><p>Design the APIs, SDKs and self-service tooling that let engineers across Kraken onboard to the gateway quickly and safely</p></li><li><p>Help teams migrate their LLM workloads onto the gateway with minimal disruption</p></li><li><p>Implement access control, key management and audit logging in partnership with Security</p></li><li><p>Instrument the gateway so teams can see latency, errors, token usage and cost for their own workloads</p></li><li><p>Own features end to end, from design through production, and keep the service reliable alongside SRE</p></li><li><p>Support internal users with clear documentation, debugging help and a tight feedback loop that shapes the roadmap</p></li><li><p>Contribute to code review, design documents and engineering practices across Dev Platform</p></li></ul><h3><strong>Skills You Should HODL</strong></h3><ul><li><p>Solid experience as a backend or platform software engineer building and operating APIs and distributed services in production</p></li><li><p>Strong skills in a backend language such as Rust, Python or TypeScript, with a habit of writing well-tested, maintainable code</p></li><li><p>Working knowledge of how LLM APIs behave: authentication, streaming responses, token accounting, rate limits and provider failure modes</p></li><li><p>Experience with observability, CI/CD and containers, and comfort with Kubernetes and a major cloud provider</p></li><li><p>Ability to design clean, well-documented APIs for internal customers and to weigh their feedback</p></li><li><p>Clear written and verbal communication, and the ownership to carry work from idea to production</p></li></ul><h3><strong>Nice to Haves</strong></h3><ul><li><p>Experience with API gateways, proxies or traffic management</p></li><li><p>Experience building LLM-powered systems, including routing, caching, evaluation or cost controls</p></li><li><p>Familiarity with authentication and authorization patterns (OAuth, OIDC, RBAC)</p></li><li><p>Contributions to open-source infrastructure or developer-platform projects</p></li></ul><p><em>Unless a specific application deadline is stated in the job posting, applications are accepted on an ongoing basis.</em></p><p><em>Please note, applicants are permitted to redact or remove information on their resume that identifies age, date of birth, or dates of attendance at or graduation from an educational institution.</em></p><p><em>We consider qualified applicants with criminal histories for employment on our team, assessing candidates in a manner consistent with the requirements of the San Francisco Fair Chance Ordinance.</em></p><h2><strong>Our commitment</strong></h2><p>Payward is powered by people from around the world and we celebrate the diverse talents, backgrounds, contributions, and unique perspectives that everyone brings to the table. We hire based on merit, seeking out people with the right abilities, knowledge, and skills for the job. We encourage you to apply for roles where you don't fully meet the listed requirements, especially if you're passionate or knowledgeable about crypto.<br></p><p>We may ask candidates to complete job-related skills or work-style assessments as part of our hiring process. These assessments evaluate competencies relevant to the role and are applied consistently across candidates for similar positions. Results are considered alongside experience and interviews, and are not the sole basis for any employment decision.<br></p><p>As an equal opportunity employer, we don't tolerate discrimination or harassment of any kind, whether based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status, or any other protected characteristic as outlined by federal, state, or local laws.</p><p><strong>Stay connected</strong></p><p><a href=\"https://twitter.com/krakenfx\">Follow us on Twitter</a></p><p><a href=\"https://blog.kraken.com/#:~:text=Enter%20your%20email%20address\">Learn on the Kraken Blog</a></p><p><a href=\"https://www.linkedin.com/company/kraken-exchange/\">Connect on LinkedIn</a></p><p><br><a href=\"https://www.kraken.com/legal/candidate-privacy-notice\">Candidate Privacy Notice</a></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-software-engineer-dev-platform-kraken</p>",
+      "posted_at": "2026-10-28T13:38:07.431+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
     {
       "id": "80671128-63f5-4b5f-8dc5-fda49b381e1f",
       "title": "Lead PHP Engineer",
@@ -4601,190 +4800,6 @@
       "direct_apply": null,
       "description": "<h2>About Us</h2><p><strong>Distribusion</strong> is the world’s leading ground transportation marketplace and gives travellers seamless access to ground transportation online, from search to ticket purchase. We have built a cutting-edge B2B technology platform that connects bus, rail and ferry operators in 70+ countries with the biggest online retailers including Google Maps and .</p><p>We are shaping the future of travel and building the largest global network of transport providers and retailers. We are one of the fastest growing startups in travel, backed by leading venture capital investors including TQ Ventures, Lightrock, Creandum, and Northzone, and are headquartered in Berlin, Germany. Following our recent $80m Series C funding, we are ready to push beyond.</p><p><strong>The opportunity</strong><br>We are looking for an <strong>Engineering Team Leader.</strong> We deliver projects and features that our Product and Business teams expect to scale business activity with our Carriers and Retailers. By joining us in this role, you will be responsible for managing and leading the team across all people-related matters and engineering delivery and efficiency. You will be part of the Distribusion leadership team and report to our Senior Engineering Manager, eCommerce.</p><p>Our eCommerce division has grown rapidly, now exceeding 50 engineers. To support our scaling goals, we’re looking for a leader who can combine strong technical expertise with people management skills, helping teams perform at their best while maintaining operational excellence.</p><h2>What you will do:</h2><ul>\n<li><p>Manage, lead, and grow Engineering teams (people development, people engagement, hiring, etc.)</p></li>\n<li><p>Take responsibility for the architectural design within the domain</p></li>\n<li><p>Increase the quality and stability of our services</p></li>\n<li><p>Plan resources of the team according to the roadmap quarterly</p></li>\n<li><p>Ensure operational excellence in delivery quality, speed, and communication.</p></li>\n<li><h2>Be responsible for Incident management</h2></li>\n</ul><h2>Workplace:</h2><p> We are a remote-first company with teams located around the Globe.</p><p>Also, the HQ office is in Berlin, where the team often meets.</p><h2>Requirements</h2><h2>Who you are:</h2><ul>\n<li><p>You are an experienced people leader who has managed front-end or fullstack teams, ideally in scaleups or high-growth, high-quality organizations of similar size.</p></li>\n<li><p>You understand and review code in ReactJS and Python, and have experience with cloud technologies.</p></li>\n<li><p>You are a well-rounded engineer, able to address technical issues hands-on, and can guide strong system design and coding practices.</p></li>\n<li><p>You bring deep knowledge of microservice architecture, event-driven approaches, and distributed systems tailored for asynchronous communication.</p></li>\n<li><p>You demonstrate coaching, performance management, and senior stakeholder engagement, including customer-facing experience.</p></li>\n<li><p>You drive projects, inspire teams, and actively develop the technical brand internally and externally.</p></li>\n<li><p>You show ownership, responsibility, and a growth mindset that constantly challenges and guides teams to new standards.</p></li>\n<li><p>You communicate fluently in English, both verbal and written.</p></li>\n</ul><h2>A view into our Tech stack:</h2><ul>\n<li><p><strong>Languages:</strong>, Python, React Native, Ruby</p></li>\n<li><p><strong>Cloud platforms:</strong> Google Cloud, AWS, Azure</p></li>\n<li><p><strong>Database:</strong> Relational databases</p></li>\n<li><p><strong>Messaging and caching:</strong> Kafka, Redis</p></li>\n<li><p><strong>Project management:</strong> Jira</p></li>\n<li><p><strong>Principles:</strong> Software development best practices, distributed microservices architecture</p></li>\n</ul><h2>What you can expect:</h2><ul>\n<li><p>You will join a fast-paced travel tech company and take on a rapidly growing industry.</p></li>\n<li><p>You will take on ownership and responsibility from day one and have a direct impact on the success of the company.</p></li>\n<li><p>We value agility! We’re constantly updating our tech stack and offering the best possible tools to ensure all of our in-house engineers, partners, and carriers benefit from cutting-edge, efficient solutions.</p></li>\n<li><p>You will work with global companies. Our product attracts the biggest names in travel technology, such as , Google Maps, and national carriers like Amtrak, Deutsche Bahn, Renfe, and SNCF.</p></li>\n<li><p>You will join an international team of talented and driven people with a clear mission. Expect your colleagues to inspire, support and challenge you every day.</p></li>\n<li><p>We offer flexible and remote working conditions, relocation opportunities, and career growth in a small and developing company.</p></li>\n</ul><p><strong><em>Our hiring team for this role:</em></strong><em><br>Your Talent Partner (TP) and point of contact is </em><strong><em>Lorena Rebenciuc</em></strong><em>, and the Hiring Manager (HM) is </em><strong><em>Roger Sindreu</em></strong><em>.<br>For any queries, contact your Talent Partner at </em><em>.</em></p><p><em><em>Do you want to work on a product that is used by millions of people daily with a high load, availability and scalability, and most advanced technology? </em>Come join us!</em></p><h2><em>Highlights</em></h2><p><em>We deliver projects and features that our Product and Business teams expect to scale business activity with our Carriers and Retailers. </em></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/engineering-team-lead-b2b-portal-all-genders-distribusion-technologies-gmbh</p>",
       "posted_at": "2026-10-26T12:56:19+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "04a4e0b2-58c7-4499-898a-dca3b699c317",
-      "title": "Lead IT Architect",
-      "url": "https://remotejobs.org/remote-jobs/lead-it-architect-mckesson",
-      "apply_url": "https://remotejobs.org/remote-jobs/lead-it-architect-mckesson",
-      "company": {
-        "name": "McKesson",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/dfee38406c21005c8e7df26aa65dc45f29dbce4d53f5f2f759e15e53e110d36e.jpeg",
-        "website": "https://mckesson.com",
-        "url": "https://remotejobs.org/companies/mckesson"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "United States",
-      "location_normalization": {
-        "raw": "United States",
-        "input": {},
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [],
-        "evidence_ids": [
-          "source-location"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": "lead",
-        "role_family": null,
-        "required_skills": [],
-        "mentioned_skills": [],
-        "preferred_skills": [],
-        "experience_requirements": [
-          {
-            "text": "10+ years of relevant experience",
-            "maximum_years": null,
-            "minimum_years": 10,
-            "classification": "required"
-          },
-          {
-            "text": "10+ years of experience in software engineering, solution architecture, enterprise architecture, or related technology disciplines, including 5+ years in a Lead Architect, Principal Architect, Solution Architect, or equivalent ",
-            "maximum_years": null,
-            "minimum_years": 10,
-            "classification": "mentioned"
-          }
-        ]
-      },
-      "salary_min": 150800,
-      "salary_max": 251300,
-      "salary_text": "USD 150,800–251,300/year",
-      "salary_source_text": "USD 150800 - 251300",
-      "salary_currency": "USD",
-      "salary_period": "year",
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<p>McKesson is an impact-driven, Fortune 10 company that touches virtually every aspect of healthcare. We are known for delivering insights, products, and services that make quality care more accessible and affordable. Here, we focus on the health, happiness, and well-being of you and those we serve – we care.</p>\n<p>What you do at McKesson matters. We foster a culture where you can grow, make an impact, and are empowered to bring new ideas. Together, we thrive as we shape the future of health for patients, our communities, and our people. If you want to be part of tomorrow’s health today, we want to hear from you.</p>\n<h2>Lead IT Architect</h2>\n<h2>Job Summary</h2>\n<p>The Lead IT Architect is responsible for defining and driving technology strategy, architectural direction, AI-enabled engineering transformation, and solution design across a Value Stream and its Agile Release Train (ART). This role owns the architectural runway for the ART, ensuring teams have the technical direction, architecture patterns, technical enablers, architectural context, and future-state designs needed to deliver scalable, secure, resilient, and maintainable solutions.</p>\n<p>Working closely with Engineering, Product Management, Enterprise Architecture, Security, Delivery Leadership, Shared Services organizations, and the CoverMyMeds AI Enablement team, this individual proactively identifies technology opportunities, architectural risks, modernization initiatives, and emerging engineering patterns before they impact delivery.</p>\n<p>The ideal candidate combines deep technical expertise with strong leadership skills, communications skills, and a passion for architectural excellence, agentic engineering, AI-assisted software delivery, enterprise-scale software development, and continuous improvement.</p>\n<h2>Key Responsibilities</h2>\n<h2>Architectural Runway &#x26; Value Stream Leadership</h2>\n<ul>\n<li>Plan the architectural runway for an Agile Release Train (ART), proactively defining solution approaches, technical enablers, architecture patterns, dependencies, and future-state designs that enable teams across the Value Stream to deliver effectively at scale.</li>\n<li>Partner with Product Management, Engineering Leadership, and Enterprise Architecture to ensure upcoming features, epics, and initiatives have a clear architectural path prior to implementation.</li>\n<li>Develop and maintain technology and architecture roadmaps that support Value Stream objectives while balancing scalability, technical debt reduction, reliability, security, compliance, and delivery velocity.</li>\n<li>Identify capability gaps, modernization opportunities, architectural risks, and cross-team dependencies before they become delivery impediments.</li>\n<li>Establish architectural direction across multiple teams and applications, ensuring alignment on technology strategy and implementation approaches.</li>\n<li>Ensure teams are never waiting on architecture guidance, standards, patterns, technical decisions, architecture artifacts, or technical enablers required to execute delivery commitments.</li>\n</ul>\n<h2>AI &#x26; Agentic Engineering Leadership</h2>\n<ul>\n<li>Partner with the CoverMyMeds AI Enablement team to evaluate, adopt, and operationalize AI-assisted software delivery practices across the ART.</li>\n<li>Serve as the primary architecture lead for AI adoption within the Value Stream, driving practical implementation of approved AI capabilities, tools, patterns, and engineering practices.</li>\n<li>Identify opportunities to improve engineering productivity, software quality, documentation, testing, knowledge management, architecture governance, operational support, and delivery effectiveness through AI-enabled workflows and automation.</li>\n<li>Develop adoption roadmaps and implementation plans that accelerate AI-assisted software delivery across engineering teams.</li>\n<li>Partner with Engineering Managers, Technical Leads, and development teams to increase adoption of AI-assisted development practices using platforms such as Microsoft Copilot, Claude, GitHub Copilot, and future enterprise-supported solutions.</li>\n<li>Define and maintain the architectural context, Architecture Decision Records (ADRs), repository standards, architecture artifacts, and knowledge-management practices required to effectively support agentic engineering.</li>\n<li>Drive adoption of architecture-as-code, AI-assisted documentation, automated architecture validation, and agent-enabled engineering workflows.</li>\n<li>Collaborate with the AI Enablement team to evaluate emerging agentic engineering capabilities and determine how they can be safely and effectively operationalized within the Value Stream.</li>\n<li>Serve as a champion for modern engineering practices and help teams evolve how software is designed, built, tested, documented, and supported.</li>\n</ul>\n<h2>Solution Architecture &#x26; Technical Design</h2>\n<ul>\n<li>Lead the design of scalable, secure, resilient, and maintainable enterprise solutions.</li>\n<li>Create detailed architecture artifacts including system context diagrams, solution architecture diagrams, integration diagrams, deployment topologies, sequence diagrams, data flow diagrams, domain models, reference architectures, and implementation-ready design materials.</li>\n<li>Translate business and product objectives into actionable technical designs that can be executed consistently across multiple delivery teams.</li>\n<li>Evaluate architectural alternatives and recommend solutions based on business, operational, compliance, security, and technical tradeoffs.</li>\n<li>Develop implementation-ready architectural guidance that accelerates delivery and reduces ambiguity.</li>\n<li>Establish architecture patterns that promote reuse, consistency, maintainability, and operational excellence across the ART.</li>\n<li>Create current-state and future-state architecture views used to drive portfolio planning and modernization activities.</li>\n</ul>\n<h2>Agile Delivery &#x26; Technical Leadership</h2>\n<ul>\n<li>Actively participate in Agile, Scrum, and SAFe planning and delivery activities, providing architectural guidance throughout the delivery lifecycle.</li>\n<li>Partner with Product Managers, Product Owners, Scrum Masters, Engineering Managers, and Technical Leads to ensure architectural priorities and technical enablers are reflected in team backlogs and delivery plans.</li>\n<li>Guide decomposition of large initiatives into implementable capabilities, features, and architectural enablers aligned with Agile delivery practices.</li>\n<li>Mentor engineers and technical leaders, helping elevate architectural maturity and engineering excellence across the ART.</li>\n<li>Influence technical decision-making and technology adoption across teams without direct managerial authority.</li>\n<li>Foster a culture of architectural thinking, engineering excellence, continuous learning, and innovation.</li>\n</ul>\n<h2>Enterprise Architecture Alignment &#x26; Governance</h2>\n<ul>\n<li>Serve as the primary architecture representative for the ART, preparing, presenting, and defending solution designs, architecture decisions, technology strategies, and exception requests through Architecture Review Board (ARB) governance processes.</li>\n<li>Partner with Enterprise Architecture to operationalize enterprise standards, approved reference architectures, architectural guardrails, and strategic platform direction within the ART.</li>\n<li>Promote and govern adherence to enterprise architecture standards, ensuring solutions align with enterprise technology direction and approved patterns.</li>\n<li>Drive adoption of approved architectural patterns, shared services, platform capabilities, reusable solutions, and strategic technology platforms across teams and applications within the Value Stream.</li>\n<li>Partner effectively with Enterprise Architecture, Security, Platform Engineering, Compliance, Infrastructure, Cloud Operations, Developer Experience, AI Enablement, and other shared service organizations.</li>\n<li>Advocate for Value Stream needs while leveraging enterprise platforms, shared services, and reusable capabilities whenever possible.</li>\n<li>Track and communicate architectural risks, technical debt, modernization opportunities, major technology decisions, and cross-team dependencies.</li>\n<li>Maintain visibility into enterprise and platform dependencies that could impact delivery outcomes across the ART.</li>\n</ul>\n<h2>Architecture Documentation &#x26; Knowledge Management</h2>\n<ul>\n<li>Own the architecture repository for the ART and application portfolio.</li>\n<li>Accountable for maintaining the architectural context, Architecture Decision Records (ADRs), architecture artifacts, and solution documentation for all applications and platforms within the ART.</li>\n<li>Establish and maintain architectural context including system boundaries, integrations, dependencies, data flows, technology selections, technical constraints, and historical decision records.</li>\n<li>Create and maintain current-state and future-state architecture documentation for applications and platforms owned within the Value Stream.</li>\n<li>Maintain architecture diagrams including system context diagrams, integration diagrams, deployment topologies, application interaction diagrams, domain models, sequence diagrams, and solution blueprints.</li>\n<li>Ensure architecture documentation remains current, accurate, discoverable, and accessible to engineers, architects, leadership, and stakeholders.</li>\n<li>Establish documentation standards and review processes that institutionalize architecture knowledge and reduce dependency on individual contributors.</li>\n<li>Maintain architectural knowledge in a manner that enables both engineers and AI-assisted tools to effectively understand and operate within the application portfolio.</li>\n</ul>\n<h2>Security, Compliance &#x26; Operational Excellence</h2>\n<ul>\n<li>Ensure solutions adhere to enterprise security, privacy, audit, regulatory, and compliance requirements.</li>\n<li>Design architectures that support appropriate handling of Protected Health Information (PHI), Personally Identifiable Information (PII), and other sensitive data assets.</li>\n<li>Incorporate requirements associated with HIPAA, HITRUST, SOC, SOX, and related compliance frameworks into architectural designs and technology decisions.</li>\n<li>Partner with Security, Risk, Compliance, and Enterprise Architecture teams to proactively identify and mitigate architectural risks.</li>\n<li>Ensure security, resiliency, observability, and compliance requirements are incorporated into architectural runway planning and solution design activities.</li>\n<li>Promote secure-by-design and compliance-by-design practices throughout the software development lifecycle.</li>\n</ul>\n<h2>Cloud, Platform &#x26; Engineering Excellence</h2>\n<ul>\n<li>Design and implement cloud-native architectures utilizing Azure and modern platform services.</li>\n<li>Promote CoverMyMeds standards for platforms, APIs, integrations, distributed systems, platform services, observability, resiliency, scalability, security, and operational excellence.</li>\n<li>Collaborate with Security, Platform Engineering, Enterprise Architecture, and Operations teams to align solutions with organizational standards.</li>\n<li>Evaluate technology investments and modernization initiatives that improve platform reliability, maintainability, scalability, and engineering effectiveness.</li>\n<li>Guide adoption of engineering platforms and practices leveraging technologies such as Azure, GitHub, Jira, Lucidchart, Microsoft Copilot, Claude, and related engineering productivity tools.</li>\n</ul>\n<h2>Minimum Qualifications</h2>\n<p>Degree or equivalent and typically requires 10+ years of relevant experience. Less years required if has relevant Master’s or Doctorate qualifications.</p>\n<h2>Education:</h2>\n<ul>\n<li>Bachelor's degree in Computer Science, Engineering, Information Technology, or related discipline.</li>\n</ul>\n<h2>Critical Skills:</h2>\n<ul>\n<li><strong>10+ years of experience</strong> in software engineering, solution architecture, enterprise architecture, or related technology disciplines, including <strong>5+ years in a Lead Architect, Principal Architect, Solution Architect, or equivalent technical-leadership role</strong>.</li>\n<li>Demonstrated experience owning architecture across <strong>multiple applications, products, or Agile engineering teams</strong>.</li>\n<li>Experience establishing architectural roadmaps and technical direction within <strong>Agile, Scrum, or SAFe delivery environments</strong>.</li>\n<li>Experience designing enterprise solutions using <strong>Microsoft Azure or a comparable cloud platform</strong>, including cloud-native or distributed architectures, APIs, microservices, event-driven systems, and enterprise integrations.</li>\n<li>Experience with <strong>architecture governance and documentation</strong>, including architecture review processes, architecture decision records, technical diagrams, roadmaps, or implementation-ready architecture artifacts.</li>\n<li>Experience applying <strong>DevOps, CI/CD, Infrastructure as Code, or related modern engineering practices</strong> to enterprise software delivery.</li>\n<li>Experience designing systems subject to <strong>security, privacy, or regulatory requirements</strong>, including experience with healthcare or other regulated data environments.</li>\n<li>Demonstrated experience introducing or supporting <strong>AI-assisted software engineering, engineering-productivity initiatives, or agentic engineering practices</strong>.</li>\n</ul>\n<h2>Preferred Qualifications</h2>\n<ul>\n<li>Experience supporting an <strong>Agile Release Train or Value Stream</strong> within a SAFe environment.</li>\n<li>Experience with Microsoft Azure, GitHub, Jira, Microsoft Copilot, GitHub Copilot, Claude, Lucidchart, or comparable technologies.</li>\n<li>Experience with <strong>architecture-as-code, documentation-as-code, policy-as-code, or automated architecture validation</strong>.</li>\n<li>Experience developing enterprise architecture standards, reusable patterns, governance models, or engineering best practices.</li>\n<li>Experience within <strong>healthcare technology or another highly regulated industry</strong>.</li>\n<li>Relevant architecture, cloud, or Agile certifications such as <strong>TOGAF, SAFe, Scrum, or Microsoft Azure credentials</strong>.</li>\n</ul>\n<h2>What Success Looks Like</h2>\n<ul>\n<li>Establishes and maintains architectural runway ahead of delivery demand.</li>\n<li>Ensures teams are never waiting on architecture decisions, technical guidance, standards, patterns, diagrams, ADRs, technical context, or solution designs to execute.</li>\n<li>Successfully drives adoption of AI-assisted software delivery and agentic engineering practices across the ART in partnership with the CoverMyMeds AI Enablement team.</li>\n<li>Creates reusable architectural context, documentation standards, repository standards, and knowledge assets that improve both engineering productivity and AI effectiveness.</li>\n<li>Maintains comprehensive architecture documentation, ADRs, technical roadmaps, architectural context, and current-state/future-state diagrams across the application portfolio.</li>\n<li>Successfully represents the ART in Architecture Review Board (ARB) reviews and governance processes.</li>\n<li>Effectively partners with Enterprise Architecture, Security, Platform Engineering, Compliance, AI Enablement, and other CoverMyMeds and McKesson shared service organizations to accelerate delivery while maintaining enterprise alignment.</li>\n<li>Identifies and addresses architectural risks before they impact delivery.</li>\n<li>Ensures solutions consistently meet security, compliance, audit, privacy, and regulatory requirements.</li>\n<li>Advances adoption of modern engineering practices, AI-assisted delivery, and platform modernization initiatives.</li>\n<li>Serves as a trusted technical advisor to engineering, product, and technology leadership.</li>\n<li>Raises the overall architectural maturity, technical quality, engineering effectiveness, and delivery outcomes of the Value Stream.</li>\n</ul>\n<p>We are proud to offer a competitive compensation package at McKesson as part of our Total Rewards. This is determined by several factors, including performance, experience and skills, equity, regular job market evaluations, and geographical markets. The pay range shown below is aligned with McKesson's pay philosophy, and pay will always be compliant with any applicable regulations. In addition to base pay, other compensation, such as an annual bonus or long-term incentive opportunities may be offered. For more information regarding benefits at McKesson, please click here.</p>\n<h2>Our Base Pay Range for this position</h2>\n<p>$150,800 - $251,300</p>\n<p>McKesson has become aware of online recruiting-related scams in which individuals who are not affiliated with or authorized by McKesson are using McKesson’s (or affiliated entities, like CoverMyMeds or RxCrossroads) name in fraudulent emails, job postings or social media messages. In light of these scams, please bear the following in mind:<br>\n<br>\nMcKesson Talent Advisors will never solicit money or credit card information in connection with a McKesson job application.</p>\n<p>McKesson Talent Advisors do not communicate with candidates via online chatrooms or using email accounts such as Gmail or Hotmail. Note that McKesson does rely on a virtual assistant (Gia) for certain recruiting-related communications with candidates.</p>\n<p>McKesson job postings are posted on our career site: .</p>\n<h2>McKesson is an Equal Opportunity Employer</h2>\n<p>McKesson provides equal employment opportunities to applicants and employees, without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability, age, genetic information, or any other legally protected category. For additional information on McKesson’s full Equal Employment Opportunity policies, visit our Equal Employment Opportunity page.</p>\n<p>McKesson is committed to being an Equal Employment Opportunity Employer and offers opportunities to all job seekers including job seekers with disabilities. If you need a reasonable accommodation to assist with your job search or application for employment, please contact us by sending an email to (United States) or (Canada) . Resumes or CVs submitted to this email box will not be accepted.</p>\n<h2>Join us at McKesson!</h2>\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/lead-it-architect-mckesson</p>",
-      "posted_at": "2026-10-26T12:56:18+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "5c7d975f-7917-4e7c-b565-219f3a1d6fed",
-      "title": "PTC Windchill Developer",
-      "url": "https://remotejobs.org/remote-jobs/ptc-windchill-developer-bright-vision-technologies",
-      "apply_url": "https://remotejobs.org/remote-jobs/ptc-windchill-developer-bright-vision-technologies",
-      "company": {
-        "name": "Bright Vision Technologies",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/f8d667262351dad5c9be7c05a72cb2b3edb13fa582bdc4af986fe358fc824c54.webp",
-        "website": "https://bright.com",
-        "url": "https://remotejobs.org/companies/bright-vision-technologies"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "United States",
-      "location_normalization": {
-        "raw": "United States",
-        "input": {},
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [],
-        "evidence_ids": [
-          "source-location"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "remote",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": null,
-        "role_family": null,
-        "required_skills": [],
-        "mentioned_skills": [
-          "java",
-          "sql"
-        ],
-        "preferred_skills": [],
-        "experience_requirements": []
-      },
-      "salary_min": 100000,
-      "salary_max": 150000,
-      "salary_text": "USD 100,000–150,000/year",
-      "salary_source_text": "USD 100000 - 150000",
-      "salary_currency": "USD",
-      "salary_period": "year",
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<p><strong>PTC Windchill Developer - Remote</strong><br><br>Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and enterprise solutions across the United States.<br>This is a fantastic opportunity to join an established and well-respected organization offering tremendous career growth potential.<br><br><strong>Job Title:</strong> PTC Windchill Developer<br><strong>Location:</strong> 100% Remote (U.S.)<br><strong>Position Type:</strong> Full-time, Direct W2<br><strong>Salary Range:</strong> $100,000–$150,000 Annually<br><strong>Experience Required:</strong> 12+ years<br><br><strong>Sponsorship:</strong> U.S. Citizens, Green Card Holders, EAD Holders, and H-1B transfer candidates are encouraged to apply. We are unable to sponsor new H-1B visa petitions for this position.<br><br><strong>Job Summary:</strong><br>We are seeking an experienced PTC Windchill Developer to design, develop, and support customizations, integrations, and enhancements on the Windchill PLM platform. In this role you will work closely with PLM functional consultants and engineering stakeholders to translate manufacturing and product-lifecycle requirements into well-engineered Windchill solutions. The ideal candidate will combine strong hands-on Windchill Java customization experience with practical knowledge of Windchill data models, workflows, and integration patterns. In this role you will work closely with cross-functional partners — product, design, engineering, operations, and business stakeholders — to translate ambiguous requirements into well-engineered solutions, and will be expected to raise the bar through code review, design review, and mentorship of more junior engineers. The successful candidate brings strong engineering discipline, a clear communication style, and a track record of shipping meaningful work that holds up well in production.<br><br><strong>Key Responsibilities</strong></p><ul>\n<li>Design and develop Windchill customizations using the Windchill Java API and PTC-recommended customization patterns.</li>\n<li>Build custom listeners, services, and processors that extend Windchill behavior without compromising future upgrade paths.</li>\n<li>Develop and configure Windchill workflows, lifecycle templates, and object initialization rules.</li>\n<li>Implement custom Info*Engine tasks and adapters for system integration, applying disciplined engineering practices and partnering closely with stakeholders to ensure outcomes are durable, well-documented, and aligned with broader team and platform standards.</li>\n<li>Build custom JSP and HTML client-side extensions where required, applying disciplined engineering practices and partnering closely with stakeholders to ensure outcomes are durable, well-documented, and aligned with broader team and platform standards.</li>\n<li>Design and develop Windchill business reports using report templates and Cognos integration.</li>\n<li>Configure and operate Windchill Customizer’s tools, RBINFO files, and OIRs.</li>\n<li>Implement migration scripts for legacy PLM data into Windchill, applying disciplined engineering practices and partnering closely with stakeholders to ensure outcomes are durable, well-documented, and aligned with broader team and platform standards.</li>\n<li>Optimize performance of custom code and database queries, working closely with DBAs.</li>\n<li>Conduct fit-gap analyses and translate business requirements into clean technical designs.</li>\n<li>Adhere strictly to PTC customization best practices to ease future upgrades.</li>\n<li>Provide hypercare and post-go-live support, including issue triage and root-cause analysis.</li>\n<li>Maintain comprehensive, current technical documentation — including architecture diagrams, design decisions, configuration references, runbooks, and operational procedures — so that the system remains supportable, auditable, and easy to onboard new engineers onto over time.</li>\n<li>Mentor and coach junior and mid-level engineers through code review, design review, pair programming, and structured knowledge sharing, helping the broader team grow in technical maturity and confidence over time.</li>\n</ul><p><strong>Required Qualifications</strong></p><ul>\n<li>Bachelor’s degree in Computer Science, Engineering, or a related technical discipline.</li>\n<li>12 or more years of PTC Windchill development experience.</li>\n<li>Strong hands-on experience with the Windchill Java API.</li>\n<li>Solid experience with workflows, lifecycle templates, and object initialization rules.</li>\n<li>Working knowledge of Info*Engine and Windchill integration patterns.</li>\n<li>Hands-on experience with JSP/HTML client customization.</li>\n<li>Strong SQL skills and familiarity with the Windchill data model.</li>\n<li>Experience with Windchill upgrades and migrations.</li>\n<li>Excellent troubleshooting and documentation skills.</li>\n<li>Strong communication and stakeholder management skills.</li>\n</ul><p><strong>Preferred Qualifications</strong></p><ul>\n<li>PTC Windchill certifications.</li>\n<li>Experience with Creo, Arbortext, or related PTC products.</li>\n<li>Exposure to Windchill RV&#x26;S (Integrity) or ThingWorx integration.</li>\n<li>Familiarity with CAD data management workflows.</li>\n<li>Experience operating Windchill on cloud platforms.</li>\n</ul><p><br><strong>How to Apply</strong><br>Would you like to know more about this opportunity? For immediate consideration, please send your resume to  or contact us at (908) 505-3899. Learn more about Bright Vision Technologies at .<br>Bright Vision Technologies is an Equal Opportunity Employer.<br></p><p>Equal Employment Opportunity (EEO) Statement</p><p>Bright Vision Technologies (BV Teck) is committed to equal employment opportunity (EEO) for all employees and applicants without regard to race, color, religion, sex, sexual orientation, gender identity or expression, national origin, age, genetic information, disability, veteran status, or any other protected status as defined by applicable federal, state, or local laws. This commitment extends to all aspects of employment, including recruitment, hiring, training, compensation, promotion, transfer, leaves of absence, termination, layoffs, and recall.</p><p>BV Teck expressly prohibits any form of workplace harassment or discrimination. Any improper interference with employees' ability to perform their job duties may result in disciplinary action up to and including termination of employment.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/ptc-windchill-developer-bright-vision-technologies</p>",
-      "posted_at": "2026-10-26T12:55:41+00:00",
       "is_translated": false,
       "original_language": null
     },

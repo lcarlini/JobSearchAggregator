@@ -1,7 +1,52 @@
 {
-  "generatedAt": "2026-10-29T04:37:39.490Z",
-  "count": 189,
+  "generatedAt": "2026-10-29T12:27:52.345Z",
+  "count": 186,
   "jobs": [
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/typeform-full-stack-developer",
+      "source": "weworkremotely",
+      "title": "Full Stack Developer",
+      "company": "Typeform",
+      "url": "https://weworkremotely.com/remote-jobs/typeform-full-stack-developer",
+      "description": "Headquarters: Germany (Remote) ; Ireland (Remote); Netherlands (Remote) ; Portugal (Remote) ; Spain (Remote) ; United Kingdom (Remote) Who we are Typeform is a refreshingly different form builder. We help over 150,000 businesses collect the data they need with forms, surveys, and quizzes that people enjoy. Designed to look striking and feel effortless to fill out, Typeform drives 500 million responses every year—and integrates with essential tools like Slack, Zapier, and Hubspot. Typeform is fully remote by design. For this role, we can hire candidates based in the UK, Ireland, Germany, Portugal, Spain or The Netherlands About the team Typeform is a leading provider of interactive forms, surveys, and data collection experiences. We help businesses create more engaging ways to collect, mana",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "programming"
+      ],
+      "postedAt": "Sat, 10 Oct 2026 07:31:08 +0000",
+      "category": "programming"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer-iv-computer-vision",
+      "source": "weworkremotely",
+      "title": "Machine Learning Engineer - IV (Computer Vision)",
+      "company": "Jumio",
+      "url": "https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer-iv-computer-vision",
+      "description": "Headquarters: India (remote) Machine Learning Engineer IV – (Computer Vision) We’re looking for a Staff/Senior Machine Learning Engineer with deep expertise in computer vision and biometrics to lead the design and scaling of face recognition systems in production. You’ll build and train models, and own ML systems end-to-end on AWS. The final job level for this role will be determined following the interview process. What You’ll Do Lead the design and development of computer vision systems for biometrics (face attributes, detection, quality, and recognition) Rigorous fairness analysis and benchmarking of biometric models across various datasets and operating conditions. Architect, train, and optimize models using PyTorch, Tensorflow, and/or JAX Own and evolve end-to-end ML pipelines, from d",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "programming"
+      ],
+      "postedAt": "Sat, 10 Oct 2026 07:30:40 +0000",
+      "category": "programming"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-7",
+      "source": "weworkremotely",
+      "title": "Senior React Full-stack Developer",
+      "company": "Lemon.io",
+      "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-7",
+      "description": "Headquarters: New York, NY URL: https://lemon.io Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. We'll manually find the best project for you according to your skills and preferences. Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours. We respect your seniority so you can expe",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "programming"
+      ],
+      "postedAt": "Fri, 09 Oct 2026 13:49:21 +0000",
+      "category": "programming"
+    },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/lemon-io-senior-net-full-stack-developer-2",
       "source": "weworkremotely",
@@ -273,21 +318,6 @@
       "category": "programming"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-card-authorization",
-      "source": "weworkremotely",
-      "title": "Senior Software Engineer, Card Authorization",
-      "company": "Lithic",
-      "url": "https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-card-authorization",
-      "description": "Headquarters: Remote Lithic is the modern card issuing and processing platform empowering ambitious financial companies to build the future of payments. Our infrastructure powers card programs for 100+ innovative clients, from fintechs reimagining credit and digital banking to platforms transforming disbursements and spend management. Companies like Mercury, Flex, and Novo rely on Lithic's developer-friendly APIs, direct network connections, and flawless reconciliation to launch and scale card programs in weeks, not years. We're building a future where access to better financial products materially improves people's lives, free from the constraints of 30-year-old mainframes and legacy processors. We're proud to be backed by world-class investors who share that vision, including Bessemer Ve",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "programming"
-      ],
-      "postedAt": "Wed, 30 Sep 2026 07:31:24 +0000",
-      "category": "programming"
-    },
-    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-3",
       "source": "weworkremotely",
       "title": "Senior Shopify Developer (Remote + Flexible)",
@@ -333,34 +363,34 @@
       "category": "programming"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/discord-engineering-manager-machine-learning-safety",
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-data-engineer",
       "source": "weworkremotely",
-      "title": "Engineering Manager, Machine Learning (Safety)",
-      "company": "Discord",
-      "url": "https://weworkremotely.com/remote-jobs/discord-engineering-manager-machine-learning-safety",
-      "description": "Headquarters: San Francisco Bay Area (or Remote U.S.) Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people to hang out before, during, and after playing games. Discord's Safety ML team builds the machine learning systems that protect 200M+ users. The team's mission is to make Discord a place where people can build genuine friendships without exposure to harm, at a scale where manual review alone can never keep up. We're looking for a highly technical, hands-on, and mission-driven Engineering Manager to lead our Safety ML team. As ",
+      "title": "Principal Data Engineer",
+      "company": "ZoomInfo Technologies LLC",
+      "url": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-data-engineer",
+      "description": "Headquarters: Remote-US ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen fast. &nbsp; We are seeking a highly experienced, hands-on&nbsp; Principal Data Engineer to define and evolve the architecture, engineering standards, and operating model for our enterprise data platform. This role is for a technical leader who excels at complex system design: translating business and analytical needs into scalable, reliable, secure, and maintainable data products. The Principal Data Engineer will lead critical archit",
       "location": "Anywhere in the World",
       "tags": [
-        "Full-Stack Programming",
-        "programming"
+        "DevOps and Sysadmin",
+        "devops"
       ],
-      "postedAt": "Tue, 29 Sep 2026 07:30:41 +0000",
-      "category": "programming"
+      "postedAt": "Thu, 29 Oct 2026 07:30:52 +0000",
+      "category": "devops"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-director-applied-ai",
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/calm-com-software-development-engineer-in-test",
       "source": "weworkremotely",
-      "title": "Director, Applied AI",
-      "company": "ZoomInfo Technologies LLC",
-      "url": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-director-applied-ai",
-      "description": "Headquarters: Bethesda, Maryland, United States; Remote-US-MA; Remote-US-MD; Remote-US-WA; Vancouver, Washington, United States; Waltham, Massachusetts, United States ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen–fast. You'll lead the team that builds the intelligence every ZoomInfo AI agent reasons over — what's true about companies and the people in them, how they relate, and what they're buying. This role owns the B2B data graph strategy end to end, blending classical machine learning and data scienc",
+      "title": "Software Development Engineer in Test",
+      "company": "Calm.com",
+      "url": "https://weworkremotely.com/remote-jobs/calm-com-software-development-engineer-in-test",
+      "description": "Headquarters: Remote, United States About Calm Calm is the leading mental health brand on a mission to make the world happier and healthier. Known for its flagship consumer app—ranked #1 in its category with over 180 million downloads and availability in ten languages across 190 countries—Calm helps people sleep better, stress less, and live more mindfully through content and tools from experts and beloved celebrity voices. Building on this foundation, Calm has created a broader portfolio including evidence-based solutions like Calm Health , offered through employers, health plans and providers, designed to expand access to mental health and sleep support, boost benefits engagement, and drive positive health outcomes. Today, Calm supports more than 3,500 organizations and reaches over 42 m",
       "location": "Anywhere in the World",
       "tags": [
-        "Full-Stack Programming",
-        "programming"
+        "DevOps and Sysadmin",
+        "devops"
       ],
-      "postedAt": "Tue, 29 Sep 2026 07:30:41 +0000",
-      "category": "programming"
+      "postedAt": "Thu, 29 Oct 2026 07:30:52 +0000",
+      "category": "devops"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/upsun-senior-it-systems-engineer",
@@ -768,21 +798,6 @@
       "category": "devops"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-infrastructure-architect-data-platform",
-      "source": "weworkremotely",
-      "title": "Principal Infrastructure Architect: Data Platform",
-      "company": "ZoomInfo Technologies LLC",
-      "url": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-infrastructure-architect-data-platform",
-      "description": "Headquarters: Remote ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen–fast. &nbsp; As a Principal Infrastructure Architect on our Infrastructure Architecture team, you will be the architecture team's partner to ZoomInfo's data engineering organization. Data engineering owns the platforms and the products built on them. You bring the infrastructure patterns, evaluation rigor, and cross-team alignment that help them build and run those platforms well on GCP. This is a cloud architect seat with a data special",
-      "location": "Anywhere in the World",
-      "tags": [
-        "DevOps and Sysadmin",
-        "devops"
-      ],
-      "postedAt": "Tue, 29 Sep 2026 07:30:41 +0000",
-      "category": "devops"
-    },
-    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/trusted-building-technologies-inc-executive-assistant-project-manager",
       "source": "weworkremotely",
       "title": "Executive Assistant / Project Manager",
@@ -1128,6 +1143,51 @@
       "category": "design"
     },
     {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/typeform-senior-ai-engineer-eu",
+      "source": "weworkremotely",
+      "title": "Senior AI Engineer - EU",
+      "company": "Typeform",
+      "url": "https://weworkremotely.com/remote-jobs/typeform-senior-ai-engineer-eu",
+      "description": "Headquarters: Germany (Remote) ; Ireland (Remote); Netherlands (Remote) ; Portugal (Remote) ; Spain (Remote) ; United Kingdom (Remote) Who we are Typeform is a refreshingly different form builder. We help over 150,000 businesses collect the data they need with forms, surveys, and quizzes that people enjoy. Designed to look striking and feel effortless to fill out, Typeform drives 500 million responses every year—and integrates with essential tools like Slack, Zapier, and Hubspot. Typeform is fully remote by design. For this role, we can hire candidates based in the UK, Ireland, Germany, Portugal, Spain or The Netherlands About the team The AI Engineering team builds the systems and capabilities behind Typeform’s AI products, including Research Flow, our platform for combining quantitative ",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Product",
+        "product"
+      ],
+      "postedAt": "Thu, 29 Oct 2026 07:30:52 +0000",
+      "category": "product"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/typeform-senior-ai-engineer-us",
+      "source": "weworkremotely",
+      "title": "Senior AI Engineer - US",
+      "company": "Typeform",
+      "url": "https://weworkremotely.com/remote-jobs/typeform-senior-ai-engineer-us",
+      "description": "Headquarters: United States (Remote) Who we are Typeform is a refreshingly different form builder. We help over 150,000 businesses collect the data they need with forms, surveys, and quizzes that people enjoy. Designed to look striking and feel effortless to fill out, Typeform drives 500 million responses every year—and integrates with essential tools like Slack, Zapier, and Hubspot. Typeform is fully remote by design. For this role, we can hire candidates based in the ET timezone in the US. About the team The AI Engineering team builds the systems and capabilities behind Typeform’s AI products, including Research Flow, our platform for combining quantitative research with deeper qualitative insights. We use machine learning, large language models, RAG, and agentic systems to help customer",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Product",
+        "product"
+      ],
+      "postedAt": "Thu, 29 Oct 2026 07:30:52 +0000",
+      "category": "product"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-applied-ai-engineer-entity-agents",
+      "source": "weworkremotely",
+      "title": "Principal Applied AI Engineer - Entity Agents",
+      "company": "ZoomInfo Technologies LLC",
+      "url": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-applied-ai-engineer-entity-agents",
+      "description": "Headquarters: Remote ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen fast. Senior Applied AI Engineer, Entity Agents ZoomInfo | Product | Core Data About ZoomInfo ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute, you’ll make things happen, fast. Th",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Product",
+        "product"
+      ],
+      "postedAt": "Thu, 29 Oct 2026 07:30:52 +0000",
+      "category": "product"
+    },
+    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/storyblok-senior-database-reliability-engineer-i-germany-austria-uk",
       "source": "weworkremotely",
       "title": "Senior Database Reliability Engineer I - Germany/Austria/UK",
@@ -1278,21 +1338,6 @@
       "category": "product"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/collibra-senior-customer-engineer-collibra-public-sector",
-      "source": "weworkremotely",
-      "title": "Senior Customer Engineer - Collibra Public Sector",
-      "company": "Collibra",
-      "url": "https://weworkremotely.com/remote-jobs/collibra-senior-customer-engineer-collibra-public-sector",
-      "description": "Headquarters: Remote, USA J oining Collibra’s Public Sector team The Federal Customer Engineer (CE) serves as the guiding force behind bringing Collibra Public Sector's (CPS) product and vision to customers and prospects. Senior Customer Engineers&nbsp; are responsible for both net-new and expansion opportunities in existing accounts. They establish knowledgeable and trusted relationships from day one and serve as thoughtful technical advisors. The CE maintains a technical relationship with customers throughout the entire customer journey, both pre- and post-sale. You will fill an essential and highly respected role in the sales organization at CPS. As a Federal Customer Engineer at Collibra Public Sector, you will support our nation’s most critical agencies in achieving Data Sovereignty a",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Product",
-        "product"
-      ],
-      "postedAt": "Tue, 20 Oct 2026 07:31:00 +0000",
-      "category": "product"
-    },
-    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/clover-health-data-analyst-clinical-data-effectiveness",
       "source": "weworkremotely",
       "title": "Data Analyst, Clinical Data Effectiveness",
@@ -1365,21 +1410,6 @@
         "product"
       ],
       "postedAt": "Fri, 16 Oct 2026 07:30:50 +0000",
-      "category": "product"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/fivetran-enterprise-sales-director",
-      "source": "weworkremotely",
-      "title": "Enterprise Sales Director",
-      "company": "Fivetran",
-      "url": "https://weworkremotely.com/remote-jobs/fivetran-enterprise-sales-director",
-      "description": "Headquarters: Remote, Massachusetts, United States, AMER From Fivetran’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to query, with no engineering or maintenance required. We’re proud that more organizations continue to leverage our technology every day to become truly data-driven. About Us Fivetran and dbt Labs are bringing together two industry-leading companies with a shared mission: helping organizations unlock the full value of their data. Together, we’re delivering the data infrastructure layer that helps organizations move, transform, and trust their data — from the moment data moves, through every transformation, to the context teams",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Product",
-        "product"
-      ],
-      "postedAt": "Fri, 16 Oct 2026 07:30:46 +0000",
       "category": "product"
     },
     {
@@ -1593,6 +1623,21 @@
       "category": "product"
     },
     {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/salesloft-hr-enablement-lead",
+      "source": "weworkremotely",
+      "title": "HR Enablement Lead",
+      "company": "Salesloft",
+      "url": "https://weworkremotely.com/remote-jobs/salesloft-hr-enablement-lead",
+      "description": "Headquarters: United States, Remote Job Title: HR Enablement Lead Job Location: United States, Remote&nbsp; This is a fully remote opportunity and can be worked from any location in the United States. ABOUT THE COMPANY: Salesloft is building the next era of enterprise revenue — one where teams make confident decisions powered by AI and real signals. By combining our scale, insights, and AI innovation, we're building the industry's first Predictive Revenue System, enabling humans and AI to work together to make smarter decisions and drive consistent growth. With thousands of customers using our platforms every day, we have an unmatched view into how revenue is actually won — the Revenue Context that reveals what happens, when, and with what outcome. This gives us a unique opportunity to tra",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Thu, 29 Oct 2026 07:30:57 +0000",
+      "category": "full-stack"
+    },
+    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/carrot-sr-data-engineer",
       "source": "weworkremotely",
       "title": "Sr. Data Engineer",
@@ -1698,21 +1743,6 @@
       "category": "full-stack"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/tebra-senior-software-engineer",
-      "source": "weworkremotely",
-      "title": "Senior Software Engineer",
-      "company": "Tebra",
-      "url": "https://weworkremotely.com/remote-jobs/tebra-senior-software-engineer",
-      "description": "Headquarters: United States - Remote Tebra only initiates contact with candidates via email from an official Tebra email address (@ tebra.com , @ patientpop.com , or @ kareo.com ) or through our applicant tracking system, Greenhouse.&nbsp;We will only ask you to provide sensitive personal information through our official application portal — not via social media or text message. We do not conduct interviews via instant messaging. Position: Senior Software Engineer Location: Corona Del Mar, CA Responsibilities: Analyze information to determine, recommend, and provide innovative solutions to complex business problems related to existing system. Owner and subject matter expert for Large Software Systems and business initiatives. Lead Software Engineering Design Reviews to determine feasibilit",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Sun, 25 Oct 2026 07:30:48 +0000",
-      "category": "full-stack"
-    },
-    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/stockx-category-manager-trading-cards",
       "source": "weworkremotely",
       "title": "Category Manager - Trading Cards",
@@ -1755,21 +1785,6 @@
         "full-stack"
       ],
       "postedAt": "Sat, 24 Oct 2026 07:31:03 +0000",
-      "category": "full-stack"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/beyondtrust-associate-data-engineer",
-      "source": "weworkremotely",
-      "title": "Associate Data Engineer",
-      "company": "BeyondTrust",
-      "url": "https://weworkremotely.com/remote-jobs/beyondtrust-associate-data-engineer",
-      "description": "Headquarters: Remote United States BeyondTrust is a place where you can bring your purpose to life through the work that you do, creating a safer world through our cybersecurity SaaS portfolio. Our culture of flexibility, trust, and continual learning means you will be recognized for your growth, and for the impact you make on our success. You will be surrounded by people who challenge, support, and inspire you to be the best version of yourself. The Role As an Associate Data Engineer at BeyondTrust, you will contribute to building and enhancing our data lake which currently consumes billions of events each day. You will&nbsp; leverage &nbsp; state-of-the-art &nbsp;data engineering tools to help develop cost-effective cloud solutions that enable next-level cybersecurity research. You will&",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Sat, 24 Oct 2026 07:30:50 +0000",
       "category": "full-stack"
     },
     {
@@ -2418,51 +2433,6 @@
       "category": "full-stack"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/typeform-full-stack-developer",
-      "source": "weworkremotely",
-      "title": "Full Stack Developer",
-      "company": "Typeform",
-      "url": "https://weworkremotely.com/remote-jobs/typeform-full-stack-developer",
-      "description": "Headquarters: Germany (Remote) ; Ireland (Remote); Netherlands (Remote) ; Portugal (Remote) ; Spain (Remote) ; United Kingdom (Remote) Who we are Typeform is a refreshingly different form builder. We help over 150,000 businesses collect the data they need with forms, surveys, and quizzes that people enjoy. Designed to look striking and feel effortless to fill out, Typeform drives 500 million responses every year—and integrates with essential tools like Slack, Zapier, and Hubspot. Typeform is fully remote by design. For this role, we can hire candidates based in the UK, Ireland, Germany, Portugal, Spain or The Netherlands About the team Typeform is a leading provider of interactive forms, surveys, and data collection experiences. We help businesses create more engaging ways to collect, mana",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Sat, 10 Oct 2026 07:31:08 +0000",
-      "category": "full-stack"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer-iv-computer-vision",
-      "source": "weworkremotely",
-      "title": "Machine Learning Engineer - IV (Computer Vision)",
-      "company": "Jumio",
-      "url": "https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer-iv-computer-vision",
-      "description": "Headquarters: India (remote) Machine Learning Engineer IV – (Computer Vision) We’re looking for a Staff/Senior Machine Learning Engineer with deep expertise in computer vision and biometrics to lead the design and scaling of face recognition systems in production. You’ll build and train models, and own ML systems end-to-end on AWS. The final job level for this role will be determined following the interview process. What You’ll Do Lead the design and development of computer vision systems for biometrics (face attributes, detection, quality, and recognition) Rigorous fairness analysis and benchmarking of biometric models across various datasets and operating conditions. Architect, train, and optimize models using PyTorch, Tensorflow, and/or JAX Own and evolve end-to-end ML pipelines, from d",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Sat, 10 Oct 2026 07:30:40 +0000",
-      "category": "full-stack"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-7",
-      "source": "weworkremotely",
-      "title": "Senior React Full-stack Developer",
-      "company": "Lemon.io",
-      "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-7",
-      "description": "Headquarters: New York, NY URL: https://lemon.io Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. We'll manually find the best project for you according to your skills and preferences. Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours. We respect your seniority so you can expe",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Fri, 09 Oct 2026 13:49:21 +0000",
-      "category": "full-stack"
-    },
-    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/sticker-mule-si-agent-engineer",
       "source": "weworkremotely",
       "title": "SI agent engineer",
@@ -2595,21 +2565,6 @@
         "management"
       ],
       "postedAt": "Thu, 22 Oct 2026 07:31:09 +0000",
-      "category": "management"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/storyblok-marketing-automation-manager-canada-spain-india",
-      "source": "weworkremotely",
-      "title": "Marketing Automation Manager - Canada, Spain, India",
-      "company": "Storyblok",
-      "url": "https://weworkremotely.com/remote-jobs/storyblok-marketing-automation-manager-canada-spain-india",
-      "description": "Headquarters: Remote Storyblok is a headless CMS that enables marketers and developers to create with joy and publish with confidence. It empowers you to deliver structured and consistent content everywhere: websites, apps, AI search, and beyond. Legendary brands like Virgin Media O2, Oatly, and TomTom use Storyblok to make a bigger, faster market impact. &nbsp; WHAT IS IN IT FOR YOU You will be joining a growing company where you can contribute to many “firsts”. Plus these benefits: Monthly remote work stipend (home internet costs, electricity). Home office equipment package right at the start (laptop, keyboard, monitor…) Home office equipment upgrade (furniture, ear plugs …) or membership to a local co-working space after your onboarding Sick leave benefit, parental leave and 25 days of ",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Management and Finance",
-        "management"
-      ],
-      "postedAt": "Thu, 22 Oct 2026 07:31:08 +0000",
       "category": "management"
     },
     {
