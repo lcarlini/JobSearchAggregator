@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T22:17:57.600Z",
+  "generatedAt": "2026-10-29T04:37:36.172Z",
   "count": 150,
   "data": [
     {
@@ -680,6 +680,438 @@
       "posted_at": "2026-10-28T10:26:14+00:00",
       "is_translated": true,
       "original_language": "ru"
+    },
+    {
+      "id": "4fbb97c6-288c-421c-a48f-5f322a6213b9",
+      "title": "Senior Backend Engineer - Asset Sales",
+      "url": "https://remotejobs.org/remote-jobs/senior-backend-engineer-asset-sales-m-kopa-9b44fe725ad24abfb764df1210cda4de",
+      "apply_url": "https://remotejobs.org/remote-jobs/senior-backend-engineer-asset-sales-m-kopa-9b44fe725ad24abfb764df1210cda4de",
+      "company": {
+        "name": "M-KOPA",
+        "logo_url": null,
+        "website": "https://m-kopa.com",
+        "url": "https://remotejobs.org/companies/mkopa"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "Nairobi",
+      "location_normalization": {
+        "raw": "Nairobi",
+        "input": {
+          "workArrangement": "remote"
+        },
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [
+          "nairobi"
+        ],
+        "work_arrangement": "remote",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "worksite_countries": [
+          "GH",
+          "KE",
+          "NG",
+          "UG",
+          "ZA"
+        ],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [
+          {
+            "kind": "timezone",
+            "areas": [],
+            "effect": "require",
+            "details": "Collaborating during core GMT working hours",
+            "regions": [],
+            "timezones": [],
+            "evidence_id": "c2",
+            "conditional_on": null
+          }
+        ],
+        "unresolved": [
+          "Core GMT working-hour collaboration requirement is a vague time-overlap condition with no IANA timezone or defined hours, so it cannot be fully represented."
+        ],
+        "evidence_ids": [
+          "c2"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": "senior",
+        "role_family": "software-engineering",
+        "required_skills": [],
+        "mentioned_skills": [
+          "csharp",
+          "dotnet",
+          "kubernetes"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": []
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "1edd2187-b684-439b-82da-adbdea1ce2be",
+      "direct_apply": null,
+      "description": "<p><strong>Join our expanding engineering team!</strong></p>\n<p>We're hiring a permanent Senior Backend Engineer to join our Asset Sales group as we scale one of the most important parts of M-KOPA's FinTech platform. Build distributed, event-driven microservices and help shape what AI-native engineering looks like at M-KOPA.</p>\n<p><strong>The Impact 💚</strong></p>\n<p>Your code will directly power the systems that put smartphones and e-motorbikes into the hands of Every Day Earners across Africa. We've already helped over 10 million customers access more than $2 billion in credit. It's your chance to be part of something that's literally transforming lives across an entire continent 🌍</p>\n<p><strong>The Opportunity</strong></p>\n<p>🎯 <strong>Mission-driven engineering</strong>: Every service you build helps expand financial inclusion for under-banked populations</p>\n<p>🏆 <strong>Global recognition</strong>: Join a company named by the Financial Times as one of Africa's fastest-growing companies for five consecutive years (2022–2026)</p>\n<p>🚀 <strong>Scale challenges</strong>: Build backend systems serving millions across multiple African markets</p>\n<p>🤖 <strong>AI-native from day one</strong>: We're actively embracing AI as part of the engineering craft, not bolting it on</p>\n<p>🌍 <strong>Fully distributed</strong>: Work remotely with diverse teams across UK, Europe, and Africa</p>\n<p><strong>What You'll Do</strong></p>\n<p>At M-KOPA, you'll build and operate distributed C# and .NET microservices on Azure, working within an event-driven architecture at significant scale. This is an outcomes-driven role: we care far more about the value you create than where you sit or how many hours you're online. You'll own what you build end-to-end — from idea, through implementation and deployment, into production and iteration.</p>\n<p><strong>Technical Environment 💻</strong></p>\n<ul>\n<li>\n<p><strong>Modern C# stack</strong>: Distributed C# and .NET microservices</p>\n</li>\n<li>\n<p><strong>Cloud &#x26; orchestration</strong>: Hosted on Azure using Kubernetes</p>\n</li>\n<li>\n<p><strong>Architecture</strong>: Event-driven, supporting products used at significant scale</p>\n</li>\n<li>\n<p><strong>Observability</strong>: Grafana, Azure Application Insights, logs, traces, and metrics</p>\n</li>\n<li>\n<p><strong>AI tooling</strong>: Claude and other AI tools used throughout the engineering workflow — design exploration, code generation and review, test writing, incident investigation, and technical communication</p>\n</li>\n</ul>\n<p><strong>Our Engineering Approach 🚀</strong></p>\n<ul>\n<li>\n<p><strong>AI-native engineering</strong>: We want engineers who tinker — experimenting with new tools, agents, and workflows, and sharing what works</p>\n</li>\n<li>\n<p><strong>Guardrails as we accelerate</strong>: Automated tests, SLOs, alerting, observability, and deployment safeguards around everything we ship</p>\n</li>\n<li>\n<p><strong>Own it beyond the pull request</strong>: Design for idempotency, retries, out-of-order events, and failure modes, and know how your services behave in production</p>\n</li>\n<li>\n<p><strong>The Campfire Rule</strong>: Leave the systems you touch a little better than you found them</p>\n</li>\n<li>\n<p><strong>On-call as feedback, not heroics</strong>: Engineers who build our systems also help operate them, using incidents to make the platform more resilient</p>\n</li>\n</ul>\n<p><strong>What You Need</strong></p>\n<p>We're looking for a senior engineer who's curious, autonomous, and highly trusted. You're comfortable owning the entire software stack — including supporting infrastructure — throughout its lifecycle, and you see production data, not just deployment, as the real measure of \"done.\"</p>\n<p><strong>Required Experience:</strong></p>\n<ul>\n<li>\n<p>Strong grasp of C# and .NET development</p>\n</li>\n<li>\n<p>Experience with event-driven systems - We use Azure Service Bus, but would love to hear from you if you have experience with similar messaging technology (Kafka, RabbitMQ, etc.)</p>\n</li>\n<li>\n<p>Microservices architecture experience, ideally on Azure and Kubernetes</p>\n</li>\n<li>\n<p>Experience using observability tooling (e.g. Grafana, Application Insights) to understand production behaviour</p>\n</li>\n<li>\n<p>Comfort using AI tools as part of a daily engineering workflow (design, code review, testing, incident investigation)</p>\n</li>\n<li>\n<p>DevOps culture mindset, including on-call/production ownership</p>\n</li>\n<li>\n<p>Proven ability to collaborate effectively in distributed teams across time zones</p>\n</li>\n<li>\n<p>Continuous learning mindset and openness to feedback</p>\n</li>\n</ul>\n<p><strong>Location &#x26; Benefits</strong></p>\n<ul>\n<li>\n<p>Fully remote role, collaborating during core GMT working hours</p>\n</li>\n<li>\n<p>Benefits package, which includes Bonus, Growth Shares &#x26; On-Call Allowance</p>\n</li>\n<li>\n<p>Work with diverse teams distributed across UK, Europe, and Africa</p>\n</li>\n<li>\n<p>Personalised training budget to support your development</p>\n</li>\n<li>\n<p>Home office setup budget</p>\n</li>\n<li>\n<p>Professional development programs and coaching partnerships</p>\n</li>\n<li>\n<p>Family-friendly policies and flexible working arrangements</p>\n</li>\n<li>\n<p>Well-being support and career growth opportunities</p>\n</li>\n</ul>\n<p><strong>Our Mission 🌍</strong></p>\n<p>We create financial inclusion for the traditionally excluded through a fair, flexible, customer-centric financing model. We strive to drive greater inclusion of women, youth, and low-income communities.</p>\n<p><strong>Our Impact 💚</strong></p>\n<p>Our technology has created measurable change:</p>\n<ul>\n<li>\n<p><strong>Connected 📱</strong>: 2.5 million first-time smartphone users connected</p>\n</li>\n<li>\n<p><strong>Prosperous 💰</strong>: 70% of customers use M-KOPA products for income generation, with 35,000 livelihoods created for agents</p>\n</li>\n<li>\n<p><strong>Green 🌱</strong>: 2.155 million tonnes of CO₂ avoided since 2010 through clean energy, refurbished devices, and e-mobility</p>\n</li>\n</ul>\n<p><strong>Ready to build C#/.NET systems — with AI as part of your craft — that create real-world financial inclusion? Apply Now!</strong></p>\n<h2><strong>Why M-KOPA?</strong></h2>\n<p>At M-KOPA, we empower our people to own their careers through diverse development programs, coaching partnerships, and on-the-job training. We support individual journeys with family-friendly policies, prioritize well-being, and embrace flexibility.</p>\n<p>Join us in shaping the future of M-KOPA as we grow together. Explore more at <a href=\"http://m-kopa.com\"><strong>m-kopa.com</strong></a>.</p>\n<p><em>Recognized four times by the Financial Times as one Africa's fastest growing companies (2022, 2023, 2024, 2025 and 2026), named on CNBC's World’s Top Fintech Companies 2025 &#x26; 2026 and by TIME100 Most influential companies in the world 2023 and 2024 , we've served over 10 million customers, unlocking $2 billion in cumulative credit for the everyday earners across Africa, in addition to over 10,000 e-bikes financed in Kenya.</em></p>\n<p><em><strong>Important Notice</strong></em><br>\n<br>\n<em>M-KOPA is an equal opportunity and affirmative action employer committed to assembling a diverse, broadly trained staff. Women, minorities, and people with disabilities are strongly encouraged to apply.</em></p>\n<p><em>M-KOPA explicitly prohibits the use of Forced or Child Labour and respects the rights of its employees to agree to terms and conditions of employment voluntarily, without coercion, and freely terminate their employment on appropriate notice. M-KOPA shall ensure that its Employees are of legal working age and shall comply with local laws for youth employment or student work, such as internships or apprenticeships. </em></p>\n<p><em>M-KOPA does not collect/charge any money as a pre-employment or post-employment requirement. This means that we never ask for ‘recruitment fees’, ‘processing fees’, ‘interview fees’, or any other kind of money in exchange for offer letters or interviews at any time during the hiring process.</em></p>\n<p><em>Applications for this position will be reviewed on a rolling basis. Shortlisting and interviews will take place at any stage during the recruitment process. We reserve the right to close the vacancy early if a suitable candidate is selected before the advertised closing date.</em></p>\n<p><em>If your application is successful M-KOPA undertakes pre-employment background checks as part of its recruitment process, these include; criminal records, identification verification, academic qualifications, employment dates and employer references.</em></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-backend-engineer-asset-sales-m-kopa-9b44fe725ad24abfb764df1210cda4de</p>",
+      "posted_at": "2026-10-27T15:39:24.101+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "1594195d-8149-48f4-aae1-36f2a373864d",
+      "title": "Senior Backend Engineer - Asset Sales",
+      "url": "https://remotejobs.org/remote-jobs/senior-backend-engineer-asset-sales-m-kopa",
+      "apply_url": "https://remotejobs.org/remote-jobs/senior-backend-engineer-asset-sales-m-kopa",
+      "company": {
+        "name": "M-KOPA",
+        "logo_url": null,
+        "website": "https://m-kopa.com",
+        "url": "https://remotejobs.org/companies/mkopa"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "London",
+      "location_normalization": {
+        "raw": "London",
+        "input": {
+          "workArrangement": "remote"
+        },
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [
+          "london"
+        ],
+        "work_arrangement": "remote",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "worksite_countries": [
+          "ES",
+          "GB",
+          "IE",
+          "PT"
+        ],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [
+          {
+            "kind": "timezone",
+            "areas": [],
+            "effect": "context",
+            "details": "Collaborating during core GMT working hours.",
+            "regions": [],
+            "timezones": [],
+            "evidence_id": "c2",
+            "conditional_on": null
+          }
+        ],
+        "unresolved": [],
+        "evidence_ids": [
+          "c2"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": "senior",
+        "role_family": "software-engineering",
+        "required_skills": [],
+        "mentioned_skills": [
+          "csharp",
+          "dotnet",
+          "kubernetes"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": []
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "ad6a2450-4f26-4399-8432-b6888b4eeb2c",
+      "direct_apply": null,
+      "description": "<p><strong>Join our expanding engineering team!</strong></p>\n<p>We're hiring a permanent Senior Backend Engineer to join our Asset Sales group as we scale one of the most important parts of M-KOPA's FinTech platform. Build distributed, event-driven microservices and help shape what AI-native engineering looks like at M-KOPA.</p>\n<p><strong>The Impact 💚</strong></p>\n<p>Your code will directly power the systems that put smartphones and e-motorbikes into the hands of Every Day Earners across Africa. We've already helped over 10 million customers access more than $2 billion in credit. It's your chance to be part of something that's literally transforming lives across an entire continent 🌍</p>\n<p><strong>The Opportunity</strong></p>\n<p>🎯 <strong>Mission-driven engineering</strong>: Every service you build helps expand financial inclusion for under-banked populations</p>\n<p>🏆 <strong>Global recognition</strong>: Join a company named by the Financial Times as one of Africa's fastest-growing companies for five consecutive years (2022–2026)</p>\n<p>🚀 <strong>Scale challenges</strong>: Build backend systems serving millions across multiple African markets</p>\n<p>🤖 <strong>AI-native from day one</strong>: We're actively embracing AI as part of the engineering craft, not bolting it on</p>\n<p>🌍 <strong>Fully distributed</strong>: Work remotely with diverse teams across UK, Europe, and Africa</p>\n<p><strong>What You'll Do</strong></p>\n<p>At M-KOPA, you'll build and operate distributed C# and .NET microservices on Azure, working within an event-driven architecture at significant scale. This is an outcomes-driven role: we care far more about the value you create than where you sit or how many hours you're online. You'll own what you build end-to-end — from idea, through implementation and deployment, into production and iteration.</p>\n<p><strong>Technical Environment 💻</strong></p>\n<ul>\n<li>\n<p><strong>Modern C# stack</strong>: Distributed C# and .NET microservices</p>\n</li>\n<li>\n<p><strong>Cloud &#x26; orchestration</strong>: Hosted on Azure using Kubernetes</p>\n</li>\n<li>\n<p><strong>Architecture</strong>: Event-driven, supporting products used at significant scale</p>\n</li>\n<li>\n<p><strong>Observability</strong>: Grafana, Azure Application Insights, logs, traces, and metrics</p>\n</li>\n<li>\n<p><strong>AI tooling</strong>: Claude and other AI tools used throughout the engineering workflow — design exploration, code generation and review, test writing, incident investigation, and technical communication</p>\n</li>\n</ul>\n<p><strong>Our Engineering Approach 🚀</strong></p>\n<ul>\n<li>\n<p><strong>AI-native engineering</strong>: We want engineers who tinker — experimenting with new tools, agents, and workflows, and sharing what works</p>\n</li>\n<li>\n<p><strong>Guardrails as we accelerate</strong>: Automated tests, SLOs, alerting, observability, and deployment safeguards around everything we ship</p>\n</li>\n<li>\n<p><strong>Own it beyond the pull request</strong>: Design for idempotency, retries, out-of-order events, and failure modes, and know how your services behave in production</p>\n</li>\n<li>\n<p><strong>The Campfire Rule</strong>: Leave the systems you touch a little better than you found them</p>\n</li>\n<li>\n<p><strong>On-call as feedback, not heroics</strong>: Engineers who build our systems also help operate them, using incidents to make the platform more resilient</p>\n</li>\n</ul>\n<p><strong>What You Need</strong></p>\n<p>We're looking for a senior engineer who's curious, autonomous, and highly trusted. You're comfortable owning the entire software stack — including supporting infrastructure — throughout its lifecycle, and you see production data, not just deployment, as the real measure of \"done.\"</p>\n<p><strong>Required Experience:</strong></p>\n<ul>\n<li>\n<p>Strong grasp of C# and .NET development</p>\n</li>\n<li>\n<p>Experience with event-driven systems - We use Azure Service Bus, but would love to hear from you if you have experience with similar messaging technology (Kafka, RabbitMQ, etc.)</p>\n</li>\n<li>\n<p>Microservices architecture experience, ideally on Azure and Kubernetes</p>\n</li>\n<li>\n<p>Experience using observability tooling (e.g. Grafana, Application Insights) to understand production behaviour</p>\n</li>\n<li>\n<p>Comfort using AI tools as part of a daily engineering workflow (design, code review, testing, incident investigation)</p>\n</li>\n<li>\n<p>DevOps culture mindset, including on-call/production ownership</p>\n</li>\n<li>\n<p>Proven ability to collaborate effectively in distributed teams across time zones</p>\n</li>\n<li>\n<p>Continuous learning mindset and openness to feedback</p>\n</li>\n</ul>\n<p><strong>Location &#x26; Benefits</strong></p>\n<ul>\n<li>\n<p>Fully remote role, collaborating during core GMT working hours</p>\n</li>\n<li>\n<p>Benefits package, which includes Bonus, Growth Shares &#x26; On-Call Allowance</p>\n</li>\n<li>\n<p>Work with diverse teams distributed across UK, Europe, and Africa</p>\n</li>\n<li>\n<p>Personalised training budget to support your development</p>\n</li>\n<li>\n<p>Home office setup budget</p>\n</li>\n<li>\n<p>Professional development programs and coaching partnerships</p>\n</li>\n<li>\n<p>Family-friendly policies and flexible working arrangements</p>\n</li>\n<li>\n<p>Well-being support and career growth opportunities</p>\n</li>\n</ul>\n<p><strong>Our Mission 🌍</strong></p>\n<p>We create financial inclusion for the traditionally excluded through a fair, flexible, customer-centric financing model. We strive to drive greater inclusion of women, youth, and low-income communities.</p>\n<p><strong>Our Impact 💚</strong></p>\n<p>Our technology has created measurable change:</p>\n<ul>\n<li>\n<p><strong>Connected 📱</strong>: 2.5 million first-time smartphone users connected</p>\n</li>\n<li>\n<p><strong>Prosperous 💰</strong>: 70% of customers use M-KOPA products for income generation, with 35,000 livelihoods created for agents</p>\n</li>\n<li>\n<p><strong>Green 🌱</strong>: 2.155 million tonnes of CO₂ avoided since 2010 through clean energy, refurbished devices, and e-mobility</p>\n</li>\n</ul>\n<p><strong>Ready to build C#/.NET systems — with AI as part of your craft — that create real-world financial inclusion? Apply Now!</strong></p>\n<h2><strong>Why M-KOPA?</strong></h2>\n<p>At M-KOPA, we empower our people to own their careers through diverse development programs, coaching partnerships, and on-the-job training. We support individual journeys with family-friendly policies, prioritize well-being, and embrace flexibility.</p>\n<p>Join us in shaping the future of M-KOPA as we grow together. Explore more at <a href=\"http://m-kopa.com\"><strong>m-kopa.com</strong></a>.</p>\n<p><em>Recognized four times by the Financial Times as one Africa's fastest growing companies (2022, 2023, 2024, 2025 and 2026), named on CNBC's World’s Top Fintech Companies 2025 &#x26; 2026 and by TIME100 Most influential companies in the world 2023 and 2024 , we've served over 10 million customers, unlocking $2 billion in cumulative credit for the everyday earners across Africa, in addition to over 10,000 e-bikes financed in Kenya.</em></p>\n<p><em><strong>Important Notice</strong></em><br>\n<br>\n<em>M-KOPA is an equal opportunity and affirmative action employer committed to assembling a diverse, broadly trained staff. Women, minorities, and people with disabilities are strongly encouraged to apply.</em></p>\n<p><em>M-KOPA explicitly prohibits the use of Forced or Child Labour and respects the rights of its employees to agree to terms and conditions of employment voluntarily, without coercion, and freely terminate their employment on appropriate notice. M-KOPA shall ensure that its Employees are of legal working age and shall comply with local laws for youth employment or student work, such as internships or apprenticeships. </em></p>\n<p><em>M-KOPA does not collect/charge any money as a pre-employment or post-employment requirement. This means that we never ask for ‘recruitment fees’, ‘processing fees’, ‘interview fees’, or any other kind of money in exchange for offer letters or interviews at any time during the hiring process.</em></p>\n<p><em>Applications for this position will be reviewed on a rolling basis. Shortlisting and interviews will take place at any stage during the recruitment process. We reserve the right to close the vacancy early if a suitable candidate is selected before the advertised closing date.</em></p>\n<p><em>If your application is successful M-KOPA undertakes pre-employment background checks as part of its recruitment process, these include; criminal records, identification verification, academic qualifications, employment dates and employer references.</em></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-backend-engineer-asset-sales-m-kopa</p>",
+      "posted_at": "2026-10-27T15:38:45.649+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "39a1a925-a044-49da-afbd-f6fd395bd582",
+      "title": "Senior Backend Engineer - Mobility",
+      "url": "https://remotejobs.org/remote-jobs/senior-backend-engineer-mobility-m-kopa-4a800b3fa62a4cfa9bf9ef4b1fd43351",
+      "apply_url": "https://remotejobs.org/remote-jobs/senior-backend-engineer-mobility-m-kopa-4a800b3fa62a4cfa9bf9ef4b1fd43351",
+      "company": {
+        "name": "M-KOPA",
+        "logo_url": null,
+        "website": "https://m-kopa.com",
+        "url": "https://remotejobs.org/companies/mkopa"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "Nairobi",
+      "location_normalization": {
+        "raw": "Nairobi",
+        "input": {
+          "workArrangement": "remote"
+        },
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [
+          "nairobi"
+        ],
+        "work_arrangement": "remote",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "worksite_countries": [
+          "GH",
+          "KE",
+          "NG",
+          "UG",
+          "ZA"
+        ],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [
+          {
+            "kind": "timezone",
+            "areas": [],
+            "effect": "require",
+            "details": "Fully remote role within UTC -1 to UTC +3 time zones.",
+            "regions": [],
+            "timezones": [],
+            "evidence_id": "c2",
+            "conditional_on": null
+          }
+        ],
+        "unresolved": [
+          "The timezone condition 'Fully remote role within UTC -1 to UTC +3 time zones' is a UTC offset range that cannot be fully represented as explicit IANA timezone identifiers."
+        ],
+        "evidence_ids": [
+          "c2"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": "senior",
+        "role_family": "software-engineering",
+        "required_skills": [],
+        "mentioned_skills": [
+          "aws",
+          "csharp",
+          "docker",
+          "dotnet",
+          "kubernetes"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": []
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "4f814df8-71c1-4aef-99ca-4ca5e47dd266",
+      "direct_apply": null,
+      "description": "<p>Join our expanding Mobility engineering team! We’re actively recruiting a Senior Backend Engineer as <strong>M-KOPA Mobility, our fast-growing e-mobility business, which has a 3x year-on-year growth rate! </strong>Build the event-driven microservices that power clean, affordable transport for riders and entrepreneurs across Africa, with AI tools like Claude Code alongside you. Because Mobility is scaling quickly, an entrepreneurial spirit will serve you well: you’ll enjoy building in a fast-growing business and taking real ownership.</p>\n<p><strong>The Impact</strong> – Africa’s transport sector is massive, underserved, and at an inflection point, and the shift to electric is accelerating, led by East Africa. Your code will directly power the technology behind Kenya’s leading e-mobility financing platform. M-KOPA has already served over 7 million customers and unlocked more than $2 billion in credit. In Mobility, we’ve financed over 11,000 electric motorbikes, helping riders save more than $3 a day and cutting air pollution by 90%. It’s your chance to build tech for a business that’s literally transforming lives across an entire continent 🌍</p>\n<p><strong>The Opportunity</strong></p>\n<p>🚀 <strong>Scale challenges: M-KOPA Mobility is growing 3x year-on-year</strong> as its own fast-scaling business, with over 11,000 e-motorbikes financed and demand climbing. As it grows, so do the opportunities to expand your scope, your impact and your career</p>\n<p>🎯 <strong>Mission-driven engineering:</strong> Every service you build helps put clean transport within reach of riders who’d otherwise be locked out of ownership</p>\n<p>🏆 <strong>Global recognition:</strong> Join a company named by the Financial Times as one of Africa’s fastest-growing for 5 consecutive years (2022–2026)</p>\n<p>🌱 <strong>Environmental impact:</strong> Electric is simply better for drivers, cities and the planet. Our e-motorbikes cut air pollution by 90% versus petrol equivalents</p>\n<p><strong>What You’ll Do</strong></p>\n<p>At M-KOPA, you’ll build sophisticated event-driven microservices with real-world impact. Our engineering teams own their solutions end-to-end, from architecture decisions to production monitoring, using AI coding tools like Claude Code to move faster along the way. Join us in combining cutting-edge .NET development with purpose-driven engineering that makes digital and financial inclusion possible across Africa.</p>\n<p><strong>Technical Environment 💻</strong></p>\n<ul>\n<li>\n<p><strong>Languages &#x26; frameworks:</strong> C#/.NET</p>\n</li>\n<li>\n<p><strong>Cloud:</strong> We work in Azure, and welcome experience across AWS or GCP</p>\n</li>\n<li>\n<p><strong>Architecture:</strong> Event-driven systems and microservice development. We use Service Bus, and welcome experience with similar messaging technologies such as Kafka or RabbitMQ</p>\n</li>\n<li>\n<p><strong>Infrastructure:</strong> Kubernetes, Docker</p>\n</li>\n<li>\n<p><strong>Observability:</strong> Prometheus, Grafana</p>\n</li>\n<li>\n<p><strong>Engineering culture:</strong> DevOps, infrastructure as code, automated testing across all environments including production, continuous delivery</p>\n</li>\n<li>\n<p><strong>AI tooling:</strong> We use AI coding tools, including Claude Code, as part of our engineering workflow</p>\n</li>\n</ul>\n<p><strong>Our Engineering Approach 🚀</strong></p>\n<p>As an engineer, you’ll work as a collaborator. More senior members will coach and contribute, placing an emphasis on:</p>\n<ul>\n<li>\n<p><strong>High quality output</strong></p>\n</li>\n<li>\n<p><strong>Observability and monitoring</strong></p>\n</li>\n<li>\n<p><strong>Automated testing</strong> in all environments, including production</p>\n</li>\n<li>\n<p><strong>Infrastructure as code</strong> and DevOps practices</p>\n</li>\n<li>\n<p><strong>AI-assisted development</strong> with tools like Claude Code</p>\n</li>\n</ul>\n<p><strong>What You Need</strong></p>\n<p>We expect you to be comfortable working as part of a team that owns the entire software stack, including supporting infrastructure, throughout the software lifecycle, from inception through production to decommissioning, under a DevOps culture. You’ll value the constraints that continuous delivery places upon engineering processes and embrace testing and observability as first-order concerns in development.</p>\n<p><strong>Required Experience:</strong></p>\n<ul>\n<li>\n<p>Strong grasp of C# .NET development</p>\n</li>\n<li>\n<p>Experience with event-driven systems: Service Bus or similar messaging technologies such as Kafka or RabbitMQ</p>\n</li>\n<li>\n<p>Microservices architecture experience</p>\n</li>\n<li>\n<p>Experience with Azure, or other major cloud providers such as AWS or GCP</p>\n</li>\n<li>\n<p>Familiarity with containerisation and orchestration tools (Kubernetes, Docker)</p>\n</li>\n<li>\n<p>Experience with observability tools such as Prometheus and Grafana</p>\n</li>\n<li>\n<p>Testing and deployment expertise</p>\n</li>\n<li>\n<p>DevOps culture mindset</p>\n</li>\n<li>\n<p>Experience working with AI coding tools, ideally Claude Code or similar</p>\n</li>\n</ul>\n<p><strong>Location &#x26; Benefits</strong></p>\n<ul>\n<li>\n<p>Permanent role - Benefits Package include Bonus, Growth Shares &#x26; On-Call allowance</p>\n</li>\n<li>\n<p>Fully remote role within UTC -1 to UTC +3 time zones</p>\n</li>\n<li>\n<p>Work with diverse teams across UK, Europe, and Africa</p>\n</li>\n<li>\n<p>Professional development programs and coaching partnerships</p>\n</li>\n<li>\n<p>Family-friendly policies and flexible working arrangements</p>\n</li>\n<li>\n<p>Well-being support and career growth opportunities</p>\n</li>\n</ul>\n<p><strong>Our Mission 🌍</strong> We create financial inclusion for the traditionally excluded through a fair, flexible, customer-centric financing model, with M-KOPA Mobility extending that same model to clean transport. We strive to drive greater inclusion of women, youth, and low-income communities.</p>\n<p><strong>Our Impact 💚</strong></p>\n<ul>\n<li>\n<p><strong>Connected 📱:</strong> 6 million smartphone customers, 2.5 million first-time smartphone users</p>\n</li>\n<li>\n<p><strong>Prosperous 💰:</strong> 70% of customers use their M-KOPA product for income generation, with 35,000+ livelihoods created for agents</p>\n</li>\n<li>\n<p><strong>Green 🌱:</strong> 11,000+ e-motorbikes financed, growing 3x year-on-year, cutting air pollution by 90% and helping riders save more than $3 a day</p>\n</li>\n</ul>\n<p><strong>Ready to build C# .NET solutions that put clean, affordable transport within reach of Every Day Earners, while advancing your career in modern, AI-powered backend engineering?</strong></p>\n<p><strong>Apply now to join our mission of transforming lives across Africa through technology.</strong></p>\n<h2><strong>Why M-KOPA?</strong></h2>\n<p>At M-KOPA, we empower our people to own their careers through diverse development programs, coaching partnerships, and on-the-job training. We support individual journeys with family-friendly policies, prioritize well-being, and embrace flexibility.</p>\n<p>Join us in shaping the future of M-KOPA as we grow together. Explore more at <a href=\"http://m-kopa.com\"><strong>m-kopa.com</strong></a>.</p>\n<p><em>Recognized four times by the Financial Times as one Africa's fastest growing companies (2022, 2023, 2024, 2025 and 2026), named on CNBC's World’s Top Fintech Companies 2025 &#x26; 2026 and by TIME100 Most influential companies in the world 2023 and 2024 , we've served over 10 million customers, unlocking $2 billion in cumulative credit for the everyday earners across Africa, in addition to over 10,000 e-bikes financed in Kenya.</em></p>\n<p><em><strong>Important Notice</strong></em><br>\n<br>\n<em>M-KOPA is an equal opportunity and affirmative action employer committed to assembling a diverse, broadly trained staff. Women, minorities, and people with disabilities are strongly encouraged to apply.</em></p>\n<p><em>M-KOPA explicitly prohibits the use of Forced or Child Labour and respects the rights of its employees to agree to terms and conditions of employment voluntarily, without coercion, and freely terminate their employment on appropriate notice. M-KOPA shall ensure that its Employees are of legal working age and shall comply with local laws for youth employment or student work, such as internships or apprenticeships. </em></p>\n<p><em>M-KOPA does not collect/charge any money as a pre-employment or post-employment requirement. This means that we never ask for ‘recruitment fees’, ‘processing fees’, ‘interview fees’, or any other kind of money in exchange for offer letters or interviews at any time during the hiring process.</em></p>\n<p><em>Applications for this position will be reviewed on a rolling basis. Shortlisting and interviews will take place at any stage during the recruitment process. We reserve the right to close the vacancy early if a suitable candidate is selected before the advertised closing date.</em></p>\n<p><em>If your application is successful M-KOPA undertakes pre-employment background checks as part of its recruitment process, these include; criminal records, identification verification, academic qualifications, employment dates and employer references.</em></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-backend-engineer-mobility-m-kopa-4a800b3fa62a4cfa9bf9ef4b1fd43351</p>",
+      "posted_at": "2026-10-27T15:37:28.997+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "ad3592e8-e34f-4d44-8a82-b6365d3db62f",
+      "title": "Senior Backend Engineer - Mobility",
+      "url": "https://remotejobs.org/remote-jobs/senior-backend-engineer-mobility-m-kopa",
+      "apply_url": "https://remotejobs.org/remote-jobs/senior-backend-engineer-mobility-m-kopa",
+      "company": {
+        "name": "M-KOPA",
+        "logo_url": null,
+        "website": "https://m-kopa.com",
+        "url": "https://remotejobs.org/companies/mkopa"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "London",
+      "location_normalization": {
+        "raw": "London",
+        "input": {
+          "workArrangement": "remote"
+        },
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [
+          "london"
+        ],
+        "work_arrangement": "remote",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "worksite_countries": [
+          "ES",
+          "GB",
+          "IE",
+          "PT"
+        ],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [
+          {
+            "kind": "timezone",
+            "areas": [],
+            "effect": "require",
+            "details": "Fully remote role within UTC -1 to UTC +3 time zones.",
+            "regions": [],
+            "timezones": [],
+            "evidence_id": "c2",
+            "conditional_on": null
+          }
+        ],
+        "unresolved": [
+          "Working-hour condition: fully remote role within UTC -1 to UTC +3 time zones cannot be represented as IANA timezone identifiers."
+        ],
+        "evidence_ids": [
+          "c2"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": "senior",
+        "role_family": "software-engineering",
+        "required_skills": [],
+        "mentioned_skills": [
+          "aws",
+          "csharp",
+          "docker",
+          "dotnet",
+          "kubernetes"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": []
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "046b9a1b-c15c-40ad-b219-add686ac1659",
+      "direct_apply": null,
+      "description": "<p>Join our expanding Mobility engineering team! We’re actively recruiting a Senior Backend Engineer as <strong>M-KOPA Mobility, our fast-growing e-mobility business, which has a 3x year-on-year growth rate! </strong>Build the event-driven microservices that power clean, affordable transport for riders and entrepreneurs across Africa, with AI tools like Claude Code alongside you. Because Mobility is scaling quickly, an entrepreneurial spirit will serve you well: you’ll enjoy building in a fast-growing business and taking real ownership.</p>\n<p><strong>The Impact</strong> – Africa’s transport sector is massive, underserved, and at an inflection point, and the shift to electric is accelerating, led by East Africa. Your code will directly power the technology behind Kenya’s leading e-mobility financing platform. M-KOPA has already served over 7 million customers and unlocked more than $2 billion in credit. In Mobility, we’ve financed over 11,000 electric motorbikes, helping riders save more than $3 a day and cutting air pollution by 90%. It’s your chance to build tech for a business that’s literally transforming lives across an entire continent 🌍</p>\n<p><strong>The Opportunity</strong></p>\n<p>🚀 <strong>Scale challenges: M-KOPA Mobility is growing 3x year-on-year</strong> as its own fast-scaling business, with over 11,000 e-motorbikes financed and demand climbing. As it grows, so do the opportunities to expand your scope, your impact and your career</p>\n<p>🎯 <strong>Mission-driven engineering:</strong> Every service you build helps put clean transport within reach of riders who’d otherwise be locked out of ownership</p>\n<p>🏆 <strong>Global recognition:</strong> Join a company named by the Financial Times as one of Africa’s fastest-growing for 5 consecutive years (2022–2026)</p>\n<p>🌱 <strong>Environmental impact:</strong> Electric is simply better for drivers, cities and the planet. Our e-motorbikes cut air pollution by 90% versus petrol equivalents</p>\n<p><strong>What You’ll Do</strong></p>\n<p>At M-KOPA, you’ll build sophisticated event-driven microservices with real-world impact. Our engineering teams own their solutions end-to-end, from architecture decisions to production monitoring, using AI coding tools like Claude Code to move faster along the way. Join us in combining cutting-edge .NET development with purpose-driven engineering that makes digital and financial inclusion possible across Africa.</p>\n<p><strong>Technical Environment 💻</strong></p>\n<ul>\n<li>\n<p><strong>Languages &#x26; frameworks:</strong> C#/.NET</p>\n</li>\n<li>\n<p><strong>Cloud:</strong> We work in Azure, and welcome experience across AWS or GCP</p>\n</li>\n<li>\n<p><strong>Architecture:</strong> Event-driven systems and microservice development. We use Service Bus, and welcome experience with similar messaging technologies such as Kafka or RabbitMQ</p>\n</li>\n<li>\n<p><strong>Infrastructure:</strong> Kubernetes, Docker</p>\n</li>\n<li>\n<p><strong>Observability:</strong> Prometheus, Grafana</p>\n</li>\n<li>\n<p><strong>Engineering culture:</strong> DevOps, infrastructure as code, automated testing across all environments including production, continuous delivery</p>\n</li>\n<li>\n<p><strong>AI tooling:</strong> We use AI coding tools, including Claude Code, as part of our engineering workflow</p>\n</li>\n</ul>\n<p><strong>Our Engineering Approach 🚀</strong></p>\n<p>As an engineer, you’ll work as a collaborator. More senior members will coach and contribute, placing an emphasis on:</p>\n<ul>\n<li>\n<p><strong>High quality output</strong></p>\n</li>\n<li>\n<p><strong>Observability and monitoring</strong></p>\n</li>\n<li>\n<p><strong>Automated testing</strong> in all environments, including production</p>\n</li>\n<li>\n<p><strong>Infrastructure as code</strong> and DevOps practices</p>\n</li>\n<li>\n<p><strong>AI-assisted development</strong> with tools like Claude Code</p>\n</li>\n</ul>\n<p><strong>What You Need</strong></p>\n<p>We expect you to be comfortable working as part of a team that owns the entire software stack, including supporting infrastructure, throughout the software lifecycle, from inception through production to decommissioning, under a DevOps culture. You’ll value the constraints that continuous delivery places upon engineering processes and embrace testing and observability as first-order concerns in development.</p>\n<p><strong>Required Experience:</strong></p>\n<ul>\n<li>\n<p>Strong grasp of C# .NET development</p>\n</li>\n<li>\n<p>Experience with event-driven systems: Service Bus or similar messaging technologies such as Kafka or RabbitMQ</p>\n</li>\n<li>\n<p>Microservices architecture experience</p>\n</li>\n<li>\n<p>Experience with Azure, or other major cloud providers such as AWS or GCP</p>\n</li>\n<li>\n<p>Familiarity with containerisation and orchestration tools (Kubernetes, Docker)</p>\n</li>\n<li>\n<p>Experience with observability tools such as Prometheus and Grafana</p>\n</li>\n<li>\n<p>Testing and deployment expertise</p>\n</li>\n<li>\n<p>DevOps culture mindset</p>\n</li>\n<li>\n<p>Experience working with AI coding tools, ideally Claude Code or similar</p>\n</li>\n</ul>\n<p><strong>Location &#x26; Benefits</strong></p>\n<ul>\n<li>\n<p>Permanent role - Benefits Package include Bonus, Growth Shares &#x26; On-Call allowance</p>\n</li>\n<li>\n<p>Fully remote role within UTC -1 to UTC +3 time zones</p>\n</li>\n<li>\n<p>Work with diverse teams across UK, Europe, and Africa</p>\n</li>\n<li>\n<p>Professional development programs and coaching partnerships</p>\n</li>\n<li>\n<p>Family-friendly policies and flexible working arrangements</p>\n</li>\n<li>\n<p>Well-being support and career growth opportunities</p>\n</li>\n</ul>\n<p><strong>Our Mission 🌍</strong> We create financial inclusion for the traditionally excluded through a fair, flexible, customer-centric financing model, with M-KOPA Mobility extending that same model to clean transport. We strive to drive greater inclusion of women, youth, and low-income communities.</p>\n<p><strong>Our Impact 💚</strong></p>\n<ul>\n<li>\n<p><strong>Connected 📱:</strong> 6 million smartphone customers, 2.5 million first-time smartphone users</p>\n</li>\n<li>\n<p><strong>Prosperous 💰:</strong> 70% of customers use their M-KOPA product for income generation, with 35,000+ livelihoods created for agents</p>\n</li>\n<li>\n<p><strong>Green 🌱:</strong> 11,000+ e-motorbikes financed, growing 3x year-on-year, cutting air pollution by 90% and helping riders save more than $3 a day</p>\n</li>\n</ul>\n<p><strong>Ready to build C# .NET solutions that put clean, affordable transport within reach of Every Day Earners, while advancing your career in modern, AI-powered backend engineering?</strong></p>\n<p><strong>Apply now to join our mission of transforming lives across Africa through technology.</strong></p>\n<h2><strong>Why M-KOPA?</strong></h2>\n<p>At M-KOPA, we empower our people to own their careers through diverse development programs, coaching partnerships, and on-the-job training. We support individual journeys with family-friendly policies, prioritize well-being, and embrace flexibility.</p>\n<p>Join us in shaping the future of M-KOPA as we grow together. Explore more at <a href=\"http://m-kopa.com\"><strong>m-kopa.com</strong></a>.</p>\n<p><em>Recognized four times by the Financial Times as one Africa's fastest growing companies (2022, 2023, 2024, 2025 and 2026), named on CNBC's World’s Top Fintech Companies 2025 &#x26; 2026 and by TIME100 Most influential companies in the world 2023 and 2024 , we've served over 10 million customers, unlocking $2 billion in cumulative credit for the everyday earners across Africa, in addition to over 10,000 e-bikes financed in Kenya.</em></p>\n<p><em><strong>Important Notice</strong></em><br>\n<br>\n<em>M-KOPA is an equal opportunity and affirmative action employer committed to assembling a diverse, broadly trained staff. Women, minorities, and people with disabilities are strongly encouraged to apply.</em></p>\n<p><em>M-KOPA explicitly prohibits the use of Forced or Child Labour and respects the rights of its employees to agree to terms and conditions of employment voluntarily, without coercion, and freely terminate their employment on appropriate notice. M-KOPA shall ensure that its Employees are of legal working age and shall comply with local laws for youth employment or student work, such as internships or apprenticeships. </em></p>\n<p><em>M-KOPA does not collect/charge any money as a pre-employment or post-employment requirement. This means that we never ask for ‘recruitment fees’, ‘processing fees’, ‘interview fees’, or any other kind of money in exchange for offer letters or interviews at any time during the hiring process.</em></p>\n<p><em>Applications for this position will be reviewed on a rolling basis. Shortlisting and interviews will take place at any stage during the recruitment process. We reserve the right to close the vacancy early if a suitable candidate is selected before the advertised closing date.</em></p>\n<p><em>If your application is successful M-KOPA undertakes pre-employment background checks as part of its recruitment process, these include; criminal records, identification verification, academic qualifications, employment dates and employer references.</em></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-backend-engineer-mobility-m-kopa</p>",
+      "posted_at": "2026-10-27T15:36:17.199+00:00",
+      "is_translated": false,
+      "original_language": null
     },
     {
       "id": "2fe98c6f-1ae8-49ca-b341-f048bb9d5707",
@@ -4353,414 +4785,6 @@
       "direct_apply": null,
       "description": "<p><strong>PTC Windchill Developer - Remote</strong><br><br>Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and enterprise solutions across the United States.<br>This is a fantastic opportunity to join an established and well-respected organization offering tremendous career growth potential.<br><br><strong>Job Title:</strong> PTC Windchill Developer<br><strong>Location:</strong> 100% Remote (U.S.)<br><strong>Position Type:</strong> Full-time, Direct W2<br><strong>Salary Range:</strong> $100,000–$150,000 Annually<br><strong>Experience Required:</strong> 12+ years<br><br><strong>Sponsorship:</strong> U.S. Citizens, Green Card Holders, EAD Holders, and H-1B transfer candidates are encouraged to apply. We are unable to sponsor new H-1B visa petitions for this position.<br><br><strong>Job Summary:</strong><br>We are seeking an experienced PTC Windchill Developer to design, develop, and support customizations, integrations, and enhancements on the Windchill PLM platform. In this role you will work closely with PLM functional consultants and engineering stakeholders to translate manufacturing and product-lifecycle requirements into well-engineered Windchill solutions. The ideal candidate will combine strong hands-on Windchill Java customization experience with practical knowledge of Windchill data models, workflows, and integration patterns. In this role you will work closely with cross-functional partners — product, design, engineering, operations, and business stakeholders — to translate ambiguous requirements into well-engineered solutions, and will be expected to raise the bar through code review, design review, and mentorship of more junior engineers. The successful candidate brings strong engineering discipline, a clear communication style, and a track record of shipping meaningful work that holds up well in production.<br><br><strong>Key Responsibilities</strong></p><ul>\n<li>Design and develop Windchill customizations using the Windchill Java API and PTC-recommended customization patterns.</li>\n<li>Build custom listeners, services, and processors that extend Windchill behavior without compromising future upgrade paths.</li>\n<li>Develop and configure Windchill workflows, lifecycle templates, and object initialization rules.</li>\n<li>Implement custom Info*Engine tasks and adapters for system integration, applying disciplined engineering practices and partnering closely with stakeholders to ensure outcomes are durable, well-documented, and aligned with broader team and platform standards.</li>\n<li>Build custom JSP and HTML client-side extensions where required, applying disciplined engineering practices and partnering closely with stakeholders to ensure outcomes are durable, well-documented, and aligned with broader team and platform standards.</li>\n<li>Design and develop Windchill business reports using report templates and Cognos integration.</li>\n<li>Configure and operate Windchill Customizer’s tools, RBINFO files, and OIRs.</li>\n<li>Implement migration scripts for legacy PLM data into Windchill, applying disciplined engineering practices and partnering closely with stakeholders to ensure outcomes are durable, well-documented, and aligned with broader team and platform standards.</li>\n<li>Optimize performance of custom code and database queries, working closely with DBAs.</li>\n<li>Conduct fit-gap analyses and translate business requirements into clean technical designs.</li>\n<li>Adhere strictly to PTC customization best practices to ease future upgrades.</li>\n<li>Provide hypercare and post-go-live support, including issue triage and root-cause analysis.</li>\n<li>Maintain comprehensive, current technical documentation — including architecture diagrams, design decisions, configuration references, runbooks, and operational procedures — so that the system remains supportable, auditable, and easy to onboard new engineers onto over time.</li>\n<li>Mentor and coach junior and mid-level engineers through code review, design review, pair programming, and structured knowledge sharing, helping the broader team grow in technical maturity and confidence over time.</li>\n</ul><p><strong>Required Qualifications</strong></p><ul>\n<li>Bachelor’s degree in Computer Science, Engineering, or a related technical discipline.</li>\n<li>12 or more years of PTC Windchill development experience.</li>\n<li>Strong hands-on experience with the Windchill Java API.</li>\n<li>Solid experience with workflows, lifecycle templates, and object initialization rules.</li>\n<li>Working knowledge of Info*Engine and Windchill integration patterns.</li>\n<li>Hands-on experience with JSP/HTML client customization.</li>\n<li>Strong SQL skills and familiarity with the Windchill data model.</li>\n<li>Experience with Windchill upgrades and migrations.</li>\n<li>Excellent troubleshooting and documentation skills.</li>\n<li>Strong communication and stakeholder management skills.</li>\n</ul><p><strong>Preferred Qualifications</strong></p><ul>\n<li>PTC Windchill certifications.</li>\n<li>Experience with Creo, Arbortext, or related PTC products.</li>\n<li>Exposure to Windchill RV&#x26;S (Integrity) or ThingWorx integration.</li>\n<li>Familiarity with CAD data management workflows.</li>\n<li>Experience operating Windchill on cloud platforms.</li>\n</ul><p><br><strong>How to Apply</strong><br>Would you like to know more about this opportunity? For immediate consideration, please send your resume to  or contact us at (908) 505-3899. Learn more about Bright Vision Technologies at .<br>Bright Vision Technologies is an Equal Opportunity Employer.<br></p><p>Equal Employment Opportunity (EEO) Statement</p><p>Bright Vision Technologies (BV Teck) is committed to equal employment opportunity (EEO) for all employees and applicants without regard to race, color, religion, sex, sexual orientation, gender identity or expression, national origin, age, genetic information, disability, veteran status, or any other protected status as defined by applicable federal, state, or local laws. This commitment extends to all aspects of employment, including recruitment, hiring, training, compensation, promotion, transfer, leaves of absence, termination, layoffs, and recall.</p><p>BV Teck expressly prohibits any form of workplace harassment or discrimination. Any improper interference with employees' ability to perform their job duties may result in disciplinary action up to and including termination of employment.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/ptc-windchill-developer-bright-vision-technologies</p>",
       "posted_at": "2026-10-26T12:55:41+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "f4cf9d49-125f-4fab-964a-83c081110dfe",
-      "title": "Backend Engineer, Java - Web 3 Wallet",
-      "url": "https://remotejobs.org/remote-jobs/backend-engineer-java-web-3-wallet-binance",
-      "apply_url": "https://remotejobs.org/remote-jobs/backend-engineer-java-web-3-wallet-binance",
-      "company": {
-        "name": "Binance",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/a569245b2cfddf1bfe5b7149fc3a4bfeff63f83d17730fad624abab428722eba.jpeg",
-        "website": "https://binance.com",
-        "url": "https://remotejobs.org/companies/binance"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "Hong Kong,  Singapore",
-      "location_normalization": {
-        "raw": "Hong Kong,  Singapore",
-        "input": {},
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "HK",
-          "SG"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [],
-        "evidence_ids": [
-          "source-location"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "remote",
-        "allowed_countries": [
-          "HK",
-          "SG"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": null,
-        "role_family": "software-engineering",
-        "required_skills": [
-          "java"
-        ],
-        "mentioned_skills": [
-          "java"
-        ],
-        "preferred_skills": [],
-        "experience_requirements": []
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": null,
-      "salary_period": null,
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<p><a href=\"https://jobicy.com/company/binance\">Binance</a> is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance to education, research, payments, institutional services, and more. Our mission is to increase the freedom of money and financial access for people around the world.</p>\n<p>The Binance Wallet team is building a decentralized version of Binance, featuring on-chain infrastructure, self-custody wallets, a DEX, and decentralized Earn and more. We empower users with full control over their assets for seamless token trading across any blockchain. This Web3 initiative expands our strategic landscape and complements our CEX business, offering significant growth potential. Join us and be part of this exciting journey.</p>\n<p>Responsibilities</p>\n<ul>\n<li>Responsible for designing, developing, and maintaining a high-performance system, ensuring the rationality and reliability of the system.</li>\n<li>Understand and apply block-chain technology, providing corresponding development support for the Web3 Wallet DEX project.</li>\n<li>Collaborate effectively within the team, actively participate in shaping technical architectures and solutions, continuously stay updated on and learn new technologies, and pursue emerging technologies.</li>\n<li>Drive the introduction of innovative technologies and solutions within the team, approaching problem-solving with an innovative mindset.</li>\n</ul>\n<p>Requirements</p>\n<ul>\n<li>2 years or more of Java development experience with a solid foundation in computer science.</li>\n<li>Proficient in multi-threaded programming, familiarity with JVM, understanding of common open-source distributed middleware, caching, message queues, etc., and expertise in MySQL performance tuning.</li>\n<li>Familiarity with frameworks such as Spring Cloud, and prior experience in designing and stabilizing large-scale distributed, high-concurrency, high-load, and high-availability systems is a plus.</li>\n<li>Enthusiastic about technology, with stringent requirements for code quality and development standards, and effective communication and collaboration skills within a team.</li>\n<li>Strong logical thinking, excellent problem analysis and solving abilities, and a strong sense of responsibility.</li>\n<li>Understanding of blockchain technology, with preference given to candidates with related project experience.</li>\n</ul>\n<p><strong>Why Binance</strong></p>\n<ul>\n<li>Shape the future of finance</li>\n<li>Collaborate with world-class talent in a user-centric global organization with a flat structure</li>\n<li>Tackle challenging projects in a fast-paced and innovative enviornment with autonomy</li>\n<li>Thrive in a results-driven workplace with opportunities for career growth and continuous learning</li>\n<li>Competitive salary and company benefits</li>\n<li>Remote-first, work-from-home arrangement (may vary depending on the nature of the role and team)</li>\n</ul>\n<p>Binance is committed to being an equal opportunity employer. We believe that having a diverse workforce is fundamental to our success.</p>\n<p>By submitting a job application, you acknowledge that you have read our <a href=\"https://www.binance.com/en/candidate/privacy/notice\">Candidate Privacy Notice</a>.</p>\n<p>We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/backend-engineer-java-web-3-wallet-binance</p>",
-      "posted_at": "2026-10-26T10:54:39+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "9495d9b0-7655-4790-83e8-a70c5acf2777",
-      "title": "Senior Software Engineer, Product",
-      "url": "https://remotejobs.org/remote-jobs/senior-software-engineer-product-revenuecat-247fb24959ca4720b1a081da1463841b",
-      "apply_url": "https://remotejobs.org/remote-jobs/senior-software-engineer-product-revenuecat-247fb24959ca4720b1a081da1463841b",
-      "company": {
-        "name": "RevenueCat",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/5dff47658526d016a4dc568c5f3cd524399b8648c59e4c13058a06aa2829f907.jpeg",
-        "website": "https://revenuecat.com",
-        "url": "https://remotejobs.org/companies/revenuecat"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "EMEA,  LATAM,  Canada,  USA",
-      "location_normalization": {
-        "raw": "EMEA,  LATAM,  Canada,  USA",
-        "input": {},
-        "scope": "restricted",
-        "status": "partial",
-        "regions": [
-          "emea",
-          "latam"
-        ],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "CA",
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "partial",
-        "regions": [
-          "emea",
-          "latam"
-        ],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [
-          "Unresolved area: location:1"
-        ],
-        "evidence_ids": [
-          "source-location"
-        ],
-        "allowed_regions": [
-          "EMEA",
-          "Latin America (LATAM)"
-        ],
-        "work_arrangement": "remote",
-        "allowed_countries": [],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": "senior",
-        "role_family": "software-engineering",
-        "required_skills": [],
-        "mentioned_skills": [
-          "aws",
-          "javascript",
-          "postgresql",
-          "python",
-          "react",
-          "sql",
-          "typescript"
-        ],
-        "preferred_skills": [],
-        "experience_requirements": []
-      },
-      "salary_min": 230000,
-      "salary_max": 230000,
-      "salary_text": "USD 230,000/year",
-      "salary_source_text": "USD 230000 - 230000",
-      "salary_currency": "USD",
-      "salary_period": "year",
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<p><a href=\"https://jobicy.com/company/revenuecat\">RevenueCat</a> gives app businesses the infrastructure and tools to build, run, and improve their monetization. Since graduating from YC's S18 batch, we've grown into the default monetization platform for mobile.</p>\n<p>We're in 50%+ of newly shipped subscription apps, we process $16B+ in annual purchase volume, and we help everyone from a solo developer to the OpenAI mobile team understand and grow their revenue.</p>\n<p>We're a remote-first team of 150+ people across 25+ countries, guided by values we actually practice: Customer Obsession, Always Be Shipping, Own It, and Balance.</p>\n<p>This isn't the right fit for everyone. The systems you’ll build here manage billions of dollars and touch hundreds of millions of end users, and we don’t take that lightly. You'll be expected to work hard and hold a high bar for what you ship, alongside some of the sharpest, most driven people you've worked with. If that sounds energizing rather than exhausting, keep reading.</p>\n<h2><strong>The Role</strong></h2>\n<p>We’re looking for a Product oriented Fullstack Engineer to design, build, ship, and own end-to-end product features used by thousands of developers and hundreds of millions of end-users.</p>\n<p>We’re specifically looking for someone with a <strong>strong backend foundation</strong> who is also genuinely proficient in React.</p>\n<p>This is a hands-on IC role. We are looking for someone product-focused, but deeply technical. You’ll work across frontend, backend, and data boundaries, making thoughtful tradeoffs to deliver reliable, high-quality systems. You’ll take ownership from problem definition through production rollout and long-term maintenance, the scoping and prioritization work as much as the code.</p>\n<p>“Product-focused” at RevenueCat means pairing strong engineering fundamentals with good judgment, customer obsession, and a bias toward shipping — not trading correctness, reliability, or scalability for speed, but also not letting “perfect” get in the way of “shipped today.”</p>\n<h2><strong>About You</strong></h2>\n<ul>\n<li>\n<p>You have 8+ years of professional software engineering experience, with a strong backend foundation and a track record of building and operating high-scale production systems.</p>\n</li>\n<li>\n<p>You can write advanced SQL statements beyond basic SELECT and UPDATE statements.</p>\n</li>\n<li>\n<p>You’re proficient in React and have genuinely built on the frontend before. You’re comfortable owning UI work, not just backend APIs.</p>\n</li>\n<li>\n<p>You have solid HTML, CSS, and JavaScript fundamentals, and an understanding of HTTP and browser–server interactions</p>\n</li>\n<li>\n<p>You hold a high bar for quality and instinctively know which details matter, but also are discerning enough to cut scope when needed while still delivering value.</p>\n</li>\n<li>\n<p>You’re customer-obsessed: you imagine yourself as the developer, product manager, or marketer using the feature or experiencing the issue.</p>\n</li>\n<li>\n<p>You’re a builder, not an implementer: scoping, prioritizing, and driving rollout in partnership with our Product team. This isn’t a role where you check off items from a detailed specification.</p>\n</li>\n<li>\n<p>You can quickly familiarize yourself with code you didn't write yourself and improve it.</p>\n</li>\n<li>\n<p>You're comfortable coding alongside AI tools like Copilot, Cursor, or Claude Code. You use them to move faster on the parts that don't need your full attention, and you're detail-oriented enough to catch when they're wrong.</p>\n</li>\n<li>\n<p>You’re scrappy and biased toward shipping. You’d rather ship a good version today and iterate than wait to ship a perfect one next quarter.</p>\n</li>\n<li>\n<p>You communicate clearly, both in real-time and asynchronously. We’re a fully remote team, and how you write is as important as how you code.</p>\n</li>\n<li>\n<p>You’ve shipped meaningful user-facing features to production, monitored their usage and adoption, and improved them over time.</p>\n</li>\n<li>\n<p>You write high-quality, well-tested code, debug issues methodically, and help raise the engineering bar through thoughtful feedback and mentorship.</p>\n</li>\n<li>\n<p>You act like an founder:: you notice problems, propose improvements, and follow through fast.</p>\n</li>\n</ul>\n<h2><strong>Technologies you’ll likely work with:</strong></h2>\n<ul>\n<li>\n<p>TypeScript</p>\n</li>\n<li>\n<p>React</p>\n</li>\n<li>\n<p>PostgreSQL</p>\n</li>\n<li>\n<p>Python</p>\n</li>\n<li>\n<p>Flask</p>\n</li>\n<li>\n<p>AWS-hosted systems, following best practices for deployment, monitoring, and reliability</p>\n</li>\n</ul>\n<p><strong>A note: </strong>Our interview process includes two separate live-coding sessions: one on frontend fundamentals and one on SQL, data logic, and algorithmic programming. We've found strength in both is a strong predictor of success in this role.</p>\n<h2><strong>In the first month, you’ll:</strong></h2>\n<ul>\n<li>\n<p>Meet frequently with your team and manager to get up to speed.</p>\n</li>\n<li>\n<p>Get familiar with our tools, processes, and core subscription-business concepts.</p>\n</li>\n<li>\n<p>Complete a First Ship project.</p>\n</li>\n<li>\n<p>Jump in early: fix bugs, ship small improvements, and weigh in on PRs.</p>\n</li>\n</ul>\n<h2><strong>Within the first 3 months, you’ll:</strong></h2>\n<ul>\n<li>\n<p>Have shipped a medium-sized project successfully.</p>\n</li>\n<li>\n<p>Understand the main product areas your team owns and how they work end to end.</p>\n</li>\n<li>\n<p>Scope and work on projects self-sufficiently, from idea to post-launch improvements.</p>\n</li>\n<li>\n<p>Actively participate in code reviews, bug bashes, and technical discussions.</p>\n</li>\n<li>\n<p>Continuously improve areas of your team’s codebase and product.</p>\n</li>\n</ul>\n<h2><strong>Within the first 6 months, you’ll:</strong></h2>\n<ul>\n<li>\n<p>Become the go-to engineer for certain focus areas.</p>\n</li>\n<li>\n<p>Proactively contribute to architecture discussions that impact more than just your team.</p>\n</li>\n<li>\n<p>Debug issues across frontend, backend, and data; communicate clearly during incidents; drive fixes that prevent repeats.</p>\n</li>\n<li>\n<p>Engage directly with customers to understand how your work actually lands.</p>\n</li>\n<li>\n<p>Mentor other engineers joining the team and raise the bar through feedback and guidance.</p>\n</li>\n</ul>\n<h2><strong>Within the first 12 months, you’ll:</strong></h2>\n<ul>\n<li>\n<p>Know all the major components of our system and be able to debug complex issues across it.</p>\n</li>\n<li>\n<p>Spec and architect large projects, gather feedback, and drive design validation and rollout plans.</p>\n</li>\n<li>\n<p>Lead your own initiatives for improving our product and systems, grounded in real customer and business priorities.</p>\n</li>\n</ul>\n<h2><strong>What we offer:</strong></h2>\n<ul>\n<li>\n<p>Competitive equity in a fast-growing, Series C startup backed by top-tier investors, including Y Combinator</p>\n</li>\n<li>\n<p>10-year window to exercise vested equity options</p>\n</li>\n<li>\n<p>A fully remote environment designed around autonomy and flexibility</p>\n</li>\n<li>\n<p>4-5 weeks of flexible time off annually</p>\n</li>\n<li>\n<p>Paid desk at a co-working space</p>\n</li>\n<li>\n<p>Workspace budget and continuous learning stipend</p>\n</li>\n</ul>\n<h2><strong>Interviewing at RevenueCat</strong></h2>\n<p>Our interview process is rigorous on purpose. We want to be sure that everyone we bring on is genuinely excited about this work, aligned with how we operate, and ready to meet our high bar for performance. Curious what that actually looks like? Read more in our blog post on <a href=\"https://www.revenuecat.com/blog/company/how-we-hire-at-revenuecat/\">how we hire at RevenueCat</a>, including tips to help you succeed.</p>\n<h2><strong>More on how we work:</strong></h2>\n<ul>\n<li>\n<p>How we think about hiring and team design: <a href=\"https://app.notion.com/p/Building-a-Winning-Team-69e431c4c3df4b13961523cd93c0e9bf?pvs=21\">Building a Winning Team</a></p>\n</li>\n<li>\n<p>The values that guide how we work: <a href=\"https://www.revenuecat.com/blog/values/\">Our Values</a></p>\n</li>\n<li>\n<p>How we work as a remote team: <a href=\"https://www.revenuecat.com/blog/how-we-work-remotely-at-revenuecat/\">How We Work Remotely at RevenueCat</a></p>\n</li>\n<li>\n<p>What to expect from our interview process: <a href=\"https://app.notion.com/p/RevenueCat-Interview-Expectations-1bdcb1a108b0800c8941def0f076f9e2?pvs=21\">Interview Expectations</a></p>\n</li>\n<li>\n<p>What to expect from comp and employment: <a href=\"https://app.notion.com/p/RevenueCat-Compensation-Employment-Overview-184cb1a108b0801398d4e525928597ab?pvs=21\">Employment FAQ</a></p>\n</li>\n</ul><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-software-engineer-product-revenuecat-247fb24959ca4720b1a081da1463841b</p>",
-      "posted_at": "2026-10-26T10:35:55+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "55f302ad-40f4-4587-b5d6-4e1debe6f171",
-      "title": "Machine Learning Engineer, New Grad - Quora",
-      "url": "https://remotejobs.org/remote-jobs/machine-learning-engineer-new-grad-quora-quora",
-      "apply_url": "https://remotejobs.org/remote-jobs/machine-learning-engineer-new-grad-quora-quora",
-      "company": {
-        "name": "Quora",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/92e93beb53bf8321fdb31942c296356b6c2b1dd228cd39a45b2aa53baf8a79e7.webp",
-        "website": "https://careers.quora.com",
-        "url": "https://remotejobs.org/companies/quora"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "Canada,  USA",
-      "location_normalization": {
-        "raw": "Canada,  USA",
-        "input": {},
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "CA",
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "partial",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [
-          "America/Los_Angeles"
-        ],
-        "conditions": [
-          {
-            "kind": "timezone",
-            "areas": [],
-            "effect": "require",
-            "details": "Availability for meetings and impromptu communication during Quora's coordination hours (Mon-Fri: 9am-3pm Pacific Time).",
-            "regions": [],
-            "timezones": [
-              "America/Los_Angeles"
-            ],
-            "evidence_id": "c3",
-            "conditional_on": null
-          }
-        ],
-        "unresolved": [
-          "The posting says to see careers.quora.com/eligible-countries for details regarding employment eligibility by country. Those country-level eligibility details are not in the supplied posting, so any narrowing within or beyond the US and Canada cannot be confirmed."
-        ],
-        "evidence_ids": [
-          "c2",
-          "c3"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "remote",
-        "allowed_countries": [
-          "CA",
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": null,
-        "role_family": "data-science",
-        "required_skills": [],
-        "mentioned_skills": [
-          "kubernetes",
-          "python"
-        ],
-        "preferred_skills": [],
-        "experience_requirements": []
-      },
-      "salary_min": 107360,
-      "salary_max": 152900,
-      "salary_text": "USD 107,360–152,900/year",
-      "salary_source_text": "USD 107360 - 152900",
-      "salary_currency": "USD",
-      "salary_period": "year",
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<p><em>[</em><a href=\"https://www.quora.com/q/quora/Remote-First-at-Quora\"><em><strong>Quora is a privately held, \"remote-first\" company</strong></em></a><em><strong>. </strong>This position can be performed remotely from anywhere in the US or Canada. Please visit </em><a href=\"http://careers.quora.com/eligible-countries\"><em>careers.quora.com/eligible-countries</em></a><em> for details regarding employment eligibility by country.]</em></p>\n<h2><strong>About <a href=\"https://jobicy.com/company/quora\">Quora</a>:</strong></h2>\n<p>Quora’s mission is to grow the world's collective intelligence. To do so, we have two platforms:</p>\n<ul>\n<li>\n<p><a href=\"http://quora.com\">Quora</a>: a global knowledge sharing platform with millions of monthly unique visitors, bringing people together to share insights on various topics and providing a unique platform to learn and connect with others.</p>\n</li>\n<li>\n<p><a href=\"https://poe.com/\">Poe</a>: a cloud workspace where millions of users run multiple AI agents on shared context and tools. One subscription, every frontier model, and the collaboration layer that makes them work together.</p>\n</li>\n</ul>\n<p>Behind these products are passionate, collaborative, and high-performing global teams. We have a culture rooted in transparency, idea-sharing, and experimentation that allows us to celebrate success and grow together through meaningful work. Join us on this journey to create a positive impact and make a significant change in the world.</p>\n<p><strong>This role will be working on our Quora product.</strong></p>\n<h2><strong>About the Team and Role:</strong></h2>\n<p>Our ML team is small and highly collaborative, working on challenging problems that impact hundreds of millions of Quora users. We encourage engineers to think big, experiment with new ideas, and continuously learn and improve. With over 100 ML models in production, engineers have opportunities to take ownership of meaningful projects, work closely with experienced teammates, and quickly see the impact of their work.</p>\n<p>We're building the next generation of AI-powered systems to improve content quality and safety across Quora. By leveraging LLMs and agentic workflows, we're transforming how we detect harmful content, automate complex decisions, and respond to evolving challenges at scale. As a <strong>Machine Learning Engineer (New Grad)</strong>, you'll work alongside experienced engineers to design, evaluate, and deploy these systems in production.</p>\n<p><strong>No previous trust and safety experience is required.</strong> You'll learn from the engineers who built these systems.</p>\n<p><strong>Stack:</strong> Python, PyTorch, TensorFlow, Spark, Kubernetes</p>\n<h2><strong>Responsibilities:</strong></h2>\n<ul>\n<li>\n<p>Design, build, and deploy LLM-powered agents to detect and address spam, harassment, and other policy-violating content at Quora's scale</p>\n</li>\n<li>\n<p>Develop agentic workflows to automate complex tasks, improving the efficiency and effectiveness of our content and user moderation systems</p>\n</li>\n<li>\n<p>Design and improve ML systems that adapt to evolving abuse patterns and new challenges</p>\n</li>\n<li>\n<p>Evaluate agent performance through offline evaluations, online experiments, and production monitoring, balancing accuracy, reliability, latency, and cost</p>\n</li>\n<li>\n<p>Investigate failure cases, experiment with new approaches, and iterate on solutions to improve system performance</p>\n</li>\n<li>\n<p>Identify new opportunities to apply ML and LLMs to content quality and safety across Quora</p>\n</li>\n<li>\n<p>Collaborate with experienced engineers and take ownership of projects from early development through production</p>\n</li>\n</ul>\n<h2><strong>Minimum Requirements:</strong></h2>\n<ul>\n<li>\n<p><strong>Availability for meetings and impromptu communication during Quora's “</strong><a href=\"https://quora.com/coordination_hours\"><strong>coordination hours</strong></a><strong>\" (Mon-Fri: 9am-3pm Pacific Time)</strong></p>\n</li>\n<li>\n<p>B.S., M.S., or Ph.D. in Computer Science, Engineering or a related technical field, completed or in progress</p>\n</li>\n<li>\n<p>Strong understanding of mathematical foundations of Machine Learning algorithms</p>\n</li>\n<li>\n<p>Coursework, research, or project experience with LLM applications or transformer models</p>\n</li>\n<li>\n<p>Strong knowledge of Python</p>\n</li>\n<li>\n<p>A passion for learning and always improving yourself and the team around you</p>\n</li>\n<li>\n<p><strong>Able to start full-time in early 2027</strong></p>\n</li>\n</ul>\n<h2><strong>Preferred Requirements:</strong></h2>\n<ul>\n<li>\n<p>Previous software engineering experience via an internship, work experience, open-source contribution or coding competition</p>\n</li>\n<li>\n<p>Hands-on experience building and evaluating LLM agents, in projects, research, internships, or production</p>\n</li>\n<li>\n<p>Regular use of AI coding tools such as Claude Code or Codex</p>\n</li>\n<li>\n<p>Coursework or projects in natural language processing (NLP)</p>\n</li>\n<li>\n<p>Genuine interest in content safety and quality</p>\n</li>\n<li>\n<p>Passion for Quora's mission and goals</p>\n</li>\n</ul>\n<p><strong>At Quora, we value diversity and inclusivity and welcome individuals from all backgrounds, including marginalized or underrepresented groups in tech, to apply for our job openings. We encourage all candidates who share a passion for growing the world’s knowledge, even those who may not strictly meet all the preferred requirements, to apply, as we know that a diverse range of perspectives can have a significant impact on our products and our culture.</strong></p>\n<h2><strong>Additional Information:</strong></h2>\n<p>We are accepting applications on an ongoing basis. This role is a backfill for an existing vacancy.</p>\n<p>Quora offers a wide range of benefits including medical/dental/vision coverage, equity refreshers, remote work reimbursement, paid time off, employee assistance programs, and more. Benefits are country-specific and may vary.</p>\n<p>There are many factors that will determine the starting compensation, including but not limited to experience, location, education, and business needs.</p>\n<ul>\n<li>\n<p>US candidates only: For US based applicants, the salary range is $107,360 - $152,900 USD + equity + benefits.</p>\n</li>\n<li>\n<p>Canada candidates only: For Toronto and Vancouver based applicants, the salary range is $137,852 - $157,061 CAD + equity + benefits. For all other locations in Canada, the salary range is $128,661 - $146,590 CAD + equity + benefits.</p>\n</li>\n<li>\n<p>In equity-eligible countries, we currently also offer a flexible equity program where a portion of equity compensation may be taken as cash.</p>\n</li>\n</ul>\n<p>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</p>\n<p>AI technology may assist in sorting applications and recording interview notes, but all decisions are made by a member of our team.</p>\n<p><strong>To ensure a secure hiring process, all final candidates will undergo identity verification and a comprehensive background check prior to onboarding.</strong></p>\n<p>Job Applicant Privacy Notice: <a href=\"https://careers.quora.com/quora-global-job-applicant-privacy-notice\">https://careers.quora.com/quora-global-job-applicant-privacy-notice</a></p>\n<p>#LI-JC1<br>\n#LI-REMOTE</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/machine-learning-engineer-new-grad-quora-quora</p>",
-      "posted_at": "2026-10-26T10:35:54+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "7ddcd2d4-bc50-45a1-85fc-46bde1075c85",
-      "title": "Full Stack Software Engineer, New Grad - Quora",
-      "url": "https://remotejobs.org/remote-jobs/full-stack-software-engineer-new-grad-quora-quora",
-      "apply_url": "https://remotejobs.org/remote-jobs/full-stack-software-engineer-new-grad-quora-quora",
-      "company": {
-        "name": "Quora",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/92e93beb53bf8321fdb31942c296356b6c2b1dd228cd39a45b2aa53baf8a79e7.webp",
-        "website": "https://careers.quora.com",
-        "url": "https://remotejobs.org/companies/quora"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "Canada,  USA",
-      "location_normalization": {
-        "raw": "Canada,  USA",
-        "input": {},
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "CA",
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "partial",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [
-          "America/Los_Angeles"
-        ],
-        "conditions": [
-          {
-            "kind": "timezone",
-            "areas": [],
-            "effect": "require",
-            "details": "Availability for meetings and impromptu communication during Quora's coordination hours (Mon-Fri: 9am-3pm Pacific Time).",
-            "regions": [],
-            "timezones": [
-              "America/Los_Angeles"
-            ],
-            "evidence_id": "c2",
-            "conditional_on": null
-          }
-        ],
-        "unresolved": [
-          "Country-level employment eligibility details referenced at careers.quora.com/eligible-countries were not supplied, so eligibility beyond the stated US or Canada remote permission cannot be confirmed."
-        ],
-        "evidence_ids": [
-          "c1",
-          "c2"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "remote",
-        "allowed_countries": [
-          "CA",
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": null,
-        "role_family": "software-engineering",
-        "required_skills": [],
-        "mentioned_skills": [
-          "python",
-          "react",
-          "sql",
-          "typescript"
-        ],
-        "preferred_skills": [],
-        "experience_requirements": []
-      },
-      "salary_min": 97600,
-      "salary_max": 139000,
-      "salary_text": "USD 97,600–139,000/year",
-      "salary_source_text": "USD 97600 - 139000",
-      "salary_currency": "USD",
-      "salary_period": "year",
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<p><em>[</em><a href=\"https://www.quora.com/q/quora/Remote-First-at-Quora\"><em><strong>Quora is a privately held, \"remote-first\" company</strong></em></a><em><strong>. </strong>This position can be performed remotely from anywhere in the US or Canada. Please visit </em><a href=\"http://careers.quora.com/eligible-countries\"><em>careers.quora.com/eligible-countries</em></a><em> for details regarding employment eligibility by country.]</em></p>\n<h2><strong>About <a href=\"https://jobicy.com/company/quora\">Quora</a>:</strong></h2>\n<p>Quora’s mission is to grow the world's collective intelligence. To do so, we have two platforms:</p>\n<ul>\n<li>\n<p><a href=\"http://quora.com\">Quora</a>: a global knowledge sharing platform with millions of monthly unique visitors, bringing people together to share insights on various topics and providing a unique platform to learn and connect with others.</p>\n</li>\n<li>\n<p><a href=\"https://poe.com/\">Poe</a>: a cloud workspace where millions of users run multiple AI agents on shared context and tools. One subscription, every frontier model, and the collaboration layer that makes them work together.</p>\n</li>\n</ul>\n<p>Behind these products are passionate, collaborative, and high-performing global teams. We have a culture rooted in transparency, idea-sharing, and experimentation that allows us to celebrate success and grow together through meaningful work. Join us on this journey to create a positive impact and make a significant change in the world.</p>\n<p><strong>This role will be working on our Quora product.</strong></p>\n<h2><strong>About the Team and Role:</strong></h2>\n<p>Every day, millions of people seek answers and share their knowledge through Quora. To foster this marketplace of knowledge, we need to build systems that make sharing knowledge rewarding and discovering it easy; that show you answers to questions you didn't know you had, on topics you didn't know you liked, and that scale to support the participation of the entire planet.</p>\n<p>The Quora Core Product team is the creative powerhouse behind the most critical features of the Quora product. This team is responsible for the continuous evolution of the Quora user experience. Our engineers work at the intersection of software development, design, and data science to build intuitive features that foster knowledge sharing and community engagement.</p>\n<p>As a Software Engineer on the Quora Core Product team, you will:</p>\n<ul>\n<li>\n<p>Have a significant impact on a wide array of features that are essential to the Quora community, working on projects that improve user engagement, drive user growth, generate informative and engaging content using AI, ensure high-quality content through effective moderation, and enhance the overall creator experience</p>\n</li>\n<li>\n<p>Leverage data and experimentation to create solutions that will reach millions of users</p>\n</li>\n<li>\n<p>Engage with a fast-paced development environment, delivering engaging features that meet our high standards of quality and performance</p>\n</li>\n</ul>\n<h2><strong>Responsibilities:</strong></h2>\n<ul>\n<li>\n<p>Develop full stack applications with Python and React</p>\n</li>\n<li>\n<p>Contribute to projects that shape our core product experience — driving growth, ensuring healthy moderation, and empowering creators</p>\n</li>\n<li>\n<p>Design and launch product features at massive scale, using data and experimentation to guide each iteration</p>\n</li>\n<li>\n<p>Drive projects from ideation to production using the full technology stack</p>\n</li>\n<li>\n<p>Collaborate with designers, product managers, fellow engineers, and data scientists to prototype and implement functionality and analyze impact</p>\n</li>\n<li>\n<p>Participate in the team’s on-call rotation to ensure Quora provides a reliable and high quality product</p>\n</li>\n</ul>\n<h2><strong>Minimum Requirements:</strong></h2>\n<ul>\n<li>\n<p><strong>Availability for meetings and impromptu communication during Quora's “</strong><a href=\"https://quora.com/coordination_hours\"><strong>coordination hours</strong></a><strong>\" (Mon-Fri: 9am-3pm Pacific Time)</strong></p>\n</li>\n<li>\n<p>A 2025 or 2026 graduate with or pursuing a B.S., M.S., or Ph.D. in Computer Science, Engineering, or a related technical field</p>\n</li>\n<li>\n<p>Foundational understanding of data structures, algorithms, and software design through coursework or practical experience</p>\n</li>\n<li>\n<p>Experience with Python or similar programming language, or the ability to learn them quickly</p>\n</li>\n<li>\n<p>A passion for learning and always improving yourself and the team around you</p>\n</li>\n</ul>\n<h2><strong>Preferred Requirements:</strong></h2>\n<ul>\n<li>\n<p>Previous software engineering experience via an internship, work experience, and/or coding competition</p>\n</li>\n<li>\n<p>Familiarity with Python, React, TypeScript and/or SQL</p>\n</li>\n<li>\n<p>Passion for Quora's mission and goals</p>\n</li>\n<li>\n<p>Curiosity about AI and hands-on experience exploring AI tools or building AI-powered projects through coursework, personal projects, or previous work-experience</p>\n</li>\n</ul>\n<p><strong>At Quora, we value diversity and inclusivity and welcome individuals from all backgrounds, including marginalized or underrepresented groups in tech, to apply for our job openings. We encourage all candidates who share a passion for growing the world’s knowledge, even those who may not strictly meet all the preferred requirements, to apply, as we know that a diverse range of perspectives can have a significant impact on our products and our culture.</strong></p>\n<h2><strong>Additional Information:</strong></h2>\n<p>We are accepting applications on an ongoing basis. This role is a backfill for an existing vacancy.</p>\n<p>Quora offers a wide range of benefits including medical/dental/vision coverage, equity refreshers, remote work reimbursement, paid time off, employee assistance programs, and more. Benefits are country-specific and may vary.</p>\n<p>There are many factors that will determine the starting compensation, including but not limited to experience, location, education, and business needs.</p>\n<ul>\n<li>\n<p>US candidates only: For US based applicants, the salary range is $97,600 - $139,000 USD + equity + benefits.</p>\n</li>\n<li>\n<p>Canada candidates only: For Toronto and Vancouver based applicants, the salary range is $125,320 - $142,783 CAD + equity + benefits. For all other locations in Canada, the salary range is $116,965 - $133,264 CAD + equity + benefits.</p>\n</li>\n<li>\n<p>In equity-eligible countries, we currently also offer a flexible equity program where a portion of equity compensation may be taken as cash.</p>\n</li>\n</ul>\n<p>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</p>\n<p>AI technology may assist in sorting applications and recording interview notes, but all decisions are made by a member of our team.</p>\n<p><strong>To ensure a secure hiring process, all final candidates will undergo identity verification and a comprehensive background check prior to onboarding.</strong></p>\n<p>Job Applicant Privacy Notice: <a href=\"https://careers.quora.com/quora-global-job-applicant-privacy-notice\">https://careers.quora.com/quora-global-job-applicant-privacy-notice</a></p>\n<p>#LI-REMOTE</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/full-stack-software-engineer-new-grad-quora-quora</p>",
-      "posted_at": "2026-10-26T10:35:51+00:00",
       "is_translated": false,
       "original_language": null
     },
