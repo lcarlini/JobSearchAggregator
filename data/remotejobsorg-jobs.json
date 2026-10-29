@@ -1,7 +1,102 @@
 {
-  "generatedAt": "2026-10-29T12:27:48.489Z",
+  "generatedAt": "2026-10-29T22:32:35.026Z",
   "count": 150,
   "data": [
+    {
+      "id": "df8612c4-ae68-45be-9023-0340c486144c",
+      "title": "Senior Software Architect, Security Platform",
+      "url": "https://remotejobs.org/remote-jobs/senior-software-architect-security-platform-keeper-security",
+      "apply_url": "https://remotejobs.org/remote-jobs/senior-software-architect-security-platform-keeper-security",
+      "company": {
+        "name": "Keeper Security",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/35ff33364005c961c0314675408b45b357da66f4a14204cef7aa1686b9926106.webp",
+        "website": "https://keepersecurity.com",
+        "url": "https://remotejobs.org/companies/keeper-security"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "Remote, US",
+      "location_normalization": {
+        "raw": "Remote, US",
+        "input": {},
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": "senior",
+        "role_family": null,
+        "required_skills": [
+          "aws",
+          "cpp",
+          "golang",
+          "java",
+          "javascript",
+          "kotlin",
+          "kubernetes",
+          "react",
+          "rust",
+          "typescript"
+        ],
+        "mentioned_skills": [],
+        "preferred_skills": [],
+        "experience_requirements": []
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "4470724009",
+      "direct_apply": null,
+      "description": "<p><strong>Description</strong></p><p>Keeper Security is hiring a Senior Software Architect, Security Platforms to help define and drive architecture across Keeper’s product portfolio, including Privileged Access Management, Browser Extension and other core application platforms.This is a 100% remote position, with an opportunity to work a hybrid schedule for candidates based in the El Dorado Hills, CA or Chicago, IL metro areas.</p><p>Keeper’s cybersecurity software is trusted by millions of people and thousands of organizations globally. Keeper is published in 23 languages and sold in over 150 countries. Join one of the fastest-growing cybersecurity companies and help shape the architecture behind Keeper’s next generation of security products and platforms</p><p><strong>About Keeper</strong></p><p>Keeper Security is one of the fastest-growing cybersecurity software companies that protects thousands of organizations and millions of people in over 150 countries. Keeper is a pioneer of zero-knowledge and zero-trust security built for any IT environment. Its core offering, KeeperPAM®, is an AI-enabled, cloud-native platform that protects all users, devices and infrastructure from cyber attacks. Recognized for its innovation in the Gartner Magic Quadrant for Privileged Access Management (PAM), Keeper secures passwords and passkeys, infrastructure secrets, remote connections and endpoints with role-based enforcement policies, least privilege and just-in-time access. Learn why Keeper is trusted by leading organizations to defend against modern adversaries at KeeperSecurity.com. </p><p><strong>About the Job</strong></p><p>As a Senior Software Architect, Security Platforms, you will provide architectural leadership across multiple Keeper engineering teams and product areas. You will work across frontend, backend, client, browser and security platforms to establish scalable technical patterns, resolve complex cross-product architectural challenges and guide teams through major design decisions.</p><p>This is not a purely advisory role. You will remain hands-on with architecture, prototyping, code reviews and technical problem solving while partnering with Engineering, Product and Security leadership to ensure Keeper’s systems remain secure, performant and maintainable as the platform grows. The ideal candidate has broad full-stack architecture experience, deep software engineering fundamentals and the ability to move comfortably across product domains, technologies and operating environments.</p><p><strong>Responsibilities:</strong></p><ul>\n<li>Define and drive architecture across multiple Keeper product areas, including PAM, Browser Extension and other core security platforms</li>\n<li>Establish scalable architectural patterns and technical standards across frontend, backend, client and distributed systems</li>\n<li>Lead architecture reviews and major technical design decisions for complex cross-product initiatives</li>\n<li>Partner with Engineering leadership and product teams to translate business and product requirements into scalable technical designs</li>\n<li>Evaluate trade-offs across centralized and distributed architectures, monoliths and microservices, synchronous and asynchronous systems and cloud-native deployment models</li>\n<li>Design systems with strong consideration for security, reliability, performance, extensibility and maintainability</li>\n<li>Guide architecture for APIs, services, authentication, authorization, data flows and integration patterns across product teams</li>\n<li>Provide technical leadership for high-scale SaaS systems and security-sensitive workflows</li>\n<li>Support architecture across browser-based, desktop, endpoint and platform components where applicable</li>\n<li>Identify architectural risks, technical debt and scalability constraints and drive pragmatic remediation strategies</li>\n<li>Build prototypes or reference implementations to validate architectural approaches and de-risk major initiatives</li>\n<li>Review critical code and design changes and provide technical guidance to senior and staff-level engineers</li>\n<li>Partner with Security teams on secure architecture, threat modeling and protection of sensitive data and credentials</li>\n<li>Establish standards for observability, reliability, testing and operational readiness across distributed systems</li>\n<li>Mentor senior engineers and influence technical direction across multiple engineering teams</li>\n<li>Evaluate new technologies, frameworks and architectural approaches that can improve platform capabilities and developer productivity</li>\n<li>Use AI-assisted development tools such as Claude, ChatGPT, GitHub Copilot or similar platforms to accelerate technical research, prototyping, coding, debugging and documentation</li>\n</ul><p><strong>Requirements</strong></p><ul>\n<li>10+ years of professional software engineering experience, including significant software architecture or technical leadership responsibilities</li>\n<li>Proven experience architecting and delivering large-scale production software across multiple product or platform areas</li>\n<li>Strong full-stack technical background across frontend, backend, APIs and distributed systems</li>\n<li>Experience designing highly available, scalable and secure SaaS architectures</li>\n<li>Strong understanding of software design patterns, object-oriented and modular design principles and architectural trade-offs</li>\n<li>Experience with distributed systems, microservices, event-driven architecture and cloud-native application design</li>\n<li>Strong understanding of authentication, authorization, identity, access control and secure application architecture</li>\n<li>Experience designing and integrating APIs, shared services and cross-product platform capabilities</li>\n<li>Strong knowledge of relational and non-relational database architecture, data modeling and performance considerations</li>\n<li>Experience with cloud infrastructure and modern deployment environments such as AWS, containers and Kubernetes</li>\n<li>Strong understanding of application performance, profiling, debugging and reliability engineering</li>\n<li>Experience evaluating architectural trade-offs involving scalability, resiliency, maintainability and developer velocity</li>\n<li>Proven ability to work across multiple engineering teams and influence technical decisions without direct authority</li>\n<li>Strong written and verbal communication skills with the ability to explain complex technical concepts to engineers, Product and leadership</li>\n<li>Demonstrated ability and willingness to use modern AI-assisted development tools effectively for research, architecture, coding and technical analysis</li>\n<li>Bachelor’s degree in Computer Science, Engineering or a related technical field, or equivalent practical experience</li>\n</ul><h2><strong>Preferred Qualifications</strong></h2><ul>\n<li>Experience architecting browser extensions, desktop applications or client-side security platforms</li>\n<li>Experience with modern JavaScript/TypeScript frameworks such as React</li>\n<li>Experience with backend technologies such as Java, Kotlin, Rust, C++, Go or similar languages</li>\n<li>Familiarity with browser security models, extension architecture, CORS and web application security</li>\n<li>Experience with endpoint security, operating system integrations or native client development</li>\n<li>Familiarity with CI/CD, automated testing and secure software supply chain practices</li>\n<li>Experience with observability platforms, performance testing and production diagnostics</li>\n<li>Familiarity with accessibility standards, analytics platforms or enterprise product requirements</li>\n<li>Experience working across AI-enabled product initiatives, agentic systems or modern AI development workflows</li>\n</ul><p><strong>Benefits</strong></p><ul>\n<li>Medical, Dental &#x26; Vision (inclusive of domestic partnerships)</li>\n<li>Employer Paid Life Insurance &#x26; Employee/Spouse/Child Supplemental life</li>\n<li>Voluntary Short/Long Term Disability Insurance</li>\n<li>401K (Roth/Traditional)</li>\n<li>A generous PTO plan that celebrates your commitment and seniority (including paid Bereavement/Jury Duty, etc)</li>\n</ul><p>Keeper Security, Inc. is an equal opportunity employer and participant in the U.S. Federal E-Verify program. We celebrate diversity and are committed to creating an inclusive environment for all employees.</p><p><strong>Classification</strong>: Exempt</p><p><strong>Keeper Candidate Privacy Notice</strong></p><p>This notice explains how Keeper Security processes your personal data during recruitment. Depending on the role and location, the Controller of personal data (the organization responsible for determining why and how personal data is processed) will be Keeper Security Inc. (US), Keeper Security EMEA Ltd. (Ireland), or Keeper Security APAC K.K (Japan).</p><p> 1. <strong>Data We Collect</strong></p><p>Information You provide:</p><ul>\n<li>Contact details, CV/resume, cover letter</li>\n<li>Employment history, qualifications, work eligibility</li>\n<li>Application responses and uploaded documents</li>\n</ul><p>Information We generate:</p><ul>\n<li>Interview notes, assessments, communications</li>\n<li>Scheduling information</li>\n</ul><p>Information From Others:</p><ul>\n<li>Recruiter/referral information who submit your profile</li>\n<li>References (with your consent, before final offer)</li>\n<li>Public professional profiles</li>\n<li>Background verification (post offer)</li>\n</ul><p> Voluntary Diversity and Equal Opportunity Information</p><ul>\n<li>We may ask you to voluntarily provide diversity information including race/ethnicity, gender, disability status and veteran status (US). Providing this information is optional and Keeper collects this data in order to comply with EEOC and similar requirements</li>\n</ul><p> 2. <strong>How We Use Your Data</strong></p><ul>\n<li>Assess your application and suitability</li>\n<li>Manage interviews and recruitment workflow</li>\n<li>Consider you for other/future roles (we may seek your consent to keep your information on our systems beyond the retention period specified)</li>\n<li>Comply with employment law obligations</li>\n</ul><p> 3. <strong>Legal Basis</strong></p><ul>\n<li>Legitimate Interests (recruitment management, security and integrity of the hiring process)</li>\n<li>Contracting steps (for progressed candidates)</li>\n<li>Legal and regulatory compliance obligations; explicit consent where required</li>\n</ul><p> 4. <strong>Who We Share Information With</strong></p><p>Internal: </p><ul>\n<li>HR, hiring managers, interviewers*, IT support for system administration</li>\n</ul><p>*Note - diversity and equal opportunity data is not shared with hiring managers.</p><p>Third Parties:</p><p>Service providers who assist with:</p><ul>\n<li>Applicant tracking, recruitment systems and assessment providers</li>\n<li>Background verification vendors (post offer)</li>\n<li>Recruitment agencies (where applicable)</li>\n<li>Tools to support communication, collaboration and to securely store your data</li>\n</ul><p>Keeper ensures that all our third parties are contractually bound to protect your personal data with adequate safeguards in place.</p><p> 5. <strong>International Transfers</strong></p><p>Your data may be accessed by Keeper entities globally as needed for the purposes of hiring and decision making. We protect any such data transfer between Keeper entities using appropriate safeguards under applicable data protection laws. </p><p>6. <strong>Security</strong></p><p>We implement appropriate technical and organizational measures to protect your data, consistent with our industry leading security standards.</p><p>7. <strong>Retention</strong></p><p>We keep your data for 24 months from your last application activity, then delete or anonymize it. </p><p>Exceptions:</p><ul>\n<li>You opt into our talent database for further retention by providing consent (extended retention)</li>\n<li>You're hired (transfers to employee records)</li>\n</ul><p> 8. <strong>Your Rights</strong></p><p>You have the following rights and can contact us at the email below to exercise them:</p><ul>\n<li>Access, correct, or delete your data, subject to applicable law and retention requirements</li>\n<li>Object to or restrict processing</li>\n<li>Withdraw consent (where applicable)</li>\n<li>Request data portability</li>\n<li>Lodge a complaint with your data protection authority</li>\n</ul><p>If you become an employee, your rights regarding your employee record are governed by our internal Employee Privacy Notice and certain data will be retained as required under relevant laws such as employment or tax law. </p><p>When you request access to your personal data, some information may be redacted if it includes the personal data of other individuals or information that we must protect in order to preserve their privacy rights.</p><p> 9. <strong>Automated Decisions</strong></p><p>Keeper does not make hiring decisions using solely automated processing.</p><p>10. <strong>Contact</strong> - Candidates can send privacy questions to: privacy@keepersecurity.com</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-software-architect-security-platform-keeper-security</p>",
+      "posted_at": "2026-10-28T15:13:40+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
     {
       "id": "386173d1-3eaf-4373-9751-5238248ecba2",
       "title": "Staff Site Reliability Engineer - Dev Platform",
@@ -3623,6 +3718,97 @@
       "original_language": null
     },
     {
+      "id": "35eababa-9e8c-4393-9fd4-97575d3bdd49",
+      "title": "Deployment Engineer",
+      "url": "https://remotejobs.org/remote-jobs/deployment-engineer-pattern-data",
+      "apply_url": "https://remotejobs.org/remote-jobs/deployment-engineer-pattern-data",
+      "company": {
+        "name": "Pattern Data",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/a841a7f3f354cee97dde9f192434aa7d5c891a590d5978a876252562c3750eb2.png",
+        "website": "https://pattern.com",
+        "url": "https://remotejobs.org/companies/pattern-data"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "Lehi, UT, US",
+      "location_normalization": {
+        "raw": "Lehi, UT, US",
+        "input": {
+          "workArrangement": "hybrid"
+        },
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [
+          "lehi"
+        ],
+        "work_arrangement": "hybrid",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "worksite_countries": [
+          "US"
+        ],
+        "allowed_subdivisions": [
+          "US-UT"
+        ],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "hybrid",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [
+          "US-UT"
+        ],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "unknown",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": null,
+        "role_family": null,
+        "required_skills": [],
+        "mentioned_skills": [],
+        "preferred_skills": [],
+        "experience_requirements": []
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "c436505e-adc2-45ca-83ea-acb772f63e9f",
+      "direct_apply": null,
+      "description": "<p>Are you obsessed with data, partner success, taking action, and changing the game? If you have a whole lot of hustle and a touch of nerd, come work with Pattern! We want you to use your skills to push one of the fastest-growing companies headquartered in the US to the top of the list. </p><p>Pattern accelerates brands on global ecommerce marketplaces leveraging proprietary technology and AI. Utilizing more than 66 trillion data points, sophisticated machine learning and AI models, Pattern optimizes and automates all levers of ecommerce growth for global brands, including advertising, content management, logistics and fulfillment, pricing, forecasting and customer service. Hundreds of global brands depend on Pattern’s ecommerce acceleration platform every day to drive profitable revenue growth across 60+ global marketplaces—including Amazon, <a href=\"http://walmart.com/\">Walmart.com</a>, <a href=\"http://target.com/\">Target.com</a>, eBay, Tmall, TikTok Shop, JD, and Mercado Libre. To learn more, visit <a href=\"http://pattern.com/\">pattern.com</a> or email <a href=\"mailto:press@pattern.com\">press@pattern.com</a>.</p><p>Pattern has been named one of the fastest growing tech companies headquartered in North America by Deloitte and one of best-led companies by Inc. We place employee experience at the center of our business model and have been recognized as one of Newsweek’s Global Most Loved Workplaces®.</p><p>As a Deployment Engineer, you will drive the design, planning, and hands-on execution of new facility launches, trials of new technologies, and automation retrofits across our rapidly expanding infrastructure. Reporting directly to the Project Management Fulfillment Engineer, you’ll take full ownership of critical capital initiatives, bridging facility design, vendor execution, and operational strategy. This is your opportunity to build physical infrastructure from the ground up and shape how automated systems scale alongside our unstoppable ecommerce growth!</p><h2>What is a day in the life of a Deployment Engineer?</h2><ul>\n<li>\n<p>Lead new site design projects from initial concept through execution, ensuring seamlessly integrated facility layouts and automated systems.</p>\n</li>\n<li>\n<p>Develop and maintain precise AutoCAD facility drawings, layouts, and design documentation for new builds, expansions, and retrofits.</p>\n</li>\n<li>\n<p>Manage capital planning processes, including pulling together vendor cost estimates, budget development, ROI analyses, and project prioritization.</p>\n</li>\n<li>\n<p>Direct end-to-end project management for automation and facility projects (e.g., conveying, material handling, and package sorting systems), ensuring on-time and on-budget delivery.</p>\n</li>\n<li>\n<p>Coordinate cross-functional stakeholders across 20–30 internal/external groups, persuading teams to meet aggressive milestones and budget targets.</p>\n</li>\n<li>\n<p>Conduct engineering analyses and process redesigns to identify and implement continuous operational efficiency improvements.</p>\n</li>\n<li>\n<p>Travel up to 25% (with potential peak travel during major site buildouts) to manage on-site commissioning and construction across national fulfillment hubs.</p>\n</li>\n\n</ul><h2>What will I need to thrive in this role?</h2><ul>\n<li>\n<p><strong>Education &#x26; Experience:</strong> B.S. in Engineering (Industrial, Mechanical, or related field) with 3+ years of project management experience on large-scale capital or facilities projects.</p>\n</li>\n<li>\n<p><strong>Design Tools:</strong> Proficiency in AutoCAD for facility layouts and design documentation is required.</p>\n</li>\n<li>\n<p><strong>Technical Mastery:</strong> Strong background in warehouse, logistics, or industrial design, including familiarity with automation systems (conveyors, sorters, material handling equipment).</p>\n</li>\n<li>\n<p><strong>Data &#x26; AI Analytics:</strong> Highly fluent in Microsoft Excel for complex data analysis, building analytical models, and leveraging AI tools (e.g., Claude) to streamline operations.</p>\n</li>\n<li>\n<p><strong>Stakeholder Influence:</strong> Ability to manage cross-functional teams and external partners without direct authority to drive project accountability.</p>\n</li>\n<li>\n<p><strong>Flexibility &#x26; Mobility:</strong> Comfortable with ambiguity, an outcomes-driven mindset, and willingness to travel ~25% as site deployment schedules require.</p>\n</li>\n\n</ul><h2>What does high performance look like?</h2><ul>\n<li>\n<p><strong>Project Completion &#x26; Execution:</strong> Delivers capital facilities and retrofits on time and within budget through meticulous risk management, clear timeline tracking, and proactive troubleshooting.</p>\n</li>\n<li>\n<p><strong>Project Completion &#x26; Execution:</strong> Produces accurate, high-quality AutoCAD layouts, cost estimates, and technical specifications that pass executive and leadership reviews with minimal friction.</p>\n</li>\n<li>\n<p><strong>Team Impact &#x26; 'Team of Doers':</strong> Demonstrates extreme autonomy by solving appropriate fires independently before escalating to leadership.</p>\n</li>\n<li>\n<p><strong>Team Impact &#x26; 'Team of Doers':</strong> Effectively builds rapport across distinct teams (facilities, maintenance, finance, vendors) to maintain alignment and high energy across complex project lifecycles.</p>\n</li>\n\n</ul><h2>What is my potential for career growth?</h2><ul>\n<li>\n<p>Ownership of high-visibility, multi-million dollar capital expansion projects across key global logistical hubs.</p>\n</li>\n<li>\n<p>Clear pathway toward senior engineering and project leadership roles as Pattern scales its physical infrastructure footprint.</p>\n</li>\n<li>\n<p>High exposure to executive leadership through direct presentation of capital investment plans, financial analyses, and site designs.</p>\n</li>\n<li>\n<p>Cross-functional cross-skilling by collaborating closely with specialized maintenance managers, finance executives, and engineering leaders.</p>\n</li>\n\n</ul><h2>What does success look like in the first 30, 60, 90 days?</h2><ul>\n<li>\n<p><strong>First 30 Days:</strong> Onboard onto Pattern's engineering tools and operational workflows; build relationships with key maintenance and facilities partners; gain deep familiarity with active site plans and upcoming expansion schedules (e.g., major upcoming facility launches).</p>\n</li>\n<li>\n<p><strong>First 60 Days:</strong> Take co-ownership of an active site project or technology retrofit; independently manage AutoCAD layout updates; interface directly with equipment vendors on cost estimations and delivery timelines.</p>\n</li>\n<li>\n<p><strong>First 90 Days:</strong> Fully own specific project deliverables and site launch milestones; deliver accurate ROI and cost analyses independently; manage on-site deployment activities with minimal leadership supervision.</p>\n</li>\n\n</ul><h2>What is the team like?</h2><p>This role reports directly to the <strong>Project Management Fulfillment Engineer</strong>. You will be joining a growing team of dedicated reliability, maintenance, and engineering professionals. In this role, you will collaborate closely with <strong>Facilities Maintenance Managers</strong>, <strong>Maintenance Engineers</strong>, and <strong>Vendor Partners</strong>, as well as other departments including <strong>Finance</strong>, <strong>Logistics</strong>, and <strong>Operations</strong>. This position is mentored by the <strong>VP of Reverse Logistics and Facilities</strong>.</p><h2>Sounds great! What’s the company culture?</h2><p>We are looking for individuals who are:</p><ul>\n<li>\n<p><strong>Game Changers</strong> - A game changer is someone who looks at problems with an open mind and shares new ideas with team members, regularly reassesses existing plans and attaches a realistic timeline to goals, makes profitable, productive, and innovative contributions, and actively pursues improvements to Pattern’s processes and outcomes.</p>\n</li>\n<li>\n<p><strong>Data Fanatics</strong> - A data fanatic is someone who recognizes problems and seeks to understand them through data, draws unbiased conclusions based on data that lead to actionable solutions, and continues to track the effects of the solutions using data.</p>\n</li>\n<li>\n<p><strong>Partner Obsessed</strong> - An individual who is partner obsessed clearly explains the status of projects to partners and relies on constructive feedback, actively listens to partner’s expectations, and delivers results that exceed them, prioritizes the needs of your partners, and takes the time to create a personable experience for those interacting with Pattern.</p>\n</li>\n<li>\n<p><strong>Team of Doers</strong> - Someone who is a part of a team of doers uplifts team members and recognizes their specific contributions, takes initiative to help in any circumstance, actively contributes to supporting improvements, and holds themselves accountable to the team as well as to partners.</p>\n</li>\n\n</ul><h2>What is the hiring process?</h2><ol>\n<li>\n<p>Recruiter Phone Interview</p>\n</li>\n<li>\n<p>Hiring Manager Video Interview</p>\n</li>\n<li>\n<p>Panel Video Interview / Topgrading Interview</p>\n</li>\n<li>\n<p>Reference Checks</p>\n</li>\n<li>\n<p>Executive Review &#x26; Offer</p>\n</li>\n</ol><h2>How can I stand out as an applicant?</h2><p><strong>Strong Nice-to-Haves:</strong></p><ul>\n<li>\n<p>Experience with <strong>FlexSim</strong> simulation software.</p>\n</li>\n<li>\n<p>Ability to write <strong>Excel Macros/VBA</strong> for automated engineering data processing.</p>\n</li>\n<li>\n<p>Financial modeling experience, specifically conducting financial <strong>ROI analyses</strong> for capital expenditures.</p>\n</li>\n<li>\n<p>Prior background in e-commerce fulfillment center launches or conveyor/sortation system commissioning.</p>\n</li>\n\n<p><strong>Interview Tips:</strong></p>\n<ul>\n<li>\n<p>Highlight instances where you managed a complex project with multiple third-party vendors and delivered results without direct structural authority.</p>\n</li>\n<li>\n<p>Come prepared with concrete examples of facility layouts or automation problems you solved using data and AutoCAD modeling.</p>\n</li>\n<li>\n<p>Emphasize your adaptability, proactive problem-solving mindset, and willingness to travel to project sites during critical commissioning windows.</p>\n</li>\n\n</ul></ul><p><strong>Why should I work at Pattern?</strong></p><p>Pattern offers big opportunities to make a difference in the ecommerce industry! We are a company full of talented people that evolves quickly and often. We set big goals, work tirelessly to achieve them, and we love our Pattern community. We also believe in having fun and balancing our lives, so we offer awesome benefits that include:</p><p>- Unlimited PTO</p><p>- Paid Holidays</p><p>- Onsite Fitness Center</p><p>- Company Paid Life Insurance</p><p>- Casual Dress Code</p><p>- Competitive Pay</p><p>- Health, Vision, and Dental Insurance</p><p>- 401(k) match. Pattern matches 100% of the first 3% in eligible compensation deferred and 50% of the next 2% in eligible compensation deferred. </p><p>Pattern provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability, status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state, or local laws. </p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/deployment-engineer-pattern-data</p>",
+      "posted_at": "2026-10-26T20:17:53.076+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
       "id": "35b652ca-aeb9-44df-8cfc-78237a54ef7b",
       "title": "Senior Software Engineer",
       "url": "https://remotejobs.org/remote-jobs/senior-software-engineer-vested-inc",
@@ -4629,177 +4815,6 @@
       "direct_apply": null,
       "description": "<div><strong>Who are we?  Cohere is the leading security-first enterprise AI company. We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems. <br><br>We’re training and deploying frontier models for enterprises who are building AI systems. We believe that our work is instrumental to the widespread adoption of AI and we are looking for folks that want to be part of that. <br><br>We obsess over what we build. Each one of us is responsible for contributing to increasing the capabilities of our models and the value they drive for our customers. Cohere is a team of researchers, engineers, designers, and more, who are all passionate about their craft. <br><br>We are a global technology company headquartered in Toronto with key offices in London, New York City, San Francisco, Montreal, Paris, Berlin and Seoul. Join us! <br><br><strong>About North  North is Cohere's cutting-edge AI workspace platform, designed to revolutionize the way enterprises utilize AI. It offers a secure and customizable environment, allowing companies to deploy AI while maintaining control over sensitive data. North integrates seamlessly with existing workflows, providing a trusted platform that connects AI agents with workplace tools and applications. <br><br>Why this role? <br><br>This role offers a unique opportunity to shape how enterprises harness the power of AI in real-world applications. As a bridge between our core North product and our clients’ engineering teams, you’ll be at the forefront of solving complex problems and securely integrating AI into critical sectors such as finance, healthcare, and telecommunications. <br><br>We’re looking for Software Engineers with Applied AI experience who can own the design, build, and deployment of agentic workflows powered by Large Language Models (LLMs), from early prototypes to production-grade AI agents, to deliver concrete business value in enterprise workflows. You’ll work closely with customers on real-world business problems, often building first-of-their-kind agent workflows that integrate LLMs with tools, APIs, and data sources. While our pace is startup-fast, the bar is enterprise-high: agents must be reliable, observable, safe, and auditable from day one. <br><br><em>Note: between 20 - 40% travel anticipated. <strong>In This Role, You Will <ul>\n<li>Work closely with our enterprise customers to translate high-value, ambiguous business problems into well-framed agentic workflows with clear success criteria and evaluation methodologies</li>\n<li>Lead the design, build, and delivery of LLM-powered agents that reason, plan, and act across tools, APIs, and sensitive enterprise data sources, with enterprise-grade reliability and performance</li>\n<li>Build and ship features for North, our AI workspace platform, working across the full product lifecycle from conceptualization through production</li>\n<li>Take ownership of scoping and shaping use cases end-to-end, flexing into whatever technical area the problem demands (including frontend) to drive the most effective solution</li>\n<li>Contribute to shared frameworks and patterns that enable consistent, high-quality delivery across customers and teams</li>\n<li>Drive clarity in ambiguous situations, build alignment, and raise engineering quality across the organization</li>\n<li>Travel up to 20–40% to work on-site with customers and partners </li>\n</ul>\n<strong>You May Be a Good Fit If <ul>\n<li>You have hands-on experience building and deploying production-grade software in Python; you write clean, testable, observable, scalable code</li>\n<li>You've built and deployed highly performant RAG and agentic applications, including agents that plan and execute multi-step tasks using patterns like ReAct or Plan-and-Execute</li>\n<li>You're deeply familiar with the LLM stack: frontier models, vector databases, and orchestration frameworks</li>\n<li>You have a proven ability to build robust evaluation frameworks, moving well beyond trial and error, to measure agent accuracy, safety, and latency</li>\n<li>You’re experienced working directly with customers and can lead technical discussions with enterprise stakeholders, translating ambiguous business needs into concrete technical specs</li>\n<li>You have experience owning the full scope of a use case end-to-end</li>\n<li>You thrive in fast-paced and ambiguous environments and can execute well even when priorities are shifting </li>\n</ul>\n<strong>It's a Bonus If You Have <ul>\n<li>Experience setting architectural standards for AI and agentic systems across distributed teams</li>\n<li>Experience flexing into unfamiliar technical areas, such as frontend, when the problem calls for it</li>\n<li>Exposure to regulated or sensitive industry environments (finance, healthcare, telecoms)</li>\n<li>Experience with enterprise security, compliance, or auditability requirements for AI systems </li>\n</ul>\n<strong>Full-Time Employees At Cohere Enjoy These Perks <ul>\n<li>A weekly lunch stipend of $75/£75 or equivalent in your local currency for lunch.</li>\n<li>Full health and dental benefits, including a separate budget for mental health.</li>\n<li>RRSP matching, 401K, Pension Scheme.</li>\n<li>100% Parental Leave top-up for up to 6 months, for either parent.</li>\n<li>Annual enrichment benefits: </li>\n</ul> Arts &#x26; culture, fitness/wellness, quality time, and a workspace improvement credit. <br><br>Education &#x26; learning stipend for conferences, courses, and coaching. <br><br><ul>\n<li>6 weeks of paid vacation (30 working days!)</li>\n<li>Budget for traveling to other offices if you are remote, plus an annual company offsite. </li>\n</ul>\n<strong>How And Where We Work <ul>\n<li>Cohere is remote-friendly, but we also have offices in Toronto, London, New York City, San Francisco, Montreal, Paris, Berlin and Seoul with more opening soon.</li>\n<li>For those in the office: a daily lunch program, plenty of snacks, and regular community and social events.</li>\n<li>For those not near an office: a co-working benefit so you can work alongside others in your city.</li>\n<li>Everyone receives a $500 home office stipend to set up your workspace properly. </li>\n</ul> If any of the above doesn’t line up exactly with your experience, we still encourage you to apply. <br><br>We strive to create an inclusive work environment for all; we welcome applicants from all backgrounds and are committed to providing equal opportunities. Should you require any accommodations during the recruitment process, please submit an Accommodations Request Form, and we will work together to meet your needs. <br><br>We may use AI-enabled tools to screen and assess applicants against the criteria for this position. This helps our recruiters identify potentially qualified candidates, but it doesn't limit the applications our recruiters may review or consider. <br><br><em>Beware of Scams: Cohere will never ask for payment or third-party services (e.g., CV writing) as part of our hiring process. All legitimate roles are listed on the Cohere careers page and LinkedIn only, with all communications from Cohere employees coming from an @cohere.com or @cw.cohere email alias. If jobs are viewed on other sites then please verify these through our</em><em>official careers</em><em>page.  Compensation Range: CA$175K - CA$385K</em></strong></strong></strong></strong></strong></em></strong></strong><em><strong><strong><strong><em><br><p>Job Id: ruv1dN82U1hjeMauAsr9zJJeLMzxLhfBBGcFGCvlmCa4DghM2CP1PTj5NZm/rGtAnqhrI1JPOXXBfGyEZ5zIrrVWInugZ7SaBg==</p></em></strong></strong></strong></em></div><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/forward-deployed-engineer-agentic-platform-urban-ridge-supplies</p>",
       "posted_at": "2026-10-26T13:04:00+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "57cbe05b-825d-4e20-851e-c5542db8fd8e",
-      "title": "Engineering Manager",
-      "url": "https://remotejobs.org/remote-jobs/engineering-manager-imp-software",
-      "apply_url": "https://remotejobs.org/remote-jobs/engineering-manager-imp-software",
-      "company": {
-        "name": "IMP Software",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/d1594d322f348325a20b37619396e642c264bdd07e89d4f7131a697b7802a3d3.png",
-        "website": null,
-        "url": "https://remotejobs.org/companies/imp-software"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "United Kingdom",
-      "location_normalization": {
-        "raw": "United Kingdom",
-        "input": {},
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "GB"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [],
-        "evidence_ids": [
-          "source-location"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "remote",
-        "allowed_countries": [
-          "GB"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": "manager",
-        "role_family": null,
-        "required_skills": [],
-        "mentioned_skills": [
-          "csharp",
-          "react",
-          "sql"
-        ],
-        "preferred_skills": [],
-        "experience_requirements": []
-      },
-      "salary_min": 80000,
-      "salary_max": 80000,
-      "salary_text": "GBP 80,000/year",
-      "salary_source_text": "GBP 80000 - 80000",
-      "salary_currency": "GBP",
-      "salary_period": "year",
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<p><strong>Job Title:</strong> Engineering Manager</p>\n<p><strong>Salary:</strong> £80,000 with some flexibility for the right candidate</p>\n<h2>Location:Remote</h2>\n<p><strong>About IMP</strong></p>\n<p><strong>At IMP we help Multi-Academy Trusts (MATs) take control of their finances. Our MAT-first software is built by people who know the sector inside out. Former trust professionals, finance experts and product specialists are all part of our team. More than half of all MATs in the UK already use IMP to plan with confidence, simplify complex processes and make smarter decisions.</strong></p>\n<p><strong>We’re proud to be independent, founder-led and growing fast. Alongside our award-winning products, we’ve built a culture we’re equally proud of. We are ranked as one of the UK’s Top 25 Great Places to Work for mid-sized companies. Respect, collaboration and personal growth sit at the heart of how we work. You’ll find flexibility, support and opportunities to develop here, alongside regular team socials and funded CPD.</strong></p>\n<h2><strong>Partnerships</strong></h2>\n<p><strong>You’ll work closely with partner roles, most notably the architect and product manager.</strong></p>\n<ul>\n<li><strong>The architect is responsible for: system level design; reviewing technical designs; technology choices.</strong></li>\n</ul>\n<ul>\n<li><strong>The product manager is responsible for: opportunity evaluation; product requirements; discovery; go to market; backlog ownership.</strong></li>\n</ul>\n<h2><strong>Key Responsibilities</strong></h2>\n<h2><strong>Delivery</strong></h2>\n<ul>\n<li><strong>Own capacity planning at roadmap and sprint level across multiple software delivery teams.</strong></li>\n</ul>\n<ul>\n<li><strong>Own delivery execution: manage risks, trade-offs, and dependencies between teams.</strong></li>\n</ul>\n<ul>\n<li><strong>Facilitate standard ceremonies to remove blockers, plan work, and iterate processes.</strong></li>\n</ul>\n<h2><strong>Operations</strong></h2>\n<ul>\n<li><strong>Own operational accountability: triage production incidents, run post-mortems, and feed fixes to the backlog in partnership with Product.</strong></li>\n</ul>\n<h2><strong>People</strong></h2>\n<ul>\n<li><strong>Develop reports against agreed goals: growth plans, development conversations, and performance management.</strong></li>\n</ul>\n<ul>\n<li><strong>Ensure the team carries the capabilities the roadmap demands: technical depth, delivery pace, and agentic engineering fluency.</strong></li>\n</ul>\n<h2><strong>Quality &#x26; Engineering Practice</strong></h2>\n<ul>\n<li><strong>Ensure capacity is allocated effectively across features and defects.</strong></li>\n</ul>\n<ul>\n<li><strong>Drive toward a low-defect, low-debt system where further delivery is fast and the team trusts what it ships.</strong></li>\n</ul>\n<h2><strong>Stakeholder Management</strong></h2>\n<ul>\n<li><strong>Serve as the main point of contact across the business for delivery and operational queries in your area.</strong></li>\n</ul>\n<ul>\n<li><strong>Ensure high value information reaches stakeholders, for example regarding delivery timelines, risks, and quality concerns.</strong></li>\n</ul>\n<h2><strong>Skills, Experience, and Attributes</strong></h2>\n<h2><strong>Essential</strong></h2>\n<ul>\n<li><strong>Proven ownership of a product area: a substantial initiative where you held delivery accountability from capacity planning through to outcomes.</strong></li>\n</ul>\n<ul>\n<li>\n<h2><strong>Track record of developing people.</strong></h2>\n</li>\n</ul>\n<ul>\n<li><strong>Clear communication across technical and non-technical stakeholders.</strong></li>\n</ul>\n<ul>\n<li><strong>Agentic engineering fluency: can iterate eval standards and context conventions as team infrastructure.</strong></li>\n</ul>\n<ul>\n<li><strong>Expertise guiding Agile delivery processes.</strong></li>\n</ul>\n<h2><strong>Valuable</strong></h2>\n<ul>\n<li>\n<h2><strong>Remote-first team leadership experience.</strong></h2>\n</li>\n</ul>\n<ul>\n<li><strong>Experience working with financial management systems such as budgeting, finance, or payroll.</strong></li>\n</ul>\n<ul>\n<li><strong>Experience working within our tech stack:Core, C#, SQL Server, React/TS, and Azure.</strong></li>\n</ul>\n<h2><strong>Benefits:</strong></h2>\n<ul>\n<li><strong>27 days of holiday per year plus bank holidays (with a buy option up to an additional 5 days)</strong></li>\n</ul>\n<ul>\n<li>\n<h2><strong>Enhance Maternity and Paternity leave</strong></h2>\n</li>\n</ul>\n<ul>\n<li><strong>AXA Health insurance including dental, optical and mental health</strong></li>\n</ul>\n<ul>\n<li>\n<h2><strong>Broadband allowance</strong></h2>\n</li>\n</ul>\n<ul>\n<li>\n<h2><strong>Home office stipend</strong></h2>\n</li>\n</ul>\n<ul>\n<li>\n<h2><strong>Life assurance (4 x basic salary)</strong></h2>\n</li>\n</ul>\n<ul>\n<li>\n<h2><strong>Encouraged and funded CPD</strong></h2>\n</li>\n</ul>\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/engineering-manager-imp-software</p>",
-      "posted_at": "2026-10-26T12:57:36+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "9406910d-50a1-45fd-b243-1dad9fa1577c",
-      "title": "Engineering Team Lead, B2B Portal (all genders)",
-      "url": "https://remotejobs.org/remote-jobs/engineering-team-lead-b2b-portal-all-genders-distribusion-technologies-gmbh",
-      "apply_url": "https://remotejobs.org/remote-jobs/engineering-team-lead-b2b-portal-all-genders-distribusion-technologies-gmbh",
-      "company": {
-        "name": "Distribusion Technologies GmbH",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/a720a72441ac3891e585f5b89bb2a8d120993050f78d5f6fea9891a0572b2bf2.webp",
-        "website": "https://distribusion.com",
-        "url": "https://remotejobs.org/companies/distribusion-technologies-gmbh"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": null,
-      "location_normalization": {
-        "raw": null,
-        "input": {},
-        "scope": "unknown",
-        "status": "unknown",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "unknown",
-        "status": "unknown",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [],
-        "evidence_ids": [],
-        "allowed_regions": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": "lead",
-        "role_family": null,
-        "required_skills": [],
-        "mentioned_skills": [
-          "aws",
-          "python",
-          "react",
-          "ruby"
-        ],
-        "preferred_skills": [],
-        "experience_requirements": []
-      },
-      "salary_min": 90000,
-      "salary_max": 105000,
-      "salary_text": "EUR 90,000–105,000/year",
-      "salary_source_text": "EUR 90000 - 105000",
-      "salary_currency": "EUR",
-      "salary_period": "year",
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<h2>About Us</h2><p><strong>Distribusion</strong> is the world’s leading ground transportation marketplace and gives travellers seamless access to ground transportation online, from search to ticket purchase. We have built a cutting-edge B2B technology platform that connects bus, rail and ferry operators in 70+ countries with the biggest online retailers including Google Maps and .</p><p>We are shaping the future of travel and building the largest global network of transport providers and retailers. We are one of the fastest growing startups in travel, backed by leading venture capital investors including TQ Ventures, Lightrock, Creandum, and Northzone, and are headquartered in Berlin, Germany. Following our recent $80m Series C funding, we are ready to push beyond.</p><p><strong>The opportunity</strong><br>We are looking for an <strong>Engineering Team Leader.</strong> We deliver projects and features that our Product and Business teams expect to scale business activity with our Carriers and Retailers. By joining us in this role, you will be responsible for managing and leading the team across all people-related matters and engineering delivery and efficiency. You will be part of the Distribusion leadership team and report to our Senior Engineering Manager, eCommerce.</p><p>Our eCommerce division has grown rapidly, now exceeding 50 engineers. To support our scaling goals, we’re looking for a leader who can combine strong technical expertise with people management skills, helping teams perform at their best while maintaining operational excellence.</p><h2>What you will do:</h2><ul>\n<li><p>Manage, lead, and grow Engineering teams (people development, people engagement, hiring, etc.)</p></li>\n<li><p>Take responsibility for the architectural design within the domain</p></li>\n<li><p>Increase the quality and stability of our services</p></li>\n<li><p>Plan resources of the team according to the roadmap quarterly</p></li>\n<li><p>Ensure operational excellence in delivery quality, speed, and communication.</p></li>\n<li><h2>Be responsible for Incident management</h2></li>\n</ul><h2>Workplace:</h2><p> We are a remote-first company with teams located around the Globe.</p><p>Also, the HQ office is in Berlin, where the team often meets.</p><h2>Requirements</h2><h2>Who you are:</h2><ul>\n<li><p>You are an experienced people leader who has managed front-end or fullstack teams, ideally in scaleups or high-growth, high-quality organizations of similar size.</p></li>\n<li><p>You understand and review code in ReactJS and Python, and have experience with cloud technologies.</p></li>\n<li><p>You are a well-rounded engineer, able to address technical issues hands-on, and can guide strong system design and coding practices.</p></li>\n<li><p>You bring deep knowledge of microservice architecture, event-driven approaches, and distributed systems tailored for asynchronous communication.</p></li>\n<li><p>You demonstrate coaching, performance management, and senior stakeholder engagement, including customer-facing experience.</p></li>\n<li><p>You drive projects, inspire teams, and actively develop the technical brand internally and externally.</p></li>\n<li><p>You show ownership, responsibility, and a growth mindset that constantly challenges and guides teams to new standards.</p></li>\n<li><p>You communicate fluently in English, both verbal and written.</p></li>\n</ul><h2>A view into our Tech stack:</h2><ul>\n<li><p><strong>Languages:</strong>, Python, React Native, Ruby</p></li>\n<li><p><strong>Cloud platforms:</strong> Google Cloud, AWS, Azure</p></li>\n<li><p><strong>Database:</strong> Relational databases</p></li>\n<li><p><strong>Messaging and caching:</strong> Kafka, Redis</p></li>\n<li><p><strong>Project management:</strong> Jira</p></li>\n<li><p><strong>Principles:</strong> Software development best practices, distributed microservices architecture</p></li>\n</ul><h2>What you can expect:</h2><ul>\n<li><p>You will join a fast-paced travel tech company and take on a rapidly growing industry.</p></li>\n<li><p>You will take on ownership and responsibility from day one and have a direct impact on the success of the company.</p></li>\n<li><p>We value agility! We’re constantly updating our tech stack and offering the best possible tools to ensure all of our in-house engineers, partners, and carriers benefit from cutting-edge, efficient solutions.</p></li>\n<li><p>You will work with global companies. Our product attracts the biggest names in travel technology, such as , Google Maps, and national carriers like Amtrak, Deutsche Bahn, Renfe, and SNCF.</p></li>\n<li><p>You will join an international team of talented and driven people with a clear mission. Expect your colleagues to inspire, support and challenge you every day.</p></li>\n<li><p>We offer flexible and remote working conditions, relocation opportunities, and career growth in a small and developing company.</p></li>\n</ul><p><strong><em>Our hiring team for this role:</em></strong><em><br>Your Talent Partner (TP) and point of contact is </em><strong><em>Lorena Rebenciuc</em></strong><em>, and the Hiring Manager (HM) is </em><strong><em>Roger Sindreu</em></strong><em>.<br>For any queries, contact your Talent Partner at </em><em>.</em></p><p><em><em>Do you want to work on a product that is used by millions of people daily with a high load, availability and scalability, and most advanced technology? </em>Come join us!</em></p><h2><em>Highlights</em></h2><p><em>We deliver projects and features that our Product and Business teams expect to scale business activity with our Carriers and Retailers. </em></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/engineering-team-lead-b2b-portal-all-genders-distribusion-technologies-gmbh</p>",
-      "posted_at": "2026-10-26T12:56:19+00:00",
       "is_translated": false,
       "original_language": null
     },
@@ -9481,6 +9496,95 @@
       "original_language": null
     },
     {
+      "id": "7b433efc-6390-454e-9bf9-757a0ccd05af",
+      "title": "Staff Data Scientist, Methodologies",
+      "url": "https://remotejobs.org/remote-jobs/staff-data-scientist-methodologies-tilt",
+      "apply_url": "https://remotejobs.org/remote-jobs/staff-data-scientist-methodologies-tilt",
+      "company": {
+        "name": "Tilt",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/63320a61819998ef6cad8ea908bfc1a42001232ba66ae1ca446c00b4c860fbba.png",
+        "website": "https://tilt.com",
+        "url": "https://remotejobs.org/companies/tilt"
+      },
+      "category": {
+        "name": "Data Science",
+        "slug": "data-science"
+      },
+      "location": "Remote - US",
+      "location_normalization": {
+        "raw": "Remote - US",
+        "input": {
+          "workArrangement": "remote"
+        },
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "worksite_countries": [
+          "US"
+        ],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": "staff",
+        "role_family": "data-science",
+        "required_skills": [],
+        "mentioned_skills": [],
+        "preferred_skills": [],
+        "experience_requirements": []
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "d6913ad2-5009-4f5b-b7de-953dad31ed85",
+      "direct_apply": null,
+      "description": "<h2>Join the Tilt team</h2><p>At Tilt, we see a side of people that traditional lenders miss. Our mobile-first products and machine learning-powered credit models look beyond credit scores, using over 250 real-time financial signals to recognize real potential. With millions of customers worldwide<strong>, </strong>we're not just changing how people access financial products — we're creating a new credit system that backs the working, whatever they're working toward.</p><h3><strong>The Opportunity</strong></h3><p>At Tilt, we’re constantly exploring new ways to understand financial behavior and reduce risk. The work you do in this role will help shape how we use foundational models across our products.</p><p>We’re looking for a <strong>Staff Data Scientist</strong> to join our <strong>Methodologies</strong> group — a role focused on building and advancing foundational modeling approaches. You’ll explore how deep learning methods such as neural networks, embeddings, and transformers can enhance how we understand financial data and make lending decisions.</p><p>This is a great role for someone who’s deeply curious about new modeling techniques and wants to see their ideas make a real difference. You’ll work with a small, experienced team of data scientists and engineers to design and apply deep learning methods to financial data challenges — from credit decisioning to transaction modeling.</p><p>You'll also be at the forefront of how data science is practiced in the age of AI agents. Our team builds with agentic tools every day, and we're creating specialized agents that speed up both DS and business workflows.</p><p>We’re looking for someone who enjoys learning, experimenting, and collaborating — a person who can connect technical exploration to meaningful business impact. If you’re excited by applying new methodologies in ways that help people access fairer credit, you’ll fit right in.</p><h3><strong>How You’ll Make an Impact</strong></h3><ul><li><p>Develop and test new modeling approaches using <strong>deep learning architectures</strong> such as transformers, embeddings, and neural networks.</p></li><li><p>Build and refine frameworks that integrate into Tilt’s existing ML pipelines to improve credit modeling and loss prediction.</p></li><li><p>Work closely with data scientists, engineers, and product partners to <strong>translate complex ideas into practical solutions</strong>.</p></li><li><p>Experiment with modern representation learning techniques — including pretraining and fine-tuning — on real financial data.</p></li><li><p>Share findings and mentor others, helping the team grow its deep learning capability.</p></li><li><p>Measure the impact of your models not just by accuracy, but by how they improve outcomes for Tilt’s customers and partners.</p></li><li><p>Use <strong>agentic development tools</strong> (e.g., Claude Code, Codex) to speed up experimentation, feature engineering and model iteration.</p></li><li><p>Design and ship <strong>specialized agents</strong> that support DS and business workflows - these agents turn methodology into leverage across the company.<br></p></li></ul><h3><strong>Why You’re a Great Fit</strong></h3><ul><li><p>Experience with <strong>deep learning</strong> — neural networks, embeddings, or transformers.</p></li><li><p>Comfort working with modern ML frameworks (PyTorch, TensorFlow, or similar).</p></li><li><p>Experience applying ML to real-world problems, ideally in <strong>financial services</strong> (credit, lending, payments, or banking).</p></li><li><p>Strength in connecting data science to measurable business outcomes.</p></li><li><p>Clear, thoughtful communication — you can explain technical ideas in ways others can engage with.</p></li><li><p>Bonus: hands-on experience building with LLMs or agent frameworks, or excitement to learn. You see agents as a way to multiply what a small, senior team can do.</p></li></ul><p><strong>Don’t meet every qualification? We care about potential over your past. If you're bringing ambition and drive to what we're building, we want to hear from you.</strong><br></p><h3><strong>What you'll get at Tilt</strong></h3><ul><li><p><strong>Virtual-first teamwork:</strong> The Tilt team is collaborating across 14 countries, 12 time zones, and counting. You’ll get started with a WFH office reimbursement.</p></li><li><p><strong>Competitive pay:</strong> We're big on potential, and it's reflected in our competitive compensation packages and generous equity.</p></li><li><p><strong>Complete support:</strong> Find flexible health plans at every premium level, and substantial subsidies that stand up to global standards.</p></li><li><p><strong>Visibility is yours</strong>: You can count on direct exposure to our leadership team — we’re a team where good ideas travel quickly.</p></li><li><p><strong>Paid global onsites</strong>: Magic happens IRL: we gather twice yearly to reconnect over shared meals or kayaking adventures. (We’ve visited Vail, San Diego, and Mexico City, to name a few.)</p></li><li><p><strong>Impact is recognized</strong>: Growth opportunities follow your contributions, not rigid promotion timelines.</p></li></ul><h3><strong>The Tilt Way</strong></h3><p>We're looking for people who chase excellence and impact. Those who stand behind their work, celebrating the wins and learning from the missteps equally. We foster an environment where every voice is valued and mutual respect is non-negotiable — brilliant jerks need not apply. We're in this together, working to expand access to fair credit and prove that people are incredible. When you join us, it's not just another day at the [virtual] office, you're helping millions of hardworking people reach better financial futures.</p><p><strong>You’re pushing ahead in your career? We can get behind that. Join us in building the credit system that people deserve.</strong></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/staff-data-scientist-methodologies-tilt</p>",
+      "posted_at": "2026-10-28T17:47:31.077+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
       "id": "0baef99a-a02e-4664-bcba-92bddd37cb62",
       "title": "Big Data Engineer",
       "url": "https://remotejobs.org/remote-jobs/big-data-engineer-bright-vision-technologies-6b6456077756482abd7b923f082ebbaa",
@@ -13071,17 +13175,17 @@
           {
             "kind": "timezone",
             "areas": [],
-            "effect": "context",
-            "details": "The role is open to candidates in any timezone in Canada.",
+            "effect": "allow",
+            "details": "Role is open to candidates in any timezone in Canada.",
             "regions": [],
             "timezones": [],
-            "evidence_id": "c2",
+            "evidence_id": "c3",
             "conditional_on": null
           }
         ],
         "unresolved": [],
         "evidence_ids": [
-          "c2",
+          "c3",
           "source-location"
         ],
         "allowed_regions": [],
@@ -13127,7 +13231,7 @@
       ],
       "employer_job_id": "937c2a7a-4b2a-4525-8737-0c92a02f6f06",
       "direct_apply": null,
-      "description": "<h2><strong>Build something people love</strong></h2>\n<p>Wealthsimple is Canada’s leading financial innovator. The company offers a full suite of simple, sophisticated financial products across managed investing, do-it-yourself trading, cryptocurrency, tax filing, spending and saving. Wealthsimple currently serves more than 4 million Canadians and holds over $155 billion in assets under administration. The company was founded in 2014 by a team of financial experts and technology entrepreneurs, and is headquartered in Toronto, Canada.</p>\n<p>We're proud of what we've built — and we're just getting started. Read our <a href=\"https://www.wealthsimple.com/en-ca/culture\">Culture Manual</a> and learn more about <a href=\"https://www.wealthsimple.com/en-ca/careers\">how we work</a>.</p>\n<p><strong>About the team</strong></p>\n<p>The Fraud Countermeasures team is part of Data Science, and it's how Wealthsimple grows safely. We balance fraud losses with client friction, so legitimate clients can use their money without jumping through hoops. We work in small pods that pair a fraud countermeasures lead with a data scientist and an analytics developer, and we sit alongside Product and Engineering on every new feature launch. We use data to make every decision, and we use AI tools to move faster. If you want to work on hard problems with people who care about craft, you'll fit right in.</p>\n<p><strong>About the role</strong></p>\n<p>Card fraud is one of the highest-stakes problems at Wealthsimple, and this role owns the strategy for it. You'll set direction for how we prevent application, transaction and account takeover fraud across our card products, and you'll do it independently, with real accountability for the outcome. This is a Staff individual contributor role with manager-level impact: you'll lead through expertise and influence, not direct reports. It's open to candidates in any timezone in Canada.</p>\n<p><strong>What you'll do</strong></p>\n<ul>\n<li>\n<p>Own fraud strategy and execution across application, transaction and account takeover fraud for Wealthsimple's card products.</p>\n</li>\n<li>\n<p>Manage the card fraud loss budget as our volumes grow, and guard against the fraud attacks that can blow a budget up.</p>\n</li>\n<li>\n<p>Design, backtest, ship and tune detection rules, and set decision thresholds on ML risk scores.</p>\n</li>\n<li>\n<p>Weigh fraud losses prevented against operational cost and client experience before you recommend an approach.</p>\n</li>\n<li>\n<p>Partner with Product and Engineering to build controls that stop fraud without blocking legitimate clients, like step-up authentication instead of a hard decline.</p>\n</li>\n<li>\n<p>Guide the data scientists and analytics developers in your pod, and mentor junior teammates on strategy, rule building and problem-solving.</p>\n</li>\n</ul>\n<p><strong>Skills you bring</strong></p>\n<ul>\n<li>\n<p>6+ years of experience in fraud prevention, including 3+ years working directly on card fraud (prepaid or credit) at an issuer, fintech or payments platform.</p>\n</li>\n<li>\n<p>Hands-on ownership of card fraud strategy across application, transaction and account takeover fraud.</p>\n</li>\n<li>\n<p>Advanced SQL. You write complex queries against transaction-level data yourself, without waiting for an analyst to pull it.</p>\n</li>\n<li>\n<p>A track record of building, backtesting, shipping and tuning fraud rules, and explaining the precision, catch rate and approval rate impact of each.</p>\n</li>\n<li>\n<p>Experience quantifying fraud savings against operational and client experience costs to make a clear recommendation.</p>\n</li>\n<li>\n<p>Experience using AI tools in your daily work, and examples of where they changed your output.</p>\n</li>\n<li>\n<p>The ability to influence Product, Engineering, credit risk, operations and external vendors toward a decision without direct authority.</p>\n</li>\n<li>\n<p>Clear communication with technical and non-technical audiences, including senior leadership.</p>\n</li>\n<li>\n<p>Nice to have: Knowledge of Visa and Mastercard network rules, dispute processes and chargeback rails.</p>\n</li>\n</ul>\n<p><strong>Who you are</strong></p>\n<ul>\n<li>\n<p>You set direction on your own and take ownership over outcomes for your space, from fighting fraud attacks to minimizing client friction.</p>\n</li>\n<li>\n<p>You make decisions with numbers behind them, and you're honest about what the numbers can't tell you.</p>\n</li>\n<li>\n<p>You lead through influence. You can get a roadmap conversation to go your way by rallying others around shared objectives.</p>\n</li>\n<li>\n<p>You use AI to aide in your workflow, and know when to question it’s outputs</p>\n</li>\n<li>\n<p>You share what you know, and you make the people around you sharper</p>\n</li>\n</ul>\n<h2><strong>Why Wealthsimple?</strong></h2>\n<p>🌸 Top-tier health benefits and life insurance</p>\n<p>📈 Long-term group savings with employer match, through Wealthsimple for Business</p>\n<p>🌴 20 vacation days, 4 wellness days, and unlimited sick and mental health days per year*</p>\n<p>✈️ 90 days away: work outside Canada for up to 90 days per year*</p>\n<p>👥 Employee resource groups, including Rainbow (2SLGBTQ), Women of WS, and Black at WS</p>\n<p>🌎 We are a hybrid team with over 1,500 employees across North America. The people are one of the best parts of working here: you'll collaborate with incredibly talented, curious, and driven teammates who are deeply committed to doing great work.<br>\n<br>\n*Unlimited paid sick days, Wellness Days and the 90 day away program do not apply to certain roles.</p>\n<h2><strong>ICYMI</strong></h2>\n<p><strong>Technology &#x26; Innovation at Wealthsimple:</strong> We move quickly and build thoughtfully. That means we're always looking for better ways to work — whether that's new tools, AI, or rethinking how we approach a problem. We don't expect you to have all the answers, but we do expect curiosity and a willingness to evolve alongside the products we're building.</p>\n<p><strong>Inclusion Statement:</strong> We're building products for a diverse world, and we need a diverse team to do it well. We strongly encourage applications from everyone, regardless of race, religion, colour, national origin, gender, sexual orientation, age, marital status, or disability status.</p>\n<p><strong>Accessibility Statement:</strong> We're committed to an accessible hiring experience. If you need any accommodations throughout the interview process, please let us know — we'll work with you to make sure you have what you need. We also welcome any feedback on how we can better accommodate candidates with accessibility needs.</p>\n<p><strong>AI in Hiring: </strong>We may use artificial intelligence (AI) tools to support parts of our hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our team but don't replace human judgment – all final hiring decisions are made by people. If you have questions about how your data is used, reach out to us.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/staff-fraud-countermeasures-wealthsimple-technologies</p>",
+      "description": "<h2><strong>Build something people love</strong></h2>\n<p>Wealthsimple is Canada’s leading financial innovator. The company offers a full suite of simple, sophisticated financial products across managed investing, do-it-yourself trading, cryptocurrency, tax filing, spending and saving. Wealthsimple currently serves more than 4 million Canadians and holds over $169 billion in assets under administration. The company was founded in 2014 by a team of financial experts and technology entrepreneurs, and is headquartered in Toronto, Canada.</p>\n<p>We're proud of what we've built — and we're just getting started. Read our <a href=\"https://www.wealthsimple.com/en-ca/culture\">Culture Manual</a> and learn more about <a href=\"https://www.wealthsimple.com/en-ca/careers\">how we work</a>.</p>\n<p><strong>About the team</strong></p>\n<p>The Fraud Countermeasures team is part of Data Science, and it's how Wealthsimple grows safely. We balance fraud losses with client friction, so legitimate clients can use their money without jumping through hoops. We work in small pods that pair a fraud countermeasures lead with a data scientist and an analytics developer, and we sit alongside Product and Engineering on every new feature launch. We use data to make every decision, and we use AI tools to move faster. If you want to work on hard problems with people who care about craft, you'll fit right in.</p>\n<p><strong>About the role</strong></p>\n<p>Card fraud is one of the highest-stakes problems at Wealthsimple, and this role owns the strategy for it. You'll set direction for how we prevent application, transaction and account takeover fraud across our card products, and you'll do it independently, with real accountability for the outcome. This is a Staff individual contributor role with manager-level impact: you'll lead through expertise and influence, not direct reports. It's open to candidates in any timezone in Canada.</p>\n<p><strong>What you'll do</strong></p>\n<ul>\n<li>\n<p>Own fraud strategy and execution across application, transaction and account takeover fraud for Wealthsimple's card products.</p>\n</li>\n<li>\n<p>Manage the card fraud loss budget as our volumes grow, and guard against the fraud attacks that can blow a budget up.</p>\n</li>\n<li>\n<p>Design, backtest, ship and tune detection rules, and set decision thresholds on ML risk scores.</p>\n</li>\n<li>\n<p>Weigh fraud losses prevented against operational cost and client experience before you recommend an approach.</p>\n</li>\n<li>\n<p>Partner with Product and Engineering to build controls that stop fraud without blocking legitimate clients, like step-up authentication instead of a hard decline.</p>\n</li>\n<li>\n<p>Guide the data scientists and analytics developers in your pod, and mentor junior teammates on strategy, rule building and problem-solving.</p>\n</li>\n</ul>\n<p><strong>Skills you bring</strong></p>\n<ul>\n<li>\n<p>6+ years of experience in fraud prevention, including 3+ years working directly on card fraud (prepaid or credit) at an issuer, fintech or payments platform.</p>\n</li>\n<li>\n<p>Hands-on ownership of card fraud strategy across application, transaction and account takeover fraud.</p>\n</li>\n<li>\n<p>Advanced SQL. You write complex queries against transaction-level data yourself, without waiting for an analyst to pull it.</p>\n</li>\n<li>\n<p>A track record of building, backtesting, shipping and tuning fraud rules, and explaining the precision, catch rate and approval rate impact of each.</p>\n</li>\n<li>\n<p>Experience quantifying fraud savings against operational and client experience costs to make a clear recommendation.</p>\n</li>\n<li>\n<p>Experience using AI tools in your daily work, and examples of where they changed your output.</p>\n</li>\n<li>\n<p>The ability to influence Product, Engineering, credit risk, operations and external vendors toward a decision without direct authority.</p>\n</li>\n<li>\n<p>Clear communication with technical and non-technical audiences, including senior leadership.</p>\n</li>\n<li>\n<p>Nice to have: Knowledge of Visa and Mastercard network rules, dispute processes and chargeback rails.</p>\n</li>\n</ul>\n<p><strong>Who you are</strong></p>\n<ul>\n<li>\n<p>You set direction on your own and take ownership over outcomes for your space, from fighting fraud attacks to minimizing client friction.</p>\n</li>\n<li>\n<p>You make decisions with numbers behind them, and you're honest about what the numbers can't tell you.</p>\n</li>\n<li>\n<p>You lead through influence. You can get a roadmap conversation to go your way by rallying others around shared objectives.</p>\n</li>\n<li>\n<p>You use AI to aide in your workflow, and know when to question it’s outputs</p>\n</li>\n<li>\n<p>You share what you know, and you make the people around you sharper</p>\n</li>\n</ul>\n<h2><strong>Why Wealthsimple?</strong></h2>\n<p>🌸 Top-tier health benefits and life insurance</p>\n<p>📈 Long-term group savings with employer match, through Wealthsimple for Business</p>\n<p>🌴 20 vacation days, 4 wellness days, and unlimited sick and mental health days per year*</p>\n<p>✈️ 90 days away: work outside Canada for up to 90 days per year*</p>\n<p>👥 Employee resource groups, including Rainbow (2SLGBTQ), Women of WS, and Black at WS</p>\n<p>🌎 We are a hybrid team with over 1,500 employees across North America. The people are one of the best parts of working here: you'll collaborate with incredibly talented, curious, and driven teammates who are deeply committed to doing great work.<br>\n<br>\n*Unlimited paid sick days, Wellness Days and the 90 day away program do not apply to certain roles.</p>\n<h2><strong>ICYMI</strong></h2>\n<p><strong>Technology &#x26; Innovation at Wealthsimple:</strong> We move quickly and build thoughtfully. That means we're always looking for better ways to work — whether that's new tools, AI, or rethinking how we approach a problem. We don't expect you to have all the answers, but we do expect curiosity and a willingness to evolve alongside the products we're building.</p>\n<p><strong>Inclusion Statement:</strong> We're building products for a diverse world, and we need a diverse team to do it well. We strongly encourage applications from everyone, regardless of race, religion, colour, national origin, gender, sexual orientation, age, marital status, or disability status.</p>\n<p><strong>Accessibility Statement:</strong> We're committed to an accessible hiring experience. If you need any accommodations throughout the interview process, please let us know — we'll work with you to make sure you have what you need. We also welcome any feedback on how we can better accommodate candidates with accessibility needs.</p>\n<p><strong>AI in Hiring: </strong>We may use artificial intelligence (AI) tools to support parts of our hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our team but don't replace human judgment – all final hiring decisions are made by people. If you have questions about how your data is used, reach out to us.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/staff-fraud-countermeasures-wealthsimple-technologies</p>",
       "posted_at": "2026-10-23T13:05:58.6+00:00",
       "is_translated": false,
       "original_language": null
@@ -13471,12 +13575,14 @@
       },
       "applicant_location_requirements": {
         "scope": "restricted",
-        "status": "known",
+        "status": "partial",
         "regions": [],
         "version": "applicant-location/1",
         "timezones": [],
         "conditions": [],
-        "unresolved": [],
+        "unresolved": [
+          "Company benefit allows work outside Canada for up to 90 days per year, but the footnote excludes certain roles and the source does not say whether this role is excluded; the geographic permission cannot be fully represented."
+        ],
         "evidence_ids": [
           "source-location"
         ],
@@ -13526,7 +13632,7 @@
       ],
       "employer_job_id": "9e46b33a-fb0a-4b41-9669-7bf83d2c759c",
       "direct_apply": null,
-      "description": "<h2><strong>Build something people love</strong></h2>\n<p>Wealthsimple is Canada’s leading financial innovator. The company offers a full suite of simple, sophisticated financial products across managed investing, do-it-yourself trading, cryptocurrency, tax filing, spending and saving. Wealthsimple currently serves more than 4 million Canadians and holds over $155 billion in assets under administration. The company was founded in 2014 by a team of financial experts and technology entrepreneurs, and is headquartered in Toronto, Canada.</p>\n<p>We're proud of what we've built — and we're just getting started. Read our <a href=\"https://www.wealthsimple.com/en-ca/culture\">Culture Manual</a> and learn more about <a href=\"https://www.wealthsimple.com/en-ca/careers\">how we work</a>.</p>\n<p><strong>About the team:</strong></p>\n<p>At Wealthsimple, we aren't just managing portfolios; we're rewriting the rules of how Canadians interact with credit. The Credit Analytics team own’s Wealthsimple's lending ecosystem, operating at the intersection of high-growth tech and data-driven underwriting.</p>\n<p>We believe that being “credit-worthy” should mean more than just a traditional score. Our mission is to challenge the status quo, building inclusive products that empower millions of Canadians and the businesses they run to lead better financial lives. We’re growing fast, moving from small data to massive scale through iteration and experimentation.</p>\n<p>We are extending our consumer credit expertise into business lending built for Canadian small and medium-sized businesses (SMBs). This is a true green-field build — new adjudication policy, new underwriting signals, and new risk infrastructure, informed by everything we've learned scaling our consumer card portfolio.</p>\n<p><strong>About the role:</strong></p>\n<p>We are looking for a Senior Associate to own credit policy for our business lending products, starting with a business credit card — from adjudication through the full account lifecycle. You will design and implement the underwriting framework that determines who qualifies and at what limit, build the line management strategies that govern how those limits evolve, and partner closely with collections to manage risk once accounts are on book.</p>\n<p>Small business cards can be underwritten on the owner, or on the business as it grows. You’ll be working with cash flow, seasonality, industry, and business bureau data, which is usually thinner and messier than consumer bureau data. We need someone who has worked across that range and can turn it into automated policy instead of file-by-file decisions.</p>\n<p>You will collaborate cross-functionally with Engineering, Product, Data Science, Fraud, and Client Experience to translate policy into shippable adjudication and monitoring systems, and you will have significant ownership over how this portfolio’s risk appetite is defined from day one.</p>\n<p><strong>In this role, you will have the opportunity to:</strong></p>\n<ul>\n<li>\n<p>Build a new lending program from the ground up with the breadth to see every part of it, from policy to funding, and the runway to grow into leading a lending line of business.</p>\n</li>\n<li>\n<p>Design and own the adjudication policy for a new business credit card, including entity-level underwriting criteria, principal/guarantor assessment, joint-liability, initial limit-setting, and approval decisioning.</p>\n</li>\n<li>\n<p>Own line management strategy for business credit products: credit limit increases and decreases, pricing, authorization rules, and active exposure management driven by cash-flow and balance monitoring.</p>\n</li>\n<li>\n<p>Partner with the collections team to design risk-managed treatment strategies specific to business accounts, and to build lifecycle monitoring that catches emerging risk early.</p>\n</li>\n<li>\n<p>Evaluate the performance of the business lending portfolio and your policies, using vintage analysis, cohort tracking, and champion/challenger testing to validate and refine underwriting decisions.</p>\n</li>\n<li>\n<p>Propose policy enhancements that improve marginal profitability while keeping risk within appetite, informed by rigorous root-cause analysis rather than surface-level metrics.</p>\n</li>\n<li>\n<p>Help define the data and underwriting infrastructure needed for SMB lending — including how to source, validate, and weigh business financial data alongside traditional bureau signals.</p>\n</li>\n<li>\n<p>Influence roadmaps across partner teams (Engineering, Product, Data Science, Fraud, and Client Experience) and implement policy that drives measurable impact.</p>\n</li>\n</ul>\n<p><strong>We're looking for someone who:</strong></p>\n<ul>\n<li>\n<p>Has direct experience underwriting or setting credit policy for small and medium-sized businesses, this is a must-have for this role. Card experience isn't required; we'd love to hear from you if your background is in instalment loans or lines of credit.</p>\n</li>\n<li>\n<p>Writes SQL hands-on to self-serve data and build monitoring and analytics.</p>\n</li>\n<li>\n<p>Brings credit discipline to a ship-and-iterate environment, and is comfortable shaping policy while the product itself is still being defined.</p>\n</li>\n<li>\n<p>Can turn analysis into a clear recommendation for technical and non-technical audiences, weigh incomplete or noisy information and still reach well-grounded decisions.</p>\n</li>\n<li>\n<p>Is intellectually curious, passionate about their work, and wants ownership over their projects.</p>\n</li>\n</ul>\n<p><strong>Preferred qualifications:</strong></p>\n<ul>\n<li>\n<p>5+ years of experience in small business lending</p>\n</li>\n<li>\n<p>Knowledge of Canadian consumer credit bureau data (Equifax, TransUnion)</p>\n</li>\n<li>\n<p>Working knowledge of how business credit risk differs from consumer credit risk: entity vs. personal guarantor assessment, business bureau data (e.g., business credit bureaus), cash-flow-based underwriting, industry/sector risk, and revenue seasonality.</p>\n</li>\n<li>\n<p>Experience across the credit lifecycle: adjudication policy, line management, pricing, and collections strategy.</p>\n</li>\n<li>\n<p>Experience with statistical/quantitative analysis: experimental design, champion/challenger (or A/B) testing, model accuracy validation, constrained optimization, decision trees, discounted cash flows, financial modeling.</p>\n</li>\n<li>\n<p>Experience with Python, and GitHub. Airflow, AWS Redshift, and dbt are a plus.</p>\n</li>\n</ul>\n<h2><strong>Why Wealthsimple?</strong></h2>\n<p>🌸 Top-tier health benefits and life insurance</p>\n<p>📈 Long-term group savings with employer match, through Wealthsimple for Business</p>\n<p>🌴 20 vacation days, 4 wellness days, and unlimited sick and mental health days per year*</p>\n<p>✈️ 90 days away: work outside Canada for up to 90 days per year*</p>\n<p>👥 Employee resource groups, including Rainbow (2SLGBTQ), Women of WS, and Black at WS</p>\n<p>🌎 We are a hybrid team with over 1,500 employees across North America. The people are one of the best parts of working here: you'll collaborate with incredibly talented, curious, and driven teammates who are deeply committed to doing great work.<br>\n<br>\n*Unlimited paid sick days, Wellness Days and the 90 day away program do not apply to certain roles.</p>\n<h2><strong>ICYMI</strong></h2>\n<p><strong>Technology &#x26; Innovation at Wealthsimple:</strong> We move quickly and build thoughtfully. That means we're always looking for better ways to work — whether that's new tools, AI, or rethinking how we approach a problem. We don't expect you to have all the answers, but we do expect curiosity and a willingness to evolve alongside the products we're building.</p>\n<p><strong>Inclusion Statement:</strong> We're building products for a diverse world, and we need a diverse team to do it well. We strongly encourage applications from everyone, regardless of race, religion, colour, national origin, gender, sexual orientation, age, marital status, or disability status.</p>\n<p><strong>Accessibility Statement:</strong> We're committed to an accessible hiring experience. If you need any accommodations throughout the interview process, please let us know — we'll work with you to make sure you have what you need. We also welcome any feedback on how we can better accommodate candidates with accessibility needs.</p>\n<p><strong>AI in Hiring: </strong>We may use artificial intelligence (AI) tools to support parts of our hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our team but don't replace human judgment – all final hiring decisions are made by people. If you have questions about how your data is used, reach out to us.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-associate-business-lending-wealthsimple-technologies</p>",
+      "description": "<h2><strong>Build something people love</strong></h2>\n<p>Wealthsimple is Canada’s leading financial innovator. The company offers a full suite of simple, sophisticated financial products across managed investing, do-it-yourself trading, cryptocurrency, tax filing, spending and saving. Wealthsimple currently serves more than 4 million Canadians and holds over $169 billion in assets under administration. The company was founded in 2014 by a team of financial experts and technology entrepreneurs, and is headquartered in Toronto, Canada.</p>\n<p>We're proud of what we've built — and we're just getting started. Read our <a href=\"https://www.wealthsimple.com/en-ca/culture\">Culture Manual</a> and learn more about <a href=\"https://www.wealthsimple.com/en-ca/careers\">how we work</a>.</p>\n<p><strong>About the team:</strong></p>\n<p>At Wealthsimple, we aren't just managing portfolios; we're rewriting the rules of how Canadians interact with credit. The Credit Analytics team own’s Wealthsimple's lending ecosystem, operating at the intersection of high-growth tech and data-driven underwriting.</p>\n<p>We believe that being “credit-worthy” should mean more than just a traditional score. Our mission is to challenge the status quo, building inclusive products that empower millions of Canadians and the businesses they run to lead better financial lives. We’re growing fast, moving from small data to massive scale through iteration and experimentation.</p>\n<p>We are extending our consumer credit expertise into business lending built for Canadian small and medium-sized businesses (SMBs). This is a true green-field build — new adjudication policy, new underwriting signals, and new risk infrastructure, informed by everything we've learned scaling our consumer card portfolio.</p>\n<p><strong>About the role:</strong></p>\n<p>We are looking for a Senior Associate to own credit policy for our business lending products, starting with a business credit card — from adjudication through the full account lifecycle. You will design and implement the underwriting framework that determines who qualifies and at what limit, build the line management strategies that govern how those limits evolve, and partner closely with collections to manage risk once accounts are on book.</p>\n<p>Small business cards can be underwritten on the owner, or on the business as it grows. You’ll be working with cash flow, seasonality, industry, and business bureau data, which is usually thinner and messier than consumer bureau data. We need someone who has worked across that range and can turn it into automated policy instead of file-by-file decisions.</p>\n<p>You will collaborate cross-functionally with Engineering, Product, Data Science, Fraud, and Client Experience to translate policy into shippable adjudication and monitoring systems, and you will have significant ownership over how this portfolio’s risk appetite is defined from day one.</p>\n<p><strong>In this role, you will have the opportunity to:</strong></p>\n<ul>\n<li>\n<p>Build a new lending program from the ground up with the breadth to see every part of it, from policy to funding, and the runway to grow into leading a lending line of business.</p>\n</li>\n<li>\n<p>Design and own the adjudication policy for a new business credit card, including entity-level underwriting criteria, principal/guarantor assessment, joint-liability, initial limit-setting, and approval decisioning.</p>\n</li>\n<li>\n<p>Own line management strategy for business credit products: credit limit increases and decreases, pricing, authorization rules, and active exposure management driven by cash-flow and balance monitoring.</p>\n</li>\n<li>\n<p>Partner with the collections team to design risk-managed treatment strategies specific to business accounts, and to build lifecycle monitoring that catches emerging risk early.</p>\n</li>\n<li>\n<p>Evaluate the performance of the business lending portfolio and your policies, using vintage analysis, cohort tracking, and champion/challenger testing to validate and refine underwriting decisions.</p>\n</li>\n<li>\n<p>Propose policy enhancements that improve marginal profitability while keeping risk within appetite, informed by rigorous root-cause analysis rather than surface-level metrics.</p>\n</li>\n<li>\n<p>Help define the data and underwriting infrastructure needed for SMB lending — including how to source, validate, and weigh business financial data alongside traditional bureau signals.</p>\n</li>\n<li>\n<p>Influence roadmaps across partner teams (Engineering, Product, Data Science, Fraud, and Client Experience) and implement policy that drives measurable impact.</p>\n</li>\n</ul>\n<p><strong>We're looking for someone who:</strong></p>\n<ul>\n<li>\n<p>Has direct experience underwriting or setting credit policy for small and medium-sized businesses, this is a must-have for this role. Card experience isn't required; we'd love to hear from you if your background is in instalment loans or lines of credit.</p>\n</li>\n<li>\n<p>Writes SQL hands-on to self-serve data and build monitoring and analytics.</p>\n</li>\n<li>\n<p>Brings credit discipline to a ship-and-iterate environment, and is comfortable shaping policy while the product itself is still being defined.</p>\n</li>\n<li>\n<p>Can turn analysis into a clear recommendation for technical and non-technical audiences, weigh incomplete or noisy information and still reach well-grounded decisions.</p>\n</li>\n<li>\n<p>Is intellectually curious, passionate about their work, and wants ownership over their projects.</p>\n</li>\n</ul>\n<p><strong>Preferred qualifications:</strong></p>\n<ul>\n<li>\n<p>5+ years of experience in small business lending</p>\n</li>\n<li>\n<p>Knowledge of Canadian consumer credit bureau data (Equifax, TransUnion)</p>\n</li>\n<li>\n<p>Working knowledge of how business credit risk differs from consumer credit risk: entity vs. personal guarantor assessment, business bureau data (e.g., business credit bureaus), cash-flow-based underwriting, industry/sector risk, and revenue seasonality.</p>\n</li>\n<li>\n<p>Experience across the credit lifecycle: adjudication policy, line management, pricing, and collections strategy.</p>\n</li>\n<li>\n<p>Experience with statistical/quantitative analysis: experimental design, champion/challenger (or A/B) testing, model accuracy validation, constrained optimization, decision trees, discounted cash flows, financial modeling.</p>\n</li>\n<li>\n<p>Experience with Python, and GitHub. Airflow, AWS Redshift, and dbt are a plus.</p>\n</li>\n</ul>\n<h2><strong>Why Wealthsimple?</strong></h2>\n<p>🌸 Top-tier health benefits and life insurance</p>\n<p>📈 Long-term group savings with employer match, through Wealthsimple for Business</p>\n<p>🌴 20 vacation days, 4 wellness days, and unlimited sick and mental health days per year*</p>\n<p>✈️ 90 days away: work outside Canada for up to 90 days per year*</p>\n<p>👥 Employee resource groups, including Rainbow (2SLGBTQ), Women of WS, and Black at WS</p>\n<p>🌎 We are a hybrid team with over 1,500 employees across North America. The people are one of the best parts of working here: you'll collaborate with incredibly talented, curious, and driven teammates who are deeply committed to doing great work.<br>\n<br>\n*Unlimited paid sick days, Wellness Days and the 90 day away program do not apply to certain roles.</p>\n<h2><strong>ICYMI</strong></h2>\n<p><strong>Technology &#x26; Innovation at Wealthsimple:</strong> We move quickly and build thoughtfully. That means we're always looking for better ways to work — whether that's new tools, AI, or rethinking how we approach a problem. We don't expect you to have all the answers, but we do expect curiosity and a willingness to evolve alongside the products we're building.</p>\n<p><strong>Inclusion Statement:</strong> We're building products for a diverse world, and we need a diverse team to do it well. We strongly encourage applications from everyone, regardless of race, religion, colour, national origin, gender, sexual orientation, age, marital status, or disability status.</p>\n<p><strong>Accessibility Statement:</strong> We're committed to an accessible hiring experience. If you need any accommodations throughout the interview process, please let us know — we'll work with you to make sure you have what you need. We also welcome any feedback on how we can better accommodate candidates with accessibility needs.</p>\n<p><strong>AI in Hiring: </strong>We may use artificial intelligence (AI) tools to support parts of our hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our team but don't replace human judgment – all final hiring decisions are made by people. If you have questions about how your data is used, reach out to us.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-associate-business-lending-wealthsimple-technologies</p>",
       "posted_at": "2026-10-22T21:16:57.671+00:00",
       "is_translated": false,
       "original_language": null
@@ -14072,99 +14178,6 @@
       "direct_apply": null,
       "description": "<h2><strong>About Invisible</strong></h2><p>Invisible Technologies makes AI work. Our end-to-end AI platform structures messy data, automates digital workflows, deploys agentic solutions, measures outcomes, and integrates human expertise where it matters most.</p><p>Our platform cleans, labels, and structures company data so it is ready for AI. It adapts models to each business and adds human expertise when needed, the same approach we have used to improve models for more than 80% of the world’s top AI companies, including Microsoft, AWS, and Cohere.</p><p>Our successes span industries, from supply chain automation for Swiss Gear to AI-enabled naval simulations with SAIC, and validating NBA draft picks for the Charlotte Hornets.</p><p>Profitable for more than half a decade, Invisible reached $134M in revenue and ranked as the number two fastest growing AI company on the 2024 Inc. 5000. In September 2025, we raised $100M in growth capital to accelerate our mission of making AI actually work in the enterprise and to advance our platform technology.</p><h2><strong>About the Role</strong></h2><p>We're looking for a Director of Engineering to set the technical strategy for Data Labs, the team that builds the benchmarking systems, data pipelines, and RL environments behind our AI training engagements. The frontier labs and enterprises we work with are changing how they train, evaluate, and deploy models every quarter. Your job is to see where that market is going and make sure Data Labs is built for it before our clients ask.</p><p>You'll decide which capabilities we invest in, which we standardize into platform, and which we leave to individual engagements. You'll track how training methods, evaluation practices, and data needs are shifting across the industry, and turn that into a technical roadmap and a point of view our commercial and research teams can sell against.</p><p>You'll lead a group of engineering managers, forward deployed engineers (FDEs), and senior ICs, and partner closely with applied research, product, and go-to-market leadership. This is a hands-on strategic role. You won't spend much time writing code, but you'll stay close enough to the technical work to make and defend hard architectural calls, and close enough to clients to know which calls matter.</p><h2><strong>What You'll Do</strong></h2><h2><strong>Technical Strategy &#x26; Roadmap</strong></h2><ul>\n<li>Own the multi-year technical strategy for Data Labs, and translate it into a roadmap tied to where the AI training and evaluation market is heading.</li>\n<li>Decide where to build shared platform versus engagement-specific solutions, weighing reuse against team autonomy so platforms speed teams up rather than creating over-dependency.</li>\n<li>Set architectural direction for benchmarking infrastructure, data pipelines, and RL environments so they stay reproducible, portable across client deployments, and ready for the next generation of training methods.</li>\n<li>Anticipate technical shifts 6–18 months out, such as new post-training techniques, agentic evaluation, and synthetic data, and place the bets that keep Invisible ahead of them.</li>\n<li>Set expectations for how AI is used in design reviews and day-to-day engineering work.</li>\n</ul><h2><strong>Market Intelligence &#x26; Competitive Positioning</strong></h2><ul>\n<li>Build a clear, current view of how frontier labs and enterprises are training, evaluating, and deploying models, and what that means for the data and infrastructure they'll need from us.</li>\n<li>Track the competitive landscape across AI data, evaluation, and RL environment providers, and help define where Invisible differentiates.</li>\n<li>Turn client signals, research developments, and market trends into investment recommendations for executive leadership.</li>\n<li>Partner with product and commercial teams to shape new offerings, pricing logic, and the technical story behind them.</li>\n</ul><h2><strong>Evaluation &#x26; Data Strategy</strong></h2><ul>\n<li>Define Invisible's point of view on benchmarking and evaluation, including pre- and post-engagement comparisons, capability gap analyses, and regression tracking.</li>\n<li>Make sure evaluation design ties to client-defined success metrics, validate automated checks against human judgment, and be explicit about what each approach can't see.</li>\n<li>Identify reusable data assets, frameworks, and pipelines that become durable advantages and improve margins across engagements.</li>\n<li>Shape practices for data licensing, privacy, and contamination risk as a strategic differentiator, not just a compliance requirement.</li>\n</ul><h2><strong>Client &#x26; Executive Engagement</strong></h2><ul>\n<li>Represent engineering in executive conversations, strategic client relationships, and pre-sales, translating technical reality into clear, honest narratives.</li>\n<li>Act as a trusted technical advisor to client research and engineering leaders, bringing back what you learn to inform the roadmap.</li>\n<li>Help leaders weigh client-specific asks against broader platform and business goals, with clear short- and long-term paths.</li>\n</ul><h2><strong>Organizational Leadership</strong></h2><ul>\n<li>Lead and grow an engineering org of multiple teams, including engineering managers, senior managers, FDEs, and Staff+ ICs.</li>\n<li>Coach managers to build sound technical judgment and strategic awareness in their teams.</li>\n<li>Build hiring pipelines that reinforce a rigorous, client-focused, strategy-aware engineering culture.</li>\n<li>Make sure the org has the planning, quality, and operational practices it needs to execute on the strategy reliably, delegating day-to-day delivery to strong managers.</li>\n</ul><h2><strong>What We're Looking For</strong></h2><ul>\n<li>10+ years in software engineering, with significant experience building ML or AI systems.</li>\n<li>5+ years in engineering leadership, including experience managing managers across multiple teams.</li>\n<li>A track record of setting multi-year technical strategy and making platform investment decisions that paid off commercially.</li>\n<li>Deep, current understanding of the AI training and evaluation landscape, including how frontier labs and enterprises approach fine-tuning, RLHF/RLAIF, and evaluation methodology.</li>\n<li>Hands-on familiarity with LLM training pipelines, deep enough to make and defend architectural decisions.</li>\n<li>Experience building benchmarking, data curation, or RL infrastructure that produced measurable client outcomes.</li>\n<li>Ability to read market and competitive signals and turn them into a technical roadmap and a clear product point of view.</li>\n<li>Strong cross-functional partnership with applied research, product, and commercial teams.</li>\n<li>Excellent executive communication, and confidence acting as a technical advisor in client and pre-sales conversations.</li>\n</ul><h2><strong>Nice to Have</strong></h2><ul>\n<li>Prior experience at an AI services firm, applied research consultancy, frontier lab, or enterprise AI product company.</li>\n<li>A visible point of view on the AI data and evaluation market, such as talks, writing, or open-source work.</li>\n<li>Familiarity with data licensing, synthetic data generation, or contamination detection involving client data.</li>\n<li>Experience shaping new product lines or service offerings from a technical foundation.</li>\n<li>Experience leading an org through rapid growth or significant change.</li>\n</ul><h2>What’s In It For You</h2><p>Invisible is committed to fair and competitive pay, ensuring that compensation reflects both market conditions and the value each team member brings. Our salary structure accounts for regional differences in cost of living while maintaining internal equity.</p><p>For this position, the annual salary will include a 20% annual bonus and an additional incentive structure. The base salary range for SF/NY are:</p><p>Salary Range</p><p>$252,000—$300,000 USD</p><p>You can find more information about our geographic pay tiers <strong>here.</strong> During the interview process, your Invisible Talent Acquisition Partner will confirm which tier applies to your location. For candidates outside the U.S., compensation is adjusted to reflect local market conditions and cost of living.<br><br>*Bonuses and equity are included in all full-time offers. Final compensation is determined by a combination of factors, including location, job-related experience, skills, knowledge, internal pay equity, and overall market conditions. Because of this, every offer is unique. Additional details on total compensation and benefits will be discussed during the hiring process.</p><h2><strong>What It's Like to Work at Invisible:</strong></h2><p>At Invisible, we’re not just redefining work—we’re reinventing it. We operate at the intersection of advanced AI and human ingenuity, pushing the boundaries of what’s possible to unlock productivity and scale. Ownership is at the core of everything we do. Here, you won’t just execute tasks—you’ll build, innovate, and shape the future alongside world-class clients pushing the boundaries of AI.</p><p>We expect bold ideas, relentless drive, and the ability to turn ambiguity into opportunity. The pace is fast, the challenges are big, and the growth is unmatched. We’re not for everyone, and we’re okay with that. If you’re looking for predictable routines, this isn’t the place for you. But if you’re driven to create, thrive in dynamic environments, and want a front-row seat to the AI revolution, you’ll fit right in.</p><p><em><strong>Country Hiring Guidelines:</strong></em><strong><em>Invisible is a hybrid organization with offices and team members located around the world. While some roles may offer remote flexibility, most positions involve in-office collaboration and are tied to specific locations. Any location-based requirements or hybrid expectations will be communicated by our Talent Acquisition team during the recruiting process.<br><br><strong><em>AI Interviewing Guidelines:</em></strong><br><em>Our hiring team thoughtfully uses AI to support an efficient, engaging, and inclusive interview process. Since AI can also be a helpful tool for candidates, we've outlined expectations for using it ethically throughout your interview journey. </em><em>Click here to learn more about how we use AI and our guidelines for candidates.</em></em></strong></p><p><strong><em><strong><em>Accessibility Statement:</em></strong><em><em>We are committed to providing reasonable accommodations for individuals with disabilities. If you require an accommodation to participate in the application or interview process, please submit your request using our accommodation request form. A member of our team will follow up to support your request. </em><em>Here is the link the google form: </em></em></em></strong></p><p><strong><em><em><strong><em>Equal Opportunity Statement:</em></strong><em><em>We’re an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, or veteran status, or any other basis protected by law.</em></em></em></em></strong></p><p><strong><em><em><em><em>Due to a high volume of candidates, Invisible may use automated decision-maker technologies to filter candidates based on response to our application questions and other provided information. Our use of automated decision-making enables us to be efficient by providing a manageable list of possible candidates that meet our mandatory hiring criteria. If you object to our use of automated decision-making please contact us. </em></em></em></em></strong></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/director-of-engineering-data-labs-invisible-technologies</p>",
       "posted_at": "2026-10-21T12:09:28+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "470cd49e-6763-46bc-bda6-6f29390e210e",
-      "title": "Data Engineer Manager",
-      "url": "https://remotejobs.org/remote-jobs/data-engineer-manager-blend360-14acccbb2af5429cb35c3290f704618d",
-      "apply_url": "https://remotejobs.org/remote-jobs/data-engineer-manager-blend360-14acccbb2af5429cb35c3290f704618d",
-      "company": {
-        "name": "Blend360",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/f00209f91ef04396c4a1635dd697816e2c7e62fa944a366c7309a26b6aaedc70.webp",
-        "website": "https://blend360.com",
-        "url": "https://remotejobs.org/companies/blend360"
-      },
-      "category": {
-        "name": "Data Science",
-        "slug": "data-science"
-      },
-      "location": "Chile",
-      "location_normalization": {
-        "raw": "Chile",
-        "input": {},
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "CL"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [],
-        "evidence_ids": [
-          "source-location"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "CL"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": "manager",
-        "role_family": "data-engineering",
-        "required_skills": [],
-        "mentioned_skills": [
-          "aws"
-        ],
-        "preferred_skills": [],
-        "experience_requirements": [
-          {
-            "text": "7+ years of experience in Data Engineering",
-            "maximum_years": null,
-            "minimum_years": 7,
-            "classification": "mentioned"
-          }
-        ]
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": null,
-      "salary_period": "year",
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<p>Lead, design, and scale data solutions to support Journey Analytics initiatives, with a strong focus on code quality, reusability, and reliable data platforms. This role is responsible for setting the technical direction, overseeing the evolution of data architectures, and leading a team of data engineers to deliver high-quality, performant datasets for analytics and reporting use cases.</p>\n<p>The ideal candidate combines strong hands-on data engineering expertise with people leadership experience, and has a proven track record of driving scalable solutions in cross-functional environments.</p>\n<h2>Responsibilities</h2>\n<ul>\n<li>Lead and mentor a team of data engineers, fostering best practices in coding, architecture, and data engineering standards.</li>\n<li>Define and drive the technical strategy for Journey Analytics data platforms, ensuring scalability, maintainability, and performance.</li>\n<li>Oversee the maintenance, optimization, and automation of code repositories in GitHub, ensuring high-quality and consistent development practices.</li>\n<li>Guide the refactoring of legacy codebases to improve maintainability, scalability, and reusability across multiple use cases.</li>\n<li>Drive the design and implementation of modular, reusable data components to support multiple journeys and reduce duplication.</li>\n<li>Oversee the development and management of automated data pipelines in Databricks, ensuring reliability and scalability for downstream consumption.</li>\n<li>Establish and enforce standards for scalable data modeling to support current and future analytics use cases.</li>\n<li>Ensure data quality, governance, performance, and reliability across all data pipelines and datasets.</li>\n<li>Partner with analytics, product, and engineering stakeholders to align data solutions with business needs and priorities.</li>\n<li>Proactively identify risks, bottlenecks, and improvement opportunities, and drive mitigation strategies at a team and platform level.</li>\n<li>Promote continuous improvement of data processes, documentation, and engineering practices.</li>\n</ul>\n<ul>\n<li>7+ years of experience in Data Engineering.</li>\n<li>Strong experience working with GitHub repositories and version control workflows.</li>\n<li>Hands-on experience developing and maintaining data pipelines in Databricks.</li>\n<li>Proven experience refactoring and maintaining legacy codebases.</li>\n<li>Strong understanding of data modeling and reusable component design.</li>\n<li>Experience building scalable data models for analytics and reporting use cases.</li>\n<li>Strong focus on data quality, performance, and reliability.</li>\n<li>Ability to work in cross-functional environments and contribute to continuous improvement.</li>\n<li>Ability to work independently and take ownership of initiatives after receiving high-level direction, driving tasks forward with minimal supervision.</li>\n<li>Experience using Genie (Databricks) (Plus).</li>\n</ul>\n<ul>\n<li>Certifications in AWS (we are AWS Partners), Databricks, and Snowflake.</li>\n<li>Access to AI learning paths to stay up to date with the latest technologies.</li>\n<li>Study plans, courses, and additional certifications tailored to your role.</li>\n<li>Access to Udemy Business, offering thousands of courses to boost your technical and soft skills.</li>\n<li>English lessons to support your professional communication.</li>\n<li>Travel opportunities to attend industry conferences and meet clients.</li>\n<li>Career development plans and mentorship programs to help shape your path.</li>\n<li>Special day rewards to celebrate birthdays, work anniversaries, and other personal milestones.</li>\n<li>Company-provided equipment.</li>\n<li>Flexible working options to help you strike the right balance.</li>\n<li>Other benefits may vary according to your location in LATAM. For detailed information regarding the benefits applicable to your specific location, please consult with one of our recruiters.</li>\n</ul>\n<p>Blend is a premier AI services provider, committed to co-creating meaningful impact for its clients through the power of data science, AI, technology, and people. With a mission to fuel bold visions, Blend tackles significant challenges by seamlessly aligning human expertise with artificial intelligence. The company is dedicated to unlocking value and fostering innovation for its clients by harnessing world-class people and data-driven strategy. We believe that the power of people and AI can have a meaningful impact on your world, creating more fulfilling work and projects for our people and clients. For more information, visit  </p>\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/data-engineer-manager-blend360-14acccbb2af5429cb35c3290f704618d</p>",
-      "posted_at": "2026-10-21T11:32:41+00:00",
       "is_translated": false,
       "original_language": null
     }

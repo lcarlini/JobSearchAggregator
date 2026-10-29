@@ -1,7 +1,37 @@
 {
-  "generatedAt": "2026-10-29T12:27:52.345Z",
-  "count": 186,
+  "generatedAt": "2026-10-29T22:32:37.887Z",
+  "count": 175,
   "jobs": [
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/vercel-software-engineer-backend",
+      "source": "weworkremotely",
+      "title": "Software Engineer, Backend",
+      "company": "Vercel",
+      "url": "https://weworkremotely.com/remote-jobs/vercel-software-engineer-backend",
+      "description": "Headquarters: Remote - United States About Vercel: Vercel is the agentic infrastructure company, freeing people and agents to ship what's next. For more than a decade we've helped builders move from idea to production with speed, security, and exceptional developer experience. Now we're scaling our products for both agents and people to ship and run software, built in the open and trusted by OpenAI, PayPal, Ramp, Supreme, and millions of developers worldwide. About the Role: We are seeking a Backend leaning Software Engineer. In this role, you will play a pivotal role in designing, building, and maintaining scalable, high-performance systems. Leveraging JavaScript/TypeScript, Node.js, SQL and NoSQL cloud-native databases, and AWS, you will develop innovative solutions for user, group, and ",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "programming"
+      ],
+      "postedAt": "Sun, 11 Oct 2026 07:31:07 +0000",
+      "category": "programming"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/maven-clinic-client-success-manager",
+      "source": "weworkremotely",
+      "title": "Client Success Manager",
+      "company": "Maven Clinic",
+      "url": "https://weworkremotely.com/remote-jobs/maven-clinic-client-success-manager",
+      "description": "Headquarters: New York, NY; Remote, US (Hub cities) Maven Clinic is the world's largest virtual clinic for women and families on a mission to make healthcare work for all of us. Through Maven Enterprise, the company partners with more than 2,300 employers and health plans to provide end-to-end women's and family health programs spanning fertility and family building, maternity and newborn care, parenting and pediatrics, and menopause and midlife — improving clinical outcomes, reducing healthcare costs, and expanding equitable access to high-quality care at scale. Through its consumer platform, Maven provides direct access to virtual care across 30+ specialties, as well as dedicated hormone and GLP-1 care programs purpose-built for women. Founded in 2014 by CEO Kate Ryder, Maven Clinic has ",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "programming"
+      ],
+      "postedAt": "Sun, 11 Oct 2026 07:30:56 +0000",
+      "category": "programming"
+    },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/typeform-full-stack-developer",
       "source": "weworkremotely",
@@ -330,36 +360,6 @@
         "programming"
       ],
       "postedAt": "Mon, 13 May 2024 03:14:30 +0000",
-      "category": "programming"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/hr-plus-web-developer-fresh-graduate-welcome-wfh-policy-on-job-training",
-      "source": "weworkremotely",
-      "title": "Web Developer (Fresh graduate welcome, WFH policy, on-job-training)",
-      "company": "HR Plus",
-      "url": "https://weworkremotely.com/remote-jobs/hr-plus-web-developer-fresh-graduate-welcome-wfh-policy-on-job-training",
-      "description": "Headquarters: Hong Kong, Hong Kong SAR, Hong Kong URL: http://hrplus.tech About the Role: Are you a talented and driven Web Developer looking to join a young and energetic team? Look no further! Our client, a fast-growing firm in the exciting field of web development, is seeking a skilled Web Developer to join their dynamic team. With a focus on innovation and growth, they offer a supportive and collaborative work environment where you can thrive. Here's what you can gain from this opportunity: Hands-on experience in web development for various companies in different settings. Down-to-earth, hands-on training from experienced seniors. A chance to join a rapidly growing industry and build a successful career in web development. Benefits: Competitive salary package based on skills and experi",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Front-End Programming",
-        "programming"
-      ],
-      "postedAt": "Tue, 29 Sep 2026 19:13:52 +0000",
-      "category": "programming"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/bondex-fullstack-web3-engineer-solidity-rust-typescript",
-      "source": "weworkremotely",
-      "title": "Fullstack Web3 Engineer (Solidity / Rust / Typescript)",
-      "company": "bondex",
-      "url": "https://weworkremotely.com/remote-jobs/bondex-fullstack-web3-engineer-solidity-rust-typescript",
-      "description": "Headquarters: Remote - Americas, El Salvador URL: http://bondex.app We're recruiting a Web 3 Fullstack Developer (Solidity / Rust / Typescript) who is looking for a new challenge and ready to join an exciting new chapter to expand our clients product value proposition in the DeFi Web3 realm.&nbsp; &nbsp; The client is is revoluzionezing financial interoperability and the requirements for the role are:&nbsp; &nbsp; Minimum 4 years of professional experience in WEB development; preferably with Typescript Experience as Fullstack Web3 developer at least 2 years in the following programming languages: Web3: High level of Solidity (demonstrated experience) / Rust FRONTEND: Typescript / Javascript / React / NodeJS BACKEND: NodeJS; nice to have Golang & Python FLUENT proficient English , passable ",
-      "location": "Remote - Americas",
-      "tags": [
-        "Front-End Programming",
-        "programming"
-      ],
-      "postedAt": "Tue, 29 Sep 2026 19:13:52 +0000",
       "category": "programming"
     },
     {
@@ -1068,81 +1068,6 @@
       "category": "design"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/epam-systems-senior-vmware-engineer-1",
-      "source": "weworkremotely",
-      "title": "Senior VMware Engineer",
-      "company": "EPAM Systems",
-      "url": "https://weworkremotely.com/remote-jobs/epam-systems-senior-vmware-engineer-1",
-      "description": "Headquarters: Belarus URL: http://epam.com We are looking for a Senior VMware Engineer to join our team supporting the delivery of a Unified Automation Platform for a large enterprise client. Within this role, you will develop and maintain VMware automation modules as part of an Internal Developer Platform (IDP) that standardizes project delivery, consolidates development resources, and ensures consistent provisioning across Azure and on-premises VMware environments. Your work will involve a modern toolchain built on Terraform/OpenTofu and Ansible, leveraging AI-assisted development with GitHub Copilot as a standard engineering practice. Responsibilities Develop and maintain Terraform/OpenTofu modules for vSphere VM provisioning, placement/resource-pool configuration, and cloud-init/cloudb",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Design",
-        "design"
-      ],
-      "postedAt": "Tue, 29 Sep 2026 16:16:31 +0000",
-      "category": "design"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/ilogos-2d-artist-props-and-customization",
-      "source": "weworkremotely",
-      "title": "2D Artist Props and Customization",
-      "company": "iLogos",
-      "url": "https://weworkremotely.com/remote-jobs/ilogos-2d-artist-props-and-customization",
-      "description": "Headquarters: Kaupmehe 7 Tallinn, 10114 Estonia URL: http://ilogos.biz iLogos Game Studios provides solutions for mobile game developers no matter how challenging the project or task is. We’ve been around since 2006 and in that time frame, we have successfully completed 400+ projects and have become a partner of choice for EA, Sony, Disney, Rovio, Ubisoft, and many other companies. About the project: This is the next generation of multiplayer gaming, transforming classic poker into an immersive digital spectacle. An interactive competitive platform where players, spectators, and hosts become full-fledged participants in one large-scale shared experience. At the heart of the project is the concept of the Digital Coliseum — a digital arena where every game becomes a public performance, and a",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Design",
-        "design"
-      ],
-      "postedAt": "Tue, 29 Sep 2026 16:16:30 +0000",
-      "category": "design"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/ewor-agentic-ai-design-engineer-100-remote-m-f-d",
-      "source": "weworkremotely",
-      "title": "Agentic AI Design Engineer (100 % remote) (m/f/d)",
-      "company": "EWOR",
-      "url": "https://weworkremotely.com/remote-jobs/ewor-agentic-ai-design-engineer-100-remote-m-f-d",
-      "description": "Headquarters: Tallinn, Europe, Estonia URL: http://ewor.com EWOR is launching cutting-edge new initiatives, and we are looking for exceptional operators and builders to join our new department. We are backed and led by serial entrepreneurs, including Paul Müller (founder of Adjust, €1.2B exit) and Petter Made (founder of SumUp, €8B), who have built high-impact technology and category-defining ventures from the ground up. What We Offer Maximum ownership : Complete autonomy to architect systems, drive strategy, and build from 0 to 1 without corporate red tape. High-growth environment : Complete focus on achieving strong market validation and scalable traction as fast as possible. No PowerPoint presentations, no 7 layers of approval. Good ideas and fast execution are what matter. Elite team :",
-      "location": "Europe",
-      "tags": [
-        "Design",
-        "design"
-      ],
-      "postedAt": "Tue, 29 Sep 2026 16:16:30 +0000",
-      "category": "design"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/replika-brand-design-manager",
-      "source": "weworkremotely",
-      "title": "Brand Design Manager",
-      "company": "Replika",
-      "url": "https://weworkremotely.com/remote-jobs/replika-brand-design-manager",
-      "description": "Headquarters: Armenia Yerevan, EMEA, Armenia URL: http://replika.com About Replika Replika is an AI companion loved by 35M+ users around the world. We’re redefining what it means to connect with technology – emotionally, intelligently, and personally. From mobile to VR, we’re building an experience that feels less like software and more like someone who gets you. We’re scaling fast and taking on bold challenges to become the most human AI on the planet. About the role Brand Design Manager We’re building a brand-new product from scratch, and we need someone to design what it actually is — not the buttons, the product. This is a conceptual role: you invent the functions, the moments, the way the whole thing works and feels, from a blank page. You’re not polishing UI. You’re deciding what the",
-      "location": "EMEA",
-      "tags": [
-        "Design",
-        "design"
-      ],
-      "postedAt": "Tue, 29 Sep 2026 16:16:30 +0000",
-      "category": "design"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/epam-systems-senior-network-engineer",
-      "source": "weworkremotely",
-      "title": "Senior Network Engineer",
-      "company": "EPAM Systems",
-      "url": "https://weworkremotely.com/remote-jobs/epam-systems-senior-network-engineer",
-      "description": "Headquarters: Belarus URL: http://epam.com We are seeking a Senior Network Engineer to join our engagement on the delivery of a Unified Automation Platform — an Internal Developer Platform (IDP) that standardizes new-project delivery, centralizes access to development resources, and enables software creation through templates and golden paths. In this role, you will contribute to the Network/Firewalls automation stream, building modules on a modern toolchain (Terraform/OpenTofu for IaC and Ansible for CaC) with AI-assisted development using GitHub Copilot as a standard practice. Responsibilities Implement and maintain firewall automation modules across PaloAlto, F5, and Cloudflare (security rules, address/service objects, NAT, VIP/pool configuration, WAF policy, certificate binding), follo",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Design",
-        "design"
-      ],
-      "postedAt": "Tue, 29 Sep 2026 16:16:30 +0000",
-      "category": "design"
-    },
-    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/typeform-senior-ai-engineer-eu",
       "source": "weworkremotely",
       "title": "Senior AI Engineer - EU",
@@ -1560,66 +1485,6 @@
         "product"
       ],
       "postedAt": "Thu, 01 Oct 2026 07:30:56 +0000",
-      "category": "product"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/accelerate-agency-brand-content-manager",
-      "source": "weworkremotely",
-      "title": "Brand Content Manager",
-      "company": "accelerate agency",
-      "url": "https://weworkremotely.com/remote-jobs/accelerate-agency-brand-content-manager",
-      "description": "Headquarters: Sarajevo, Bosnia and Herzegovina URL: http://accelerateagency.ai Brand Content Manager (Bosnia) The Company accelerate agency is a fast growing SaaS SEO agency. As we’re currently experiencing expedited growth, we’re now searching for an experienced Brand Content Manager to join our team. Objectives of this Role Overseeing our company’s content strategy from ideation to distribution Driving content production that will attract and convert leads for our sales Managing a team of creatives and balancing administrative tasks alongside editorial duties Optimizing content for conversion, improving existing content, and filling content gaps Responsibilities Working with the content writing, graphic design, web development, and social media teams to plan, create, and distribute conte",
-      "location": "Sarajevo Canton",
-      "tags": [
-        "Product",
-        "product"
-      ],
-      "postedAt": "Tue, 29 Sep 2026 19:07:41 +0000",
-      "category": "product"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/softswiss-business-development-manager",
-      "source": "weworkremotely",
-      "title": "Business Development Manager",
-      "company": "Softswiss",
-      "url": "https://weworkremotely.com/remote-jobs/softswiss-business-development-manager",
-      "description": "Headquarters: Saint Nikolaos Kato Polemidia, 4159 Cyprus URL: http://softswiss.com Overview: SOFTSWISS is hiring a Business Development Manager to join our iGaming Platform team. You’ll work on expanding our global client base, contributing to the growth of one of our core products Purpose of the Role: You’ll drive B2B client acquisition and market expansion to accelerate revenue growth across the iGaming Platform. Your work will impact global sales performance and client portfolio development by securing high-value partnerships and increasing market presence. About Product: iGaming Platform : With our strong technical team, SOFTSWISS has created a secure iGaming platform that ensures the highest quality of service to clients worldwide. Through constant innovation, the iGaming Platform Tea",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Product",
-        "product"
-      ],
-      "postedAt": "Tue, 29 Sep 2026 19:07:41 +0000",
-      "category": "product"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/flosum-saas-revenue-financial-analyst-flosum-belarus",
-      "source": "weworkremotely",
-      "title": "SaaS Revenue & Financial Analyst - Flosum (Belarus)",
-      "company": "Flosum",
-      "url": "https://weworkremotely.com/remote-jobs/flosum-saas-revenue-financial-analyst-flosum-belarus",
-      "description": "Headquarters: Belarus URL: http://flosum.com Description SaaS Revenue & Financial Analyst — Flosum About Flosum Flosum is a Salesforce-native platform company delivering enterprise-grade DevOps, data protection, and security solutions to some of the world's largest organizations. Our product portfolio spans Cloud DevOps, Data Migrator, Data Masking, Data Backup, Org Security, Cloud Trust Center, and Sandbox Synchronization — all built natively on the Salesforce platform. We serve enterprise customers across technology, energy, financial services, healthcare, and federal government. Flosum is a growth-stage company operating with the intensity and speed of a startup backed by the discipline of a mature operator. The Role We're hiring a SaaS Revenue & Financial Analyst who will own the measu",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Product",
-        "product"
-      ],
-      "postedAt": "Tue, 29 Sep 2026 19:07:41 +0000",
-      "category": "product"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/ewor-saas-full-stack-developer-100-remote-m-f-d",
-      "source": "weworkremotely",
-      "title": "SaaS Full-Stack Developer (100 % remote) (m/f/d)",
-      "company": "EWOR",
-      "url": "https://weworkremotely.com/remote-jobs/ewor-saas-full-stack-developer-100-remote-m-f-d",
-      "description": "Headquarters: Odense Banegård (Odense Letbane) Odense C, Europe, 5000 Denmark URL: http://ewor.com EWOR is launching cutting-edge new initiatives, and we are looking for exceptional operators and builders to join our new department. We are backed and led by serial entrepreneurs, including Paul Müller (founder of Adjust, €1.2B exit) and Petter Made (founder of SumUp, €8B), who have built high-impact technology and category-defining ventures from the ground up. What We Offer Maximum ownership : Complete autonomy to architect systems, drive strategy, and build from 0 to 1 without corporate red tape. High-growth environment : Complete focus on achieving strong market validation and scalable traction as fast as possible. No PowerPoint presentations, no 7 layers of approval. Good ideas and fast ",
-      "location": "Europe",
-      "tags": [
-        "Product",
-        "product"
-      ],
-      "postedAt": "Tue, 29 Sep 2026 19:07:41 +0000",
       "category": "product"
     },
     {
@@ -2400,36 +2265,6 @@
         "full-stack"
       ],
       "postedAt": "Sun, 11 Oct 2026 07:31:07 +0000",
-      "category": "full-stack"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/vercel-software-engineer-backend",
-      "source": "weworkremotely",
-      "title": "Software Engineer, Backend",
-      "company": "Vercel",
-      "url": "https://weworkremotely.com/remote-jobs/vercel-software-engineer-backend",
-      "description": "Headquarters: Remote - United States About Vercel: Vercel is the agentic infrastructure company, freeing people and agents to ship what's next. For more than a decade we've helped builders move from idea to production with speed, security, and exceptional developer experience. Now we're scaling our products for both agents and people to ship and run software, built in the open and trusted by OpenAI, PayPal, Ramp, Supreme, and millions of developers worldwide. About the Role: We are seeking a Backend leaning Software Engineer. In this role, you will play a pivotal role in designing, building, and maintaining scalable, high-performance systems. Leveraging JavaScript/TypeScript, Node.js, SQL and NoSQL cloud-native databases, and AWS, you will develop innovative solutions for user, group, and ",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Sun, 11 Oct 2026 07:31:07 +0000",
-      "category": "full-stack"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/maven-clinic-client-success-manager",
-      "source": "weworkremotely",
-      "title": "Client Success Manager",
-      "company": "Maven Clinic",
-      "url": "https://weworkremotely.com/remote-jobs/maven-clinic-client-success-manager",
-      "description": "Headquarters: New York, NY; Remote, US (Hub cities) Maven Clinic is the world's largest virtual clinic for women and families on a mission to make healthcare work for all of us. Through Maven Enterprise, the company partners with more than 2,300 employers and health plans to provide end-to-end women's and family health programs spanning fertility and family building, maternity and newborn care, parenting and pediatrics, and menopause and midlife — improving clinical outcomes, reducing healthcare costs, and expanding equitable access to high-quality care at scale. Through its consumer platform, Maven provides direct access to virtual care across 30+ specialties, as well as dedicated hormone and GLP-1 care programs purpose-built for women. Founded in 2014 by CEO Kate Ryder, Maven Clinic has ",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Sun, 11 Oct 2026 07:30:56 +0000",
       "category": "full-stack"
     },
     {
