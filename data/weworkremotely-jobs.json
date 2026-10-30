@@ -1,7 +1,67 @@
 {
-  "generatedAt": "2026-10-30T04:36:33.114Z",
-  "count": 176,
+  "generatedAt": "2026-10-30T12:17:50.366Z",
+  "count": 181,
   "jobs": [
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/toptal-apigee-engineer-for-global-consumer-food-company",
+      "source": "weworkremotely",
+      "title": "Apigee Engineer for Global Consumer Food Company",
+      "company": "Toptal",
+      "url": "https://weworkremotely.com/remote-jobs/toptal-apigee-engineer-for-global-consumer-food-company",
+      "description": "Headquarters: General Information: Our client is a global leader in the food and beverage industry and is recognized as one of the top brands in the world. …………………………………………………………………………… About the Role: Lead in high level technical concepts spanning technology and business to support Apigee, Apigee Hybrid in AKS and AWS This role maintains the health and efficiency of all application infrastructure, provides professional hands-on implementation and technical advice to ensure the successful implementation of IT Infra. Management products. Provide support of application platforms at the enterprise level which includes automating platform build, patches, vulnerabilities, change management, incident management, monitoring and continued platform improvement Collaborate with peers, technology par",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "programming"
+      ],
+      "postedAt": "Mon, 12 Oct 2026 16:28:34 +0000",
+      "category": "programming"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/toptal-salesforce-developers-with-ai-assisted-coding-experience",
+      "source": "weworkremotely",
+      "title": "Salesforce Developers with AI-Assisted Coding Experience",
+      "company": "Toptal",
+      "url": "https://weworkremotely.com/remote-jobs/toptal-salesforce-developers-with-ai-assisted-coding-experience",
+      "description": "Headquarters: We are looking for Salesforce Developers for a global company. Their goal is to accelerate Salesforce delivery across Flows, Lightning Web Components, and Apex while using AI copilots and agents to improve delivery speed, testing, and documentation. General Information Location: Remote. Talents from the USA or Canada. Overlap: 6hs with East Coast time zone, USA Commitment: full-time Length: 12+ months Required Skills: 3–6+ years of Salesforce development experience Strong hands-on experience with Apex Strong experience building Lightning Web Components (LWC) Strong experience with Salesforce Flow Experience with Git-based development and pull request workflows Strong automated testing mindset, including unit testing and security checks Experience validating Salesforce securit",
+      "location": "North America Only",
+      "tags": [
+        "Full-Stack Programming",
+        "programming"
+      ],
+      "postedAt": "Mon, 12 Oct 2026 16:21:23 +0000",
+      "category": "programming"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/toptal-full-stack-e-commerce-developer-with-sage-x3-experience",
+      "source": "weworkremotely",
+      "title": "Full-Stack E-commerce Developer with Sage X3 Experience",
+      "company": "Toptal",
+      "url": "https://weworkremotely.com/remote-jobs/toptal-full-stack-e-commerce-developer-with-sage-x3-experience",
+      "description": "Headquarters: Summary We are seeking a Full-Stack Developer to build or customize a dealer e-commerce platform connected to an existing Sage X3 ERP environment. The role is focused on selecting the right e-commerce approach, implementing the portal, and supporting dealer-facing workflows in a manufacturing context. General information This engagement centers on building an e-commerce portal for dealers on top of an existing Sage X3 ERP setup. The client is open to the e-commerce technology choice and is looking for an experienced developer who can assess the current environment, recommend an appropriate platform approach, and deliver the required solution. The work is fully remote and involves integrating the portal with Sage X3 while supporting the underlying commerce and data flows requi",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "programming"
+      ],
+      "postedAt": "Mon, 12 Oct 2026 13:52:56 +0000",
+      "category": "programming"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3",
+      "source": "weworkremotely",
+      "title": "Software engineer",
+      "company": "Sticker Mule",
+      "url": "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3",
+      "description": "Headquarters: New York, NY URL: https://www.stickermule.com Sticker Mule is building the Internet's most lucrative commerce platform by combining software, manufacturing, and AI into one fully integrated stack. No print company, or pure software company for that matter, can match what we're doing. We're privately owned, profitable, and doing 9-figures in annual revenue with no meddlesome investors. &nbsp; How we work Small, autonomous teams that own products end-to-end. Prioritize what matters right now and pivot instantly when needed. Ship across web and mobile from the same codebase. We use Go, TypeScript, React, Expo, GraphQL, Postgres, and run on GCP. Use AI aggressively to push the limit of what we can do. Move fast, build for the masses, and deprioritize edge cases. Fully remote from",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "programming"
+      ],
+      "postedAt": "Thu, 14 May 2026 09:14:28 +0000",
+      "category": "programming"
+    },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/vercel-software-engineer-data-platform",
       "source": "weworkremotely",
@@ -318,49 +378,79 @@
       "category": "programming"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/lithic-senior-risk-associate",
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/wrike-cloudops-engineer-network-engineer",
       "source": "weworkremotely",
-      "title": "Senior Risk Associate",
-      "company": "Lithic",
-      "url": "https://weworkremotely.com/remote-jobs/lithic-senior-risk-associate",
-      "description": "Headquarters: Remote Lithic is the modern card issuing and processing platform empowering ambitious financial companies to build the future of payments. Our infrastructure powers card programs for 100+ innovative clients, from fintechs reimagining credit and digital banking to platforms transforming disbursements and spend management. Companies like Mercury, Flex, and Novo rely on Lithic's developer-friendly APIs, direct network connections, and flawless reconciliation to launch and scale card programs in weeks, not years. We're building a future where access to better financial products materially improves people's lives, free from the constraints of 30-year-old mainframes and legacy processors. We're proud to be backed by world-class investors who share that vision, including Bessemer Ve",
+      "title": "CloudOps Engineer (Network Engineer)",
+      "company": "Wrike",
+      "url": "https://weworkremotely.com/remote-jobs/wrike-cloudops-engineer-network-engineer",
+      "description": "Headquarters: Cyprus - Remote Wrike is the most powerful work management platform. Built for teams and organizations looking to collaborate, create, and exceed every day, Wrike brings everyone and all work into a single place to remove complexity, increase productivity, and free people up to focus on their most purposeful work. &nbsp; Wrike is our people, not a place. As a distributed team, we own our growth, stay globally connected, and rely on the product we build to deliver impactful work alongside brilliant minds. You'll have real ownership over meaningful work, a global team that has your back, and the flexibility to do your best work your way. If that sounds like you, we'd love to hear from you. &nbsp; Our vision:&nbsp; A world where everyone is free to focus on their most purposeful",
       "location": "Anywhere in the World",
       "tags": [
-        "Full-Stack Programming",
-        "programming"
+        "DevOps and Sysadmin",
+        "devops"
       ],
-      "postedAt": "Wed, 30 Sep 2026 07:31:24 +0000",
-      "category": "programming"
+      "postedAt": "Fri, 30 Oct 2026 07:31:17 +0000",
+      "category": "devops"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/salesloft-principal-software-engineer-ai",
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/anthropic-autonomous-systems-security-engineer",
       "source": "weworkremotely",
-      "title": "Principal Software Engineer, AI",
-      "company": "Salesloft",
-      "url": "https://weworkremotely.com/remote-jobs/salesloft-principal-software-engineer-ai",
-      "description": "Headquarters: United States, Remote Job Title: Principal Software Engineer, AI&nbsp; Location : Remote - US Salesloft is building the next era of enterprise revenue — one where teams make confident decisions powered by AI and real signals. By combining our scale, insights, and AI innovation, we're building the industry's first Predictive Revenue System, enabling humans and AI to work together to make smarter decisions and drive consistent growth. With thousands of customers using our platforms every day, we have an unmatched view into how revenue is actually won — the Revenue Context that reveals what happens, when, and with what outcome. This gives us a unique opportunity to transform an entire category and set a new benchmark for how modern revenue teams operate. Join us to help transfor",
+      "title": "Autonomous Systems Security Engineer",
+      "company": "Anthropic",
+      "url": "https://weworkremotely.com/remote-jobs/anthropic-autonomous-systems-security-engineer",
+      "description": "Headquarters: Remote-Friendly (Travel Required) | San Francisco, CA About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems. About the role Claude is trained and served on hardware in data centers Anthropic operates and in sites partners build and run for us. DCSE secures that footprint: the sites, the hardware moving through them, and the people and vendors who touch it. You'll be the engineer who owns autonomous systems across that footprint as one security domain, from both sides: drones, ground robots and auto",
       "location": "Anywhere in the World",
       "tags": [
-        "Full-Stack Programming",
-        "programming"
+        "DevOps and Sysadmin",
+        "devops"
       ],
-      "postedAt": "Wed, 30 Sep 2026 07:31:24 +0000",
-      "category": "programming"
+      "postedAt": "Fri, 30 Oct 2026 07:31:14 +0000",
+      "category": "devops"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/tailscale-analytics-engineer-data",
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/carrot-sr-it-systems-engineer",
       "source": "weworkremotely",
-      "title": "Analytics Engineer, Data",
-      "company": "Tailscale",
-      "url": "https://weworkremotely.com/remote-jobs/tailscale-analytics-engineer-data",
-      "description": "Headquarters: Remote (Canada) Thank you for considering Tailscale. If this job description resonates with you, please apply.&nbsp; Frequently cited statistics show that people who identify with historically marginalized groups are likely to apply to jobs only if they meet 100% of the qualifications. We encourage you to help us break that statistic! About Tailscale&nbsp; Tailscale is making safe connection effortless by delivering software that makes it easy to securely interconnect people and their devices, no matter where they are. From hobbyists to multinational corporations, teams of every size use Tailscale each day to protect their networks, share access to internal tools, and more. We're building a future for the Internet that's easy, sensible, and safe, like it used to be. Founded i",
+      "title": "Sr. IT Systems Engineer",
+      "company": "Carrot",
+      "url": "https://weworkremotely.com/remote-jobs/carrot-sr-it-systems-engineer",
+      "description": "Headquarters: Remote About Carrot: Carrot is the leading global fertility and family care platform, built on intelligent care orchestration: the right clinical guidance, at the right moment, in the context of each member’s life. More than a thousand multinational employers, health plans, and health systems trust Carrot to support millions of members across 195 countries – from pre-pregnancy through menopause and major life moments in between. Carrot's comprehensive clinical program delivers industry-leading cost savings for plan sponsors and award-winning experiences and improved outcomes for millions of people worldwide. Carrot is widely regarded as a defining force in healthcare innovation as a recipient of several top-tier awards, including Fast Company's 'Most Innovative Companies' and",
       "location": "Anywhere in the World",
       "tags": [
-        "Full-Stack Programming",
-        "programming"
+        "DevOps and Sysadmin",
+        "devops"
       ],
-      "postedAt": "Wed, 30 Sep 2026 07:31:24 +0000",
-      "category": "programming"
+      "postedAt": "Fri, 30 Oct 2026 07:31:10 +0000",
+      "category": "devops"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/smartsheet-devops-engineer-edge-and-developer-experience-remote-eligible-in-bulgaria",
+      "source": "weworkremotely",
+      "title": "DevOps Engineer, Edge and Developer Experience (Remote Eligible in Bulgaria)",
+      "company": "Smartsheet",
+      "url": "https://weworkremotely.com/remote-jobs/smartsheet-devops-engineer-edge-and-developer-experience-remote-eligible-in-bulgaria",
+      "description": "Headquarters: -REMOTE, BULGARIA- For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best, automating manual tasks and uncovering insights at scale, we create the space for people to focus on what truly matters: judgment, creativity, and big thinking. That is magic at work, and it’s what we show up for every day. We are seeking a DevOps Engineer II to join the Edge and Developer Experience team. Our team collaboratively operates Smartsheet's high-performance edge proxy platform and drives the adoption of internal engineering tooling. The edge proxy serves as the entry point for all traffic across Smartsheet's commercial ",
+      "location": "Anywhere in the World",
+      "tags": [
+        "DevOps and Sysadmin",
+        "devops"
+      ],
+      "postedAt": "Fri, 30 Oct 2026 07:31:10 +0000",
+      "category": "devops"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/keeper-security-consumer-support-specialist-weekend-shift-sunday-thursday",
+      "source": "weworkremotely",
+      "title": "Consumer Support Specialist (Weekend Shift, Sunday - Thursday)",
+      "company": "Keeper Security",
+      "url": "https://weworkremotely.com/remote-jobs/keeper-security-consumer-support-specialist-weekend-shift-sunday-thursday",
+      "description": "Headquarters: Remote, US Keeper is hiring a passionate Technical Consumer Support Specialist to contribute knowledge and expertise to our B2C Support team. This is a 100% remote position from select locations (Central, Mountain or Eastern Time Zones) with an opportunity to work a hybrid schedule for candidates based in the Chicago, IL metro area.&nbsp; Keeper’s cybersecurity software is trusted by millions of people and thousands of organizations, globally. Keeper is published in 23 languages and is sold in over 150 countries. Join one of the fastest-growing cybersecurity companies and gain valuable skills while supporting and guiding our consumer market in this pivotal role! About Keeper Keeper Security is one of the fastest-growing cybersecurity software companies that protects thousands",
+      "location": "Anywhere in the World",
+      "tags": [
+        "DevOps and Sysadmin",
+        "devops"
+      ],
+      "postedAt": "Fri, 30 Oct 2026 07:31:10 +0000",
+      "category": "devops"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-data-engineer",
@@ -369,21 +459,6 @@
       "company": "ZoomInfo Technologies LLC",
       "url": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-data-engineer",
       "description": "Headquarters: Remote-US ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen fast. &nbsp; We are seeking a highly experienced, hands-on&nbsp; Principal Data Engineer to define and evolve the architecture, engineering standards, and operating model for our enterprise data platform. This role is for a technical leader who excels at complex system design: translating business and analytical needs into scalable, reliable, secure, and maintainable data products. The Principal Data Engineer will lead critical archit",
-      "location": "Anywhere in the World",
-      "tags": [
-        "DevOps and Sysadmin",
-        "devops"
-      ],
-      "postedAt": "Thu, 29 Oct 2026 07:30:52 +0000",
-      "category": "devops"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/calm-com-software-development-engineer-in-test",
-      "source": "weworkremotely",
-      "title": "Software Development Engineer in Test",
-      "company": "Calm.com",
-      "url": "https://weworkremotely.com/remote-jobs/calm-com-software-development-engineer-in-test",
-      "description": "Headquarters: Remote, United States About Calm Calm is the leading mental health brand on a mission to make the world happier and healthier. Known for its flagship consumer app—ranked #1 in its category with over 180 million downloads and availability in ten languages across 190 countries—Calm helps people sleep better, stress less, and live more mindfully through content and tools from experts and beloved celebrity voices. Building on this foundation, Calm has created a broader portfolio including evidence-based solutions like Calm Health , offered through employers, health plans and providers, designed to expand access to mental health and sleep support, boost benefits engagement, and drive positive health outcomes. Today, Calm supports more than 3,500 organizations and reaches over 42 m",
       "location": "Anywhere in the World",
       "tags": [
         "DevOps and Sysadmin",
@@ -796,6 +871,36 @@
       ],
       "postedAt": "Sat, 03 Oct 2026 07:31:20 +0000",
       "category": "devops"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/keeper-security-creative-localization-specialist",
+      "source": "weworkremotely",
+      "title": "Creative Localization Specialist",
+      "company": "Keeper Security",
+      "url": "https://weworkremotely.com/remote-jobs/keeper-security-creative-localization-specialist",
+      "description": "Headquarters: Remote, US Description Keeper is hiring a detail-oriented Creative Localization Specialist to manage the localization of global creative assets across multiple languages and design platforms. This is a 100% remote position from select locations, with an opportunity to work a hybrid schedule for candidates based in the Chicago, IL metro area. Keeper’s cybersecurity software is trusted by millions of people and thousands of organizations globally. Keeper is published in 23 languages and is sold in over 150 countries. Join one of the fastest-growing cybersecurity companies and help deliver high-quality creative experiences to a global audience. About Keeper Keeper Security is one of the fastest-growing cybersecurity software companies that protects thousands of organizations and",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Design",
+        "design"
+      ],
+      "postedAt": "Fri, 30 Oct 2026 07:31:10 +0000",
+      "category": "design"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/smartsheet-manager-engineering-remote-eligible-in-bulgaria",
+      "source": "weworkremotely",
+      "title": "Manager, Engineering (Remote Eligible in Bulgaria)",
+      "company": "Smartsheet",
+      "url": "https://weworkremotely.com/remote-jobs/smartsheet-manager-engineering-remote-eligible-in-bulgaria",
+      "description": "Headquarters: -REMOTE, BULGARIA- For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best, automating manual tasks and uncovering insights at scale, we create the space for people to focus on what truly matters: judgment, creativity, and big thinking. That is magic at work, and it’s what we show up for every day. Smartsheet is a tech company with a human story to tell. We’re here to empower teams to manage projects, automate workflows, and rapidly build new secure solutions, using simple no-code tools. We’re revolutionaries – so for us, changing the way the world works is all in a day’s work. As a global leader in Intell",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Design",
+        "design"
+      ],
+      "postedAt": "Fri, 30 Oct 2026 07:31:10 +0000",
+      "category": "design"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/thatch-brand-designer",
@@ -1501,6 +1606,21 @@
       ],
       "postedAt": "Thu, 01 Oct 2026 07:30:56 +0000",
       "category": "product"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/jumio-principal-enterprise-architect",
+      "source": "weworkremotely",
+      "title": "Principal Enterprise Architect",
+      "company": "Jumio",
+      "url": "https://weworkremotely.com/remote-jobs/jumio-principal-enterprise-architect",
+      "description": "Headquarters: India (remote) Enterprise Architect - Cloud & AI Role Overview Jumio is not just processing transactions; we are pioneering the future of identity intelligence. To lead this transformation, you serve as a visionary AI Adoption Catalyst and Systems Architect , redefining our technical landscape. In this role, you aren’t a traditional gatekeeper—you are a Developer Advocate and mission-driven leader. You take end-to-end ownership of our architecture, positioning machine learning and GenAI at the heart of our DNA. Leveraging your deep expertise in AWS and cloud-native engineering, you provide the engine that empowers our developers to innovate at lightning speed, ensuring our multi-tenant SaaS platform remains the global benchmark for performance and scale. This is a mandate for",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Fri, 30 Oct 2026 07:31:21 +0000",
+      "category": "full-stack"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/salesloft-hr-enablement-lead",
@@ -2223,51 +2343,6 @@
       "category": "full-stack"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/toptal-apigee-engineer-for-global-consumer-food-company",
-      "source": "weworkremotely",
-      "title": "Apigee Engineer for Global Consumer Food Company",
-      "company": "Toptal",
-      "url": "https://weworkremotely.com/remote-jobs/toptal-apigee-engineer-for-global-consumer-food-company",
-      "description": "Headquarters: General Information: Our client is a global leader in the food and beverage industry and is recognized as one of the top brands in the world. …………………………………………………………………………… About the Role: Lead in high level technical concepts spanning technology and business to support Apigee, Apigee Hybrid in AKS and AWS This role maintains the health and efficiency of all application infrastructure, provides professional hands-on implementation and technical advice to ensure the successful implementation of IT Infra. Management products. Provide support of application platforms at the enterprise level which includes automating platform build, patches, vulnerabilities, change management, incident management, monitoring and continued platform improvement Collaborate with peers, technology par",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Mon, 12 Oct 2026 16:28:34 +0000",
-      "category": "full-stack"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/toptal-salesforce-developers-with-ai-assisted-coding-experience",
-      "source": "weworkremotely",
-      "title": "Salesforce Developers with AI-Assisted Coding Experience",
-      "company": "Toptal",
-      "url": "https://weworkremotely.com/remote-jobs/toptal-salesforce-developers-with-ai-assisted-coding-experience",
-      "description": "Headquarters: We are looking for Salesforce Developers for a global company. Their goal is to accelerate Salesforce delivery across Flows, Lightning Web Components, and Apex while using AI copilots and agents to improve delivery speed, testing, and documentation. General Information Location: Remote. Talents from the USA or Canada. Overlap: 6hs with East Coast time zone, USA Commitment: full-time Length: 12+ months Required Skills: 3–6+ years of Salesforce development experience Strong hands-on experience with Apex Strong experience building Lightning Web Components (LWC) Strong experience with Salesforce Flow Experience with Git-based development and pull request workflows Strong automated testing mindset, including unit testing and security checks Experience validating Salesforce securit",
-      "location": "North America Only",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Mon, 12 Oct 2026 16:21:23 +0000",
-      "category": "full-stack"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/toptal-full-stack-e-commerce-developer-with-sage-x3-experience",
-      "source": "weworkremotely",
-      "title": "Full-Stack E-commerce Developer with Sage X3 Experience",
-      "company": "Toptal",
-      "url": "https://weworkremotely.com/remote-jobs/toptal-full-stack-e-commerce-developer-with-sage-x3-experience",
-      "description": "Headquarters: Summary We are seeking a Full-Stack Developer to build or customize a dealer e-commerce platform connected to an existing Sage X3 ERP environment. The role is focused on selecting the right e-commerce approach, implementing the portal, and supporting dealer-facing workflows in a manufacturing context. General information This engagement centers on building an e-commerce portal for dealers on top of an existing Sage X3 ERP setup. The client is open to the e-commerce technology choice and is looking for an experienced developer who can assess the current environment, recommend an appropriate platform approach, and deliver the required solution. The work is fully remote and involves integrating the portal with Sage X3 while supporting the underlying commerce and data flows requi",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Mon, 12 Oct 2026 13:52:56 +0000",
-      "category": "full-stack"
-    },
-    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/sticker-mule-si-agent-engineer",
       "source": "weworkremotely",
       "title": "SI agent engineer",
@@ -2313,21 +2388,6 @@
       "category": "full-stack"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3",
-      "source": "weworkremotely",
-      "title": "Software engineer",
-      "company": "Sticker Mule",
-      "url": "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3",
-      "description": "Headquarters: New York, NY URL: https://www.stickermule.com Sticker Mule is building the Internet's most lucrative commerce platform by combining software, manufacturing, and AI into one fully integrated stack. No print company, or pure software company for that matter, can match what we're doing. We're privately owned, profitable, and doing 9-figures in annual revenue with no meddlesome investors. &nbsp; How we work Small, autonomous teams that own products end-to-end. Prioritize what matters right now and pivot instantly when needed. Ship across web and mobile from the same codebase. We use Go, TypeScript, React, Expo, GraphQL, Postgres, and run on GCP. Use AI aggressively to push the limit of what we can do. Move fast, build for the masses, and deprioritize edge cases. Fully remote from",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Thu, 14 May 2026 09:14:28 +0000",
-      "category": "full-stack"
-    },
-    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-3",
       "source": "weworkremotely",
       "title": "Senior Shopify Developer (Remote + Flexible)",
@@ -2341,6 +2401,21 @@
       ],
       "postedAt": "Mon, 13 May 2024 03:14:30 +0000",
       "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/carrot-sr-manager-data-engineering",
+      "source": "weworkremotely",
+      "title": "Sr. Manager, Data Engineering",
+      "company": "Carrot",
+      "url": "https://weworkremotely.com/remote-jobs/carrot-sr-manager-data-engineering",
+      "description": "Headquarters: Remote About Carrot: Carrot is the leading global fertility and family care platform, built on intelligent care orchestration: the right clinical guidance, at the right moment, in the context of each member’s life. More than a thousand multinational employers, health plans, and health systems trust Carrot to support millions of members across 195 countries – from pre-pregnancy through menopause and major life moments in between. Carrot's comprehensive clinical program delivers industry-leading cost savings for plan sponsors and award-winning experiences and improved outcomes for millions of people worldwide. Carrot is widely regarded as a defining force in healthcare innovation as a recipient of several top-tier awards, including Fast Company's 'Most Innovative Companies' and",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Management and Finance",
+        "management"
+      ],
+      "postedAt": "Fri, 30 Oct 2026 07:31:10 +0000",
+      "category": "management"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-director-corporate-tax",

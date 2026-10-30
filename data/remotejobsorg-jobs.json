@@ -1,7 +1,187 @@
 {
-  "generatedAt": "2026-10-30T04:36:29.748Z",
+  "generatedAt": "2026-10-30T12:17:46.892Z",
   "count": 150,
   "data": [
+    {
+      "id": "9aa29c7b-031b-4e77-8ccc-eafd3ed424dc",
+      "title": "Senior Software Developer, Tooling Team",
+      "url": "https://remotejobs.org/remote-jobs/senior-software-developer-tooling-team-maintainx",
+      "apply_url": "https://remotejobs.org/remote-jobs/senior-software-developer-tooling-team-maintainx",
+      "company": {
+        "name": "MaintainX",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/2335005d4d1688f8fa88e740fea95aa333d421c5c24d49591b30725e09872242.png",
+        "website": "https://maintainx.com",
+        "url": "https://remotejobs.org/companies/maintainx"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "Montreal",
+      "location_normalization": {
+        "raw": "Montreal",
+        "input": {
+          "workArrangement": "hybrid"
+        },
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [
+          "montreal"
+        ],
+        "work_arrangement": "hybrid",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "worksite_countries": [
+          "CA"
+        ],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [],
+        "allowed_regions": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": "senior",
+        "role_family": "software-engineering",
+        "required_skills": [],
+        "mentioned_skills": [
+          "nodejs",
+          "typescript"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": []
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "25bfbb8c-b118-4d52-b51c-64473775e20b",
+      "direct_apply": null,
+      "description": "<p><em><strong>MaintainX is a leading mobile-first work execution platform </strong>for industrial and frontline teams. <strong>More than 13,000 customers</strong>, including Duracell, McDonald's, Shell, DHL and Volvo, use MaintainX to cut unplanned downtime and run better operations, across 13.9 million managed assets and 79.5 million completed work orders.</em></p>\n<p><em><strong>In August 2026 MaintainX became part of Autodesk, joining </strong></em><a href=\"https://adsknews.autodesk.com/en/views/inside-autodesk-operations-solutions/\"><em><strong>Autodesk Operations Solutions</strong></em></a><em><strong>, the organization unifying Autodesk's operations platform alongside Tandem, FlexSim and Fusion Operations. </strong>Autodesk's strategy is to converge design, make and operate into one continuous lifecycle: design an asset, build it, run it, then feed what you learn running it back into the next design. Autodesk had design and make. Operate is the phase that tells you what actually happened, and it is ours.</em></p>\n<p>MaintainX is the world's leading AI-powered maintenance and asset management platform, serving 13,000+ customers including Duracell, Shell, Cintas, and Brenntag. We raised<a href=\"https://www.getmaintainx.com/newsroom/maintainx-raises-150m\"> $150M in Series D funding</a> led by Bessemer Venture Partners and Bain Capital Ventures, bringing our total funding to $254M. We were named to the<a href=\"https://www.getmaintainx.com/blog/maintainx-named-to-2025-forbes-cloud-100\"> Forbes 2025 Cloud 100</a>, the definitive ranking of the top 100 private cloud companies in the world.</p>\n<p>We're growing fast and hiring the Engineering talent to match.<br>\n<br>\n<strong>The team and the mission</strong></p>\n<p>You'd be joining our Backend team within the <strong>Platform Engineering</strong> division. We're a group with an unusual mandate inside MaintainX: we treat our internal developer platform as a real product, with internal customers (150+ developers), adoption metrics, and a roadmap shaped by what product teams actually need. We are not an ops team.</p>\n<p>The platform we're building today exists to answer one question: <strong>how do we keep MaintainX engineers shipping fast as the org grows from where we are now to 2-3x the size?</strong> Today, spinning up a new backend service, getting it to production, and operating it involves too many manual steps, too much tribal knowledge, and too many decisions each team makes in isolation. We want golden paths that make the right thing the easy thing.</p>\n<p><strong>What you’ll do: </strong></p>\n<ul>\n<li>\n<p>Design, build, and maintain backend foundations and tooling powering our internal developer platform.</p>\n</li>\n<li>\n<p>Bring AI native and add on workflows into your daily work and into the platform.</p>\n</li>\n<li>\n<p>Raise engineering excellence standards.</p>\n</li>\n<li>\n<p>Lead to the consolidation and evolution of platform primitives: developer portal, local development, domain-service templates and scaffolders, graphQL, event-driven, openAPI golden paths and CI/CD workflows.</p>\n</li>\n<li>\n<p>Collaborate with other platform teams and product development teams on defining and adopting the internal developer platform.</p>\n</li>\n</ul>\n<p><strong>About you:</strong></p>\n<ul>\n<li>\n<p>5+ years of distributed systems experience</p>\n</li>\n<li>\n<p>Expert in Node.js, TypeScript, or similar languages.</p>\n</li>\n<li>\n<p>Proficient designing, maintaining, and evolving GraphQL APIs at scale.</p>\n</li>\n<li>\n<p>Strong AI mindset</p>\n</li>\n<li>\n<p>Good knowledge of cloud infrastructure and CI/CD pipelines.</p>\n</li>\n<li>\n<p>A product mindset: ability to build a platform with and for internal customers.</p>\n</li>\n</ul>\n<p><strong>What’s in it for you:</strong></p>\n<ul>\n<li>\n<p>Competitive salary and meaningful equity opportunities.</p>\n</li>\n<li>\n<p>Healthcare, dental, and vision coverage.</p>\n</li>\n<li>\n<p>401(k) / RRSP enrollment program.</p>\n</li>\n<li>\n<p>Take what you need PTO.</p>\n</li>\n<li>\n<p>A Work<a href=\"https://crew.vc/perspectives-insights/scaling-culture-through-hyper-growth/\"> Culture</a> where:</p>\n<ul>\n<li>\n<p>You’ll work alongside folks across the globe that reflect the MaintainX values, Smart Humble Optimist.</p>\n</li>\n<li>\n<p>We believe in meritocracy, where ideas and effort are publicly celebrated.</p>\n</li>\n</ul>\n</li>\n</ul>\n<p><strong>About us:</strong></p>\n<p>Our mission is to deliver one platform for maintenance, repair &#x26; operations teams to keep the physical world running. We believe the greatest asset in any organization is the people. That’s why we built an intuitive, mobile-first solution to help boost productivity and collaboration across teams and locations. </p>\n<p>MaintainX is committed to creating a diverse environment. All qualified applicants will receive consideration for employment without regard to race, colour, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.</p>\n<p><strong>Our mission is to keep the physical world running. </strong>Factories, fleets, hospitals and campuses stay up because the people who maintain them have tools worth using. That is what we build.</p>\n<p><strong>Compensation and benefits. </strong>Base pay is one part of the package. Depending on the role, compensation may also include commission, an annual bonus and equity. Benefits differ by country. For roles in the United States, Autodesk’s benefits are described at <a href=\"http://benefits.autodesk.com\">benefits.autodesk.com</a>. For roles in Canada and other countries, the plan differs on health coverage, retirement and leave, and your recruiter will walk you through it.</p>\n<p><strong>Belonging. </strong>We take pride in a culture where everyone can thrive. More at <a href=\"http://autodesk.com/company/global-belonging\">autodesk.com/company/global-belonging</a>. More on where this is going: <a href=\"https://adsknews.autodesk.com/en/news/building-the-future-of-connected-operations/\">Autodesk CEO Andrew Anagnost on building the future of connected operations</a>, and <a href=\"https://adsknews.autodesk.com/en/views/inside-autodesk-operations-solutions/\">AOS SVP Stephen Hooper on welcoming MaintainX to Autodesk</a>.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-software-developer-tooling-team-maintainx</p>",
+      "posted_at": "2026-10-29T17:33:44.073+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "8f133b6c-ac01-4eb9-bc52-d1c235665ea6",
+      "title": "Senior IT Engineer, Identity and Access Management",
+      "url": "https://remotejobs.org/remote-jobs/senior-it-engineer-identity-and-access-management-1password",
+      "apply_url": "https://remotejobs.org/remote-jobs/senior-it-engineer-identity-and-access-management-1password",
+      "company": {
+        "name": "1Password",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/32f3b6ef758dff3134b7249f949bd338c1cd4d628fc4a0526da5ac5bacd9509d.webp",
+        "website": "https://1password.com",
+        "url": "https://remotejobs.org/companies/1password"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "Remote (United States | Canada)",
+      "location_normalization": {
+        "raw": "Remote (United States | Canada)",
+        "input": {
+          "workArrangement": "remote"
+        },
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "CA",
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "c1",
+          "c3"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "CA",
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": "senior",
+        "role_family": null,
+        "required_skills": [],
+        "mentioned_skills": [
+          "python",
+          "terraform"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": []
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "c061444f-2053-4967-aeff-4b11f4a88713",
+      "direct_apply": null,
+      "description": "<p><em><strong>1Password is growing.</strong> We’ve surpassed $500M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing.</em></p><p><strong>About 1Password</strong></p><p><em>At 1Password, we’re building the foundation for a safe, productive digital future. Our mission is to unleash employee productivity without compromising security by ensuring every identity is authentic, every application sign-in is secure, and every device is trusted. We innovated the market-leading enterprise password manager and pioneered Unified Access Management, a new cybersecurity category built for the way people and AI agents work today. As one of the most loved brands in cybersecurity, we take a human-centric approach in everything from product strategy to user experience. Over 180,000 businesses, from Fortune 100 leaders to the world’s most innovative AI companies, trust 1Password to help their teams securely adopt the SaaS and AI tools they need to do their best work.</em></p><p><em>If you're excited about the opportunity to contribute to the digital safety of millions, to work alongside a team of curious, driven individuals, and to solve hard problems in a fast-paced, dynamic environment, then we want to hear from you. Come join us and help shape a safer, simpler digital future.</em></p><p>As a Senior IT Engineer on the IT Engineering team, you’ll shape how identity and access work across 1Password. You’ll lead Identity and Access Management (IAM) initiatives, improve our Okta environment, and help expand Infrastructure as Code (IaC) and artificial intelligence (AI)-enabled workflows across IT. Your work will make secure access simpler and more reliable, helping advance 1Password’s mission to create a safer, simpler digital future for everyone.</p><p><strong>How we’re using AI today</strong></p><p>Our Engineering, Product, and Design teams are thoughtfully integrating AI across the full software and product development lifecycle to move faster without sacrificing quality or security. In practice, that looks like engineers using AI-assisted coding tools to accelerate reviews and catch bugs earlier, product managers synthesizing user research at scale, and designers rapidly prototyping and iterating with AI-generated mockups. We approach AI the same way we approach security: with clear principles, human accountability at every consequential decision point, and rigorous evaluation before anything ships to customers.</p><p>This is a remote opportunity within Canada and the US.</p><p><strong>What we're looking for:</strong></p><p>• Bring substantial experience in a technical IT role, including experience in IT engineering or systems administration.</p><p>• Administer Okta or a comparable Identity Provider (IdP), such as Microsoft Entra ID, in a production environment.</p><p>• Apply identity protocols including Security Assertion Markup Language (SAML), OpenID Connect (OIDC), and System for Cross-domain Identity Management (SCIM) to connect applications.</p><p>• Build integrations and automation using Representational State Transfer (REST) APIs and scripting languages such as Python and Bash.</p><p>• Use infrastructure or configuration as code with Git-based workflows, including pull requests and code review.</p><p>• Demonstrate experience applying AI to accelerate or replace team workflows, while managing project timelines, risks, stakeholder communication, and organizational change.</p><p>• Bring experience managing an IdP with Terraform, using 1Password Enterprise and Device Trust, or supporting Service Organization Control 2 (SOC 2), Sarbanes-Oxley (SOX), or ISO 27001 audits.</p><p><strong>What you can expect:</strong></p><p>• Operate and improve Okta, including tenant configuration, policies, lifecycle management, and complex identity issues.</p><p>• Lead IAM initiatives from concept through rollout, including role-based access control, access reviews, and onboarding and offboarding automation.</p><p>• Build safeguards that make identity and access changes safer to deploy and easier to audit.</p><p>• Design durable application integrations using SAML, OIDC, SCIM, and custom API work where needed.</p><p>• Simplify access requests and employee lifecycle processes so secure workflows are also efficient workflows.</p><p>• Partner with IT, Security, and Device Infrastructure teams to plan rollouts, manage risk, establish identity practices, and support audit and compliance work.</p><p>• Participate in the on-call rotation and provide clear guidance on identity and access questions across 1Password.</p><p>USA-based roles only: The annual base salary for this role is between $117,000 USD and $164,000 USD, plus immediate participation in 1Password's benefits program (health, dental, 401k and many others), utilization of our generous paid time off, an equity grant and, where applicable, participation in our incentive programs.</p><p>Canada-based roles only: The annual base salary for this role is between $103,000 CAD and $144,000 CAD, plus immediate participation in 1Password’s generous benefits program (health, dental, RRSP and many others), utilization of our generous paid time off, an equity grant and, where applicable, participation in our incentive programs.<br><br>At 1Password, we approach each individual's compensation with a promise of fair market value and internal equity commensurate with experience and specific skill set.<br><br><em>This posting is for an existing vacancy.</em></p><p><br><strong>Our culture </strong><br>At 1Password, we prioritize collaboration, clear and transparent communication, receptiveness to feedback, and alignment with our core values: keep it simple, lead with honesty, and put people first. <br><br>You’ll be part of a team that challenges the status quo, and is excited to experiment and iterate in search of the best solution. That said, <a href=\"https://blog.1password.com/inside-the-culture-powering-1passwords-next-chapter/\"><em>1Password is not for everyone</em></a>. Our work is demanding, we strive for excellence, and the pace is fast. We need people who are keen to take on challenging problems, who seek feedback to grow, and who are driven to make an impact. If you're looking for a place where you can settle into a comfortable routine, this might not be the right fit for you. We’re looking for individuals who are proven experts in their fields, as well as those who are highly adaptable, can thrive in ambiguity and through change, are curious, and above all deliver results. <br><br><strong>How we work with AI</strong><br>We are committed to leveraging cutting-edge technology—including AI—to achieve our mission. We also understand that thinking critically about AI in its current forms will help us create better solutions for our customers and ourselves with its future forms, which will help us continue to close the gap between security and privacy and achieve our mission. We want team members at all levels to take the approach of actively learning AI best practices, identifying opportunities to apply AI in meaningful ways, and driving innovative solutions in their daily work. Embracing the future of AI isn't just encouraged—it's an essential part of how we will be successful at 1Password.</p><p>This approach extends to our hiring process—candidates are welcome to use AI tools responsibly and thoughtfully during the application process. To us, this means we do ask that you join live interviews without using AI tools so we can get to know how you communicate, solve problems, and collaborate with others.<br><br><strong>Our approach to remote work </strong><br>We believe in the power of remote work, but recognize that in-person connection is important to help us achieve our mission. While we are a remote-first company, travel for in-person engagement is a part of almost all roles, and we require our employees to be ready and willing to take part. Frequency will depend on role and responsibilities, and may include, but is not limited to: annual department-wide offsites, team meetings, and customer/industry events.<br><br><strong>What we offer</strong><br>We believe in working hard, and rewarding that hard work through our benefits. While not an exhaustive list, here is a glance at what we currently offer: <br><br><em>Health and wellbeing</em><br>👶 Maternity and parental leave top-up programs<br>🩺 Competitive health benefits<br>🏝 Generous PTO policy <br><br><em> Growth and future </em><br>📈 RSU program for most employees<br>💸 Retirement matching program<br>🔑 Free 1Password account<br><br><em>Community </em><br>🤝 Paid volunteer days <br>🏆 Peer-to-peer recognition through Bonusly<br>🌎 Remote-first work environment<br><em>*Some roles in our GTM team are currently being hired for in-person hybrid work in Toronto and Austin. These roles will specify on the posting.</em></p><p><strong>You belong here.</strong></p><p><em>1Password is proud to be an equal opportunity employer. We are committed to fostering an inclusive, diverse and equitable workplace that is built on trust, support and respect. We welcome all individuals and do not discriminate on the basis of gender identity and expression, race, ethnicity, disability, sexual orientation, colour, religion, creed, gender, national origin, age, marital status, pregnancy, sex, citizenship, education, languages spoken or veteran status. Be yourself, find your people and share the things you love.</em></p><p><em>Accommodation is available upon request at any point during our recruitment process. If you require an accommodation, please speak to your talent acquisition partner or email us at nextbit@agilebits.com and we’ll work to meet your needs.</em></p><p><em>Remote work is a part of our DNA. Given that our company was founded remotely in 2005, we can safely say we're experts at building remote culture. That said, remote work at 1Password does mean working from your home country. If you've got questions or concerns about this, your talent partner would be happy to address them with you.</em></p><p><em>Successful applicants will be required to complete a background check that may consist of prior employment verification, reference checks, education confirmation, criminal background, publicly available social media, credit history, or other information, as permitted by local law.</em></p><p><em>1Password uses artificial intelligence (AI) and machine learning (ML) technologies, including natural language processing and predictive analytics, to assist in the initial screening of employment applications and improve our recruitment process. See </em><a href=\"https://www.ashbyhq.com/downloadables/ashby-bias-audit-08-2024.pdf\"><em>here</em></a><em> for the latest third party bias audit information. If you prefer not to have your application assessed using AI/ML features, you may opt out by completing </em><a href=\"https://jobs.ashbyhq.com/1password/automation-notice\"><em>this form</em></a><em>. For additional information see our </em><a href=\"https://1password.com/files/candidate-privacy-notice.pdf\"><em>Candidate Privacy Notice</em></a><em>.</em></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-it-engineer-identity-and-access-management-1password</p>",
+      "posted_at": "2026-10-29T17:31:39.723+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
     {
       "id": "df8612c4-ae68-45be-9023-0340c486144c",
       "title": "Senior Software Architect, Security Platform",
@@ -1408,6 +1588,104 @@
       "original_language": null
     },
     {
+      "id": "d694f659-a40c-4bed-95b0-829ff45397d5",
+      "title": "Forward Deployed Engineer - Cleared - US",
+      "url": "https://remotejobs.org/remote-jobs/forward-deployed-engineer-cleared-us-deploy",
+      "apply_url": "https://remotejobs.org/remote-jobs/forward-deployed-engineer-cleared-us-deploy",
+      "company": {
+        "name": "Deploy",
+        "logo_url": null,
+        "website": "https://deploy.co",
+        "url": "https://remotejobs.org/companies/deploy"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "New York",
+      "location_normalization": {
+        "raw": "New York",
+        "input": {
+          "workArrangement": "hybrid"
+        },
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [],
+        "work_arrangement": "hybrid",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "worksite_countries": [
+          "US"
+        ],
+        "allowed_subdivisions": [
+          "US-NY"
+        ],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [
+          "Candidates based elsewhere are considered depending on customer needs, access requirements, and the ability to work onsite.",
+          "The role is based in Washington, D.C., New York, or San Francisco, with case-by-case consideration of candidates based elsewhere depending on customer needs, access requirements, and onsite ability; these city-based work locations cannot be mapped to subdivisions without guessing, and the case-by-case exception has no enumerated jurisdictions.",
+          "Unresolved area: description:12"
+        ],
+        "evidence_ids": [
+          "c1",
+          "c2",
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "hybrid",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [
+          "US-NY"
+        ],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": null,
+        "role_family": null,
+        "required_skills": [],
+        "mentioned_skills": [
+          "javascript",
+          "python"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": []
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "6c4e4190-0e5b-4e68-9d33-70a84372c201",
+      "direct_apply": null,
+      "description": "<p><strong>About the Company</strong></p>\n<p>The OpenAI Deployment Company (“DeployCo”) is the deployment arm of OpenAI, purpose-built to deliver enterprise AI transformation at scale. As model capabilities accelerate, deployment has become the primary constraint to realizing AI value creation within large enterprises. DeployCo bridges that gap.</p>\n<p>Our ambition is to build the company that defines AI deployment. We operate at the intersection of cutting-edge AI, enterprise transformation, and scaled services delivery. We partner with enterprise customers to identify where AI can transform their businesses and build solutions leveraging OpenAI’s models and products. We work with many of the world's largest and most influential companies to solve their most complex business challenges using the latest advances in AI.</p>\n<p>People who thrive at DeployCo get excited about ambitious and complex work. We are deep believers in the future with AI. We execute quickly, value intellectual honesty, and obsess over the solutions we build for our customers.</p>\n<p>DeployCo is being built from the ground up as a subsidiary of OpenAI and funded with a partnership of outside investors.</p>\n<p><strong>About the Role</strong></p>\n<p>As a Forward Deployed Engineer, you will operate as a technical lead on high-stakes, ambiguous customer deployments and own both technical and business value outcomes end-to-end. You will set the bar for customer engagement and deployments of our technology, helping establish the foundation for OpenAI Deployment.</p>\n<p>You will ramp quickly toward management responsibilities and help grow a team that can operate under pressure to deliver meaningful outcomes for customers.</p>\n<p>You will also help shape how AI can be leveraged to drive real-world impact, as well as how the team organizes to deliver that impact. You will partner closely with OpenAI’s core functions to ensure field work informs roadmap priorities, drives new exploration, and supports safe deployment at scale.</p>\n<p>An active U.S. government security clearance is<strong> required</strong>. While TS/SCI with polygraph is preferred, all levels will be considered. Candidates must be able to maintain their clearance and obtain customer-specific access.</p>\n<p>For cleared engagements, build within customer-approved environments and account for restrictions on data, connectivity, tooling, and access. Work closely with the Technical Deployment Lead and customer engineers to establish a feasible path from prototype to a system the customer can operate.</p>\n<p>This role is based in Washington, D.C., New York, or San Francisco. Candidate location will be evaluated on a case-by-case basis and candidates based elsewhere may be considered depending on customer needs, access requirements, and the ability to work onsite.</p>\n<p>We use a hybrid work model with three days per week in the office and offer relocation assistance. Office and secure customer-site arrangements will be discussed case by case. This role will also require up to 50% travel; some work may require access to secure facilities.</p>\n<p><strong>In this role, you will:</strong></p>\n<ul>\n<li>\n<p>Lead technical engagements end to end, delivering quickly with sound engineering judgment.</p>\n</li>\n<li>\n<p>Build reusable deployment capabilities and guide implementation strategy.</p>\n</li>\n<li>\n<p>Coach teammates, capture repeatable practices, and escalate emerging customer or product issues.</p>\n</li>\n<li>\n<p>Design integrations that respect the target environment’s access boundaries and approved data flows.</p>\n</li>\n<li>\n<p>Evaluate AI behavior using permitted datasets, and develop appropriate testing, observability, and human review for the customer workflow.</p>\n</li>\n<li>\n<p>Partner with customer security and infrastructure teams on environment readiness, release procedures, and operational handoff.</p>\n</li>\n<li>\n<p>Share reusable lessons through approved channels while keeping customer-sensitive details within their authorized boundaries.</p>\n</li>\n</ul>\n<p><strong>You may thrive in this role if you:</strong></p>\n<ul>\n<li>\n<p>Have 4+ engineering years; build production frontend and backend systems in JavaScript or Python.</p>\n</li>\n<li>\n<p>Ship ambiguous projects, choose reuse versus customization wisely, and make calm, clear decisions.</p>\n</li>\n<li>\n<p>Strengthen teams, earn trust, and turn customer learning into product feedback.</p>\n</li>\n<li>\n<p>Have built or integrated software in environments with restricted access, connectivity, or data handling.</p>\n</li>\n<li>\n<p>Can diagnose deployment problems with limited tooling and collaborate effectively with cleared customer teams.</p>\n</li>\n<li>\n<p>Have an active U.S. government security clearance. While TS/SCI with polygraph is preferred, all levels will be considered. Candidates must be able to maintain their clearance and obtain customer-specific access.</p>\n</li>\n</ul><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/forward-deployed-engineer-cleared-us-deploy</p>",
+      "posted_at": "2026-10-27T15:17:17.152+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
       "id": "2fe98c6f-1ae8-49ca-b341-f048bb9d5707",
       "title": "Automation Engineer 1 - Technical Support",
       "url": "https://remotejobs.org/remote-jobs/automation-engineer-1-technical-support-granicus",
@@ -2540,6 +2818,118 @@
       "direct_apply": null,
       "description": "<p>\n  <strong>Headquarters:</strong> Remote, USA\n</p><p><strong>Help empower our global customers to connect to culture through their passions.</strong></p><h2><strong>Why you’ll love this role:</strong></h2><p>StockX has redefined the global marketplace for culture — where buyers and sellers transact with confidence on an always-on digital exchange. We are building the next frontier of creator-driven, culturally rich commerce that blends excitement, community, expertise, and transaction in one platform.</p><p>To power this next chapter, we are building a category-led organization where each major vertical operates with clear ownership, accountability, and cultural authority.</p><p>The Director, Category Growth (General Manager) is the business owner of a major category vertical. This leader is accountable for the full P&#x26;L and long-term trajectory of their category — including supply growth, liquidity, demand activation, monetization, and marketplace health.</p><p>You will operate as a true GM: setting vision, defining strategy, allocating resources, building a team, and driving cross-functional execution. You will represent your vertical at the leadership level and ensure that product, marketing, operations, and partnerships are aligned to unlock sustainable growth.</p><p>This role is both entrepreneurial and executive — suited for a leader who wants to build and scale a culturally driven business within a high-impact marketplace.</p><h2><strong>What you’ll own:</strong></h2><h3><strong>Full-Stack Category P&#x26;L</strong></h3><ul>\n<li>Own revenue, contribution margin, liquidity, and growth targets for your vertical</li>\n<li>Develop annual and multi-year business plans, forecasts, and investment cases</li>\n<li>Allocate resources across acquisition, retention, and engagement to maximize ROI</li>\n<li>Drive pricing, incentives, and promotional strategies aligned to marketplace health</li>\n</ul><h3><strong>Vertical Strategy &#x26; Market Leadership</strong></h3><ul>\n<li>Define the long-term category vision, positioning, and competitive differentiation</li>\n<li>Identify expansion opportunities across adjacent segments, geographies, and seller tiers</li>\n<li>Establish scalable supply acquisition and retention strategies</li>\n<li>Continuously assess competitive dynamics and evolving cultural trends</li>\n</ul><h3><strong>Supply, Demand &#x26; Liquidity Engine</strong></h3><ul>\n<li>Architect the playbook for acquiring, activating, and retaining high-value sellers and creators</li>\n<li>Ensure balanced marketplace dynamics between supply depth and demand velocity</li>\n<li>Partner with Growth and Marketing to stimulate demand moments and category engagement</li>\n<li>Implement structural improvements that increase conversion, retention, and monetization</li>\n</ul><h3><strong>Cross-Functional Executive Leadership</strong></h3><ul>\n<li>Influence Product roadmap to improve seller tooling, pricing mechanics, discovery, and trust features</li>\n<li>Partner with Marketing to launch culturally relevant campaigns and high-impact moments</li>\n<li>Collaborate with Operations to optimize onboarding, seller support, and fulfillment performance</li>\n<li>Represent your vertical in executive planning, QBRs, and strategic reviews</li>\n</ul><h3><strong>Team &#x26; Organizational Build-Out</strong></h3><ul>\n<li>Hire and develop Category Managers and supporting roles as the vertical scales</li>\n<li>Establish operating cadence, reporting frameworks, and performance management systems</li>\n<li>Build repeatable GTM playbooks that can be deployed across additional categories</li>\n<li>Foster a culture of accountability, experimentation, and community authenticity</li>\n</ul><h3><strong>Ecosystem &#x26; Community Stewardship</strong></h3><ul>\n<li>Act as the senior face of StockX within your category’s ecosystem</li>\n<li>Build relationships with top sellers, shops, creators, and community leaders</li>\n<li>Ensure platform growth remains culturally credible and aligned with community norms</li>\n</ul><h2><strong>About you:</strong></h2><ul>\n<li>10+ years of experience in marketplace leadership, category general management, business development, or growth roles within consumer tech or two-sided platforms</li>\n<li>Demonstrated ownership of revenue or P&#x26;L-level outcomes</li>\n<li>Proven track record of scaling a vertical, marketplace segment, or new business line</li>\n<li>Strong executive presence and experience influencing cross-functional roadmaps</li>\n<li>Deep fluency in marketplace mechanics: liquidity, take rate, CAC/LTV, cohort behavior, supply elasticity</li>\n<li>Experienced people leader with a track record of building high-performing teams</li>\n<li>Deep connection to culture-driven or enthusiast categories</li>\n</ul><h2><strong>Why this role is different: </strong></h2><p>This is not a traditional category marketing or merchandising role. This is a vertical GM role with real business ownership.</p><p>You will:</p><ul>\n<li>Build and scale a culturally driven marketplace vertical from early-stage to maturity</li>\n<li>Directly influence product, pricing, and growth strategy</li>\n<li>Operate with executive visibility and measurable business accountability</li>\n<li>Create the blueprint for how category-led growth powers the future of StockX</li>\n</ul><p><em>Pursuant to the San Francisco Fair Chance Ordinance, Los Angeles Fair Chance Initiative for Hiring Ordinance, and any other state or local hiring regulations, we will consider for employment any qualified applicant, including those with arrest and conviction records, in a manner consistent with the applicable regulation.</em></p><p><em> </em></p><p><em>Pursuant to the Colorado Fair Pay Act, the base salary range in Colorado for this position is $160,000 to $200,000, plus opportunities for benefits (e.g., medical, dental), equity and discretionary bonuses. Compensation in other geographies may vary. </em></p><p><strong>About StockX</strong></p><p><strong><br></strong>StockX is proud to be a Detroit-based technology leader focused on the large and growing online market for sneakers, apparel, accessories, electronics, collectibles, trading cards, and more. StockX's powerful platform connects buyers and sellers of high-demand consumer goods from around the world using dynamic pricing mechanics. This approach affords access and market visibility powered by real-time data that empowers buyers and sellers to determine and transact based on market value. The StockX platform features hundreds of brands across verticals including Jordan Brand, adidas, Nike, Supreme, BAPE, Off-White, Louis Vuitton, Gucci; collectibles from brands including LEGO, KAWS, Bearbrick, and Pop Mart; and electronics from industry-leading manufacturers Sony, Microsoft, Meta, and Apple. Launched in 2016, StockX employs 1,000 people across offices and verification centers around the world. Learn more at www.stockx.com.</p><p><em>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. This job description is intended to convey information essential to understanding the scope of the job and the general nature and level of work performed by job holders within this job. However, this job description is not intended to be an exhaustive list of qualifications, skills, efforts, duties, responsibilities or working conditions associated with the position. StockX reserves the right to amend this job description at any time. <em>StockX may utilize AI to rank job applicant submissions against the position requirements to assist in determining candidate alignment.</em></em></p><p><strong>To apply:</strong> https://weworkremotely.com/remote-jobs/stockx-director-category-growth-general-manager</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/director-category-growth-general-manager-stockx</p>",
       "posted_at": "2026-10-27T07:31:09+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "c1d62b4b-2937-45b4-b7b9-b80653fe611a",
+      "title": "Chief Architect - India",
+      "url": "https://remotejobs.org/remote-jobs/chief-architect-india-jumpcloud",
+      "apply_url": "https://remotejobs.org/remote-jobs/chief-architect-india-jumpcloud",
+      "company": {
+        "name": "JumpCloud",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/b05a61e7c1cc07a4b28fbcec0be09e1839a04106dc2a59a75a1c185498578d7a.webp",
+        "website": "https://jumpcloud.com",
+        "url": "https://remotejobs.org/companies/jumpcloud"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "Bangalore, India - Remote",
+      "location_normalization": {
+        "raw": "Bangalore, India - Remote",
+        "input": {
+          "workArrangement": "remote"
+        },
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [
+          "bangalore"
+        ],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "IN"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "worksite_countries": [
+          "IN"
+        ],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [
+          {
+            "kind": "timezone",
+            "areas": [],
+            "effect": "context",
+            "details": "Engineers must participate in on-call shifts and be ready and able to respond during their assigned shift so alerts are addressed.",
+            "regions": [],
+            "timezones": [],
+            "evidence_id": "c3",
+            "conditional_on": null
+          }
+        ],
+        "unresolved": [],
+        "evidence_ids": [
+          "c2",
+          "c3",
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "IN"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": null,
+        "role_family": null,
+        "required_skills": [],
+        "mentioned_skills": [
+          "aws",
+          "docker",
+          "kubernetes"
+        ],
+        "preferred_skills": [
+          "golang",
+          "python",
+          "rust"
+        ],
+        "experience_requirements": []
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "5021c758-9273-43f3-ac21-8d1b4fdb57fa",
+      "direct_apply": null,
+      "description": "<p><strong>All roles at JumpCloud® are Remote unless otherwise specified in the Job Description.</strong></p><h3>About JumpCloud®</h3><p>JumpCloud® is the AI-powered unified IT management platform designed to secure the modern workforce. By consolidating identity, device, and access management, JumpCloud provides intelligent, secure IT that scales from human users to autonomous AI agents. We help organizations around the globe eliminate complexity and turn AI risk into an optimized advantage, ensuring the right people and agents have secure access to the right resources at all times.</p><h3><strong>JumpCloud is Intelligent, Secure IT.</strong></h3><h3><strong>About the Role</strong></h3><p>We are seeking a visionary, disruptive, and highly agile <strong>Chief Architect</strong> to define and drive the next generation of our platform’s architecture. Reporting directly to the Head of Engineering, you will be our primary AI evangelist, challenging the status quo and seamlessly embedding evolving AI capabilities into our core systems.</p><p>Operating in the dynamic Identity, Access Management, and Device Management space you will architect high-scale solutions, conduct deep competitive analysis, and provide strategic technical guidance to leadership. As a deeply experienced technologist and a natural mentor, you will inspire our engineering teams, ensuring we remain nimble, innovative, and ahead of the curve in a rapidly changing technological landscape.</p><h2>Key Responsibilities: </h2><ul><li>\n<p><strong>Architectural Disruption &#x26; Design:</strong> Continuously evaluate our existing platform architecture and suggest/implement transformative design changes to leverage the latest advancements in AI.</p>\n</li><li>\n<p><strong>AI Evangelism &#x26; Strategy:</strong> Act as the internal and external champion for AI. Challenge legacy mindsets, drive a culture of disruptive innovation, and articulate a clear AI vision that aligns with our business goals in the Identity space.</p>\n</li><li>\n<p><strong>Technical Leadership &#x26; Guidance:</strong> Serve as the trusted advisor and strategic partner to the Head of Engineering and executive leadership, translating complex AI developments into actionable product and engineering strategies.</p>\n</li><li>\n<p><strong>Scale &#x26; Performance:</strong> Architect robust, scalable, and secure AI-driven systems capable of handling massive data volumes and high-traffic identity workflows globally.</p>\n</li><li>\n<p><strong>Mentorship &#x26; Team Building:</strong> Be a force multiplier for our technical teams. Provide hands-on mentorship, foster a culture of continuous learning, and elevate the technical capabilities of individual contributors and engineering managers.</p>\n</li><li>\n<p><strong>Competitive Analysis &#x26; Market Positioning:</strong> Keep a pulse on the rapidly evolving AI and Identity/Directory-as-a-Service markets. Conduct deep technical competitive analyses to ensure our architecture and AI features outpace industry rivals.</p>\n</li><li>\n<p><strong>Agile Adaptation:</strong> Maintain a nimble approach to architecture. Pivot and adapt technical strategies quickly as new AI models, frameworks, and security requirements emerge.</p>\n</li></ul><h2>Required Qualifications:</h2><ul><li>\n<p><strong>Deep AI Expertise:</strong> 15+ years of software engineering/architecture experience with at least 4+ years dedicated to deep AI integrations.</p>\n</li><li>\n<p><strong>Domain Expertise in Identity Space:</strong> Proven experience in the Identity and Access Management (IAM), Directory-as-a-Service (DaaS), Zero Trust, or endpoint management domains (comparable to JumpCloud, Okta, Ping Identity, etc.).</p>\n</li><li>\n<p><strong>Massive Scale Experience:</strong> A strong track record of designing, building, and maintaining distributed cloud architectures and data pipelines that operate reliably at massive scale.</p>\n</li><li>\n<p><strong>Disruptive &#x26; Nimble Mindset:</strong> Demonstrated ability to be an \"agent of change.\" You are highly adaptable, agile, and comfortable pivoting architectures to adopt cutting-edge technologies.</p>\n</li><li>\n<p><strong>Exceptional Mentorship &#x26; Leadership:</strong> Proven experience elevating the teams around you. You are known as a technical leader who leads by influence, coaches individual engineers, and upskills entire organizations.</p>\n</li><li>\n<p><strong>Executive Communication:</strong> The ability to distill highly complex technical concepts into clear, strategic guidance for the Head of Engineering and C-suite leadership.</p>\n</li><li>\n<p><strong>Analytical Prowess:</strong> Strong capability to dissect competitors' products, anticipate industry trends, and translate those insights into architectural advantages.</p>\n</li></ul><h2>Preferred Qualifications:</h2><ul><li>\n<p><strong>Public Thought Leadership:</strong> Experience speaking at industry conferences, publishing technical papers, or maintaining a strong presence as an AI/Tech evangelist in the open-source community.</p>\n</li><li>\n<p><strong>Security &#x26; Privacy Background:</strong> Deep understanding of data privacy laws (GDPR, CCPA), AI ethics, and data security—critical for integrating AI into identity systems.</p>\n</li><li>\n<p><strong>Hands-on Coding Proficiency:</strong> While this is an architectural role, the ability to jump into the code (Python, Go, Rust, or similar) to build rapid proof-of-concepts (PoCs) is highly desirable.</p>\n</li><li>\n<p><strong>Cloud Native Mastery:</strong> Advanced certifications or deep expertise in AWS, GCP, or Azure AI ecosystems and cloud-native orchestration (Kubernetes, Docker).</p>\n</li><li>\n<p><strong>Experience in High-Growth Startups:</strong> A background of successfully navigating the ambiguity and rapid growth phases of a hyper-growth tech company.</p>\n</li></ul><h4>#LI-PD1 </h4><p><strong>Where you’ll be working/Location:</strong></p><p>JumpCloud is committed to being Remote First, meaning that you are able to work remotely within the country noted in the Job Description.</p><p><strong>You must be located in and authorized to work in the country noted in the job description to be considered for this role. </strong></p><p>Please note: There is an expectation that our engineers participate in on-call shifts. You will be expected commit to being ready and able to respond during your assigned shift, so that alerts don't go unaddressed.</p><p><strong>Language: </strong></p><p>JumpCloud has teams in 15+ countries around the world and conducts our internal business in English. The interview and any additional screening process will take place primarily in English. To be considered for a role at JumpCloud, you will be required to speak and write in English fluently.  Any additional language requirements will be included in the details of the job description.</p><p><strong>Why JumpCloud? </strong> </p><p>If you thrive working in a fast, SaaS-based environment and you are passionate about solving challenging technical problems, we look forward to hearing from you! JumpCloud is an incredible place to share and grow your expertise! You’ll work with amazing talent across each department who are passionate about our mission. We’re out of the box thinkers, so your unique ideas and approaches for conceiving a product and/or feature will be welcome. You’ll have a voice in the organization as you work with a seasoned executive team, a supportive board and in a proven market that our customers are excited about.  </p><p>One of JumpCloud's three core values is to “Build Connections.” To us that means creating \" human connection with each other regardless of our backgrounds, orientations, geographies, religions, languages, gender, race, etc. We care deeply about the people that we work with and want to see everyone succeed.\" - Rajat Bhargava, CEO</p><p>Please submit your résumé and brief explanation about yourself and why you would be a good fit for JumpCloud.  Please note JumpCloud is not accepting third party resumes at this time.   </p><p>JumpCloud is an equal opportunity employer. All applicants will be considered for employment without attention to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran or disability status.</p><p><strong>Scam Notice:</strong></p><p>Please be aware that there are individuals and organizations that may attempt to scam job seekers by offering fraudulent employment opportunities in the name of JumpCloud. These scams may involve fake job postings, unsolicited emails, or messages claiming to be from our recruiters or hiring managers. Please note that JumpCloud will never ask for any personal account information, such as credit card details or bank account numbers, during the recruitment process. Additionally, JumpCloud will never send you a check for any equipment prior to employment.</p><p>All communication related to interviews and offers from our recruiters and hiring managers will come from official company email addresses (@jumpcloud.com) and will never ask for any payment, fee to be paid or purchases to be made by the job seeker. If you are contacted by anyone claiming to represent JumpCloud and you are unsure of their authenticity, please do not provide any personal/financial information and contact us immediately at recruiting@jumpcloud.com with the subject line \"Scam Notice\" </p><p>#LI-Remote #BI-Remote</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/chief-architect-india-jumpcloud</p>",
+      "posted_at": "2026-10-27T06:33:01.001+00:00",
       "is_translated": false,
       "original_language": null
     },
@@ -4465,209 +4855,35 @@
       "original_language": "es"
     },
     {
-      "id": "bccd58d8-8692-4bef-9de5-c1242b1d1fc3",
-      "title": "AI-Native Frontend Developer (Astro & Sanity) – 100% Remote",
-      "url": "https://remotejobs.org/remote-jobs/ai-native-frontend-developer-astro-sanity-100-remote-wizard-ventures-gmbh",
-      "apply_url": "https://remotejobs.org/remote-jobs/ai-native-frontend-developer-astro-sanity-100-remote-wizard-ventures-gmbh",
+      "id": "6a42c2c0-a417-492a-a02b-7ea4feff2991",
+      "title": "Staff Demo Engineer",
+      "url": "https://remotejobs.org/remote-jobs/staff-demo-engineer-1password",
+      "apply_url": "https://remotejobs.org/remote-jobs/staff-demo-engineer-1password",
       "company": {
-        "name": "Wizard Ventures GmbH",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/3fcdc53f0ffcf1d50ad1089759643bec714a0c8be077a7894e30cddaf3656347.webp",
-        "website": null,
-        "url": "https://remotejobs.org/companies/wizard-ventures-gmbh"
+        "name": "1Password",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/32f3b6ef758dff3134b7249f949bd338c1cd4d628fc4a0526da5ac5bacd9509d.webp",
+        "website": "https://1password.com",
+        "url": "https://remotejobs.org/companies/1password"
       },
       "category": {
-        "name": "Programming",
-        "slug": "programming"
+        "name": "DevOps",
+        "slug": "devops"
       },
-      "location": "Germany",
+      "location": "Remote (United States | Canada)",
       "location_normalization": {
-        "raw": "Germany",
-        "input": {},
+        "raw": "Remote (United States | Canada)",
+        "input": {
+          "workArrangement": "remote"
+        },
         "scope": "restricted",
         "status": "known",
         "regions": [],
         "version": "job-location/1",
         "timezones": [],
         "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "DE"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [],
-        "evidence_ids": [
-          "source-location"
-        ],
-        "allowed_regions": [],
         "work_arrangement": "remote",
         "allowed_countries": [
-          "DE"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": null,
-        "role_family": "software-engineering",
-        "required_skills": [],
-        "mentioned_skills": [],
-        "preferred_skills": [
-          "react",
-          "typescript",
-          "vue"
-        ],
-        "experience_requirements": []
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": null,
-      "salary_period": "year",
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<p><em>Join our team and build fast, high-quality websites with Astro, Sanity and AI for some of the greatest companies in Europe, fully remote with a global team. Let's create magic together!</em></p>\n<p>At magier, we're building a global remote team of first-class Designers and Developers for leading Startups and SMEs in Europe. Besides our design subscription, we take on one-time web projects: new websites, relaunches, landing pages and full brand and web builds, each with a clear scope and launch date.</p>\n<p>As our <strong>AI-Native Frontend Developer</strong>, you're the technical lead for these builds. You turn Figma designs into fast, pixel-perfect websites with <strong>Astro</strong> and <strong>Sanity</strong>, use AI every day to ship faster, and own each build from setup to handover.</p>\n<h2>🤖 What you'll do</h2>\n<ul>\n<li>\n<p>Build new websites and relaunches with Astro, from project setup to launch</p>\n</li>\n<li>\n<p>Turn Figma designs into pixel-perfect, responsive and accessible websites</p>\n</li>\n<li>\n<p>Set up Sanity so clients can manage their content on their own</p>\n</li>\n<li>\n<p>Use AI tools (e.g. Claude Code, Cursor) to speed up builds, migrations and QA</p>\n</li>\n<li>\n<p>Help us build AI into our workflow, from Figma-to-code to automated testing</p>\n</li>\n<li>\n<p>Optimise performance, Core Web Vitals and technical SEO before every launch</p>\n</li>\n<li>\n<p>Plan milestones, deliver on launch dates and hand over with clear documentation</p>\n</li>\n</ul>\n<h2>🖌️ Requirements</h2>\n<ul>\n<li>\n<p>3+ years as a full-time or freelance Frontend / Web Developer</p>\n</li>\n<li>\n<p>Production websites shipped with Astro (live examples required)</p>\n</li>\n<li>\n<p>Solid Sanity experience (schemas, Studio, GROQ)</p>\n</li>\n<li>\n<p>You use AI coding tools daily and know where they help and where they don't</p>\n</li>\n<li>\n<p>Strong HTML, CSS, TypeScript and Tailwind; React, Vue or Svelte is a plus</p>\n</li>\n<li>\n<p>Strong focus on performance, technical SEO and relaunches incl. redirects</p>\n</li>\n<li>\n<p>An eye for detail and proficient English (written and spoken)</p>\n</li>\n</ul>\n<h2>🎉 Benefits</h2>\n<ul>\n<li>\n<h2>100% remote work</h2>\n</li>\n<li>\n<h2>Fixed monthly payouts</h2>\n</li>\n<li>\n<p>Highly competitive salary, depending on skills and experience</p>\n</li>\n<li>\n<h2>The latest AI tools, paid for by us</h2>\n</li>\n<li>\n<p>Awesome projects with European Tech Startups &#x26; SMEs</p>\n</li>\n</ul>\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/ai-native-frontend-developer-astro-sanity-100-remote-wizard-ventures-gmbh</p>",
-      "posted_at": "2026-10-26T13:26:13+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "7e90ee77-9bdb-4ebd-a9ec-7603c0c8ff30",
-      "title": "Sr IAM Software Engineer",
-      "url": "https://remotejobs.org/remote-jobs/sr-iam-software-engineer-mgm-resorts-international",
-      "apply_url": "https://remotejobs.org/remote-jobs/sr-iam-software-engineer-mgm-resorts-international",
-      "company": {
-        "name": "MGM Resorts International",
-        "logo_url": null,
-        "website": "https://mgmresorts.marketpayjobs.com",
-        "url": "https://remotejobs.org/companies/mgm-resorts-international"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "United States",
-      "location_normalization": {
-        "raw": "United States",
-        "input": {},
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [],
-        "evidence_ids": [
-          "source-location"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": "senior",
-        "role_family": "software-engineering",
-        "required_skills": [],
-        "mentioned_skills": [
-          "aws",
-          "python",
-          "sql",
-          "terraform"
-        ],
-        "preferred_skills": [],
-        "experience_requirements": []
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": null,
-      "salary_period": "year",
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<p>Las Vegas, Nevada</p>\n<h2>The SHOW comes alive at MGM Resorts International</h2>\n<p>Have you ever wondered what it would be like to work in a place full of excitement, diversity, and entertainment? Are you enthusiastic about being a team player in one of the most fascinating industries in the world? At MGM Resorts, we seek individuals like YOU to create unique and show-stopping experiences for our guests.</p>\n<p><strong>THE JOB:</strong><br>\nThe Senior Software Engineer, Identity and Access Management (IAM), will design, build, and operate enterprise IAM solutions across cloud and on-prem environments, including Microsoft Entra ID, AWS Identity Center, and GCP IAM. This hands-on role serves as a technical subject matter expert for identity lifecycle management, RBAC, PIM/PAM, MFA, SSO, and Zero Trust access controls (e.g., Conditional Access andpasswordless). You will implement secure integrations using standards such as SAML, OAuth 2.0/OIDC (OpenID Connect), LDAP, Kerberos, NTLM, and SCIM, and drive automation through APIs and scripting. The ideal candidate has experience with platforms such as SailPoint, BeyondTrust, Microsoft Entra ID (Azure AD), and Active Directory, and partners effectively with engineering and governance teams to deliver resilient, audit-ready services.<br>\n<br>\n<strong>THE DAY-TO-DAY:</strong></p>\n<ul>\n<li>\n<p>Define and execute IAM strategy aligned with business and security goals.</p>\n</li>\n<li>\n<p>Architect, build, test, deploy, and monitor IAM services across cloud and on-prem.</p>\n</li>\n<li>\n<p>Gather and document requirements; align solutions with stakeholders.</p>\n</li>\n<li>\n<p>Establish IAM policies, standards, and processes to enforce best practices and reduce risk.</p>\n</li>\n<li>\n<p>Collaborate with Engineering, Compliance, IT, and HR to deliver on the IAM roadmap.</p>\n</li>\n<li>\n<p>Act as technical lead/SME, providing guidance, escalation support, and driving adoption.</p>\n</li>\n<li>\n<p>Automate provisioning and access workflows (JML), deliver integrations, and own service health, monitoring, incident response, and audit support (SOX, PCI, MICS).</p>\n</li>\n</ul>\n<h2>THE IDEAL CANDIDATE:</h2>\n<ul>\n<li>\n<p>Bachelor’s (or equivalent) with 5+ years in IAM and software engineering.</p>\n</li>\n<li>\n<p>Experience designing and deploying IAM solutions using platforms like SailPoint, BeyondTrust, and Entra ID (Azure AD).</p>\n</li>\n<li>\n<p>Strong knowledge of authentication/authorization standards (SAML, OAuth 2.0, OIDC) and Zero Trust concepts.</p>\n</li>\n<li>\n<p>Hands-on experience with Entra ID (hybrid, Conditional Access), AWS Identity Center, and GCP IAM.</p>\n</li>\n<li>\n<p>Proficiency in SQL, PowerShell/Python, REST APIs, and automation/integration patterns (JML lifecycle).</p>\n</li>\n<li>\n<p>Experience with DevOps/CI-CD tools (e.g., Jenkins, Ansible), IaC (Terraform), and service platforms (ServiceNow).</p>\n</li>\n<li>\n<p>Strong troubleshooting skills; familiarity with Oracle identity governance, regulated environments (SOX, PCI, MICS), MFA/passwordless (FIDO2), and SSO integrations.</p>\n</li>\n</ul>\n<h2>THE PERKS &#x26; BENEFITS:</h2>\n<ul>\n<li>\n<p>Wellness incentive programs to help you stay healthy physically and mentally</p>\n</li>\n<li>\n<p>Access to company hotel, food and beverage, retail, and entertainment discounts as well as discounts with company partners on things like travel, electronics, online shopping, and more</p>\n</li>\n<li>\n<h2>Free meals in our employee dining room</h2>\n</li>\n<li>\n<h2>Free parking</h2>\n</li>\n<li>\n<p>Health &#x26; Income Protection benefits<em><strong> (for eligible employees)</strong></em></p>\n</li>\n<li>\n<p>Professional and personal development through programs and networking opportunities as well as volunteer opportunities in the community</p>\n</li>\n</ul>\n<h2>VIEW JOB DESCRIPTION:</h2>\n<p>Are you ready to <strong>JOIN THE SHOW</strong>? Apply today!</p>\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/sr-iam-software-engineer-mgm-resorts-international</p>",
-      "posted_at": "2026-10-26T13:26:07+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "420deaa1-daaa-47ee-b136-6510101fcd00",
-      "title": "SAP ABAP Programmer",
-      "url": "https://remotejobs.org/remote-jobs/sap-abap-programmer-bright-vision-technologies-ea35794137c84272a7ae15b87c6eb0d1",
-      "apply_url": "https://remotejobs.org/remote-jobs/sap-abap-programmer-bright-vision-technologies-ea35794137c84272a7ae15b87c6eb0d1",
-      "company": {
-        "name": "Bright Vision Technologies",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/f8d667262351dad5c9be7c05a72cb2b3edb13fa582bdc4af986fe358fc824c54.webp",
-        "website": "https://bright.com",
-        "url": "https://remotejobs.org/companies/bright-vision-technologies"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "United States",
-      "location_normalization": {
-        "raw": "United States",
-        "input": {},
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
+          "CA",
           "US"
         ],
         "reference_version": "iso-3166@4.4.0",
@@ -4683,16 +4899,17 @@
         "timezones": [],
         "conditions": [],
         "unresolved": [
-          "The description limits the remote role to 'Continental United States', an unsupported geographic restriction whose enumerated jurisdictions cannot be determined from the posting; the header 'United States' is not fully represented.",
-          "Unresolved area: description:5"
+          "Applicants must work from their home country (\"remote work at 1Password does mean working from your home country\"); this relational work-location requirement cannot be represented as fixed country or subdivision areas.",
+          "Unresolved area: description:56"
         ],
         "evidence_ids": [
           "c1",
-          "source-location"
+          "c3"
         ],
         "allowed_regions": [],
         "work_arrangement": "remote",
         "allowed_countries": [
+          "CA",
           "US"
         ],
         "reference_version": "iso-3166@4.4.0",
@@ -4705,116 +4922,34 @@
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": null,
-        "role_family": "software-engineering",
-        "required_skills": [],
-        "mentioned_skills": [
-          "sql"
-        ],
-        "preferred_skills": [],
-        "experience_requirements": []
-      },
-      "salary_min": 100000,
-      "salary_max": 150000,
-      "salary_text": "USD 100,000–150,000/year",
-      "salary_source_text": "USD 100000 - 150000",
-      "salary_currency": "USD",
-      "salary_period": "year",
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<p>Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions that help businesses automate and optimize their operations. We leverage cutting-edge technologies to create scalable, secure, and user-friendly applications.<br><br>As we continue to grow, we’re looking for a skilled <strong>SAP ABAP Programmer</strong> to join our dynamic team and contribute to our mission of transforming business processes through technology.<br><br>This is a fantastic opportunity to join an established and well-respected organization offering tremendous career growth potential.<br><br><strong>Job Title:</strong> SAP ABAP Programmer<br><strong>Location:</strong> 100% Remote (Continental United States)<br><strong>Position Type:</strong> In-house Bright Vision Technologies SOW engagement (no third-party client or vendor)<br><strong>Salary</strong>: $100K - $150K<br><strong>Experience:</strong> 5+ years<br><br><strong>Employment Terms &#x26; Visa Policy</strong><br><strong>This is a 100% remote, full-time, direct W2 position with Bright Vision Technologies.</strong><br><strong>This role is part of Bright Vision Technologies’ in-house Statement of Work (SOW) engagement.</strong> The client, end customer, and employer for this position is Bright Vision Technologies — there is no third-party client, vendor, or implementation partner involved.<br>We do not engage in C2C, 1099, or third-party arrangements for this role.<br><br>Candidates must be willing to work directly as a full-time W2 employee of Bright Vision Technologies and contribute to our in-house SOW deliverables.<br>No new H1B sponsorship is available for this role.<br><br><strong>However, candidates who are currently on a valid H1B visa and require a transfer are welcome to apply. We will support H1B transfers for qualified candidates.</strong><br>For every role, a technical coding assessment is mandatory. Please apply only if you are confident in your technical abilities and hands-on experience.<br><br><strong>Job Summary</strong><br>We are seeking an experienced SAP ABAP Programmer with strong S/4HANA expertise to design, develop, and support custom enhancements, integrations, and reports within large enterprise SAP landscapes. This role spans the full development lifecycle, including requirements analysis, technical design, hands-on coding, unit testing, performance tuning, and post-go-live support in close collaboration with functional consultants and business stakeholders. The ideal candidate will combine deep ABAP expertise — including core ABAP, ABAP OO, CDS views, AMDPs, and OData — with a strong understanding of S/4HANA architecture, Fiori integration, and clean-core principles that minimize technical debt and ease future upgrades.<br><br><strong>Key Responsibilities</strong></p><ul>\n<li>Design and develop custom ABAP programs, enhancements, BAPIs, BADIs, user exits, and interfaces within SAP S/4HANA environments, following clean-core and modification-free principles wherever possible.</li>\n<li>Build performant CDS views, AMDPs, and HANA-optimized ABAP code that leverages code pushdown and takes full advantage of S/4HANA’s in-memory architecture.</li>\n<li>Develop and consume OData services and RESTful APIs to support Fiori applications and integrations with non-SAP systems.</li>\n<li>Implement SAP Gateway services, including service registration, modeling, and lifecycle management.</li>\n<li>Design and develop classical and interactive ALV reports, smart forms, Adobe forms, and modern Fiori-aligned output channels.</li>\n<li>Build and maintain integration interfaces using IDocs, RFC, BAPI, Web Services, and the SAP API Hub.</li>\n<li>Perform technical analysis of business requirements in collaboration with functional consultants, and translate them into well-documented technical designs.</li>\n<li>Conduct thorough unit testing, support functional and integration testing, and resolve defects raised during UAT and post-go-live hypercare.</li>\n<li>Lead performance tuning of ABAP code, SQL queries, and database access patterns, including the use of SAT, ST05, and HANA-specific diagnostic tools.</li>\n<li>Support S/4HANA upgrades, system conversions, and code remediation activities, including SCMON / UPL analysis and clean-core readiness assessments.</li>\n<li>Implement security best practices in custom developments, including authority checks, secure data handling, and compliance with internal SAP governance.</li>\n<li>Document technical specifications, code reviews, and operational procedures in line with enterprise SAP standards.</li>\n<li>Mentor junior ABAP developers and act as a technical reference within the SAP team.</li>\n</ul><p><strong>Required Qualifications</strong></p><ul>\n<li>Bachelor’s degree in Computer Science, Engineering, or a related technical discipline.</li>\n<li>Five or more years of professional ABAP development experience, with significant time on S/4HANA.</li>\n<li>Strong hands-on expertise with ABAP OO, CDS views, AMDPs, and HANA-optimized ABAP.</li>\n<li>Solid experience building OData services and integrating with Fiori applications.</li>\n<li>Hands-on experience with enhancement frameworks (BADIs, user exits, implicit/explicit enhancements).</li>\n<li>Strong experience with integration technologies (IDoc, RFC, BAPI, Web Services).</li>\n<li>Solid understanding of SAP module data structures, including FI/CO, SD, MM, or PP, depending on the project area.</li>\n<li>Experience with performance tuning tools (SAT, ST05) and HANA diagnostic tools.</li>\n<li>Familiarity with SAP Solution Manager, ChaRM, and SAP transport management.</li>\n<li>Excellent troubleshooting, communication, and documentation skills.</li>\n</ul><p><strong>Preferred Qualifications</strong></p><ul>\n<li>Experience with S/4HANA system conversions or greenfield implementations.</li>\n<li>Exposure to SAP BTP, ABAP RAP (RESTful ABAP Programming Model), or steampunk.</li>\n<li>Hands-on experience with Fiori/UI5 development.</li>\n<li>Familiarity with SAP CPI / Integration Suite.</li>\n<li>SAP-certified ABAP developer credentials.</li>\n</ul><p><strong>How to Apply</strong><br>Would you like to know more about this opportunity?<br>For immediate consideration, please send your resume to  or contact us at (908) 505-3544. Learn more about Bright Vision Technologies at www.bvteck.com.<br>We recognize that our people are our strength, and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company.<br>We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. We also make reasonable accommodations for applicants’ and employees’ religious practices and beliefs, as well as mental health or physical disability needs.<br>Bright Vision Technologies is an Equal Opportunity Employer, including Disability/Veterans.<br>Position offered by “No Fee Agency.”<br><br><br></p><p>Equal Employment Opportunity (EEO) Statement</p><p>Bright Vision Technologies (BV Teck) is committed to equal employment opportunity (EEO) for all employees and applicants without regard to race, color, religion, sex, sexual orientation, gender identity or expression, national origin, age, genetic information, disability, veteran status, or any other protected status as defined by applicable federal, state, or local laws. This commitment extends to all aspects of employment, including recruitment, hiring, training, compensation, promotion, transfer, leaves of absence, termination, layoffs, and recall.</p><p>BV Teck expressly prohibits any form of workplace harassment or discrimination. Any improper interference with employees' ability to perform their job duties may result in disciplinary action up to and including termination of employment.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/sap-abap-programmer-bright-vision-technologies-ea35794137c84272a7ae15b87c6eb0d1</p>",
-      "posted_at": "2026-10-26T13:15:46+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "9a689c9d-5aed-4a36-a8da-994a8a1ea159",
-      "title": "Forward Deployed Engineer, Agentic Platform",
-      "url": "https://remotejobs.org/remote-jobs/forward-deployed-engineer-agentic-platform-urban-ridge-supplies",
-      "apply_url": "https://remotejobs.org/remote-jobs/forward-deployed-engineer-agentic-platform-urban-ridge-supplies",
-      "company": {
-        "name": "Urban Ridge Supplies",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/7d0ab1035c9fd96532d0fa5e17851414e56775fc3055846f258dad0778477545.webp",
-        "website": null,
-        "url": "https://remotejobs.org/companies/urban-ridge-supplies"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "Canada",
-      "location_normalization": {
-        "raw": "Canada",
-        "input": {},
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "CA"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [],
-        "evidence_ids": [
-          "source-location"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "CA"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": null,
+        "seniority": "staff",
         "role_family": null,
         "required_skills": [],
         "mentioned_skills": [
+          "aws",
+          "javascript",
+          "nodejs",
           "python",
-          "react"
+          "react",
+          "typescript"
         ],
         "preferred_skills": [],
         "experience_requirements": []
       },
-      "salary_min": 175000,
-      "salary_max": 385000,
-      "salary_text": "CAD 175,000–385,000/year",
-      "salary_source_text": "CAD 175000 - 385000",
-      "salary_currency": "CAD",
-      "salary_period": "year",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
       "type": "Full-time",
       "employment_types": [
         "FULL_TIME"
       ],
-      "employer_job_id": null,
+      "employer_job_id": "a8f6ec2c-ca75-42a0-9708-f7bd74ff6671",
       "direct_apply": null,
-      "description": "<div><strong>Who are we?  Cohere is the leading security-first enterprise AI company. We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems. <br><br>We’re training and deploying frontier models for enterprises who are building AI systems. We believe that our work is instrumental to the widespread adoption of AI and we are looking for folks that want to be part of that. <br><br>We obsess over what we build. Each one of us is responsible for contributing to increasing the capabilities of our models and the value they drive for our customers. Cohere is a team of researchers, engineers, designers, and more, who are all passionate about their craft. <br><br>We are a global technology company headquartered in Toronto with key offices in London, New York City, San Francisco, Montreal, Paris, Berlin and Seoul. Join us! <br><br><strong>About North  North is Cohere's cutting-edge AI workspace platform, designed to revolutionize the way enterprises utilize AI. It offers a secure and customizable environment, allowing companies to deploy AI while maintaining control over sensitive data. North integrates seamlessly with existing workflows, providing a trusted platform that connects AI agents with workplace tools and applications. <br><br>Why this role? <br><br>This role offers a unique opportunity to shape how enterprises harness the power of AI in real-world applications. As a bridge between our core North product and our clients’ engineering teams, you’ll be at the forefront of solving complex problems and securely integrating AI into critical sectors such as finance, healthcare, and telecommunications. <br><br>We’re looking for Software Engineers with Applied AI experience who can own the design, build, and deployment of agentic workflows powered by Large Language Models (LLMs), from early prototypes to production-grade AI agents, to deliver concrete business value in enterprise workflows. You’ll work closely with customers on real-world business problems, often building first-of-their-kind agent workflows that integrate LLMs with tools, APIs, and data sources. While our pace is startup-fast, the bar is enterprise-high: agents must be reliable, observable, safe, and auditable from day one. <br><br><em>Note: between 20 - 40% travel anticipated. <strong>In This Role, You Will <ul>\n<li>Work closely with our enterprise customers to translate high-value, ambiguous business problems into well-framed agentic workflows with clear success criteria and evaluation methodologies</li>\n<li>Lead the design, build, and delivery of LLM-powered agents that reason, plan, and act across tools, APIs, and sensitive enterprise data sources, with enterprise-grade reliability and performance</li>\n<li>Build and ship features for North, our AI workspace platform, working across the full product lifecycle from conceptualization through production</li>\n<li>Take ownership of scoping and shaping use cases end-to-end, flexing into whatever technical area the problem demands (including frontend) to drive the most effective solution</li>\n<li>Contribute to shared frameworks and patterns that enable consistent, high-quality delivery across customers and teams</li>\n<li>Drive clarity in ambiguous situations, build alignment, and raise engineering quality across the organization</li>\n<li>Travel up to 20–40% to work on-site with customers and partners </li>\n</ul>\n<strong>You May Be a Good Fit If <ul>\n<li>You have hands-on experience building and deploying production-grade software in Python; you write clean, testable, observable, scalable code</li>\n<li>You've built and deployed highly performant RAG and agentic applications, including agents that plan and execute multi-step tasks using patterns like ReAct or Plan-and-Execute</li>\n<li>You're deeply familiar with the LLM stack: frontier models, vector databases, and orchestration frameworks</li>\n<li>You have a proven ability to build robust evaluation frameworks, moving well beyond trial and error, to measure agent accuracy, safety, and latency</li>\n<li>You’re experienced working directly with customers and can lead technical discussions with enterprise stakeholders, translating ambiguous business needs into concrete technical specs</li>\n<li>You have experience owning the full scope of a use case end-to-end</li>\n<li>You thrive in fast-paced and ambiguous environments and can execute well even when priorities are shifting </li>\n</ul>\n<strong>It's a Bonus If You Have <ul>\n<li>Experience setting architectural standards for AI and agentic systems across distributed teams</li>\n<li>Experience flexing into unfamiliar technical areas, such as frontend, when the problem calls for it</li>\n<li>Exposure to regulated or sensitive industry environments (finance, healthcare, telecoms)</li>\n<li>Experience with enterprise security, compliance, or auditability requirements for AI systems </li>\n</ul>\n<strong>Full-Time Employees At Cohere Enjoy These Perks <ul>\n<li>A weekly lunch stipend of $75/£75 or equivalent in your local currency for lunch.</li>\n<li>Full health and dental benefits, including a separate budget for mental health.</li>\n<li>RRSP matching, 401K, Pension Scheme.</li>\n<li>100% Parental Leave top-up for up to 6 months, for either parent.</li>\n<li>Annual enrichment benefits: </li>\n</ul> Arts &#x26; culture, fitness/wellness, quality time, and a workspace improvement credit. <br><br>Education &#x26; learning stipend for conferences, courses, and coaching. <br><br><ul>\n<li>6 weeks of paid vacation (30 working days!)</li>\n<li>Budget for traveling to other offices if you are remote, plus an annual company offsite. </li>\n</ul>\n<strong>How And Where We Work <ul>\n<li>Cohere is remote-friendly, but we also have offices in Toronto, London, New York City, San Francisco, Montreal, Paris, Berlin and Seoul with more opening soon.</li>\n<li>For those in the office: a daily lunch program, plenty of snacks, and regular community and social events.</li>\n<li>For those not near an office: a co-working benefit so you can work alongside others in your city.</li>\n<li>Everyone receives a $500 home office stipend to set up your workspace properly. </li>\n</ul> If any of the above doesn’t line up exactly with your experience, we still encourage you to apply. <br><br>We strive to create an inclusive work environment for all; we welcome applicants from all backgrounds and are committed to providing equal opportunities. Should you require any accommodations during the recruitment process, please submit an Accommodations Request Form, and we will work together to meet your needs. <br><br>We may use AI-enabled tools to screen and assess applicants against the criteria for this position. This helps our recruiters identify potentially qualified candidates, but it doesn't limit the applications our recruiters may review or consider. <br><br><em>Beware of Scams: Cohere will never ask for payment or third-party services (e.g., CV writing) as part of our hiring process. All legitimate roles are listed on the Cohere careers page and LinkedIn only, with all communications from Cohere employees coming from an @cohere.com or @cw.cohere email alias. If jobs are viewed on other sites then please verify these through our</em><em>official careers</em><em>page.  Compensation Range: CA$175K - CA$385K</em></strong></strong></strong></strong></strong></em></strong></strong><em><strong><strong><strong><em><br><p>Job Id: ruv1dN82U1hjeMauAsr9zJJeLMzxLhfBBGcFGCvlmCa4DghM2CP1PTj5NZm/rGtAnqhrI1JPOXXBfGyEZ5zIrrVWInugZ7SaBg==</p></em></strong></strong></strong></em></div><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/forward-deployed-engineer-agentic-platform-urban-ridge-supplies</p>",
-      "posted_at": "2026-10-26T13:04:00+00:00",
+      "description": "<p><em><strong>1Password is growing.</strong> We’ve surpassed $500M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing.</em></p><p><strong>About 1Password</strong></p><p><em>At 1Password, we’re building the foundation for a safe, productive digital future. Our mission is to unleash employee productivity without compromising security by ensuring every identity is authentic, every application sign-in is secure, and every device is trusted. We innovated the market-leading enterprise password manager and pioneered Unified Access Management, a new cybersecurity category built for the way people and AI agents work today. As one of the most loved brands in cybersecurity, we take a human-centric approach in everything from product strategy to user experience. Over 180,000 businesses, from Fortune 100 leaders to the world’s most innovative AI companies, trust 1Password to help their teams securely adopt the SaaS and AI tools they need to do their best work.</em></p><p><em>If you're excited about the opportunity to contribute to the digital safety of millions, to work alongside a team of curious, driven individuals, and to solve hard problems in a fast-paced, dynamic environment, then we want to hear from you. Come join us and help shape a safer, simpler digital future.</em></p><p>As a Staff Demo Engineer on the Demo Engineering team, you’ll shape the technical tooling and platform behind 1Password’s go-to-market demo experience. You’ll build scalable demo environments, interactive product experiences, and shared infrastructure that help teams communicate 1Password’s value across the customer journey. Your work will help make secure access simpler and support 1Password’s mission to create a safer, simpler digital future for everyone.</p><p><strong>How we’re using AI today</strong></p><p>Our Engineering, Product, and Design teams are thoughtfully integrating AI across the full software and product development lifecycle to move faster without sacrificing quality or security. In practice, that looks like engineers using AI-assisted coding tools to accelerate reviews and catch bugs earlier, product managers synthesizing user research at scale, and designers rapidly prototyping and iterating with AI-generated mockups. We approach AI the same way we approach security: with clear principles, human accountability at every consequential decision point, and rigorous evaluation before anything ships to customers.</p><p>This is a remote opportunity within Canada and the US.</p><p><strong>What we're looking for:</strong></p><ul><li><p>Bring substantial experience in software engineering, cloud engineering, platform engineering, technical marketing, DevOps, solutions architecture, or demo engineering.</p></li><li><p>Apply experience in cybersecurity, identity, Privileged Access Management (PAM), developer tools, or a related technical domain.</p></li><li><p>Build full-stack and automation solutions using technologies such as TypeScript, JavaScript, Node.js, React, or Python, with experience designing systems that other engineers can build on.</p></li><li><p>Design and operate infrastructure using infrastructure as code, continuous integration and continuous delivery (CI/CD), containers, and cloud platforms such as Amazon Web Services (AWS), Microsoft Azure, or Google Cloud Platform (GCP).</p></li><li><p>Understand identity and access management concepts, including single sign-on (SSO), Security Assertion Markup Language (SAML), OpenID Connect (OIDC), System for Cross-domain Identity Management (SCIM), device trust, passwordless authentication, and passkeys.</p></li><li><p>Balance speed, reliability, cost, and security while explaining technical tradeoffs clearly to technical and non-technical partners.</p></li><li><p>Create interactive software-as-a-service (SaaS) demos and guided product experiences using platforms such as Reprise, Navattic, Walnut, or Arcade; experience with mobile device management (MDM) tools such as Jamf, live event demos, utilization analysis, artificial intelligence (AI)-assisted tooling, or Model Context Protocol (MCP) servers is also valuable.</p></li></ul><p><strong>What you can expect:</strong></p><ul><li><p>Set the technical vision, roadmap, and long-term architecture for 1Password’s demo platform.</p></li><li><p>Lead the design of shared demo infrastructure, including templates, automated provisioning and resets, data generation, and observability.</p></li><li><p>Build sample applications and integrations across 1Password products to support demos and enablement programs.</p></li><li><p>Support complex, high-visibility demos for flagship launches, keynotes, conferences, and strategic customer opportunities.</p></li><li><p>Drive AI-assisted tooling that automates demo preparation, validation, and maintenance.</p></li><li><p>Partner with Engineering Security on demo environments and lead architecture and code reviews.</p></li><li><p>Mentor Demo Engineers and Senior Demo Engineers while representing Demo Engineering in cross-functional technical decisions and product roadmap discussions.</p></li><li><p>Travel quarterly, including cross-border travel, for conferences and company offsites.</p></li></ul><p>USA-based roles only: The annual base salary for this role is between $135,000 USD and $196,000 USD, plus immediate participation in 1Password's benefits program (health, dental, 401k and many others), utilization of our generous paid time off, an equity grant and, where applicable, participation in our incentive programs.</p><p>Canada-based roles only: The annual base salary for this role is between $129,000 CAD and $187,000 CAD, plus immediate participation in 1Password’s generous benefits program (health, dental, RRSP and many others), utilization of our generous paid time off, an equity grant and, where applicable, participation in our incentive programs.<br><br>At 1Password, we approach each individual's compensation with a promise of fair market value and internal equity commensurate with experience and specific skill set.<br><br><em>This posting is for an existing vacancy.</em></p><p><br><strong>Our culture </strong><br>At 1Password, we prioritize collaboration, clear and transparent communication, receptiveness to feedback, and alignment with our core values: keep it simple, lead with honesty, and put people first. <br><br>You’ll be part of a team that challenges the status quo, and is excited to experiment and iterate in search of the best solution. That said, <a href=\"https://blog.1password.com/inside-the-culture-powering-1passwords-next-chapter/\"><em>1Password is not for everyone</em></a>. Our work is demanding, we strive for excellence, and the pace is fast. We need people who are keen to take on challenging problems, who seek feedback to grow, and who are driven to make an impact. If you're looking for a place where you can settle into a comfortable routine, this might not be the right fit for you. We’re looking for individuals who are proven experts in their fields, as well as those who are highly adaptable, can thrive in ambiguity and through change, are curious, and above all deliver results. <br><br><strong>How we work with AI</strong><br>We are committed to leveraging cutting-edge technology—including AI—to achieve our mission. We also understand that thinking critically about AI in its current forms will help us create better solutions for our customers and ourselves with its future forms, which will help us continue to close the gap between security and privacy and achieve our mission. We want team members at all levels to take the approach of actively learning AI best practices, identifying opportunities to apply AI in meaningful ways, and driving innovative solutions in their daily work. Embracing the future of AI isn't just encouraged—it's an essential part of how we will be successful at 1Password.</p><p>This approach extends to our hiring process—candidates are welcome to use AI tools responsibly and thoughtfully during the application process. To us, this means we do ask that you join live interviews without using AI tools so we can get to know how you communicate, solve problems, and collaborate with others.<br><br><strong>Our approach to remote work </strong><br>We believe in the power of remote work, but recognize that in-person connection is important to help us achieve our mission. While we are a remote-first company, travel for in-person engagement is a part of almost all roles, and we require our employees to be ready and willing to take part. Frequency will depend on role and responsibilities, and may include, but is not limited to: annual department-wide offsites, team meetings, and customer/industry events.<br><br><strong>What we offer</strong><br>We believe in working hard, and rewarding that hard work through our benefits. While not an exhaustive list, here is a glance at what we currently offer: <br><br><em>Health and wellbeing</em><br>👶 Maternity and parental leave top-up programs<br>🩺 Competitive health benefits<br>🏝 Generous PTO policy <br><br><em> Growth and future </em><br>📈 RSU program for most employees<br>💸 Retirement matching program<br>🔑 Free 1Password account<br><br><em>Community </em><br>🤝 Paid volunteer days <br>🏆 Peer-to-peer recognition through Bonusly<br>🌎 Remote-first work environment<br><em>*Some roles in our GTM team are currently being hired for in-person hybrid work in Toronto and Austin. These roles will specify on the posting.</em></p><p><strong>You belong here.</strong></p><p><em>1Password is proud to be an equal opportunity employer. We are committed to fostering an inclusive, diverse and equitable workplace that is built on trust, support and respect. We welcome all individuals and do not discriminate on the basis of gender identity and expression, race, ethnicity, disability, sexual orientation, colour, religion, creed, gender, national origin, age, marital status, pregnancy, sex, citizenship, education, languages spoken or veteran status. Be yourself, find your people and share the things you love.</em></p><p><em>Accommodation is available upon request at any point during our recruitment process. If you require an accommodation, please speak to your talent acquisition partner or email us at nextbit@agilebits.com and we’ll work to meet your needs.</em></p><p><em>Remote work is a part of our DNA. Given that our company was founded remotely in 2005, we can safely say we're experts at building remote culture. That said, remote work at 1Password does mean working from your home country. If you've got questions or concerns about this, your talent partner would be happy to address them with you.</em></p><p><em>Successful applicants will be required to complete a background check that may consist of prior employment verification, reference checks, education confirmation, criminal background, publicly available social media, credit history, or other information, as permitted by local law.</em></p><p><em>1Password uses artificial intelligence (AI) and machine learning (ML) technologies, including natural language processing and predictive analytics, to assist in the initial screening of employment applications and improve our recruitment process. See </em><a href=\"https://www.ashbyhq.com/downloadables/ashby-bias-audit-08-2024.pdf\"><em>here</em></a><em> for the latest third party bias audit information. If you prefer not to have your application assessed using AI/ML features, you may opt out by completing </em><a href=\"https://jobs.ashbyhq.com/1password/automation-notice\"><em>this form</em></a><em>. For additional information see our </em><a href=\"https://1password.com/files/candidate-privacy-notice.pdf\"><em>Candidate Privacy Notice</em></a><em>.</em></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/staff-demo-engineer-1password</p>",
+      "posted_at": "2026-10-29T13:35:34.898+00:00",
       "is_translated": false,
       "original_language": null
     },
@@ -9395,103 +9530,6 @@
       "direct_apply": null,
       "description": "<p>We are the platform engineers handling app lifecycle at ServiceNow. We manage the end-to-end journey of custom workflows and applications built on the ServiceNow App Engine. We ensure apps move smoothly and securely from development to production. This role requires deep expertise in compiler and runtime systems — you'll optimize execution engines, memory management, and performance at the systems level.</p>\n<h2>What you get to do in this role:</h2>\n<ul>\n<li>Design and optimize execution engines, JIT/AOT compilation pipelines, and memory management systems to ensure customer applications run at scale</li>\n</ul>\n<ul>\n<li>Build high-quality, clean, scalable, and reusable code by enforcing best practices around software engineering architecture and processes (Code Reviews, Unit testing, etc.)</li>\n</ul>\n<ul>\n<li>Work with product owners to understand detailed requirements and own your code from design, implementation, test automation, and delivery of high-quality product to our users</li>\n</ul>\n<ul>\n<li>Implement software that is simple to use, allowing customers to extend and customize functionality to meet their specific needs</li>\n</ul>\n<ul>\n<li>Mentor colleagues and promote knowledge-sharing across teams on low-level systems engineering, performance profiling, and optimization techniques</li>\n</ul>\n<h2>To be successful in this role you have:</h2>\n<ul>\n<li>\n<p>12+ years of experience with Java or similar object-oriented language, with at least 5+ years working on compiler, runtime, JIT/AOT systems, or language execution engines</p>\n</li>\n<li>\n<p>Experience integrating AI into software development, workflows, decision-making, or automation using AI-powered tools and technologies.</p>\n</li>\n<li>\n<p>Strong experience with compiler/runtime systems: execution engines, memory management, concurrency, JIT/AOT compilation, performance optimization, profiling, and debugging</p>\n</li>\n<li>\n<p>Advanced knowledge of data structures, algorithms, object-oriented design, design patterns, and performance/scale considerations at the systems level</p>\n</li>\n<li>\n<p>Passion for JavaScript and the Web as a platform; experience with modern UI frameworks (Angular, React, or Vue)</p>\n</li>\n<li>\n<p>Experience developing, troubleshooting, and optimizing relational databases</p>\n</li>\n<li>\n<p>Experience with LLVM, language runtime development, or low-level systems engineering (strong plus)</p>\n</li>\n<li>\n<p>Track record working across multiple technology stacks (Cloud Dev, Platforms, Web Dev, Frameworks, service-oriented architecture)</p>\n</li>\n<li>\n<p>Capability to manage multiple projects with material technical risk across teams and processes; may serve as functional lead or technical owner</p>\n</li>\n</ul>\n<h2>FD21</h2>\n<p>For positions in California (outside of the Bay Area), we offer a base pay of $171,900 - $300,800, plus equity (when applicable), variable/incentive compensation and benefits. Sales positions generally offer a competitive On Target Earnings (OTE) incentive compensation structure. Please note that the base pay shown is a guideline, and individual total compensation will vary based on factors such as qualifications, skill level, competencies and work location. We also offer health plans, including flexible spending accounts, a 401(k) Plan with company match, ESPP, matching donations, a flexible time away plan and family leave programs (subject to eligibility requirements). Compensation is based on the geographic location in which the role is located, and is subject to change based on work location. For individuals who will be working in the Bay Area, there is a pay enhancement for positions located in that geographical area; please contact your recruiter for additional information.</p>\n<p>For positions in this location, we offer a base pay of <strong>$171,900 - $300,800</strong>, plus equity (when applicable), variable/incentive compensation and benefits. Sales positions generally offer a competitive On Target Earnings (OTE) incentive compensation structure. Please note that the base pay shown is a guideline, and individual total compensation will vary based on factors such as qualifications, skill level, competencies, and work location. We also offer health plans, including flexible spending accounts, a 401(k) Plan with company match, ESPP, matching donations, a flexible time away plan and family leave programs. Compensation is based on the geographic location in which the role is located and is subject to change based on work location.</p>\n<h2>Work Personas</h2>\n<p>We approach our distributed world of work with flexibility and trust. Work personas (flexible, remote, or required in office) are categories that are assigned to ServiceNow employees depending on the nature of their work and their assigned work location. Learn more here. To determine eligibility for a work persona, ServiceNow may confirm the distance between your primary residence and the closest ServiceNow office using a third-party service.</p>\n<h2>Equal Opportunity Employer</h2>\n<p>ServiceNow is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, national origin, age, disability, gender identity, veteran status, or any other category protected by law. In addition, all qualified applicants with arrest or conviction records will be considered for employment in accordance with legal requirements. </p>\n<h2>Accommodations</h2>\n<p>We strive to create an accessible and inclusive experience for all candidates. If you require a reasonable accommodation to complete any part of the application process, or are unable to use this online application and need an alternative method to apply, please contact for assistance.</p>\n<h2>Export Control Regulations</h2>\n<p>For positions requiring access to controlled technology subject to export control regulations, including the U.S. Export Administration Regulations (EAR), ServiceNow may be required to obtain export control approval from government authorities for certain individuals. All employment is contingent upon ServiceNow obtaining any export license or other approval that may be required by relevant export control authorities.</p>\n<p>From Fortune. ©2026 Fortune Media IP Limited. All rights reserved. Used under license.</p>\n<p>It all started when engineer Fred Luddy wrote code that automated a tedious task for his coworker, Phyllis. She cried tears of joy. That moment inspired Fred to build a company that could do that for everyone—freeing people from busywork so they could focus on meaningful work. Today, ServiceNow is the AI control tower for business reinvention. Our ServiceNow AI platform brings together any AI, any data, and any workflow— helping 85% of the Fortune 500® work smarter, faster, and better. We're building an AI-native culture where technology and talent are unstoppable together. And we're just getting started.</p>\n<h2>Join us to put AI to work for people.</h2>\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-staff-software-engineer-servicenow</p>",
       "posted_at": "2026-10-21T12:28:22+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "634907f5-3440-4524-b388-5f945644e539",
-      "title": "[Job - 32320] Senior DevOps, Brazil",
-      "url": "https://remotejobs.org/remote-jobs/job-32320-senior-devops-brazil-cit",
-      "apply_url": "https://remotejobs.org/remote-jobs/job-32320-senior-devops-brazil-cit",
-      "company": {
-        "name": "CI&T",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/7e1782a578c9c71ab76efa0e1141e9caf4002ac5568d62e6b46ff14dfee91d75.webp",
-        "website": "https://cit.com",
-        "url": "https://remotejobs.org/companies/cit"
-      },
-      "category": {
-        "name": "DevOps",
-        "slug": "devops"
-      },
-      "location": "Brazil",
-      "location_normalization": {
-        "raw": "Brazil",
-        "input": {},
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "BR"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [],
-        "evidence_ids": [
-          "source-location"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "BR"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": "senior",
-        "role_family": null,
-        "required_skills": [
-          "aws",
-          "kubernetes",
-          "terraform"
-        ],
-        "mentioned_skills": [
-          "aws"
-        ],
-        "preferred_skills": [],
-        "experience_requirements": [
-          {
-            "text": "30 years of experience in technological transformation, we accelerate innovation with expertise in Agentic SDLC, Application modernization, Data & AI, Martech and Business strategy",
-            "maximum_years": null,
-            "minimum_years": 30,
-            "classification": "mentioned"
-          }
-        ]
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": null,
-      "salary_period": "year",
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<p>At CI&#x26;T, we help large enterprises transform the potential of AI into real business impact with AI Deployment, AI-native execution, and tech-integrated business solutions.</p>\n<p>With 30 years of experience in technological transformation, we accelerate innovation with expertise in Agentic SDLC, Application modernization, Data &#x26; AI, Martech and Business strategy.</p>\n<p>We are 8,000 CI&#x26;Ters across more than 25 countries, collaborating to build solutions with real impact. AI is already part of how we work, evolve, and innovate every day.</p>\n<p>DevOps Cloud Engineer<br>\nWe are seeking a skilled DevOps Cloud Engineer to become part of our Platform Engineering<br>\nteam. You’ll play a crucial role in designing our cloud infrastructure and developing tools and<br>\nautomation to equip our development teams to deliver reliable, secure, and performant software<br>\noften and with confidence. You’ll collaborate with development and operations teams to ensure<br>\nseamless deployment, monitoring, and scaling of our applications.<br>\nResponsibilities<br>\n● Design, build, and manage cloud infrastructure to meet our reliability, security, and cost<br>\nefficiency requirements, applying an “IaC-first” approach<br>\n● Implement and optimize CI/CD pipelines to streamline software delivery and reduce<br>\ntime-to-market.<br>\n● Develop and enhance a comprehensive observability solution across our applications and<br>\ninfrastructure to proactively meet our system health, performance, and security needs<br>\n● Help guide and evangelize our best-practice use of the AWS platform across teams<br>\n● Ensure our applications meet our production readiness standards and guide usage of<br>\nobservability solutions across all teams<br>\n● Provide operational oversight and support for our production infrastructure while ensuring<br>\nreliability meets service level objectives<br>\nQualifications<br>\n● At least three years of production AWS experience with the ability to recommend and<br>\nimplement appropriate services to be used for various workload scenarios<br>\n● Strong experience with Terraform<br>\n● Experience building GitHub Actions with an emphasis on reusable components that provide<br>\nconsistent deployment paradigms across teams<br>\n● Fluent use of Git workflows in a collaborative setting<br>\n● Solid knowledge and experience with the Linux platform<br>\n● Expert ability to troubleshoot subtle system issues in distributed network environments<br>\n● Understanding of enterprise best practices for security, reliability, performance, cost<br>\nefficiency, and operational excellence<br>\n● Good understanding of the entire software development lifecycle, including emerging<br>\nAI-oriented approaches<br>\n● Experience with the following technologies is desired: Jenkins scripted pipelines,<br>\nEKS/Kubernetes, Octopus Deploy, AWS CDK, and Spacelift<br>\n● Experience utilizing agile principles and development methodologies to help determine the<br>\nscope and prioritization of competing needs, taking into account technical debt<br>\nSkills and Attributes<br>\n● A code-first approach to infrastructure development, deployment automation, and<br>\nobservability instrumentation<br>\n● Excellent communication skills for collaborating with cross-functional teams<br>\n● Seek out what is difficult, do it more often, and automate it</p>\n<h2>Our benefits:</h2>\n<ul>\n<li>Health and dental insurance</li>\n<li>Meal and food allowance</li>\n<li>Childcare assistance</li>\n<li>Extended paternity leave</li>\n<li>Partnership with gyms and health and wellness professionals via Wellhub (Gympass) TotalPass;</li>\n<li>Profit Sharing and Results Participation (PLR);</li>\n<li>Life insurance</li>\n<li>Continuous learning platform (CI&#x26;T University);</li>\n<li>Discount club</li>\n<li>Free online platform dedicated to physical, mental, and overall well-being</li>\n<li>Pregnancy and responsible parenting course</li>\n<li>Partnerships with online learning platforms</li>\n<li>Language learning platform</li>\n</ul>\n<p>And many more!</p>\n<p>More details about our benefits here:</p>\n<p>At CI&#x26;T, inclusion starts at the first contact. If you are a person with a disability, it is important<strong> to present your assessment during the selection process. </strong><em>See which data needs to be included in the report by clicking here</em>.This way, we can ensure the support and accommodations that you deserve. <strong>If you do not yet have the assessment, don't worry: we can support you in obtaining it.</strong></p>\n<p>We have a dedicated Health and Well-being team, inclusion specialists, and affinity groups who will be with you at every stage. Count on us to make this journey side by side.</p>\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/job-32320-senior-devops-brazil-cit</p>",
-      "posted_at": "2026-10-21T12:13:45+00:00",
       "is_translated": false,
       "original_language": null
     },
