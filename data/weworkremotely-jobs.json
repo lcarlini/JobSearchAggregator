@@ -1,7 +1,22 @@
 {
-  "generatedAt": "2026-10-29T22:32:37.887Z",
-  "count": 175,
+  "generatedAt": "2026-10-30T04:36:33.114Z",
+  "count": 176,
   "jobs": [
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/vercel-software-engineer-data-platform",
+      "source": "weworkremotely",
+      "title": "Software Engineer - Data Platform",
+      "company": "Vercel",
+      "url": "https://weworkremotely.com/remote-jobs/vercel-software-engineer-data-platform",
+      "description": "Headquarters: Remote - United States About Vercel: Vercel is the agentic infrastructure company, freeing people and agents to ship what's next. For more than a decade we've helped builders move from idea to production with speed, security, and exceptional developer experience. Now we're scaling our products for both agents and people to ship and run software, built in the open and trusted by OpenAI, PayPal, Ramp, Supreme, and millions of developers worldwide. About the Role We're looking for a Staff level Engineer to lead the design and development of a next-generation Data Platform at Vercel. This is a unique opportunity to architect a foundational system that will power data across our products and business, supporting everything from real-time analytics to AI/ML initiatives. Reporting d",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "programming"
+      ],
+      "postedAt": "Sun, 11 Oct 2026 07:31:07 +0000",
+      "category": "programming"
+    },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/vercel-software-engineer-backend",
       "source": "weworkremotely",
@@ -345,21 +360,6 @@
         "programming"
       ],
       "postedAt": "Wed, 30 Sep 2026 07:31:24 +0000",
-      "category": "programming"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-3",
-      "source": "weworkremotely",
-      "title": "Senior Shopify Developer (Remote + Flexible)",
-      "company": "Storetasker",
-      "url": "https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-3",
-      "description": "Headquarters: Brooklyn, NY URL: https://resources.storetasker.com/become-an-expert?apply=true&source=weworkremotely_best_2021 Shopify developers love to freelance with Storetasker. Endless, quality clients: from well known DTC brands to top agencies.&nbsp; Fully remote, flexible: work as much or as little as you want, wherever you want.&nbsp; A talented and helpful community: it's freelance (with a team). Earn $100-$200 per hour: pick your clients, and send your own quotes or retainers.&nbsp; We've connected our community of Shopify developers to over 32,000 e-commerce brands. From new brands pre-launch, to some of the most successful Shopify Plus sites, to top creative agencies. Clients include: Alpha Industries , Boll & Branch , Superfluid , Jack Henry , Plenaire , and Fulton among many ",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "programming"
-      ],
-      "postedAt": "Mon, 13 May 2024 03:14:30 +0000",
       "category": "programming"
     },
     {
@@ -796,6 +796,21 @@
       ],
       "postedAt": "Sat, 03 Oct 2026 07:31:20 +0000",
       "category": "devops"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/thatch-brand-designer",
+      "source": "weworkremotely",
+      "title": "Brand Designer",
+      "company": "Thatch",
+      "url": "https://weworkremotely.com/remote-jobs/thatch-brand-designer",
+      "description": "Headquarters: United States URL: https://thatch.com/ About the role For most people, health insurance happens to them: a plan chosen by someone else, with little room to fit their life. Thatch is changing that. We help companies give employees a healthcare budget instead of a one-size-fits-all plan, so people can choose the coverage and care that works for them while employers get predictable costs. It's a simple idea, but making it real means solving hard problems across healthcare, payments, and technology. We're just getting started. We look for people who use good judgment, take ownership, and care deeply about building something that matters. Design is central to what makes Thatch stand out. We're building a brand that sets a new standard for healthcare. We're a small, collaborative t",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Design",
+        "design"
+      ],
+      "postedAt": "Thu, 29 Oct 2026 22:42:13 +0000",
+      "category": "design"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/trusted-building-technologies-inc-executive-assistant-project-manager",
@@ -2253,21 +2268,6 @@
       "category": "full-stack"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/vercel-software-engineer-data-platform",
-      "source": "weworkremotely",
-      "title": "Software Engineer - Data Platform",
-      "company": "Vercel",
-      "url": "https://weworkremotely.com/remote-jobs/vercel-software-engineer-data-platform",
-      "description": "Headquarters: Remote - United States About Vercel: Vercel is the agentic infrastructure company, freeing people and agents to ship what's next. For more than a decade we've helped builders move from idea to production with speed, security, and exceptional developer experience. Now we're scaling our products for both agents and people to ship and run software, built in the open and trusted by OpenAI, PayPal, Ramp, Supreme, and millions of developers worldwide. About the Role We're looking for a Staff level Engineer to lead the design and development of a next-generation Data Platform at Vercel. This is a unique opportunity to architect a foundational system that will power data across our products and business, supporting everything from real-time analytics to AI/ML initiatives. Reporting d",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Sun, 11 Oct 2026 07:31:07 +0000",
-      "category": "full-stack"
-    },
-    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/sticker-mule-si-agent-engineer",
       "source": "weworkremotely",
       "title": "SI agent engineer",
@@ -2325,6 +2325,21 @@
         "full-stack"
       ],
       "postedAt": "Thu, 14 May 2026 09:14:28 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-3",
+      "source": "weworkremotely",
+      "title": "Senior Shopify Developer (Remote + Flexible)",
+      "company": "Storetasker",
+      "url": "https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-3",
+      "description": "Headquarters: Brooklyn, NY URL: https://resources.storetasker.com/become-an-expert?apply=true&source=weworkremotely_best_2021 Shopify developers love to freelance with Storetasker. Endless, quality clients: from well known DTC brands to top agencies.&nbsp; Fully remote, flexible: work as much or as little as you want, wherever you want.&nbsp; A talented and helpful community: it's freelance (with a team). Earn $100-$200 per hour: pick your clients, and send your own quotes or retainers.&nbsp; We've connected our community of Shopify developers to over 32,000 e-commerce brands. From new brands pre-launch, to some of the most successful Shopify Plus sites, to top creative agencies. Clients include: Alpha Industries , Boll & Branch , Superfluid , Jack Henry , Plenaire , and Fulton among many ",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Mon, 13 May 2024 03:14:30 +0000",
       "category": "full-stack"
     },
     {
