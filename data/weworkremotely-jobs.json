@@ -1,7 +1,37 @@
 {
-  "generatedAt": "2026-10-31T04:19:28.951Z",
-  "count": 179,
+  "generatedAt": "2026-10-31T11:48:48.793Z",
+  "count": 178,
   "jobs": [
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/databricks-deployment-strategist",
+      "source": "weworkremotely",
+      "title": "Deployment Strategist",
+      "company": "Databricks",
+      "url": "https://weworkremotely.com/remote-jobs/databricks-deployment-strategist",
+      "description": "Headquarters: Remote - India About the Team The FDE (Forward Deployed Engineering) team is a new, strategic initiative sponsored from the CEO and Founders down. Our mission is to win C-suite-sponsored, high-value AI opportunities by selling and delivering outcomes , not just a platform. You will be part of the founding team, embedded with our most strategic customers from the very first sales call, all the way through to a production-ready solution. You will be the \"product manager\" for the customer's problem, responsible for the \"why\" and \"what,\" while our FDEs (Engineers) will be your partners responsible for the \"how.\" Role Description As a Deployment Strategist (DS), you are the critical bridge between a customer's multi-million-dollar business problem and Databricks' technical solutio",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "programming"
+      ],
+      "postedAt": "Wed, 14 Oct 2026 07:31:00 +0000",
+      "category": "programming"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/toptal-applied-ai-engineers-for-telecommunications-company",
+      "source": "weworkremotely",
+      "title": "Applied AI Engineers for telecommunications company",
+      "company": "Toptal",
+      "url": "https://weworkremotely.com/remote-jobs/toptal-applied-ai-engineers-for-telecommunications-company",
+      "description": "Headquarters: Summary The Senior AI Professional will help design, develop, and optimize production-grade agentic AI solutions. This role complements an existing platform engineering team and focuses on turning AI concepts into reliable, scalable software rather than purely research-oriented work. General information This engagement requires deep hands-on expertise in machine learning and applied AI, with a strong emphasis on prompt optimization, model behavior, agent orchestration, and evaluation. The work will involve collaborating with platform engineers, product teams, and business stakeholders to improve AI quality, reliability, and performance in production environments. Tasks and Deliverables Design, develop, and optimize production-grade agentic AI solutions. Run meaningful evaluat",
+      "location": "USA Only",
+      "tags": [
+        "Full-Stack Programming",
+        "programming"
+      ],
+      "postedAt": "Mon, 12 Oct 2026 16:38:01 +0000",
+      "category": "programming"
+    },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/toptal-apigee-engineer-for-global-consumer-food-company",
       "source": "weworkremotely",
@@ -345,36 +375,6 @@
         "programming"
       ],
       "postedAt": "Wed, 05 Aug 2026 05:52:46 +0000",
-      "category": "programming"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/doximity-commercial-data-scientist",
-      "source": "weworkremotely",
-      "title": "Commercial Data Scientist",
-      "company": "Doximity",
-      "url": "https://weworkremotely.com/remote-jobs/doximity-commercial-data-scientist",
-      "description": "Headquarters: San Francisco, CA or Remote (U.S.) Commercial Data Scientist Doximity is the leading clinical AI company with the largest network of U.S. clinicians. Doximity’s AI-powered workflow platform is trusted by over 85% of U.S. physicians and 300+ health systems. Doximity's mission is to help clinicians be more productive so they can provide better care for their patients.&nbsp; At Doximity, we value curiosity, ownership, inclusion, and a commitment to making a meaningful impact. If you're excited about solving complex problems that improve healthcare, we'd love to hear from you. This role can be filled in the Northeast (New York, NJ, Philadelphia, Boston), our San Francisco headquarters, OR other remote locations in the U.S. As a Commercial Data Scientist , you’ll work within cross",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "programming"
-      ],
-      "postedAt": "Thu, 01 Oct 2026 07:30:56 +0000",
-      "category": "programming"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/hex-technologies-legal-ops",
-      "source": "weworkremotely",
-      "title": "Legal Ops",
-      "company": "Hex Technologies",
-      "url": "https://weworkremotely.com/remote-jobs/hex-technologies-legal-ops",
-      "description": "Headquarters: NYC or Remote (EST or CST) About the role: Hex’s legal function has gone from zero to a fully operating system in under a year. Now we need someone to own and scale the operating layer so it holds as the company grows. This is a builder role. You’ll run contract operations end to end: CLM administration, workflow optimization, template and playbook maintenance, enablement and training for the revenue team, and first-pass review and redlining of standard agreements against our playbook. Beyond contracts, you’ll build structured intake for every legal workstream across the company, own the legal governance record (privacy registers, AI inventory, compliance calendars), manage outside counsel relationships, and own the legal tech stack. We sit at the nexus of data, AI, and colla",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "programming"
-      ],
-      "postedAt": "Thu, 01 Oct 2026 07:30:56 +0000",
       "category": "programming"
     },
     {
@@ -1548,19 +1548,49 @@
       "category": "product"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/vercel-product-manager-dashboard",
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/ritual-distributed-systems-engineer",
       "source": "weworkremotely",
-      "title": "Product Manager, Dashboard",
-      "company": "Vercel",
-      "url": "https://weworkremotely.com/remote-jobs/vercel-product-manager-dashboard",
-      "description": "Headquarters: Remote - United States About Vercel: Vercel is the agentic infrastructure company, freeing people and agents to ship what's next. For more than a decade we've helped builders move from idea to production with speed, security, and exceptional developer experience. Now we're scaling our products for both agents and people to ship and run software, built in the open and trusted by OpenAI, PayPal, Ramp, Supreme, and millions of developers worldwide. About the Role: We are looking for a Product Manager to own the Vercel Dashboard, the control plane for every Vercel user, defining how developers and teams interact with Vercel from first login through daily use, across both individual accounts and enterprise organizations. You will lead the shift from what is a project listing page ",
+      "title": "Distributed Systems Engineer",
+      "company": "Ritual",
+      "url": "https://weworkremotely.com/remote-jobs/ritual-distributed-systems-engineer",
+      "description": "Headquarters: Remote About Ritual&nbsp; Ritual is building a sovereign, execution layer for AI, with our private testnet already live and running. The Ritual chain is the first blockchain custom-built to support AI-native operations, designed from the ground up to enable a new class of applications at the intersection of crypto and AI. Our first product, Infernet, is pioneering new ground as the first solution to enable developers to access AI models both on-chain via smart contracts and off-chain, demonstrating our commitment to bridging these transformative technologies. About the role As a Distributed Systems Engineer at Ritual, you'll be instrumental in building and scaling our heterogeneous blockchain infrastructure. You'll work on innovative solutions for node specialization, consens",
       "location": "Anywhere in the World",
       "tags": [
-        "Product",
-        "product"
+        "Full-Stack Programming",
+        "full-stack"
       ],
-      "postedAt": "Thu, 01 Oct 2026 07:30:56 +0000",
-      "category": "product"
+      "postedAt": "Sat, 31 Oct 2026 07:31:02 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/gitlab-backend-engineer-knowledge-graph",
+      "source": "weworkremotely",
+      "title": "Backend Engineer, Knowledge Graph",
+      "company": "GitLab",
+      "url": "https://weworkremotely.com/remote-jobs/gitlab-backend-engineer-knowledge-graph",
+      "description": "Headquarters: Remote, Canada; Remote, United States GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven b",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Sat, 31 Oct 2026 07:31:02 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/ritual-developer-experience-engineer",
+      "source": "weworkremotely",
+      "title": "Developer Experience Engineer",
+      "company": "Ritual",
+      "url": "https://weworkremotely.com/remote-jobs/ritual-developer-experience-engineer",
+      "description": "Headquarters: Remote About Ritual&nbsp; Ritual is building a sovereign, execution layer for AI, with our private testnet already live and running. The Ritual chain is the first blockchain custom-built to support AI-native operations, designed from the ground up to enable a new class of applications at the intersection of crypto and AI. Our first product, Infernet, is pioneering new ground as the first solution to enable developers to access AI models both on-chain via smart contracts and off-chain, demonstrating our commitment to bridging these transformative technologies. About the role As a Developer Experience Engineer at Ritual, you will architect and build the foundational tools that enable developers to efficiently build on our infrastructure. You'll create the development frameworks",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Sat, 31 Oct 2026 07:31:02 +0000",
+      "category": "full-stack"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/welocalize-automation-specialist",
@@ -2283,36 +2313,6 @@
       "category": "full-stack"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/databricks-deployment-strategist",
-      "source": "weworkremotely",
-      "title": "Deployment Strategist",
-      "company": "Databricks",
-      "url": "https://weworkremotely.com/remote-jobs/databricks-deployment-strategist",
-      "description": "Headquarters: Remote - India About the Team The FDE (Forward Deployed Engineering) team is a new, strategic initiative sponsored from the CEO and Founders down. Our mission is to win C-suite-sponsored, high-value AI opportunities by selling and delivering outcomes , not just a platform. You will be part of the founding team, embedded with our most strategic customers from the very first sales call, all the way through to a production-ready solution. You will be the \"product manager\" for the customer's problem, responsible for the \"why\" and \"what,\" while our FDEs (Engineers) will be your partners responsible for the \"how.\" Role Description As a Deployment Strategist (DS), you are the critical bridge between a customer's multi-million-dollar business problem and Databricks' technical solutio",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Wed, 14 Oct 2026 07:31:00 +0000",
-      "category": "full-stack"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/toptal-applied-ai-engineers-for-telecommunications-company",
-      "source": "weworkremotely",
-      "title": "Applied AI Engineers for telecommunications company",
-      "company": "Toptal",
-      "url": "https://weworkremotely.com/remote-jobs/toptal-applied-ai-engineers-for-telecommunications-company",
-      "description": "Headquarters: Summary The Senior AI Professional will help design, develop, and optimize production-grade agentic AI solutions. This role complements an existing platform engineering team and focuses on turning AI concepts into reliable, scalable software rather than purely research-oriented work. General information This engagement requires deep hands-on expertise in machine learning and applied AI, with a strong emphasis on prompt optimization, model behavior, agent orchestration, and evaluation. The work will involve collaborating with platform engineers, product teams, and business stakeholders to improve AI quality, reliability, and performance in production environments. Tasks and Deliverables Design, develop, and optimize production-grade agentic AI solutions. Run meaningful evaluat",
-      "location": "USA Only",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Mon, 12 Oct 2026 16:38:01 +0000",
-      "category": "full-stack"
-    },
-    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/sticker-mule-si-agent-engineer",
       "source": "weworkremotely",
       "title": "SI agent engineer",
@@ -2445,21 +2445,6 @@
         "management"
       ],
       "postedAt": "Fri, 23 Oct 2026 07:31:21 +0000",
-      "category": "management"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/netlify-senior-marketing-operations-manager",
-      "source": "weworkremotely",
-      "title": "Senior Marketing Operations Manager",
-      "company": "Netlify",
-      "url": "https://weworkremotely.com/remote-jobs/netlify-senior-marketing-operations-manager",
-      "description": "Headquarters: Remote About the Team Netlify is a product-led growth company, and Revenue Operations owns the systems, data, and infrastructure that turn that growth into revenue.&nbsp; With a large volume of people discovering and signing up for Netlify every day, Marketing Operations is critical to understanding those users, connecting activity across our systems, and creating scalable ways to engage them throughout their journey. As Senior Marketing Operations Manager, you’ll own the operational foundation behind that work. You’ll connect HubSpot, Salesforce, product data, and analytics, build the systems and lifecycle infrastructure that turn signals into action, and give Marketing and our GTM partners trusted visibility into performance. Reporting to the Senior Director of Revenue Oper",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Management and Finance",
-        "management"
-      ],
-      "postedAt": "Thu, 22 Oct 2026 07:31:09 +0000",
       "category": "management"
     },
     {
