@@ -1,7 +1,85 @@
 {
-  "generatedAt": "2026-10-30T22:02:13.752Z",
+  "generatedAt": "2026-10-31T04:19:26.138Z",
   "count": 150,
   "data": [
+    {
+      "id": "de2490df-df77-4bb5-a165-6ff7fbcd2c45",
+      "title": "AI Backend Engineering Manager",
+      "url": "https://remotejobs.org/remote-jobs/ai-backend-engineering-manager-stampli",
+      "apply_url": "https://remotejobs.org/remote-jobs/ai-backend-engineering-manager-stampli",
+      "company": {
+        "name": "Stampli",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/2f2c34f871cdfbde77b334082927a6e9e89bf02801f8c9081bf8b4be14d19e7b.webp",
+        "website": "https://stampli.com",
+        "url": "https://remotejobs.org/companies/stampli"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": null,
+      "location_normalization": {
+        "raw": null,
+        "input": {},
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [],
+        "allowed_regions": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": "manager",
+        "role_family": null,
+        "required_skills": [],
+        "mentioned_skills": [],
+        "preferred_skills": [],
+        "experience_requirements": []
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "1ad0b1eec88ebb55493a47133843030148ae27f038afe6ba69f37999e73e0c23",
+      "direct_apply": null,
+      "description": "<p>We’re hiring an AI Backend Engineering Manager to guide and grow a high-impact ML team driving AI-powered innovation across Stampli’s B2B SaaS platform. You’ll lead the design and delivery of AI solutions while mentoring engineers and setting the technical direction for AI-first development at scale.This is a leadership role with a balance of hands-on engineering and team management, perfect for someone who thrives on solving technical challenges, inspiring a team, and shaping the future of AI in fintech automation.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/ai-backend-engineering-manager-stampli</p>",
+      "posted_at": "2026-10-30T18:59:35+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
     {
       "id": "9bfd44ad-6f4a-49e3-9655-f551e6bd25db",
       "title": "Architect (553)",
@@ -351,6 +429,84 @@
       "direct_apply": null,
       "description": "<h2>We are knowmad mood!</h2>\n<p>Somos una compañía líder en transformación digital, en constante evolución y a la vanguardia de la tecnología.</p>\n<p>Formado por más de 3.000 personas creativas, digitales e innovadoras conectadas a un propósito y capaces de generar conexiones con personas de todo el mundo. Un equipo responsable, flexible y con alta capacidad de adaptación a las necesidades de nuestros clientes y del mercado, a la vez que proporciona valor, visión, creatividad, expertise, profesionalidad y pasión por la tecnología en cada proyecto.</p>\n<h2>Buscamos</h2>\n<p>✅ Experiencia sólida en <strong>Java 11+</strong></p>\n<p>✅ Dominio de <strong>Spring Boot</strong></p>\n<p>✅ Experiencia en diseño y desarrollo de <strong>Microservicios</strong></p>\n<p>✅ Desarrollo e integración de <strong>APIs REST</strong></p>\n<p>✅ Testing con <strong>JUnit 5</strong> y <strong>Mockito</strong></p>\n<p>✅ Experiencia solida en <strong>JSP, Thymeleaf, Javascript, HTML, CSS</strong></p>\n<h2>¿Qué ofrecemos?</h2>\n<ul>\n<li>\n<h2>Contrato indefinido</h2>\n</li>\n<li>\n<p><strong>Modelo de trabajo en remoto</strong> 🏡. Opción de ir a trabajar a oficinas pero siempre a elección del trabajador.</p>\n</li>\n<li>\n<p><strong>Horario flexible</strong> ⏰: horario flexible entrada 8.30h salida 18h con viernes intensivo de 8h a 15h y en verano (julio y agosto) intensivo de 8h a 15h</p>\n</li>\n<li>\n<p><strong>Vacaciones</strong> 🌴: 22 días de vacaciones + 2 días de libre disposición, además de los días 24 y 31 de diciembre libres.</p>\n</li>\n<li>\n<p><strong>Contrato indefinido</strong> 📄: Desde el primer día, con opción de 12 o 14 pagas.</p>\n</li>\n<li>\n<p><strong>Retribución flexible</strong> 💳: Tarjeta restaurante, cheque guardería, seguro médico, formación y otros beneficios con ventajas fiscales.</p>\n</li>\n<li>\n<p><strong>Club de ventajas</strong> 🎁: Descuentos en tecnología, ocio y formación.</p>\n</li>\n<li>\n<p><strong>Formación continua</strong> 📚: Acceso a Udemy Business, cursos de idiomas, certificaciones oficiales y formación técnica. Consulta nuestro calendario aquí:</p>\n</li>\n<li>\n<p><strong>Plan de carrera</strong> 🚀: Acompañamiento para crecer, especializarte o asumir nuevos retos.</p>\n</li>\n<li>\n<p><strong>Bienestar integral</strong> 💚: Programas de nutrición, actividad física y equilibrio emocional.</p>\n</li>\n<li>\n<p><strong>Conciliación +VIDA</strong> 👨 👩 👧 👦: Asistencia personal y familiar 24/7.</p>\n</li>\n<li>\n<p><strong>Ambiente inclusivo</strong> 🌍: Entorno diverso y multicultural.</p>\n</li>\n<li>\n<p><strong>Eventos sociales</strong> 🎮: Actividades para conectar con el equipo.</p>\n</li>\n</ul>\n<p>¡<strong>Apúntate y te daremos más detalles!</strong> 🚀</p>\n<p>Para estar al corriente de nuestras novedades síguenos aquí ->knowmad mood</p>\n<p><em>En</em><strong><em>knowmad mood</em></strong><em>nos comprometemos con la igualdad de oportunidades y el respeto a la diversidad. Aplicamos nuestro Plan de Igualdad y el principio de no discriminación en todos nuestros procesos de selección.</em></p>\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/software-engineer-java-jspthymeleaf-remoto-knowmad-mood</p>",
       "posted_at": "2026-10-30T13:20:52+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "cff3abd9-98dd-4b1b-ab1b-ce2b85f36175",
+      "title": "Full Stack Team Lead",
+      "url": "https://remotejobs.org/remote-jobs/full-stack-team-lead-stampli",
+      "apply_url": "https://remotejobs.org/remote-jobs/full-stack-team-lead-stampli",
+      "company": {
+        "name": "Stampli",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/2f2c34f871cdfbde77b334082927a6e9e89bf02801f8c9081bf8b4be14d19e7b.webp",
+        "website": "https://stampli.com",
+        "url": "https://remotejobs.org/companies/stampli"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": null,
+      "location_normalization": {
+        "raw": null,
+        "input": {},
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [],
+        "allowed_regions": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": "lead",
+        "role_family": null,
+        "required_skills": [],
+        "mentioned_skills": [],
+        "preferred_skills": [],
+        "experience_requirements": []
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "09e564edd001443158e405bf570a4f9042a8b152fcbfa0882065a50ef3382a8d",
+      "direct_apply": null,
+      "description": "<p>Stampli, a B2B SaaS and FinTech innovation leader, is seeking a Full Stack Team Lead to drive AI-first development across our core platform.As an AI-first company, we integrate artificial intelligence into every facet of our operations, from product development to internal processes. In this role, you'll lead a team of 5–6 dedicated full-stack developers, working on cutting-edge technologies to enhance user experiences and data-driven solutions.You'll have the autonomy to make technical decisions and support other developers in a collaborative environment.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/full-stack-team-lead-stampli</p>",
+      "posted_at": "2026-10-30T09:00:21+00:00",
       "is_translated": false,
       "original_language": null
     },
@@ -4574,208 +4730,6 @@
       "direct_apply": null,
       "description": "<p><strong>Overview</strong><br><br></p><p>At SCA Health, we believe <strong>health care is about people</strong> – the patients we serve, the physicians we support and the teammates who push us forward. Behind every successful facility, procedure or innovation is a team of 15,000+ professionals working together, learning from each other and living out the <strong>mission, vision and values</strong> that define our organization. </p><p>As part of Optum, SCA Health is redefining specialty care by developing more accessible, patient-centered practice solutions for a network of more than 370 ambulatory surgical centers, over 400 specialty physician practice clinics and numerous labs and surgical hospitals. Our work spans a broad spectrum of services, all designed to support physicians, health systems and employers in delivering efficient, value-based care to patients without compromising quality or autonomy.  </p><p><strong>What sets SCA Health apart isn’t just what we do, it’s how we do it</strong>. Each decision we make is rooted in <strong>seven core values</strong>: </p><ul>\n<li><strong>Clinical quality</strong></li>\n<li><strong>Integrity</strong></li>\n<li><strong>Service excellence</strong></li>\n<li><strong>Teamwork</strong></li>\n<li><strong>Accountability</strong></li>\n<li><strong>Continuous improvement</strong></li>\n<li><strong>Inclusion</strong></li>\n</ul><p>Our values aren’t empty words – they inform our attitudes, actions and culture. At SCA Health, your work directly impacts patients, physicians and communities. Here, you’ll find opportunities to build your career alongside a team that values your expertise, invests in your success, and shares a common mission to care for patients, serve physicians and improve health care in America.    </p><p>At SCA Health, we offer a comprehensive benefits package to support your health, well-being, and financial future. Our offerings include medical, dental, and vision coverage, 401k plan with company match, paid time off, life and disability insurance, and more. Please visit,  to learn more about our benefits.</p><p>Your ideas should inspire change. If you join our team, <strong>they will</strong>. </p><p><br><strong>Responsibilities</strong><br><br></p><p>The Technical Lead drives the technical direction of our engineering team, ensuring the delivery and ongoing support of scalable, high quality, and reliable software solutions. This role blends hands on engineering, architecture, leadership, and production support ownership, guiding developers through the full lifecycle, from design and build to deployment, monitoring, and operational excellence.</p><p>This position is ideal for someone passionate about building and supporting customer‑facing applications in a highly available, production‑ready environment. The Technical Lead leverages Agile principles, DevOps practices, modern cloud‑native technologies, and AI‑enabled capabilities to improve developer productivity, system reliability, operational efficiency, and service quality. A strong problem solver who balances technical depth with business awareness and responsible AI adoption will thrive in this role.</p><h2>Key Responsibilities</h2><p>The Technical Lead will have a broad set of responsibilities including, but not limited to, the following:</p><h2>Technical Leadership &#x26; Delivery</h2><ul>\n<li>Lead a team of onshore and offshore engineers through design, development, code reviews and releases of .NET applications.</li>\n<li>Translate complex business problems into technical solutions</li>\n<li>Lead large software initiatives from ideation through delivery, deployment, and post production stabilization.</li>\n<li>Play a critical role in architecture, design, and technical decision making, with a strong emphasis on reliability, scalability, and maintainability.</li>\n<li>Write well designed, well tested, readable, and maintainable code aligned with enterprise standards.</li>\n<li>Participate in and lead code reviews to ensure quality, consistency, and knowledge sharing.</li>\n<li>Improve adherence to coding standards, test practices, secure coding techniques, and architectural guidelines.</li>\n<li>Evaluate and adopt AI‑enabled tools and frameworks (e.g., developer copilots, AI‑assisted testing, code quality, and observability tools) to improve engineering efficiency and solution quality.</li>\n</ul><h2>Cross Functional Collaboration</h2><ul>\n<li>Collaborate with App dev, PMO, QA, DevOps, and business stakeholders to:<ul>\n<li> Define and maintain a technically feasible roadmap</li>\n<li> Scope, design, and deliver solutions addressing business needs</li>\n<li> Balance feature delivery with stability and supportability</li>\n</ul>\n</li>\n<li>Build strong relationships across teams, creating and maintaining trust with business Stakeholders</li>\n<li>Communicate technical and AI‑related concepts clearly to both technical and non‑technical audiences.</li>\n</ul><h2>People &#x26; Process Leadership</h2><ul>\n<li>Possess strong interpersonal and leadership skills</li>\n<li>Mentor and coach engineers, with focus on production ownership, operational awareness, and engineering maturity.</li>\n<li>Foster a culture of continuous improvement, accountability, and operational excellence.</li>\n<li>Champion Agile best practices, including CI/CD, test driven development, and continuous improvement of delivery and support processes.</li>\n<li>Act as an AI change agent, guiding the team through the evolving AI landscape and helping engineers adopt AI tools effectively and responsibly.</li>\n</ul><p><br><strong>Qualifications</strong><br><br></p><h2>Education</h2><ul>\n<li>Bachelor’s degree in computer science, Information Technology, or related field required</li>\n<li>Master’s degree preferred</li>\n</ul><h2>Experience</h2><ul>\n<li>2+ years of proven success as a Technical Lead in application development space</li>\n<li>8+ years of experience with Microsoft stack technologies:<ul><li>NET/ .NET Core, C#, Visual Studio, Entity Framework, SQL Server</li></ul>\n</li>\n</ul><ul><li>Front end technologies:<ul>\n<li>JavaScript, jQuery, HTML, CSS</li>\n<li>Angular (v18), React (v16)</li>\n</ul>\n</li></ul><ul><li>Cloud &#x26; DevOps:<ul>\n<li>Azure services (Functions, Service Bus, Key Vault, etc.) or equivalent</li>\n<li>Azure DevOps</li>\n<li>CI/CD pipelines and DevOps practices</li>\n</ul>\n</li></ul><ul>\n<li>Strong experience building component based, responsive web applications.</li>\n<li>Experience supporting enterprise scale production systems, preferably in regulated industries (Healthcare preferred).</li>\n<li>Experience with:<ul>\n<li>Agile methodologies (Scrum, Kanban, SAFe)</li>\n<li>Transactional databases and caching strategies</li>\n<li>Test driven development, unit/integration testing</li>\n<li>Public and internal APIs, integration frameworks</li>\n<li>Microservices and event driven architectures</li>\n<li>Performance tuning and troubleshooting production systems</li>\n<li>Secure software development practices</li>\n</ul>\n</li>\n</ul><ul>\n<li>Demonstrated ability to lead and influence without authority.</li>\n<li>Excellent communication, collaboration, and stakeholder management skills.</li>\n<li>Strong balance of technical depth, operational mindset, and business priorities.</li>\n<li>Experience with AI assisted development tools (e.g., GitHub Copilot, Azure OpenAI, AI based code quality or observability tools).</li>\n</ul><h2>Preferred / Nice to Have Qualifications</h2><ul>\n<li>Experience with AI assisted development tools (e.g., GitHub Copilot, Azure OpenAI, AI based code quality or observability tools).</li>\n<li>Exposure to AI/ML enabled features such as intelligent search, recommendations, chatbots, or automation within enterprise applications.</li>\n<li>Familiarity with responsible AI practices, data privacy, and secure AI integration in enterprise environments.</li>\n</ul><p> USD $135,000.00/Yr. USD $150,000.00/Yr.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/lead-applications-developer-sca-health</p>",
       "posted_at": "2026-10-27T13:18:08+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "47595009-4545-497e-bc65-9f3290371976",
-      "title": "Windchill Backend Developer",
-      "url": "https://remotejobs.org/remote-jobs/windchill-backend-developer-bright-vision-technologies",
-      "apply_url": "https://remotejobs.org/remote-jobs/windchill-backend-developer-bright-vision-technologies",
-      "company": {
-        "name": "Bright Vision Technologies",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/f8d667262351dad5c9be7c05a72cb2b3edb13fa582bdc4af986fe358fc824c54.webp",
-        "website": "https://bright.com",
-        "url": "https://remotejobs.org/companies/bright-vision-technologies"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "United States",
-      "location_normalization": {
-        "raw": "United States",
-        "input": {},
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [],
-        "evidence_ids": [
-          "source-location"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "remote",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": null,
-        "role_family": "software-engineering",
-        "required_skills": [],
-        "mentioned_skills": [
-          "java",
-          "sql"
-        ],
-        "preferred_skills": [],
-        "experience_requirements": []
-      },
-      "salary_min": 120000,
-      "salary_max": 135000,
-      "salary_text": "USD 120,000–135,000/year",
-      "salary_source_text": "USD 120000 - 135000",
-      "salary_currency": "USD",
-      "salary_period": "year",
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<p>Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and enterprise solutions across the United States.<br><br>This is a fantastic opportunity to join an established and well-respected organization offering tremendous career growth potential.<br><br><strong>Job Title:</strong> Windchill Backend Developer<br><strong>Location:</strong> 100% Remote (U.S.)<br><strong>Position Type:</strong> Full-time, Direct W2<br><strong>Salary Range:</strong> $120,000–$135,000 Annually<br><strong>Experience Required:</strong> 6+ years<br><br><strong>Sponsorship:</strong> U.S. Citizens, Green Card Holders, EAD Holders, and H-1B transfer candidates are encouraged to apply. We are unable to sponsor new H-1B visa petitions for this position.<br><br><strong>Job Summary:</strong><br>We are seeking an experienced Windchill Backend Developer focused on deep, low-level Windchill customizations using Java, PTC APIs, and PTC’s customization frameworks. This role suits engineers who enjoy working close to the platform, extending its behavior through services, listeners, and processors while preserving a clean and upgrade-friendly customization layer. The ideal candidate will bring strong Java fundamentals, deep familiarity with the Windchill platform internals, and a disciplined, performance-aware engineering style. In this role you will work closely with cross-functional partners — product, design, engineering, operations, and business stakeholders — to translate ambiguous requirements into well-engineered solutions, and will be expected to raise the bar through code review, design review, and mentorship of more junior engineers. The successful candidate brings strong engineering discipline, a clear communication style, and a track record of shipping meaningful work that holds up well in production.<br><br><strong>Required Qualifications</strong></p><ul>\n<li>Bachelor’s degree in Computer Science, Engineering, or a related technical discipline.</li>\n<li>Five or more years of Java development experience, with strong focus on Windchill customization.</li>\n<li>Deep, hands-on experience with the Windchill Java API and customization frameworks.</li>\n<li>Solid understanding of Windchill data model, lifecycle, and workflow internals.</li>\n<li>Strong Java OO design and performance-engineering skills.</li>\n<li>Experience with JSP, HTML, and Windchill client-side customization.</li>\n<li>Hands-on experience with Type and Attribute Management (TAM).</li>\n<li>Strong SQL skills and familiarity with Oracle or SQL Server.</li>\n<li>Experience supporting Windchill upgrades.</li>\n<li>Excellent troubleshooting and documentation skills.</li>\n</ul><p><br><strong>Preferred Qualifications</strong></p><ul>\n<li>PTC Windchill development certifications.</li>\n<li>Experience with PTC ThingWorx development.</li>\n<li>Exposure to Windchill RV&#x26;S customization.</li>\n<li>Familiarity with CI/CD tooling for Windchill.</li>\n<li>Experience operating Windchill in the cloud.</li>\n</ul><p><br><strong>How to Apply</strong><br><br>Would you like to know more about this opportunity? For immediate consideration, please send your resume to  or contact us at (908)676-4399. Learn more about Bright Vision Technologies at .<br><br>Bright Vision Technologies is an Equal Opportunity Employer.</p><p>Equal Employment Opportunity (EEO) Statement</p><p>Bright Vision Technologies (BV Teck) is committed to equal employment opportunity (EEO) for all employees and applicants without regard to race, color, religion, sex, sexual orientation, gender identity or expression, national origin, age, genetic information, disability, veteran status, or any other protected status as defined by applicable federal, state, or local laws. This commitment extends to all aspects of employment, including recruitment, hiring, training, compensation, promotion, transfer, leaves of absence, termination, layoffs, and recall.</p><p>BV Teck expressly prohibits any form of workplace harassment or discrimination. Any improper interference with employees' ability to perform their job duties may result in disciplinary action up to and including termination of employment.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/windchill-backend-developer-bright-vision-technologies</p>",
-      "posted_at": "2026-10-27T13:08:29+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "4fbb5648-b23e-45fc-be7c-7001b87960db",
-      "title": "Backend Software Engineer",
-      "url": "https://remotejobs.org/remote-jobs/backend-software-engineer-soum",
-      "apply_url": "https://remotejobs.org/remote-jobs/backend-software-engineer-soum",
-      "company": {
-        "name": "Soum",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/9444b76ab5c39d7fe8dccd2f323646f537ac23a9d55a325a854287878e9df4fb.webp",
-        "website": "https://soum.io",
-        "url": "https://remotejobs.org/companies/soum"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "Egypt, Uzbekistan",
-      "location_normalization": {
-        "raw": "Egypt, Uzbekistan",
-        "input": {},
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "EG",
-          "UZ"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [
-          "Asia/Riyadh"
-        ],
-        "conditions": [
-          {
-            "kind": "timezone",
-            "areas": [],
-            "effect": "context",
-            "details": "Work Timings: Sunday to Thursday, 9:00 AM – 6:00 PM (KSA time); work week stated as Sunday - Thursday.",
-            "regions": [],
-            "timezones": [
-              "Asia/Riyadh"
-            ],
-            "evidence_id": "c1",
-            "conditional_on": null
-          }
-        ],
-        "unresolved": [],
-        "evidence_ids": [
-          "c1",
-          "source-location"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "EG",
-          "UZ"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "partial",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": null,
-        "role_family": "software-engineering",
-        "required_skills": [
-          "aws",
-          "nodejs",
-          "postgresql",
-          "typescript"
-        ],
-        "mentioned_skills": [
-          "nodejs",
-          "postgresql",
-          "typescript"
-        ],
-        "preferred_skills": [
-          "docker",
-          "golang",
-          "kubernetes"
-        ],
-        "experience_requirements": []
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": null,
-      "salary_period": "year",
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<p>Work Week: Sunday - Thursday</p><p>Work Timings: <strong>Sunday to Thursday, 9:00 AM – 6:00 PM (KSA time)</strong>\n</p><h2>About Us</h2><p>At Soum, we're on a mission to build a marketplace that enables users to buy and sell anything online with convenience, trust, and ease, starting in the MENA market. We began with second-hand electronics in KSA, becoming market leaders, and are now expanding to used cars and collectibles. In just two years, we've facilitated hundreds of thousands of transactions across 150+ locations in the Kingdom, maintained 10,000 active listings at any given time, earned the distinction of being the 10th most downloaded e-commerce app in KSA for 2023, and received more than 5 million app downloads. </p><h2>Job Summary</h2><p>We are seeking a skilled and motivated Backend Software Engineer to join our dynamic team. As a Backend Software Engineer, you will play a critical role in designing, developing, and maintaining scalable backend systems and microservices that power our products.</p><p>If you have a strong foundation in backend development, enjoy solving complex problems, and thrive in a collaborative environment, we want to hear from you.</p><h2>Role &#x26; Responsibilities</h2><ul><ul>\n<li><p>Design, develop, and maintain backend systems using Node.js, TypeScript, and Nest.js.</p></li>\n<li><p>Build and manage scalable microservices architecture with a focus on performance and reliability.</p></li>\n<li><p>Develop APIs and handle inter-service communication using gRPC.</p></li>\n<li><p>Work with MongoDB, PostgreSQL, and ClickHouse for data modeling, storage, and optimization.</p></li>\n<li><p>Collaborate with cross-functional teams to understand requirements and deliver high-quality solutions.</p></li>\n<li><p>Ensure code quality and maintainability through best practices, code reviews, and testing.</p></li>\n<li><p>Troubleshoot, debug, and optimize backend systems to ensure seamless performance.</p></li>\n</ul></ul><h2>Requirements &#x26; Qualifications</h2><ul>\n<h2>Required Skills</h2>\n<ul><li><p>Design, develop, and maintain backend systems using Node.js, TypeScript, and Nest.js.</p></li><li><p>Build and manage scalable microservices architecture with a focus on performance and reliability.</p></li><li><p>Develop APIs and handle inter-service communication using gRPC.</p></li><li><p>Work with MongoDB, PostgreSQL, and ClickHouse for data modeling, storage, and optimization.</p></li><li><p>Strong understanding of CI/CD pipelines and deployment strategies.</p></li><li><p>Familiarity with cloud platforms like<strong> AWS, GCP, or Azure.</strong></p></li><li><p>Knowledge of distributed systems and event-driven architectures.</p></li></ul><h2>Qualifications</h2>\n<ul><li><p>Bachelor's degree in Computer Science, Engineering, or a related field, or equivalent practical experience.</p></li><li><p><strong>4–5+ years of hands-on experience in backend software development.</strong></p></li><li><p>Proficient in <strong>Node.js and TypeScript.</strong></p></li><li><p>Experience working with <strong>MongoDB and PostgreSQL</strong> in production environments.</p></li><li><p>Solid understanding of microservices architecture and communication protocols like gRPC.</p></li><li><p>Strong problem-solving skills and attention to detail.</p></li><li><p>Excellent communication and collaboration skills.</p></li></ul></ul><h2>Nice to Have</h2><ul>\n<ul><li><p>Hands-on experience with Kubernetes and Docker.</p></li><li><p>Exposure to Golang for building performant backend components.</p></li><li><p>Experience in scaling and optimizing backend systems for high-traffic applications.</p></li></ul></ul><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/backend-software-engineer-soum</p>",
-      "posted_at": "2026-10-27T12:57:52+00:00",
       "is_translated": false,
       "original_language": null
     },
@@ -9585,6 +9539,84 @@
       "original_language": null
     },
     {
+      "id": "1045fa6f-90d2-417b-a9bf-9def8ce69c1a",
+      "title": "Senior Machine Learning Engineer",
+      "url": "https://remotejobs.org/remote-jobs/senior-machine-learning-engineer-stampli",
+      "apply_url": "https://remotejobs.org/remote-jobs/senior-machine-learning-engineer-stampli",
+      "company": {
+        "name": "Stampli",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/2f2c34f871cdfbde77b334082927a6e9e89bf02801f8c9081bf8b4be14d19e7b.webp",
+        "website": "https://stampli.com",
+        "url": "https://remotejobs.org/companies/stampli"
+      },
+      "category": {
+        "name": "Data Science",
+        "slug": "data-science"
+      },
+      "location": null,
+      "location_normalization": {
+        "raw": null,
+        "input": {},
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [],
+        "allowed_regions": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": "senior",
+        "role_family": "data-science",
+        "required_skills": [],
+        "mentioned_skills": [],
+        "preferred_skills": [],
+        "experience_requirements": []
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "d0a8f2f3da3045b5185be223ca875f567b41cdcf302aae1c9bd6053037b3bc01",
+      "direct_apply": null,
+      "description": "<p>We’re hiring a ML Engineer to accelerate AI-driven innovation across Stampli’s B2B SaaS platform.You’ll be at the forefront of building intelligent systems that power core product experiences and automate internal operations, driving efficiency, speed, and scale across the organization. This is a high-impact, hands-on role in a fast-growing, AI-first company where machine learning is a foundational pillar, not a bolt-on feature. You'll partner with product, engineering, and operations teams to design and implement powerful ML and LLM-based solutions that make a measurable difference.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-machine-learning-engineer-stampli</p>",
+      "posted_at": "2026-10-30T11:21:11+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
       "id": "c5a3e47b-2f09-4c73-bbc2-a4bbd0ce056e",
       "title": "AI Trainers Network - Canadian French",
       "url": "https://remotejobs.org/remote-jobs/ai-trainers-network-canadian-french-welo-global",
@@ -13975,109 +14007,6 @@
       "direct_apply": null,
       "description": "<p><strong>Who We Are</strong></p><p>Great Minds is a high-growth, mission-driven organization founded by educators in 2007. As a for-profit, Public Benefit Corporation, we believe all students deserve access to meaningful, challenging content—and all teachers deserve tools that are intuitive, effective, and built for the realities of today’s classrooms.</p><p>We develop high-quality, knowledge-rich math, science and ELA curricula grounded in research and designed in collaboration with educators. Our materials reflect real classroom needs and are built to drive lasting student outcomes.</p><p>We are committed to usability, coherence, and practical implementation—supporting teachers not just through curriculum, but with professional learning, purposeful technology, and responsive service that enable strong adoption and impact.</p><p><strong>What We Build</strong></p><p>Our products—<strong>Eureka Math and </strong>Eureka Math², <strong>Wit &#x26; Wisdom</strong>, <strong>Geodes</strong>, and the newly launched <strong>Arts &#x26; Letters ELA</strong>—are trusted by thousands of schools and districts nationwide.</p><ul><li><p><strong>Eureka Math</strong> is the most widely used math curriculum in the U.S., and is focused on balancing conceptual understanding, procedural fluency, and application.</p></li><li><p><strong>Wit &#x26; Wisdom®</strong> and <strong>Arts &#x26; Letters ELA™</strong> anchor our reading strategy with content-rich, grade-level instruction that integrates literature, history, and the arts, grounded in the science of reading. <strong>Geodes®</strong> complements our reading suite with decodable texts that pair phonics with meaningful content to support early literacy.</p></li></ul><p>These programs reflect a shared belief in high expectations, joyful rigor, and deep respect for educators and students.</p><p><strong>Where We’re Headed</strong></p><p>Great Minds is entering a new stage of growth and product maturity. We are focused on building more connected, customer-informed experiences across the full educator journey—from curriculum to professional learning to platform and support.</p><p>Our long-term vision is to become a true partner in impact—not just delivering curriculum, but supporting educators in achieving outcomes at scale.</p><p><strong><br>Job Purpose</strong></p><p>Great Minds is looking for an analytically minded, and strategically curious professional to join our Strategy and Analytics team as an Analyst, Strategy &#x26; Analytics. Our team partners with leaders across the enterprise on Great Minds’ more important strategic priorities. We use data to inform strategy, evaluate performance, and help the organization accelerate progress toward its goals.</p><p>In this role, you will use data to drive insights, helping leaders across the organization understand what is happening and why, make the case for change, implement process improvements, and build analytical tools to support these changes.</p><p><strong><br>Responsibilities</strong></p><p>The duties and responsibilities include, but are not limited to, the following:</p><ul><li><p>Partner with stakeholders to understand their highest-priority issues that can be addressed with data, prototypes, discussion, and mock-ups</p></li><li><p>Track down and integrate the critical datasets needed to uncover actionable insights, building expertise in our data systems and structures across operational, financial and accounting, customer management, and digital platform applications</p></li><li><p>Perform critical analyses across disparate sources using a variety of analytical tools and methods to derive actionable insights</p></li><li><p>Create compelling cases for change through targeted analytics and storytelling, tailored for senior leaders</p></li><li><p>Apply rapid-cycle hypothesis testing and proofs of concept to help build and scale new tools, processes, and ways of working</p></li><li><p>Contribute to team-wide strategic projects that elevate business understanding, improve operational efficiency, and build data infrastructure and reporting capabilities</p></li></ul><p><strong>Requirements</strong></p><ul><li><p>1+ years of experience in analytics, data science, finance, management consulting, or another analytical role where data-driven analysis and execution were critical to success</p></li><li><p>Strong analytical skills, with familiarity with SQL and data visualization tools (e.g., Tableau, Power BI)</p></li><li><p>Experience using data to uncover advanced business and customer insights</p></li><li><p>Experience creating compelling presentations that concisely share data and insights in a form suitable for senior leaders</p></li><li><p>Intellectual curiosity and comfort navigating ambiguity and unfamiliar domains</p></li><li><p>Strong written and verbal communication skills across technical and non-technical audiences</p></li><li><p>Ability to work across multiple projects and balance competing demands, with strong time management skills</p></li><li><p>Team player with a commitment to excellence and a high level of integrity<strong><br></strong></p></li></ul><p><strong>Qualifications</strong></p><ul><li><p>Interest in K-12 public education and an understanding of how data can drive change, from leadership to the classroom</p></li><li><p>Working knowledge of the full data analytics pipeline (e.g., data gathering, ETL, automation, engineering, databases and storage, cleaning and reshaping, analysis, visualization), including data models, database design, data mining, and segmentation techniques</p></li><li><p>Experience working with data from CRM and ERP systems</p></li><li><p>Experience in consulting, transformation, or project-based environments<strong><br></strong></p></li></ul><p><strong>Required Education</strong></p><p>Bachelor’s degree in Finance, Math, Computer Science, Engineering, or another quantitative discipline</p><p><strong><br></strong></p><p><strong>Status</strong></p><p>Full-time, permanent <br></p><p><strong>Location</strong></p><p>Remote<strong><br></strong></p><p>The expected base salary range for this position is $61,000-$70,000, however the offered salary<strong> </strong>may be higher or lower than the above range dependent on numerous factors including, but not limited to location, work experience, skills and internal equity considerations. The base salary is not inclusive of benefits or other incentives.</p><p>A cover letter and resume are required to be considered for this position.</p><p>New employees will be required to successfully complete a background check.</p><p>Any communication to applicants relating to the Great Minds hiring process will only come from email addresses with the domains <strong><a href=\"http://greatminds.org/\">greatminds.org</a></strong> or <strong><a href=\"http://greatminds.recruitee.com/\">greatminds.recruitee.com</a></strong>. If in the course of the application or hiring process with Great Minds you are contacted through another domain, are requested to provide banking or other sensitive information, or you note any other suspicious activity, please contact <a href=\"mailto:security@greatminds.org\">security@greatminds.org</a></p><p>Great Minds is an equal opportunity employer. We will extend equal opportunity to all individuals without regard to race, religion, color, sex (including pregnancy, sexual orientation, and gender identity), national origin, disability, age, genetic information, or any other status protected under applicable federal, state, or local laws. Our policy reflects and affirms the organization’s commitment to the principles of fair employment and the elimination of all discriminatory practices.</p><p>#LI-Remote #LI-Hybrid</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/analyst-strategy-analytics-great-minds</p>",
       "posted_at": "2026-10-23T00:00:00+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "bd20fb8e-1985-436a-8d33-5947e4d7a9ff",
-      "title": "Senior Associate,  Business Lending",
-      "url": "https://remotejobs.org/remote-jobs/senior-associate-business-lending-wealthsimple-technologies",
-      "apply_url": "https://remotejobs.org/remote-jobs/senior-associate-business-lending-wealthsimple-technologies",
-      "company": {
-        "name": "Wealthsimple Technologies",
-        "logo_url": null,
-        "website": "https://wealthsimple.com",
-        "url": "https://remotejobs.org/companies/wealthsimple-technologies"
-      },
-      "category": {
-        "name": "Data Science",
-        "slug": "data-science"
-      },
-      "location": "Remote (Canada)",
-      "location_normalization": {
-        "raw": "Remote (Canada)",
-        "input": {
-          "workArrangement": "remote"
-        },
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "remote",
-        "allowed_countries": [
-          "CA"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "worksite_countries": [
-          "CA"
-        ],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "partial",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [
-          "Company benefit allows work outside Canada for up to 90 days per year, but the footnote excludes certain roles and the source does not say whether this role is excluded; the geographic permission cannot be fully represented."
-        ],
-        "evidence_ids": [
-          "source-location"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "remote",
-        "allowed_countries": [
-          "CA"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": "senior",
-        "role_family": null,
-        "required_skills": [],
-        "mentioned_skills": [
-          "python",
-          "sql"
-        ],
-        "preferred_skills": [
-          "aws"
-        ],
-        "experience_requirements": [
-          {
-            "text": "5+ years of experience in small business lending",
-            "maximum_years": null,
-            "minimum_years": 5,
-            "classification": "mentioned"
-          }
-        ]
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": null,
-      "salary_period": null,
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": "9e46b33a-fb0a-4b41-9669-7bf83d2c759c",
-      "direct_apply": null,
-      "description": "<h2><strong>Build something people love</strong></h2>\n<p>Wealthsimple is Canada’s leading financial innovator. The company offers a full suite of simple, sophisticated financial products across managed investing, do-it-yourself trading, cryptocurrency, tax filing, spending and saving. Wealthsimple currently serves more than 4 million Canadians and holds over $169 billion in assets under administration. The company was founded in 2014 by a team of financial experts and technology entrepreneurs, and is headquartered in Toronto, Canada.</p>\n<p>We're proud of what we've built — and we're just getting started. Read our <a href=\"https://www.wealthsimple.com/en-ca/culture\">Culture Manual</a> and learn more about <a href=\"https://www.wealthsimple.com/en-ca/careers\">how we work</a>.</p>\n<p><strong>About the team:</strong></p>\n<p>At Wealthsimple, we aren't just managing portfolios; we're rewriting the rules of how Canadians interact with credit. The Credit Analytics team own’s Wealthsimple's lending ecosystem, operating at the intersection of high-growth tech and data-driven underwriting.</p>\n<p>We believe that being “credit-worthy” should mean more than just a traditional score. Our mission is to challenge the status quo, building inclusive products that empower millions of Canadians and the businesses they run to lead better financial lives. We’re growing fast, moving from small data to massive scale through iteration and experimentation.</p>\n<p>We are extending our consumer credit expertise into business lending built for Canadian small and medium-sized businesses (SMBs). This is a true green-field build — new adjudication policy, new underwriting signals, and new risk infrastructure, informed by everything we've learned scaling our consumer card portfolio.</p>\n<p><strong>About the role:</strong></p>\n<p>We are looking for a Senior Associate to own credit policy for our business lending products, starting with a business credit card — from adjudication through the full account lifecycle. You will design and implement the underwriting framework that determines who qualifies and at what limit, build the line management strategies that govern how those limits evolve, and partner closely with collections to manage risk once accounts are on book.</p>\n<p>Small business cards can be underwritten on the owner, or on the business as it grows. You’ll be working with cash flow, seasonality, industry, and business bureau data, which is usually thinner and messier than consumer bureau data. We need someone who has worked across that range and can turn it into automated policy instead of file-by-file decisions.</p>\n<p>You will collaborate cross-functionally with Engineering, Product, Data Science, Fraud, and Client Experience to translate policy into shippable adjudication and monitoring systems, and you will have significant ownership over how this portfolio’s risk appetite is defined from day one.</p>\n<p><strong>In this role, you will have the opportunity to:</strong></p>\n<ul>\n<li>\n<p>Build a new lending program from the ground up with the breadth to see every part of it, from policy to funding, and the runway to grow into leading a lending line of business.</p>\n</li>\n<li>\n<p>Design and own the adjudication policy for a new business credit card, including entity-level underwriting criteria, principal/guarantor assessment, joint-liability, initial limit-setting, and approval decisioning.</p>\n</li>\n<li>\n<p>Own line management strategy for business credit products: credit limit increases and decreases, pricing, authorization rules, and active exposure management driven by cash-flow and balance monitoring.</p>\n</li>\n<li>\n<p>Partner with the collections team to design risk-managed treatment strategies specific to business accounts, and to build lifecycle monitoring that catches emerging risk early.</p>\n</li>\n<li>\n<p>Evaluate the performance of the business lending portfolio and your policies, using vintage analysis, cohort tracking, and champion/challenger testing to validate and refine underwriting decisions.</p>\n</li>\n<li>\n<p>Propose policy enhancements that improve marginal profitability while keeping risk within appetite, informed by rigorous root-cause analysis rather than surface-level metrics.</p>\n</li>\n<li>\n<p>Help define the data and underwriting infrastructure needed for SMB lending — including how to source, validate, and weigh business financial data alongside traditional bureau signals.</p>\n</li>\n<li>\n<p>Influence roadmaps across partner teams (Engineering, Product, Data Science, Fraud, and Client Experience) and implement policy that drives measurable impact.</p>\n</li>\n</ul>\n<p><strong>We're looking for someone who:</strong></p>\n<ul>\n<li>\n<p>Has direct experience underwriting or setting credit policy for small and medium-sized businesses, this is a must-have for this role. Card experience isn't required; we'd love to hear from you if your background is in instalment loans or lines of credit.</p>\n</li>\n<li>\n<p>Writes SQL hands-on to self-serve data and build monitoring and analytics.</p>\n</li>\n<li>\n<p>Brings credit discipline to a ship-and-iterate environment, and is comfortable shaping policy while the product itself is still being defined.</p>\n</li>\n<li>\n<p>Can turn analysis into a clear recommendation for technical and non-technical audiences, weigh incomplete or noisy information and still reach well-grounded decisions.</p>\n</li>\n<li>\n<p>Is intellectually curious, passionate about their work, and wants ownership over their projects.</p>\n</li>\n</ul>\n<p><strong>Preferred qualifications:</strong></p>\n<ul>\n<li>\n<p>5+ years of experience in small business lending</p>\n</li>\n<li>\n<p>Knowledge of Canadian consumer credit bureau data (Equifax, TransUnion)</p>\n</li>\n<li>\n<p>Working knowledge of how business credit risk differs from consumer credit risk: entity vs. personal guarantor assessment, business bureau data (e.g., business credit bureaus), cash-flow-based underwriting, industry/sector risk, and revenue seasonality.</p>\n</li>\n<li>\n<p>Experience across the credit lifecycle: adjudication policy, line management, pricing, and collections strategy.</p>\n</li>\n<li>\n<p>Experience with statistical/quantitative analysis: experimental design, champion/challenger (or A/B) testing, model accuracy validation, constrained optimization, decision trees, discounted cash flows, financial modeling.</p>\n</li>\n<li>\n<p>Experience with Python, and GitHub. Airflow, AWS Redshift, and dbt are a plus.</p>\n</li>\n</ul>\n<h2><strong>Why Wealthsimple?</strong></h2>\n<p>🌸 Top-tier health benefits and life insurance</p>\n<p>📈 Long-term group savings with employer match, through Wealthsimple for Business</p>\n<p>🌴 20 vacation days, 4 wellness days, and unlimited sick and mental health days per year*</p>\n<p>✈️ 90 days away: work outside Canada for up to 90 days per year*</p>\n<p>👥 Employee resource groups, including Rainbow (2SLGBTQ), Women of WS, and Black at WS</p>\n<p>🌎 We are a hybrid team with over 1,500 employees across North America. The people are one of the best parts of working here: you'll collaborate with incredibly talented, curious, and driven teammates who are deeply committed to doing great work.<br>\n<br>\n*Unlimited paid sick days, Wellness Days and the 90 day away program do not apply to certain roles.</p>\n<h2><strong>ICYMI</strong></h2>\n<p><strong>Technology &#x26; Innovation at Wealthsimple:</strong> We move quickly and build thoughtfully. That means we're always looking for better ways to work — whether that's new tools, AI, or rethinking how we approach a problem. We don't expect you to have all the answers, but we do expect curiosity and a willingness to evolve alongside the products we're building.</p>\n<p><strong>Inclusion Statement:</strong> We're building products for a diverse world, and we need a diverse team to do it well. We strongly encourage applications from everyone, regardless of race, religion, colour, national origin, gender, sexual orientation, age, marital status, or disability status.</p>\n<p><strong>Accessibility Statement:</strong> We're committed to an accessible hiring experience. If you need any accommodations throughout the interview process, please let us know — we'll work with you to make sure you have what you need. We also welcome any feedback on how we can better accommodate candidates with accessibility needs.</p>\n<p><strong>AI in Hiring: </strong>We may use artificial intelligence (AI) tools to support parts of our hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our team but don't replace human judgment – all final hiring decisions are made by people. If you have questions about how your data is used, reach out to us.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-associate-business-lending-wealthsimple-technologies</p>",
-      "posted_at": "2026-10-22T21:16:57.671+00:00",
       "is_translated": false,
       "original_language": null
     }
