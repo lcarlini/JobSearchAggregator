@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T16:56:08.236Z",
+  "generatedAt": "2026-10-31T21:06:03.304Z",
   "count": 150,
   "data": [
     {
@@ -2464,7 +2464,29 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "c2"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "GB"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -4272,6 +4294,113 @@
       "original_language": null
     },
     {
+      "id": "cf1c6fa1-88f3-4792-b445-01025de5aff2",
+      "title": "Senior Software Engineer - Frontend",
+      "url": "https://remotejobs.org/remote-jobs/senior-software-engineer-frontend-hinge-health",
+      "apply_url": "https://remotejobs.org/remote-jobs/senior-software-engineer-frontend-hinge-health",
+      "company": {
+        "name": "Hinge Health",
+        "logo_url": null,
+        "website": null,
+        "url": "https://remotejobs.org/companies/hinge-health"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "San Francisco-HQ",
+      "location_normalization": {
+        "raw": "San Francisco-HQ",
+        "input": {
+          "workArrangement": "hybrid"
+        },
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [
+          "san francisco-hq"
+        ],
+        "work_arrangement": "hybrid",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "worksite_countries": [
+          "US"
+        ],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [
+          {
+            "kind": "timezone",
+            "areas": [],
+            "effect": "require",
+            "details": "Required to be in the office for the full 8 hours of a typical business day, 3 days per week.",
+            "regions": [],
+            "timezones": [],
+            "evidence_id": "c2",
+            "conditional_on": null
+          }
+        ],
+        "unresolved": [],
+        "evidence_ids": [
+          "c2"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "hybrid",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": "senior",
+        "role_family": "software-engineering",
+        "required_skills": [],
+        "mentioned_skills": [
+          "aws",
+          "docker",
+          "golang",
+          "javascript",
+          "kubernetes",
+          "nodejs",
+          "react",
+          "typescript"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": []
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "1f31b983-ea99-4c4e-ad93-5b406d66d66c",
+      "direct_apply": null,
+      "description": "<p><strong>About this role</strong></p><p>As a Senior Software Engineer at Hinge Health, you will play a pivotal role in designing, building, and maintaining large-scale software solutions that directly impact our members’ health outcomes. You will collaborate with cross-functional partners, including product managers and designers, to deliver new product capabilities and improve the maintainability, availability, and performance of our features. This role is essential to advancing our mission of transforming joint and muscle care through technology, including the integration of AI-driven solutions to automate and enhance care delivery. Hinge Health software engineers work on small interdisciplinary teams focused on different parts of the user journey.</p><p>As a member of the Accounts team, you will help build and shape new improved experiences with impact across the whole company. A resilient and scalable Accounts system ensures both stability and helps with growth of our member base. You’ll work closely with product managers, designers, and backend engineers to build scalable, performant, and accessible applications that will enable every user to securely register, sign in and access our features</p><p>Frontend engineers contribute to their team’s success by adding beautiful, useful features to Hinge Health applications. Senior frontend engineers design and implement end-to-end solutions for large-scale features, profile app performance, and help maintain a high bar with thoughtful and constructive code reviews.</p><p>We enjoy a continuous deployment DevOps culture, and take owner-operator pride in supporting our code in production with an on-call rotation. Rotations vary by team. Our production systems rely on React Native, React, Node.js, TypeScript, Nestjs, GraphQL, Golang, Docker, Temporal, Rails, AWS, Postgres, Redis, Apollo, and Redux. Our workflow is trunk-based CI/CD, and our security/compliance posture is at the highest standards of healthcare, including HIPAA, HITRUST, SOC 2, and CCPA.</p><p><strong>What You’ll Accomplish</strong></p><ul><li><p>Deliver large projects that introduce new product capabilities, often acting as a maintainer for key code repositories.</p></li><li><p>Break down complex problems into manageable tasks, ensuring steady and predictable delivery while identifying and resolving root causes of incidents.</p></li><li><p>Collaborate with your team to roadmap and execute ambitious technical strategies, balancing short-term and long-term trade-offs.</p></li><li><p>Mentor and support junior engineers, providing thoughtful code reviews and real-time pairing.</p></li><li><p>Integrate and leverage AI technologies to automate processes and enhance product features, contributing to Hinge Health’s AI-driven care platform.</p></li><li><p>Proactively improve the maintainability, availability, and performance of the team’s features, and contribute to the team’s overall architecture and developer tooling.</p></li><li><p>Exhibit strong user and business judgment, grounding decisions in customer needs and business priorities to drive durable product value</p></li><li><p>Communicate technical ideas clearly to both technical and non-technical partners, and document solutions for future reference.<em><strong><br></strong></em></p></li></ul><p><strong>Basic Qualifications</strong></p><ul><li><p>Bachelor’s Degree (or equivalent) in Computer Science, Engineering or related technical field</p></li><li><p>3+ years of non-internship full time professional software development experience</p></li><li><p>Experience with at least one software programming language</p></li><li><p>Experience in the full software development life cycle</p></li><li><p>Experience delivering large software projects or features in a production environment</p></li><li><p>Experience with mobile app development/deployment lifecycles</p></li><li><p>Proficiency in TypeScript/JavaScript</p></li><li><p>Experience with cloud based services (e.g. Docker/Kubernetes, cloud services such as AWS, and gRPC, protobufs, and temporal, etc.)</p></li></ul><p><strong>Preferred Qualifications</strong></p><ul><li><p>Experience with AI technologies for software design and coding assistance</p></li><li><p>Experience mentoring or onboarding junior engineers</p></li><li><p>Familiarity with distributed systems, cloud infrastructure, or scalable architectures</p></li><li><p>Experience with healthcare technology or regulated environments</p></li><li><p>Experience with Agile development practices</p></li></ul><h2><strong>Hinge Health Hybrid Model</strong></h2><p>We believe that remote work and in-person work have their own advantages and disadvantages, and we want to be able to leverage the best of both worlds. Employees in hybrid roles are required to be in the office 3 days per week, for the full 8 hours of a typical business day. The San Francisco office has a dog-friendly workplace program.</p><h3><strong>About Hinge Health</strong></h3><p>At Hinge Health, we’re using technology to scale and automate the delivery of healthcare, starting with musculoskeletal (MSK) conditions, which affect over 1.7 billion people worldwide. Our AI-powered, human-centered care model spans MSK, pelvic health, gastrointestinal (GI) and migraine care. With over 60 partnerships with health plans, PBMs and other ecosystem partners, Hinge Health is available to over 25 million people across more than 2,900 employers. The company is headquartered in San Francisco with additional offices in Montreal and Bangalore. Learn more at <a href=\"http://hingehealth.com\">hingehealth.com</a>.</p><h3><strong>What You’ll Love About Us</strong></h3><ul><li><p>Inclusive healthcare and benefits: On top of comprehensive medical, dental, and vision coverage, we offer employees and their family members help with gender-affirming care, tools for family and fertility planning, and travel reimbursements if healthcare isn’t available where you live.</p></li><li><p>Planning for the future: Start saving for the future with our traditional or Roth 401k retirement plan options which include a 2% company match.</p></li><li><p>Modern life stipends: Manage your own learning and development.</p></li><li><p>Grow with us: Grow with us through discounted company stock through our ESPP with easy payroll deductions.</p></li></ul><h3><strong>Culture &#x26; Engagement</strong></h3><p>Hinge Health is an equal opportunity employer and prohibits discrimination and harassment of any kind. We make employment decisions without regards to race, color, religion, sex, sexual orientation, gender identity, national origin, age, veteran status, disability status, pregnancy, or any other basis protected by federal, state or local law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. We provide reasonable accommodations for candidates with disabilities. If you feel you need assistance or an accommodation due to a disability, let us know by reaching out to your recruiter.</p><p>By submitting your application you are acknowledging we are using your personal data as outlined in the <a href=\"https://www.hingehealth.com/about/personnel-and-candidate-privacy-policy/\">personnel and candidate privacy policy.</a></p><p><br>Beware of Phishing Attempts: We've noticed an increase in phishing where fraudsters impersonate employees and send fake job offers to steal sensitive information. We'll never ask for financial details during the hiring process and only use \"@<a href=\"http://hingehealth.com\">hingehealth.com</a>\" emails. If you receive a suspicious offer, stop communication and report it to the US FBI Internet Crime Complaint Center. To verify an email from our recruiting team, forward it to <a href=\"https://app.ashbyhq.com/admin/organizational-settings/theme#\">security@hingehealth.com</a>.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-software-engineer-frontend-hinge-health</p>",
+      "posted_at": "2026-10-28T15:57:05.585+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
       "id": "df8612c4-ae68-45be-9023-0340c486144c",
       "title": "Senior Software Architect, Security Platform",
       "url": "https://remotejobs.org/remote-jobs/senior-software-architect-security-platform-keeper-security",
@@ -4656,90 +4785,6 @@
       "direct_apply": null,
       "description": "<h2><strong>About Us</strong></h2>\n<p>Blackscale Media is a dynamic and innovative company specializing in cutting-edge digital solutions. We are on a mission to revolutionize the digital landscape with our state-of-the-art technology and creative solutions. Join us and be a part of a team that values excellence, creativity, and collaboration.</p>\n<h2><strong>Job Overview</strong></h2>\n<p>We urgently seek two highly skilled Senior PHP Engineers to join our team. This fully remote position offers competitive pay and the opportunity to work with a diverse and talented team. The ideal candidates will have extensive experience in PHP and related technologies, focusing strongly on Laravel, CI/CD, Kubernetes, Docker, and more.</p>\n<h2><strong>Key Responsibilities</strong></h2>\n<ul>\n<li>Develop, test, and maintain high-quality web applications using PHP and Laravel.</li>\n<li>Implement and manage CI/CD pipelines to ensure smooth deployment processes.</li>\n<li>Utilize Kubernetes and Docker for containerization and orchestration.</li>\n<li>Optimize application performance using Redis and Guzzle.</li>\n<li>Develop and maintain front-end components using Vue.js.</li>\n<li>Work with MongoDB and MySQL databases for efficient data management.</li>\n<li>Integrate and manage Facebook API for various functionalities.</li>\n<li>Perform reverse engineering tasks as required.</li>\n<li>Collaborate with cross-functional teams to define, design, and ship new features.</li>\n<li>Troubleshoot and debug applications to ensure optimal performance.</li>\n<li>Stay up-to-date with the latest industry trends and technologies.</li>\n</ul>\n<h2><strong>Qualifications</strong></h2>\n<ul>\n<li>Proven experience as a Senior PHP Engineer or similar role.</li>\n<li>Strong proficiency in PHP and Laravel framework.</li>\n<li>Hands-on experience with CI/CD tools and processes.</li>\n<li>Proficiency in Kubernetes and Docker for container management.</li>\n<li>Experience with Redis and Guzzle for caching and HTTP client needs.</li>\n<li>Solid understanding of Vue.js for front-end development.</li>\n<li>Expertise in working with MongoDB and MySQL databases.</li>\n<li>Experience with Facebook API integration.</li>\n<li>Strong reverse engineering skills.</li>\n<li>Excellent problem-solving abilities and attention to detail.</li>\n<li>Ability to work independently and as part of a team.</li>\n<li>Strong communication skills.</li>\n</ul>\n<h2><strong>Benefits</strong></h2>\n<ul>\n<li>Fully remote work environment.</li>\n<li>Opportunity to work with a talented and diverse team.</li>\n<li>Fast-paced and dynamic work environment.</li>\n<li>Opportunities for professional growth and development.</li>\n</ul>\n<h2><strong>How to Apply</strong></h2>\n<p>If you meet the above criteria and can start immediately, we would love to hear from you! Please submit your resume and a cover letter detailing your experience and why you would be an excellent fit for this role. Join Blackscale Media and be a part of a team pushing the boundaries of digital innovation!</p>\n<p><strong>Blackscale Media is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.</strong></p>\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/lead-php-engineer-siglio</p>",
       "posted_at": "2026-10-28T13:12:05+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "45a5cb3a-cc2f-4e12-aafc-e2769c7094c3",
-      "title": "REMOTE- Senior Platform Software Engineer- Oracle Health",
-      "url": "https://remotejobs.org/remote-jobs/remote-senior-platform-software-engineer-oracle-health-oracle-corporation",
-      "apply_url": "https://remotejobs.org/remote-jobs/remote-senior-platform-software-engineer-oracle-health-oracle-corporation",
-      "company": {
-        "name": "Oracle",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/337cab868b072cf99c5bdc064f45348da0dbd5c1fdb41e73da4eb508fea27707.webp",
-        "website": "https://oracle.com",
-        "url": "https://remotejobs.org/companies/oracle"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "United States",
-      "location_normalization": {
-        "raw": "United States",
-        "input": {},
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [],
-        "evidence_ids": [
-          "source-location"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "remote",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": "senior",
-        "role_family": "software-engineering",
-        "required_skills": [],
-        "mentioned_skills": [],
-        "preferred_skills": [],
-        "experience_requirements": []
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": null,
-      "salary_period": "year",
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<p>Owns moderately complex components within platform services or SDKs; leads team-level improvements to integration frameworks and developer tooling. Performs deep debugging across a bounded set of distributed services, driving fixes that protect downstream consumers and upgrade paths. Analyzes usage, performance, and error budgets for specific platform surfaces; implements targeted resilience and capacity optimizations. Authors and curates team-scoped documentation, samples, and adoption guidance.</p>\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/remote-senior-platform-software-engineer-oracle-health-oracle-corporation</p>",
-      "posted_at": "2026-10-28T13:07:30+00:00",
       "is_translated": false,
       "original_language": null
     },
