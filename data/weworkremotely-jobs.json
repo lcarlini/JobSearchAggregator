@@ -1,7 +1,37 @@
 {
-  "generatedAt": "2026-11-03T00:35:30.493Z",
-  "count": 194,
+  "generatedAt": "2026-11-03T13:46:33.567Z",
+  "count": 188,
   "jobs": [
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/stockx-category-manager-apparel",
+      "source": "weworkremotely",
+      "title": "Category Manager - Apparel",
+      "company": "StockX",
+      "url": "https://weworkremotely.com/remote-jobs/stockx-category-manager-apparel",
+      "description": "Headquarters: Remote, USA Help empower our global customers to connect to culture through their passions. Why you’ll love this role: StockX is the world’s leading marketplace for current culture, built at the intersection of commerce, community, and credibility. Apparel is foundational to StockX — not just as a category, but as an expression of identity, culture, and global trends. We are expanding how apparel culture shows up on StockX through creator-driven, community-oriented commerce experiences that blend storytelling, expertise, and transaction. To do this well, we need category leaders who don’t just understand the apparel market — they live inside it. The Apparel Category Manager is the single-threaded owner of apparel category growth within a new, high-priority commerce initiative",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "programming"
+      ],
+      "postedAt": "Thu, 15 Oct 2026 07:31:21 +0000",
+      "category": "programming"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/upgrade-ai-experience-engineer-conversational-ai",
+      "source": "weworkremotely",
+      "title": "AI Experience Engineer (Conversational AI)",
+      "company": "Upgrade",
+      "url": "https://weworkremotely.com/remote-jobs/upgrade-ai-experience-engineer-conversational-ai",
+      "description": "Headquarters: Canada (Remote) About the Role: An AI Experience Engineer owns the full lifecycle of the journeys our customers have with Upgrade's AI agent on chat, voice and email: creation, optimization, edge case handling and containment growth. They build journeys in Sierra's no-code tooling, partner with Upgrade's product groups to bring their servicing flows to the agent, and are accountable for whether the agent resolves the customer's issue safely, accurately and without a human. We are hiring an AI Experience Engineer to own Upgrade's customer-facing AI agent. You will sit between engineering, product and customer operations. You will turn servicing workflows, such as making a payment, checking loan details, updating an address or enabling autopay, into production journeys and keep",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Back-End Programming",
+        "programming"
+      ],
+      "postedAt": "Thu, 15 Oct 2026 07:31:14 +0000",
+      "category": "programming"
+    },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/databricks-deployment-strategist",
       "source": "weworkremotely",
@@ -345,36 +375,6 @@
         "programming"
       ],
       "postedAt": "Sun, 16 Jun 2024 17:30:51 +0000",
-      "category": "programming"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/stripe-abuse-research-engineer",
-      "source": "weworkremotely",
-      "title": "Abuse Research Engineer",
-      "company": "Stripe",
-      "url": "https://weworkremotely.com/remote-jobs/stripe-abuse-research-engineer",
-      "description": "Headquarters: Remote from the US Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team Abuse Research Group (ARG) handles proactive threat hunting and adversary behavior analysis across Stripe products. Rather than reacting to alerts, the team maps end-to-end fraud and abuse paths, validates novel attack vectors, and ",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "programming"
-      ],
-      "postedAt": "Sun, 04 Oct 2026 07:31:08 +0000",
-      "category": "programming"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1",
-      "source": "weworkremotely",
-      "title": "FULL TIME: Software Engineer Position - React and Rest",
-      "company": "Yooli",
-      "url": "https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1",
-      "description": "Headquarters: Australia URL: http://yooli.co Job description We are seeking a highly skilled Senior Software Engineer to join our team and contribute to the transformative tech evolution in healthcare.&nbsp; This critical role involves developing, integrating, and optimising our backend and database systems.&nbsp; You will work closely with our Chief Engineer and CTO to build and refine our software solutions, ensuring they remain at the cutting edge of innovation. &nbsp; Your Role: Develop and maintain robust backend services using NestJS and Node.js , ensuring top-tier performance and security. Design and manage efficient REST API endpoints to optimise interactions with our SQL database. Collaborate with cross-functional teams to define, design, and deploy new features, focusing on backe",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "programming"
-      ],
-      "postedAt": "Wed, 05 Aug 2026 05:52:46 +0000",
       "category": "programming"
     },
     {
@@ -1068,36 +1068,6 @@
       "category": "design"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/assemblyai-senior-research-engineer",
-      "source": "weworkremotely",
-      "title": "Senior Research Engineer",
-      "company": "AssemblyAI",
-      "url": "https://weworkremotely.com/remote-jobs/assemblyai-senior-research-engineer",
-      "description": "Headquarters: Remote Why AssemblyAI AssemblyAI builds the best-in-class Voice AI models powering the next generation of voice applications. Our models serve 600M+ inference calls monthly, process 1M+ hours of audio daily, and power 2 billion+ end-user experiences. The Voice AI space is at an inflection point; we’re looking for folks truly excited to join a small team and help define the future of the industry. We are one of the most capital-efficient AI companies on the planet - with under 100 people generating roughly $600K ARR per employee, we sit among the top 5 most revenue-dense teams within the fastest-growing AI companies today. That's not an accident; it's a deliberate choice to stay lean, move fast, and give every person on the team outsized ownership and impact. With thousands of",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Design",
-        "design"
-      ],
-      "postedAt": "Sun, 04 Oct 2026 07:31:28 +0000",
-      "category": "design"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/assemblyai-senior-gtm-ai-engineer",
-      "source": "weworkremotely",
-      "title": "Senior GTM AI Engineer",
-      "company": "AssemblyAI",
-      "url": "https://weworkremotely.com/remote-jobs/assemblyai-senior-gtm-ai-engineer",
-      "description": "Headquarters: Remote - North America Why AssemblyAI AssemblyAI builds the best-in-class Voice AI models powering the next generation of voice applications. Our models serve 600M+ inference calls monthly, process 1M+ hours of audio daily, and power 2 billion+ end-user experiences. The Voice AI space is at an inflection point; we’re looking for folks truly excited to join a small team and help define the future of the industry. We are one of the most capital-efficient AI companies on the planet - with under 100 people generating roughly $600K ARR per employee, we sit among the top 5 most revenue-dense teams within the fastest-growing AI companies today. That's not an accident; it's a deliberate choice to stay lean, move fast, and give every person on the team outsized ownership and impact. W",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Design",
-        "design"
-      ],
-      "postedAt": "Sun, 04 Oct 2026 07:31:28 +0000",
-      "category": "design"
-    },
-    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/seat-geek-senior-ux-designer",
       "source": "weworkremotely",
       "title": "Senior UX Designer",
@@ -1488,21 +1458,6 @@
       "category": "product"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/expel-product-manager-detection-pipeline",
-      "source": "weworkremotely",
-      "title": "Product Manager, Detection Pipeline",
-      "company": "Expel",
-      "url": "https://weworkremotely.com/remote-jobs/expel-product-manager-detection-pipeline",
-      "description": "Headquarters: Remote You live at the intersection of security and product management, and there's no place you'd rather be. You understand that the detection pipeline isn't just plumbing. It's the connective tissue that turns raw security data into signal, and if ingestion, normalization, or correlation break down, everything downstream suffers. You're not intimidated by the scale and complexity of data flowing through a modern security platform. Quite the opposite: you pride yourself on knowing how data moves from source to detection, where the pipeline breaks, and what it takes to make it fast, reliable, and cost effective. You’ve got an informed opinion about what an MDR should detect, an opinion that comes from customer empathy, hands-on industry knowledge, and a set of experiences tha",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Product",
-        "product"
-      ],
-      "postedAt": "Wed, 07 Oct 2026 07:31:00 +0000",
-      "category": "product"
-    },
-    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/semaphore-senior-product-engineer",
       "source": "weworkremotely",
       "title": "Senior Product Engineer",
@@ -1530,36 +1485,6 @@
         "product"
       ],
       "postedAt": "Tue, 06 Oct 2026 07:31:05 +0000",
-      "category": "product"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/smartsheet-group-product-manager-corporate-systems",
-      "source": "weworkremotely",
-      "title": "Group Product Manager – Corporate Systems",
-      "company": "Smartsheet",
-      "url": "https://weworkremotely.com/remote-jobs/smartsheet-group-product-manager-corporate-systems",
-      "description": "Headquarters: -REMOTE, USA- For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best, automating manual tasks and uncovering insights at scale, we create the space for people to focus on what truly matters: judgment, creativity, and big thinking. That is magic at work, and it’s what we show up for every day. Corporate Systems Engineering builds and operates the software platforms, integrations, and automations that power Smartsheet’s core business functions across Finance, Sales/GTM, and People & Culture.&nbsp; Our team owns mission-critical systems and workflows that enable how the company hires, sells, bills, pays, rep",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Product",
-        "product"
-      ],
-      "postedAt": "Sun, 04 Oct 2026 07:31:27 +0000",
-      "category": "product"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/smartsheet-director-finance-systems-erp",
-      "source": "weworkremotely",
-      "title": "Director, Finance Systems & ERP",
-      "company": "Smartsheet",
-      "url": "https://weworkremotely.com/remote-jobs/smartsheet-director-finance-systems-erp",
-      "description": "Headquarters: -REMOTE, USA- For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best, automating manual tasks and uncovering insights at scale, we create the space for people to focus on what truly matters: judgment, creativity, and big thinking. That is magic at work, and it’s what we show up for every day. Corporate Systems Engineering builds and operates the software platforms, integrations, and automations that power Smartsheet’s core business functions across Finance, Sales/GTM, and People & Culture. Our team owns mission-critical systems and workflows that enable how the company hires, sells, bills, pays, reports, ",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Product",
-        "product"
-      ],
-      "postedAt": "Sun, 04 Oct 2026 07:31:27 +0000",
       "category": "product"
     },
     {
@@ -2493,21 +2418,6 @@
       "category": "full-stack"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/stockx-category-manager-apparel",
-      "source": "weworkremotely",
-      "title": "Category Manager - Apparel",
-      "company": "StockX",
-      "url": "https://weworkremotely.com/remote-jobs/stockx-category-manager-apparel",
-      "description": "Headquarters: Remote, USA Help empower our global customers to connect to culture through their passions. Why you’ll love this role: StockX is the world’s leading marketplace for current culture, built at the intersection of commerce, community, and credibility. Apparel is foundational to StockX — not just as a category, but as an expression of identity, culture, and global trends. We are expanding how apparel culture shows up on StockX through creator-driven, community-oriented commerce experiences that blend storytelling, expertise, and transaction. To do this well, we need category leaders who don’t just understand the apparel market — they live inside it. The Apparel Category Manager is the single-threaded owner of apparel category growth within a new, high-priority commerce initiative",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Thu, 15 Oct 2026 07:31:21 +0000",
-      "category": "full-stack"
-    },
-    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/sticker-mule-si-agent-engineer",
       "source": "weworkremotely",
       "title": "SI agent engineer",
@@ -2550,6 +2460,21 @@
         "full-stack"
       ],
       "postedAt": "Mon, 17 Aug 2026 13:57:14 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1",
+      "source": "weworkremotely",
+      "title": "FULL TIME: Software Engineer Position - React and Rest",
+      "company": "Yooli",
+      "url": "https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1",
+      "description": "Headquarters: Australia URL: http://yooli.co Job description We are seeking a highly skilled Senior Software Engineer to join our team and contribute to the transformative tech evolution in healthcare.&nbsp; This critical role involves developing, integrating, and optimising our backend and database systems.&nbsp; You will work closely with our Chief Engineer and CTO to build and refine our software solutions, ensuring they remain at the cutting edge of innovation. &nbsp; Your Role: Develop and maintain robust backend services using NestJS and Node.js , ensuring top-tier performance and security. Design and manage efficient REST API endpoints to optimise interactions with our SQL database. Collaborate with cross-functional teams to define, design, and deploy new features, focusing on backe",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Wed, 05 Aug 2026 05:52:46 +0000",
       "category": "full-stack"
     },
     {
@@ -2640,21 +2565,6 @@
         "management"
       ],
       "postedAt": "Sun, 01 Nov 2026 07:30:53 +0000",
-      "category": "management"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/carrot-sr-manager-data-engineering",
-      "source": "weworkremotely",
-      "title": "Sr. Manager, Data Engineering",
-      "company": "Carrot",
-      "url": "https://weworkremotely.com/remote-jobs/carrot-sr-manager-data-engineering",
-      "description": "Headquarters: Remote About Carrot: Carrot is the leading global fertility and family care platform, built on intelligent care orchestration: the right clinical guidance, at the right moment, in the context of each member’s life. More than a thousand multinational employers, health plans, and health systems trust Carrot to support millions of members across 195 countries – from pre-pregnancy through menopause and major life moments in between. Carrot's comprehensive clinical program delivers industry-leading cost savings for plan sponsors and award-winning experiences and improved outcomes for millions of people worldwide. Carrot is widely regarded as a defining force in healthcare innovation as a recipient of several top-tier awards, including Fast Company's 'Most Innovative Companies' and",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Management and Finance",
-        "management"
-      ],
-      "postedAt": "Fri, 30 Oct 2026 07:31:10 +0000",
       "category": "management"
     },
     {

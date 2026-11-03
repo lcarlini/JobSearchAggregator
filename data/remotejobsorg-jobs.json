@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T00:35:26.962Z",
+  "generatedAt": "2026-11-03T13:46:30.399Z",
   "count": 150,
   "data": [
     {
@@ -452,7 +452,29 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "unknown",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -10085,6 +10107,99 @@
       "original_language": "es"
     },
     {
+      "id": "8529e88e-aa35-4aa4-9dc4-ee71f9e6ef58",
+      "title": "Data Engineer &#8211; Senior",
+      "url": "https://remotejobs.org/remote-jobs/data-engineer-8211-senior-softswiss",
+      "apply_url": "https://remotejobs.org/remote-jobs/data-engineer-8211-senior-softswiss",
+      "company": {
+        "name": "SOFTSWISS",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/2b94124d73f9a227331b2d9df49c13f42ff1b1b25e2f90c09f8c4d1e84dcbcf5.jpeg",
+        "website": "https://careers.softswiss.com",
+        "url": "https://remotejobs.org/companies/softswiss"
+      },
+      "category": {
+        "name": "Data Science",
+        "slug": "data-science"
+      },
+      "location": "Tbilisi, GE; Warsaw, PL; Poznań, PL",
+      "location_normalization": {
+        "raw": "Tbilisi, GE; Warsaw, PL; Poznań, PL",
+        "input": {},
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [
+          "poznan",
+          "warsaw"
+        ],
+        "work_arrangement": "unknown",
+        "allowed_countries": [
+          "GE",
+          "PL"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "allowed_subdivisions": [
+          "GE-TB"
+        ],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [
+          "The supplied description block (description:1) is truncated, so any further applicant permissions, restrictions, exceptions, work arrangement, licensing or timezone conditions in the full posting could not be assessed."
+        ],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [
+          "GE",
+          "PL"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": "senior",
+        "role_family": "data-engineering",
+        "required_skills": [],
+        "mentioned_skills": [],
+        "preferred_skills": [],
+        "experience_requirements": []
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "f37a6cfdf8c2a3cca35db49d598c17dff64b4deb4d1c038814675d31e959e7cd",
+      "direct_apply": null,
+      "description": "<p>Overview: We invite you to join our Data Platform team — building the data infrastructure that powers analytics and insights for SOFTSWISS. We process enterprise-scale data and serve multiple internal teams across the company. In this role, you’ll have the opportunity to: Work with modern data stack and AI tools to build complex solutions Design […]</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/data-engineer-8211-senior-softswiss</p>",
+      "posted_at": "2026-11-02T18:19:59+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
       "id": "b0160bba-442f-42a0-b4f8-db93c46b1e9a",
       "title": "Principal Machine Learning Engineer",
       "url": "https://remotejobs.org/remote-jobs/principal-machine-learning-engineer-zscaler",
@@ -12898,6 +13013,95 @@
       "original_language": null
     },
     {
+      "id": "7b01768d-e82c-4a32-b90d-4690b3114bda",
+      "title": "Senior Data Scientist, Methodologies",
+      "url": "https://remotejobs.org/remote-jobs/senior-data-scientist-methodologies-tilt",
+      "apply_url": "https://remotejobs.org/remote-jobs/senior-data-scientist-methodologies-tilt",
+      "company": {
+        "name": "Tilt",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/63320a61819998ef6cad8ea908bfc1a42001232ba66ae1ca446c00b4c860fbba.png",
+        "website": "https://tilt.com",
+        "url": "https://remotejobs.org/companies/tilt"
+      },
+      "category": {
+        "name": "Data Science",
+        "slug": "data-science"
+      },
+      "location": "Remote - US",
+      "location_normalization": {
+        "raw": "Remote - US",
+        "input": {
+          "workArrangement": "remote"
+        },
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "worksite_countries": [
+          "US"
+        ],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": "senior",
+        "role_family": "data-science",
+        "required_skills": [],
+        "mentioned_skills": [],
+        "preferred_skills": [],
+        "experience_requirements": []
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "2ee3cc88-bcc2-40c6-b6a1-8422e331ae53",
+      "direct_apply": null,
+      "description": "<h2>Join the Tilt team</h2><p>At Tilt, we see a side of people that traditional lenders miss. Our mobile-first products and machine learning-powered credit models look beyond credit scores, using over 250 real-time financial signals to recognize real potential. With millions of customers worldwide<strong>, </strong>we're not just changing how people access financial products — we're creating a new credit system that backs the working, whatever they're working toward.</p><h3>The opportunity</h3><p>At Tilt, we're constantly exploring new ways to understand financial behavior and reduce risk. The work you do in this role will go directly into the foundational models we're building for our products.</p><p>We're looking for a <strong>Senior Data Scientist</strong> to join our <strong>Methodologies</strong> group — a role focused on building and advancing foundational modeling approaches. You'll build and test deep learning methods such as transformers to improve how we understand financial data and make lending decisions.</p><p>This is a great role for someone who's deeply curious about new modeling techniques and wants to see their ideas make a real difference. You'll work with a small, experienced team of data scientists and engineers, taking projects from first idea to working model on financial data challenges — from credit decisioning to customer behavior!</p><p>You'll also be at the forefront of how data science is practiced in the age of AI agents. Our team builds with agentic tools every day, and you'll use them in your own work and help build the specialized agents that speed up both DS and business workflows.</p><p>We're looking for someone who enjoys learning, experimenting, and collaborating — a person who can connect technical exploration to meaningful business impact. If you're excited by applying new methodologies in ways that help people access fairer credit, you'll fit right in.<br></p><h3>How you'll make an impact</h3><ul><li><p>Build, train and evaluate <strong>deep learning models</strong> on Tilt's financial data.</p></li><li><p>Ship models and model components that plug into Tilt's existing ML pipelines to improve credit modeling and loss prediction.</p></li><li><p>Own your projects end to end, from hypothesis to a model in use, with general direction from the team's leads.</p></li><li><p>Work closely with data scientists, engineers, and product partners to <strong>turn your results into practical solutions</strong>.</p></li><li><p>Run representation learning experiments — including pretraining and fine-tuning — on real financial data, with a clear design up front and an honest read on what worked.</p></li><li><p>Share findings and help peers pick up new deep learning methods.</p></li><li><p>Measure the impact of your models not just by accuracy, but by how they improve outcomes for Tilt's customers and partners.</p></li><li><p>Use <strong>agentic development tools</strong> (e.g., Claude Code, Codex) to speed up experimentation, feature engineering and model iteration.</p></li><li><p>Build and improve <strong>specialized agents</strong> that support DS workflows.<br></p></li></ul><h3>Why you're a great fit</h3><ul><li><p>Hands-on experience building and training <strong>deep learning</strong> models</p></li><li><p>Comfort working with modern ML frameworks (PyTorch, TensorFlow, or similar).</p></li><li><p>Experience applying ML to real-world problems, ideally in <strong>financial services</strong> (credit, lending, payments, or banking).</p></li><li><p>Experience taking a project from an open question to a measurable business outcome.</p></li><li><p>Clear, thoughtful communication — you can explain technical ideas in ways others can engage with.</p></li><li><p>Bonus: hands-on experience building with LLMs or agent frameworks, or excitement to learn. You see agents as a way to multiply what a small, senior team can do.</p></li></ul><p><strong>Don’t meet every qualification? We care about potential over your past. If you're bringing ambition and drive to what we're building, we want to hear from you.</strong><br></p><h3><strong>What you'll get at Tilt</strong></h3><ul><li><p><strong>Virtual-first teamwork:</strong> The Tilt team is collaborating across 14 countries, 12 time zones, and counting. You’ll get started with a WFH office reimbursement.</p></li><li><p><strong>Competitive pay:</strong> We're big on potential, and it's reflected in our competitive compensation packages and generous equity.</p></li><li><p><strong>Complete support:</strong> Find flexible health plans at every premium level, and substantial subsidies that stand up to global standards.</p></li><li><p><strong>Visibility is yours</strong>: You can count on direct exposure to our leadership team — we’re a team where good ideas travel quickly.</p></li><li><p><strong>Paid global onsites</strong>: Magic happens IRL: we gather twice yearly to reconnect over shared meals or kayaking adventures. (We’ve visited Vail, San Diego, and Mexico City, to name a few.)</p></li><li><p><strong>Impact is recognized</strong>: Growth opportunities follow your contributions, not rigid promotion timelines.</p></li></ul><h3><strong>The Tilt Way</strong></h3><p>We're looking for people who chase excellence and impact. Those who stand behind their work, celebrating the wins and learning from the missteps equally. We foster an environment where every voice is valued and mutual respect is non-negotiable — brilliant jerks need not apply. We're in this together, working to expand access to fair credit and prove that people are incredible. When you join us, it's not just another day at the [virtual] office, you're helping millions of hardworking people reach better financial futures.</p><p><strong>You’re pushing ahead in your career? We can get behind that. Join us in building the credit system that people deserve.</strong></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-data-scientist-methodologies-tilt</p>",
+      "posted_at": "2026-10-30T00:32:10.778+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
       "id": "4f8984d5-1fb7-4f44-9890-b035126535cb",
       "title": "Principal Data Engineer",
       "url": "https://remotejobs.org/remote-jobs/principal-data-engineer-zoominfo-technologies-llc",
@@ -14093,197 +14297,6 @@
       "direct_apply": null,
       "description": "<p><strong>About Eve<br>Eve is redefining legal technology for plaintiff law firms, and we're building the team that will take us there. We help firms handle more cases, recover more for clients, and grow with AI that works across every stage of a case, from intake through resolution. The next generation of great plaintiff firms will be AI-Native, and Eve is how they get there. But what makes Eve different isn't just the product. It's how we build it. If you're someone who takes ownership, stays curious, and wants to build AI that's already changing how  law is practiced, this is where you belong.</strong></p><p><strong><strong>Product-market fit:</strong> Eve is trusted by over 1000+ law firms, and we’re growing fast.<br><strong>Backed by top investors:</strong> We’ve raised over $160M from world-class partners including Spark Capital, Andreessen Horowitz(A16z), Menlo Ventures, and Lightspeed.<br><strong>Built by a world-class team: </strong>Engineers, designers, and operators from places like Scale, Meta, Airbnb, Cruise, Square, Rubrik, and Lyft are building Eve from the ground up.<br><strong>AI-Native from day one: </strong>We’re on the bleeding edge of AI, collaborating directly with teams at OpenAI and Anthropic to build best-in-class AI workflows tailored for legal work.<br><strong>Explosive growth:</strong> We are growing 2X revenue Quarter over Quarter.</strong></p><h2><strong><strong>The Role</strong></strong></h2><p><strong>We're hiring a Staff Analytics Engineer to own Eve's go-to-market data model and set the standard the rest of the analytics engineering team works inside.</strong></p><p><strong>The number of people asking the data a question is growing faster than the business, and the business is doubling. Today the same question can produce different answers depending on who asks and which tool they open. Your job is to make every core GTM metric resolve to one governed definition: pipeline generated, funnel conversion, CAC, win rate, sales cycle length, ARR and bookings, modeled in the warehouse and semantic layer from HubSpot, DealHub, Apollo, and Clay rather than inside those tools.</strong></p><p><strong>As the Staff engineer, GTM is your domain but not your limit. You'll own the certification framework and catalog that determine what counts as trusted across every domain, set the modeling standards other analytics engineers and analysts build inside, and make the calls when two teams define the same thing differently. Your users span analysts and stakeholders across Sales, Marketing, CS, and RevOps.</strong></p><p><strong>You'll work on our central team and report to the Head of Data Engineering, who reports directly to the CEO. Data is a first-class function at Eve and the fuel to drive our future growth.</strong></p><h2><strong><strong>What You'll Do</strong></strong></h2><h2><strong>Model GTM</strong></h2><ul>\n<li><strong>Partner with analysts and stakeholders to build the models that power Eve's GTM decisions: pipeline, funnel, campaign, and revenue, sourced from HubSpot, DealHub, Apollo, and Clay and built in the warehouse and semantic layer rather than inside those tools</strong></li>\n<li><strong>Design semantic models for core GTM SaaS metrics (pipeline coverage, funnel conversion, CAC, win rate, sales cycle time, ARR and bookings), then own deploying and maintaining them as the trusted foundation for both analytics and AI consumption</strong></li>\n<li><strong>Build on the foundational layer the data engineers own: source-to-staging models and conformed dimensions. </strong></li>\n<li><strong>Instrument your models against the team's alerting so failures and drift surface before a stakeholder finds them</strong></li>\n<li><strong>Maintain documentation of the models, metrics, and definitions you own</strong></li>\n<li><strong>Stand up internal AI agents and data-grounded tools that give GTM stakeholders a direct, trustworthy answer without waiting on a ticket</strong></li>\n</ul><h2><strong>Set the standard</strong></h2><ul>\n<li><strong>Own the metrics certification framework and catalog: what qualifies as a governed definition, who owns it, and how a stakeholder can tell at a glance</strong></li>\n<li><strong>Define the modeling standards and semantic layer patterns every analytics engineer and contributing analyst works inside</strong></li>\n<li><strong>Partner with analysts building on the semantic layer, and own the certification call on what becomes a governed definition</strong></li>\n<li><strong>Arbitrate when two teams define the same metric differently, and make the call stick</strong></li>\n<li><strong>Establish patterns and standards for analytical application development in Omni and Hex</strong></li>\n<li><strong>Sit with stakeholders across Sales, Marketing, and Customer Success to turn open questions into durable models rather than one-off answers</strong></li>\n<li><strong>Mentor analytics engineers and set the technical bar for how analytics engineering gets done at Eve</strong></li>\n</ul><h2><strong>What We're Looking For</strong></h2><ul>\n<li><strong>8+ years in analytics engineering, including time at a staff or senior IC level setting technical direction others followed</strong></li>\n<li><strong>Extensive proficiency in SQL, data modeling, and transformation, with deep dbt expertise: advanced modeling patterns, macros, packages, and testing. Experience building SCD tables from multiple sources</strong></li>\n<li><strong>Expert knowledge of the modern stack: Snowflake, dbt, and a semantic or BI layer such as Omni or Hex</strong></li>\n<li><strong>Experience designing semantic models or metric layers for human and AI consumption</strong></li>\n<li><strong>Experience modeling GTM systems (HubSpot, Salesforce, or similar CRM and marketing automation platforms)</strong></li>\n<li><strong>You've resolved a \"these numbers don't match\" problem across teams that each believed their version, and can describe how you got everyone to one definition</strong></li>\n<li><strong>Experience setting modeling standards others follow, and reviewing contributions from people outside your team</strong></li>\n<li><strong>Proficiency with AI-assisted development such as Claude Code, including agentic pipeline design and skill-based workflows, and comfort integrating tools via MCP servers</strong></li>\n<li><strong>Strong communication, a habit of mentoring, and comfort building where the playbook doesn't exist yet</strong></li>\n</ul><h2><strong>Nice to haves:</strong></h2><ul>\n<li><strong>Experience in a regulated or high-sensitivity data environment (legal, healthcare, financial services)</strong></li>\n<li><strong>Experience enabling analysts outside the core team to contribute production models</strong></li>\n<li><strong>B2B SaaS, especially selling to small and mid-sized businesses or professional services firms</strong></li>\n</ul><p><strong><em>For sales roles, the range provided is the role’s On Target Earnings (\"OTE\") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role. This salary range may be inclusive of several career levels at Eve and will be narrowed during the interview process based on a number of factors, including the candidate’s experience, qualifications, and location.</em></strong></p><p><strong>US Salary Range</strong></p><p><strong>$226,000—$265,000 USD</strong></p><h2><strong>Benefits</strong></h2><p><strong>💰 Competitive Salary &#x26; Equity</strong></p><h2><strong>💹 401(k) Program with Employer Matching</strong></h2><p><strong>⚕️ Health, Dental, Vision and Life Insurance<br>🩼 Short Term and Long Term Disability<br>🚗 Commuter Benefits<strong>*</strong><br>🧑‍💻 Autonomous Work Environment<br>🖥️ Workplace Setup Reimbursement<br>🏠 Telecomm Stipend<br>🏝 Flexible Time Off (FTO) + Holidays<br>🚀 Quarterly Team Gatherings<br>🥪 In office Perks<strong>*</strong></strong></p><p><strong><em><strong>*</strong>In office employees only</em></strong>\n\n\n</p><p><strong><em>Eve Legal is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex (including pregnancy, sexual orientation, or gender identity), national origin, age, disability, genetic information, veteran status, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation during the application process, reach out to your recruiter.</em></strong></p><p><strong><em><em>We may use artificial intelligence (AI) tools to support parts of the hiring process.  These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.</em></em></strong></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/staff-analytics-engineer-eve</p>",
       "posted_at": "2026-10-27T05:29:17+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "e981e5ef-55e4-43ba-9052-1fedc63e8c76",
-      "title": "Senior Data Engineer",
-      "url": "https://remotejobs.org/remote-jobs/senior-data-engineer-eve",
-      "apply_url": "https://remotejobs.org/remote-jobs/senior-data-engineer-eve",
-      "company": {
-        "name": "Eve",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/dcb176a7018370b6fb169d16c7720d056ed89c3bdfde05b0908b6026cfaef7ef.webp",
-        "website": "https://eve.com",
-        "url": "https://remotejobs.org/companies/eve"
-      },
-      "category": {
-        "name": "Data Science",
-        "slug": "data-science"
-      },
-      "location": "United States",
-      "location_normalization": {
-        "raw": "United States",
-        "input": {},
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [],
-        "evidence_ids": [
-          "source-location"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": "senior",
-        "role_family": "data-engineering",
-        "required_skills": [],
-        "mentioned_skills": [
-          "python",
-          "sql",
-          "terraform"
-        ],
-        "preferred_skills": [],
-        "experience_requirements": []
-      },
-      "salary_min": 185000,
-      "salary_max": 210000,
-      "salary_text": "USD 185,000–210,000/year",
-      "salary_source_text": "USD 185000 - 210000",
-      "salary_currency": "USD",
-      "salary_period": "year",
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<p><strong>About Eve<br>Eve is redefining legal technology for plaintiff law firms, and we're building the team that will take us there. We help firms handle more cases, recover more for clients, and grow with AI that works across every stage of a case, from intake through resolution. The next generation of great plaintiff firms will be AI-Native, and Eve is how they get there. But what makes Eve different isn't just the product. It's how we build it. If you're someone who takes ownership, stays curious, and wants to build AI that's already changing how  law is practiced, this is where you belong.</strong></p><p><strong><strong>Product-market fit:</strong> Eve is trusted by over 1000+ law firms, and we’re growing fast.<br><strong>Backed by top investors:</strong> We’ve raised over $160M from world-class partners including Spark Capital, Andreessen Horowitz(A16z), Menlo Ventures, and Lightspeed.<br><strong>Built by a world-class team: </strong>Engineers, designers, and operators from places like Scale, Meta, Airbnb, Cruise, Square, Rubrik, and Lyft are building Eve from the ground up.<br><strong>AI-Native from day one: </strong>We’re on the bleeding edge of AI, collaborating directly with teams at OpenAI and Anthropic to build best-in-class AI workflows tailored for legal work.<br><strong>Explosive growth:</strong> We are growing 2X revenue Quarter over Quarter.</strong></p><h2><strong><strong>The Role</strong></strong></h2><p><strong>Eve is doubling revenue quarter over quarter, and the platform is being built to keep pace. A medallion architecture is in place on a Terraform-managed Snowflake footprint. Most of what goes on top is still ahead: ingestion and orchestration built for the volume coming, reliability practice, the access and governance model, and the standards every contributor works inside.</strong></p><p><strong>The data spans product usage, case and firm data, and every go-to-market system Eve runs on. Analytics engineers and business analysts build models and reporting on top of it, AI agents query it directly, and leadership makes calls on it weekly. When a pipeline fails quietly, all three inherit the mistake.</strong></p><p><strong>You'll own the pipelines carrying all of that, end to end, from an ambiguous ask through to production. Moving nightly rebuilds onto incremental patterns. Deciding how a new source gets ingested and what happens when it changes shape. Building the alerting that catches a broken model before anyone downstream does, and being the one who picks it up when it breaks. </strong></p><p><strong>You'll have real say in how the platform gets built. You'll work on our central team and report to the Head of Data Engineering, who reports directly to the CEO. Data is a first-class function at Eve and the fuel to drive our future growth.</strong></p><h2><strong><strong>What You'll Do</strong></strong></h2><h2><strong>Build and run the platform</strong></h2><ul>\n<li><strong>Own ingestion through Fivetran, third-party connectors, and custom extraction where no connector exists</strong></li>\n<li><strong>Own orchestration across dbt platform and GitHub Actions, own materialization strategy and model performance, move critical models off nightly full rebuilds onto incremental patterns, and cut latency where decisions are waiting on stale data</strong></li>\n<li><strong>Build source-schema change detection, so an upstream field change surfaces as an alert before it reaches a report</strong></li>\n<li><strong>Stand up observability: freshness SLAs on critical tables, alerting on failure and drift, and an incident path with clear ownership</strong></li>\n<li><strong>Be a first responder when pipelines break, and drive the fix upstream so the same failure doesn't recur</strong></li>\n<li><strong>Manage pipeline compute cost, and make the tradeoffs between freshness and spend explicit rather than accidental</strong></li>\n<li><strong>Share Snowflake administration: implementing the role-based access model, security and network policies, data masking and PII controls, and storage organization</strong></li>\n<li><strong>Extend the medallion architecture and the Terraform-managed footprint, including full separation of development and production</strong></li>\n<li><strong>Contribute to the foundational modeling layer the Analytics Engineers build on: source-to-staging patterns, conformed dimensions, shared entities, and SCD patterns that make history reliable</strong></li>\n</ul><h2><strong>Raise the bar</strong></h2><ul>\n<li><strong>Build and maintain the development environments and CI that let analysts contribute models safely, and review their contributions so more of the company can build on the foundation</strong></li>\n<li><strong>Build the tooling and setup that gets a new engineer or analyst productive in days, not weeks</strong></li>\n<li><strong>Administer the data tooling stack: access, integrations, and the connective work between systems</strong></li>\n<li><strong>Use AI-assisted development as part of how you work: Claude Code skills, agents, and evals, held to the same review bar as anything else</strong></li>\n<li><strong>Document as you build. If it isn't written down, it isn't done</strong></li>\n</ul><h2><strong>What We're Looking For</strong></h2><ul>\n<li><strong>5+ years in data engineering, owning production systems other people depended on</strong></li>\n<li><strong>Strong Python and SQL, with production experience across ingestion (Fivetran or similar), orchestration (dbt platform, GitHub Actions, or Airflow), and cloud infrastructure</strong></li>\n<li><strong>Solid Snowflake: access control, warehouse sizing, query performance, and cost management</strong></li>\n<li><strong>Practical dbt: incremental models, testing, macros, and a git-based workflow with CI. Experience building SCD tables from multiple sources</strong></li>\n<li><strong>Comfort in a Terraform-managed environment. Infrastructure changes go through code review here, not the Snowflake console</strong></li>\n<li><strong>You've built reliability practice where none existed: alerting, freshness SLAs, incident response, schema change detection</strong></li>\n<li><strong>Proficiency with AI-assisted development such as Claude Code, including agentic pipeline design and skill-based workflows, and comfort integrating tools via MCP servers</strong></li>\n<li><strong>Able to tell a stakeholder what broke, what it affected, and when it'll be fixed, without the jargon</strong></li>\n<li><strong>Comfort building where the playbook doesn't exist yet</strong></li>\n</ul><h2><strong>Nice to haves:</strong></h2><ul>\n<li><strong>Experience in a regulated or high-sensitivity data environment (legal, healthcare, financial services)</strong></li>\n<li><strong>Experience with streaming or near-real-time ingestion, and knowing when it isn't worth it</strong></li>\n<li><strong>Exposure to Iceberg, Parquet, or unstructured data at scale</strong></li>\n<li><strong>B2B SaaS, especially selling to small and mid-sized businesses or professional services firms</strong></li>\n</ul><p><strong><em>For sales roles, the range provided is the role’s On Target Earnings (\"OTE\") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role. This salary range may be inclusive of several career levels at Eve and will be narrowed during the interview process based on a number of factors, including the candidate’s experience, qualifications, and location.</em></strong></p><p><strong>US Salary Range</strong></p><p><strong>$185,000—$210,000 USD</strong></p><h2><strong>Benefits</strong></h2><p><strong>💰 Competitive Salary &#x26; Equity</strong></p><h2><strong>💹 401(k) Program with Employer Matching</strong></h2><p><strong>⚕️ Health, Dental, Vision and Life Insurance<br>🩼 Short Term and Long Term Disability<br>🚗 Commuter Benefits<strong>*</strong><br>🧑‍💻 Autonomous Work Environment<br>🖥️ Workplace Setup Reimbursement<br>🏠 Telecomm Stipend<br>🏝 Flexible Time Off (FTO) + Holidays<br>🚀 Quarterly Team Gatherings<br>🥪 In office Perks<strong>*</strong></strong></p><p><strong><em><strong>*</strong>In office employees only</em></strong>\n\n\n</p><p><strong><em>Eve Legal is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex (including pregnancy, sexual orientation, or gender identity), national origin, age, disability, genetic information, veteran status, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation during the application process, reach out to your recruiter.</em></strong></p><p><strong><em><em>We may use artificial intelligence (AI) tools to support parts of the hiring process.  These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.</em></em></strong></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-data-engineer-eve</p>",
-      "posted_at": "2026-10-27T05:29:14+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "64e232e0-ab78-4fdb-8ea3-869707ac2da5",
-      "title": "Senior Data Engineer - Real time analytics",
-      "url": "https://remotejobs.org/remote-jobs/senior-data-engineer-real-time-analytics-aircall",
-      "apply_url": "https://remotejobs.org/remote-jobs/senior-data-engineer-real-time-analytics-aircall",
-      "company": {
-        "name": "Aircall",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/012d14b16a80a043bb32965f033bf751195d756afe70345db59e5277b1580e54.webp",
-        "website": "https://aircall.com",
-        "url": "https://remotejobs.org/companies/aircall"
-      },
-      "category": {
-        "name": "Data Science",
-        "slug": "data-science"
-      },
-      "location": "France",
-      "location_normalization": {
-        "raw": "France",
-        "input": {},
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "FR"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [],
-        "evidence_ids": [
-          "source-location"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "FR"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": "senior",
-        "role_family": "data-engineering",
-        "required_skills": [],
-        "mentioned_skills": [
-          "aws",
-          "golang",
-          "python",
-          "sql",
-          "typescript"
-        ],
-        "preferred_skills": [],
-        "experience_requirements": [
-          {
-            "text": "3+ years experience with near real-time analytics",
-            "maximum_years": null,
-            "minimum_years": 3,
-            "classification": "mentioned"
-          },
-          {
-            "text": "5+ years experience with a modern programming language such as Scala, Python, Go, Typescript",
-            "maximum_years": null,
-            "minimum_years": 5,
-            "classification": "mentioned"
-          }
-        ]
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": null,
-      "salary_period": "year",
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<p>Aircall is a unicorn, AI-powered customer communications platform used by 22,000+ companies worldwide to drive revenue, resolve issues faster, and scale customer-facing teams. We’re redefining customer communications by bringing voice, SMS, WhatsApp, and AI together into one seamless workspace.</p>\n<p>Our momentum comes from a simple idea: help teams work smarter, not harder. Aircall’s AI Voice Agent automates routine calls, AI Assist streamlines post-call work, and AI Assist Pro delivers real-time guidance so people can do their best work. The result is higher revenue, faster resolutions, and teams that scale with confidence.</p>\n<p>Aircall is headquartered in Paris, our European HQ, with a strong North American presence anchored in Seattle, our North American HQ, and teams across Madrid, London, Berlin, San Francisco, New York City, Sydney, and Mexico City. We’ve built a product customers love and a business that’s scaling quickly, backed by world-class investors and driven by rapid AI innovation across multiple product lines.</p>\n<p>At Aircall, you’ll join a company in motion. We’re ambitious, product-driven, and execution-focused, with visible impact, fast decisions, and real growth.</p>\n<p><strong>How we work at Aircall: </strong>We’re customer-obsessed, data-driven, and focused on delivering meaningful outcomes. We value ownership, continuous learning, and thoughtful speed. If you thrive in a collaborative, fast-moving environment where trust and impact matter, you’ll feel at home here.</p>\n<p>We are looking for an engaged and passionate <strong>Senior Data Engineer</strong> to join our growing Engineering Team. In this role, you will be a key member of the team managing our analytics and event platform stack.</p>\n<p>As part of the Analytics &#x26; Data Platform team, you will build features for over 22,000 customers across the globe. Your work will unlock the value of data, empowering our customers to make informed decisions through real-time insights, monitoring, and comprehensive analytical reports.</p>\n<h2>Your role at Aircall</h2>\n<ul>\n<li>Have key responsibilities within the requirements analysis, <strong>scalable &#x26; low latency streaming platform solution design, architecture, and end-to-end delivery of key modules in order to provide near real-time data solutions</strong> for our product</li>\n<li>Analyze and translate <strong>business needs into data model &#x26; optimize for big data</strong></li>\n<li>Identify slow queries and <strong>optimize for better performance</strong></li>\n<li>Write clean scalable code <strong>using Scala / python / SQL </strong>and test and deploy applications and systems</li>\n<li>Solve our most <strong>challenging data problems, in near real-time,</strong> utilizing optimal data architectures, frameworks, query techniques, sourcing from structured and unstructured data sources.</li>\n<li>Be part of an engineering organization delivering high quality, secure, and scalable solutions to Aircall clients</li>\n<li>Involvement in product and platform performance optimization and live site monitoring</li>\n<li>Mentor team members through giving and receiving actionable feedback.</li>\n</ul>\n<h2>Our tech. stack:</h2>\n<ul>\n<li>AWS (Kinesis,Kafka, s3, DMS, Glue, EMR, EKS, Redshift, Spectrum), Apache Pinot, Apache <strong>Flink </strong>and Airflow.</li>\n<li>A continuous deployment process based on GitLab</li>\n</ul>\n<h2>A little more about you:</h2>\n<ul>\n<li>A Bachelor's degree in a technical field (eg. computer science or mathematics).</li>\n<li><strong>3+ years experience with near real-time analytics</strong></li>\n<li><strong>5+ years experience with a modern programming language such as Scala, Python, Go, Typescript</strong></li>\n<li>Experience of designing <strong>complex data processing pipeline</strong></li>\n<li><strong>Experience of data modeling </strong>(star schema, dimensional modeling etc) in <strong>AWS redshift</strong></li>\n<li>Experience of query optimisation</li>\n<li>Experience of kafka is a plus</li>\n<li>Shipping and maintaining code in production</li>\n<li>You like sharing your ideas, and you're open-minded</li>\n</ul>\n<h2>Why join us?</h2>\n<p>🚀 Key moment to join Aircall in term of growth and opportunities</p>\n<p>💆‍♀️ Our people matter, work-life balance is important at Aircall</p>\n<p>📚 Fast-learning environment, entrepreneurial and strong team spirit</p>\n<p>🌍 45+ Nationalities: cosmopolite &#x26; multi-cultural mindset</p>\n<p>💶 Competitive salary package &#x26; benefits (health coverage, lunch, commute, sports)</p>\n<p><em>DE&#x26;I Statement:</em></p>\n<p><em>At Aircall, we believe diversity, equity and inclusion, irrespective of origins, identity, background and orientations, are </em><strong><em>core to our Aircall journey.</em></strong></p>\n<p><em>We promote active inclusion to foster a</em><strong><em> strong sense of belonging</em></strong><em> which is one of our main strengths as a business. We strive to assemble diverse people that can </em><strong><em>enrich and learn from each other</em></strong><em>. We pledge to make sure everyone not only has a seat at the table but is valued at the table -- providing </em><strong><em>equal opportunities </em></strong><em>to develop and thrive.</em></p>\n<p><em>We will constantly challenge ourselves to make sure that we live up to our ambitions around diversity, equity and inclusion, and </em><strong><em>keep this conversation </em></strong><em>open because we realize that we have work to do and much to learn.</em></p>\n<p>Want to know more about candidate privacy? Find our Candidate Privacy Notice here.</p>\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-data-engineer-real-time-analytics-aircall</p>",
-      "posted_at": "2026-10-27T05:29:12+00:00",
       "is_translated": false,
       "original_language": null
     }
