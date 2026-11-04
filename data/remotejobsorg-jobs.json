@@ -1,7 +1,92 @@
 {
-  "generatedAt": "2026-11-03T23:00:52.410Z",
+  "generatedAt": "2026-11-04T05:02:19.207Z",
   "count": 150,
   "data": [
+    {
+      "id": "b2d964d9-3796-4aee-87e0-77b94b4364f7",
+      "title": "Senior Security Engineering Manager",
+      "url": "https://remotejobs.org/remote-jobs/senior-security-engineering-manager-brain-co",
+      "apply_url": "https://remotejobs.org/remote-jobs/senior-security-engineering-manager-brain-co",
+      "company": {
+        "name": "Brain Co.",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/055529db40645507d4c5ba1af65ce4f3cd1da822d4d9e33487d1d9b4f6b4c9c4.png",
+        "website": null,
+        "url": "https://remotejobs.org/companies/brain-co"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "San Francisco Bay Area",
+      "location_normalization": {
+        "raw": "San Francisco Bay Area",
+        "input": {
+          "workArrangement": "hybrid"
+        },
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [
+          "san francisco bay area"
+        ],
+        "work_arrangement": "hybrid",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "worksite_countries": [
+          "US"
+        ],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [],
+        "allowed_regions": [],
+        "work_arrangement": "hybrid",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "partial",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": null,
+        "role_family": null,
+        "required_skills": [],
+        "mentioned_skills": [],
+        "preferred_skills": [],
+        "experience_requirements": []
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "dc21f1a7-e4eb-48ec-8432-c13aad807501",
+      "direct_apply": null,
+      "description": "<h2>Our Mission</h2><p>Rebuild how the world works, to make institutions work better for the people they serve.</p><h2>About Brain Co.</h2><p>Brain Co. builds AI-native operating systems for large, regulated institutions. Each system is built for a specific industry, powered by agents that push real workflows forward. Underneath it all is Atlas, our proprietary platform that keeps customers in control, secure by design, and never locked into one model.</p><h2>Why Now</h2><p>Brain Co. is entering its next phase of production deployments on a national scale with an elite team built from Palantir, Google, Meta, and Nvidia, and a growing footprint across government, insurance, health, and financial services.</p><p>Joining now means shaping both the company and a new category of applied AI. Every project here ships to production and is expected to create measurable customer value and impact.</p><p>You'll work alongside exceptional peers on some of the hardest problems in applied AI. It’s the kind of work you'll still be proud of in ten years from now.</p><h2>About the Role</h2><p>We’re hiring a Security Engineering Leader to help make security engineering more effective, scalable, and repeatable as Brain Co. grows. You’ll report to the Head of Security and serve as a close partner in leading the function.</p><p>Brain Co. works with sensitive customer data in a high-stakes environment with very low tolerance for risk. This is a player-coach role: you’ll set direction, develop leaders, improve how the team operates, and stay close enough to the technical work to guide difficult decisions.</p><p>The initial scope is intentionally focused and expected to grow through results. The right person is comfortable building in a greenfield environment, creating high ownership, and translating security risk into clear priorities for technical and non-technical partners. The mandate from day one is to develop people, improve execution, and make disciplined choices about the risks and systems that matter most.</p><h3>What You’ll Lead &#x26; Build</h3><ul><li><p>Set and refine the security engineering roadmap in partnership with company and engineering leadership.</p></li><li><p>Automate and operationalize how security engineering engages with the rest of the company.</p></li><li><p>Strengthen existing SLAs, KPIs, ownership models, and operating rhythms, then use them to improve velocity and security outcomes.</p></li><li><p>Drive operational excellence across security engineering domains, including vulnerability management, application and infrastructure security, incident response, monitoring, and automation.</p></li><li><p>Turn effective security engineering practices into a repeatable system that scales beyond individual heroics.</p></li><li><p>Lead, coach, and grow a high-performing team; develop managers and technical leaders through clear expectations, feedback, and mentorship.</p></li><li><p>Translate strategy into team priorities, individual goals, and an accountable execution plan.</p></li><li><p>Stay hands-on in technical decisions, architecture review, code review, and implementation when the work requires it.</p></li><li><p>Partner across engineering and product to embed security into the software development lifecycle and make the secure path the practical path.</p></li></ul><h3>What We’re Looking For</h3><ul><li><p>Experience managing managers and developing leaders at multiple levels.</p></li><li><p>Hands-on security engineering leadership and the ability to build a function in a zero-to-one environment.</p></li><li><p>Broad knowledge across multiple security domains—such as vulnerability management, incident response, security monitoring, application security, or cloud security—with deep expertise in at least one.</p></li><li><p>A player-coach track record: able to guide technical design and execution while managing people, priorities, and processes.</p></li><li><p>Strong prioritization judgment when the scope is broad and the tolerance for risk is low.</p></li><li><p>Experience improving how a team operates, including how work is measured, assigned, and delivered.</p></li><li><p>Experience automating a security team’s engagement model or improving its SLA and KPI practices.</p></li><li><p>Experience turning strategy into roadmaps, measurable outcomes, and cross-functional execution.</p></li><li><p>Strong communication with technical and non-technical stakeholders, including the ability to articulate business risk and secure alignment.</p></li><li><p>A track record of hiring, coaching, mentoring, and raising the performance of technical teams and leaders.</p></li></ul><p>Experience in a SaaS or AI company with low risk thresholds, or building security infrastructure, monitoring, and automation, is helpful but not required.clients who may be skeptical of or unfamiliar with the tooling.</p><h3><strong>Benefits</strong></h3><ul><li><p>Competitive salary</p></li><li><p>Medical, Dental, and Vision (100% Coverage)</p></li><li><p>Paid Maternity and Paternity Leave</p></li><li><p>401(k)</p></li><li><p>Daily Lunches + Dinners</p></li><li><p>Commuter Benefits</p></li><li><p>Unlimited PTO</p></li></ul><h2><strong>Equal Opportunity and Accessibility</strong></h2><p>Brain Co. is an equal opportunity employer. We make employment decisions without regard to race, color, religion, sex, national origin, age, disability, genetic information, or any other status protected by applicable federal, state, or local law. We provide reasonable accommodations for applicants and employees with disabilities or sincerely held religious beliefs - contact talent@braincompany.ai to request one.</p><p>Ready to build with us?</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-security-engineering-manager-brain-co</p>",
+      "posted_at": "2026-11-03T16:54:55.944+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
     {
       "id": "03afcd0d-d9b4-4d20-b809-5e8e8ec3873e",
       "title": "Senior Integration Developer | 55-69K 🇫🇮",
@@ -4621,96 +4706,6 @@
       "direct_apply": null,
       "description": "<p>Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange platform protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location. Distributed across 200+ public data centers globally and thousands of private sites at the edge, the SASE-based Zero Trust Exchange is the world’s largest in-line cloud security platform.</p>\n<p>We believe the future of work is Human + AI and are building an AI-native enterprise where human potential is amplified by machine intelligence to solve the world’s hardest security challenges. Driven by deep customer obsession, we are committed to the mission, outcome, and to each other. We bring these commitments to life through three core behaviors: ownership and collaboration, trust through outcomes and impact, and a challenge culture with ongoing feedback. Ready to make an impact at the company pioneering security transformation in the AI era? Join us at Zscaler.</p>\n<p><a href=\"https://share.synthesia.io/c57d35c1-5686-4e34-bec6-bba734f90ab1\">Software Developer</a></p>\n<p><strong>Role</strong> </p>\n<p>We are looking for a Sr. Staff Engineer to join our team. This is a Hybrid role in Mohali, reporting to the Director, Software Development Engineering in the Engineering department. This unique and challenging position bridges software design engineering and test engineering to design, develop, and deploy wide-reaching tools and frameworks that automatically verify product quality at scale.</p>\n<p><strong>What you’ll do (Role Expectations)</strong></p>\n<ul>\n<li>Own end-to-end System Integration Testing (SIT) and quality outcomes for key platform areas including UI, APIs,<br>\nservices, and data workflows</li>\n<li>Design and deliver effective, automatable test plans with strong coverage for functional, regression, and system<br>\nintegration scenarios</li>\n<li>Build and maintain UI and API automation using modern frameworks to ensure stability, maintainability, and fast<br>\nfeedback</li>\n<li>Validate large-scale systems including REST APIs, backend services, distributed workflows, and microservices</li>\n</ul>\n<p><strong>Who You Are (Success Profile)</strong></p>\n<ul>\n<li>You thrive in ambiguity. You're comfortable building the path as you walk it. You thrive in a dynamic environment, seeing ambiguity not as a hindrance, but as the raw material to build something meaningful.</li>\n<li>You act like an owner. Your passion for the mission fuels your bias for action. You operate with integrity because you genuinely care about the outcome. True ownership involves leveraging dynamic range: the ability to navigate seamlessly between high-level strategy and hands-on execution.</li>\n<li>You are a problem-solver. You love running towards the challenges because you are laser-focused on finding the solution, knowing that solving the hard problems delivers the biggest impact.</li>\n<li>You are a high-trust collaborator. You are ambitious for the team, not just yourself. You embrace our challenge culture by giving and receiving ongoing feedback—knowing that candor delivered with clarity and respect is the truest form of teamwork and the fastest way to earn trust.</li>\n<li>You are a learner. You have a true growth mindset and are obsessed with your own development, actively seeking feedback to become a better partner and a stronger teammate. You love what you do and you do it with purpose.</li>\n</ul>\n<p><strong>What We’re Looking for (Minimum Qualifications)</strong></p>\n<ul>\n<li>Foundational understanding of AI/ML technologies and experience leveraging, securing, or positioning AI-driven solutions to optimize outcomes within your functional domain</li>\n<li>Advanced proficiency in automation testing using Python (pytest/unittest), JavaScript, or TypeScript</li>\n<li>Hands-on experience with UI automation tools such as Selenium, Cypress, or Playwright for end-to-end validation</li>\n<li>Deep experience testing distributed systems, microservices, and scalable cloud-native multi-tenant architectures in AWS, GCP, or Azure environments</li>\n<li>Solid understanding of CI/CD integration, Linux troubleshooting, and containerized environments including Docker and Kubernetes</li>\n<li>Technical knowledge of L2/L3 networking concepts, including routing protocols, VPN, IPSec, and WAN architecture</li>\n</ul>\n<p><strong>What Will Make You Stand Out (Preferred Qualifications)</strong></p>\n<ul>\n<li>Proven experience designing scalable test frameworks covering architecture, patterns, reporting, stability, and parallelization<br>\nProficiency with Git, test management tools like TestRail, and issue tracking systems such as Jira</li>\n<li>Hands-on experience with AI agent prompting and usage for productivity, test design, and automation support</li>\n</ul>\n<p>#LI-Hybrid #LI-GL2</p>\n<p>At Zscaler, we are committed to building a team that reflects the communities we serve and the customers we work with. We foster an inclusive environment that values all backgrounds and perspectives, emphasizing collaboration and belonging. Join us in our mission to make doing business seamless and secure.</p>\n<p>Our Benefits program is one of the most important ways we support our employees. Zscaler proudly offers comprehensive and inclusive benefits to meet the diverse needs of our employees and their families throughout their life stages, including:</p>\n<ul>\n<li>Various health plans</li>\n<li>Time off plans for vacation and sick time</li>\n<li>Parental leave options</li>\n<li>Retirement options</li>\n<li>Education reimbursement</li>\n<li>In-office perks, and more!</li>\n</ul>\n<p>Learn more about Zscaler's hybrid working model and benefits <a href=\"https://www.zscaler.com/candidate-resource-hub\">here</a>.</p>\n<p>By applying for this role, you adhere to applicable laws, regulations, and Zscaler policies, including those related to security and privacy standards and guidelines.</p>\n<p>Zscaler is committed to providing equal employment opportunities to all individuals. We strive to create a workplace where employees are treated with respect and have the chance to succeed. All qualified applicants will be considered for employment without regard to race, color, religion, sex (including pregnancy or related medical conditions), age, national origin, sexual orientation, gender identity or expression, genetic information, disability status, protected veteran status, or any other characteristic protected by federal, state, or local laws. <em>See more information by clicking on the </em><a href=\"https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf\"><em>Know Your Rights: Workplace Discrimination is Illegal </em></a><em>link.</em></p>\n<p>Pay Transparency</p>\n<p>Zscaler complies with all applicable federal, state, and local pay transparency rules.</p>\n<p>Zscaler is committed to providing reasonable support (called accommodations or adjustments) in our recruiting processes for candidates who are differently abled, have long term conditions, mental health conditions or sincerely held religious beliefs, or who are neurodivergent or require pregnancy-related support.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/sr-staff-software-development-engineer-automation-zscaler</p>",
       "posted_at": "2026-11-02T09:40:27+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "804a0593-2a19-4e53-ae6d-ed7964baad3a",
-      "title": "Principal Software Engineer (Remote Eligible in Bulgaria)",
-      "url": "https://remotejobs.org/remote-jobs/principal-software-engineer-remote-eligible-in-bulgaria-smartsheet",
-      "apply_url": "https://remotejobs.org/remote-jobs/principal-software-engineer-remote-eligible-in-bulgaria-smartsheet",
-      "company": {
-        "name": "Smartsheet",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/a608bf333cef33b6abdecb6d74c8b55bdd54b4aeb6115eef082b88613d865480.jpeg",
-        "website": "https://smartsheet.com",
-        "url": "https://remotejobs.org/companies/smartsheet"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "Anywhere in the World",
-      "location_normalization": {
-        "raw": "Anywhere in the World",
-        "input": {},
-        "scope": "worldwide",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [],
-        "evidence_ids": [
-          "c2",
-          "c3",
-          "c4"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "remote",
-        "allowed_countries": [
-          "BG"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": "principal",
-        "role_family": "software-engineering",
-        "required_skills": [],
-        "mentioned_skills": [
-          "cpp",
-          "golang",
-          "java",
-          "python",
-          "sql"
-        ],
-        "preferred_skills": [],
-        "experience_requirements": []
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": null,
-      "salary_period": null,
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<p><strong>Headquarters:</strong> -REMOTE, BULGARIA-</p>\n<p>For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best, automating manual tasks and uncovering insights at scale, we create the space for people to focus on what truly matters: judgment, creativity, and big thinking. That is magic at work, and it’s what we show up for every day.</p>\n<p>We are looking for a skilled and motivated Principal Software Engineer who is passionate about continuous learning and eager to grow along with us in a fast-paced, innovative environment.</p>\n<p>You will work remotely from Bulgaria and will be reporting to an engineering leader located in Bulgaria.</p>\n<p><strong>You Will:</strong></p>\n<ul>\n<li>Lead the design and implementation of Smartsheet's next-generation architecture, ensuring scalability, security, and performance for millions of global users.</li>\n<li>Define and drive architecture strategy, making key technical decisions that shape the future of the platform.</li>\n<li>Review and guide technical project designs, providing feedback during design review presentations to ensure system resilience and scalability.</li>\n<li>Take ownership of cross-functional technical initiatives, aligning teams around common architectural goals while driving large-scale projects to completion.</li>\n<li>Foster strong technical leadership, mentoring senior engineers and influencing best practices across multiple engineering teams.</li>\n<li>Lead deployment reviews for high-impact projects, ensuring they meet scalability, performance, and security requirements.</li>\n<li>Collaborate closely with product management and other business stakeholders to balance market needs with technical constraints, driving innovation while maintaining technical rigor.</li>\n<li>Advocate for quality and operational excellence, ensuring systems are monitored, tested, and maintained to meet the highest reliability standards.</li>\n<li>Perform other duties as assigned.</li>\n</ul>\n<p><strong>You Have:</strong></p>\n<ul>\n<li>Proven experience in system architecture and the design of scalable, high-availability systems across multiple programming languages and frameworks (Python, Go, Java, C/C++, SQL).</li>\n<li>Deep understanding of distributed systems, event-driven architectures, and microservices.</li>\n<li>Strong experience in leading large-scale architectural transformations, with the ability to influence technical direction across multiple teams.</li>\n<li>Expertise in web application development, data structures, and object-oriented design.</li>\n<li>A track record of mentoring senior engineers, leading them through architectural challenges, and ensuring they grow into strong technical leaders.</li>\n<li>Strong verbal and written communication skills, with the ability to convey complex technical concepts to both technical and non-technical audiences, including senior executives.</li>\n<li>Experience with cloud architectures and infrastructure at scale, as well as database optimization for performance and scalability.</li>\n<li>Demonstrated ability to work autonomously, driving initiatives forward while aligning with business objectives.</li>\n<li>Familiarity with Agile/Scrum methodologies, driving engineering best practices across teams.</li>\n<li>Legally eligible to work in Bulgaria on an ongoing basis.</li>\n<li>Fluency in English is required.</li>\n</ul>\n<p>Smartsheet provides a competitive base salary range for roles that may be hired in different geographic areas we are licensed to operate our business from. Actual compensation is determined by several factors including, but not limited to, level of professional, educational experience, skills, and specific candidate location. In addition, this role will be eligible for a market competitive incentive opportunity.</p>\n<p><strong>Get to Know Us:</strong></p>\n<p>At Smartsheet, your ideas are heard, your potential is supported, and your contributions have real impact. You’ll have the freedom to explore, push boundaries, and grow beyond your role. We welcome diverse perspectives and nontraditional paths—because we know that impact comes from individuals who care deeply and challenge thoughtfully. When you’re doing work that stretches you, excites you, and connects you to something bigger, that’s magic at work. Let’s build what’s next, together.</p>\n<p><strong>Equal Opportunity Employer:</strong></p>\n<p>Smartsheet is an Equal Opportunity (EEO) employer committed to fostering an inclusive environment with the best employees. It is our policy to provide equal employment opportunities to all qualified applicants in accordance with applicable laws in the US, UK, Australia, Germany, Costa Rica, Japan, Bulgaria, India, and Singapore. All qualified applicants will receive consideration without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, protected veteran or disabled status, or genetic information. </p>\n<p>If there are preparations we can make to help ensure you have a comfortable and positive interview experience, please let us know.</p>\n<p>#LI-Remote</p>\n<p><strong>To apply:</strong> https://weworkremotely.com/remote-jobs/smartsheet-principal-software-engineer-remote-eligible-in-bulgaria</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/principal-software-engineer-remote-eligible-in-bulgaria-smartsheet</p>",
-      "posted_at": "2026-11-02T07:31:15+00:00",
       "is_translated": false,
       "original_language": null
     },
