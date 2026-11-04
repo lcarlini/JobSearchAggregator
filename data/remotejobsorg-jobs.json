@@ -1,7 +1,93 @@
 {
-  "generatedAt": "2026-11-04T05:02:19.207Z",
+  "generatedAt": "2026-11-04T13:51:52.300Z",
   "count": 150,
   "data": [
+    {
+      "id": "47a074be-399a-4720-b48a-0371000f8591",
+      "title": "Senior Software Engineer",
+      "url": "https://remotejobs.org/remote-jobs/senior-software-engineer-fluency-inc",
+      "apply_url": "https://remotejobs.org/remote-jobs/senior-software-engineer-fluency-inc",
+      "company": {
+        "name": "Fluency, Inc.",
+        "logo_url": null,
+        "website": "https://fluencyinc.co",
+        "url": "https://remotejobs.org/companies/fluency-inc"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "Burlington, VT, US",
+      "location_normalization": {
+        "raw": "Burlington, VT, US",
+        "input": {},
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [
+          "burlington"
+        ],
+        "work_arrangement": "unknown",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "allowed_subdivisions": [
+          "US-VT"
+        ],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [
+          "US-VT"
+        ],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": "senior",
+        "role_family": "software-engineering",
+        "required_skills": [],
+        "mentioned_skills": [],
+        "preferred_skills": [],
+        "experience_requirements": []
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "f6a69b63ec7e6846ef465a51bef9d9763a7d6ee4c6ee56d93595c5bb092e14e9",
+      "direct_apply": null,
+      "description": "<p>We're looking for our next talented back-end Senior Software Engineer to join us. The ideal candidate is a creative thinker that is highly motivated to execute and capable of wearing multiple hats every day. You will have strong leadership skills and must be comfortable self directing.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-software-engineer-fluency-inc</p>",
+      "posted_at": "2026-11-04T06:00:12.177+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
     {
       "id": "b2d964d9-3796-4aee-87e0-77b94b4364f7",
       "title": "Senior Security Engineering Manager",
@@ -4613,99 +4699,6 @@
       "direct_apply": null,
       "description": "<p><strong>Position Purpose:</strong> Directs multiple teams accountable for designing, developing, and implementing complex enterprise software solutions. Provides technical guidance to engineering teams and implements best practice development methods.  Manages a large portfolio of new development, enhancements, maintenance projects to successful completion navigating quality, schedule, competing priorities and cost management challenges.  Supports established organizational objectives by developing goals and strategies for the engineering teams.</p><p><strong>Key Details:</strong> Lead at scale in a role that combines technical strategy, application architecture, and people leadership. You’ll guide multiple engineering teams, influence key technology decisions, and oversee significant application development and modernization efforts across the enterprise. This remote role provides broad cross-functional exposure and the opportunity to develop engineering talent while driving quality, security, and technical best practices. This is a remote role within the United States, requiring business travel 2-3 times per quarter. Candidates must be authorized to work in the U.S. without the need for employment-based visa sponsorship now or in the future. Sponsorship and future sponsorship are not available for this opportunity, including employment-based visa types H-1B, L-1, O-1, H-1B1, F-1, J-1, OPT, or CPT.</p><ul>\n<li>Leads and directs multiple teams consisting of Senior Application Development Engineers responsible with large-scale complex Application Development projects / programs</li>\n<li>Provides technical guidance to engineering teams and implements best practice development methods</li>\n<li>Participates in technical architecture meetings with the team and providers feedback to the team</li>\n<li>Manages a large portfolio of new development, enhancements, maintenance projects to successful completion navigating quality, schedule, competing priorities and cost management challenges</li>\n<li>Supports established organizational objectives by developing goals and strategies for the engineering teams</li>\n<li>Defines processes to identify and evaluate risks and participates in mitigation and control activities</li>\n<li>Maintains good relationships with Application and Infrastructure Management operational groups</li>\n<li>Partners with Security and SRE teams, makes sure all security and change management policies are followed.</li>\n<li>Leads the design and development of proof of concept and prototype application environments</li>\n<li>Maintains staff by recruiting, selecting, orienting, and training employees; maintains a safe and secure work environment; develops personal growth opportunities for the team members</li>\n<li>Establishes operational objectives and delegates tasks to team Developers to help ensure the stable operation of application development activities</li>\n<li>Provides expert knowledge to develop staff capabilities to strengthen understanding of application development industry, business issues and best practices; evaluate implications to IT</li>\n<li>Develops and communicates departmental objectives; inspire and motivate team members to achieve results</li>\n<li>Holds teams accountable to meet functional, quality, and time line objectives</li>\n<li>Performs other duties as assigned</li>\n<li>Complies with all policies and standards</li>\n</ul><h2>Education/Experience:</h2><ul>\n<li>Requires a Bachelor's degree and 7+ years of related experience, including prior management experience.</li>\n<li>Or equivalent experience acquired through accomplishments of applicable knowledge, duties, scope and skill reflective of the level of this position.</li>\n</ul><h2>Technical Skills:</h2><ul>\n<li>One or more of the following skills are desired:</li>\n<li>Experience with Application Development; Applications Architecture</li>\n<li>Experience with DevOps industry best practices</li>\n<li>Knowledge of Agile Software Development</li>\n</ul><h2>Soft Skills:</h2><ul>\n<li>Ability to lead/manage others</li>\n<li>Collaboration and team building skills</li>\n<li>Effectively coaches and delivers constructive feedback</li>\n<li>Instills commitment to organizational goals</li>\n<li>Ability to communicate and make recommendations to upper management</li>\n<li>Effective conflict management skills</li>\n<li>Develops and delivers effective presentations</li>\n<li>Demonstrated negotiation skills</li>\n<li>Ability to analyze and interpret financial data in order to facilitate on projects initiatives and goals</li>\n</ul><p>Pay Range: $146,000.00 - $269,600.00 per year<br><br></p><p><strong>At Centene, we connect people to the care they need to live healthier lives — and the work you do here makes that impact real every day. </strong>You’ll take on meaningful challenges that directly support individuals, families, and communities, building your skills while making healthcare more accessible and effective. It’s work with a purpose you can see, backed by a team committed to improving lives well beyond the workday.</p><p>Centene offers a comprehensive benefits package including: competitive pay, health insurance, 401K and stock purchase plans, tuition reimbursement, paid time off plus holidays, and a flexible approach to work with remote, hybrid, field or office work schedules.  Actual pay will be adjusted based on an individual's skills, experience, education, and other job-related factors permitted by law, including full-time or part-time status.  Total compensation may also include additional forms of incentives. Benefits may be subject to program eligibility.</p><p>Centene is an equal opportunity employer that is committed to diversity, and values the ways in which we are different. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, or other characteristic protected by applicable law.</p><p>Qualified applicants with arrest or conviction records will be considered in accordance with the LA County Ordinance and the California Fair Chance Act</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/director-application-development-engineering-centene-corporation</p>",
       "posted_at": "2026-11-02T10:34:27+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "a3d14bed-e187-443f-8fde-87593f39d375",
-      "title": "Sr. Staff Software Development Engineer - Automation",
-      "url": "https://remotejobs.org/remote-jobs/sr-staff-software-development-engineer-automation-zscaler",
-      "apply_url": "https://remotejobs.org/remote-jobs/sr-staff-software-development-engineer-automation-zscaler",
-      "company": {
-        "name": "Zscaler",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/249589fe09c0936337f826ee03adcfd15e01dbfbb51a5a88fe98f8d505029171.png",
-        "website": "https://zscaler.com",
-        "url": "https://remotejobs.org/companies/zscaler"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "Mohali, IND",
-      "location_normalization": {
-        "raw": "Mohali, IND",
-        "input": {},
-        "scope": "restricted",
-        "status": "partial",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [
-          "mohali"
-        ],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "IN"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "partial",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [],
-        "evidence_ids": [
-          "source-location"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "hybrid",
-        "allowed_countries": [
-          "IN"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "partial",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": null,
-        "role_family": null,
-        "required_skills": [],
-        "mentioned_skills": [
-          "aws",
-          "docker",
-          "javascript",
-          "kubernetes",
-          "python",
-          "typescript"
-        ],
-        "preferred_skills": [],
-        "experience_requirements": []
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": null,
-      "salary_period": null,
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": "5253923007",
-      "direct_apply": null,
-      "description": "<p>Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange platform protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location. Distributed across 200+ public data centers globally and thousands of private sites at the edge, the SASE-based Zero Trust Exchange is the world’s largest in-line cloud security platform.</p>\n<p>We believe the future of work is Human + AI and are building an AI-native enterprise where human potential is amplified by machine intelligence to solve the world’s hardest security challenges. Driven by deep customer obsession, we are committed to the mission, outcome, and to each other. We bring these commitments to life through three core behaviors: ownership and collaboration, trust through outcomes and impact, and a challenge culture with ongoing feedback. Ready to make an impact at the company pioneering security transformation in the AI era? Join us at Zscaler.</p>\n<p><a href=\"https://share.synthesia.io/c57d35c1-5686-4e34-bec6-bba734f90ab1\">Software Developer</a></p>\n<p><strong>Role</strong> </p>\n<p>We are looking for a Sr. Staff Engineer to join our team. This is a Hybrid role in Mohali, reporting to the Director, Software Development Engineering in the Engineering department. This unique and challenging position bridges software design engineering and test engineering to design, develop, and deploy wide-reaching tools and frameworks that automatically verify product quality at scale.</p>\n<p><strong>What you’ll do (Role Expectations)</strong></p>\n<ul>\n<li>Own end-to-end System Integration Testing (SIT) and quality outcomes for key platform areas including UI, APIs,<br>\nservices, and data workflows</li>\n<li>Design and deliver effective, automatable test plans with strong coverage for functional, regression, and system<br>\nintegration scenarios</li>\n<li>Build and maintain UI and API automation using modern frameworks to ensure stability, maintainability, and fast<br>\nfeedback</li>\n<li>Validate large-scale systems including REST APIs, backend services, distributed workflows, and microservices</li>\n</ul>\n<p><strong>Who You Are (Success Profile)</strong></p>\n<ul>\n<li>You thrive in ambiguity. You're comfortable building the path as you walk it. You thrive in a dynamic environment, seeing ambiguity not as a hindrance, but as the raw material to build something meaningful.</li>\n<li>You act like an owner. Your passion for the mission fuels your bias for action. You operate with integrity because you genuinely care about the outcome. True ownership involves leveraging dynamic range: the ability to navigate seamlessly between high-level strategy and hands-on execution.</li>\n<li>You are a problem-solver. You love running towards the challenges because you are laser-focused on finding the solution, knowing that solving the hard problems delivers the biggest impact.</li>\n<li>You are a high-trust collaborator. You are ambitious for the team, not just yourself. You embrace our challenge culture by giving and receiving ongoing feedback—knowing that candor delivered with clarity and respect is the truest form of teamwork and the fastest way to earn trust.</li>\n<li>You are a learner. You have a true growth mindset and are obsessed with your own development, actively seeking feedback to become a better partner and a stronger teammate. You love what you do and you do it with purpose.</li>\n</ul>\n<p><strong>What We’re Looking for (Minimum Qualifications)</strong></p>\n<ul>\n<li>Foundational understanding of AI/ML technologies and experience leveraging, securing, or positioning AI-driven solutions to optimize outcomes within your functional domain</li>\n<li>Advanced proficiency in automation testing using Python (pytest/unittest), JavaScript, or TypeScript</li>\n<li>Hands-on experience with UI automation tools such as Selenium, Cypress, or Playwright for end-to-end validation</li>\n<li>Deep experience testing distributed systems, microservices, and scalable cloud-native multi-tenant architectures in AWS, GCP, or Azure environments</li>\n<li>Solid understanding of CI/CD integration, Linux troubleshooting, and containerized environments including Docker and Kubernetes</li>\n<li>Technical knowledge of L2/L3 networking concepts, including routing protocols, VPN, IPSec, and WAN architecture</li>\n</ul>\n<p><strong>What Will Make You Stand Out (Preferred Qualifications)</strong></p>\n<ul>\n<li>Proven experience designing scalable test frameworks covering architecture, patterns, reporting, stability, and parallelization<br>\nProficiency with Git, test management tools like TestRail, and issue tracking systems such as Jira</li>\n<li>Hands-on experience with AI agent prompting and usage for productivity, test design, and automation support</li>\n</ul>\n<p>#LI-Hybrid #LI-GL2</p>\n<p>At Zscaler, we are committed to building a team that reflects the communities we serve and the customers we work with. We foster an inclusive environment that values all backgrounds and perspectives, emphasizing collaboration and belonging. Join us in our mission to make doing business seamless and secure.</p>\n<p>Our Benefits program is one of the most important ways we support our employees. Zscaler proudly offers comprehensive and inclusive benefits to meet the diverse needs of our employees and their families throughout their life stages, including:</p>\n<ul>\n<li>Various health plans</li>\n<li>Time off plans for vacation and sick time</li>\n<li>Parental leave options</li>\n<li>Retirement options</li>\n<li>Education reimbursement</li>\n<li>In-office perks, and more!</li>\n</ul>\n<p>Learn more about Zscaler's hybrid working model and benefits <a href=\"https://www.zscaler.com/candidate-resource-hub\">here</a>.</p>\n<p>By applying for this role, you adhere to applicable laws, regulations, and Zscaler policies, including those related to security and privacy standards and guidelines.</p>\n<p>Zscaler is committed to providing equal employment opportunities to all individuals. We strive to create a workplace where employees are treated with respect and have the chance to succeed. All qualified applicants will be considered for employment without regard to race, color, religion, sex (including pregnancy or related medical conditions), age, national origin, sexual orientation, gender identity or expression, genetic information, disability status, protected veteran status, or any other characteristic protected by federal, state, or local laws. <em>See more information by clicking on the </em><a href=\"https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf\"><em>Know Your Rights: Workplace Discrimination is Illegal </em></a><em>link.</em></p>\n<p>Pay Transparency</p>\n<p>Zscaler complies with all applicable federal, state, and local pay transparency rules.</p>\n<p>Zscaler is committed to providing reasonable support (called accommodations or adjustments) in our recruiting processes for candidates who are differently abled, have long term conditions, mental health conditions or sincerely held religious beliefs, or who are neurodivergent or require pregnancy-related support.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/sr-staff-software-development-engineer-automation-zscaler</p>",
-      "posted_at": "2026-11-02T09:40:27+00:00",
       "is_translated": false,
       "original_language": null
     },
