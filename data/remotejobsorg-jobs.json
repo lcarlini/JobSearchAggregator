@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T23:19:34.044Z",
+  "generatedAt": "2026-11-05T05:22:44.299Z",
   "count": 150,
   "data": [
     {
@@ -798,7 +798,30 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "c1",
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [
+          "GR"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -878,7 +901,29 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -1117,7 +1162,29 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "DE"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -1186,7 +1253,29 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "CO"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -1301,7 +1390,33 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [
+          "LATAM"
+        ],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [
+          "Unresolved area: description:1"
+        ],
+        "evidence_ids": [
+          "c2"
+        ],
+        "allowed_regions": [
+          "Latin America (LATAM)"
+        ],
+        "work_arrangement": "remote",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -1375,7 +1490,29 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [
+          "RO"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -1444,7 +1581,33 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [
+          "Role may be based out of city-level locations Del Mar, CA; Lakewood, CO; Vancouver, WA; Salt Lake City, UT; or Reno, NV, which cannot be represented as state or country areas.",
+          "Unresolved area: description:2"
+        ],
+        "evidence_ids": [
+          "c1",
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -2174,7 +2337,29 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [
+          "GB"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -4889,7 +5074,30 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "c2"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "CA",
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -4958,7 +5166,30 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [
+          "CO",
+          "MX"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -5026,7 +5257,29 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [
+          "CO"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "unknown",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -5114,7 +5367,55 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "AT",
+          "BE",
+          "BG",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GR",
+          "HR",
+          "HU",
+          "IE",
+          "IT",
+          "LT",
+          "LU",
+          "LV",
+          "MT",
+          "NL",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SI",
+          "SK"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -5185,7 +5486,30 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "c2",
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "partial",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -9603,7 +9927,63 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [
+          {
+            "kind": "timezone",
+            "areas": [],
+            "effect": "require",
+            "details": "Fully remote role within the LATAM time zones.",
+            "regions": [],
+            "timezones": [],
+            "evidence_id": "c2",
+            "conditional_on": null
+          }
+        ],
+        "unresolved": [
+          "Working-hour restriction: the role is fully remote within the LATAM time zones, a vague regional time overlap that cannot be mapped to IANA timezones (description:55)."
+        ],
+        "evidence_ids": [
+          "c2",
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "AR",
+          "BO",
+          "BR",
+          "BZ",
+          "CL",
+          "CO",
+          "CR",
+          "EC",
+          "FK",
+          "GF",
+          "GT",
+          "GY",
+          "HN",
+          "NI",
+          "PA",
+          "PE",
+          "PY",
+          "SR",
+          "SV",
+          "UY",
+          "VE"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -9674,7 +10054,29 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
