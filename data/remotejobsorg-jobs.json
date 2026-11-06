@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T14:09:39.801Z",
+  "generatedAt": "2026-11-06T05:23:12.771Z",
   "count": 150,
   "data": [
     {
@@ -414,7 +414,29 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [
+          "ZA"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -496,7 +518,29 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -568,7 +612,30 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [
+          "CH",
+          "GB"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -641,7 +708,30 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "c1"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "CA",
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -710,7 +800,30 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "c2",
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -781,7 +894,29 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [
+          "RO"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -849,7 +984,29 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "DE"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -920,7 +1077,29 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -988,7 +1167,29 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -3408,6 +3609,109 @@
       "original_language": null
     },
     {
+      "id": "61b763bb-2746-4d02-9f41-9cb86525e91f",
+      "title": "Sr Software Engineer, Cribl AI",
+      "url": "https://remotejobs.org/remote-jobs/sr-software-engineer-cribl-ai-cribl",
+      "apply_url": "https://remotejobs.org/remote-jobs/sr-software-engineer-cribl-ai-cribl",
+      "company": {
+        "name": "Cribl",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/dfb757712984fa4a817995b31d783d9f54e154e596e228354cfe18828d407f0c.jpeg",
+        "website": "https://cribl.com",
+        "url": "https://remotejobs.org/companies/cribl"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "USA",
+      "location_normalization": {
+        "raw": "USA",
+        "input": {},
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [
+          {
+            "kind": "timezone",
+            "areas": [],
+            "effect": "context",
+            "details": "This position will require stand-by, on-call, or off-hours duties.",
+            "regions": [],
+            "timezones": [],
+            "evidence_id": "c2",
+            "conditional_on": null
+          }
+        ],
+        "unresolved": [],
+        "evidence_ids": [
+          "c2",
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": "senior",
+        "role_family": "software-engineering",
+        "required_skills": [],
+        "mentioned_skills": [
+          "golang",
+          "java",
+          "javascript",
+          "nodejs",
+          "react",
+          "typescript"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": []
+      },
+      "salary_min": 185000,
+      "salary_max": 215000,
+      "salary_text": "USD 185,000–215,000/year",
+      "salary_source_text": null,
+      "salary_currency": "USD",
+      "salary_period": "year",
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "10649594",
+      "direct_apply": null,
+      "description": "<p>Join the company that’s building the telemetry infrastructure for the AI era. At Cribl, we partner with IT and Security teams at many of the world’s biggest enterprises, including half of the Fortune 100, to bridge the gap between AI ambition and infrastructure reality. As the AI Platform for Telemetry, we give customers the choice, control, and flexibility to manage and analyze telemetry for both humans and agents, so they can build what’s next.</p><p>We’re one of the fastest‑growing private companies and a leading player in a massive, fast‑moving market. With a global workforce, we’re remote‑first and grounded in a simple idea: software is a people business. Cribl is the place where curious, collaborative people can do their best work, grow fast, and bring their full selves to the herd.</p><p><strong>Why You'll Love This Role</strong></p><p>You will work closely with the founding team and a group of highly-skilled engineers to shape the future of search and analytics of observability data. You will play a central role in bringing integrating cutting-edge Generative AI technologies with the Cribl Product suite to help solve real customer problems. You will work closely with development partners and key stakeholders to iteratively design, develop, and deliver products and surfaces that will delight our customers. On top of it all you will have fun. Cribl strives to be a great place to work for everyone.</p><p><strong>As An Active Member Of Our Team, You Will...</strong></p><ul><li>Productionize, launch, and operate AI-based technology integrations into Cribl’s core products with the goal of solving real customer problems </li><li>Partner with product &#x26; design leaders to prototype and experiment with new AI features</li><li>Stay up-to-date with the latest AI technologies and trends</li><li>This position will require stand-by, on-call, or off-hours duties</li></ul><p><strong>If You've Got It - We Want It</strong></p><ul><li>5+ years of professional software engineering experience building AI features end to end in production across product, backend, and model integration layers</li><li>Proven fullstack experience, including designing and scaling React-based UIs and backend services or APIs, with strength in backend and systems thinking</li><li>Deep expertise in TypeScript or JavaScript plus experience with at least one backend language or runtime such as Node.js, Go, Java, or similar</li><li>Professional experience building AI agent-driven product experiences, including conversational interfaces, tool-calling patterns, RAG, prompt engineering, evaluation or guardrail techniques, and agent orchestration connected to reliable backend and data systems</li><li>Professional experience with Model Context Protocols (MCPs), agent frameworks, orchestration layers, and integrating external tools and data sources into LLM-based systems</li><li>Machine learning experience, ideally in applied settings where models or AI systems were shipped, integrated, evaluated, or operated in production</li><li>Familiarity with data and infrastructure patterns for AI systems, including databases, APIs, observability, and integrating external tools, services, and data sources in production environments</li><li>Ability to problem-solve from first principles, make sound engineering trade-offs aligned with product and business goals, and drive work independently through ambiguity</li><li>Excellent communication skills, both verbal and written, with the ability to explain complex technical topics to cross-functional stakeholders in a remote or distributed environment</li></ul><p>#LI-JB1<br>#LI-Remote</p><p>The salary for this role is dependent on geographic location and will be based on the individual candidate's job-related knowledge, skills, and experience.<br>In addition to base salary, for sales and some sales-adjacent roles, employees are eligible to earn incentive compensation (commission). For all other roles, employees are eligible to participate in the Cribl Corporate Bonus Program.<br>In addition to a competitive salary, Cribl also offers a generous benefits package which includes health, dental, vision, short-term disability, and life insurance, paid holidays and paid time off, a fertility treatment benefit, 401(k), and equity.</p><p>Base Salary Range</p><p>$185,000—$215,000 USD</p><p><strong>Bring Your Whole Self<br></strong><br>Diversity drives innovation, enables better decisions to support our customers, and inspires change for the better. We’re building a culture where differences are valued and welcomed, and we work together to bring out the best in each other. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, or any other applicable legally protected characteristics in the location in which the candidate is applying.</p><p>Interested in joining the Cribl herd? Learn more about the smartest, funniest, most passionate goats you’ll ever meet at cribl.io/about-us. </p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/sr-software-engineer-cribl-ai-cribl</p>",
+      "posted_at": "2026-11-04T00:00:00+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
       "id": "9f26a09f-7a8f-4d41-8b08-e603f6103677",
       "title": "Senior Software Engineer - Java/React",
       "url": "https://remotejobs.org/remote-jobs/senior-software-engineer-javareact-pointclickcare",
@@ -4519,100 +4823,6 @@
       "original_language": null
     },
     {
-      "id": "22f44792-d3b5-4b95-abfa-8a446061d959",
-      "title": "Senior Database Administrator",
-      "url": "https://remotejobs.org/remote-jobs/senior-database-administrator-decisionpoint-corporation",
-      "apply_url": "https://remotejobs.org/remote-jobs/senior-database-administrator-decisionpoint-corporation",
-      "company": {
-        "name": "DecisionPoint Corporation",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/9d7902f78a2e0d08cbc194abb9c8a33223fd874aa5e5465988336898c8ac0bd0.webp",
-        "website": "https://decisionpoint.io",
-        "url": "https://remotejobs.org/companies/decisionpoint-corporation"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "United States",
-      "location_normalization": {
-        "raw": "United States",
-        "input": {},
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [],
-        "evidence_ids": [
-          "source-location"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "remote",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": "senior",
-        "role_family": null,
-        "required_skills": [
-          "postgresql",
-          "sql"
-        ],
-        "mentioned_skills": [],
-        "preferred_skills": [],
-        "experience_requirements": [
-          {
-            "text": "10 years of experience in database administration, engineering, or architecture roles",
-            "maximum_years": null,
-            "minimum_years": 10,
-            "classification": "required"
-          }
-        ]
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": null,
-      "salary_period": "year",
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<h2>Overview</h2>\n<p>DecisionPoint seeks a<strong> Senior Database Administrator</strong> to provide enterprise-wide leadership of database operations supporting a major federal and DoD-aligned mission environment. This role oversees secure hosting of IL5-compliant database platforms, ensuring optimal performance, schema governance, RMF control alignment, and full integration with the SDLC, DevSecOps, and application development teams.</p>\n<p>The Senior DBA is responsible for database engineering, performance tuning, replication, failover strategies, backup and recovery, and vulnerability remediation while leading a technical team of database administrators. This role ensures the reliability, resilience, and security of mission-critical data systems across multiple environments.</p>\n<p><em>This position is fully remote.</em></p>\n<h2>Duties &#x26; Responsibilities</h2>\n<ul>\n<li>Provide senior-level leadership over database operations, engineering, and administration in IL5 cloud and on-premise environments.</li>\n</ul>\n<ul>\n<li>Oversee schema governance, indexing strategies, data modeling, and optimization for performance and scalability.</li>\n</ul>\n<ul>\n<li>Ensure database platforms comply with DoD security requirements, RMF controls, STIG baselines, and audit readiness.</li>\n</ul>\n<ul>\n<li>Lead performance tuning efforts, query optimization, and troubleshooting of complex database issues.</li>\n</ul>\n<ul>\n<li>Manage backup, recovery, replication, clustering, and failover strategies to support high availability.</li>\n</ul>\n<ul>\n<li>Coordinate with DevSecOps engineers on database integration within CI/CD pipelines.</li>\n</ul>\n<ul>\n<li>Support secure SDLC processes, including database change control and release planning.</li>\n</ul>\n<ul>\n<li>Manage database access controls, permissions, service accounts, and privileged user oversight.</li>\n</ul>\n<ul>\n<li>Oversee vulnerability scanning, patch planning, and remediation for database technologies.</li>\n</ul>\n<ul>\n<li>Collaborate with application developers to align database design with business logic, data workflows, and mission requirements.</li>\n</ul>\n<ul>\n<li>Maintain database documentation, ER diagrams, configuration baselines, and operational runbooks.</li>\n</ul>\n<ul>\n<li>Lead and mentor a team of DBAs, ensuring adherence to best practices, consistent processes, and high operational readiness.</li>\n</ul>\n<ul>\n<li>Provide technical input to modernization initiatives, cloud migration strategies, and new platform evaluations.</li>\n</ul>\n<h2>Qualifications</h2>\n<h2>Clearance Requirement</h2>\n<p>Must hold an active Top Secret clearance, supported by a Tier 5 background investigation.</p>\n<h2>Education (Required)</h2>\n<p>Bachelor’s degree in Computer Science, Information Systems, Software Engineering, or a related field.</p>\n<h2>Experience (Required)</h2>\n<ul>\n<li>Minimum <strong>10 years</strong> of experience in database administration, engineering, or architecture roles.</li>\n</ul>\n<ul>\n<li>Demonstrated leadership in managing enterprise-class database systems in secure federal or DoD environments.</li>\n</ul>\n<ul>\n<li>Experience implementing IL5 database security controls, RMF requirements, and STIG compliance.</li>\n</ul>\n<ul>\n<li>Experience supporting SDLC integration, release cycles, and DevSecOps workflows.</li>\n</ul>\n<ul>\n<li>Experience with performance tuning, complex queries, indexing, and database optimization.</li>\n</ul>\n<ul>\n<li>Experience managing replication, clustering, failover, and backup/recovery operations.</li>\n</ul>\n<h2>Technical Knowledge (Required)</h2>\n<ul>\n<li>Strong expertise with relational database systems (e.g., PostgreSQL, Oracle, SQL Server, MySQL).</li>\n</ul>\n<ul>\n<li>Proficiency in database security, encryption, auditing, and privileged access management.</li>\n</ul>\n<ul>\n<li>Knowledge of RMF, STIGs, IL5 cloud security controls, and DoD cybersecurity requirements.</li>\n</ul>\n<ul>\n<li>Familiarity with CI/CD pipelines, automation tools, and DevSecOps concepts.</li>\n</ul>\n<ul>\n<li>Experience with database monitoring tools, log analysis, and performance analytics.</li>\n</ul>\n<h2>Certifications</h2>\n<p><strong>Required:</strong></p>\n<ul>\n<li><strong>CompTIA Security+</strong></li>\n</ul>\n<h2><strong>Skills</strong></h2>\n<ul>\n<li><strong>Strong leadership skills with the ability to manage and mentor technical teams.</strong></li>\n</ul>\n<ul>\n<li><strong>Excellent analytical and problem solving abilities, especially for complex data and performance issues.</strong></li>\n</ul>\n<ul>\n<li><strong>Clear communication skills for working with developers, security teams, and federal stakeholders.</strong></li>\n</ul>\n<ul>\n<li><strong>Strong attention to detail with disciplined documentation and configuration management practices.</strong></li>\n</ul>\n<ul>\n<li><strong>Ability to manage priorities across multiple environments in a mission-critical setting.</strong></li>\n</ul>\n<h2><strong>Our Equal Employment Opportunity Policy</strong></h2>\n<ul>\n<li><strong><strong>EEO and Affirmative Action Policy:</strong> DecisionPoint Corporation is an Equal Employment Opportunity and Affirmative Action employer. It is the policy of DecisionPoint Corporation to provide equal employment opportunity in accordance with all applicable Equal Employment Opportunity/Affirmative Action laws, directives and regulations to all employees and qualified applicants without regard to race, ethnicity, color, religion, national origin, sex, age, disability status, pregnancy, sexual orientation, gender identity, genetic information, protected veteran status, or any other protected status under Federal, State or Local laws.</strong></li>\n<li><strong><strong>Pay Transparency Policy:</strong> In accordance with Presidential Executive Order 13665, DecisionPoint Corporation will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the contractor's legal duty to furnish information.</strong></li>\n<li><strong><strong>Authorization to Share Resume and Personal Information:</strong> By expressing your interest and submitting your resume for this position, you authorize DecisionPoint Corporation to share your resume, as well as personal information included on the resume, with its subsidiaries, affiliates and teaming partners for the purpose of considering you for this position and other available positions requiring comparable skills, education and experience. Should DecisionPoint Corporation. or its affiliates and teaming partners wish to initiate pre-employment discussions, you will be asked to complete an employment application and related employment documents.</strong></li>\n</ul>\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-database-administrator-decisionpoint-corporation</p>",
-      "posted_at": "2026-11-03T11:27:11+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
       "id": "890d9436-716a-4374-bae0-de1e8f77818d",
       "title": "Senior Solutions Architect, Telco",
       "url": "https://remotejobs.org/remote-jobs/senior-solutions-architect-telco-nvidia",
@@ -4646,7 +4856,29 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -4718,7 +4950,29 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -4793,7 +5047,29 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -4872,7 +5148,29 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "partial",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -4938,7 +5236,30 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "c1",
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -5003,7 +5324,29 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "PL"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "partial",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -5078,7 +5421,33 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [
+          "europe"
+        ],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [
+          "Unresolved area: location:1"
+        ],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [
+          "Europe"
+        ],
+        "work_arrangement": "remote",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -5160,7 +5529,31 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [
+          "Applicants must be authorized to work in the country in which they apply and must provide proof of employment eligibility as a condition of hire (description:47); this country-linked requirement cannot be represented as a geographic claim."
+        ],
+        "evidence_ids": [
+          "c1"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -5233,7 +5626,29 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -6805,6 +7220,97 @@
       "direct_apply": null,
       "description": "<h2><strong><a href=\"https://jobicy.com/company/seatgeek\">SeatGeek</a> believes live events are powerful experiences that unite humans. With our technological savvy and fan-first attitude we’re simplifying and modernizing the ticketing industry.</strong></h2>\n<p>We are looking for a Senior Software Engineer to join SeatGeek’s Platform team. You'll improve the systems that power the entirety of SeatGeek's technology ecosystem. This unique role combines both the craftsmanship and rigor of traditional Software Engineering, whilst also incorporating an openness to the development of the underlying infrastructure; including core compute, infrastructure as code, database, and network infrastructure.</p>\n<p>The nature of the ticketing engineering industry places unique constraints and workflows on our systems and infrastructure, especially during high-load onsales, requiring out of the box solutions and automation to be the norm. This team is the backbone to our Enterprise and Consumer lines of business as we grow our primary and secondary ticketing platforms that support world-class clients such as the Dallas Cowboys, and Manchester City FC.</p>\n<h2><strong>What you'll do</strong></h2>\n<ul>\n<li>Bring a software engineers’ mindset to SeatGeeks’ unique scaling, workflow automation and resilience challenges</li>\n<li>Build and maintain tools that our developers use to observe their applications, and drive initiatives to increase our overall reliability</li>\n<li>Engineer resilient and observable networking infrastructure that supports a diverse set of workloads across multiple regions</li>\n<li>Collaborate with other departments on how to run production systems and deployments with autonomy</li>\n<li>Support teams with expertise in the area of deployment, configuration, routing, monitoring and scalability in all parts of the stack</li>\n<li>Leverage cutting-edge AI tools to bring ideas to life faster than ever while upholding SeatGeek’s technical and product standards; no token limits</li>\n<li>Become a force multiplier by mentoring and leading the team around you</li>\n<li>Participate in an on-call schedule to help our customers experience more live</li>\n</ul>\n<h2><strong>What you have</strong></h2>\n<ul>\n<li>Passion for craftsmanship and product. You have well-considered opinions about how software and reliable infrastructure should work, and hold yourself and your code to a high standard</li>\n<li>Experience building business critical software in a fast-paced environment. We'll be interested in hearing about what you've built and how</li>\n<li>Experience solving complex technical challenges. SeatGeek engineers create custom solutions to unique ticketing problems, including high traffic onsales, interactive venue maps, inventory tracking, and event matching. We'll be excited to hear about challenging problems you've solved</li>\n<li>Experience with Kubernetes, containers, and serverless compute platforms</li>\n<li>Experience with continuous integration, delivery, testing, and code deployment</li>\n<li>Experience using observability tools to make performance improvements and forecast growth</li>\n<li>Experience improving system architecture, diagnosing shortcomings and implementing evidence-based recommendations</li>\n</ul>\n<h2><strong>Our stack</strong></h2>\n<p>You do not need experience with all of these, but we thought you might be curious. What we care about is your experience, skills, and approach to problem solving. Tools can be learned.</p>\n<ul>\n<li><strong>Languages: </strong>Go, C#, Python, Bash</li>\n<li><strong>Runtimes: </strong>Kubernetes, Docker, ECS/Fargate, Lambda</li>\n<li><strong>Datastores: </strong>Postgres, SQL Server, Memcache, Redis, and Elasticsearch</li>\n<li><strong>Streaming &#x26; workflows: </strong>Kafka, Flink, Airflow, Temporal</li>\n<li><strong>Service Discovery and Routing: </strong>Cilium, Consul, Envoy, CoreDNS</li>\n<li><strong>Monitoring: </strong>DataDog</li>\n<li><strong>Incident Management:</strong>PagerDuty</li>\n<li><strong>Configuration Management: </strong>Chef, Ansible</li>\n<li><strong>Secrets Management: </strong>Vault</li>\n<li><strong>Infrastructure as Code: </strong>Cloudformation, Terraform</li>\n<li><strong>Cloud Providers: </strong>AWS</li>\n<li><strong>Version control: </strong>Git</li>\n<li><strong>CI / CD:</strong> Gitlab CI</li>\n</ul>\n<h2><strong>Perks</strong></h2>\n<ul>\n<li>Equity stake</li>\n<li>Discretionary annual bonus</li>\n<li>Flexible work environment, allowing you to work as many days a week in the office as you’d like or 100% remotely</li>\n<li>A WFH stipend to support your home office setup</li>\n<li>Unlimited PTO</li>\n<li>Up to 16 weeks of fully-paid family leave</li>\n<li>401(k) matching</li>\n<li>Student loan matching program</li>\n<li>Health, vision, dental, and life insurance</li>\n<li>Up to $25k towards family building, reproductive health services and Gender-affirming care</li>\n<li>$500 per year for wellness expenses</li>\n<li>Subscriptions to Headspace (meditation), Headspace Care (therapy), and One Medical</li>\n<li>$360 per quarter to spend on tickets to live events</li>\n<li>Annual subscription to Spotify, Apple Music, or Amazon music</li>\n</ul>\n<hr>\n<p><em>The salary range for this role is $144,000 - $209,000 USD. This role is equity eligible. In addition, you may receive a discretionary annual bonus based on individual and company performance. Actual compensation packages within that range are based on a wide array of factors unique to each candidate, including but not limited to skill set, years and depth of experience, certifications, and specific location.</em></p>\n<p><em>SeatGeek is committed to providing equal employment opportunities to all employees and applicants for employment regardless of race, color, religion, creed, age, national origin or ancestry, ethnicity, sex, sexual orientation, gender identity or expression, disability, military or veteran status, or any other category protected by federal, state, or local law. As an equal opportunities employer, we recognize that diversity is a positive attribute and we welcome the differences and benefits that a diverse culture brings. Come join us!</em></p>\n<p>To review our candidate privacy notice, <a href=\"https://seatgeek.com/privacy/USApplicantNotice\">click here</a>.</p>\n<h2><em><strong>#LI-Remote</strong></em></h2><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-software-engineer-platform-seatgeek-1b8eb6f60ea2483f8e5b1aa33cf29ac3</p>",
       "posted_at": "2026-11-02T16:01:06+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "e2e09c47-059f-4763-bc1e-897b01e2f78e",
+      "title": "IT Manager",
+      "url": "https://remotejobs.org/remote-jobs/it-manager-paddle",
+      "apply_url": "https://remotejobs.org/remote-jobs/it-manager-paddle",
+      "company": {
+        "name": "Paddle",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/4adaa739a5c0f49bde97264b9972f8b79256e12737186593329524e9f1977f22.png",
+        "website": "https://paddle.com",
+        "url": "https://remotejobs.org/companies/paddle"
+      },
+      "category": {
+        "name": "DevOps",
+        "slug": "devops"
+      },
+      "location": "UK",
+      "location_normalization": {
+        "raw": "UK",
+        "input": {
+          "workArrangement": "remote"
+        },
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "GB"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "worksite_countries": [
+          "GB",
+          "IE",
+          "PT"
+        ],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [
+          "GB"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": "manager",
+        "role_family": null,
+        "required_skills": [],
+        "mentioned_skills": [],
+        "preferred_skills": [],
+        "experience_requirements": []
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "c62c01fb-2838-409f-9f43-858772597856",
+      "direct_apply": null,
+      "description": "<p><strong>What do we do?</strong></p><p>Paddle offers digital product companies a completely different approach to their payments infrastructure. Instead of assembling and maintaining a complex stack of payments-related apps and services, we’re a Merchant of Record for our customers. That means we take away 100% of the pain of payments fragmentation. It’s faster, safer, cheaper, and, above all, way better.</p><p>We’re backed by investors including KKR, FTV Capital, Kindred, Notion, and 83North and serve over 10,000 software sellers in 245 territories globally.</p><h2><strong>The role</strong></h2><p>Paddle's IT team is looking for an IT Manager to lead and develop the team that keeps every Paddler equipped, connected, and secure. This is a role for someone who can operate at two altitudes at once: setting IT strategy, managing budget and vendor relationships, and leading people, while also being willing to get hands-on. You'll lead a lean team of IT engineers, own the systems that underpin how the business works day to day (identity, devices, service delivery), and be the person who pushes the function forward - using data and automation, including AI, to change how IT operates rather than just keeping the lights on.</p><h2><strong>What you'll do</strong></h2><ul><li><p>Lead, coach, and develop a lean team of IT engineers - setting priorities, unblocking their hardest problems, and stepping in hands-on for complex or escalated issues.</p></li><li><p>Own Okta identity and access management for the business: the lifecycle, integrations, and day-to-day administration that keep joiners, movers, and leavers secure and frictionless.</p></li><li><p>Own macOS and Apple device management and endpoint tooling across the business, in a way that's secure by default and low-friction for Paddlers.</p></li><li><p>Drive the adoption of data, automation, and AI across IT operations - identifying where tooling and agents can remove manual toil, speed up support, and evolve how the team operates.</p></li><li><p>Set and own IT's operating rhythm: support tooling, SLAs, and the metrics that show whether the function is improving.</p></li><li><p>Manage the IT budget and vendor portfolio - evaluating spend, negotiating commercial terms, ensuring that we’re operating efficiently and running a SaaS estate that spans across multiple departments.</p></li><li><p>Implement and maintain baseline security and resilience practices for IT-owned systems (CIS Benchmarks, patching, disaster recovery), partnering closely with the wider Security team on anything that crosses into security engineering.</p></li><li><p>Act as the conduit between IT and the rest of the business - translating department needs into IT capabilities.</p></li></ul><h2><strong>Skills &#x26; Experience</strong></h2><p>At Paddle we value a growth mindset and a willingness to learn, so if you're confident in most of these skills (not necessarily all) and you're excited to grow, we encourage you to apply.</p><p>We'd love to hear from you if you:</p><ul><li><p>Have led or managed a technical IT team before, with a track record of developing people as well as delivering outcomes.</p></li><li><p>Are technically credible: strong systems administration and infrastructure fundamentals, and comfortable being the escalation point when something's genuinely hard.</p></li><li><p>Have hands-on experience running an IAM platform in production, ideally Okta, including lifecycle automation and integrations.</p></li><li><p>Have in-depth knowledge of macOS and Apple hardware, ideally managing it in a corporate/enterprise environment (Iru or equivalent).</p></li><li><p>Are excited about AI and automation as tools for operational leverage, with examples of using them - or data and workflows more broadly - to change how a team works.</p></li><li><p>Can manage a budget and vendor relationships commercially: evaluating cost, negotiating terms, and knowing how to get the most out of a tool or platform.</p></li><li><p>Have experience running IT projects end-to-end, from scoping through delivery and stakeholder reporting.</p></li><li><p>Understand core security and compliance fundamentals well enough to implement and maintain them.</p></li><li><p>Communicate clearly and adapt your message for technical peers and non-technical senior stakeholders alike.</p></li><li><p>Are a strong leader who can hold a calm, clear line under pressure (incidents, competing priorities, escalations).</p></li></ul><p><strong>Everyone is welcome at Paddle</strong></p><p>At Paddle, we’re committed to removing invisible barriers, both for our customers and within our own teams. We recognise and celebrate that every Paddler is unique and we welcome every individual perspective. As an inclusive employer we don’t care if, or where, you studied, what you look like or where you’re from. We’re more interested in your craft, curiosity, passion for learning and what you’ll add to our culture. We encourage you to apply even if you don’t match every part of the job ad, especially if you’re part of an underrepresented group.<br><br> <strong>Please let us know if there’s anything we can do to better support you through the application process and in the workplace. We will do everything we can to support any accommodations needed.</strong> We’re committed to building a diverse team where everyone feels safe to be their authentic self. Let’s grow together.</p><p><br><strong>Why you’ll love working at Paddle</strong></p><p>We are a diverse, growing group of Paddlers across the globe who pride ourselves on our transparent, collaborative and respectful culture.</p><p>We live and breathe our values, which are:</p><p><strong>Paddle for others</strong></p><p><strong>Paddle together</strong></p><p><strong>Paddle simply</strong></p><p>We offer a full suite of benefits, including attractive salaries, stock options, retirement plans, private healthcare and wellbeing initiatives.</p><p>We invest in learning and will help you with your personal development via constant exposure to new challenges, an annual learning fund, and regular internal and external training.</p><p><strong>Connecting at Paddle</strong></p><p>We’re a<strong> ‘digital-first’ company</strong>, which means our Paddlers always have the freedom to choose where, when and how they work within our hub locations.</p><p>We recognize that where our Paddlers do their best work is unique to them and we provide trust and autonomy for everyone to work in a way which fits them best. We also value the power of connection and have invested in global hubs which help local communities flourish and bring us together for focused collaboration.</p><p>Our Paddle hubs:</p><ul><li><p><strong>In Europe:</strong> UK (London headquarters), Portugal (Lisbon hub), Netherlands and Ireland (Dublin hub)</p></li><li><p><strong>In North America: </strong>Austin, TX (USA) and Toronto (Canada)</p></li></ul><p>Our hub philosophy creates an engaging experience for all Paddlers, wherever, whenever and however we choose to work.</p><p>To support this, we focus hiring within our hubs and will always openly share the available locations for each open position on our job description.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/it-manager-paddle</p>",
+      "posted_at": "2026-11-02T14:58:39.833+00:00",
       "is_translated": false,
       "original_language": null
     },
@@ -9194,102 +9700,6 @@
       "original_language": null
     },
     {
-      "id": "00f0313c-191d-4c6b-8509-19047e7c0e58",
-      "title": "GPU Solutions Engineer",
-      "url": "https://remotejobs.org/remote-jobs/gpu-solutions-engineer-vultr",
-      "apply_url": "https://remotejobs.org/remote-jobs/gpu-solutions-engineer-vultr",
-      "company": {
-        "name": "Vultr",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/e44fd60f9930a756907a8057a702e7c74f0f4673ebfd96cd8151942b921bf29d.jpeg",
-        "website": "https://vultr.com",
-        "url": "https://remotejobs.org/companies/vultr"
-      },
-      "category": {
-        "name": "DevOps",
-        "slug": "devops"
-      },
-      "location": "USA",
-      "location_normalization": {
-        "raw": "USA",
-        "input": {},
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [],
-        "evidence_ids": [
-          "source-location"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": null,
-        "role_family": null,
-        "required_skills": [
-          "kubernetes",
-          "terraform"
-        ],
-        "mentioned_skills": [
-          "kubernetes"
-        ],
-        "preferred_skills": [],
-        "experience_requirements": [
-          {
-            "text": "3+ year of experience",
-            "maximum_years": null,
-            "minimum_years": 3,
-            "classification": "required"
-          }
-        ]
-      },
-      "salary_min": 180000,
-      "salary_max": 200000,
-      "salary_text": "USD 180,000–200,000/year",
-      "salary_source_text": "USD 180000 - 200000",
-      "salary_currency": "USD",
-      "salary_period": "year",
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<h2>Who We Are</h2>\n<p><a href=\"https://jobicy.com/company/vultr\">Vultr</a> is on a mission to make high-performance cloud infrastructure easy to use, affordable, and locally accessible for enterprises and AI innovators around the world. With 33 global cloud data center locations, Vultr is trusted by hundreds of thousands of active customers across 185 countries for its flexible, scalable, global Cloud Compute, Cloud GPU, Bare Metal, and Cloud Storage solutions. In December 2024 Vultr announced an equity financing at a $3.5 billion valuation. Founded by David Aninowsky and self-funded for over a decade, Vultr has grown to become the world’s largest privately-held cloud infrastructure company.</p>\n<p><strong>Vultr Cares</strong></p>\n<ul>\n<li>\n<p>100% company-paid insurance premiums for employee medical, dental and vision plans.</p>\n</li>\n<li>\n<p>401(k) plan that matches 100% up to 4%, with immediate vesting</p>\n</li>\n<li>\n<p>Professional Development Reimbursement of $2,500 each year</p>\n</li>\n<li>\n<p>11 Holidays + Paid Time Off Accrual + Rollover Plan</p>\n</li>\n<li>\n<p>Commitment matters to Vultr! Increased PTO at 3 year and 10 year anniversary + 1 month paid sabbatical every 5 years + Anniversary Bonus each year</p>\n</li>\n<li>\n<p>$500 stipend for remote office setup in first year + $400 each following year</p>\n</li>\n<li>\n<p>Internet reimbursement up to $75 per month</p>\n</li>\n<li>\n<p>Gym membership reimbursement up to $50 per month</p>\n</li>\n<li>\n<p>Company paid Wellable subscription</p>\n</li>\n</ul>\n<h2><strong>Join Vultr</strong></h2>\n<p>Vultr is seeking a highly skilled and experienced GPU Solutions Engineer to lead customers designing, implementing, and optimizing solutions on Vultr’s GPU platform. This role partners closely with Direct Sales, Customer Success, Product Management, Engineering and Support Departments to bring AI, ML, GPU workloads to life. The ideal candidate is technically strong and highly collaborative. You have significant hands on experience in cloud infrastructure, networking, Kubernetes and modern GPU computing architectures. You are comfortable translating complex technical concepts into clear solutions, solving real-world challenges, guiding customers from initial design into production and collaborating internally and externally. This is a highly visible role in a high-growth technology company, which will require strong problem-solving skills, customer engagement, and the ability to operate independently in a fast-paced environment. You will directly influence customer adoption and the overall experience on Vultr’s platform. This is your opportunity to join our fast growing team and leave your mark on Vultr and the future of Cloud Infrastructure.</p>\n<p><strong>Key Responsibilities</strong></p>\n<ul>\n<li>\n<p>Engage collaboratively with customers to understand their objectives.</p>\n</li>\n<li>\n<p>Create innovative Solutions and Architectures to solve complex Customer use cases.</p>\n</li>\n<li>\n<p>Establish relationships within Customers independent of Account Executives.</p>\n</li>\n<li>\n<p>Educate customers on the value that Vultr provides and expand their horizons about the art of the possible.</p>\n</li>\n<li>\n<p>Participate in deep architectural discussions and design exercises to create world-class solutions at Vultr.</p>\n</li>\n<li>\n<p>Collaborate with Engineering and Product Management to deliver Voice of the Customer to guide Product and Feature development.</p>\n</li>\n<li>\n<p>Lead resolution of complex customer challenges.</p>\n</li>\n<li>\n<p>Partner with Marketing to create reference architectures, white papers, workshops, and demonstrations for internal and external uses.</p>\n</li>\n<li>\n<p>Travel 25%</p>\n</li>\n</ul>\n<p><strong>Qualifications</strong></p>\n<ul>\n<li>\n<p>Highly motivated / self-starter with a sense of ownership, willingness to learn, and desire to succeed.</p>\n</li>\n<li>\n<p>A collegial and collaborative approach working across Departments and Seniority levels within Vultr’s Customers and Vultr.</p>\n</li>\n<li>\n<p>Skilled at influencing, guiding, and facilitating stakeholders and peers with decision making.</p>\n</li>\n<li>\n<p>Ability to articulate technical and business concepts to diverse stakeholders.</p>\n</li>\n<li>\n<p>Demonstrated willingness and ability to dig into unfamiliar territories to solve complex challenges.</p>\n</li>\n<li>\n<p>Experience with structured sales engagement models MEDDPIC, Sandler, BANT, etc.</p>\n</li>\n<li>\n<p>Expertise in the GPU ecosystem from GPU Hardware, Bare Metal and Virtualized Cloud Delivery, AL &#x26; ML frameworks and AI &#x26; ML Ops orchestration.</p>\n</li>\n<li>\n<p>Extensive knowledge of AI Models / Algorithms, Libraries, Compilers and Runtimes for diverse silicon ecosystems.</p>\n</li>\n<li>\n<p>GPU benchmarking and workload testing experience.</p>\n</li>\n<li>\n<p>Demonstrated experience with workload orchestration, Kubernetes and Slurm.</p>\n</li>\n<li>\n<p>System and Cluster level understanding of x86 server hardware architecture and Linux OS.</p>\n</li>\n<li>\n<p>Hands on with Infrastructure as Code methodologies including, Terraform, Ansible, etc.</p>\n</li>\n<li>\n<p>Networking experience, including knowledge of Infiniband, RoCE / UEC Ethernet, or other networking protocols.</p>\n</li>\n<li>\n<p>NCCL / RCCL performance optimization.</p>\n</li>\n<li>\n<p>High Performance Storage experience, knowledge of performant multi-user offerings including Open Source and COTS options.</p>\n</li>\n<li>\n<p>5+ years of design, implementation, or consulting in applications and infrastructure experience</p>\n</li>\n<li>\n<p>4+ years of Solution Engineering, Sales Engineering, Professional Services or Consulting experience</p>\n</li>\n<li>\n<p>3+ year of experience deploying GPU-based AI, ML &#x26; Analytics solutions (e.g., for Training, Inference, Fine Tuning, Reinforcement Learning, Agentic Harnesses)</p>\n</li>\n</ul>\n<p><strong>Compensation</strong></p>\n<p>$180,000 - $200,000</p>\n<p><em>Final compensation will vary depending on years of experience, background/skill set, location, and applicable laws.</em></p>\n<h2><strong>Inclusion &#x26; Privacy</strong></h2>\n<p>We are an equal opportunity employer and are committed to creating an inclusive environment for all employees. We welcome applications from individuals of all backgrounds and experiences, and we prohibit discrimination based on race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, veteran status, or any other protected status under applicable laws. Vultr will consider qualified applicants with arrest or conviction records in accordance with applicable laws and will not conduct a background check until after an offer of employment has been extended and accepted.</p>\n<p>We also take your privacy seriously. We handle personal information responsibly and follow applicable laws, including U.S. privacy rules and India’s Digital Personal Data Protection Act, 2023. Your data is used only for legitimate business purposes and is protected with proper security measures.</p>\n<p>Where allowed by law, applicants may request details about the data we collect, access or delete their information, withdraw consent for its use, and opt out of nonessential communications. For more details, please see our <a href=\"https://www.vultr.com/legal/privacy/\">Privacy Policy</a>.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/gpu-solutions-engineer-vultr</p>",
-      "posted_at": "2026-10-30T17:41:15+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
       "id": "36e6a522-3169-4d15-8ae3-89f6c40bba56",
       "title": "Senior Applied Scientist, Property Analytics",
       "url": "https://remotejobs.org/remote-jobs/senior-applied-scientist-property-analytics-kiavi",
@@ -9419,7 +9829,29 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -9483,7 +9915,29 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -9552,7 +10006,29 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
