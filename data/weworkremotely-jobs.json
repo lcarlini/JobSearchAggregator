@@ -1,7 +1,22 @@
 {
-  "generatedAt": "2026-11-08T12:53:26.342Z",
-  "count": 228,
+  "generatedAt": "2026-11-08T21:47:21.570Z",
+  "count": 233,
   "jobs": [
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-processing",
+      "source": "weworkremotely",
+      "title": "Senior Software Engineer, Processing",
+      "company": "Lithic",
+      "url": "https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-processing",
+      "description": "Headquarters: Remote Lithic is the modern card issuing and processing platform empowering ambitious financial companies to build the future of payments. Our infrastructure powers card programs for 100+ innovative clients, from fintechs reimagining credit and digital banking to platforms transforming disbursements and spend management. Companies like Mercury, Flex, and Novo rely on Lithic's developer-friendly APIs, direct network connections, and flawless reconciliation to launch and scale card programs in weeks, not years. We're building a future where access to better financial products materially improves people's lives, free from the constraints of 30-year-old mainframes and legacy processors. We're proud to be backed by world-class investors who share that vision, including Bessemer Ve",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "programming"
+      ],
+      "postedAt": "Sun, 18 Oct 2026 07:30:59 +0000",
+      "category": "programming"
+    },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/squarespace-staff-software-engineer-revenue-systems",
       "source": "weworkremotely",
@@ -360,21 +375,6 @@
         "programming"
       ],
       "postedAt": "Sat, 10 Oct 2026 07:30:40 +0000",
-      "category": "programming"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-7",
-      "source": "weworkremotely",
-      "title": "Senior React Full-stack Developer",
-      "company": "Lemon.io",
-      "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-7",
-      "description": "Headquarters: New York, NY URL: https://lemon.io Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. We'll manually find the best project for you according to your skills and preferences. Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours. We respect your seniority so you can expe",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "programming"
-      ],
-      "postedAt": "Fri, 09 Oct 2026 13:49:21 +0000",
       "category": "programming"
     },
     {
@@ -1488,6 +1488,66 @@
       "category": "product"
     },
     {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/true-talent-solutions-partners-senior-solutions-engineer-digital-native-and-mid-market",
+      "source": "weworkremotely",
+      "title": "Senior Solutions Engineer, Digital Native and Mid-Market",
+      "company": "True Talent Solutions Partners",
+      "url": "https://weworkremotely.com/remote-jobs/true-talent-solutions-partners-senior-solutions-engineer-digital-native-and-mid-market",
+      "description": "Headquarters: United States URL: https://truetalentsolutionspartners.com About the Role Join a cybersecurity solutions engineering team supporting digital native and mid-market customers. You will bring deep engineering expertise to technical sales cycles, helping organizations integrate application security into their development workflows. What You'll Do Become an expert in the application security platform and help customers integrate it into CI/CD pipelines, developer workflows, and AppSec programs. Lead technical discovery, diagnose customer issues, and advise on solution design. Own proof-of-value cycles from success criteria and environment configuration through technical outcomes. Write or adapt security rules to identify vulnerabilities and demonstrate product capabilities. Explai",
+      "location": "USA Only",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Sun, 08 Nov 2026 17:00:44 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/exa-support-engineer-paygo",
+      "source": "weworkremotely",
+      "title": "Support Engineer, PAYGO",
+      "company": "Exa",
+      "url": "https://weworkremotely.com/remote-jobs/exa-support-engineer-paygo",
+      "description": "Headquarters: URL: https://exa.ai/ About Exa We raised a $250M Series C to build the search engine for AIs. Led by a16z, with existing investors Benchmark, Lightspeed, and YC doubling down, the round brings Exa's valuation to $2.2 billion. Exa is building a search engine for the AI era. Our Search API currently powers Agents, Fortune 500s, and AI labs as we transform an industry that hasn't been disrupted since the 90s. We're a largely SF-based team of ~100 from Harvard, MIT, Meta, Google Research, ex-founders, and dropouts alike. We are rapidly building the most intelligent search engine in history. We're high agency, low-ego, and united by the feeling that this is one of the last problems worth getting right. About the Role Thousands of developers and companies use Exa on pay-as-you-go. ",
+      "location": "USA Only",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Sun, 08 Nov 2026 17:00:43 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/true-talent-solutions-partners-director-of-engineering",
+      "source": "weworkremotely",
+      "title": "Director of Engineering",
+      "company": "True Talent Solutions Partners",
+      "url": "https://weworkremotely.com/remote-jobs/true-talent-solutions-partners-director-of-engineering",
+      "description": "Headquarters: United States URL: https://truetalentsolutionspartners.com About the Role Lead and scale multiple product engineering teams at a mission-driven K-12 education technology company. Reporting to the CTO, you will guide product delivery and technical direction as the platform grows to support schools, teachers, and students. What You'll Do Lead multiple product squads focused on scheduling, reporting and visibility, and elementary school experiences. Start with a hands-on balance of coding, code reviews, and pairing, then shift toward a greater focus on leadership as the organization grows. Make architecture decisions that support a robust, scalable platform and guide teams through technical change. Partner with product and other cross-functional teams to set goals and connect en",
+      "location": "USA Only",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Sun, 08 Nov 2026 17:00:42 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/true-talent-solutions-partners-mechanical-engineering-expert-msc-or-phd",
+      "source": "weworkremotely",
+      "title": "Mechanical Engineering Expert (MSc. or PhD)",
+      "company": "True Talent Solutions Partners",
+      "url": "https://weworkremotely.com/remote-jobs/true-talent-solutions-partners-mechanical-engineering-expert-msc-or-phd",
+      "description": "Headquarters: United States URL: https://truetalentsolutionspartners.com About the Role Contribute to an AI training project by creating, solving, reviewing, and validating engineering tasks. The work spans engineering design, physical modeling, simulation, technical problem-solving, and Python, helping assess the quality of computational engineering work. What You'll Do Solve and validate mechanical engineering problems across design, analysis, simulation, testing, and research and development. Translate physical systems and engineering requirements into analytical or computational models. Create or modify geometry, meshes, materials, loads, contacts, constraints, and solver inputs. Review engineering artifacts and analyses against relevant physical and design constraints. What We're Look",
+      "location": "USA Only",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Sun, 08 Nov 2026 17:00:41 +0000",
+      "category": "full-stack"
+    },
+    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/oneimaging-cloud-systems-administrator",
       "source": "weworkremotely",
       "title": "Cloud Systems Administrator",
@@ -2598,21 +2658,6 @@
       "category": "full-stack"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-processing",
-      "source": "weworkremotely",
-      "title": "Senior Software Engineer, Processing",
-      "company": "Lithic",
-      "url": "https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-processing",
-      "description": "Headquarters: Remote Lithic is the modern card issuing and processing platform empowering ambitious financial companies to build the future of payments. Our infrastructure powers card programs for 100+ innovative clients, from fintechs reimagining credit and digital banking to platforms transforming disbursements and spend management. Companies like Mercury, Flex, and Novo rely on Lithic's developer-friendly APIs, direct network connections, and flawless reconciliation to launch and scale card programs in weeks, not years. We're building a future where access to better financial products materially improves people's lives, free from the constraints of 30-year-old mainframes and legacy processors. We're proud to be backed by world-class investors who share that vision, including Bessemer Ve",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Sun, 18 Oct 2026 07:30:59 +0000",
-      "category": "full-stack"
-    },
-    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/toggl-senior-full-stack",
       "source": "weworkremotely",
       "title": "Senior Full Stack",
@@ -2686,6 +2731,36 @@
       ],
       "postedAt": "Mon, 13 May 2024 03:14:30 +0000",
       "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/dept-project-manager-creative-us-remote",
+      "source": "weworkremotely",
+      "title": "Project Manager - Creative - US Remote",
+      "company": "DEPT®",
+      "url": "https://weworkremotely.com/remote-jobs/dept-project-manager-creative-us-remote",
+      "description": "Headquarters: United States URL: http://www.deptagency.com WHY DEPT®? We are a Growth Invention company built to help the world’s most ambitious brands grow faster. Operating at the intersection of technology and marketing, we create what is next by pioneering ideas, acting fast, and moving further because standing still just is not in our DNA. We are drawn to people who stay curious, move with intent, and never stop inventing. Our culture runs on three values: better together, relentlessly curious, and get sh*t done. It is how we work, how we grow, and how we make things that matter. At DEPT®, you will find the freedom to explore, the space to collaborate, and the trust to make a real impact for our clients, for each other, and for the world we are helping to build. THE ROLE: As a Project",
+      "location": "USA Only",
+      "tags": [
+        "Management and Finance",
+        "management"
+      ],
+      "postedAt": "Sun, 08 Nov 2026 17:00:48 +0000",
+      "category": "management"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/autism-believe-accept-therapy-servi-hr-and-payroll-administrator",
+      "source": "weworkremotely",
+      "title": "HR and Payroll Administrator",
+      "company": "Autism Believe Accept Therapy Servi",
+      "url": "https://weworkremotely.com/remote-jobs/autism-believe-accept-therapy-servi-hr-and-payroll-administrator",
+      "description": "Headquarters: United States URL: https://abatsaba.com Benefits: 401(k) Flexible schedule Health insurance Home office stipend Training & development About the Role: Autism Believe Accept Therapy Services is looking for a detail-oriented and compassionate HR and Payroll Administrator to join our dedicated team in Los Angeles, CA. This is a fantastic opportunity to play a vital behind-the-scenes role in supporting a mission-driven organization that makes a real difference in the lives of individuals with autism. If you thrive in a fast-paced environment and have a passion for people operations, we want to hear from you! Responsibilities: Process accurate and timely payroll for all staff, ensuring compliance with federal and California state regulations Maintain and update employee records, H",
+      "location": "USA Only",
+      "tags": [
+        "Management and Finance",
+        "management"
+      ],
+      "postedAt": "Sun, 08 Nov 2026 17:00:46 +0000",
+      "category": "management"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/dilucci-cpa-recruiter",

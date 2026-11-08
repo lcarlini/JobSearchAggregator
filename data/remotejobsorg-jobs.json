@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T12:53:22.384Z",
+  "generatedAt": "2026-11-08T21:47:16.764Z",
   "count": 150,
   "data": [
     {
@@ -4153,6 +4153,92 @@
       "original_language": null
     },
     {
+      "id": "20a8402f-6e1f-4db3-8d48-9e1819aa45a3",
+      "title": "Senior Back-End Engineer - LATAM",
+      "url": "https://remotejobs.org/remote-jobs/senior-back-end-engineer-latam-virtasant",
+      "apply_url": "https://remotejobs.org/remote-jobs/senior-back-end-engineer-latam-virtasant",
+      "company": {
+        "name": "Virtasant",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/435a407b360bbe80d9a1493c0e8783054cb7417cc16ad35564f7aaea071d4205.webp",
+        "website": "https://virtasant.com",
+        "url": "https://remotejobs.org/companies/virtasant"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": null,
+      "location_normalization": {
+        "raw": null,
+        "input": {},
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [
+          "The title states the role is for LATAM (title:1), but the structured location is empty and the posting does not enumerate countries or subdivisions, so the applicant geography cannot be represented and LATAM membership is not guessed."
+        ],
+        "evidence_ids": [],
+        "allowed_regions": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": "senior",
+        "role_family": null,
+        "required_skills": [],
+        "mentioned_skills": [
+          "aws",
+          "java",
+          "nodejs",
+          "sql",
+          "typescript"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": []
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "8681362",
+      "direct_apply": null,
+      "description": "<h2><strong>About Virtasant</strong></h2><p>Virtasant is a global technology services company with a network of over 4,000 technology professionals across 130+ countries. We specialize in cloud architecture, infrastructure, migration, and optimization, helping enterprises scale efficiently while maintaining cost control.</p><p>Our clients range from Fortune 500 companies to fast-growing startups, relying on us to build high-performance infrastructure, optimize cloud environments, and enable continuous delivery at scale.<br></p><h2><strong>About the role</strong></h2><p>We are building a senior engineering team for a large enterprise program in healthcare operations and workforce decisioning. The platform helps operations leaders understand what is happening across their workforce, make informed decisions, take action within the enterprise systems they already use, and measure the results.</p><p>We need senior back-end engineers who have built and supported production services using TypeScript and Node.js. You will develop the APIs, integrations, decision services, and data services that power the platform, with a strong focus on reliability, security, and multi-tenant architecture.</p><p>The team will work across three main areas: Actions &#x26; API, Decisions, and Data.</p><h2><strong>What You’ll Do</strong></h2><ul><li><p>Design, develop, and maintain scalable back-end services using TypeScript and Node.js to support enterprise healthcare operations and workforce decisioning.</p></li><li><p>Build and maintain REST APIs using contract-first development practices, ensuring consistency, versioning, and reliable communication between platform components and external systems.</p></li><li><p>Develop integrations with enterprise systems, including HR, ERP, and workforce-management platforms, ensuring reliable data exchange and safe execution of write-back operations.</p></li><li><p>Implement robust integration patterns, including idempotency, retries, event-driven processing, dead-letter queues, and reconciliation mechanisms to ensure data consistency.</p></li><li><p>Build and maintain decision services, business rules, and outcome-tracking capabilities that help translate operational insights into actionable decisions.</p></li><li><p>Develop and support data services and pipelines that process, transform, and make operational data available to the platform.</p></li><li><p>Design and implement secure multi-tenant services, ensuring strict data isolation and appropriate access controls across customer environments.</p></li><li><p>Build and maintain cloud-native services using Azure, AWS, or GCP, including containerized applications and automated CI/CD pipelines.</p></li><li><p>Implement comprehensive unit, integration, and contract tests to maintain service reliability, performance, and compatibility.</p></li><li><p>Collaborate with front-end engineers, data engineers, platform engineers, and client stakeholders to translate business requirements into reliable technical solutions.</p></li><li><p>Use AI-assisted development tools and coding agents to accelerate implementation while maintaining code quality, security, and engineering standards.</p></li><li><p>Take ownership of services throughout their lifecycle, from technical design and implementation to production deployment, monitoring, troubleshooting, and ongoing improvements.</p></li></ul><h2><strong>What We’re Looking For<br></strong></h2><h3><strong>Must-Have Experience</strong></h3><ul><li><p><strong>Senior TypeScript and Node.js experience.</strong> At least 5 years building production back-end services, with recent hands-on experience using TypeScript and Node.js. You have built, launched, and supported services in production.</p></li><li><p><strong>Contract-first API development.</strong> You have designed REST APIs using OpenAPI specifications and generated server types, clients, and tests from API contracts. You understand API versioning and how to maintain compatibility across consumers.</p></li><li><p><strong>Enterprise system integrations.</strong> You have built integrations that write data back into external enterprise systems, such as HR, ERP, or vendor-management platforms. You understand idempotency, retries, backoff, outbox patterns, dead-letter queues, and reconciliation.</p></li><li><p><strong>Multi-tenant SaaS architecture.</strong> You have built services with strict tenant isolation across the data layer, authorization, and testing. You understand the importance of preventing cross-tenant data exposure.</p></li><li><p><strong>Cloud and security experience.</strong> You have production experience with Azure, AWS, or GCP, including OAuth 2.0, OpenID Connect, containers, and CI/CD. Azure and Entra ID experience is a strong advantage.</p></li><li><p><strong>Testing discipline.</strong> You regularly implement unit, integration, and contract testing as part of your development process.</p></li><li><p><strong>AI-assisted development.</strong> You use AI coding assistants or agents in your daily development workflow and know how to review, test, and validate the code they generate.</p></li><li><p><strong>Strong English communication.</strong> You are fluent in written and spoken English and comfortable collaborating directly with US-based engineers and client stakeholders.</p></li><li><p><strong>Available around December 1, 2026.</strong><strong><br></strong><br><strong>Nice-to-haves</strong></p></li></ul><ul><li><p>Java experience or familiarity with rules and decision engines, such as DMN decision tables or Drools.</p></li><li><p>Experience with Snowflake, dbt, SQL Server, Azure SQL, or other modern cloud data platforms.</p></li><li><p>Graph database experience, particularly Neo4j and Cypher.</p></li><li><p>Experience with event-driven architectures and message queues, such as Azure Service Bus, Event Grid, or equivalent technologies.</p></li><li><p>Experience integrating with Workday or vendor-management systems.</p></li><li><p>Experience building tools for AI assistants, including MCP servers and LLM tool-calling integrations.</p></li><li><p>Experience implementing audit trails, approval workflows, and versioned configuration in regulated environments.</p></li><li><p>Healthcare operations or workforce-management domain experience.<br></p></li></ul><h2><strong>Our recruitment process</strong></h2><ul><li><p>Recruiter interview (30 min)</p></li><li><p>Technical Interview (30 min)</p></li><li><p>Client Interview 1 (45 min)</p></li></ul><p>We strive to move efficiently from step to step to make the recruitment process as fast as possible.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-back-end-engineer-latam-virtasant</p>",
+      "posted_at": "2026-11-06T13:46:09+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
       "id": "e363fc9c-1bfb-40c8-9e49-e956ee6d9899",
       "title": "Full Stack Engineer - Growth & Experimentation – Krak",
       "url": "https://remotejobs.org/remote-jobs/full-stack-engineer-growth-experimentation-krak-kraken",
@@ -4744,109 +4830,6 @@
       "direct_apply": null,
       "description": "<h2><strong>Thumbtack helps millions of people confidently care for their homes.</strong></h2>\n<p>Thumbtack is the one app you need to take care of and improve your home — from personalized guidance to AI tools and a best-in-class hiring experience. Every day in every county of the U.S., people turn to Thumbtack to complete urgent repairs, seasonal maintenance and bigger improvements. We help homeowners know which projects to do, when to do them and who to hire from our growing community of 300,000 local service businesses. If making an impact inspires you, join us. Imagine what we’ll build together.</p>\n<h2><strong>About the Business Applications Team</strong></h2>\n<p>The Business Applications org builds and operates the internal systems that keep Thumbtack running at scale: Salesforce-centered workflows, admin tooling, and the integrations that connect teams across the company. We're now expanding that foundation into a broader internal platform for AI-enabled work — shared APIs, reusable integration patterns, and safe, auditable capabilities for business-critical actions. We work directly with the business teams who depend on these systems, turning complex operational needs into software that's easier to run, extend, and automate responsibly.</p>\n<h2><strong>The challenge</strong></h2>\n<p>Thumbtack’s People team is reimagining how employees and leaders experience People programs—and how the People team operates. Employees get support tailored to their circumstances, managers bring relevant evidence into feedback and team decisions, and People specialists spend less time coordinating processes across systems. We have promising starting points: a People Q&#x26;A assistant, personalized insights that help leaders understand their teams, and automations across HR and recruiting systems. You’ll help build what comes next: advisors that bring People expertise and personal context together, experiences that anticipate needs and help people act on insights, and connected workflows that complete work on someone’s behalf.</p>\n<p>Making this possible means working with some of the company’s most sensitive information—performance, feedback, org structure, and hiring. Every product must know who the user is, what they’re allowed to see and do, what an AI model may receive, and what gets retained. You’ll own that engineering problem end to end, building on our identity-aware infrastructure as it matures and extending its capabilities to meet the specific needs of People products. You’ll work day to day with People Products &#x26; Data, who set product direction and priorities, alongside TPMs, HR systems analysts, data scientists, data engineers, and other partners—while building on and contributing to the Business Applications platform.</p>\n<h2><strong>What you’ll do</strong></h2>\n<ul>\n<li>\n<p>Take early People products to production and grow them into a suite of experiences, across standalone products, plugins, and everyday tools, that move from answers and insights to personalized guidance, proactive support, and approved actions.</p>\n</li>\n<li>\n<p>Redesign workflows across Workday, Ashby, and other systems, from approved headcount to open requisition and accepted offer to onboarding.</p>\n</li>\n<li>\n<p>Build APIs and connectors, including MCP connectors, that let AI tools safely access relevant context and complete workflows on users’ behalf.</p>\n</li>\n<li>\n<p>Design the permissioning model for confidential People data: identity, person-level authorization, what reaches the model, retention, approvals, and audit.</p>\n</li>\n<li>\n<p>Partner with People Products &#x26; Data on instrumentation and AI evaluations to measure quality, enforce boundaries, and improve products.</p>\n</li>\n<li>\n<p>Create the reusable building blocks that let People team members safely build simpler tools themselves, so your time goes to the most complex, highest-impact work.</p>\n</li>\n<li>\n<p>Own what you ship across the stack, from React and TypeScript through service code and data models, and set technical direction with non-engineering partners by shaping ambiguous problems, pushing back on scope, and proposing simpler paths.</p>\n</li>\n</ul>\n<h2><strong>In order to be successful, you must bring</strong></h2>\n<ul>\n<li>\n<p>[5+] years of professional software engineering experience, including owning systems end to end from ambiguous problem to production.</p>\n</li>\n<li>\n<p>Strong full-stack skills: React and TypeScript on the frontend, and solid backend engineering. We use Go, PHP, and Python, and we expect strong engineers to pick up a new language.</p>\n</li>\n<li>\n<p>Working knowledge of relational and non-relational data stores (Postgres, DynamoDB, or similar).</p>\n</li>\n<li>\n<p>Sound judgment with sensitive data: authentication and authorization, least-privilege access, auditability, and privacy-aware design.</p>\n</li>\n<li>\n<p>Experience building internal tools or business systems — people, sales, marketing, finance, or operations tooling — and integrating with SaaS platforms through their APIs.</p>\n</li>\n<li>\n<p>Real product judgment: you can look at a workflow, decide what to build, and say what to cut.</p>\n</li>\n<li>\n<p>Comfort operating with a high degree of autonomy as the primary engineer on a product area, and a track record of raising the technical bar for the people around you.</p>\n</li>\n</ul>\n<h2><strong>Expected salary ranges</strong></h2>\n<ul>\n<li>\n<p>For candidates living in San Francisco / Bay Area, San Jose, New York City, or Seattle metros, the expected total cash compensation (base salary + variable pay, if applicable) range for the role is currently $210,800.00 - $272,800.00.</p>\n</li>\n<li>\n<p>For candidates living in Austin, TX or Washington DC metros or in California, Massachusetts, New Jersey, or Washington states, the expected total cash compensation (base salary + variable pay, if applicable) range for the role is currently $189,600.00 - $245,300.00.</p>\n</li>\n<li>\n<p>For candidates living in all other US locations, the expected total cash compensation (base salary + variable pay, if applicable) range for this role is currently $179,400.00 - $232,100.00.</p>\n</li>\n</ul>\n<p>Actual offered salaries will vary and will be based on various factors, such as calibrated job level, qualifications, skills, competencies, and proficiency for the role.</p>\n<p>Thumbtack embraces diversity. We are proud to be an equal opportunity workplace and do not discriminate on the basis of sex, race, color, age, pregnancy, sexual orientation, gender identity or expression, religion, national origin, ancestry, citizenship, marital status, military or veteran status, genetic information, disability status, or any other characteristic protected by federal, provincial, state, or local law. We also will consider for employment qualified applicants with arrest and conviction records, consistent with applicable law.</p>\n<p>Thumbtack is committed to working with and providing reasonable accommodation to individuals with disabilities. If you would like to request a reasonable accommodation for a medical condition or disability during any part of the application process, please contact: <a href=\"mailto:recruitingops@thumbtack.com\">recruitingops@thumbtack.com</a>.</p>\n<p>For information about how Thumbtack collects, uses, and shares personal information about job applicants, please see our <a href=\"https://www.thumbtack.com/job-applicant-privacy-policy\">Job Applicant Privacy Policy</a>.</p>\n<p>We put as much craftsmanship into candidate safety as we do into the hiring experience itself. While scammers may try to impersonate our team, we’ll never ask you for money, banking info, or SSNs during hiring. <a href=\"https://careers.thumbtack.com/recruiting-scams\">Check out our blueprint on how to spot the fakes.</a></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-full-stack-engineer-people-products-thumbtack-edf62e7cccc2459fa269f724668a2db1</p>",
       "posted_at": "2026-11-05T23:01:15.035+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "10e52071-9c44-47c0-811e-44d6f2d06f4e",
-      "title": "Principal Application Engineer (Salesforce)",
-      "url": "https://remotejobs.org/remote-jobs/principal-application-engineer-salesforce-pointclickcare",
-      "apply_url": "https://remotejobs.org/remote-jobs/principal-application-engineer-salesforce-pointclickcare",
-      "company": {
-        "name": "PointClickCare",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/47b09b720eaa45f10bff58cc968d42382674e5640967a1ae927ce19cb7b32ad7.jpeg",
-        "website": "https://pointclickcare.com",
-        "url": "https://remotejobs.org/companies/pointclickcare"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "Mississauga, Ontario",
-      "location_normalization": {
-        "raw": "Mississauga, Ontario",
-        "input": {
-          "workArrangement": "hybrid"
-        },
-        "scope": "restricted",
-        "status": "partial",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [
-          "mississauga"
-        ],
-        "work_arrangement": "hybrid",
-        "allowed_countries": [],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "worksite_countries": [
-          "CA"
-        ],
-        "allowed_subdivisions": [
-          "CA-ON"
-        ],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "partial",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [
-          "Hybrid role requires residence within commutable distance to the office/location specified in the job listing (Mississauga, Ontario). This is an unsupported distance-based residency requirement that cannot be mapped to ISO country or subdivision areas.",
-          "If this role is Hybrid"
-        ],
-        "evidence_ids": [
-          "c1",
-          "source-location"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "hybrid",
-        "allowed_countries": [],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [
-          "CA-ON"
-        ],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": "principal",
-        "role_family": null,
-        "required_skills": [],
-        "mentioned_skills": [
-          "angular",
-          "aws",
-          "javascript",
-          "python",
-          "react",
-          "sql",
-          "vue"
-        ],
-        "preferred_skills": [],
-        "experience_requirements": []
-      },
-      "salary_min": 135300,
-      "salary_max": 169100,
-      "salary_text": null,
-      "salary_source_text": "<div><em style=\"font-size: 13.3333px;\"><em>At PointClickCare, base salary is one of the many components that make up our total rewards package. The CAD base salary range for this position is $135,300-169,100+ bonus + equity + benefits. Our salary ranges are determined by job and level. The range displayed on each job posting reflects the target for new hire salaries for the position across all CANADA locations. Within the range, individual compensation is determined by job-related skills and knowledge, relevant experience including professional and lived experience, and/or work location. Your recruiter can share more information about our total rewards package during the hiring process</em></em></div>",
-      "salary_currency": "CAD",
-      "salary_period": null,
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": "230b8d92-f07c-4f44-b888-7f862314af15",
-      "direct_apply": null,
-      "description": "<p>At PointClickCare our mission is simple: to help providers deliver exceptional care. And that starts with our people. As a leading health tech company that’s founder-led and privately held, we empower our employees to push boundaries, innovate, and shape the future of healthcare.</p><p>With the largest long-term and post-acute care dataset and a Marketplace of 400+ integrated partners, our platform serves over 30,000 provider organizations, making a real difference in millions of lives. We also reinvest a significant percentage of our revenue back into research and development, ensuring our employees have the resources to innovate and make a lasting impact. Recognized by Forbes as a top private cloud company and honored as one of Canada’s Most Admired Corporate Cultures, we offer flexibility, growth opportunities, and meaningful work. </p><p>At PointClickCare, we empower our people to be the architects of a smarter healthcare future; one that is human-first and accelerated by AI to create meaningful and lasting change. Employees harness AI as a catalyst for creativity, productivity, and thoughtful decision-making. By integrating AI tools into our daily workflows, collaboration is enhanced, outcomes are improved, and every team member has the proficiency to maximize their impact. It all starts with our hiring practices where we uncover AI expertise that complements our mission, and we continue to invest in training and development to nurture innovation throughout the employee journey.</p><p>Join us in redefining healthcare — so it doesn’t just survive, it thrives. To learn more about PointClickCare, check out <a href=\"https://can01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpointclickcare.com%2Flife-at-pointclickcare%2F&#x26;data=05%7C02%7CSandeep.Dhillon%40pointclickcare.com%7Ce9353db140a24fd980f808ddb00013f1%7Cafd0249eca3d42058bf4ac2b6abd0fec%7C0%7C0%7C638860236586947941%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&#x26;sdata=dIKtrMG7L0sb%2FfLrFRvhcZAmfqfNXTXDTvMsoJkwGvM%3D&#x26;reserved=0\">Life at PointClickCare</a> and connect with us on <a href=\"https://can01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.glassdoor.ca%2FOverview%2FWorking-at-PointClickCare-EI_IE452666.11%2C25.htm&#x26;data=05%7C02%7CSandeep.Dhillon%40pointclickcare.com%7Ce9353db140a24fd980f808ddb00013f1%7Cafd0249eca3d42058bf4ac2b6abd0fec%7C0%7C0%7C638860236586978442%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&#x26;sdata=KVgSiL%2ByFmnpxTc5PmuErMwRNwDmTGqUzJIUSIm5fY0%3D&#x26;reserved=0\">Glassdoor </a>and <a href=\"https://can01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fpointclickcare%2F&#x26;data=05%7C02%7CSandeep.Dhillon%40pointclickcare.com%7Ce9353db140a24fd980f808ddb00013f1%7Cafd0249eca3d42058bf4ac2b6abd0fec%7C0%7C0%7C638860236586994867%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&#x26;sdata=AFNWMltUX65iQ5E5LFYOrA9bKP10SzKQ7jwcti57q2E%3D&#x26;reserved=0\">LinkedIn</a>.</p><p><strong>**Travel to Office expectations**</strong></p><p><strong>For Remote Roles</strong>: If this role is remote, there will be in-office events that will require travel to and from the Mississauga and/or Salt Lake City office. These will include, but not limited to, onboarding, team events, semi-annual and annual team meetings.</p><p><strong>For Hybrid Roles</strong>: If this role is Hybrid, there will be an expectation to reside within commutable distance to the office/location specified in the job listing. This will include, but not limited to, weekly/bi-weekly/monthly events in the office with your specific team. This is a requirement for this role.</p><p>Job Summary </p><p>PointClickCare is searching for a Principal Application Engineer who will lead application development by writing and rigorously defending production-grade application code and configurations on a regular basis, while also encouraging and optimizing the daily execution of technical excellence across the ESA teams. This role requires mastery in all areas of application development from design to implementation, to monitoring best practices while mentoring and coaching other team members and delivering both business and technical objectives through ambiguity, uncertainty and complex situations.  The Principal Application Engineer will support strategic transformational projects, complex enhancements and lead root cause analysis for high-complexity incidents, ensuring long-term fixes and system resilience improvements. They will also oversee vendor engagements where necessary to ensure that they deliver quality technical solutions following the best industry-leading engineering practices. </p><p>To succeed as a Principal Application Engineer at PointClickCare, you need to be highly creative, accountable, collaborative and passionate. You are the Subject Matter Expert (SME) for core applications like Salesforce, NetSuite, Billing Platform., etc. meaning you have mastered the skills well enough to teach them. You are enthusiastic about jumping in to help achieve the team’s top priorities, no self-promoting politicians allowed. You’re not afraid to dive into uncharted technical territory and get your own hands dirty while supporting and driving delivery of complex features through a dedicated team. You’re also eager to learn and teach knowledge that drives the team forward and are excited to be part of a movement that is positively impacting the lives of seniors and their caregivers all over North America. </p><h2>What your day-to-day will look like: </h2><ul>\n<li>\n<p>Be the go-to Subject Matter Expert (SME) and internal expert for relevant applications (Salesforce, NetSuite, Billing Platform, etc.) for senior leadership, vendors, business partners and internal team members while staying ahead of emerging trends and advising on best practices </p>\n</li>\n\n</ul><ul>\n<li>\n<p>Identify, prioritize and execute high complexity tasks in the application development life cycle with quality and speed </p>\n</li>\n\n</ul><ul>\n<li>\n<p>Collaborate with business stakeholders to understand strategic objectives and translate them into scalable technical solutions while driving simplified solution architecture </p>\n</li>\n\n</ul><ul>\n<li>\n<p>Develop complex tools and applications by producing clean, efficient code in the relevant application (Salesforce, NetSuite, Billing Platform, etc.) and languages (Apex, JavaScript, SuiteScript, Python, etc.) and connected or integrated apps like Kantata, Conga, Gainsight, Qualtrics, Gong, TaskRay, Adobe, Quip, etc. </p>\n</li>\n\n</ul><ul>\n<li>\n<p>Build test automation regression suites and coach the broader team on how to set up test automations in Copado </p>\n</li>\n\n</ul><ul>\n<li>\n<p>Embed and Build AI workflows and agents to realize business value delivered faster </p>\n</li>\n\n</ul><ul>\n<li>\n<p>Coach and hold vendors accountable to our best practices and milestone deliverables </p>\n</li>\n\n</ul><ul>\n<li>\n<p>Automate high complexity tasks through appropriate tools and scripting and provide guidance on test automations </p>\n</li>\n\n</ul><ul>\n<li>\n<p>Analyze and debug systems and perform validation and verification testing in a test-driven manner </p>\n</li>\n\n</ul><ul>\n<li>\n<p>Be a coach/mentor for all engineers, including performing peer reviews, leading technical knowledge sharing sessions, establishing engineering best practices, approving pull requests and improving the overall quality of the technical solution </p>\n</li>\n\n</ul><ul>\n<li>\n<p> Take ownership of enterprise-wide initiatives to modernize application architectures, improve system integrations, and reduce technical debt. </p>\n</li>\n\n</ul><ul>\n<li>\n<p>Partner with cross-functional teams to drive standardization of development frameworks, automation tools, and DevOps best practices across the organization </p>\n</li>\n\n</ul><ul>\n<li>\n<p>Exercise independent judgement in methods, techniques and evaluation criteria for obtaining results and solving complex problems </p>\n</li>\n\n</ul><ul>\n<li>\n<p> Champion the adoption of AI and automation tools, leading experimentation and integration of AI agents to optimize development and operational workflows </p>\n</li>\n\n</ul><ul>\n<li>\n<p>Be the back-up for your manager when necessary to oversee the team’s successful delivery </p>\n</li>\n\n</ul><ul>\n<li>\n<p>Perform other tasks and duties as assigned </p>\n</li>\n\n</ul><h2>Qualifications we are looking for: </h2><p>Bonus points for: </p><ul>\n<li>\n<p>Solid experience working on a SaaS product </p>\n</li>\n\n</ul><ul>\n<li>\n<p>Deep experience with Salesforce Lightning Design System (SLDS) or other UI frameworks like React, Vue.js, or Angular </p>\n</li>\n\n</ul><ul>\n<li>\n<p>Deep experience with AWS, Azure, or other cloud platforms. </p>\n</li>\n\n</ul><ul>\n<li>\n<p>Deep experience with Service-Oriented Architecture (SOA) and SaaS product development </p>\n</li>\n\n</ul><ul>\n<li>\n<p>Working experience of SAML, OAuth, and OpenID Connect for authentication and authorization </p>\n</li>\n\n</ul><ul>\n<li>\n<p>Working experience of SQL </p>\n</li>\n\n</ul><ul>\n<li>\n<p>Working experience with on-call responsibilities for production-grade systems. </p>\n</li>\n\n</ul><ul>\n<li>\n<p>Solid understanding how to solve the dysfunctions of a team (trust, conflict, commitment, accountability and team results) </p>\n</li>\n\n\n<p>#LI-AJ1</p>\n<p>#LI-Hybrid</p>\n\n</ul><p><strong>PointClickCare Benefits &#x26; Perks:</strong></p><p>Benefits starting from Day 1!</p><p>Retirement Plan Matching </p><p>Flexible Paid Time Off</p><p>Wellness Support Programs and Resources</p><p>Parental &#x26; Caregiver Leaves</p><p>Fertility &#x26; Adoption Support</p><p>Continuous Development Support Program</p><p>Employee Assistance Program </p><p>Allyship and Inclusion Communities</p><p>Employee Recognition … and more!</p><p>It is the policy of PointClickCare to ensure equal employment opportunity without discrimination or harassment on the basis of race, religion, national origin, status, age, sex, sexual orientation, gender identity or expression, marital or domestic/civil partnership status, disability, veteran status, genetic information, or any other basis protected by law. PointClickCare welcomes and encourages applications from people with disabilities. Accommodations are available upon request for candidates taking part in all aspects of the selection process. Please contact recruitment@pointclickcare.com should you require any accommodations. As part of our commitment to a streamlined and equitable hiring experience, PointClickCare uses AI tools to assist with candidate screening and assessment.</p><p>When you apply for a position, your information is processed and stored with Lever, in accordance with <a href=\"https://www.lever.co/privacy-policy\">Lever’s Privacy Policy</a>. We use this information to evaluate your candidacy for the posted position. We also store this information, and may use it in relation to future positions to which you apply, or which we believe may be relevant to you given your background. When we have no ongoing legitimate business need to process your information, we will either delete or anonymize it.  If you have any questions about how PointClickCare uses or processes your information, or if you would like to ask to access, correct, or delete your information, please contact PointClickCare’s human resources team: <a href=\"mailto:recruitment@pointclickcare.com\">recruitment@pointclickcare.com</a> </p><p>PointClickCare is committed to Information Security. By applying to this position, if hired, you commit to following our information security policies and procedures and making every effort to secure confidential and/or sensitive information.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/principal-application-engineer-salesforce-pointclickcare</p>",
-      "posted_at": "2026-11-05T22:50:19.35+00:00",
       "is_translated": false,
       "original_language": null
     },
@@ -5872,6 +5855,102 @@
       "direct_apply": null,
       "description": "<p><strong>About <a href=\"https://jobicy.com/company/nebius\">Nebius</a>:</strong></p>\n<p>Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure.</p>\n<p>Built by engineers, for engineers. From large-scale GPU orchestration to inference optimization, we own the hard problems across compute, storage, networking and applied AI.</p>\n<p>Listed on Nasdaq (NBIS) and headquartered in Amsterdam, we have a global footprint with R&#x26;D hubs across Europe, the UK, North America and Israel. Our team of 1,500+ includes hundreds of engineers with deep expertise across hardware, software and AI R&#x26;D.</p>\n<h2>The Role</h2>\n<p>We’re looking for a<strong> Site Reliability Engineer </strong>to help build and run the fundamental part of Nebius - the Network - the infrastructure everything else depends on. This is an engineering-first SRE role: you’ll set clear reliability targets, build the tooling and automation to meet them, and make the network safer to operate as we scale quickly.</p>\n<h2>Your responsibilities will include:</h2>\n<ul>\n<li>Define and own reliability goals for network services and critical paths (SLIs/SLOs, availability targets, error budgets where it makes sense)</li>\n<li>Drive reliability improvements across the whole network: not only services, but also site readiness, inter-site connectivity (DCI), and operational standards</li>\n<li>Own incident response for your areas, lead investigations/postmortems, and turn failures into durable fixes (not repeated firefighting)</li>\n<li>Build and evolve observability: actionable metrics/logs/traces, alerting, and faster debug loops during and after incidents</li>\n<li>Design safer change workflows: automation, CI/CD, test/staging environments, canarying, rollbacks, and auditability for network changes</li>\n<li>Work closely with network engineers and platform teams to embed operability into designs and keep operations practical and fast</li>\n</ul>\n<h2>We expect you to have:</h2>\n<ul>\n<li>Strong production Linux fundamentals and a structured approach to debugging complex systems</li>\n<li>Solid understanding of networking basics and how real networks fail (control plane vs data plane, latency/loss, failure domains, etc.)</li>\n<li>Hands-on experience operating high-availability systems and improving them over time (not just “keeping lights on”)</li>\n<li>Ability to write and maintain software/automation (Go is common for us; Python is also welcome)</li>\n<li>Experience with modern infrastructure tooling (e.g., IaC, CI/CD, container platforms) and comfort automating operational workflows</li>\n</ul>\n<h2>It will be an added bonus if you have:</h2>\n<ul>\n<li>Experience with high-throughput traffic processing: load balancers, tunneling/decap, NAT64, or similar datapath-heavy systems</li>\n<li>Low-level networking performance/debug background (eBPF/XDP, DPDK, perf/ftrace, kernel networking internals)</li>\n<li>Experience building network-safe delivery pipelines (testing labs, staged rollouts, automated verification, drift detection)</li>\n<li>Background with large-scale network observability/telemetry (e.g., routing/flow telemetry, regression detection at scale)</li>\n</ul>\n<p><strong>Benefits &#x26; Perks:</strong></p>\n<ul>\n<li>Competitive compensation</li>\n<li>Career growth and learning opportunities</li>\n<li>Flexibility and ownership</li>\n<li>Collaborative and innovative culture</li>\n<li>Opportunity to work on impactful AI projects</li>\n<li>International environment and talented teams</li>\n</ul>\n<p><strong>What's it like to work at Nebius:</strong></p>\n<p>Fast moving - Bold thinking - Constant growth - Meaningful impact - Trust and real ownership - Opportunity to shape the future of AI</p>\n<p><strong>Equal Opportunity Statement:</strong></p>\n<p>Nebius is an equal opportunity employer. We are committed to fostering an inclusive and diverse workplace and to providing equal employment opportunities in all aspects of employment. We do not discriminate on the basis of race, color, religion, sex (including pregnancy), national origin, ancestry, age, disability, genetic information, marital status, veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by applicable law.</p>\n<p>Applicants must be authorized to work in the country in which they apply and will be required to provide proof of employment eligibility as a condition of hire.</p>\n<p>If you need accommodations during the application process, please let us know.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/site-reliability-engineer-in-network-infrastructure-nebius-5a00260217044c2b922f206f62dc3e2f</p>",
       "posted_at": "2026-11-06T17:56:17+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "d0b60d27-5857-4914-8694-bc7904d11110",
+      "title": "Senior DevOps / Platform Engineer (Azure)",
+      "url": "https://remotejobs.org/remote-jobs/senior-devops-platform-engineer-azure-virtasant",
+      "apply_url": "https://remotejobs.org/remote-jobs/senior-devops-platform-engineer-azure-virtasant",
+      "company": {
+        "name": "Virtasant",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/435a407b360bbe80d9a1493c0e8783054cb7417cc16ad35564f7aaea071d4205.webp",
+        "website": "https://virtasant.com",
+        "url": "https://remotejobs.org/companies/virtasant"
+      },
+      "category": {
+        "name": "DevOps",
+        "slug": "devops"
+      },
+      "location": "Austin, North America, US",
+      "location_normalization": {
+        "raw": "Austin, North America, US",
+        "input": {},
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [
+          "north america"
+        ],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [
+          "austin"
+        ],
+        "work_arrangement": "unknown",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [
+          "north america"
+        ],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [
+          "Unresolved area: location:1"
+        ],
+        "evidence_ids": [
+          "c1",
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": "senior",
+        "role_family": "devops",
+        "required_skills": [],
+        "mentioned_skills": [
+          "kubernetes",
+          "terraform"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": []
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "8683479",
+      "direct_apply": null,
+      "description": "<h2>Senior DevOps / Platform Engineer (Azure)</h2>\n<p><strong>Type:</strong> Remote Contract<br>\n<strong>Location:</strong> United States (US work authorization required)<br>\n<strong>Openings:</strong> 2 positions, including 1 Platform Lead<br>\n<strong>Start Date:</strong> Around December 1, 2026<br>\n<strong>Duration:</strong> Multi-month engagement, with potential extension</p>\n<h3><strong>About Virtasant</strong></h3>\n<p>Virtasant is a global technology services company with a network of over 4,000 technology professionals across 130+ countries. We specialize in cloud architecture, infrastructure, migration, and optimization, helping enterprises scale efficiently while maintaining cost control.</p>\n<p>Our clients range from Fortune 500 companies to fast-growing startups, relying on us to build high-performance infrastructure, optimize cloud environments, and enable continuous delivery at scale.</p>\n<h3><strong>About the role</strong></h3>\n<p>We are building a senior engineering team for a large enterprise program in healthcare operations and workforce decisioning. The platform helps operations leaders understand what is happening across their workforce, make informed decisions, take action within the enterprise systems they already use, and measure the results.</p>\n<p>We are looking for two Senior DevOps / Platform Engineers, including one Platform Lead, to design, build, secure, and operate the production infrastructure supporting this platform.</p>\n<p>The environment will run within the client's own Azure tenant, handle regulated workforce and operational data, and support isolated production deployments for individual customers.</p>\n<p>This is a hands-on engineering role requiring deep Azure expertise, infrastructure as code, cloud security, and production platform ownership. You will establish the initial build environment, develop the production infrastructure, and implement the automation, security controls, observability, and disaster recovery capabilities needed to operate a reliable enterprise platform.</p>\n<p>For the Platform Lead position, you will also own key architectural decisions, establish engineering standards, and work directly with the client's architects and security teams.</p>\n<h3><strong>What You'll Do</strong></h3>\n<ul>\n<li>\n<p>Design, build, and maintain production Azure infrastructure, including subscriptions, landing zones, private networking, managed identities, Azure Key Vault, and Azure Monitor.</p>\n</li>\n<li>\n<p>Develop and maintain infrastructure as code using Terraform or Bicep, creating reusable modules and automated provisioning processes.</p>\n</li>\n<li>\n<p>Establish the initial build and development environments, followed by secure, production-ready infrastructure within the client's Azure tenant.</p>\n</li>\n<li>\n<p>Design and implement isolated customer deployments, ensuring strict separation of subscriptions, networking, encryption keys, and data stores.</p>\n</li>\n<li>\n<p>Build repeatable infrastructure deployment processes that allow new customer environments to be provisioned consistently and efficiently.</p>\n</li>\n<li>\n<p>Implement secure identity and access management using Microsoft Entra ID, workload identities, least-privilege RBAC, just-in-time access, and break-glass procedures.</p>\n</li>\n<li>\n<p>Design and maintain secure CI/CD pipelines using client-controlled repositories and runners, including automated testing, security scanning, approval workflows, and controlled production releases.</p>\n</li>\n<li>\n<p>Implement cloud security controls and support enterprise security assessments, penetration testing, compliance reviews, and vulnerability remediation.</p>\n</li>\n<li>\n<p>Build observability capabilities across customer deployments, including centralized logging, metrics, distributed tracing, alerting, and integration with enterprise SIEM platforms.</p>\n</li>\n<li>\n<p>Design and implement resilient infrastructure, backup strategies, zone redundancy, and disaster recovery solutions, including secondary-region failover capabilities.</p>\n</li>\n<li>\n<p>Define recovery objectives, conduct disaster recovery and performance testing, and document results and remediation actions.</p>\n</li>\n<li>\n<p>Collaborate with application engineers, security teams, enterprise architects, and client stakeholders to ensure infrastructure meets operational, security, and performance requirements.</p>\n</li>\n<li>\n<p>Develop operational runbooks, infrastructure documentation, and incident response procedures.</p>\n</li>\n<li>\n<p>Participate in production on-call rotations, incident troubleshooting, and post-deployment hypercare.</p>\n</li>\n<li>\n<p>Take ownership of infrastructure throughout its lifecycle, from architecture and implementation through production deployment, monitoring, troubleshooting, and continuous improvement.</p>\n</li>\n<li>\n<p>For the Platform Lead position, guide technical architecture, establish platform engineering standards, coordinate engineering activities, and represent the team in client architecture and security discussions.</p>\n</li>\n</ul>\n<h3><strong>What We're Looking For</strong></h3>\n<h4><strong>Must-Have Experience</strong></h4>\n<ul>\n<li>\n<p><strong>Senior Azure platform engineering experience.</strong> You have designed, built, and operated production Azure environments end to end, including subscriptions, landing zones, private networking, managed identities, Key Vault, and Azure Monitor. You have personally implemented infrastructure rather than only maintaining environments designed by others.</p>\n</li>\n<li>\n<p><strong>Infrastructure as code.</strong> Strong hands-on experience with Terraform or Bicep, including reusable infrastructure modules, automated provisioning, configuration management, and infrastructure lifecycle ownership.</p>\n</li>\n<li>\n<p><strong>Security and regulated environments.</strong> You have built production platforms handling PHI or similarly sensitive data and successfully supported HIPAA, SOC 2, or comparable enterprise security reviews. You have participated in penetration testing, addressed security findings, and produced technical evidence for compliance assessments.</p>\n</li>\n<li>\n<p><strong>Identity and secrets management.</strong> Strong experience with Microsoft Entra ID, workload identities, least-privilege RBAC, just-in-time and break-glass access, credential rotation, and secure secrets management. You understand how to eliminate long-lived credentials from pipelines and repositories.</p>\n</li>\n<li>\n<p><strong>Multi-tenant infrastructure architecture.</strong> You have designed and operated customer-isolated environments with separate networking, encryption keys, and data stores. You can automate repeatable customer deployments while maintaining strict security boundaries.</p>\n</li>\n<li>\n<p><strong>Secure CI/CD engineering.</strong> Experience building production deployment pipelines within enterprise-controlled environments, including secure runners, environment promotion, approval workflows, container and dependency scanning, and coordinated releases across multiple deployments.</p>\n</li>\n<li>\n<p><strong>Disaster recovery and resilience.</strong> Hands-on experience implementing backup strategies, zone-redundant infrastructure, secondary-region recovery environments, and documented RTO/RPO objectives. You have personally executed and validated production disaster recovery or failover tests.</p>\n</li>\n<li>\n<p><strong>Observability and production operations.</strong> Strong experience implementing logging, metrics, tracing, alerting, security event monitoring, and performance testing. You can troubleshoot production issues, identify bottlenecks, and participate in on-call support.</p>\n</li>\n<li>\n<p><strong>Technical ownership and stakeholder communication.</strong> You can independently own complex infrastructure initiatives, explain architectural decisions to enterprise architects and security reviewers, and document operational procedures and technical trade-offs.</p>\n</li>\n<li>\n<p><strong>Strong English communication.</strong> You are fluent in written and spoken English and comfortable collaborating directly with US-based engineers, enterprise architects, security teams, and client stakeholders.</p>\n</li>\n<li>\n<p><strong>US location and work authorization.</strong> You must be based in the United States and authorized to work in the US. Occasional domestic travel may be required.</p>\n</li>\n<li>\n<p><strong>Available around December 1, 2026.</strong></p>\n</li>\n</ul>\n<p><strong>Additional requirement for the Platform Lead:</strong> Previous experience leading a small platform engineering team, establishing technical standards, owning architectural decisions, and representing infrastructure designs in enterprise client discussions.</p>\n<h4><strong>Nice-to-haves</strong></h4>\n<ul>\n<li>\n<p>Healthcare technology experience, particularly provider, payer, workforce management, or other regulated healthcare platforms.</p>\n</li>\n<li>\n<p>Snowflake administration, including customer-specific environments, private connectivity, customer-managed encryption keys, replication, and failover.</p>\n</li>\n<li>\n<p>Experience operating graph databases such as Neo4j in production, including clustering, encryption, backup, and patching.</p>\n</li>\n<li>\n<p>Experience deploying and supporting Azure AI Foundry or Azure OpenAI, including regional data controls and infrastructure for AI applications.</p>\n</li>\n<li>\n<p>Experience with Microsoft Defender for Cloud, Microsoft Sentinel, Azure Policy, or equivalent security monitoring and governance tools.</p>\n</li>\n<li>\n<p>Experience with Azure Kubernetes Service (AKS) or Azure Container Apps for production containerized workloads.</p>\n</li>\n<li>\n<p>Experience using AI-assisted development tools to accelerate infrastructure automation, scripting, and CI/CD engineering.</p>\n</li>\n<li>\n<p>Experience supporting enterprise platforms with strict security, availability, and customer isolation requirements.</p>\n</li>\n</ul>\n<h3><strong>Our recruitment process</strong></h3>\n<ul>\n<li>\n<p>Recruiter interview (30 min)</p>\n</li>\n<li>\n<p>Technical interview (30 min)</p>\n</li>\n<li>\n<p>Client interview (45 min)</p>\n</li>\n</ul>\n<p>We strive to move efficiently from step to step to make the recruitment process as fast as possible.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-devops-platform-engineer-azure-virtasant</p>",
+      "posted_at": "2026-11-06T14:36:26+00:00",
       "is_translated": false,
       "original_language": null
     },
@@ -9499,103 +9578,6 @@
       "direct_apply": null,
       "description": "<p>We Also Walk Dogs needs you to help our clients win fights to make the world a better place.</p>\n<p>Our product, ActionKit (actionk.it), is used by dozens of major progressive groups and not-for-profits to stay in touch with tens of millions of online supporters. Our clients use ActionKit to fight climate change, push back against corporate power and more.</p>\n<p>We've already begun moving our stack from on-premises servers to AWS, and need a DevOps engineer to help us take that effort to the next level. If you'd like to work at the intersection of cool cloud tech and making a better world, this is the job for you.</p>\n<p>ActionKit is built by We Also Walk Dogs. Named after a Robert Heinlein story about a company that specialized in solving impossible problems, We Also Walk Dogs has spent over a decade serving online progressive organizations and charities. We're a small, friendly, and clever company. And we all work remotely.</p>\n<h2>Is this the job for you?</h2>\n<ul>\n<li>Do you keep production systems running? According to our external monitoring, we've kept 99.98% uptime this past year, and gone three months without downtime, while very actively working on the product. We need someone with the expertise and discipline to help us keep that going.</li>\n<li>Do you think in the cloud? After starting with a fully on-premises deployment, today we're serving millions of end-users from AWS. But we know that intelligently deploying new tools and cloud capabilities can help us do things we could never do with just a rack of servers, and we need a DevOps engineer who can take us there.</li>\n<li>Can you can wear a lot of hats? We're a small company and not much for bureaucratic divisions. The boss codes; the project manager gives sales demos; most everyone, including you, does a shift of at least a few hours each week answering our clients' support tickets.</li>\n</ul>\n<h2>If this sounds like you, please apply!</h2>\n<h2>Must haves:</h2>\n<ul>\n<li>You need to care about maintaining a high-quality deployment. We've kept our uptime record with solid automation and monitoring, jumping on oddities before they become problems, and digging into root causes when things go wrong. We need you to be able to continue that tradition.</li>\n<li>You need vision as well as execution. We need you to not only keep things running smoothly, but also help lead us where we need to go next. You need expertise in modern tools and AWS capabilities, and a strategic sense of how we can use them for efficiency, manageability, performance, and reliability.</li>\n<li>You need to be in touch with others' needs. We're a small, tight-knit crew where everyone pitches in. Empathy with clients and end-users is also core to our business. Everyone on the team works directly with clients.</li>\n</ul>\n<h2>Nice to haves:</h2>\n<ul>\n<li>Experience working with all-remote teams.</li>\n<li>Experience with Django, MySQL, and Ansible.</li>\n<li>Experience with AWS features and patterns like VPCs, ELBs, SQS, auto-scaling groups, multi-zone deployments, and so on.</li>\n<li>That said, experience with our stack is maybe the least important factor here; Even if you've used Rails instead of Django, Postgres instead of MySQL, or Azure instead of AWS, we want to hear from you.</li>\n</ul>\n<h2>Why work for us?</h2>\n<ul>\n<li>Competitive salary. We are a self-funded, for-profit company.</li>\n<li>Remote work. Hours and location are flexible as long as you get the work done. In this day and age you shouldn't have to relocate to San Francisco for awesome work.</li>\n<li>Four weeks paid time off. We encourage you to take vacation; we are not the sort of workplace that pressures anyone into 60-hour weeks.</li>\n<li>A free, great health insurance policy and 401(k)</li>\n<li>Work with an awesome team for awesome causes.</li>\n</ul>\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/lead-devops-engineer-actionkit-6dcdd195311f4bbeb439d7d455b0722c</p>",
       "posted_at": "2026-11-02T03:27:13+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "aed3f241-b793-4bf0-b020-8f2e9d67279c",
-      "title": "Senior DevOps Engineer",
-      "url": "https://remotejobs.org/remote-jobs/senior-devops-engineer-webengage",
-      "apply_url": "https://remotejobs.org/remote-jobs/senior-devops-engineer-webengage",
-      "company": {
-        "name": "WebEngage",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/eeefc7349276183016384dbed0041e5e35ccab8ae8ba8eb62a7901f5d9ebc4f3.webp",
-        "website": "https://webengage.com",
-        "url": "https://remotejobs.org/companies/webengage"
-      },
-      "category": {
-        "name": "DevOps",
-        "slug": "devops"
-      },
-      "location": "India",
-      "location_normalization": {
-        "raw": "India",
-        "input": {},
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "IN"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "partial",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [],
-        "evidence_ids": [
-          "source-location"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "IN"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": "senior",
-        "role_family": "devops",
-        "required_skills": [
-          "aws",
-          "golang",
-          "kubernetes",
-          "python",
-          "terraform"
-        ],
-        "mentioned_skills": [],
-        "preferred_skills": [],
-        "experience_requirements": [
-          {
-            "text": "1 - 4 Years of experience in running high-scale cloud infrastructure",
-            "maximum_years": 4,
-            "minimum_years": 1,
-            "classification": "required"
-          }
-        ]
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": null,
-      "salary_period": "year",
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<h2>About Us:</h2><p>WebEngage is a customer data platform and marketing automation suite that makes user engagement and retention simplified. A 13 year vintage rock solid SaaS play growing near-profitably on the back of great product and service experience. Offers a single dashboard solution to consumer companies to unify and analyse their customer data, engage with customers across multiple channels and personalise every message including in-line content on the web / mobile apps. We work with thousands of brands worldwide, across industries like E-Commerce, Edtech, Fintech, Foodtech, Media &#x26; Publications, Gaming, BFSI, Healthcare, and Online Retail. </p><p>One of the hottest global SaaS companies, we've been recognized by G2 as a Marketing Automation Leader in Asia 2021. A battle hardened team, accessible founders and a resilient culture of sustainable growth with no shortcuts. A somewhat uncommon, in-the-ring view of building a company to last. </p><h2>Learn more about us at www.webengage.com</h2><h2>Responsibilities : </h2><ul>\n<li><p>Design and implement high-scale and secure infrastructure. </p></li>\n<li><p>Plan and own your slice of the infrastructure roadmap. </p></li>\n<li><p>Enhance security practices around everything infrastructure. </p></li>\n<li><p>Drive organization-wide infosec and compliance programs like ISO, SOC2, etc. </p></li>\n<li><p>Review operational efficiency of infrastructure and research ways to make it better. </p></li>\n<li><p>Design and operate robust scaling of distributed technologies. </p></li>\n<li><p>Research and implement innovative methods for reducing cloud costs. </p></li>\n<li><p>Boost platform reliability by setting up platforms like CI/CD, centralized logging monitoring, observability, and more. </p></li>\n<li><p>Automate robust provisioning of the entire infrastructure. </p></li>\n<li><p>Design and perform dry-runs of BCP and DR practices. </p></li>\n<li><p>Monitor critical metrics and help reduce reaction time to incidents. </p></li>\n<li><p>Measure system resilience and track performance and availability SLAs. </p></li>\n</ul><h2>Requirements:</h2><ul>\n<li><p>B.E/B.Tech in Computer Science or a related engineering/science field </p></li>\n<li><p>1 - 4 Years of experience in running high-scale cloud infrastructure </p></li>\n<li><p>Strong fundamentals in Linux/Unix Administration and Networking. </p></li>\n<li><p>Hands-on experience with Shell scripting, Ansible, Terraform, Python, Go. </p></li>\n<li><p>Extensive hands-on experience working with cloud platforms like AWS, Azure, GCP </p></li>\n<li><p>Experience in deployment automation, CI/CD (Jenkins, Maven, GitLab) and monitoring tools like Prometheus, DataDog, Sentry, OpenTelemetry</p></li>\n<li><p>Knowledge of databases, architecture of distributed technologies (kafka, elasticsearch etc.), JVMs, web servers (nginx), proxies (ha-proxy) </p></li>\n<li><p>An intrinsic desire to go deeper beneath the abstractions offered by new-age systems. </p></li>\n<li><p>Knowledge of containers and orchestration (Kubernetes) </p></li>\n<li><p>Experience with B2B software is preferable </p></li>\n<li><p>You have experience in gathering, translating and prioritizing customer requirements and defining product roadmaps.</p></li>\n</ul><h2>Life at WebEngage: </h2><ul>\n<li><p>We take transparency very seriously. Along with a full view of team goals, get a top-level view across the board with our monthly &#x26; quarterly town hall meetings. </p></li>\n<li><p>A highly inclusive work culture that promotes a relaxed, creative and productive environment. </p></li>\n<li><p>Practice autonomy, open communication, growth opportunities,while maintaining a perfect work-life balance </p></li>\n</ul><h2>Perks &#x26; Benefits: </h2><ul>\n<li><p>Learning is a way of life. Unlock your full potential backed with cutting-edge tools and mentorship (Macbook for Engagers!) </p></li>\n<li><p>Get the best in class medical insurance (with Covid Care facilities), programs for taking care of your mental health, and a Contemporary Leave Policy (beyond sick leaves) </p></li>\n</ul><h2>Explore more here: </h2><h2>•  </h2><p>•  </p><h2>•  </h2><p><strong>Do you think you fit the bill?</strong> Come along, letʼs redefine the future of Marketing Automation! </p><p>WebEngage aims to be an equal opportunity employer. We strongly believe that when people feel respected and included they can be more creative, innovative, and successful. We believe that change is the only constant and are in the process and will continue to be in process with changing times to adapt and advance diversity and inclusion. We take affirmative action to ensure equal opportunity and complete non-disclosure of all applicants without any regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or any other characteristics not mentioned hereinabove which are protected under the law of the soil.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-devops-engineer-webengage</p>",
-      "posted_at": "2026-11-02T03:27:12+00:00",
       "is_translated": false,
       "original_language": null
     },
