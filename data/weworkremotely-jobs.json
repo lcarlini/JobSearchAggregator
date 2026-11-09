@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-08T21:47:21.570Z",
-  "count": 233,
+  "generatedAt": "2026-11-09T04:53:54.692Z",
+  "count": 237,
   "jobs": [
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-processing",
@@ -376,6 +376,36 @@
       ],
       "postedAt": "Sat, 10 Oct 2026 07:30:40 +0000",
       "category": "programming"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/edgewater-federal-solutions-inc-full-stack-platform-engineer",
+      "source": "weworkremotely",
+      "title": "Full-Stack Platform Engineer",
+      "company": "Edgewater Federal Solutions, Inc.",
+      "url": "https://weworkremotely.com/remote-jobs/edgewater-federal-solutions-inc-full-stack-platform-engineer",
+      "description": "Headquarters: United States URL: https://www.edgewaterit.com Overview Edgewater Federal Solutions is seeking an experienced Full-Stack Platform Engineer .&nbsp;The Full-Stack Platform Engineer provides senior technical leadership and hands-on engineering for a secure enterprise data analytics platform supporting a federal environment. The role designs and delivers scalable web applications, APIs, data integrations, cloud solutions, and secure development practices while guiding technical decisions and resolving complex platform issues. &nbsp; *Due to the nature of the work and contract - US Citizenship is required. *This is a remote role. &nbsp; Responsibilities Responsibilities include, but are not limited to the following: Lead architecture, design, and development of full-stack solution",
+      "location": "USA Only",
+      "tags": [
+        "DevOps and Sysadmin",
+        "devops"
+      ],
+      "postedAt": "Mon, 09 Nov 2026 01:53:39 +0000",
+      "category": "devops"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/halcyon-senior-backend-cloud-engineer",
+      "source": "weworkremotely",
+      "title": "Senior Backend Cloud Engineer",
+      "company": "Halcyon",
+      "url": "https://weworkremotely.com/remote-jobs/halcyon-senior-backend-cloud-engineer",
+      "description": "Headquarters: United States URL: http://www.halcyon.ai What we do: Halcyon is the industry’s first dedicated, adaptive security platform that combines multiple proprietary advanced prevention engines along with AI models focused specifically on stopping ransomware. Who we are: Halcyon was formed in 2021 by a team of cyber industry veterans after battling the scourge of ransomware (and advanced threats) for years at some of the largest global security vendors. Comprised of leaders from Cylance (now Blackberry), Accuvant (now Optiv), Fireye and ISS X-Force (now IBM), Halcyon is focused on building products and solutions for mid-market and enterprise customers. As a remote-native, completely distributed global team, we recognize great talent can exist anywhere. We invite you to apply to a job",
+      "location": "USA Only",
+      "tags": [
+        "DevOps and Sysadmin",
+        "devops"
+      ],
+      "postedAt": "Mon, 09 Nov 2026 01:53:23 +0000",
+      "category": "devops"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/salesloft-salesforce-business-systems-administrator",
@@ -1096,6 +1126,51 @@
       ],
       "postedAt": "Wed, 30 Sep 2026 14:50:43 +0000",
       "category": "design"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/customer-io-senior-product-manager-workflows",
+      "source": "weworkremotely",
+      "title": "Senior Product Manager, Workflows",
+      "company": "Customer.io",
+      "url": "https://weworkremotely.com/remote-jobs/customer-io-senior-product-manager-workflows",
+      "description": "Headquarters: Hidalgo del Parral, Chihuahua, Mexico URL: https://customer.io About Customer.io Over 9,000 companies — from scrappy startups to global brands — use our platform to send billions of emails, push notifications, in-app messages, and SMS every day. Customer.io powers automated communication that people actually want to receive. We help teams send smarter, more relevant messages using real-time behavioral data. About the role Hi, my name is Megan Berry, Senior Director of Product at Customer.io , and I'm looking for a Senior Product Manager to help us turn customer signals into products people actually want. Our team is six product managers who partner closely with Design and Engineering to launch first-class products that drive customer and business outcomes. You need to be able",
+      "location": "North America Only",
+      "tags": [
+        "Product",
+        "product"
+      ],
+      "postedAt": "Mon, 09 Nov 2026 01:53:37 +0000",
+      "category": "product"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/firy-head-of-product-beamable",
+      "source": "weworkremotely",
+      "title": "Head of Product  - Beamable",
+      "company": "FIRY",
+      "url": "https://weworkremotely.com/remote-jobs/firy-head-of-product-beamable",
+      "description": "Headquarters: Las Vegas, Nevada, United States URL: https://www.skillz.com About Beamable&nbsp; Beamable is the backend and LiveOps infrastructure platform for game developers, the system that lets studios build, operate, and scale live games without constructing the underlying architecture themselves. Backend services, identity, analytics, meta-game systems, virtual economies, and AI-native tooling: all integrated into a single platform that eliminates the point-solution stitching that has defined game development for too long. Beamable also powers Wingman, an agentic LiveOps product that gives game teams a unified operating system to understand, optimize, and act on live game performance in real time. This is the future of how games are operated. Beamable is part of FIRY , a founder-led ",
+      "location": "USA Only",
+      "tags": [
+        "Product",
+        "product"
+      ],
+      "postedAt": "Mon, 09 Nov 2026 01:53:31 +0000",
+      "category": "product"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/patchstack-senior-product-manager",
+      "source": "weworkremotely",
+      "title": "Senior Product Manager",
+      "company": "Patchstack",
+      "url": "https://weworkremotely.com/remote-jobs/patchstack-senior-product-manager",
+      "description": "Headquarters: Greece URL: https://jobs.workable.com/company/ssarktiaEdEzba97Jjs1YN/jobs-at-patchstack Overview Patchstack protects WordPress sites for hosts, agencies and developers, and we're now launching a security product for people building JavaScript apps with AI tools like Claude Code. That product is early. We have good signals from hosts and hackathons, but we haven't yet found who it serves best, what they value, or why they'll keep paying for it. You'll be the product manager who finds that out. You'll talk to customers, use the product in real AI-assisted workflows, test ideas quickly with our designer and engineers, and build the measurement that tells us what's working. You'll work alongside two small engineering squads, a senior product designer, QA and infrastructure. You o",
+      "location": "Europe Only",
+      "tags": [
+        "Product",
+        "product"
+      ],
+      "postedAt": "Mon, 09 Nov 2026 01:53:21 +0000",
+      "category": "product"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/zanda-health-product-owner-1",
@@ -3105,21 +3180,6 @@
         "management"
       ],
       "postedAt": "Fri, 06 Nov 2026 04:39:11 +0000",
-      "category": "management"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/cincinnati-children-s-financial-clearance-rep-i",
-      "source": "weworkremotely",
-      "title": "Financial Clearance Rep I",
-      "company": "Cincinnati Children's",
-      "url": "https://weworkremotely.com/remote-jobs/cincinnati-children-s-financial-clearance-rep-i",
-      "description": "Headquarters: United States URL: http://www.cincinnatichildrens.org Primary Location Remote Department Heart Institute Administration Shift Day (United States of America) Schedule Full time Weekly Hours 40 FTE 1 Employee Status Regular &nbsp; *Expected Starting Pay Range $18.66 - $22.89 *Starting pay is based on experience, skills, and equity; exceptions may apply for highly qualified candidates. Additional pay (e.g., shift, on‑call, or weekend differentials) and benefits may apply.&nbsp;Annual pay may vary based on FTE status. &nbsp; JOB RESPONSIBILITIES Pre-Authorization-&nbsp; Efficiently obtain pre-authorizations for scheduled services and medications using medical records and systems. Collaborate with internal and external resources on authorization scenarios. Contact families before ",
-      "location": "USA Only",
-      "tags": [
-        "Management and Finance",
-        "management"
-      ],
-      "postedAt": "Fri, 06 Nov 2026 04:39:09 +0000",
       "category": "management"
     },
     {
