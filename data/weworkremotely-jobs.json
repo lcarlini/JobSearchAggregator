@@ -1,7 +1,37 @@
 {
-  "generatedAt": "2026-11-09T04:53:54.692Z",
-  "count": 237,
+  "generatedAt": "2026-11-09T15:20:58.962Z",
+  "count": 245,
   "jobs": [
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/alloy-founding-forward-deployed-engineer",
+      "source": "weworkremotely",
+      "title": "Founding Forward Deployed Engineer",
+      "company": "Alloy",
+      "url": "https://weworkremotely.com/remote-jobs/alloy-founding-forward-deployed-engineer",
+      "description": "Headquarters: New York City, Remote Alloy is where you belong! Alloy is the AI-powered identity and fraud prevention platform that accelerates onboarding, stops fraud, and scales compliance across the customer lifecycle so financial organizations can grow without limits. More than 900 of the world's leading financial institutions and fintechs trust Alloy for smarter risk management that drives growth. Through our values: Be Bold, Go Fast, Collaborate, and Celebrate Our Differences, we are creating a workplace where you can grow, thrive, and belong. See how we’ve been continuously recognized and named one of Inc. Magazine’s Best Workplaces , Forbes America’s Best Startup Employers , Best Fintech to Work for by American Banker , year after year. Check out our investors and read more about us",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "programming"
+      ],
+      "postedAt": "Sun, 18 Oct 2026 07:31:05 +0000",
+      "category": "programming"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/airbnb-operations-engineer-biztech",
+      "source": "weworkremotely",
+      "title": "Operations Engineer, BizTech",
+      "company": "Airbnb",
+      "url": "https://weworkremotely.com/remote-jobs/airbnb-operations-engineer-biztech",
+      "description": "Headquarters: Remote- USA Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way. The Community You Will Join: BizTech fosters culture and connection at Airbnb by providing reliable corporate tools, innovative products, and technical support for all teams. We drive technical breakthroughs and strategies that redefine what it means to belong anywhere, delivering greater value for the business and our people. The Global Operations team at BizTech manages production services across Airbnb’s c",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "programming"
+      ],
+      "postedAt": "Sun, 18 Oct 2026 07:31:05 +0000",
+      "category": "programming"
+    },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-processing",
       "source": "weworkremotely",
@@ -345,36 +375,6 @@
         "programming"
       ],
       "postedAt": "Sun, 11 Oct 2026 07:30:56 +0000",
-      "category": "programming"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/typeform-full-stack-developer",
-      "source": "weworkremotely",
-      "title": "Full Stack Developer",
-      "company": "Typeform",
-      "url": "https://weworkremotely.com/remote-jobs/typeform-full-stack-developer",
-      "description": "Headquarters: Germany (Remote) ; Ireland (Remote); Netherlands (Remote) ; Portugal (Remote) ; Spain (Remote) ; United Kingdom (Remote) Who we are Typeform is a refreshingly different form builder. We help over 150,000 businesses collect the data they need with forms, surveys, and quizzes that people enjoy. Designed to look striking and feel effortless to fill out, Typeform drives 500 million responses every year—and integrates with essential tools like Slack, Zapier, and Hubspot. Typeform is fully remote by design. For this role, we can hire candidates based in the UK, Ireland, Germany, Portugal, Spain or The Netherlands About the team Typeform is a leading provider of interactive forms, surveys, and data collection experiences. We help businesses create more engaging ways to collect, mana",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "programming"
-      ],
-      "postedAt": "Sat, 10 Oct 2026 07:31:08 +0000",
-      "category": "programming"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer-iv-computer-vision",
-      "source": "weworkremotely",
-      "title": "Machine Learning Engineer - IV (Computer Vision)",
-      "company": "Jumio",
-      "url": "https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer-iv-computer-vision",
-      "description": "Headquarters: India (remote) Machine Learning Engineer IV – (Computer Vision) We’re looking for a Staff/Senior Machine Learning Engineer with deep expertise in computer vision and biometrics to lead the design and scaling of face recognition systems in production. You’ll build and train models, and own ML systems end-to-end on AWS. The final job level for this role will be determined following the interview process. What You’ll Do Lead the design and development of computer vision systems for biometrics (face attributes, detection, quality, and recognition) Rigorous fairness analysis and benchmarking of biometric models across various datasets and operating conditions. Architect, train, and optimize models using PyTorch, Tensorflow, and/or JAX Own and evolve end-to-end ML pipelines, from d",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "programming"
-      ],
-      "postedAt": "Sat, 10 Oct 2026 07:30:40 +0000",
       "category": "programming"
     },
     {
@@ -1053,21 +1053,6 @@
       "category": "design"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer-iv-fraud",
-      "source": "weworkremotely",
-      "title": "Machine Learning Engineer - IV (Fraud)",
-      "company": "Jumio",
-      "url": "https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer-iv-fraud",
-      "description": "Headquarters: India (remote) Role Purpose: The Machine Learning Engineer IV will play a critical role in advancing Jumio's Fraud team's mission to develop and enhance state-of-the-art solutions for fraud detection for ID verification purposes. This role is essential for ensuring the highest standards of security and user verification through the application of advanced machine learning and deep learning techniques, ultimately contributing to Jumio's leadership in the online identity verification, eKYC, and AML solutions market Role Value: As a Machine Learning Engineer IV at Jumio, you will have the opportunity to significantly impact the security and user experience of our ID verification solutions. Your expertise in deep learning and computer vision will drive the development of innovati",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Design",
-        "design"
-      ],
-      "postedAt": "Sat, 10 Oct 2026 07:30:40 +0000",
-      "category": "design"
-    },
-    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/contra-senior-3d-designer",
       "source": "weworkremotely",
       "title": "Senior 3D Designer",
@@ -1126,6 +1111,21 @@
       ],
       "postedAt": "Wed, 30 Sep 2026 14:50:43 +0000",
       "category": "design"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/proarch-ba-technical-product-manager",
+      "source": "weworkremotely",
+      "title": "BA/Technical Product Manager",
+      "company": "ProArch",
+      "url": "https://weworkremotely.com/remote-jobs/proarch-ba-technical-product-manager",
+      "description": "Headquarters: United States URL: https://jobs.workable.com/company/u8TybTAE2YbYgRVFYov9t4/jobs-at-proarch Partner Discovery & Requirements Analysis Lead and document working sessions with clinical, finance, operations, product, and technical stakeholders to understand existing workflows, business rules, data requirements, and operational processes. Translate manual and system-supported workflows into structured business and functional requirements. Produce gap-analysis documentation mapping current-state processes and partner requirements to existing platform capabilities. Classify requirements based on appropriate disposition, such as existing functionality, configuration, new development, acceptable operational workaround, shared platform enhancement, or out of scope. Maintain a consiste",
+      "location": "USA Only",
+      "tags": [
+        "Product",
+        "product"
+      ],
+      "postedAt": "Mon, 09 Nov 2026 09:06:54 +0000",
+      "category": "product"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/customer-io-senior-product-manager-workflows",
@@ -1533,21 +1533,6 @@
       "category": "product"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/tines-gtm-systems-specialist",
-      "source": "weworkremotely",
-      "title": "GTM Systems Specialist",
-      "company": "Tines",
-      "url": "https://weworkremotely.com/remote-jobs/tines-gtm-systems-specialist",
-      "description": "Headquarters: United States (Remote) Tines is the intelligent workflow company that powers some of the world's most important workflows.&nbsp; Tines has been supporting IT and security teams from a diverse range of customers, including Canva, Reddit, SAP, Coinbase, Mars, Fin (Intercom), and McKesson. Tines 3B, launched in 2026, is the next generation of Tines – a single, secure environment for every team’s apps, agents and automations. As an integrator across the entire tech stack, Tines is vendor-agnostic integrating with any API-enabled service. This flexibility enables our customers to achieve their highest-priority goals faster. Tines has security woven into its DNA, and our platform is secure and private by design.&nbsp; At Tines, we're driven by our values of Simplicity, Speed, and S",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Product",
-        "product"
-      ],
-      "postedAt": "Sat, 10 Oct 2026 07:31:08 +0000",
-      "category": "product"
-    },
-    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/semaphore-senior-product-engineer",
       "source": "weworkremotely",
       "title": "Senior Product Engineer",
@@ -1561,6 +1546,36 @@
       ],
       "postedAt": "Tue, 06 Oct 2026 08:44:40 +0000",
       "category": "product"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/toptal-cad-scripting-expert",
+      "source": "weworkremotely",
+      "title": "CAD scripting Expert",
+      "company": "Toptal",
+      "url": "https://weworkremotely.com/remote-jobs/toptal-cad-scripting-expert",
+      "description": "Headquarters: Overview We are building evaluation benchmarks that test whether AI agents can complete real professional work from start to finish. We are hiring expert mechanical design and CAD automation engineers to turn real, paid CAD tasks from their own work into expert-level Terminal-Bench challenges. Each task includes the files and systems it runs on, a working solution and a check that proves the result is correct. ***THIS IS A TASK BASED COMPENSATION MODEL. PLEASE CHECK THE APPLICATION QUESTIONS FOR MORE DETAILS.*** Responsibilities • Design expert-level Terminal-Bench tasks by turning real, paid mechanical CAD work from your own experience into challenges an AI agent must solve end to end. • Define each task precisely, including the files, systems and environment it runs on, so ",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Mon, 09 Nov 2026 13:57:42 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/terac-offensive-cybersecurity-engineers-build-rl-environments-for-ai-evaluation",
+      "source": "weworkremotely",
+      "title": "Offensive Cybersecurity Engineers: Build RL Environments for AI Evaluation",
+      "company": "Terac",
+      "url": "https://weworkremotely.com/remote-jobs/terac-offensive-cybersecurity-engineers-build-rl-environments-for-ai-evaluation",
+      "description": "Headquarters: United States URL: https://terac.com What We're Researching We're hiring offensive cybersecurity experts for a long-term paid project focused on AI evaluation. Our goal is to build and harden reinforcement learning environments that test the limits of frontier AI models. This work directly contributes to understanding and mitigating advanced security risks in emerging technologies. How It Works You will work remotely on an hourly basis to design and implement complex cybersecurity benchmarks. Your tasks will involve creating robust reinforcement learning environments tailored for offensive security scenarios. You will continuously harden these environments to ensure they provide rigorous evaluations for AI systems. The project requires ongoing collaboration and iterative deve",
+      "location": "USA Only",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Mon, 09 Nov 2026 09:06:52 +0000",
+      "category": "full-stack"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/true-talent-solutions-partners-senior-solutions-engineer-digital-native-and-mid-market",
@@ -2703,36 +2718,6 @@
       "category": "full-stack"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/alloy-founding-forward-deployed-engineer",
-      "source": "weworkremotely",
-      "title": "Founding Forward Deployed Engineer",
-      "company": "Alloy",
-      "url": "https://weworkremotely.com/remote-jobs/alloy-founding-forward-deployed-engineer",
-      "description": "Headquarters: New York City, Remote Alloy is where you belong! Alloy is the AI-powered identity and fraud prevention platform that accelerates onboarding, stops fraud, and scales compliance across the customer lifecycle so financial organizations can grow without limits. More than 900 of the world's leading financial institutions and fintechs trust Alloy for smarter risk management that drives growth. Through our values: Be Bold, Go Fast, Collaborate, and Celebrate Our Differences, we are creating a workplace where you can grow, thrive, and belong. See how we’ve been continuously recognized and named one of Inc. Magazine’s Best Workplaces , Forbes America’s Best Startup Employers , Best Fintech to Work for by American Banker , year after year. Check out our investors and read more about us",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Sun, 18 Oct 2026 07:31:05 +0000",
-      "category": "full-stack"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/airbnb-operations-engineer-biztech",
-      "source": "weworkremotely",
-      "title": "Operations Engineer, BizTech",
-      "company": "Airbnb",
-      "url": "https://weworkremotely.com/remote-jobs/airbnb-operations-engineer-biztech",
-      "description": "Headquarters: Remote- USA Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way. The Community You Will Join: BizTech fosters culture and connection at Airbnb by providing reliable corporate tools, innovative products, and technical support for all teams. We drive technical breakthroughs and strategies that redefine what it means to belong anywhere, delivering greater value for the business and our people. The Global Operations team at BizTech manages production services across Airbnb’s c",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Sun, 18 Oct 2026 07:31:05 +0000",
-      "category": "full-stack"
-    },
-    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/toggl-senior-full-stack",
       "source": "weworkremotely",
       "title": "Senior Full Stack",
@@ -2806,6 +2791,141 @@
       ],
       "postedAt": "Mon, 13 May 2024 03:14:30 +0000",
       "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/true-talent-solutions-partners-strategic-project-lead-legal-j-d",
+      "source": "weworkremotely",
+      "title": "Strategic Project Lead, Legal (J.D.)",
+      "company": "True Talent Solutions Partners",
+      "url": "https://weworkremotely.com/remote-jobs/true-talent-solutions-partners-strategic-project-lead-legal-j-d",
+      "description": "Headquarters: United States URL: https://truetalentsolutionspartners.com About the Role Lead end-to-end legal and law-related projects for customers at an AI company. You will translate customer needs into actionable specifications and coordinate Operations and legal experts to build and deliver high-quality data workflows. What You'll Do Own projects from initial scoping and pipeline design through execution and delivery. Translate customer requirements into clear specifications for legal workflows. Design and improve domain-specific pipelines for usability, accuracy, quality, and scalability. Coordinate Operations teams and legal domain experts to support rapid, high-quality delivery. Set milestones, establish execution cadence, and track progress against delivery goals. Manage client co",
+      "location": "USA Only",
+      "tags": [
+        "Management and Finance",
+        "management"
+      ],
+      "postedAt": "Mon, 09 Nov 2026 09:07:12 +0000",
+      "category": "management"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/dimont-associates-llc-hazard-claims-administrator-remote",
+      "source": "weworkremotely",
+      "title": "Hazard Claims Administrator (REMOTE)",
+      "company": "Dimont & Associates, LLC",
+      "url": "https://weworkremotely.com/remote-jobs/dimont-associates-llc-hazard-claims-administrator-remote",
+      "description": "Headquarters: Dallas, Texas, United States URL: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=5ccb3b76-4d38-4eb7-a69a-b680af459179 Claims Administrator – Hazard Claims (Remote) &nbsp; Support the Claims Process From Anywhere DIMONT is seeking a Claims Administrator to join our fully remote claims operations team supporting hazard insurance claims for mortgage lenders, servicers, and investors nationwide. In this role, you will help keep claims moving efficiently by ensuring files are accurate, documentation is complete, and required information is gathered and communicated throughout the claims process. This position is a great fit for someone with experience in hazard claims, property preservation, mortgage servicing, or related insurance operations who ",
+      "location": "USA Only",
+      "tags": [
+        "Management and Finance",
+        "management"
+      ],
+      "postedAt": "Mon, 09 Nov 2026 09:07:10 +0000",
+      "category": "management"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/alteva-rcm-orthopedic-coding-manager",
+      "source": "weworkremotely",
+      "title": "Orthopedic Coding Manager",
+      "company": "Alteva RCM",
+      "url": "https://weworkremotely.com/remote-jobs/alteva-rcm-orthopedic-coding-manager",
+      "description": "Headquarters: URL: https://www.altevarcm.com About Us At Alteva RCM, we're dedicated to helping healthcare providers thrive through expert revenue cycle management, strategic insight, and innovative solutions. We're always looking for passionate, driven professionals who want to make a meaningful impact, grow their careers, and be part of a collaborative team committed to excellence. Position Summary The Orthopedic Coding Manager provides direct operational and people leadership for an team of coders in the surgical orthopedic speciality. This role has front-line accountability for the daily performance, accuracy, and productivity of their team, and serves as the primary escalation point for complex coding, documentation, and payer-related issues raised by Team Leads and coding staff. The ",
+      "location": "USA Only",
+      "tags": [
+        "Management and Finance",
+        "management"
+      ],
+      "postedAt": "Mon, 09 Nov 2026 09:07:09 +0000",
+      "category": "management"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/kyndryl-vro-lead",
+      "source": "weworkremotely",
+      "title": "VRO Lead",
+      "company": "Kyndryl",
+      "url": "https://weworkremotely.com/remote-jobs/kyndryl-vro-lead",
+      "description": "Headquarters: Dallas, Texas, United States URL: https://kyndryl.com Who We Are At Kyndryl, we design, build, manage and modernize the mission-critical technology systems that the world depends on every day. So why work at Kyndryl? We are always moving forward – always pushing ourselves to go further in our efforts to build a more equitable, inclusive world for our employees, our customers and our communities. The Role In the Value Realization Office at Kyndryl, you will play a critical role in ensuring that our customers achieve and maximize the tangible business outcomes promised in their digital transformation journeys. You will act as the strategic driver behind establishing, measuring, and protecting value across complex IT outsourcing, enterprise resource planning (ERP), and large-sca",
+      "location": "USA Only",
+      "tags": [
+        "Management and Finance",
+        "management"
+      ],
+      "postedAt": "Mon, 09 Nov 2026 09:07:07 +0000",
+      "category": "management"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/ethena-head-of-finance",
+      "source": "weworkremotely",
+      "title": "Head of Finance",
+      "company": "Ethena",
+      "url": "https://weworkremotely.com/remote-jobs/ethena-head-of-finance",
+      "description": "Headquarters: URL: https://www.goethena.com Who we are We’re Ethena, an AI platform that’s revolutionizing the Compliance space. Our team of agents helps Compliance leaders run proactive Compliance programs that drive meaningful behavior change. From Policies and Disclosures to Training, Hotline, and Analytics, our agents work together to drive smarter, faster, human-led decision-making. Hotline and training data rolls up into fully customizable, board-ready risk reports. Phishing clicks trigger bite-sized, targeted follow-up courses that drive behavior change without taking up a ton of training time. Our AI call taker synthesizes data to recommend improvements to company policies and training. Every signal lands in one place, so Compliance leaders can spot risk early and fix it before it ",
+      "location": "USA Only",
+      "tags": [
+        "Management and Finance",
+        "management"
+      ],
+      "postedAt": "Mon, 09 Nov 2026 09:07:05 +0000",
+      "category": "management"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/sedgwick-liability-claims-associate-remote-dedicated-client",
+      "source": "weworkremotely",
+      "title": "Liability Claims Associate | Remote | Dedicated Client",
+      "company": "Sedgwick",
+      "url": "https://weworkremotely.com/remote-jobs/sedgwick-liability-claims-associate-remote-dedicated-client",
+      "description": "Headquarters: Alabama, United States URL: https://www.sedgwick.com By joining Sedgwick, you'll be part of something truly meaningful. It’s what our 33,000 colleagues do every day for people around the world who are facing the unexpected. We invite you to grow your career with us, experience our caring culture, and enjoy work-life balance. Here, there’s no limit to what you can achieve. Newsweek Recognizes Sedgwick as America’s Greatest Workplaces National Top Companies Certified as a Great Place to Work® Fortune Best Workplaces in Financial Services & Insurance Liability Claims Associate | Remote | Dedicated Client Are you looking for an impactful job requiring no prior experience that offers an opportunity to develop a professional career?&nbsp; •&nbsp;&nbsp; &nbsp;A stable and consistent",
+      "location": "USA Only",
+      "tags": [
+        "Management and Finance",
+        "management"
+      ],
+      "postedAt": "Mon, 09 Nov 2026 09:07:03 +0000",
+      "category": "management"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/iqvia-associate-manager-manager-project-services-laboratories-remote-east-coast",
+      "source": "weworkremotely",
+      "title": "Associate Manager / Manager,  Project Services - Laboratories (Remote - East Coast)",
+      "company": "IQVIA",
+      "url": "https://weworkremotely.com/remote-jobs/iqvia-associate-manager-manager-project-services-laboratories-remote-east-coast",
+      "description": "Headquarters: Marietta, Georgia, United States URL: https://www.iqvia.com We are seeking experienced laboratory professionals to join the Project Services team at IQVIA Laboratories. This role is 100% remote (Eastern Time business hours). We are hiring at multiple levels — candidates are aligned to the appropriate level based on experience. We hire passionate innovators who drive healthcare forward through thoughtful and inclusive collaboration. If you want to discover a career with greater purpose, join us as we transform and accelerate research and development. Job Summary: Under general direction, manage all laboratory aspects of clinical trial projects for a client or a specific program, serving as the primary point of contact from award through start-up, maintenance, and closeout. Lea",
+      "location": "USA Only",
+      "tags": [
+        "Management and Finance",
+        "management"
+      ],
+      "postedAt": "Mon, 09 Nov 2026 09:07:01 +0000",
+      "category": "management"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/iqvia-coordinator-senior-coordinator-project-services-laboratories-remote-east-coast",
+      "source": "weworkremotely",
+      "title": "Coordinator / Senior Coordinator, Project Services - Laboratories (Remote - East Coast)",
+      "company": "IQVIA",
+      "url": "https://weworkremotely.com/remote-jobs/iqvia-coordinator-senior-coordinator-project-services-laboratories-remote-east-coast",
+      "description": "Headquarters: Marietta, Georgia, United States URL: https://www.iqvia.com We are seeking laboratory professionals to join the Project Services team with IQVIA Laboratories. This role is 100% remote (Eastern Time business hours). We are hiring at multiple levels — candidates are aligned to the appropriate level based on experience. We hire passionate innovators who drive healthcare forward through thoughtful and inclusive collaboration. If you want to discover a career with greater purpose, join us as we transform and accelerate research and development. Job Summary: Under general direction, manage laboratory-related aspects of clinical trial projects for a client or client program, supporting project delivery from startup through closeout. You will partner closely with the Project Manager ",
+      "location": "USA Only",
+      "tags": [
+        "Management and Finance",
+        "management"
+      ],
+      "postedAt": "Mon, 09 Nov 2026 09:06:59 +0000",
+      "category": "management"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/hyland-senior-human-resources-advisor",
+      "source": "weworkremotely",
+      "title": "Senior Human Resources Advisor",
+      "company": "Hyland",
+      "url": "https://weworkremotely.com/remote-jobs/hyland-senior-human-resources-advisor",
+      "description": "Headquarters: United States URL: https://www.hyland.com Overview Senior Human Resources Advisor 📍 Location: Remote, US 🖥️ Work Model: Remote About the Role As a Senior Human Resources Advisor , you will serve as a trusted partner to employees and leaders across the organization, delivering expert HR guidance and driving seamless employee lifecycle experiences. You bring a solutions-oriented mindset, a deep understanding of HR practices, and the ability to navigate complexity with confidence and discretion. Your Role Responsibilities? Here's What You'll Do. Serve as a primary point of contact for employees and leaders, providing guidance on HR policies, programs, and employee lifecycle processes while resolving moderately complex to complex inquiries and coordinating specialized support a",
+      "location": "USA Only",
+      "tags": [
+        "Management and Finance",
+        "management"
+      ],
+      "postedAt": "Mon, 09 Nov 2026 09:06:57 +0000",
+      "category": "management"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/dept-project-manager-creative-us-remote",
