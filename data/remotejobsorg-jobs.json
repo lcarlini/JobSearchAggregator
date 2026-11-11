@@ -1,7 +1,189 @@
 {
-  "generatedAt": "2026-11-11T04:54:47.133Z",
+  "generatedAt": "2026-11-11T13:43:24.578Z",
   "count": 150,
   "data": [
+    {
+      "id": "74f6d5fc-2cb5-4e09-9838-32b4e1055af0",
+      "title": "Senior Salesforce Engineer, Quote-to-Cash",
+      "url": "https://remotejobs.org/remote-jobs/senior-salesforce-engineer-quote-to-cash-amplitude",
+      "apply_url": "https://remotejobs.org/remote-jobs/senior-salesforce-engineer-quote-to-cash-amplitude",
+      "company": {
+        "name": "Amplitude",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/7219b532eca187488ff1dd4c9b406143a1755635a31e2a95e394c5065fec647c.jpeg",
+        "website": "https://amplitude.com",
+        "url": "https://remotejobs.org/companies/amplitude"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "San Francisco ",
+      "location_normalization": {
+        "raw": "San Francisco ",
+        "input": {
+          "workArrangement": "hybrid"
+        },
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [
+          "san francisco"
+        ],
+        "work_arrangement": "hybrid",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "worksite_countries": [
+          "US"
+        ],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [],
+        "allowed_regions": [],
+        "work_arrangement": "hybrid",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": "senior",
+        "role_family": null,
+        "required_skills": [],
+        "mentioned_skills": [],
+        "preferred_skills": [],
+        "experience_requirements": []
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "b82051dc-dfb1-4d90-b334-4f0867631bc2",
+      "direct_apply": null,
+      "description": "<p>Amplitude is the leading AI analytics platform, helping over 5,200 customers—including Atlassian, Burger King, NBCUniversal, and Square—build better products and digital experiences. With powerful AI Agents embedded across our platform, teams can analyze, test, and optimize user experiences faster than ever. Ranked #1 across multiple categories in G2’s Winter 2026 Report, Amplitude is the best-in-class solution for product, data, and marketing teams. Learn more at <a href=\"http://amplitude.com\">amplitude.com</a>.</p>\n<p>As an organization, we deliver for our customers by living our values. We operate from a place of humility, take ownership of problems and successes, approach challenges with a growth mindset, and put our customers at the center of everything we do.</p>\n<p>Amplitude is looking for a Senior Salesforce Engineer specializing in Quote-to-Cash to build and evolve the systems behind how we sell, contract, and provision customers. You’ll write production code, develop integrations, and improve the reliability of our existing workflows while delivering changes that support new products, commercial models, and business growth.</p>\n<p>As part of GTM Engineering, you’ll partner with Sales Finance, Sales, and Product &#x26; Engineering to translate business requirements into maintainable technical solutions. Your work will span recurring CPQ defects, customer provisioning, acquisition-related contracting changes, and the evolution of our Quote-to-Cash architecture.</p>\n<h2>What You'll Do</h2>\n<ul>\n<li>\n<p>Design, develop, and maintain Quote-to-Cash solutions using Apex, Lightning Web Components, SOQL, and Salesforce Flow, choosing code or configuration based on the problem.</p>\n</li>\n<li>\n<p>Build and extend CPQ capabilities for product launches, pricing, bundling, discount approvals, subscriptions, amendments, and renewals.</p>\n</li>\n<li>\n<p>Diagnose complex quoting, contracting, order, and entitlement defects; trace failures through code, data, and integrations; and implement root-cause fixes with regression tests.</p>\n</li>\n<li>\n<p>Partner directly with Sales Finance and business stakeholders to clarify requirements, assess tradeoffs, estimate effort, and own delivery from technical design through production validation.</p>\n</li>\n<li>\n<p>Develop contract and subscription data models that support acquisition requirements, multiple contracts per customer, and flexible contract start dates.</p>\n</li>\n<li>\n<p>Partner with EPD Growth to resolve provisioning discrepancies and build reliable provisioning and deprovisioning workflows so customer access matches purchased entitlements.</p>\n</li>\n<li>\n<p>Write bulk-safe, maintainable code with meaningful automated tests; participate in code reviews and deliver changes through version control and the team’s release process.</p>\n</li>\n<li>\n<p>Reduce recurring operational work through automation, improved validation, and targeted fixes that prevent repeat deal escalations and manual data corrections.</p>\n</li>\n<li>\n<p>Build and maintain APIs and integrations connecting Salesforce with contracting, billing, and product-provisioning systems, including error handling, retries, and reconciliation.</p>\n</li>\n<li>\n<p>Document technical designs, data flows, and operational behavior; partner with business users on acceptance testing and validate downstream outcomes after release.</p>\n</li>\n<li>\n<p>Contribute to Quote-to-Cash transformation, including CPQ migration, new currencies and commercial models, and integration of acquired products.</p>\n</li>\n<li>\n<p>Evaluate changes to CPQ and related Salesforce capabilities and recommend improvements that simplify the architecture and reduce ongoing maintenance.</p>\n</li>\n</ul>\n<h2>Your First Six Months of Impact</h2>\n<ul>\n<li>\n<p>Independently deliver Quote-to-Cash enhancements and resolve complex defects, with tested changes and clear ownership of downstream outcomes.</p>\n</li>\n<li>\n<p>Identify recurring quoting and contracting problems, establish a baseline for repeat escalations, and ship fixes that reduce manual intervention.</p>\n</li>\n<li>\n<p>Partner with EPD Growth to address priority provisioning failure modes and improve visibility into entitlement mismatches and failed handoffs.</p>\n</li>\n<li>\n<p>Deliver an agreed milestone on the Quote-to-Cash roadmap, such as acquisition-related contracting, provisioning automation, or CPQ migration readiness.</p>\n</li>\n</ul>\n<h2>What You'll Bring</h2>\n<ul>\n<li>\n<p>5+ years of hands-on Salesforce development experience, including production ownership of Salesforce CPQ and Quote-to-Cash solutions.</p>\n</li>\n<li>\n<p>Deep understanding of CPQ product configuration, pricing rules, quote calculations, subscriptions, amendments, renewals, and the quote-to-contract-to-order lifecycle.</p>\n</li>\n<li>\n<p>Strong Apex, Lightning Web Components, SOQL, and Salesforce Flow skills, with experience building bulk-safe solutions, asynchronous processing, and meaningful automated tests.</p>\n</li>\n<li>\n<p>Experience designing and debugging API integrations, including authentication, error handling, retries, and data consistency across connected systems.</p>\n</li>\n<li>\n<p>Ability to translate ambiguous business requirements into technical designs and explain tradeoffs to Sales, Finance, and engineering partners.</p>\n</li>\n<li>\n<p>Experience with Git, code reviews, CI/CD, and regression testing, with evidence of independently shipping and supporting reliable production changes.</p>\n</li>\n<li>\n<p>A track record of tracing complex defects to root cause and improving existing systems; a degree in Computer Science, Information Systems, or equivalent practical experience.</p>\n</li>\n</ul>\n<h2>Nice to Have</h2>\n<ul>\n<li>\n<p>Salesforce Platform Developer I/II or CPQ credentials, or equivalent demonstrated expertise.</p>\n</li>\n<li>\n<p>Experience with SaaS billing, revenue processes, entitlements, customer provisioning, or acquisition-related systems integration.</p>\n</li>\n<li>\n<p>Experience migrating CPQ platforms or implementing multi-contract architectures, multicurrency selling, or flexible subscription terms.</p>\n</li>\n<li>\n<p>Experience using AI-assisted development or automation to improve engineering productivity and reduce recurring Quote-to-Cash support work.</p>\n</li>\n</ul>\n<h2>Why This Role</h2>\n<p>Your work will directly shape how Amplitude brings products to market and delivers purchased capabilities to customers. You’ll combine hands-on development with ownership of complex Quote-to-Cash problems, reducing the maintenance burden on the team and helping deliver the next generation of our commercial systems.</p>\n<h3>Equal Employment Opportunity and Diversity Statement</h3>\n<p>We are committed to equal employment opportunity in both principle and as a matter of policy. We will recruit, hire, train, promote, compensate and provide benefits to all applicants and employees without regard to ancestry, sex, race, color, ethnicity, national origin, gender, age, religion, religious creed, mental and/or physical disability, medical condition, military and/or veteran’s status, genetic information, marital status, sexual orientation, gender identity and/or expression, or any other basis protected by applicable federal, state and local laws. This policy applies to all recruiting, hiring, promotions, upgrades, layoffs, compensation, benefits, terminations and all other privileges, terms and conditions of employment. The firm complies fully with all federal, state and local equal employment opportunity laws.</p>\n<h2>Our values:</h2>\n<p>At Amplitude, our values guide how we show up for one another and for our customers:</p>\n<ul>\n<li>\n<p><strong>Humility: </strong>We operate from a place of empathy and openness, seeking to understand many points of view.</p>\n</li>\n<li>\n<p><strong>Ownership: </strong>We take the initiative to solve problems that drive our shared company success.</p>\n</li>\n<li>\n<p><strong>Growth Mindset: </strong>We’re tenacious in the face of challenges and seek feedback in order to grow ourselves and others.</p>\n</li>\n<li>\n<p><strong>Customer Centricity:</strong> We put the customer at the center of everything we do and are deeply committed to their success.</p>\n</li>\n</ul>\n<p><strong>We care about the well-being of our team:</strong> We offer competitive pay and benefits packages that reflect our commitment to the health and well-being of our Ampliteers.</p>\n<p>Some of our benefit programs include:</p>\n<ul>\n<li>\n<p>Excellent ​M​edical, ​D​ental and ​V​ision insurance coverages, with 100% employer-paid premiums for employee Medical, ​Dental,​ ​​​​​​​​Vision on select plans</p>\n</li>\n<li>\n<p>401(k) retirement plan with an employer match of up to 1% of your eligible pay each pay period up to $2,000 annually</p>\n</li>\n<li>\n<p>Flexible time off, ​p​aid holidays, and more</p>\n</li>\n<li>\n<p>Generous stipends to spend on what matters most to you, whether that’s wellness (monthly), commuter transit/parking (monthly), learning and development (quarterly), new hire home office equipment, and much more</p>\n</li>\n<li>\n<p>Excellent Parental benefits including​:​ 12 weeks of Paid Parental Leave, Carrot Fertility Benefits/Adoption/Surrogacy support, Back-up Child Care support</p>\n</li>\n<li>\n<p>Mental health and wellness benefits including no cost employee access to Modern Health coaching &#x26; therapy sessions</p>\n</li>\n<li>\n<p>Employee Stock Purchase Program​ (ESPP)</p>\n</li>\n</ul>\n<p><strong>Other fun facts about Amplitude:</strong></p>\n<ul>\n<li>\n<p>Our customers love us! They've said we're the <a href=\"https://www.g2.com/categories/product-analytics/enterprise\">#1 product analytics solution</a> for 23 quarters in a row on G2.</p>\n</li>\n<li>\n<p>We care a lot about product innovation. We've made significant investments in talent and infrastructure to build the most powerful AI analytics platform on the market.</p>\n</li>\n<li>\n<p>We invest in our people. We offer mentorship programs, management training, and wellness initiatives.</p>\n</li>\n<li>\n<p>We give back to our communities. We give every Ampliteer a charitable giving grant and paid volunteer time off.</p>\n</li>\n<li>\n<p>We were founded in 2012, went public via a direct listing in September 2021, and are now trading under the ticker $AMPL.</p>\n</li>\n<li>\n<p>We’re a global and fast-growing team! We have employees around the world and offices in San Francisco (HQ), New York, Vancouver, Amsterdam, London, Paris, Singapore, and Tokyo.</p>\n</li>\n<li>\n<p>Our mascot is Data Monster, who loves to chow down on numbers, charts, and graphs. Nom nom.</p>\n</li>\n</ul>\n<p>By applying for this job, you acknowledge that Amplitude processes your personal data in accordance with the <a href=\"https://amplitude.com/job-applicant-privacy-notice\">Amplitude Applicant Privacy Notice</a>.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-salesforce-engineer-quote-to-cash-amplitude</p>",
+      "posted_at": "2026-11-10T22:06:34.725+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "358d118c-5ad4-4cb3-a7dd-300e43e5f7e2",
+      "title": "Generator Controls Field Service Engineer",
+      "url": "https://remotejobs.org/remote-jobs/generator-controls-field-service-engineer-ge-vernova",
+      "apply_url": "https://remotejobs.org/remote-jobs/generator-controls-field-service-engineer-ge-vernova",
+      "company": {
+        "name": "GE Vernova",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/37687a7512801682fb08e760c913dc7223e35c259fff3bf68267c98cb65aa703.png",
+        "website": "https://gevernova.com",
+        "url": "https://remotejobs.org/companies/ge-vernova"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "Unspecified, SP, BR; Campinas, SP, BR; Mexico City, CDMX, MX; Unspecified, Buenos Aires, AR",
+      "location_normalization": {
+        "raw": "Unspecified, SP, BR; Campinas, SP, BR; Mexico City, CDMX, MX; Unspecified, Buenos Aires, AR",
+        "input": {},
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [
+          "ar",
+          "campinas",
+          "cdmx",
+          "mexico city",
+          "sp",
+          "unspecified"
+        ],
+        "work_arrangement": "unknown",
+        "allowed_countries": [
+          "BR",
+          "MX"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "allowed_subdivisions": [
+          "AR-B"
+        ],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "BR",
+          "MX"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [
+          "AR-B"
+        ],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "unknown",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": null,
+        "role_family": null,
+        "required_skills": [],
+        "mentioned_skills": [],
+        "preferred_skills": [],
+        "experience_requirements": []
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "R5057636",
+      "direct_apply": null,
+      "description": "<h2><strong><strong><strong>Job Description Summary</strong></strong></strong></h2>\n<p>The Generator Controls Field Service Engineer (FSE) will participate as a Regional Service Team member responsible for providing the best service for our customers across Latam region. The Generator Controls FSE will be responsible for technical direction and safe site leadership of onsite installation, commissioning, testing and startup activities within the technical discipline in charge to perform control migration and upgrades services activities on customers' site/property.</p>\n<h2><strong>Job Description</strong></h2>\n<p><strong>Essential Responsibilities</strong></p>\n<ul>\n<li>Support execution of retrofit projects including installation, power up, and commissioning of one or more of the following: Excitation control solutions (EX2100e, EX2100, EX2000 DFE), Static Starter control solutions (LS2100, LS2100e), HMI upgrades, and TIL implementation.</li>\n<li>Support warranty administration and troubleshooting issues. Addresses customer service requests and leads customer issue resolution during warranty and post-warranty periods.</li>\n<li>Be responsible for pre-planning, site scheduling, field engineering, commissioning, control system startup, and project handover to customers.</li>\n<li>Works closely with project managers, customers, and supplier representatives to ensure financial performance, quality project installation, timeliness, and customer satisfaction.</li>\n<li>Respond to customer call out services requests.</li>\n<li>Timely completion of service time sheets, trip reports, invoicing packages, and other administrative requirements including pre-mobilization and de-mobilization meetings and procedures.</li>\n<li>Interface with GE Power Services, GE Industrial, and other GE Businesses.</li>\n<li>Significant travel and over-time will be expected up to 50%.</li>\n<li>Other duties as required. Secondary duties may possibly include participation in FAT (factory acceptance test); participation in development of overall controls strategy for projects; design of hardware and software configuration packages according to project requirements; design of operator interface graphics and network topologies; release of system design to manufacturing.</li>\n</ul>\n<p><strong>Required Qualifications</strong></p>\n<ul>\n<li>Bachelor’s degree in industrial automation or Electronic Engineering or related field from an accredited college or university or equivalent experience</li>\n<li>Must have experience in one or more of the following: Excitation control solutions (EX2100e, EX2100, EX2000 DFE), Static Starter control solutions (LS2100, LS2100e), HMI upgrades, Protection relays (G60 \\T60) configuration and testing</li>\n<li>Field engineering experience in power generation, industrial plant automation, DCS (distributed control system)</li>\n<li>MarkVie/HMI/Networking Control Solutions product experience</li>\n<li>Able to perform the commissioning and start-up of machine with these configurations</li>\n<li>Previous industrial field service experience</li>\n<li>Controls experience to equipment that functions as a prime mover</li>\n<li>Electronics and/or mechanical trouble shooting skills</li>\n<li>Computer skills, familiarity with MS Office, TCP/IP configuration</li>\n<li>Ability to learn other software tool applications to support HMI and application changes (Cimplicity, Toolbox, etc.)</li>\n<li>Languages: Portuguese or Spanish and English</li>\n</ul>\n<p><strong>Eligibility Requirements</strong></p>\n<ul>\n<li>Travel 70%, as required.</li>\n<li>Possess a valid driver's license and passport.</li>\n</ul>\n<p><strong>Desired Characteristics</strong></p>\n<ul>\n<li>Prior mechanical / maintenance experience preferred</li>\n<li>Ability to read and interpret mechanical and electrical drawings</li>\n<li>Self-starter with minimal supervision requirement; able to work independently; ability to prioritize, organize work, and meet deadlines</li>\n<li>Ability to set and meet aggressive goals and targets</li>\n<li>Ability to troubleshoot control and instrumentation systems at all levels, from field devices to control system, and networking</li>\n<li>Must be able to generate immediate credibility with customers, suppliers, GE project management / engineering communities</li>\n<li>Ability to multi-task in a dynamic, geographically dispersed team environment is required</li>\n<li>Customer-focused skills, demonstrated by experience in field services, customer services or project management, are essential.</li>\n</ul>\n<h2><strong><strong><strong>Additional Information</strong></strong></strong></h2>\n<p><strong>Relocation Assistance Provided: </strong>No</p>\n<p>#LI-Remote - This is a remote positionCandidates should be aware that this role involves a client's critical infrastructure; shortlisted candidates would therefore be subject to heightened security checks as directed by our clients. All personal data will be handled with the utmost confidentiality and in accordance with our data protection policies, solely for recruitment and security purposes.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/generator-controls-field-service-engineer-ge-vernova</p>",
+      "posted_at": "2026-11-10T21:46:03.922+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
     {
       "id": "66c41cef-6df1-481e-9458-3163a2dd1c7c",
       "title": "Founding Engineer",
@@ -838,6 +1020,100 @@
       "original_language": null
     },
     {
+      "id": "e4a6521e-2ff5-453c-87b4-119c7d963b06",
+      "title": "Software Engineer - AI Tooling",
+      "url": "https://remotejobs.org/remote-jobs/software-engineer-ai-tooling-supabase",
+      "apply_url": "https://remotejobs.org/remote-jobs/software-engineer-ai-tooling-supabase",
+      "company": {
+        "name": "Supabase",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/26ad11491325f739f8ad99a4b2e5e5d487396bdfa7952ac1401f24a222477c8e.png",
+        "website": "https://supabase.com",
+        "url": "https://remotejobs.org/companies/supabase"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "Remote, Global",
+      "location_normalization": {
+        "raw": "Remote, Global",
+        "input": {
+          "workArrangement": "remote"
+        },
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [
+          "global"
+        ],
+        "work_arrangement": "remote",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "worldwide",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "c2"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": true
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": null,
+        "role_family": "software-engineering",
+        "required_skills": [
+          "javascript",
+          "typescript"
+        ],
+        "mentioned_skills": [],
+        "preferred_skills": [],
+        "experience_requirements": [
+          {
+            "text": "5+ years of experience in professional software engineering experience",
+            "maximum_years": null,
+            "minimum_years": 5,
+            "classification": "required"
+          }
+        ]
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "0055f731-cffa-4c74-9c00-8abfa579873d",
+      "direct_apply": null,
+      "description": "<h2><strong>About Supabase</strong></h2><p>Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth.<br></p><h2><strong>About the Role</strong></h2><p>We’re looking for a Software Engineer to join our AI Tooling team and help shape how developers and agents build with Supabase. You'll build and own our AI tooling, including agents, the MCP server, agent skills and the dashboard assistant, and as the space moves you'll build the tooling for new technologies too. You'll build it all eval-first: every tool ships with evals and metrics, so we know, with evidence, that it makes agents better rather than worse.</p><p>You'll work closely with the Docs, CLI, Frontend and SDK teams, and with the AI Tooling Infrastructure engineers who run these services in production. Other teams contribute to AI Tooling to improve Supabase's agentic capabilities, and you'll help them do that while keeping the quality bar high.</p><p>This role is ideal for someone who thrives in async, fast-paced environments and is excited about building developer tools that scale to millions.<br></p><h2>What You’ll Be Responsible For</h2><ul><li><p>Build and improve the AI tooling we run today, including the MCP server, agent skills, agents and the Assistant.</p></li><li><p>Make new Supabase products usable by agents from day one: tools, skills and evals for new product surfaces. Also build tooling for new AI technologies as they emerge: prototype quickly, evaluate honestly, and decide with the team what is worth taking to production.</p></li><li><p>Drive an eval-first approach: build and improve evals, instrumentation and feedback loops, measure tools against a no-tool baseline, and help define the quality KPIs and gates that stop regressions shipping.</p></li><li><p>Understand how customers and agents actually use what we ship, and turn that into improvements to our tooling, interfaces and documentation.</p></li><li><p>Design how documentation and product knowledge are exposed to agents, and measure whether it works.</p></li><li><p>Build patterns and tools that help customers add AI to their own apps, such as MCP on Edge Functions, vector embeddings and agents running on Edge Functions.</p></li><li><p>Enable teams to improve Supabase's agentic capabilities through contributions to AI Tooling: clear contribution paths, templates, documentation and review practice.</p></li><li><p>Centralise shared AI logic so teams reuse it rather than duplicate it.</p></li><li><p>Ship tools that are battle-tested, with strong tests, benchmarking and stress testing where it counts.</p></li><li><p>Work with the AI Tooling Infrastructure engineers on reliability, auth and hosting.</p></li><li><p>Work across Docs, CLI, Frontend, SDK and other teams to deliver one coherent developer experience, and stay close to the fast-moving AI ecosystem.<br></p></li></ul><h2><strong>You Might Be a Good Fit If You</strong><br></h2><h3>Must have:</h3><ul><li><p>Have 5+ years of experience in professional software engineering experience.</p></li><li><p>Write strong <strong>TypeScript</strong> and know the JavaScript ecosystem well: npm, ES modules, bundlers, compatibility.</p></li><li><p>Are deeply familiar with the AI ecosystem: current tools, agent patterns and practical trade-offs. You can tell a durable pattern from hype.</p></li><li><p>Have built developer tools, product interfaces or platform primitives used by other engineers.</p></li><li><p>Have designed or used evaluation frameworks to measure AI quality, reliability and task success, and understand baselines, variance and cost.</p></li><li><p>Have strong judgement about where AI improves workflows and how to avoid fragile or gimmicky experiences.</p></li><li><p>Write tests and validate reliability in real-world conditions.</p></li><li><p>Know Postgres and relational database practice.</p></li><li><p>Communicate clearly in writing, work across product, engineering and docs, and thrive in async, globally distributed teams.</p></li><li><p>Are comfortable navigating ambiguity and moving quickly.</p></li></ul><h3>Nice to have:</h3><ul><li><p>Experience with vector databases and embeddings, ideally pgvector.</p></li><li><p>Examples of customer-facing AI features or agents you've shipped.</p></li><li><p>Examples of documentation or structured knowledge designed for developers or agents.</p></li><li><p>Experience with Braintrust or a similar eval and tracing platform, or setting up CI quality gates.</p></li><li><p>Open-source contributions or developer tooling you've maintained.</p></li><li><p>Experience across several product surfaces or teams.</p></li></ul><h3><strong>What We Offer</strong></h3><ul><li><p><strong>Fully Remote</strong></p><p>We hire globally. We believe you can do your best work from anywhere. There are no Supabase offices, but we provide a WeWork membership or co-working allowance you can use anywhere in the world.</p></li><li><p><strong>ESOP</strong></p><p>Every team member receives ESOP (equity ownership) in the company. We want everyone to share in the upside of what we’re building together.</p></li><li><p><strong>Tech Allowance</strong></p><p>Use this budget to set up your ideal work environment—laptop, monitor, headphones, or whatever helps you do your best work.</p></li><li><p><strong>Health Benefits</strong></p><p>Supabase covers 100% of health insurance for employees and 80% for dependents, wherever you are. Your wellbeing and your family’s health are important to us.</p></li><li><p><strong>Annual Off-Sites</strong></p><p>Once a year, the entire company gathers in a new city for a week of connection, collaboration, and fun. It’s a highlight of our year.</p></li><li><p><strong>Flexible Work</strong></p><p>We operate asynchronously and trust you to manage your own time. You know what needs to be done and when.</p></li><li><p><strong>Professional Development</strong></p><p>Every team member receives an annual education allowance to spend on learning—courses, books, conferences, or anything that supports your growth.</p></li></ul><h3><strong>About the Team</strong></h3><p>Supabase was born-remote and open-source-first. We believe our globally distributed team is our secret weapon in building tools developers love.</p><ul><li><p>~400 team members</p></li><li><p>60+ countries</p></li><li><p>20+ languages spoken</p></li><li><p>Over $1B raised (including our $500M Series F)</p></li><li><p>540,000+ community members</p></li></ul><p>We move fast, build in public, and use what we ship. If it’s in your project, we probably use it in ours too. We believe deeply in the open-source ecosystem and strive to support—not replace—existing tools and communities.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/software-engineer-ai-tooling-supabase</p>",
+      "posted_at": "2026-11-10T17:43:44.365+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
       "id": "04d75dd6-d757-44f4-a754-d1d5e65e885f",
       "title": "AI Data Quality Analyst",
       "url": "https://remotejobs.org/remote-jobs/ai-data-quality-analyst-edgeq-technologies-private-limited",
@@ -941,6 +1217,88 @@
       "direct_apply": null,
       "description": "<p><strong>Headquarters:</strong> United States</p>\n<h2>AI Data Quality Analyst</h2>\n<p><strong>Job Title:</strong> AI Data Quality Analyst<br>\n<strong>Location:</strong> United States (Remote)<br>\n<strong>Work Mode:</strong> 100% Remote<br>\n<strong>Experience:</strong> 2–6 Years<br>\n<strong>Salary Range:</strong> $70,000 – $115,000 per year (USD)<br>\n<strong>Employment Type:</strong> Full-Time<br>\n<strong>Job Category:</strong> Artificial Intelligence / Data Analytics / Data Quality</p>\n<h3>Job Summary</h3>\n<p>We are seeking a detail-oriented and analytical AI Data Quality Analyst to join our growing AI and Data Engineering team in the United States. The ideal candidate will be responsible for evaluating, validating, cleaning, and maintaining datasets used in artificial intelligence and machine learning applications.</p>\n<p>The candidate should have experience in data quality assessment, data validation, data annotation, SQL, Python, and AI/ML data workflows. This role involves ensuring data accuracy, consistency, completeness, and reliability to improve AI model performance.</p>\n<p>This position offers a fully remote work opportunity for qualified candidates across the United States.</p>\n<h3>Key Responsibilities</h3>\n<ul>\n<li>\n<p>Analyze, validate, and maintain datasets used for AI and machine learning applications.</p>\n</li>\n<li>\n<p>Identify missing, duplicate, inconsistent, and inaccurate data.</p>\n</li>\n<li>\n<p>Perform data cleaning, preprocessing, and quality checks.</p>\n</li>\n<li>\n<p>Evaluate training and testing datasets for accuracy and completeness.</p>\n</li>\n<li>\n<p>Develop and maintain data quality standards and validation procedures.</p>\n</li>\n<li>\n<p>Review AI-generated outputs and identify data-related errors or inconsistencies.</p>\n</li>\n<li>\n<p>Perform data annotation, labeling, classification, and categorization when required.</p>\n</li>\n<li>\n<p>Collaborate with Data Scientists, AI Engineers, and Data Engineers.</p>\n</li>\n<li>\n<p>Create SQL queries and Python scripts for automated data validation.</p>\n</li>\n<li>\n<p>Monitor data quality metrics and prepare analytical reports.</p>\n</li>\n<li>\n<p>Identify root causes of data quality issues and recommend corrective actions.</p>\n</li>\n<li>\n<p>Maintain data documentation, validation logs, and quality reports.</p>\n</li>\n<li>\n<p>Support continuous improvement of AI training datasets and data pipelines.</p>\n</li>\n</ul>\n<h3>Required Skills &#x26; Qualifications</h3>\n<ul>\n<li>\n<p>2–6 years of experience in Data Quality Analysis, Data Analytics, or AI Data Quality roles.</p>\n</li>\n<li>\n<p>Strong understanding of data validation, data cleaning, and data profiling.</p>\n</li>\n<li>\n<p>Working knowledge of SQL and database management.</p>\n</li>\n<li>\n<p>Experience with Python for data analysis and validation.</p>\n</li>\n<li>\n<p>Familiarity with Pandas, NumPy, and data processing libraries.</p>\n</li>\n<li>\n<p>Understanding of AI, machine learning, and data preparation workflows.</p>\n</li>\n<li>\n<p>Experience with structured and unstructured datasets.</p>\n</li>\n<li>\n<p>Knowledge of data annotation and labeling methodologies.</p>\n</li>\n<li>\n<p>Familiarity with Excel, Google Sheets, and data visualization tools.</p>\n</li>\n<li>\n<p>Strong attention to detail and analytical thinking.</p>\n</li>\n<li>\n<p>Excellent communication and problem-solving skills.</p>\n</li>\n</ul>\n<h3>Preferred Qualifications</h3>\n<ul>\n<li>\n<p>Bachelor's degree in Computer Science, Data Science, Statistics, Information Technology, or a related field.</p>\n</li>\n<li>\n<p>Experience with AI/ML training data evaluation.</p>\n</li>\n<li>\n<p>Familiarity with data quality tools and frameworks.</p>\n</li>\n<li>\n<p>Knowledge of Tableau, Power BI, or similar reporting tools.</p>\n</li>\n<li>\n<p>Experience with cloud data platforms such as AWS, Azure, or Google Cloud.</p>\n</li>\n<li>\n<p>Understanding of ETL/ELT pipelines and data warehousing.</p>\n</li>\n<li>\n<p>Familiarity with data governance, privacy, and compliance standards.</p>\n</li>\n<li>\n<p>Experience evaluating LLM outputs and Generative AI datasets.</p>\n</li>\n</ul>\n<h3>Salary &#x26; Benefits</h3>\n<ul>\n<li>\n<p><strong>Annual Salary:</strong> $70,000 – $115,000 USD.</p>\n</li>\n<li>\n<p>Competitive compensation based on experience and technical expertise.</p>\n</li>\n<li>\n<p>100% remote work opportunity.</p>\n</li>\n<li>\n<p>Flexible working arrangements.</p>\n</li>\n<li>\n<p>Health, dental, and vision insurance.</p>\n</li>\n<li>\n<p>Paid time off and holidays.</p>\n</li>\n<li>\n<p>Retirement savings benefits, where applicable.</p>\n</li>\n<li>\n<p>Professional development and training opportunities.</p>\n</li>\n<li>\n<p>Career advancement opportunities.</p>\n</li>\n</ul>\n<h3>Work Location</h3>\n<p><strong>United States – Fully Remote</strong></p>\n<ul>\n<li>\n<p>Candidates from eligible locations across the United States are encouraged to apply.</p>\n</li>\n<li>\n<p>Must be legally authorized to work in the United States.</p>\n</li>\n<li>\n<p>Ability to collaborate with distributed teams across different US time zones.</p>\n</li>\n</ul>\n<h3>How to Apply</h3>\n<p>Interested candidates can submit their updated resume along with contact details, relevant AI Data Quality experience, technical skills, and project portfolios.</p>\n<p><strong>Equal Opportunity Employer:</strong> We welcome qualified candidates from diverse professional backgrounds and encourage applications from eligible candidates across the United States.</p>\n<p><strong>To apply:</strong> https://weworkremotely.com/remote-jobs/edgeq-technologies-private-limited-ai-data-quality-analyst</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/ai-data-quality-analyst-edgeq-technologies-private-limited</p>",
       "posted_at": "2026-11-10T17:00:36+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "53795274-5178-40c5-ac42-95dccd91ecca",
+      "title": "Head of Ecosystem",
+      "url": "https://remotejobs.org/remote-jobs/head-of-ecosystem-supabase",
+      "apply_url": "https://remotejobs.org/remote-jobs/head-of-ecosystem-supabase",
+      "company": {
+        "name": "Supabase",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/26ad11491325f739f8ad99a4b2e5e5d487396bdfa7952ac1401f24a222477c8e.png",
+        "website": "https://supabase.com",
+        "url": "https://remotejobs.org/companies/supabase"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "Remote, AMER",
+      "location_normalization": {
+        "raw": "Remote, AMER",
+        "input": {
+          "workArrangement": "remote"
+        },
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [
+          "amer"
+        ],
+        "work_arrangement": "remote",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "unknown",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": null,
+        "role_family": null,
+        "required_skills": [],
+        "mentioned_skills": [],
+        "preferred_skills": [],
+        "experience_requirements": []
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "a0b46de3-5617-41cc-8623-2be9b6fd6b49",
+      "direct_apply": null,
+      "description": "<p>Supabase is the Postgres development platform, built by developers for developers. We aim to empower developers by providing a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth.</p>\n<p>We're looking for a Head of Ecosystem to lead the teams that make Supabase the backend for the platforms and tools developers already use. That covers AI app builders and coding agents, integrations with the developer tools teams rely on, and the Supabase Marketplace. You'll build this org from the ground up and shape how Supabase extends beyond its own platform.</p>\n<p>You'll also drive hiring, onboarding, and career development while maintaining high engineering standards.</p>\n<h2><strong>What you'll own:</strong></h2>\n<ul>\n<li>\n<p>Build and lead a new engineering org across platform partners, integrations, and Marketplace, hiring EMs and engineers as it grows</p>\n</li>\n<li>\n<p>Own the technical relationship with the platforms building on Supabase, from integration health to escalations</p>\n</li>\n<li>\n<p>Set and maintain clear roadmaps that balance partner needs with platform priorities</p>\n</li>\n<li>\n<p>Partner with Product, Partnerships, and Sales to define and execute our ecosystem strategy</p>\n</li>\n<li>\n<p>Ship a unified, self-serve surface for integrations and Marketplace</p>\n</li>\n<li>\n<p>Maintain high engineering standards: roadmap hygiene, issue tracking, on-call, incident response, and responsiveness to partners</p>\n</li>\n</ul>\n<h2>What you bring:</h2>\n<ul>\n<li>\n<p>Proven experience leading multiple engineering teams, including managing other managers</p>\n</li>\n<li>\n<p>Experience building and running platform, API, or integration surfaces that third parties depend on in production</p>\n</li>\n<li>\n<p>Technical credibility with partner engineering teams, and the judgment to say no</p>\n</li>\n<li>\n<p>Experience building teams or an org from a small base, including hiring and developing engineering managers</p>\n</li>\n<li>\n<p>Strong organizational and execution skills: setting roadmaps, driving accountability, and keeping teams moving under uncertainty</p>\n</li>\n<li>\n<p>Experience managing remote, globally distributed teams</p>\n</li>\n<li>\n<p>Excellent cross-functional communication skills, especially with Product and commercial teams</p>\n</li>\n<li>\n<p>Collaborative, low-ego, and adaptable</p>\n</li>\n</ul>\n<p><strong>Bonus points if you:</strong></p>\n<ul>\n<li>\n<p>Have experience with OAuth, platform APIs, or app marketplaces</p>\n</li>\n<li>\n<p>Have worked on a developer platform's partner or app ecosystem</p>\n</li>\n<li>\n<p>Have worked with AI app builders or coding agents</p>\n</li>\n</ul>\n<h3><strong>What We Offer</strong></h3>\n<ul>\n<li>\n<p><strong>Fully Remote</strong></p>\n<p>We hire globally. We believe you can do your best work from anywhere. There are no Supabase offices, but we provide a WeWork membership or co-working allowance you can use anywhere in the world.</p>\n</li>\n<li>\n<p><strong>ESOP</strong></p>\n<p>Every team member receives ESOP (equity ownership) in the company. We want everyone to share in the upside of what we’re building together.</p>\n</li>\n<li>\n<p><strong>Tech Allowance</strong></p>\n<p>Use this budget to set up your ideal work environment—laptop, monitor, headphones, or whatever helps you do your best work.</p>\n</li>\n<li>\n<p><strong>Health Benefits</strong></p>\n<p>Supabase covers 100% of health insurance for employees and 80% for dependents, wherever you are. Your wellbeing and your family’s health are important to us.</p>\n</li>\n<li>\n<p><strong>Annual Off-Sites</strong></p>\n<p>Once a year, the entire company gathers in a new city for a week of connection, collaboration, and fun. It’s a highlight of our year.</p>\n</li>\n<li>\n<p><strong>Flexible Work</strong></p>\n<p>We operate asynchronously and trust you to manage your own time. You know what needs to be done and when.</p>\n</li>\n<li>\n<p><strong>Professional Development</strong></p>\n<p>Every team member receives an annual education allowance to spend on learning—courses, books, conferences, or anything that supports your growth.</p>\n</li>\n</ul>\n<h3><strong>About the Team</strong></h3>\n<p>Supabase was born-remote and open-source-first. We believe our globally distributed team is our secret weapon in building tools developers love.</p>\n<ul>\n<li>\n<p>~400 team members</p>\n</li>\n<li>\n<p>60+ countries</p>\n</li>\n<li>\n<p>20+ languages spoken</p>\n</li>\n<li>\n<p>Over $1B raised (including our $500M Series F)</p>\n</li>\n<li>\n<p>540,000+ community members</p>\n</li>\n</ul>\n<p>We move fast, build in public, and use what we ship. If it’s in your project, we probably use it in ours too. We believe deeply in the open-source ecosystem and strive to support—not replace—existing tools and communities.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/head-of-ecosystem-supabase</p>",
+      "posted_at": "2026-11-10T16:33:17.148+00:00",
       "is_translated": false,
       "original_language": null
     },
@@ -4790,397 +5148,6 @@
       "direct_apply": null,
       "description": "<p><strong>What Makes <a href=\"https://jobicy.com/company/cloudbeds\">Cloudbeds</a> Unique</strong></p><p>At <a href=\"https://www.cloudbeds.com/\">Cloudbeds</a>, we're not just building software, we're transforming hospitality. Our platform powers hotels across 150 countries, processing billions in bookings annually. From boutique properties to large hotel groups, we help hoteliers transform operations and uplevel their commercial strategy through a unified platform that integrates with hundreds of partners. And we do it with a completely remote team. Imagine working alongside global innovators to build AI-powered solutions that solve hoteliers' biggest challenges. Since our founding in 2012, we've continually been recognized for excellence, most recently earning top honors at the 2026 HotelTechAwards for Best Hotel Management Software and landing on Deloitte's Technology Fast 500 again, but we're just getting started.</p><p><strong>How You'll Make an Impact:</strong></p><p>Thailand is one of Cloudbeds’ largest and most important markets, and Thai hoteliers run on an integration stack most of the world never sees. Hundreds of our largest Thai properties depend on these connections every day, and when one breaks, a front desk agent stops being a host and servicing guests.</p><p>As our <strong>Integrations Developer</strong> in Thailand, you’ll be the engineer who makes that stack reliable. You’ll work hand in hand with our long-standing local integration partner, MecX Tech, and with Cloudbeds’ Integrations Product and Engineering teams, to diagnose and fix integration issues at the code level, harden the integrations our customers rely on most, and design and build new integrations for the Thai market.</p><p>This is a hands-on build role with a customer-facing edge. You’ll own the hardest technical escalations, ship the fixes, and then build the tooling, monitoring and documentation that stop the same problem from coming back. You’ll champion our AI Smarts + Hospitality Hearts mission by using AI-assisted development and automation to move fast, so more of your time goes to the problems that genuinely need an engineer.</p><p><strong>Our Integrations Team</strong></p><p>Cloudbeds connects to hundreds of partners across payments, accounting, distribution, access control, guest experience and government reporting. Our Integrations Product and Engineering teams design those connections, our partners build on our Open API, and our Customer Success team makes sure hoteliers get the outcome they were promised. You’ll sit at the center of all three for the Thai market, with a direct line into how integrations are prioritized, built and supported across APAC.</p><p><strong>What You Bring to the Team</strong></p><ul>\n<li><strong>Own the Thai Integration Stack Technically:</strong> Become the engineering subject matter expert on our Thailand integrations, starting with the MecX Tech portfolio: accounting (Carmen, FlowAccount), government guest reporting (TM30 / RR4), local payment gateways, door locks, ID and passport readers, and POS.</li>\n<li><strong>Fix It at the Source:</strong> Investigate integration failures end to end, across Cloudbeds APIs and webhooks, partner services, logs and data, and ship code-level fixes rather than workarounds. Serve as the primary technical escalation point for Support and Onboarding on these integrations.</li>\n<li><strong>Partner Engineering Liaison:</strong> Work day-to-day with MecX Tech and other Thai development partners as a technical peer: joint debugging, code and design reviews, shared issue logs, release coordination, and clear technical specs for partner-built work.</li>\n<li><strong>Harden and Modernize:</strong> Help bring the most business-critical integrations onto Cloudbeds-managed infrastructure and source control, with proper deployment, logging, monitoring, and alerting, so issues are caught before a hotelier has to report them.</li>\n<li><strong>Debug and Diagnose:</strong> Use your knowledge of C# to debug and diagnose issues within existing integrations, validate fixes with real customers, and build monitoring and tooling to keep things working smoothly.</li>\n<li><strong>Build Support Tooling:</strong> Create the diagnostic tools, runbooks, and dashboards that let Support and Onboarding resolve common integration issues without escalating to you.</li>\n<li><strong>Close the Loop with Product:</strong> Turn recurring field issues into well-evidenced bug reports, API improvement requests and product feedback. Advocate for the Thai market inside Cloudbeds.</li>\n<li><strong>Document Everything:</strong> Keep technical documentation, architecture notes, and knowledge base content current in both English and Thai.</li>\n</ul><p><strong>What Sets You Up for Success</strong></p><ul>\n<li><strong>Real Integration Engineering Depth:</strong> 4+ years building and supporting production integrations between third-party systems: REST APIs, webhooks, OAuth, JSON/XML payloads, data mapping, retries and error handling.</li>\n<li><strong>Solid Backend Skills:</strong> Professional experience with C# and MySQL is a must. Python, JAVA, PHP, JS are a big plus. You must be comfortable reading and debugging code you didn’t write.</li>\n<li><strong>Production Ownership:</strong> Experience with cloud hosting (AWS preferred), Git-based workflows, CI/CD, logging and monitoring. You’ve been on the hook for something that had to keep running.</li>\n<li><strong>Show Strong AI Smarts:</strong> You use AI coding and debugging tools as part of how you work, pick up unfamiliar systems quickly, and look for ways to automate the repetitive.</li>\n<li><strong>Hospitality:</strong> Experience with hotel technology, such as PMS, channel managers, payment gateways, POS, door locks or hotel accounting systems. Understanding night audit, revenue posting and how a hotel closes its day is a major plus.</li>\n<li><strong>Thai Market Fluency:</strong> Native or business-fluent <strong>Thai</strong> plus strong professional <strong>English</strong>. You can debug with a Thai partner’s developers in the morning and write a clear technical design for a global engineering team in the afternoon.</li>\n<li><strong>Works Independently:</strong> You are comfortable as the senior technical person in your time zone, set your own priorities, and know when and how to escalate.</li>\n<li><strong>Clear Communicator:</strong> Able to explain technical root causes and trade-offs to engineers, product managers, support agents, and non-technical hotel staff alike.</li>\n<li><strong>Inclusive Outlook:</strong> Comfortable working alongside people from diverse cultures and backgrounds across many time zones.</li>\n</ul><p><strong>Bonus Skills to Stand Out</strong></p><ul>\n<li>Direct experience with Carmen Software, FlowAccount, or another hotel back-office or accounting platform.</li>\n<li>Hands-on experience with TM30 / RR4 or other government guest reporting integrations.</li>\n<li>Experience integrating Thai or APAC payment gateways (for example, 2C2P, KBank, SCB, KTB, PromptPay).</li>\n<li>Experience with Windows-hosted services, desktop agents, or on-premises hardware integrations (door locks, ID readers, POS).</li>\n<li>Prior experience at or with a Thai hospitality technology partner, reseller, or system integrator.</li>\n<li>Experience with the Cloudbeds Open API or another PMS API.</li>\n</ul><p><strong>Work Authorization:</strong> Please note that applicants must be currently authorized to work in the location where the position is located without requiring visa sponsorship. At this time, Cloudbeds is unable to provide sponsorship for work visas.</p><p><strong>What to Expect - Your Journey with Us</strong></p><p>Behind Cloudbeds' revolutionary technology is a team redefining what's possible in hospitality. We're 650+ team members across 40+ countries, bringing together elite engineers, AI architects, world-class designers, hoteliers, and hospitality veterans to solve challenges others haven't dared to tackle. Our diverse team speaks 30+ languages, but we all share one language: a passion for innovation and travel. From pioneering breakthroughs in machine learning to revolutionizing how hotels operate, we're not just watching the future of hospitality unfold – we're coding it, designing it, writing it, and shipping it. If you're ready to work alongside some of the brightest minds in tech who are obsessed with using AI to transform a trillion-dollar industry, this is your chance to be part of something extraordinary.</p><p>Learn more online at <a href=\"https://www.cloudbeds.com/\">cloudbeds.com</a></p><p><strong>Cloudbeds <a href=\"https://www.cloudbeds.com/press/?press_type=company-news&#x26;news_category=awards\">Awards</a>:</strong></p><ul>\n<li>\n<p>Winner – Hotel Management Software | HotelTechAwards (2026)</p>\n</li>\n<li>\n<p>Overall 10 Best Places to Work | HotelTechAwards (2026)</p>\n</li>\n<li>\n<p>Overall Top 10 Hotelier's Choice | HotelTechAwards (2026)</p>\n</li>\n<li>\n<p>Finalist – Property Management Systems (PMS) &#x26; Channel Managers | HotelTechAwards (2026)</p>\n</li>\n<li>\n<p>Most Loved Workplace® Certified (2024)</p>\n</li>\n<li>\n<p>Deloitte Technology Fast 500 (2024)</p>\n</li>\n</ul><p><strong>Discover our Benefits:</strong></p><ul>\n<li>\n<p>Remote First, Remote Always</p>\n</li>\n<li>\n<p>PTO in accordance with local labor requirements</p>\n</li>\n<li>\n<p>Fully Paid Parental Leave</p>\n</li>\n<li>\n<p>Home office stipend based on country of residency</p>\n</li>\n<li>\n<p>Professional development courses in Cloudbeds University</p>\n</li>\n<li>\n<p>Access to professional development, including manager training, upskilling, and knowledge transfer</p>\n</li>\n</ul><p><strong>Everyone is Welcome - A Culture of Inclusion</strong></p><p>Cloudbeds is proud to be an Equal Opportunity Employer that celebrates the diversity in our global team! We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.</p><p>Cloudbeds is committed to the full inclusion of all qualified individuals. As part of this commitment, Cloudbeds will ensure that persons with disabilities are provided reasonable accommodations in the hiring process. We encourage deaf, hard-of-hearing, deaf-blind, and deaf-disabled individuals to apply. If reasonable accommodation is needed to participate in the job application or interview process or to perform essential job functions, please contact our HR team by phone at (858) 201-7832 or via email at accommodations@cloudbeds.com. Cloudbeds will provide an American Sign Language (ASL) interpreter where needed as a reasonable accommodation for the hiring process.</p><p>To all Staffing and Recruiting Agencies: Our Careers Site is only for individuals seeking a job at Cloudbeds. Staffing, recruiting agencies, and individuals being represented by an agency are not authorized to use this site or to submit applications, and any such submissions will be considered unsolicited. Cloudbeds does not accept unsolicited resumes or applications from agencies. Please do not forward resumes to our jobs alias, Cloudbeds employees, or any other company location. Cloudbeds is not responsible for any fees related to unsolicited resumes/applications.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/integrations-engineer-cloudbeds</p>",
       "posted_at": "2026-11-09T19:39:31+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "36cf68ce-0cb4-43ec-9f87-e33454e7e344",
-      "title": "Staff Backend Software Engineer",
-      "url": "https://remotejobs.org/remote-jobs/staff-backend-software-engineer-notabene",
-      "apply_url": "https://remotejobs.org/remote-jobs/staff-backend-software-engineer-notabene",
-      "company": {
-        "name": "Notabene",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/93802a120b0055fa198d61be91d3b8a1ccebfeb492426ac22bd0862193abee38.webp",
-        "website": null,
-        "url": "https://remotejobs.org/companies/notabene"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "EMEA",
-      "location_normalization": {
-        "raw": "EMEA",
-        "input": {},
-        "scope": "restricted",
-        "status": "partial",
-        "regions": [
-          "emea"
-        ],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "partial",
-        "regions": [
-          "emea"
-        ],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [
-          "Unresolved area: location:1"
-        ],
-        "evidence_ids": [
-          "source-location"
-        ],
-        "allowed_regions": [
-          "EMEA"
-        ],
-        "work_arrangement": "unknown",
-        "allowed_countries": [],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": "staff",
-        "role_family": "software-engineering",
-        "required_skills": [],
-        "mentioned_skills": [
-          "aws",
-          "csharp",
-          "golang",
-          "java",
-          "kotlin",
-          "nodejs",
-          "postgresql",
-          "rust",
-          "terraform",
-          "typescript"
-        ],
-        "preferred_skills": [],
-        "experience_requirements": []
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": null,
-      "salary_period": null,
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<p><strong>About <a href=\"https://jobicy.com/company/notabene\">Notabene</a></strong></p>\n<p>Notabene is on a mission to make crypto a part of the everyday economy. Leading crypto organizations use our tools to reduce transaction risk and make crypto transfers safe. Working across three continents in eight countries, the Notabene team serves our fantastic community of 100+ customers, including financial institutions, fintechs, exchanges, and more. Our co-founders spearheaded foundational Self Sovereign Identity protocols and use-cases. This technology is key to the internals of our cutting edge tech stack.</p>\n<p>We’re proud to have the support of leading investors, including Y Combinator, Jump Capital, Castle Island, Green Visor Capital, and more.</p>\n<p>We’re at an exhilarating moment in our journey, as regulation technologies (reg-techs) are fast becoming recognized as a vital enabler of the crypto ecosystem. Notabene is growing fast—and we’re looking for people like you to help shape the future rails of the crypto industry!</p>\n<p><strong>The Impact You'll Have:</strong></p>\n<p>Every crypto transfer we touch moves between institutions that run their own systems, answer to different regulators, and have no reason to trust each other. The software in the middle has to be right every time. A message processed twice, a lost update, or a record shown to the wrong tenant is a compliance failure for our customers.</p>\n<p>You’ll work on the core platform that carries this data between institutions around the world, written in Go.</p>\n<p>As a Staff Engineer on the team you’ll build the hardest parts of it, contribute to its design, and help the engineers around you do their best work.</p>\n<p><strong>What You'll Do</strong></p>\n<ul>\n<li>\n<p>Design and build core parts of our transaction platform.</p>\n</li>\n<li>\n<p>Build for correctness under failure, with the isolation and auditability a regulated product needs.</p>\n</li>\n<li>\n<p>Scale the platform as transaction volume and the number of institutions per node grow, keeping latency predictable and the database healthy.</p>\n</li>\n<li>\n<p>Write design docs for what you build, and give sharp, useful reviews on other people’s designs and code.</p>\n</li>\n<li>\n<p>Build with AI agents every day, and help improve the specs, context and review practices that make agent-written code safe to ship in a regulated product.</p>\n</li>\n<li>\n<p>Work with product, compliance and customer-facing teams to turn regulatory and customer needs into working software.</p>\n</li>\n<li>\n<p>Own what you ship in production, from tracing and alerts to incident follow-ups.</p>\n</li>\n<li>\n<p>Mentor engineers on the team.</p>\n</li>\n<li>\n<p>Work on an on call rotation</p>\n</li>\n</ul>\n<p><strong>Must Haves</strong></p>\n<ul>\n<li>\n<p>Systems design depth. You’ve designed and owned distributed systems where correctness matters more than features. You know asynchronous processing well and can reason about what happens when parts of it fail.</p>\n</li>\n<li>\n<p>Strong Go, or deep production experience in another statically typed backend language (Java, Kotlin, Rust, C#) and the appetite to be shipping Go within your first weeks.</p>\n</li>\n<li>\n<p>PostgreSQL in depth: schema design, query plans, locking and isolation levels, migrations on live systems, and multi-tenant data.</p>\n</li>\n<li>\n<p>End-to-end ownership in the cloud. Working knowledge of AWS or GCP: IAM, networking, managed databases, queues and storage. You can read and change Terraform and debug production from traces and logs.</p>\n</li>\n<li>\n<p>AI-native engineering. You use coding agents such as Claude Code or Cursor every day and can show how. You write the specs and context, break work down for them, and review their output as hard as a human pull request. You know where they fail.</p>\n</li>\n<li>\n<p>Staff-level experience. A track record of delivering large, technically hard projects end to end and helping the engineers around you get better. Typically 8+ years building backend systems.</p>\n</li>\n<li>\n<p>Clear, concise writing in a remote company that makes decisions in documents and async threads.</p>\n</li>\n<li>\n<p>Security fundamentals for sensitive data: encryption in transit and at rest, key handling, minimising personal data, and least-privilege access.</p>\n</li>\n</ul>\n<p><strong>Nice-to-Haves</strong></p>\n<ul>\n<li>\n<p>Applied cryptography: encryption, signing and key management.</p>\n</li>\n<li>\n<p>Decentralized identity: DIDs, verifiable credentials, DIDComm.</p>\n</li>\n<li>\n<p>Regulated finance, payments or compliance: Travel Rule, AML, ISO 20022.</p>\n</li>\n<li>\n<p>Building and running software under SOC 2 or ISO 27001 controls.</p>\n</li>\n<li>\n<p>Crypto and blockchain knowledge: chains, addresses, assets, CAIP identifiers.</p>\n</li>\n<li>\n<p>Node.js and TypeScript.</p>\n</li>\n<li>\n<p>Queue and workflow systems, and modern observability tooling.</p>\n</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>\n<p>Flexible Remote Work: Work from anywhere!</p>\n</li>\n<li>\n<p>$1000 WFH Stipend: Use within your first year of employment.</p>\n</li>\n<li>\n<p>MacBook Pro: Procured by you and your manager to find a model that meets your needs.</p>\n</li>\n<li>\n<p>Unlimited PTO: We trust you to take as much holiday as you need.</p>\n</li>\n<li>\n<p>Country-Specific Benefits: Statutory offerings and contributions, managed via our employer-of-record.</p>\n</li>\n</ul>\n<p><strong>Apply Today!</strong></p>\n<p><em>If you strongly believe this role is for you, please apply. Notabene considers a broad array of candidates, including those without blockchain experience. Whether you’re returning to work after a gap in employment, or taking the next step in your career path, we will be glad to have you on our radar.</em></p>\n<p><em>Notabene is proud to be an equal employment workplace and an affirmative action employer. By valuing inclusion and diversity of all forms, we strictly prohibit and do not discriminate based on race, color, religion, national origin, gender, gender identity, gender expression, age, ancestry, citizenship, sexual orientation, status as a protected veteran, or any other legally protected characteristic.</em></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/staff-backend-software-engineer-notabene</p>",
-      "posted_at": "2026-11-09T19:31:58+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "9912cfa3-f7a3-4466-8f95-54947588f4fb",
-      "title": "R&D Global Director",
-      "url": "https://remotejobs.org/remote-jobs/rd-global-director-freebalance",
-      "apply_url": "https://remotejobs.org/remote-jobs/rd-global-director-freebalance",
-      "company": {
-        "name": "FreeBalance",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/b540f5a20c2900e778d2b7afb9c94621d64bf192e99f5f1187686202b4e1b72b.webp",
-        "website": null,
-        "url": "https://remotejobs.org/companies/freebalance"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "Poland",
-      "location_normalization": {
-        "raw": "Poland",
-        "input": {},
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "PL"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "partial",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [],
-        "evidence_ids": [
-          "source-location"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "PL"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": "director",
-        "role_family": null,
-        "required_skills": [
-          "aws",
-          "docker",
-          "java",
-          "kubernetes",
-          "react",
-          "sql"
-        ],
-        "mentioned_skills": [
-          "aws",
-          "docker",
-          "java",
-          "kubernetes",
-          "r",
-          "sql"
-        ],
-        "preferred_skills": [],
-        "experience_requirements": [
-          {
-            "text": "10 years of professional experience in Java software development, including at least 5 years in a leadership or managerial role",
-            "maximum_years": null,
-            "minimum_years": 10,
-            "classification": "mentioned"
-          },
-          {
-            "text": "10 years of professional experience in Java software development, including at least 10 years in a leadership or managerial role",
-            "maximum_years": null,
-            "minimum_years": 10,
-            "classification": "required"
-          }
-        ]
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": null,
-      "salary_period": null,
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<p>As a Development Manager, you will lead our global Java software development organization, providing overall leadership, direction, and accountability across multiple engineering teams. You will manage the design, development, modernization, and timely delivery of high-quality enterprise software solutions, ensuring alignment with customer commitments, business objectives, and technical standards.</p>\n<p>This role requires a blend of senior engineering leadership, strategic planning, cross-functional collaboration, and deep operational execution. You will guide geographically distributed teams - including engineering managers, technical leads, and individual contributors - while balancing immediate delivery priorities with long-term engineering and platform modernization.</p>\n<p>The ideal candidate will combine hands-on technical understanding with extensive leadership experience in enterprise Java architectures, Agile practices, and CMMI process frameworks. You will drive engineering excellence, foster a culture of accountability and continuous improvement, and engage with global stakeholders to support <a href=\"https://jobicy.com/company/freebalance\">FreeBalance</a>'s strategic technology roadmap.</p>\n<h2>Main Responsibilities:</h2>\n<ul>\n<li>\n<p>Bachelor's or Master's degree in Computer Science, Software Engineering, Engineering, or a related technical discipline.</p>\n</li>\n<li>\n<p>Minimum of 10 years of professional experience in Java software development, including at least 5 years in a leadership or managerial role.</p>\n</li>\n<li>\n<p>Demonstrated success leading complex software delivery initiatives in large-scale enterprise environments.</p>\n</li>\n<li>\n<p>Proven experience managing geographically distributed engineering teams and working effectively across multiple time zones and cultures.</p>\n</li>\n<li>\n<p>Demonstrated ability to combine hands-on technical understanding with senior-level organizational leadership, strategic planning, and delivery accountability.</p>\n</li>\n<li>\n<p>Experience leading engineering process improvements, organizational transformation, or modernization initiatives while maintaining ongoing software delivery.</p>\n</li>\n</ul>\n<p><strong>Technical Expertise</strong></p>\n<ul>\n<li>\n<p>Strong expertise in Java, Spring, Spring ecosystem projects, Spring Boot, REST APIs, and related technologies.</p>\n</li>\n<li>\n<p>Experience with front-end technologies, including JSF/MyFaces, React, or similar frameworks, is required.</p>\n</li>\n<li>\n<p>Solid understanding of relational and NoSQL database technologies, SQL, and ORM frameworks such as Hibernate and JPA.</p>\n</li>\n<li>\n<p>Familiarity with cloud platforms, including AWS, Azure, and/or GCP, and containerization technologies such as Docker and Kubernetes.</p>\n</li>\n<li>\n<p>Proven experience with Agile/Scrum methodologies and tools such as JIRA, Confluence, and Git.</p>\n</li>\n<li>\n<p>Hands-on understanding of software architecture, REST APIs, and enterprise integration patterns.</p>\n</li>\n<li>\n<p>Strong familiarity with the IT infrastructure typically supporting enterprise application architectures.</p>\n</li>\n<li>\n<p>Experience with monolithic, microservices, and event-driven software architectures.</p>\n</li>\n<li>\n<p>Knowledge of DevOps practices, CI/CD pipelines, infrastructure automation, and modern software delivery tooling.</p>\n</li>\n<li>\n<p>Strong understanding of source control, branching strategies, automated testing, code reviews, build systems, and release management practices.</p>\n</li>\n<li>\n<p>Ability to evaluate technical architecture, engineering design decisions, and technology trade-offs without needing to serve as the primary hands-on developer.</p>\n</li>\n<li>\n<p>Experience working with mature enterprise software platforms involving complex dependencies, legacy technologies, and ongoing modernization requirements.</p>\n</li>\n</ul>\n<p><strong>Delivery, Quality, and Process Management</strong></p>\n<ul>\n<li>\n<p>Demonstrated experience managing projects aligned with CMMI Level 2 or higher.</p>\n</li>\n<li>\n<p>Proven ability to manage multiple concurrent development projects and competing delivery priorities.</p>\n</li>\n<li>\n<p>Experience establishing and improving software engineering processes, development standards, and quality controls.</p>\n</li>\n<li>\n<p>Strong understanding of software testing strategies, quality assurance, automated testing, and defect management.</p>\n</li>\n<li>\n<p>Experience establishing engineering performance metrics and using data to improve delivery predictability, quality, and productivity.</p>\n</li>\n<li>\n<p>Demonstrated ability to identify and address systemic engineering challenges, delivery bottlenecks, and technical debt.</p>\n</li>\n<li>\n<p>Experience balancing customer-driven development commitments with product roadmap priorities and longer-term technology investments.</p>\n</li>\n</ul>\n<p><strong>Leadership and Interpersonal Skills</strong></p>\n<ul>\n<li>\n<p>Excellent problem-solving, organizational, communication, and interpersonal skills.</p>\n</li>\n<li>\n<p>Demonstrated ability to lead, motivate, coach, and develop engineering teams.</p>\n</li>\n<li>\n<p>Strong executive communication skills, including the ability to present complex technical and operational matters to senior leadership.</p>\n</li>\n<li>\n<p>Proven ability to influence stakeholders, build consensus, and resolve competing priorities across organizational boundaries.</p>\n</li>\n<li>\n<p>Sound judgment, resilience, adaptability, and the ability to remain effective in complex, fast-paced environments.</p>\n</li>\n<li>\n<p>Ability to navigate organizational ambiguity, establish clarity, and drive accountability through constructive collaboration.</p>\n</li>\n<li>\n<p>Strong decision-making skills, with the ability to balance technical quality, delivery urgency, customer commitments, and business objectives.</p>\n</li>\n<li>\n<p>Experience leading organizational change and gaining adoption of new engineering practices, processes, and technologies.</p>\n</li>\n<li>\n<p>Ability to work effectively with geographically distributed teams and diverse stakeholders.</p>\n</li>\n</ul>\n<p><strong>What Success Looks Like</strong></p>\n<p>The successful candidate will establish and sustain a high-performing global Development organization that consistently delivers reliable, high-quality enterprise software while advancing engineering maturity and modernization.</p>\n<p>Key outcomes include:</p>\n<ul>\n<li>\n<p>Predictable and transparent software delivery aligned with customer and business commitments.</p>\n</li>\n<li>\n<p>Strong engineering leadership, clearly defined accountability, and effective collaboration across global teams.</p>\n</li>\n<li>\n<p>Measurable improvements in software quality, development efficiency, build stability, and release reliability.</p>\n</li>\n<li>\n<p>Sustainable engineering practices supported by appropriate standards, automation, and governance.</p>\n</li>\n<li>\n<p>Effective management of competing priorities, technical debt, and complex enterprise delivery requirements.</p>\n</li>\n<li>\n<p>Continued modernization of the technology platform and engineering capabilities without compromising customer delivery.</p>\n</li>\n<li>\n<p>Strong partnerships across R&#x26;D, Professional Services, QA, DevOps, IT, and other business functions.</p>\n</li>\n<li>\n<p>A culture of technical excellence, ownership, professional development, and continuous improvement.</p>\n</li>\n</ul>\n<h2>Qualifications:</h2>\n<ul>\n<li>Bachelor's or Master's degree in Computer Science, Software Engineering, Engineering, or a related technical discipline.</li>\n<li>Minimum of 10 years of professional experience in Java software development, including at least 10 years in a leadership or managerial role.</li>\n<li>Demonstrated success leading complex software delivery initiatives in large-scale enterprise environments.</li>\n<li>Proven experience managing geographically distributed engineering teams and working effectively across multiple time zones and cultures.</li>\n<li>Demonstrated ability to combine hands-on technical understanding with senior-level organizational leadership, strategic planning, and delivery accountability.</li>\n<li>Experience leading engineering process improvements, organizational transformation, or modernization initiatives while maintaining ongoing software delivery.</li>\n</ul>\n<ul>\n<li>\n<p><strong>Technical Expertise</strong></p>\n</li>\n<li>\n<p>Strong expertise in Java, Spring, Spring ecosystem projects, Spring Boot, REST APIs, and related technologies.</p>\n</li>\n<li>\n<p>Experience with front-end technologies, including JSF/MyFaces, React, or similar frameworks, is required.</p>\n</li>\n<li>\n<p>Solid understanding of relational and NoSQL database technologies, SQL, and ORM frameworks such as Hibernate and JPA.</p>\n</li>\n<li>\n<p>Familiarity with cloud platforms, including AWS, Azure, and/or GCP, and containerization technologies such as Docker and Kubernetes.</p>\n</li>\n<li>\n<p>Proven experience with Agile/Scrum methodologies and tools such as JIRA, Confluence, and Git.</p>\n</li>\n<li>\n<p>Hands-on understanding of software architecture, REST APIs, and enterprise integration patterns.</p>\n</li>\n<li>\n<p>Strong familiarity with the IT infrastructure typically supporting enterprise application architectures.</p>\n</li>\n<li>\n<p>Experience with monolithic, microservices, and event-driven software architectures.</p>\n</li>\n<li>\n<p>Knowledge of DevOps practices, CI/CD pipelines, infrastructure automation, and modern software delivery tooling.</p>\n</li>\n<li>\n<p>Strong understanding of source control, branching strategies, automated testing, code reviews, build systems, and release management practices.</p>\n</li>\n<li>\n<p>Ability to evaluate technical architecture, engineering design decisions, and technology trade-offs without needing to serve as the primary hands-on developer.</p>\n</li>\n<li>\n<p>Experience working with mature enterprise software platforms involving complex dependencies, legacy technologies, and ongoing modernization requirements.</p>\n</li>\n<li>\n<p><strong>Delivery, Quality, and Process Management</strong></p>\n</li>\n<li>\n<p>Demonstrated experience managing projects aligned with CMMI Level 2 or higher.</p>\n</li>\n<li>\n<p>Proven ability to manage multiple concurrent development projects and competing delivery priorities.</p>\n</li>\n<li>\n<p>Experience establishing and improving software engineering processes, development standards, and quality controls.</p>\n</li>\n<li>\n<p>Strong understanding of software testing strategies, quality assurance, automated testing, and defect management.</p>\n</li>\n<li>\n<p>Experience establishing engineering performance metrics and using data to improve delivery predictability, quality, and productivity.</p>\n</li>\n<li>\n<p>Demonstrated ability to identify and address systemic engineering challenges, delivery bottlenecks, and technical debt.</p>\n</li>\n<li>\n<p>Experience balancing customer-driven development commitments with product roadmap priorities and longer-term technology investments.</p>\n</li>\n<li>\n<p><strong>Leadership and Interpersonal Skills</strong></p>\n</li>\n<li>\n<p>Excellent problem-solving, organizational, communication, and interpersonal skills.</p>\n</li>\n<li>\n<p>Demonstrated ability to lead, motivate, coach, and develop engineering teams.</p>\n</li>\n<li>\n<p>Strong executive communication skills, including the ability to present complex technical and operational matters to senior leadership.</p>\n</li>\n<li>\n<p>Proven ability to influence stakeholders, build consensus, and resolve competing priorities across organizational boundaries.</p>\n</li>\n<li>\n<p>Sound judgment, resilience, adaptability, and the ability to remain effective in complex, fast-paced environments.</p>\n</li>\n<li>\n<p>Ability to navigate organizational ambiguity, establish clarity, and drive accountability through constructive collaboration.</p>\n</li>\n<li>\n<p>Strong decision-making skills, with the ability to balance technical quality, delivery urgency, customer commitments, and business objectives.</p>\n</li>\n<li>\n<p>Experience leading organizational change and gaining adoption of new engineering practices, processes, and technologies.</p>\n</li>\n<li>\n<p>Ability to work effectively with geographically distributed teams and diverse stakeholders.</p>\n</li>\n<li>\n<p><strong>What Success Looks Like</strong></p>\n</li>\n<li>\n<p>The successful candidate will establish and sustain a high-performing global Development organization that consistently delivers reliable, high-quality enterprise software while advancing engineering maturity and modernization.</p>\n</li>\n<li>\n<p>Key outcomes include:</p>\n</li>\n<li>\n<p>Predictable and transparent software delivery aligned with customer and business commitments.</p>\n</li>\n<li>\n<p>Strong engineering leadership, clearly defined accountability, and effective collaboration across global teams.</p>\n</li>\n<li>\n<p>Measurable improvements in software quality, development efficiency, build stability, and release reliability.</p>\n</li>\n<li>\n<p>Sustainable engineering practices supported by appropriate standards, automation, and governance.</p>\n</li>\n<li>\n<p>Effective management of competing priorities, technical debt, and complex enterprise delivery requirements.</p>\n</li>\n<li>\n<p>Continued modernization of the technology platform and engineering capabilities without compromising customer delivery.</p>\n</li>\n<li>\n<p>Strong partnerships across R&#x26;D, Professional Services, QA, DevOps, IT, and other business functions.</p>\n</li>\n<li>\n<p>A culture of technical excellence, ownership, professional development, and continuous improvement.</p>\n</li>\n</ul>\n<h2>Skills:</h2>\n<p>FreeBalance solutions support governments around the world in achieving transparency, accountability, and effective management of public resources. The reliability, security, and performance of these solutions directly influence how public sector organizations manage budgets, finances, human resources, procurement, and performance reporting.</p>\n<p>As a Development Manager, you will play a critical role in shaping the architectural backbone, leadership structure, and core execution of our product delivery. By leading a dedicated, globally distributed engineering organization and maintaining high technical and process standards, your work will directly ensure that powerful, secure, and compliant capabilities are delivered seamlessly, contributing to customer satisfaction and the continued global evolution of FreeBalance's digital government platform.</p>\n<p>We thank all applicants for their interest; however, only those selected for an interview will be contacted. FreeBalance is an inclusive employer dedicated to building a diverse workforce to increase the representation of the designated groups based on each country's legislation. We encourage applications from all qualified candidates and will accommodate applicants' needs under the respective labour law throughout all stages of the recruitment process.</p>\n<h2>Compensation</h2>\n<h2>Additional Information</h2>\n<p>We thank all applicants for their interest; however, only those selected for an interview will be contacted. FreeBalance is an inclusive employer dedicated to building a diverse workforce to increase the representation of the designated groups based on each country’s legislation. We encourage applications from all qualified candidates and will accommodate applicants’ needs under the respective labour law throughout all stages of the recruitment process.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/rd-global-director-freebalance</p>",
-      "posted_at": "2026-11-09T19:30:56+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "b7915e9e-8e22-415b-b09a-5c67a851f2e7",
-      "title": "Senior Software Engineer - OpenCRQ",
-      "url": "https://remotejobs.org/remote-jobs/senior-software-engineer-opencrq-filigran",
-      "apply_url": "https://remotejobs.org/remote-jobs/senior-software-engineer-opencrq-filigran",
-      "company": {
-        "name": "Filigran",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/1143786b602c8a336bd89e65d76d8a34cce0ac7f385d40d005d4e24b47867cd3.webp",
-        "website": null,
-        "url": "https://remotejobs.org/companies/filigran"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "France",
-      "location_normalization": {
-        "raw": "France",
-        "input": {},
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "FR"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [],
-        "evidence_ids": [
-          "source-location"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "FR"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": "senior",
-        "role_family": "software-engineering",
-        "required_skills": [],
-        "mentioned_skills": [
-          "nodejs",
-          "postgresql",
-          "react",
-          "typescript"
-        ],
-        "preferred_skills": [],
-        "experience_requirements": []
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": null,
-      "salary_period": null,
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<h2>🌀 The Company</h2>\n<p><strong>Founded in 2022, <a href=\"https://jobicy.com/company/filigran\">Filigran</a> is a global cybersecurity company on a mission to empower defense teams to be proactive through open-source solutions that uncover threats and drive action.</strong></p>\n<p>Filigran stands out in the cybersecurity ecosystem through its open-source, AI-powered and threat-informed approach to Continuous Threat Exposure Management (CTEM). Our eXtended Threat Management (XTM) platform brings together threat intelligence, exposure validation and cyber risk reduction, enabling organizations to better understand their threat landscape and take action.</p>\n<p>At the heart of Filigran is our open-source approach. Our vision is to unite defenders into a global community to make security more open, resilient and collaborative.</p>\n<p>As Filigran continues to scale globally, we are building the organization, infrastructure and capabilities needed for our next stage of growth. How we scale matters just as much as how fast we scale: our CORE values: Cohesion, Openness, Responsibility and Equity shape how we work together, make decisions and build for the future.</p>\n<h2>🎯 The Role</h2>\n<p>We are looking for a Senior Software Engineer who is curious about the modeling problem underneath cyber risk and wants to help shape a young product.</p>\n<p>You will join OpenCRQ as its fourth engineer and work across the data model, backend and product surface. Many foundations are still being defined, giving you meaningful influence beyond the features you directly own.</p>\n<p>You will shape these decisions with the squad and experienced engineering and product leaders across Filigran. We value constructive disagreement, clear reasoning and shared outcomes, and we expect everyone to ask for context, challenge assumptions and learn from one another.</p>\n<h2>🧩 The problem you would be working on</h2>\n<p>Ask a CISO what a cyber risk could cost, and the answer often still begins with a color: red, amber or green, often produced by a spreadsheet disconnected from current evidence.</p>\n<p>OpenCRQ replaces that color with a financial estimate and a traceable chain of evidence: which threat actors are active, which assets they can reach, which controls have proven effective and what the remaining exposure could cost.</p>\n<p>Every step is computed from live data and must withstand a simple question from a board: “Where does that figure come from?” That is what makes this an engineering problem rather than a reporting one.</p>\n<p>OpenCRQ is Filigran’s cyber risk quantification product. It combines threat intelligence from OpenCTI, exposure and control validation from OpenAEV, and agentic workflows through XTM One. As these products become more connected, the squad will define what agents can ask of the risk model, which evidence they can use and how their answers remain safe and explainable.</p>\n<h2>🛠️ What you would work on</h2>\n<ul>\n<li>\n<p><strong>End-to-end product ownership.</strong> Take product problems from early ideation and technical design through implementation, end-to-end testing and validation with users. You will have the autonomy to drive the work, while using the squad to challenge assumptions and improve the outcome.</p>\n</li>\n<li>\n<p><strong>The quantification engine.</strong> Turn threat frequency, control effectiveness and asset value into probabilistic loss distributions. Build general-purpose quantitative models that can evolve as assumptions and available evidence change, without losing reproducibility or explainability.</p>\n</li>\n<li>\n<p><strong>The correlation layer.</strong> Model complex relationships across OpenCRQ, OpenCTI, OpenAEV and customer systems. Map threat intelligence, including intrusion sets, techniques, campaigns and observations, to assets, vulnerabilities, exposures and control coverage. This includes adapting OpenCRQ to open standards and schemas such as STIX and OCSF, without coupling the product to a single representation.</p>\n</li>\n<li>\n<p><strong>Reliable ingestion at scale.</strong> Process hundreds of thousands of findings per tenant through delta syncs, long-running backfills and feeds with imperfect timestamps. You will help design observable, recoverable pipelines while extending tenant isolation as the domain grows.</p>\n</li>\n<li>\n<p><strong>The agentic surface.</strong> Design the contracts used by XTM One agents and the plain-language explanations behind risk figures. Together, the squad will define what models can safely do in a product whose outputs inform board-level decisions.</p>\n</li>\n</ul>\n<h2>🏆 What success could look like</h2>\n<p>Priorities will evolve with the product, but within your first 6 to 12 months you could have:</p>\n<ul>\n<li>\n<p>Taken a meaningful product problem from early ideation through implementation, end-to-end testing and validation with users.</p>\n</li>\n<li>\n<p>Shaped a core part of OpenCRQ’s interconnected data model or quantification engine and documented the trade-offs behind it.</p>\n</li>\n<li>\n<p>Made a major ingestion or calculation path more observable, recoverable and reproducible.</p>\n</li>\n<li>\n<p>Defined or implemented a durable contract between OpenCRQ and another Filigran product or an open standard, without making the internal model brittle.</p>\n</li>\n<li>\n<p>Helped ship risk results that users can trace back to the evidence that produced them.</p>\n</li>\n<li>\n<p>Contributed to the open-source release and to engineering practices the growing squad can build on.</p>\n</li>\n</ul>\n<h2>🌐 Open source, like the rest of Filigran</h2>\n<p>OpenCRQ is about to become Open source, alongside OpenCTI and OpenAEV. You will contribute visibly to a product whose risk calculations can be inspected, challenged and improved by the organizations running it.</p>\n<h2>👥 The squad</h2>\n<p>You will join two senior engineers and a staff engineer, reporting to OpenCRQ’s Engineering Manager. The squad is small enough for you to influence its direction, without working in isolation.</p>\n<p>You will collaborate with the VP of Technology, CTO and Principal Engineers on technical standards, and with the OpenCTI, OpenAEV and XTM One teams on cross-product contracts and integrations. These relationships bring domain knowledge and broader technical context into the squad’s decisions as it grows.</p>\n<h2>✨ What will help you succeed</h2>\n<p>We do not expect you to arrive with expertise in cyber risk or every standard named below. We are looking for a strong software engineer who can learn quickly, work autonomously and use the squad to challenge and improve decisions.</p>\n<ul>\n<li>\n<p>A track record of taking complex product problems from an ambiguous idea to a validated outcome: framing the problem, making technical decisions, implementing the solution, testing it end to end and checking that it solves the user’s need.</p>\n</li>\n<li>\n<p>Strong experience with a modern TypeScript stack and practical knowledge of PostgreSQL beyond the ORM. You treat failure modes and observability as part of the design.</p>\n</li>\n<li>\n<p>The ability to reason about complex relationships across systems and design interconnected data models that remain coherent as concepts and integrations evolve.</p>\n</li>\n<li>\n<p>Comfort turning quantitative concepts into maintainable software. Formal training in statistics is not required, but you should be willing to work with probability distributions, orders of magnitude and models whose assumptions evolve over time.</p>\n</li>\n<li>\n<p>Thoughtful use of coding agents: you know where they accelerate engineering and where their output needs careful verification.</p>\n</li>\n<li>\n<p><strong>Fluent English is required.</strong></p>\n</li>\n</ul>\n<h2>💡 Useful, but not required</h2>\n<p>Any of the following would help, but none is expected:</p>\n<ul>\n<li>\n<p>Experience in cybersecurity, GRC or risk quantification.</p>\n</li>\n<li>\n<p>Familiarity with STIX/TAXII, OCSF, MITRE ATT&#x26;CK or other open cybersecurity standards and frameworks.</p>\n</li>\n<li>\n<p>Experience shipping features involving LLM agents, RAG or MCP.</p>\n</li>\n</ul>\n<h2>⚙️ The stack</h2>\n<p>TypeScript end to end: React, Vite and TanStack Router on the frontend; Node.js, Fastify and tRPC on the backend; PostgreSQL with a code-first schema and Drizzle, all in one monorepo.</p>\n<p>OpenCRQ ships as a container, both as SaaS and on customer-managed infrastructure. We use OpenTelemetry for traces, metrics and logs, alongside Prometheus and continuous profiling.</p>\n<p>A significant part of the design work happens at the boundaries between OpenCRQ, the rest of Filigran’s product suite and customer security tooling. You will work directly with the teams that own those systems rather than having to navigate those boundaries alone.</p>\n<h2>🌱 <strong>Why Join Filigran? More than just a job.</strong></h2>\n<p>We are a <strong>fast-growing, global and remote-first company</strong>, and we believe the best work combines <strong>purpose, impact and innovation</strong>. You’ll work alongside talented people across the world who care about what they build, how they build it, and the impact they make on the broader cybersecurity ecosystem.</p>\n<p>⭐ <strong>Be part of something bigger</strong></p>\n<p>We believe we do work that matters. Our open-source approach means that work extends beyond Filigran. You’re contributing to technology and ideas that strengthen a global community of defenders and help make cybersecurity more open and collaborative.</p>\n<p>💻 <strong>Work at the edge of what’s next</strong></p>\n<p>We bring together cybersecurity, open source and AI — giving you the opportunity to work with emerging technologies, experiment with new ways of working, and contribute to how they are applied in practice.</p>\n<p>🌍 <strong>Global opportunity without borders</strong></p>\n<p>Be part of a fast-growing, truly international team — collaborating across Europe, North America, APJ and beyond, with the flexibility of a remote-first environment. As we grow, you’ll have opportunities to expand your scope, take ownership, learn quickly and grow with us.</p>\n<p>🧭 <strong>A culture grounded in CORE</strong></p>\n<p><strong>Cohesion, Openness, Responsibility and Equity</strong> define how we work together — with openness, ownership, collaboration and respect. These are the principles that guide how we make decisions, treat people and grow together, especially when no one’s watching.</p>\n<h2>💰 <strong>What you can expect</strong></h2>\n<ul>\n<li>\n<p><strong>Competitive compensation + equity</strong> — everyone shares in our success</p>\n</li>\n<li>\n<p><strong>Remote-first flexibility</strong> — work from wherever you’re based, with flexibility built into how we operate</p>\n</li>\n<li>\n<p><strong>25 days PTO baseline</strong> — real time to disconnect, recharge and enjoy life outside work</p>\n</li>\n<li>\n<p><strong>Volunteer days</strong> — paid time to contribute to causes that matter to you</p>\n</li>\n<li>\n<p><strong>Set up for success</strong> — choose the equipment that works for you, with additional support for your remote work and development needs as our programs evolve</p>\n</li>\n<li>\n<p><strong>Two annual in-person get-togethers</strong> — one global company get-together and one team get-together, creating dedicated time to connect, collaborate and strengthen our culture beyond the screen</p>\n</li>\n</ul>\n<h2>🌍 <strong>Equal Employment Opportunity</strong></h2>\n<p><strong>We enable cybersecurity through inclusion — from code to culture.</strong></p>\n<p>At Filigran, we are proud to be an equal opportunity employer. We believe the diversity of our people makes our products and our team stronger. We welcome talent of every background, identity and lived experience, regardless of race, color, religion, gender, gender identity or expression, sexual orientation, national origin, age, disability or veteran status.</p>\n<p>What matters here is what you bring, not what you look like, where you’re from or how you identify.</p>\n<h2>🚀 <strong>Ready to Join Us?</strong></h2>\n<p>Apply now and help us build the future of the cybersecurity ecosystem, together.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-software-engineer-opencrq-filigran</p>",
-      "posted_at": "2026-11-09T19:30:21+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "68901016-a0ad-46ad-a2c8-d6bc496ea5aa",
-      "title": "Senior Platform Engineer, Quality Platform",
-      "url": "https://remotejobs.org/remote-jobs/senior-platform-engineer-quality-platform-maintainx",
-      "apply_url": "https://remotejobs.org/remote-jobs/senior-platform-engineer-quality-platform-maintainx",
-      "company": {
-        "name": "MaintainX",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/2335005d4d1688f8fa88e740fea95aa333d421c5c24d49591b30725e09872242.png",
-        "website": "https://maintainx.com",
-        "url": "https://remotejobs.org/companies/maintainx"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "Toronto",
-      "location_normalization": {
-        "raw": "Toronto",
-        "input": {
-          "workArrangement": "remote"
-        },
-        "scope": "unknown",
-        "status": "unknown",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [
-          "toronto"
-        ],
-        "work_arrangement": "remote",
-        "allowed_countries": [],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "worksite_countries": [
-          "CA"
-        ],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "unknown",
-        "status": "unknown",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [
-          "Remote (Toronto or Montreal): the role's city-based work location restriction (Toronto or Montreal) cannot be represented as country or subdivision areas and remains unresolved.",
-          "Unresolved area: description:4"
-        ],
-        "evidence_ids": [
-          "c1"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "remote",
-        "allowed_countries": [],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": "senior",
-        "role_family": "devops",
-        "required_skills": [],
-        "mentioned_skills": [],
-        "preferred_skills": [
-          "aws"
-        ],
-        "experience_requirements": []
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": null,
-      "salary_period": null,
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": "c03a9fff-4d47-4382-822c-f5b3c3803604",
-      "direct_apply": null,
-      "description": "<p><em><strong>MaintainX is a leading mobile-first work execution platform</strong> for industrial and frontline teams. <strong>More than 15,000 customers</strong>, including McDonalds, Michaels, Cintas, Redimix, and U.S. LBM, use MaintainX to cut unplanned downtime and run better operations, across 16 million managed assets and 92 million completed work orders.</em></p>\n<p><em><strong>In August 2026 MaintainX became part of Autodesk, joining </strong></em><a href=\"https://adsknews.autodesk.com/en/views/inside-autodesk-operations-solutions/\"><em><strong>Autodesk Operations Solutions</strong></em></a><em><strong>, the organization unifying Autodesk's operations platform alongside Tandem, FlexSim and Fusion Operations. </strong>Autodesk's strategy is to converge design, make and operate into one continuous lifecycle: design an asset, build it, run it, then feed what you learn running it back into the next design. Autodesk had design and make. Operate is the phase that tells you what actually happened, and it is ours.</em></p>\n<h2>About the Role:</h2>\n<p><strong>Remote (Toronto or Montreal)</strong></p>\n<p>As a Senior Engineer on the Quality Platform team, you'll build the shared testing infrastructure, frameworks, and AI-assisted tooling that every engineering team at MaintainX relies on to ship quickly and confidently. Rather than owning testing for a single product area, you'll create the platform, developer experience, and automation that make high-quality software the default across the organization.</p>\n<p>You'll partner closely with product engineering teams, Quality Advocates, and SRE to improve developer productivity, increase release confidence, and help shape the future of AI-powered testing at MaintainX.</p>\n<h2>What You'll Do:</h2>\n<ul>\n<li>\n<p>Build and evolve MaintainX's shared quality platform, test automation frameworks, and developer tooling.</p>\n</li>\n<li>\n<p>Design and develop AI-assisted test authoring infrastructure that significantly reduces test creation time while maintaining high quality.</p>\n</li>\n<li>\n<p>Own CI integration standards and improve build reliability across engineering teams.</p>\n</li>\n<li>\n<p>Design test harnesses for AI-powered product capabilities, including health checks, graceful degradation, quota monitoring, and adversarial testing.</p>\n</li>\n<li>\n<p>Identify and eliminate systemic test debt and flaky tests before they impact engineering teams.</p>\n</li>\n<li>\n<p>Build shared testing utilities and frameworks adopted across the engineering organization.</p>\n</li>\n<li>\n<p>Partner with Quality Advocates, product engineering teams, and SRE to continuously improve testing strategy and platform reliability.</p>\n</li>\n<li>\n<p>Evaluate emerging AI testing tools and drive adoption where they create measurable engineering impact.</p>\n</li>\n</ul>\n<h2>About You:</h2>\n<ul>\n<li>\n<p>Strong software engineering fundamentals with experience writing, debugging, and maintaining production application code.</p>\n</li>\n<li>\n<p>Hands-on experience building and maintaining production-grade test automation frameworks using Playwright, Selenium, or similar technologies.</p>\n</li>\n<li>\n<p>Experience integrating automated testing into CI/CD pipelines and diagnosing flaky or failing test suites.</p>\n</li>\n<li>\n<p>Experience building or maintaining shared developer tooling, testing infrastructure, or engineering platforms — comfort with cloud infrastructure (e.g., AWS), containerized environments, and observability tooling (e.g., Datadog) is a plus.</p>\n</li>\n<li>\n<p>Experience using AI development tools such as Claude Code, GitHub Copilot, Cursor, or similar to accelerate engineering workflows while applying sound engineering judgment.</p>\n</li>\n<li>\n<p>Comfortable owning systems end-to-end, from architecture and implementation through production support.</p>\n</li>\n<li>\n<p>Experience mentoring engineers and helping raise engineering quality across teams.</p>\n</li>\n<li>\n<p>Strong spoken and written English, as you'll collaborate daily with engineering leaders and managers across multiple teams and present technical priorities to executive stakeholders.</p>\n</li>\n</ul>\n<h2>Nice to Have:</h2>\n<ul>\n<li>\n<p>Experience building test harnesses for AI-powered features, including health checks, circuit-breakers, adversarial testing, or resilience testing.</p>\n</li>\n<li>\n<p>Experience building or maintaining autonomous or agentic AI systems.</p>\n</li>\n<li>\n<p>Experience evaluating AI-powered developer tools and integrating them into engineering workflows.</p>\n</li>\n<li>\n<p>Experience building observability and quality metrics into testing platforms.</p>\n</li>\n<li>\n<p>Experience working with large-scale developer platforms supporting multiple engineering teams.</p>\n</li>\n</ul>\n<p><strong>Our mission is to keep the physical world running. </strong>Factories, fleets, hospitals and campuses stay up because the people who maintain them have tools worth using. That is what we build.</p>\n<p><strong>Compensation and benefits. </strong>Base pay is one part of the package. Depending on the role, compensation may also include commission, an annual bonus and equity. Benefits differ by country. For roles in the United States, Autodesk’s benefits are described at <a href=\"http://benefits.autodesk.com\">benefits.autodesk.com</a>. For roles in Canada and other countries, the plan differs on health coverage, retirement and leave, and your recruiter will walk you through it.</p>\n<p><strong>Belonging. </strong>We take pride in a culture where everyone can thrive. More at <a href=\"http://autodesk.com/company/global-belonging\">autodesk.com/company/global-belonging</a>. More on where this is going: <a href=\"https://adsknews.autodesk.com/en/news/building-the-future-of-connected-operations/\">Autodesk CEO Andrew Anagnost on building the future of connected operations</a>, and <a href=\"https://adsknews.autodesk.com/en/views/inside-autodesk-operations-solutions/\">AOS SVP Stephen Hooper on welcoming MaintainX to Autodesk</a>.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-platform-engineer-quality-platform-maintainx</p>",
-      "posted_at": "2026-11-09T19:09:37.219+00:00",
       "is_translated": false,
       "original_language": null
     },
