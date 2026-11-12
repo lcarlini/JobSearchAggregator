@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T00:09:46.681Z",
+  "generatedAt": "2026-11-12T14:48:02.472Z",
   "count": 150,
   "data": [
     {
@@ -3174,6 +3174,109 @@
       "original_language": null
     },
     {
+      "id": "232d4b99-1a39-40f5-bb6c-db4ed84389d6",
+      "title": "Senior Data Engineer",
+      "url": "https://remotejobs.org/remote-jobs/senior-data-engineer-kpler-a762464762d54d1f97695cfb938622ae",
+      "apply_url": "https://remotejobs.org/remote-jobs/senior-data-engineer-kpler-a762464762d54d1f97695cfb938622ae",
+      "company": {
+        "name": "Kpler",
+        "logo_url": null,
+        "website": "https://kpler.com",
+        "url": "https://remotejobs.org/companies/kpler"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "United Kingdom",
+      "location_normalization": {
+        "raw": "United Kingdom",
+        "input": {
+          "workArrangement": "hybrid"
+        },
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [],
+        "work_arrangement": "hybrid",
+        "allowed_countries": [
+          "GB"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "worksite_countries": [
+          "GB"
+        ],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [
+          "GB"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": "senior",
+        "role_family": "data-engineering",
+        "required_skills": [],
+        "mentioned_skills": [
+          "aws",
+          "docker",
+          "java",
+          "kubernetes",
+          "postgresql",
+          "terraform"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": [
+          {
+            "text": "5+ years of professional experience as a Data Engineer designing, scaling, and maintaining production-grade data pipelines",
+            "maximum_years": null,
+            "minimum_years": 5,
+            "classification": "mentioned"
+          }
+        ]
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "db52ce61-a62a-4cc9-a8a0-6663e74665c8",
+      "direct_apply": null,
+      "description": "<p>At Kpler, we are dedicated to helping our clients navigate complex markets with ease. By simplifying global trade information and providing valuable insights, we empower organisations to make informed decisions in commodities, energy, and maritime sectors. </p><p>Since our founding in 2014, we have focused on delivering top-tier intelligence through user-friendly platforms. Our team of over 850 experts from 69 countries works tirelessly to transform intricate data into actionable strategies, ensuring our clients stay ahead in a dynamic market landscape. Join us to leverage cutting-edge innovation for impactful results and experience unparalleled support on your journey to success.</p><h2>About the Role</h2><p>As a Senior Data Engineer on our Maritime Models team, you will take technical ownership of the core data pipelines and distributed storage architectures powering Kpler's vessel tracking and predictive analytics. You will design, scale, and optimize high-throughput batch and streaming pipelines that ingest raw maritime telemetry and transform it into actionable intelligence. Working with distributed NoSQL systems like Apache HBase at scale, your work directly ensures the freshness, accuracy, and reliability of the data models our global customers depend on.</p><h2>Key Responsibilities</h2><ul>\n<li>\n<p>Architect, build, and operate high-throughput batch and streaming data pipelines using Java, Apache Kafka, Apache Flink, and Airflow.</p>\n</li>\n<li>\n<p>Design, tune, and maintain scalable distributed NoSQL databases, prioritizing Apache HBase performance for high-volume time-series maritime telemetry.</p>\n</li>\n<li>\n<p>Drive end-to-end operational excellence across containerized cloud environments on AWS using Kubernetes, Docker, Terraform, and GitOps workflows.</p>\n</li>\n<li>\n<p>Define and enforce system reliability metrics, monitoring pipeline latency, data completeness, and uptime to meet strict operational SLAs.</p>\n</li>\n<li>\n<p>Partner with Data Scientists, Product Managers, and SRE teams to translate complex maritime modeling requirements into robust, production-grade infrastructure.</p>\n</li>\n<li>\n<p>Mentor peer engineers, drive code review standards, and leverage modern AI development tools (Copilot, Cursor, Claude) to elevate team productivity.</p>\n</li>\n\n\n</ul><h2>Experience &#x26; Background</h2><h3>What you'll need (Must-haves)</h3><ul>\n<li>\n<p>5+ years of professional experience as a Data Engineer designing, scaling, and maintaining production-grade data pipelines.</p>\n</li>\n<li>\n<p>Deep, hands-on expertise in distributed NoSQL data stores, specifically Apache HBase, for high-volume time-series storage and query optimization.</p>\n</li>\n<li>\n<p>Strong proficiency in software engineering using Java.</p>\n</li>\n<li>\n<p>Demonstrated experience with stream processing and orchestration tools such as Apache Kafka, Apache Flink, and Apache Airflow.</p>\n</li>\n<li>\n<p>Solid background operating containerized services on AWS cloud environments using Docker, Kubernetes, and Terraform.</p>\n</li>\n\n<h3>Nice-to-haves</h3>\n<ul>\n<li>\n<p>Experience with relational databases such as PostgreSQL.</p>\n</li>\n<li>\n<p>Experience working with geospatial data technologies (e.g., GeoServer) or spatial indexing algorithms.</p>\n</li>\n<li>\n<p>Exposure to AI-assisted software development tools like Copilot, Cursor, or Claude Code.</p>\n</li>\n<li>\n<p>Domain familiarity with maritime tracking, AIS telemetry, or supply chain logistics.</p>\n</li>\n\n</ul></ul><p>We are a dynamic company dedicated to nurturing connections and innovating solutions to tackle market challenges head-on. If you thrive on customer satisfaction and turning ideas into reality, then you’ve found your ideal destination. Are you ready to embark on this exciting journey with us?</p><p><strong>We make things happen</strong></p><p>We act decisively and with purpose, going the extra mile.</p><p><strong>We build together</strong></p><p>We foster relationships and develop creative solutions to address market challenges.</p><p><strong>We are here to help</strong></p><p>We are accessible and supportive to colleagues and clients with a friendly approach.</p><p>Our People Pledge</p><p>Don’t meet every single requirement? Research shows that women and people of color are less likely than others to apply if they feel like they don’t match 100% of the job requirements. Don’t let the confidence gap stand in your way, we’d love to hear from you! We understand that experience comes in many different forms and are dedicated to adding new perspectives to the team.</p><p>Kpler is committed to providing a fair, inclusive and diverse work-environment. We believe that different perspectives lead to better ideas, and better ideas allow us to better understand the needs and interests of our diverse, global community. We welcome people of different backgrounds, experiences, abilities and perspectives and are an equal opportunity employer.</p><p>By applying, I confirm that I have read and accept the <a href=\"https://www.kpler.com/privacy\">Staff Privacy Notice</a></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-data-engineer-kpler-a762464762d54d1f97695cfb938622ae</p>",
+      "posted_at": "2026-11-10T10:15:52.552+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
       "id": "374ae659-6031-47bd-9130-5d06e88ae829",
       "title": "Senior Data Engineer - Databricks",
       "url": "https://remotejobs.org/remote-jobs/senior-data-engineer-databricks-shyftlabs-46a2eb394b4846b9b8823c5b7c650882",
@@ -4903,6 +5006,94 @@
       "original_language": null
     },
     {
+      "id": "b9d69980-5621-400a-a249-34d0aca6bfbc",
+      "title": "Senior Firmware Engineer",
+      "url": "https://remotejobs.org/remote-jobs/senior-firmware-engineer-hinge-health",
+      "apply_url": "https://remotejobs.org/remote-jobs/senior-firmware-engineer-hinge-health",
+      "company": {
+        "name": "Hinge Health",
+        "logo_url": null,
+        "website": null,
+        "url": "https://remotejobs.org/companies/hinge-health"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "San Francisco-HQ",
+      "location_normalization": {
+        "raw": "San Francisco-HQ",
+        "input": {
+          "workArrangement": "hybrid"
+        },
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [
+          "san francisco-hq"
+        ],
+        "work_arrangement": "hybrid",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "worksite_countries": [
+          "US"
+        ],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [],
+        "allowed_regions": [],
+        "work_arrangement": "hybrid",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": "senior",
+        "role_family": null,
+        "required_skills": [],
+        "mentioned_skills": [
+          "python",
+          "r"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": []
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "2c771f05-38d6-483d-8776-f7a768822ca1",
+      "direct_apply": null,
+      "description": "<h2>About the role</h2><p>Join Hinge Health’s Hardware Engineering team to build the firmware behind next-generation, highly integrated medical devices. Your work will help bring products from concept through production and support technology designed to reduce pain and improve the lives of our members.</p><p>As a senior engineer, you’ll own a substantial firmware scope end to end, make technical decisions across prototyping, design, testing, and production, and work closely with electrical, mechanical, manufacturing, product, and design partners. You’ll help shape system architecture, strengthen the team’s engineering practices, and contribute to a small, capable group where ideas and ownership matter.</p><p>The ideal candidate is excited about solving real problems with hardware – your work will have a direct impact on reducing pain and improving the lives of our millions of members. In joining our HW group within the broader R&#x26;D organization, you will be part of a highly capable, motivated, small team where your contributions and ideas truly matter.</p><h2>What You’ll Accomplish</h2><h3>In your first 3 months</h3><ul><li><p>Learn the product architecture, firmware codebase, development workflows, and quality documentation practices</p></li><li><p>Partner with engineering and product peers to understand system requirements, design trade-offs, and integration needs</p></li><li><p>Take ownership of a defined firmware feature or subsystem and establish an implementation and test plan</p></li></ul><h3>In your first 6 months</h3><ul><li><p>Design, implement, and test firmware for your scope, building maintainable and testable embedded software</p></li><li><p>Integrate firmware with electrical, mechanical, and manufacturing systems; investigate issues across hardware and software boundaries</p></li><li><p>Improve embedded build and test automation and support clear documentation for quality and regulatory needs</p></li></ul><h3>In your first year</h3><ul><li><p>Lead a complex firmware scope or project from concept through development, integration, and production readiness</p></li><li><p>Guide system architecture and technical trade-offs through prototyping, detailed design, testing, and production ramp</p></li><li><p>Raise the bar through design and code reviews, mentoring, and reliable engineering practices</p></li></ul><h2>Who You Are</h2><ul><li><p>You take ownership of complex technical work and can move between system-level decisions and implementation details</p></li><li><p>You work collaboratively across disciplines, communicate trade-offs clearly, and welcome feedback in design and code reviews</p></li><li><p>You approach quality methodically, balancing development speed with robust testing and clear documentation</p></li><li><p>You enjoy mentoring other engineers and helping a small team deliver dependable products</p></li></ul><h2>Basic Qualifications</h2><ul><li><p>5+ years of professional firmware or embedded software experience writing code for consumer electronics, medical devices, or other highly integrated embedded hardware</p></li><li><p>Strong experience with C in embedded systems, RTOS-based system architecture (such as Zephyr or FreeRTOS), low-level drivers, and hardware communication protocols such as I2C, SPI, or UART</p></li><li><p>Experience owning firmware for a project or subsystem from design through production, including technical planning, Python-based testing or automation, version control and embedded debugging workflows</p></li></ul><h2>Preferred Qualifications</h2><ul><li><p>Experience developing medical devices or working in another highly regulated industry, such as aerospace or automotive</p></li><li><p>Experience using AI tools to develop firmware, including copilot or agentic workflows</p></li><li><p>Experience with Nordic nRF5x SoCs and the Nordic Connect SDK</p></li><li><p>Experience developing with Bluetooth Low Energy</p></li><li><p>Experience designing bootloaders, firmware updates, or memory maps</p></li><li><p>Experience building embedded CI pipelines and automated hardware-in-the-loop testing</p></li><li><p>Experience mentoring or technically guiding other engineers</p></li></ul><h2>Hinge Health Hybrid Model</h2><p>We believe that remote work and in person work have their own advantages and disadvantages, and we want to be able to leverage the best of both worlds.  Employees in hybrid roles are required to be in the office 3 days per week, for the full 8 hours of a typical business day. The San Francisco office has a dog-friendly workplace program.</p><h2>About Hinge Health</h2><p>At Hinge Health, we’re using technology to scale and automate the delivery of healthcare, starting with musculoskeletal (MSK) conditions, which affect over 1.7 billion people worldwide. Our AI-powered, human-centered care model spans MSK, pelvic health, gastrointestinal (GI), and migraine care. With over 60 partnerships with health plans, PBMs, and other ecosystem partners, Hinge Health is available to over 25 million people across more than 2,900 employers. The company is headquartered in San Francisco with additional offices in Montreal and Bangalore. Learn more at <a href=\"http://hingehealth.com\">hingehealth.com</a>.</p><h2>What You’ll Love About Us</h2><ul><li><p>Inclusive healthcare and benefits: On top of comprehensive medical, dental, and vision coverage, we offer employees and their family members help with gender-affirming care, tools for family and fertility planning, and travel reimbursements if healthcare isn’t available where you live</p></li><li><p>Planning for the future: Start saving for the future with our traditional or Roth 401(k) retirement plan options, which include a 2% company match</p></li><li><p>Modern life stipends: Manage your own learning and development</p></li><li><p>Grow with us: Access discounted company stock through our ESPP with easy payroll deductions</p></li></ul><h2>Culture &#x26; Engagement</h2><p>Hinge Health is an equal opportunity employer and prohibits discrimination and harassment of any kind. We make employment decisions without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, veteran status, disability status, pregnancy, or any other basis protected by federal, state, or local law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements.</p><p>We provide reasonable accommodations for candidates with disabilities. If you need assistance or an accommodation due to a disability, let us know by reaching out to your recruiter. By submitting your application, you acknowledge that we use your personal data as outlined in the <a href=\"https://www.hingehealth.com/about/personnel-and-candidate-privacy-policy/\">personnel and candidate privacy policy</a>.</p><p><em>Co-authored with Glean</em></p><p><br>Beware of Phishing Attempts: We've noticed an increase in phishing where fraudsters impersonate employees and send fake job offers to steal sensitive information. We'll never ask for financial details during the hiring process and only use \"@<a href=\"http://hingehealth.com\">hingehealth.com</a>\" emails. If you receive a suspicious offer, stop communication and report it to the US FBI Internet Crime Complaint Center. To verify an email from our recruiting team, forward it to <a href=\"https://app.ashbyhq.com/admin/organizational-settings/theme#\">security@hingehealth.com</a>.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-firmware-engineer-hinge-health</p>",
+      "posted_at": "2026-11-09T21:43:48.896+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
       "id": "fc68145f-f410-4ba3-982c-f8af8511858d",
       "title": "Technical Program Manager, Strategy & Ops",
       "url": "https://remotejobs.org/remote-jobs/technical-program-manager-strategy-ops-brain-co",
@@ -4991,185 +5182,6 @@
       "direct_apply": null,
       "description": "<h2>Our Mission</h2>\n<p>Rebuild how the world works, to make institutions work better for the people they serve.</p>\n<h2>About Brain Co.</h2>\n<p>Brain Co. builds AI-native operating systems for large, regulated institutions. Each system is built for a specific industry, powered by agents that push real workflows forward. Underneath it all is Atlas, our proprietary platform that keeps customers in control, secure by design, and never locked into one model.</p>\n<h2>Why Now</h2>\n<p>Brain Co. is entering its next phase of production deployments on a national scale with an elite team built from Palantir, Google, Meta, and Nvidia, and a growing footprint across government, insurance, health, and financial services.</p>\n<p>Joining now means shaping both the company and a new category of applied AI. Every project here ships to production and is expected to create measurable customer value and impact.</p>\n<p>You'll work alongside exceptional peers on some of the hardest problems in applied AI. It’s the kind of work you'll still be proud of in ten years from now.</p>\n<h3><strong>About The Role</strong></h3>\n<p>As a Technical Program Manager, Strategy &#x26; Ops, you’ll be responsible to deliver technical, business, and organizational programs that shape how Brain Co. builds, operates, and scales. Your scope will span multiple programs and evolve with our priorities, giving you the opportunity to influence operations at the company level.</p>\n<h3><strong>What You'll Work On</strong></h3>\n<ul>\n<li>\n<p><strong>Define and deliver high-impact programs:</strong> Establish the business outcome, goals, scope, success criteria, and metrics for engineering and operational initiatives. Own execution from problem definition through delivery and handoff.</p>\n</li>\n<li>\n<p><strong>Drive cross-functional execution:</strong> Partner with Engineering, Product, Design, Finance, GTM, and other teams to align priorities, clarify ownership, resolve dependencies, and make decisions that unblock delivery.</p>\n</li>\n<li>\n<p><strong>Improve company-wide execution:</strong> Give leadership a clear view of progress, risks, and resource needs. Use that information to address recurring bottlenecks and improve delivery through better tools and lightweight processes</p>\n</li>\n<li>\n<p><strong>Help build the TPM function:</strong> Partner with TPM and engineering leadership to define where TPMs engage, how programs are run, and when work is ready for handoff. Contribute to shared practices, hiring, and onboarding as the team grows.</p>\n</li>\n</ul>\n<h3><strong>What We’re Looking For</strong></h3>\n<p><strong>Experience</strong></p>\n<ul>\n<li>\n<p>5+ years of experience in technical program management or a related engineering or operations role.</p>\n</li>\n<li>\n<p>BS in Computer Science, Engineering, or a related field, or equivalent practical experience.</p>\n</li>\n<li>\n<p>A track record of delivering complex technical programs from problem definition through execution and handoff.</p>\n</li>\n<li>\n<p>Experience aligning multidisciplinary teams and partners across time zones, influencing senior leadership, and building data-driven program health mechanisms that leaders use to make decisions.</p>\n</li>\n</ul>\n<p><strong>Skills &#x26; Attributes</strong></p>\n<ul>\n<li>\n<p>High agency, ownership, and a bias for action: You identify what needs to happen, take responsibility, and follow through autonomously.</p>\n</li>\n<li>\n<p>Comfort with ambiguity and competing priorities: You establish structure and direction where none exist, manage multiple programs, and make clear tradeoffs as business needs change.</p>\n</li>\n<li>\n<p>Cross-functional leadership: You build productive partnerships, influence without authority, resolve unclear ownership, establish trust, and drive decisions that unblock delivery.</p>\n</li>\n<li>\n<p>Strong analytical and program management judgment: You connect technical and business considerations, define clear goals and success criteria, and use data to guide execution.</p>\n</li>\n<li>\n<p>Sustainable improvements: Leave teams with tools, processes, and clear ownership they can maintain after handoff.</p>\n</li>\n<li>\n<p>Excellent written and verbal communication: You communicate effectively with engineers, executive stakeholders, and non-technical partners.</p>\n</li>\n<li>\n<p>AI fluency and curiosity: You regularly use AI tools to plan, track, and communicate programs, and actively explore ways AI can improve operations.</p>\n</li>\n</ul>\n<p><strong>Nice to Have</strong></p>\n<ul>\n<li>\n<p>Experience in a high-growth technology company with evolving priorities and operating models.</p>\n</li>\n<li>\n<p>Experience with AI/ML operations, including data labeling workflows and coordination with downstream teams and external partners.</p>\n</li>\n</ul>\n<h3><strong>Why Join Us</strong></h3>\n<ul>\n<li>\n<p>Drive strategy and execution for an applied AI company tackling the world’s most consequential challenges.</p>\n</li>\n<li>\n<p>Work directly with a world-class leadership team and investors.</p>\n</li>\n<li>\n<p>Accelerate your career in a high-growth environment where ownership is based on impact, not tenure.</p>\n</li>\n<li>\n<p>Thrive in a culture built on speed, curiosity, and impact.</p>\n</li>\n</ul>\n<h3><strong>Benefits</strong></h3>\n<ul>\n<li>\n<p>Competitive salary</p>\n</li>\n<li>\n<p>Medical, Dental, and Vision (100% Coverage)</p>\n</li>\n<li>\n<p>Paid Maternity and Paternity Leave</p>\n</li>\n<li>\n<p>401(k)</p>\n</li>\n<li>\n<p>Daily Lunches</p>\n</li>\n<li>\n<p>Commuter Benefits</p>\n</li>\n<li>\n<p>Unlimited PTO</p>\n</li>\n</ul><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/technical-program-manager-strategy-ops-brain-co</p>",
       "posted_at": "2026-11-09T21:11:05.064+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "b2d8f4f6-4c95-4d1a-8526-71950d4771c5",
-      "title": "Technical Program Manager, Security",
-      "url": "https://remotejobs.org/remote-jobs/technical-program-manager-security-brain-co",
-      "apply_url": "https://remotejobs.org/remote-jobs/technical-program-manager-security-brain-co",
-      "company": {
-        "name": "Brain Co.",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/055529db40645507d4c5ba1af65ce4f3cd1da822d4d9e33487d1d9b4f6b4c9c4.png",
-        "website": null,
-        "url": "https://remotejobs.org/companies/brain-co"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "San Francisco Bay Area",
-      "location_normalization": {
-        "raw": "San Francisco Bay Area",
-        "input": {
-          "workArrangement": "hybrid"
-        },
-        "scope": "unknown",
-        "status": "unknown",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [
-          "san francisco bay area"
-        ],
-        "work_arrangement": "hybrid",
-        "allowed_countries": [],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "worksite_countries": [
-          "US"
-        ],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "unknown",
-        "status": "unknown",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [],
-        "evidence_ids": [],
-        "allowed_regions": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": "manager",
-        "role_family": null,
-        "required_skills": [],
-        "mentioned_skills": [
-          "kubernetes"
-        ],
-        "preferred_skills": [],
-        "experience_requirements": []
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": null,
-      "salary_period": null,
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": "71cf2079-a1c5-4d32-8264-ef56639d15f9",
-      "direct_apply": null,
-      "description": "<h2>Our Mission</h2><p>Rebuild how the world works, to make institutions work better for the people they serve.</p><h2>About Brain Co.</h2><p>Brain Co. builds AI-native operating systems for large, regulated institutions. Each system is built for a specific industry, powered by agents that push real workflows forward. Underneath it all is Atlas, our proprietary platform that keeps customers in control, secure by design, and never locked into one model.</p><h2>Why Now</h2><p>Brain Co. is entering its next phase of production deployments on a national scale with an elite team built from Palantir, Google, Meta, and Nvidia, and a growing footprint across government, insurance, health, and financial services.</p><p>Joining now means shaping both the company and a new category of applied AI. Every project here ships to production and is expected to create measurable customer value and impact.</p><p>You'll work alongside exceptional peers on some of the hardest problems in applied AI. It’s the kind of work you'll still be proud of in ten years from now.</p><p>At Brain Co., we focus on applying frontier AI to real institutional challenges, working alongside governments, healthcare systems, and critical industries to modernize how essential services operate. We are looking for leaders who want to help bring new technology into institutions that impact millions of people.</p><p>Security work at Brain Co. does not stay inside the security team. Audit readiness needs Engineering, HR, Finance, and Legal. Enterprise deals stall on security questionnaires and customer security reviews. Identity spans IT and Security, and neither can finish it alone. Vulnerability remediation lands on engineering teams that don’t report to us. Someone has to own the delivery of that work end-to-end: the plan, the owners, the cadence, and the finish line. That’s this role.</p><p>Brain Co. carries one of the most demanding regulatory loads of any company our size: SOC 2 Type II and HIPAA in place today, with ISO 27001, NIST 800-171, and FedRAMP/GovRAMP on the near-term roadmap. That’s what it costs to sell to governments, hospitals, and financial institutions and done right, it’s how we win the next ones.</p><p>As our first Technical Program Manager on the Security team, you’ll run the security programs that touch every part of the company from the security review that unblocks a government deal, to the identity program that spans IT and Security, to the incident process the whole company depends on. You’ll report to the Head of Security as an individual contributor with the scope and trust to define how security programs run here.</p><p>This is not a ticket-herding job. You’ll be technical enough to read an IAM policy, follow an architecture diagram, and push back on a remediation plan that doesn’t hold up, and operational enough to turn a recurring mess into a system that runs without you in the room.</p><p>You won’t be doing this alone. Security, IT, GRC, Engineering, and GTM all want these programs to move. You’ll arrive with teams that are eager to be pulled in rather than dragged, and partners who’ll do the work if you give them a clear plan and a clear finish line. What’s been missing is the person who holds the whole picture, not the willingness to help.</p><p><strong>What You’ll Work On</strong></p><p>\t•\tDrive security sales enablement operations: the operational backbone of the customer trust surface. Security questionnaires, RFP security sections, the trust portal, DPA/BAA intake, and customer security reviews. Build the reusable answer library, evidence packages, and intake process so no deal restarts from scratch and security is never the reason a cycle slips in close partnership with GRC.</p><p>\t•\tVendor Management Process: Complete Vendor Security Reviews for vendors that will be both internal/ corporate vendors and vendors supporting customer facing products/ services. Understanding the difference between what is required for each of those types of vendors. Awhile looking for ways and streamline our vendor management process.</p><p>\t•\tSupport audit readiness as a delivery program, not a scramble. Own the plan behind SOC 2 Type II and HIPAA today and the path through ISO 27001, NIST 800-171, and FedRAMP/GovRAMP,  control owners, evidence collection, gap remediation tracking, auditor logistics, and readiness milestones, in close partnership with GRC.</p><p>•\tTurn vulnerability management into a continuous, self-managing program that runs at machine speed. Definitions, SLAs by severity, automated routing to the engineering teams that own the fix, an exception process people actually use, and dashboards that stay current on their own — so the program reports itself and only the exceptions reach a human.</p><p>\t•\tSupport the planning and tracking of GRC-related continuous monitoring activities to ensure all necessary compliance related requirements are being met. This may include, proper access provisioning/deprovision tasks are being evidenced, access reviews are being performed in proper cadence, BCP and IR testing, configuration reviews, etc.</p><p>\t•\tDrive security-heavy product launches as needed. Most launches won’t need you; some can’t ship without you. When security is load-bearing, such as government and healthcare deployments, multi-cloud environments, you’ll embed with the product and engineering teams and make sure threat modeling, security reviews, and sign-offs happen early enough to matter, with launch blockers surfaced before launch week.</p><p>\t•\tDrive cross functional corporate security programs across the company SaaS security posture and shadow IT, identity, insider risk, physical and office security, and security awareness and phishing programs. These programs live in everyone’s workflow and nobody’s job description; you’ll give them owners, a cadence, and measurable coverage.</p><p>\t•\tDrive security-heavy product launches as needed. Most launches won’t need you; some can’t ship without you. When security is load-bearing, government and healthcare deployments, on-prem environments, agent workloads running inside customer systems — you’ll embed with the product, engineering, security and IT teams and make sure dependencies and sign-offs happen early enough to matter, with launch blockers surfaced well before launching deadlines.</p><p>\t•\tOwn the operating process around incident management escalation paths, comms templates, tabletop exercises, incident commander support during live events, and post-incident reviews where the remediation items get driven to done, not filed.</p><p>\t•\tRun the security team’s operating cadence: roadmap and planning, program status, metrics and reporting to leadership, third-party risk operations, and the strategic initiatives that show up mid-quarter without a plan attached.</p><p>\t•\tBe the person who knows the state of the most critical security programs: who owns what, what’s at risk, what’s blocked, and what leadership needs to hear before they ask.</p><p><strong>You Might Be a Great Fit If You…</strong></p><p>\t•\tHave 5+ years in technical program or project management, including time spent on security, infrastructure, IT, or compliance programs.</p><p>\t•\tHave run cross-functional programs where you had zero formal authority over the people doing the work — and still landed them.</p><p>\t•\tCan hold your own with engineers. You can read an IAM policy, follow a cloud or Kubernetes architecture discussion, and tell the difference between a CVE that matters and one that doesn’t, without needing everything translated for you.</p><p>\t•\tHave run or been deep in at least one real audit cycle — SOC 2, HIPAA, ISO 27001, FedRAMP, or equivalent — on the delivery side, owning evidence and remediation rather than watching from a dashboard.</p><p>\t•\tHave supported the security side of enterprise deals: questionnaires, customer security reviews, and the calls where a customer’s security team asks the hard question.</p><p>\t•\tBuild systems instead of reporting status. When you see the same fire drill twice, your instinct is to build the intake, the template, or the automation that kills it.</p><p>\t•\tAre comfortable being the first TPM in a function, to build the systems driving the outcomes.</p><p>\t•\tWrite clearly. Much of this job is written: the program plan, the customer response, the executive update, the post-incident review.</p><p>\t•\tClose loops compulsively. Nothing you own goes quiet.</p><p><strong>Bonus Points For</strong></p><p>\t•\tHigh level privacy/legal documentation (e.g. DPAs, BAAs, etc.) review experience (e.g. you don’t need to be a lawyer but understanding what to look for and flag for review)</p><p>\t•\tHands-on experience with FedRAMP/GovRAMP, IL4/IL5, or equivalent government-customer compliance requirements, including on-prem deployments.</p><p>\t•\tA practitioner background in security engineering, IT, or GRC that you still use.</p><p>\t•\tFluency with compliance automation and security tooling — Vanta, Drata, Secureframe, vulnerability scanners, identity platforms — and the judgment to know when the tool is the wrong answer.</p><p>\t•\tExperience at an AI or ML-heavy company, including the novel security and evidence questions that come with model data and agent actions.</p><p>\t•\tTime as an incident commander or incident process owner.</p><p><strong>Why Join Us</strong></p><p>\t•\tOwn the delivery of security programs for an AI platform deployed in governments, hospitals, and critical industries worldwide — where the regulatory bar is real and the work matters.</p><p>\t•\tDefine the role 0→1. You’re the first security TPM here, with a direct line to the Head of Security and room to grow the scope as the company scales.</p><p>\t•\tLand with the org behind you. This role was created because teams across the company asked for it — you’ll have executive sponsorship and cross-functional partners who are genuinely eager to push these programs forward with you.</p><p>\t•\tDo work with visible impact: the programs you run are what unblock enterprise and government deals.</p><p>\t•\tWork alongside senior engineers from Tesla, DeepMind, Databricks, and other top engineering orgs who treat security as a partner, not a tax.</p><p>\t•\tEarn competitive compensation and meaningful equity in a high-growth company.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/technical-program-manager-security-brain-co</p>",
-      "posted_at": "2026-11-09T20:17:05.622+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "0ae3d57a-0f30-4bd8-b616-7e886e676de2",
-      "title": "Integrations Engineer",
-      "url": "https://remotejobs.org/remote-jobs/integrations-engineer-cloudbeds",
-      "apply_url": "https://remotejobs.org/remote-jobs/integrations-engineer-cloudbeds",
-      "company": {
-        "name": "Cloudbeds",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/3c5664dc93ce1957bf69ead60f3111c092e11db6b55a3ee9fafb7de9e549b70b.png",
-        "website": "https://cloudbeds.com",
-        "url": "https://remotejobs.org/companies/cloudbeds"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "Thailand",
-      "location_normalization": {
-        "raw": "Thailand",
-        "input": {},
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "TH"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [],
-        "evidence_ids": [
-          "c2",
-          "source-location"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "TH"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": null,
-        "role_family": null,
-        "required_skills": [],
-        "mentioned_skills": [
-          "csharp",
-          "java",
-          "php",
-          "python"
-        ],
-        "preferred_skills": [
-          "aws"
-        ],
-        "experience_requirements": []
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": null,
-      "salary_period": null,
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<p><strong>What Makes <a href=\"https://jobicy.com/company/cloudbeds\">Cloudbeds</a> Unique</strong></p><p>At <a href=\"https://www.cloudbeds.com/\">Cloudbeds</a>, we're not just building software, we're transforming hospitality. Our platform powers hotels across 150 countries, processing billions in bookings annually. From boutique properties to large hotel groups, we help hoteliers transform operations and uplevel their commercial strategy through a unified platform that integrates with hundreds of partners. And we do it with a completely remote team. Imagine working alongside global innovators to build AI-powered solutions that solve hoteliers' biggest challenges. Since our founding in 2012, we've continually been recognized for excellence, most recently earning top honors at the 2026 HotelTechAwards for Best Hotel Management Software and landing on Deloitte's Technology Fast 500 again, but we're just getting started.</p><p><strong>How You'll Make an Impact:</strong></p><p>Thailand is one of Cloudbeds’ largest and most important markets, and Thai hoteliers run on an integration stack most of the world never sees. Hundreds of our largest Thai properties depend on these connections every day, and when one breaks, a front desk agent stops being a host and servicing guests.</p><p>As our <strong>Integrations Developer</strong> in Thailand, you’ll be the engineer who makes that stack reliable. You’ll work hand in hand with our long-standing local integration partner, MecX Tech, and with Cloudbeds’ Integrations Product and Engineering teams, to diagnose and fix integration issues at the code level, harden the integrations our customers rely on most, and design and build new integrations for the Thai market.</p><p>This is a hands-on build role with a customer-facing edge. You’ll own the hardest technical escalations, ship the fixes, and then build the tooling, monitoring and documentation that stop the same problem from coming back. You’ll champion our AI Smarts + Hospitality Hearts mission by using AI-assisted development and automation to move fast, so more of your time goes to the problems that genuinely need an engineer.</p><p><strong>Our Integrations Team</strong></p><p>Cloudbeds connects to hundreds of partners across payments, accounting, distribution, access control, guest experience and government reporting. Our Integrations Product and Engineering teams design those connections, our partners build on our Open API, and our Customer Success team makes sure hoteliers get the outcome they were promised. You’ll sit at the center of all three for the Thai market, with a direct line into how integrations are prioritized, built and supported across APAC.</p><p><strong>What You Bring to the Team</strong></p><ul>\n<li><strong>Own the Thai Integration Stack Technically:</strong> Become the engineering subject matter expert on our Thailand integrations, starting with the MecX Tech portfolio: accounting (Carmen, FlowAccount), government guest reporting (TM30 / RR4), local payment gateways, door locks, ID and passport readers, and POS.</li>\n<li><strong>Fix It at the Source:</strong> Investigate integration failures end to end, across Cloudbeds APIs and webhooks, partner services, logs and data, and ship code-level fixes rather than workarounds. Serve as the primary technical escalation point for Support and Onboarding on these integrations.</li>\n<li><strong>Partner Engineering Liaison:</strong> Work day-to-day with MecX Tech and other Thai development partners as a technical peer: joint debugging, code and design reviews, shared issue logs, release coordination, and clear technical specs for partner-built work.</li>\n<li><strong>Harden and Modernize:</strong> Help bring the most business-critical integrations onto Cloudbeds-managed infrastructure and source control, with proper deployment, logging, monitoring, and alerting, so issues are caught before a hotelier has to report them.</li>\n<li><strong>Debug and Diagnose:</strong> Use your knowledge of C# to debug and diagnose issues within existing integrations, validate fixes with real customers, and build monitoring and tooling to keep things working smoothly.</li>\n<li><strong>Build Support Tooling:</strong> Create the diagnostic tools, runbooks, and dashboards that let Support and Onboarding resolve common integration issues without escalating to you.</li>\n<li><strong>Close the Loop with Product:</strong> Turn recurring field issues into well-evidenced bug reports, API improvement requests and product feedback. Advocate for the Thai market inside Cloudbeds.</li>\n<li><strong>Document Everything:</strong> Keep technical documentation, architecture notes, and knowledge base content current in both English and Thai.</li>\n</ul><p><strong>What Sets You Up for Success</strong></p><ul>\n<li><strong>Real Integration Engineering Depth:</strong> 4+ years building and supporting production integrations between third-party systems: REST APIs, webhooks, OAuth, JSON/XML payloads, data mapping, retries and error handling.</li>\n<li><strong>Solid Backend Skills:</strong> Professional experience with C# and MySQL is a must. Python, JAVA, PHP, JS are a big plus. You must be comfortable reading and debugging code you didn’t write.</li>\n<li><strong>Production Ownership:</strong> Experience with cloud hosting (AWS preferred), Git-based workflows, CI/CD, logging and monitoring. You’ve been on the hook for something that had to keep running.</li>\n<li><strong>Show Strong AI Smarts:</strong> You use AI coding and debugging tools as part of how you work, pick up unfamiliar systems quickly, and look for ways to automate the repetitive.</li>\n<li><strong>Hospitality:</strong> Experience with hotel technology, such as PMS, channel managers, payment gateways, POS, door locks or hotel accounting systems. Understanding night audit, revenue posting and how a hotel closes its day is a major plus.</li>\n<li><strong>Thai Market Fluency:</strong> Native or business-fluent <strong>Thai</strong> plus strong professional <strong>English</strong>. You can debug with a Thai partner’s developers in the morning and write a clear technical design for a global engineering team in the afternoon.</li>\n<li><strong>Works Independently:</strong> You are comfortable as the senior technical person in your time zone, set your own priorities, and know when and how to escalate.</li>\n<li><strong>Clear Communicator:</strong> Able to explain technical root causes and trade-offs to engineers, product managers, support agents, and non-technical hotel staff alike.</li>\n<li><strong>Inclusive Outlook:</strong> Comfortable working alongside people from diverse cultures and backgrounds across many time zones.</li>\n</ul><p><strong>Bonus Skills to Stand Out</strong></p><ul>\n<li>Direct experience with Carmen Software, FlowAccount, or another hotel back-office or accounting platform.</li>\n<li>Hands-on experience with TM30 / RR4 or other government guest reporting integrations.</li>\n<li>Experience integrating Thai or APAC payment gateways (for example, 2C2P, KBank, SCB, KTB, PromptPay).</li>\n<li>Experience with Windows-hosted services, desktop agents, or on-premises hardware integrations (door locks, ID readers, POS).</li>\n<li>Prior experience at or with a Thai hospitality technology partner, reseller, or system integrator.</li>\n<li>Experience with the Cloudbeds Open API or another PMS API.</li>\n</ul><p><strong>Work Authorization:</strong> Please note that applicants must be currently authorized to work in the location where the position is located without requiring visa sponsorship. At this time, Cloudbeds is unable to provide sponsorship for work visas.</p><p><strong>What to Expect - Your Journey with Us</strong></p><p>Behind Cloudbeds' revolutionary technology is a team redefining what's possible in hospitality. We're 650+ team members across 40+ countries, bringing together elite engineers, AI architects, world-class designers, hoteliers, and hospitality veterans to solve challenges others haven't dared to tackle. Our diverse team speaks 30+ languages, but we all share one language: a passion for innovation and travel. From pioneering breakthroughs in machine learning to revolutionizing how hotels operate, we're not just watching the future of hospitality unfold – we're coding it, designing it, writing it, and shipping it. If you're ready to work alongside some of the brightest minds in tech who are obsessed with using AI to transform a trillion-dollar industry, this is your chance to be part of something extraordinary.</p><p>Learn more online at <a href=\"https://www.cloudbeds.com/\">cloudbeds.com</a></p><p><strong>Cloudbeds <a href=\"https://www.cloudbeds.com/press/?press_type=company-news&#x26;news_category=awards\">Awards</a>:</strong></p><ul>\n<li>\n<p>Winner – Hotel Management Software | HotelTechAwards (2026)</p>\n</li>\n<li>\n<p>Overall 10 Best Places to Work | HotelTechAwards (2026)</p>\n</li>\n<li>\n<p>Overall Top 10 Hotelier's Choice | HotelTechAwards (2026)</p>\n</li>\n<li>\n<p>Finalist – Property Management Systems (PMS) &#x26; Channel Managers | HotelTechAwards (2026)</p>\n</li>\n<li>\n<p>Most Loved Workplace® Certified (2024)</p>\n</li>\n<li>\n<p>Deloitte Technology Fast 500 (2024)</p>\n</li>\n</ul><p><strong>Discover our Benefits:</strong></p><ul>\n<li>\n<p>Remote First, Remote Always</p>\n</li>\n<li>\n<p>PTO in accordance with local labor requirements</p>\n</li>\n<li>\n<p>Fully Paid Parental Leave</p>\n</li>\n<li>\n<p>Home office stipend based on country of residency</p>\n</li>\n<li>\n<p>Professional development courses in Cloudbeds University</p>\n</li>\n<li>\n<p>Access to professional development, including manager training, upskilling, and knowledge transfer</p>\n</li>\n</ul><p><strong>Everyone is Welcome - A Culture of Inclusion</strong></p><p>Cloudbeds is proud to be an Equal Opportunity Employer that celebrates the diversity in our global team! We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.</p><p>Cloudbeds is committed to the full inclusion of all qualified individuals. As part of this commitment, Cloudbeds will ensure that persons with disabilities are provided reasonable accommodations in the hiring process. We encourage deaf, hard-of-hearing, deaf-blind, and deaf-disabled individuals to apply. If reasonable accommodation is needed to participate in the job application or interview process or to perform essential job functions, please contact our HR team by phone at (858) 201-7832 or via email at accommodations@cloudbeds.com. Cloudbeds will provide an American Sign Language (ASL) interpreter where needed as a reasonable accommodation for the hiring process.</p><p>To all Staffing and Recruiting Agencies: Our Careers Site is only for individuals seeking a job at Cloudbeds. Staffing, recruiting agencies, and individuals being represented by an agency are not authorized to use this site or to submit applications, and any such submissions will be considered unsolicited. Cloudbeds does not accept unsolicited resumes or applications from agencies. Please do not forward resumes to our jobs alias, Cloudbeds employees, or any other company location. Cloudbeds is not responsible for any fees related to unsolicited resumes/applications.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/integrations-engineer-cloudbeds</p>",
-      "posted_at": "2026-11-09T19:39:31+00:00",
       "is_translated": false,
       "original_language": null
     },
@@ -11126,6 +11138,150 @@
       "original_language": null
     },
     {
+      "id": "86bb9125-2386-479d-a624-cfab230c019d",
+      "title": "Data Engineer II",
+      "url": "https://remotejobs.org/remote-jobs/data-engineer-ii-hinge-health",
+      "apply_url": "https://remotejobs.org/remote-jobs/data-engineer-ii-hinge-health",
+      "company": {
+        "name": "Hinge Health",
+        "logo_url": null,
+        "website": null,
+        "url": "https://remotejobs.org/companies/hinge-health"
+      },
+      "category": {
+        "name": "Data Science",
+        "slug": "data-science"
+      },
+      "location": "Bengaluru-HQ",
+      "location_normalization": {
+        "raw": "Bengaluru-HQ",
+        "input": {
+          "workArrangement": "hybrid"
+        },
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [
+          "bengaluru-hq"
+        ],
+        "work_arrangement": "hybrid",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "worksite_countries": [
+          "IN"
+        ],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [
+          "Asia/Kolkata"
+        ],
+        "conditions": [
+          {
+            "kind": "timezone",
+            "areas": [],
+            "effect": "require",
+            "details": "Time zones: San Francisco is in the Pacific Time Zone, 12 hours and 30 minutes behind India Standard Time. Hours: Applicants should be open to meetings in the late evening following India Standard Time to align with San Francisco working hours (8am - 6pm PT).",
+            "regions": [],
+            "timezones": [
+              "Asia/Kolkata"
+            ],
+            "evidence_id": "c3",
+            "conditional_on": null
+          }
+        ],
+        "unresolved": [
+          "The Bengaluru-based hybrid role requires office attendance 3 days/week at the Bengaluru HQ. This city-based work location cannot be represented by a country or subdivision area and is retained as an unsupported city work-location requirement.",
+          "Unresolved area: location:1, description:14, description:15, description:16"
+        ],
+        "evidence_ids": [
+          "c2",
+          "c3"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "hybrid",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": null,
+        "role_family": "data-engineering",
+        "required_skills": [],
+        "mentioned_skills": [
+          "aws",
+          "docker",
+          "postgresql",
+          "python",
+          "sql",
+          "terraform"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": [
+          {
+            "text": "2+ years of experience in processing and storing large scale data using distributed systems as well as working knowledge of database designs and data warehousing including star and snowflake schemas",
+            "maximum_years": null,
+            "minimum_years": 2,
+            "classification": "mentioned"
+          },
+          {
+            "text": "2+ years of experience",
+            "maximum_years": null,
+            "minimum_years": 2,
+            "classification": "mentioned"
+          },
+          {
+            "text": "1+ years of experience",
+            "maximum_years": null,
+            "minimum_years": 1,
+            "classification": "mentioned"
+          },
+          {
+            "text": "1+ years of experience",
+            "maximum_years": null,
+            "minimum_years": 1,
+            "classification": "mentioned"
+          },
+          {
+            "text": "1+ year experience",
+            "maximum_years": null,
+            "minimum_years": 1,
+            "classification": "mentioned"
+          }
+        ]
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "a59b0796-25b2-4731-aff7-4fb3403bfcdd",
+      "direct_apply": null,
+      "description": "<h2><strong>The Opportunity</strong></h2><p>Data Engineers at Hinge Health are software engineers who specialize in building data pipelines, designing and implementing both OLTP and data warehouse schemas, data governance, ETL, RDBMS, and NoSQL systems. They create self-service tools and automation so application engineers and data scientists can manage their data independently and securely, following best practices for HIPAA compliance. The ideal candidate is self-driven and enjoys working in a highly collaborative, cross-functional environment.</p><p>You will be working with a team of experienced data engineers who build and maintain a data platform that hosts petabytes of data. This platform supports key business decisions and powers important product features for our members.</p><p>Our stack:  Python, SQL, dbt, Metaplane, Airflow, PostgreSQL, REST, Docker,<a href=\"http://tonic.ai/\"> </a><a href=\"http://Tonic.ai\">Tonic.ai</a>, Terraform, Spark, Kafka, Flink,Fivetran, Databricks, AWS (S3, RDS). Our workflow is trunk-based CI/CD, and our security/compliance posture is at the highest standards of healthcare, including HIPAA, HITRUST, SOC 2, CCPA.</p><h2><strong>What You’ll Accomplish</strong></h2><ul><li><p>Build and maintain batch and streaming data pipelines that deliver correct, on-time data to analytics and product teams.</p></li><li><p>Implement dimensional data models and dbt transformations from a design that you and a senior engineer agree on.</p></li><li><p>Add data quality tests, monitors, and alerts to the pipelines that you own. Respond when they fire.</p></li><li><p>Apply the team's HIPAA and PII patterns when you handle member data. This includes access control, tagging, and audit trails.</p></li><li><p>Diagnose and tune slow or expensive pipelines and queries. Report the cause and the measured improvement.</p></li><li><p>Support business stakeholders and data scientists who use first-party and third-party data. Answer questions about the models that you build.</p></li><li><p>Turn a business requirement into a technical design for one pipeline or one data model. Write it down before you build.</p></li><li><p>Take part in on-call rotation for the data platform. Write and improve runbooks for the failures that you fix.</p></li></ul><h2><strong>Hinge Health Hybrid Model</strong></h2><p>We believe that remote work and in-person work have their own advantages and disadvantages, and we want to be able to leverage the best of both worlds. Employees in hybrid roles are required to be in the office 3 days/week.</p><p><strong>This is a Bengaluru-based role</strong> that involves regular interaction and collaboration with Hinge Health colleagues in San Francisco, CA.</p><ul><li><p><strong>Time zones:</strong> San Francisco is in the Pacific Time Zone, which is 12 hours and 30 minutes behind India Standard Time (e.g., 8am in San Francisco is 8:30pm in Bengaluru).</p></li><li><p><strong>Hours:</strong> Applicants should be open to meetings in the late evening following India Standard Time to align with San Francisco working hours (8am - 6pm PT).<br></p></li></ul><h2><strong>Basic Qualifications</strong></h2><ul><li><p>Bachelor’s Degree in Computer Science or related technical degree</p></li><li><p>3+ years of data engineering experience</p></li><li><p>2+ years of experience in processing and storing large scale data using distributed systems as well as working knowledge of database designs and data warehousing including star and snowflake schemas.</p></li><li><p>2+ years of experience working with broad spectrum of OLTP data stores like PostgreSQL,MySQL, MongoDB, Redis and OLAP stores like Databricks,Snowflake, Redshift</p></li><li><p>1+ years of experience building data pipelines using Spark, Kafka, Airflow</p></li><li><p>1+ years of experience designing and implementing data warehouse models (e.g., STAR, Snowflake), as well as developing ELT and ETL pipelines within data lake ecosystems</p></li></ul><h2><strong>Preferred Qualifications</strong></h2><ul><li><p>Mastery of SQL and Python</p></li><li><p>Working knowledge of IAC like terraform</p></li><li><p>Excellent verbal and written communication skills, especially in communicating complex technical problems with non-technical stakeholders</p></li><li><p>1+ year experience working with dbt</p></li><li><p>Knowledge of streaming systems like Flink, Kafka streams or spark streaming</p></li><li><p>Experience with managed data integration platforms like Fivetran,Estuary</p></li><li><p>Experience building data products that serve machine learning: feature pipelines, training datasets, or model-serving inputs.</p></li><li><p>Daily use of AI coding assistants, and interest in AI-powered self-serve analytics such as natural-language query over a data warehouse.</p></li></ul><h2><strong>About Hinge Health</strong></h2><p>At Hinge Health, we’re using technology to scale and automate the delivery of healthcare – starting with musculoskeletal (MSK) conditions, which affect over 1.7 billion people worldwide. With an AI-powered human-centered care model, Hinge Health leverages cutting-edge technology to improve outcomes, experiences and costs to help people move beyond their pain. The platform addresses a broad spectrum of MSK care – from acute injury, to chronic pain, to post-surgical rehabilitation – through personalized, evidence-based care.</p><p>As the preferred partner to 50+ health plans, PBMs and other ecosystem partners, Hinge Health is available to over 20 million people across more than 2,550 employers. The company is headquartered in San Francisco with additional offices in Montreal and Bangalore. Learn more at<a href=\"http://www.hingehealth.com/\"> </a><a href=\"http://www.hingehealth.com\">http://www.hingehealth.com</a></p><h2><strong>What You'll Love About Us</strong></h2><ul><li><p>Inclusive healthcare and benefits: In addition to comprehensive medical, dental, and vision coverage, we provide employees and their family members with Group Medical Coverage (GMC), Group Term Life Insurance (GTL), and Group Personal Accident Insurance (GPA).</p></li><li><p>We also offer a lifestyle stipend to support your overall well-being, along with learning and development opportunities to help you grow both personally and professionally.</p></li><li><p>Grow with us through discounted company stock through our ESPP with easy payroll deductions.</p></li></ul><h2><strong>Culture and Engagement</strong></h2><p>Hinge Health is an equal opportunity employer and prohibits discrimination and harassment of any kind. We make employment decisions without regards to race, color, religion, sex, sexual orientation, gender identity, national origin, age, veteran status, disability status, pregnancy, or any other basis protected by federal, state or local law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. We provide reasonable accommodations for candidates with disabilities. If you feel you need assistance or an accommodation due to a disability, let us know by reaching out to your recruiter. By submitting your application you are acknowledging we are using your personal data as outlined in the <a href=\"https://www.hingehealth.com/about/personnel-and-candidate-privacy-policy/\">personnel and candidate privacy policy.</a></p><p><br>Beware of Phishing Attempts: We've noticed an increase in phishing where fraudsters impersonate employees and send fake job offers to steal sensitive information. We'll never ask for financial details during the hiring process and only use \"@<a href=\"http://hingehealth.com\">hingehealth.com</a>\" emails. If you receive a suspicious offer, stop communication and report it to the US FBI Internet Crime Complaint Center. To verify an email from our recruiting team, forward it to <a href=\"https://app.ashbyhq.com/admin/organizational-settings/theme#\">security@hingehealth.com</a>.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/data-engineer-ii-hinge-health</p>",
+      "posted_at": "2026-11-10T06:36:43.33+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
       "id": "03840157-3972-47f9-9644-f2c4d7290198",
       "title": "(USA) Manager, Data Analytics",
       "url": "https://remotejobs.org/remote-jobs/usa-manager-data-analytics-walmart-internal",
@@ -14534,98 +14690,6 @@
       "direct_apply": null,
       "description": "<h2><strong>About Truelogic</strong></h2><p>At Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals.</p><p>Our team of 600+ highly skilled tech professionals, based in Latin America, drives digital disruption by partnering with U.S. companies on their most impactful projects. Whether collaborating with Fortune 500 giants or scaling startups, we deliver results that make a difference.</p><p>By applying for this position, you’re taking the first step in joining a dynamic team that values your expertise and aspirations. We aim to align your skills with opportunities that foster exceptional career growth and success while contributing to transformative projects that shape the future.</p><h2><strong>Our Client</strong></h2><p>The client is a digital transformation agency combining strategy, creativity, engineering, and data to help brands solve complex business challenges. It designs and builds digital products, customer experiences, platforms, and marketing solutions, integrating emerging technologies and artificial intelligence to modernize operations, strengthen customer engagement, and support measurable business growth globally.</p><p><br><strong>Job Summary</strong></p><p>The Data Architect will lead the design of scalable enterprise data platforms, translating client business requirements into technical strategies and guiding engineering teams through implementation. Combining architectural leadership, client advisory, and hands-on expertise, this role covers cloud platforms, distributed systems, APIs, data pipelines, and AI/ML integration. Responsibilities include architecture documentation, discovery workshops, platform evaluation, governance, and technical pre-sales. The ideal candidate brings strong Python and SQL skills, sound architectural judgment, and experience aligning technical, executive, and creative stakeholders around solutions.</p><h3><strong>Responsibilities</strong></h3><ul><li><p>Lead solution design and architectural decisions for medium to large client engagements involving data platforms, pipelines, and AI-enabled workflows.</p></li><li><p>Assess existing enterprise architectures, identify gaps, and define future-state roadmaps.</p></li><li><p>Produce and present system diagrams, integration maps, architecture decision records, and technical standards.</p></li><li><p>Guide engineering teams through implementation, contributing hands-on during critical phases and mentoring engineers on architectural decisions.</p></li><li><p>Facilitate discovery workshops with client engineering, data, and IT stakeholders to translate business requirements into system designs.</p></li><li><p>Evaluate cloud data platforms, frameworks, and third-party integrations against client requirements and constraints.</p></li><li><p>Design distributed data pipelines, composable platforms, and API-first ecosystems incorporating AI/ML capabilities.</p></li><li><p>Connect marketing data sources, including GA4, advertising platforms, CRMs, and CDPs, to analytics and machine learning workloads.</p></li><li><p>Align architectures with enterprise security, privacy, compliance, and governance requirements while mitigating architectural risks.</p></li><li><p>Support technical pre-sales, RFP responses, SOW development, and executive solution presentations.</p></li></ul><h3><strong>Qualifications and Job Requirements</strong></h3><ul><li><p>7+ years of software or data engineering experience, including 2+ years focused on architecture or solution design.</p></li><li><p>Broad expertise across cloud infrastructure, APIs, data platforms, and modern technology ecosystems.</p></li><li><p>Deep expertise in cloud data platforms such as Snowflake, Databricks, BigQuery, or Redshift, with the ability to explain architectural trade-offs.</p></li><li><p>Proficiency in Python and SQL for data processing and ETL.</p></li><li><p>Experience designing scalable, maintainable distributed systems and API ecosystems at enterprise scale.</p></li><li><p>Experience integrating AI/ML capabilities into data pipelines, with exposure to generative AI applications.</p></li><li><p>Hands-on experience with AI-powered coding tools, agentic engineering, and AI-enabled workflows.</p></li><li><p>Experience applying data governance, privacy compliance, and security best practices.</p></li><li><p>Proven ability to work directly with client technical teams, translate business needs into architecture, and act as a trusted technical advisor.</p></li><li><p>Experience producing and presenting architecture artifacts to technical and executive audiences.</p></li><li><p>Strong stakeholder management skills, with the ability to build technical consensus across engineering, business, and creative teams.</p></li></ul><h3><strong>What We Offer</strong></h3><ul><li><p>100% Remote Work: Enjoy the freedom to work from the location that helps you thrive. All it takes is a laptop and a reliable internet connection.</p></li><li><p>Highly Competitive USD Pay: Earn an excellent, market-leading compensation in USD, that goes beyond typical market offerings.</p></li><li><p>Paid Time Off: We value your well-being. Our paid time off policies ensure you have the chance to unwind and recharge when needed.</p></li><li><p>Work with Autonomy: Enjoy the freedom to manage your time as long as the work gets done. Focus on results, not the clock.</p></li><li><p>Work with Top American Companies: Grow your expertise working on innovative, high-impact projects with Industry-Leading U.S. Companies.</p></li></ul><h3><strong>Why You’ll Like Working Here</strong></h3><ul><li><p>A Culture That Values You: We prioritize well-being and work-life balance, offering engagement activities and fostering dynamic teams to ensure you thrive both personally and professionally.</p></li><li><p>Diverse, Global Network: Connect with over 600 professionals in 25+ countries, expand your network, and collaborate with a multicultural team from Latin America.</p></li><li><p>Team Up with Skilled Professionals: Join forces with senior talent. All of our team members are seasoned experts, ensuring you're working with the best in your field.</p></li></ul><p>Apply now!</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-data-architect-digital-transformation-latam-truelogic-5a50e8c48c4948698983195750c5ed4b</p>",
       "posted_at": "2026-11-03T18:58:45.437+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "6cc22ec9-e7e3-40b0-bd36-32c936eca318",
-      "title": "Senior Data Architect - Digital Transformation - LATAM",
-      "url": "https://remotejobs.org/remote-jobs/senior-data-architect-digital-transformation-latam-truelogic-06a8dc6e3bfa482fb2651ff2e46f4bfb",
-      "apply_url": "https://remotejobs.org/remote-jobs/senior-data-architect-digital-transformation-latam-truelogic-06a8dc6e3bfa482fb2651ff2e46f4bfb",
-      "company": {
-        "name": "Truelogic",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/2bc30cf616bdb3e327981ebbdabc39dda60953ebc503d060766006aaaada3b5d.png",
-        "website": "https://truelogic.io",
-        "url": "https://remotejobs.org/companies/truelogic"
-      },
-      "category": {
-        "name": "Data Science",
-        "slug": "data-science"
-      },
-      "location": "Peru",
-      "location_normalization": {
-        "raw": "Peru",
-        "input": {
-          "workArrangement": "remote"
-        },
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "remote",
-        "allowed_countries": [
-          "PE"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "worksite_countries": [
-          "PE"
-        ],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [],
-        "evidence_ids": [
-          "source-location"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "remote",
-        "allowed_countries": [
-          "PE"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": "senior",
-        "role_family": "data-engineering",
-        "required_skills": [],
-        "mentioned_skills": [
-          "python",
-          "sql"
-        ],
-        "preferred_skills": [],
-        "experience_requirements": []
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": null,
-      "salary_period": null,
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": "e1735a8c-1b92-4795-87ca-4b81aab4b0c1",
-      "direct_apply": null,
-      "description": "<h2><strong>About Truelogic</strong></h2><p>At Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals.</p><p>Our team of 600+ highly skilled tech professionals, based in Latin America, drives digital disruption by partnering with U.S. companies on their most impactful projects. Whether collaborating with Fortune 500 giants or scaling startups, we deliver results that make a difference.</p><p>By applying for this position, you’re taking the first step in joining a dynamic team that values your expertise and aspirations. We aim to align your skills with opportunities that foster exceptional career growth and success while contributing to transformative projects that shape the future.</p><h2><strong>Our Client</strong></h2><p>The client is a digital transformation agency combining strategy, creativity, engineering, and data to help brands solve complex business challenges. It designs and builds digital products, customer experiences, platforms, and marketing solutions, integrating emerging technologies and artificial intelligence to modernize operations, strengthen customer engagement, and support measurable business growth globally.</p><p><br><strong>Job Summary</strong></p><p>The Data Architect will lead the design of scalable enterprise data platforms, translating client business requirements into technical strategies and guiding engineering teams through implementation. Combining architectural leadership, client advisory, and hands-on expertise, this role covers cloud platforms, distributed systems, APIs, data pipelines, and AI/ML integration. Responsibilities include architecture documentation, discovery workshops, platform evaluation, governance, and technical pre-sales. The ideal candidate brings strong Python and SQL skills, sound architectural judgment, and experience aligning technical, executive, and creative stakeholders around solutions.</p><h3><strong>Responsibilities</strong></h3><ul><li><p>Lead solution design and architectural decisions for medium to large client engagements involving data platforms, pipelines, and AI-enabled workflows.</p></li><li><p>Assess existing enterprise architectures, identify gaps, and define future-state roadmaps.</p></li><li><p>Produce and present system diagrams, integration maps, architecture decision records, and technical standards.</p></li><li><p>Guide engineering teams through implementation, contributing hands-on during critical phases and mentoring engineers on architectural decisions.</p></li><li><p>Facilitate discovery workshops with client engineering, data, and IT stakeholders to translate business requirements into system designs.</p></li><li><p>Evaluate cloud data platforms, frameworks, and third-party integrations against client requirements and constraints.</p></li><li><p>Design distributed data pipelines, composable platforms, and API-first ecosystems incorporating AI/ML capabilities.</p></li><li><p>Connect marketing data sources, including GA4, advertising platforms, CRMs, and CDPs, to analytics and machine learning workloads.</p></li><li><p>Align architectures with enterprise security, privacy, compliance, and governance requirements while mitigating architectural risks.</p></li><li><p>Support technical pre-sales, RFP responses, SOW development, and executive solution presentations.</p></li></ul><h3><strong>Qualifications and Job Requirements</strong></h3><ul><li><p>7+ years of software or data engineering experience, including 2+ years focused on architecture or solution design.</p></li><li><p>Broad expertise across cloud infrastructure, APIs, data platforms, and modern technology ecosystems.</p></li><li><p>Deep expertise in cloud data platforms such as Snowflake, Databricks, BigQuery, or Redshift, with the ability to explain architectural trade-offs.</p></li><li><p>Proficiency in Python and SQL for data processing and ETL.</p></li><li><p>Experience designing scalable, maintainable distributed systems and API ecosystems at enterprise scale.</p></li><li><p>Experience integrating AI/ML capabilities into data pipelines, with exposure to generative AI applications.</p></li><li><p>Hands-on experience with AI-powered coding tools, agentic engineering, and AI-enabled workflows.</p></li><li><p>Experience applying data governance, privacy compliance, and security best practices.</p></li><li><p>Proven ability to work directly with client technical teams, translate business needs into architecture, and act as a trusted technical advisor.</p></li><li><p>Experience producing and presenting architecture artifacts to technical and executive audiences.</p></li><li><p>Strong stakeholder management skills, with the ability to build technical consensus across engineering, business, and creative teams.</p></li></ul><h3><strong>What We Offer</strong></h3><ul><li><p>100% Remote Work: Enjoy the freedom to work from the location that helps you thrive. All it takes is a laptop and a reliable internet connection.</p></li><li><p>Highly Competitive USD Pay: Earn an excellent, market-leading compensation in USD, that goes beyond typical market offerings.</p></li><li><p>Paid Time Off: We value your well-being. Our paid time off policies ensure you have the chance to unwind and recharge when needed.</p></li><li><p>Work with Autonomy: Enjoy the freedom to manage your time as long as the work gets done. Focus on results, not the clock.</p></li><li><p>Work with Top American Companies: Grow your expertise working on innovative, high-impact projects with Industry-Leading U.S. Companies.</p></li></ul><h3><strong>Why You’ll Like Working Here</strong></h3><ul><li><p>A Culture That Values You: We prioritize well-being and work-life balance, offering engagement activities and fostering dynamic teams to ensure you thrive both personally and professionally.</p></li><li><p>Diverse, Global Network: Connect with over 600 professionals in 25+ countries, expand your network, and collaborate with a multicultural team from Latin America.</p></li><li><p>Team Up with Skilled Professionals: Join forces with senior talent. All of our team members are seasoned experts, ensuring you're working with the best in your field.</p></li></ul><p>Apply now!</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-data-architect-digital-transformation-latam-truelogic-06a8dc6e3bfa482fb2651ff2e46f4bfb</p>",
-      "posted_at": "2026-11-03T18:58:27.434+00:00",
       "is_translated": false,
       "original_language": null
     }
