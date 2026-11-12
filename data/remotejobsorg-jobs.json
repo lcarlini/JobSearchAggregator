@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T13:43:24.578Z",
+  "generatedAt": "2026-11-12T00:09:46.681Z",
   "count": 150,
   "data": [
     {
@@ -891,7 +891,29 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -5152,6 +5174,102 @@
       "original_language": null
     },
     {
+      "id": "8cd2a037-28f1-44e5-ad49-7d3a9a3900ed",
+      "title": "Staff Developer, Authentication Enablement",
+      "url": "https://remotejobs.org/remote-jobs/staff-developer-authentication-enablement-1password",
+      "apply_url": "https://remotejobs.org/remote-jobs/staff-developer-authentication-enablement-1password",
+      "company": {
+        "name": "1Password",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/32f3b6ef758dff3134b7249f949bd338c1cd4d628fc4a0526da5ac5bacd9509d.webp",
+        "website": "https://1password.com",
+        "url": "https://remotejobs.org/companies/1password"
+      },
+      "category": {
+        "name": "DevOps",
+        "slug": "devops"
+      },
+      "location": "Remote (United States | Canada)",
+      "location_normalization": {
+        "raw": "Remote (United States | Canada)",
+        "input": {
+          "workArrangement": "remote"
+        },
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "CA",
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "c1",
+          "c2"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "CA",
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": "staff",
+        "role_family": null,
+        "required_skills": [],
+        "mentioned_skills": [
+          "cpp",
+          "csharp",
+          "golang",
+          "java",
+          "python",
+          "rust"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": []
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "8ff17ade-462e-4afe-9255-b4193d0b8424",
+      "direct_apply": null,
+      "description": "<p><em><strong>1Password is growing.</strong> We’ve surpassed $500M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing.</em></p><p><strong>About 1Password</strong></p><p><em>At 1Password, we’re building the foundation for a safe, productive digital future. Our mission is to unleash employee productivity without compromising security by ensuring every identity is authentic, every application sign-in is secure, and every device is trusted. We innovated the market-leading enterprise password manager and pioneered Unified Access Management, a new cybersecurity category built for the way people and AI agents work today. As one of the most loved brands in cybersecurity, we take a human-centric approach in everything from product strategy to user experience. Over 180,000 businesses, from Fortune 100 leaders to the world’s most innovative AI companies, trust 1Password to help their teams securely adopt the SaaS and AI tools they need to do their best work.</em></p><p><em>If you're excited about the opportunity to contribute to the digital safety of millions, to work alongside a team of curious, driven individuals, and to solve hard problems in a fast-paced, dynamic environment, then we want to hear from you. Come join us and help shape a safer, simpler digital future.</em></p><p>We're looking for a Staff Developer to join our Authentication Enablement team. Our mission is to help people, families and businesses unlock 1Password and access their information safely and simply, with authentication that stays in the background. Every 1Password app establishes its session with our servers through the service this team owns, whether the user signs in with a password and Secret Key, SSO, a passkey, MFA or a trusted device.</p><p>As a Staff Developer, you’ll help move authentication out of the monolith and into an independent service with its own data, so sign-in can scale and stay available independently of the rest of the platform. The service continues to handle production traffic throughout the migration, so we’re moving endpoint by endpoint and table by table, with weighted rollouts, consistency checks and tested rollback procedures. You'll help set the technical direction for the migration and for new authentication services, as 1Password extends trusted access to AI agents.</p><p><strong>How we’re using AI today</strong></p><p>Our Engineering, Product, and Design teams are thoughtfully integrating AI across the full software and product development lifecycle to move faster without sacrificing quality or security. In practice, that looks like engineers using AI-assisted coding tools to accelerate reviews and catch bugs earlier, product managers synthesizing user research at scale, and designers rapidly prototyping and iterating with AI-generated mockups. We approach AI the same way we approach security: with clear principles, human accountability at every consequential decision point, and rigorous evaluation before anything ships to customers.</p><p>This is a remote opportunity within Canada and the US.</p><p><strong>What we're looking for:</strong></p><ul><li><p>Significant experience building and operating backend services.</p></li><li><p>Deep expertise with distributed systems and data: moving live traffic or data between systems without downtime, event streaming or change data capture, and keeping two sources of truth consistent through a cutover.</p></li><li><p>Strong experience designing asynchronous workflows and migrating synchronous processes that depend on large atomic transactions to eventually consistent designs, while preserving correctness, clarifying tradeoffs, and improving performance.</p></li><li><p>Working knowledge of authentication and authorization technologies such as OAuth, OIDC, WebAuthn, passkeys, or MFA, including common implementation pitfalls and security risks.</p></li><li><p>A track record of setting technical direction for a team: owning large, multi-quarter projects, writing the designs others build from, and explaining tradeoffs to engineers and leadership alike.</p></li><li><p>You raise the engineers around you through reviews, design feedback and mentoring, and you work to hand off ownership rather than holding on.</p></li></ul><p><strong>Bonus points for:</strong></p><ul><li><p>Extensive experience with Go or another backend language such as Java, C#, Rust, C++, or Python.</p></li><li><p>Experience extracting services from a monolith.</p></li><li><p>Experience with MySQL, Redis, Kafka, and DynamoDB at scale.</p></li><li><p>Familiarity with Secure Remote Password protocol.</p></li><li><p>Owning services with strict availability targets, including SLOs, on-call and incident response.</p></li></ul><p><strong>What you can expect:</strong></p><ul><li><p>Lead a portion of the authentication service's roadmap for the next 12 months, and work closely with leadership to ensure that planning reflects the full scope of requirements.</p></li><li><p>Own significant designs in the remaining migration: moving session and device management flows, switching source of truth one provable iteration at a time, and publishing authentication events for other services to consume.</p></li><li><p>Make and document the team's technical decisions, weighing reliability and security against delivery.</p></li><li><p>Set the team's standards for testing, observability and safe rollout, so regressions surface before customers see them.</p></li><li><p>Build the platform pieces the service needs when 1Password doesn't have them yet, and work with sibling teams to propagate new distributed system standards across the organization.</p></li><li><p>Partner with the Authorization, Identity Services and Security teams, and guide the product teams whose features depend on authentication as they integrate with the service.</p></li><li><p>Hold AI-assisted work on security-critical code to the same bar as everything else: human judgment, careful validation and small, reviewable changes.</p></li><li><p>Participate in the 24/7 on-call rotation for tier-one services.</p></li></ul><p>USA-based roles only: The annual base salary for this role is between $192,000 USD and $278,000 USD, plus immediate participation in 1Password's benefits program (health, dental, 401k and many others), utilization of our generous paid time off, an equity grant and, where applicable, participation in our incentive programs.</p><p>Canada-based roles only: The annual base salary for this role is between $167,000 CAD and $242,000 CAD, plus immediate participation in 1Password’s generous benefits program (health, dental, RRSP and many others), utilization of our generous paid time off, an equity grant and, where applicable, participation in our incentive programs.</p><p>At 1Password, we approach each individual's compensation with a promise of fair market value and internal equity commensurate with experience and specific skill set.<br><br><em>This posting is for an existing vacancy.</em><br></p><p><br><strong>Our culture </strong><br>At 1Password, we prioritize collaboration, clear and transparent communication, receptiveness to feedback, and alignment with our core values: keep it simple, lead with honesty, and put people first. <br><br>You’ll be part of a team that challenges the status quo, and is excited to experiment and iterate in search of the best solution. That said, <a href=\"https://blog.1password.com/inside-the-culture-powering-1passwords-next-chapter/\"><em>1Password is not for everyone</em></a>. Our work is demanding, we strive for excellence, and the pace is fast. We need people who are keen to take on challenging problems, who seek feedback to grow, and who are driven to make an impact. If you're looking for a place where you can settle into a comfortable routine, this might not be the right fit for you. We’re looking for individuals who are proven experts in their fields, as well as those who are highly adaptable, can thrive in ambiguity and through change, are curious, and above all deliver results. <br><br><strong>How we work with AI</strong><br>We are committed to leveraging cutting-edge technology—including AI—to achieve our mission. We also understand that thinking critically about AI in its current forms will help us create better solutions for our customers and ourselves with its future forms, which will help us continue to close the gap between security and privacy and achieve our mission. We want team members at all levels to take the approach of actively learning AI best practices, identifying opportunities to apply AI in meaningful ways, and driving innovative solutions in their daily work. Embracing the future of AI isn't just encouraged—it's an essential part of how we will be successful at 1Password.</p><p>This approach extends to our hiring process—candidates are welcome to use AI tools responsibly and thoughtfully during the application process. To us, this means we do ask that you join live interviews without using AI tools so we can get to know how you communicate, solve problems, and collaborate with others.<br><br><strong>Our approach to remote work </strong><br>We believe in the power of remote work, but recognize that in-person connection is important to help us achieve our mission. While we are a remote-first company, travel for in-person engagement is a part of almost all roles, and we require our employees to be ready and willing to take part. Frequency will depend on role and responsibilities, and may include, but is not limited to: annual department-wide offsites, team meetings, and customer/industry events.<br><br><strong>What we offer</strong><br>We believe in working hard, and rewarding that hard work through our benefits. While not an exhaustive list, here is a glance at what we currently offer: <br><br><em>Health and wellbeing</em><br>👶 Maternity and parental leave top-up programs<br>🩺 Competitive health benefits<br>🏝 Generous PTO policy <br><br><em> Growth and future </em><br>📈 RSU program for most employees<br>💸 Retirement matching program<br>🔑 Free 1Password account<br><br><em>Community </em><br>🤝 Paid volunteer days <br>🏆 Peer-to-peer recognition through Bonusly<br>🌎 Remote-first work environment<br><em>*Some roles in our GTM team are currently being hired for in-person hybrid work in Toronto and Austin. These roles will specify on the posting.</em></p><p><strong>You belong here.</strong></p><p><em>1Password is proud to be an equal opportunity employer. We are committed to fostering an inclusive, diverse and equitable workplace that is built on trust, support and respect. We welcome all individuals and do not discriminate on the basis of gender identity and expression, race, ethnicity, disability, sexual orientation, colour, religion, creed, gender, national origin, age, marital status, pregnancy, sex, citizenship, education, languages spoken or veteran status. Be yourself, find your people and share the things you love.</em></p><p><em>Accommodation is available upon request at any point during our recruitment process. If you require an accommodation, please speak to your talent acquisition partner or email us at nextbit@agilebits.com and we’ll work to meet your needs.</em></p><p><em>Remote work is a part of our DNA. Given that our company was founded remotely in 2005, we can safely say we're experts at building remote culture. That said, remote work at 1Password does mean working from your home country. If you've got questions or concerns about this, your talent partner would be happy to address them with you.</em></p><p><em>Successful applicants will be required to complete a background check that may consist of prior employment verification, reference checks, education confirmation, criminal background, publicly available social media, credit history, or other information, as permitted by local law.</em></p><p><em>1Password uses artificial intelligence (AI) and machine learning (ML) technologies, including natural language processing and predictive analytics, to assist in the initial screening of employment applications and improve our recruitment process. See </em><a href=\"https://www.ashbyhq.com/downloadables/ashby-bias-audit-08-2024.pdf\"><em>here</em></a><em> for the latest third party bias audit information. If you prefer not to have your application assessed using AI/ML features, you may opt out by completing </em><a href=\"https://jobs.ashbyhq.com/1password/automation-notice\"><em>this form</em></a><em>. For additional information see our </em><a href=\"https://1password.com/files/candidate-privacy-notice.pdf\"><em>Candidate Privacy Notice</em></a><em>.</em></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/staff-developer-authentication-enablement-1password</p>",
+      "posted_at": "2026-11-11T06:41:57.507+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
       "id": "8aa9b381-26bb-426b-9e98-0e260fac07fe",
       "title": "Azure network and security architect (Cloud Area)",
       "url": "https://remotejobs.org/remote-jobs/azure-network-and-security-architect-cloud-area-aqilea",
@@ -5967,108 +6085,6 @@
       "direct_apply": null,
       "description": "<p><a href=\"https://jobicy.com/company/caylent\">Caylent</a> is an AI-first cloud services company that helps organizations turn ambitious ideas into meaningful business impact. As an AWS Premier Tier Services Partner and a charter member of Anthropic’s Claude Partner Network, we combine deep expertise in AWS, artificial intelligence, and Anthropic’s Claude platform to help customers modernize their technology, build intelligent products, and move AI from experimentation into production.</p><p>Our capabilities span generative and agentic AI, cloud migration and modernization, cloud-native application development, data and analytics, DevOps, managed services, security and compliance, and customer experience transformation. At Caylent, our people always come first.</p><p>We are a fully remote global company with employees in Canada, the United States and Latin America. We celebrate the culture of each of our team members and foster a community of technological curiosity. Come talk to us to learn more about what it means to be a Caylien!</p><p><strong>The Mission</strong></p><p>We are seeking a talented <strong>Senior Cloud Architect</strong> to join our growing Managed Service Provider (MSP) team. The right candidate is someone who ….</p><p><strong>Your Assignment</strong></p><ul>\n<li><strong>Architecture and solutions</strong>\n<ul>\n<li>Lead client engagements</li>\n<li>Provide thought leadership around scalable next-generation cloud architecture experience and operational guidance to clients</li>\n<li>Lead cross-functional implementation teams to deliver world-class solutions to clients</li>\n<li>Own the implementation of stories and other engineering of advanced cloud work for clients</li>\n<li>Write Infrastructure as Code (IaC) in multiple frameworks and can break apart projects into independent components at an appropriate level, taking into account different aspects of a stack and know how to build stability and security into them.</li>\n<li>Help clients get work done smarter with automation and code</li>\n<li>Lead a team to navigate complex bureaucratic relationships to bring all stakeholders together around a common product vision and strategy</li>\n<li>Lead re-platforming and refactoring efforts for existing systems</li>\n<li>Lead Client discovery and the creation of a prioritized backlog for continuous improvement initiatives</li>\n</ul>\n</li>\n<li><strong>Observability and Monitoring</strong>\n<ul>\n<li>Design, implement, and build scalable architectures leveraging AWS services with an emphasis on reliability, security, and cost efficiency.</li>\n<li>Build and maintain observability solutions using AWS native (e.g., CloudWatch, X-Ray, Config) and partner tools (e.g. Datadog, Dynatrace, OpenTelemetry) for APM, infrastructure monitoring, logging, and tracing.</li>\n<li>Work with a 24x7 response team and operations leadership group to help establish the precise collection of metrics, data and logs needed to properly monitor an application or workload</li>\n<li>Within this observability framework help establish corresponding runbooks and automation that can be deployed when certain metrics and conditions (monitoring) are met</li>\n<li>Work with the CloudOps teams in effort to reduce noise and address root causes of issues surfaced</li>\n<li>Partner with DevOps and security teams to ensure the necessary resilience, security, and cost-optimization features are embedded in solutions</li>\n</ul>\n</li>\n<li><strong>General</strong>\n<ul>\n<li>Learn, coach, and share knowledge and skills with other team members</li>\n<li>Prepare work for team members of varying levels of experience, defining stories and task type work</li>\n<li>Contribute to internal IP and open source development</li>\n<li>Participate in delivery efforts using Agile or other work methodologies</li>\n<li>Build relationships with vendors and partners</li>\n<li>Engage with clients including presentations, technical decisions, and education opportunities</li>\n<li>Learn, research, and stay up to date on best practices and evolutionary capability in the Amazon Web Services (AWS) cloud</li>\n<li>Be a technical team advocate, ensuring clear direction and efficient execution</li>\n<li>Perform code reviews, provide feedback, and pair when beneficial</li>\n<li>Keep an eye out for opportunities to support our clients in even greater ways</li>\n<li>Write cool blog posts, do talks at community events, help us achieve additional certifications in the AWS Partner Community, help our clients solve all sorts of problems</li>\n<li>Occasional travel may be required to meet stakeholders, kick off new projects, attend conferences, and attend company functions.</li>\n<li>Other duties as assigned</li>\n</ul>\n</li>\n</ul><p><strong>Your Qualifications</strong></p><ul>\n<li>Bachelor's degree in Information Technology, Computer Science, or a related field and 6 years of general IT experience (programming, hardware, software, etc); or 8+ years of general IT experience (programming, hardware, software, etc.)</li>\n<li>4+ years of experience with Amazon Web Services</li>\n<li>2+ year code-defined infrastructure experience</li>\n<li>2+ Continuous Integration and Delivery (CI/CD) experience</li>\n<li>Have worked with Agile Project Management or other project management work methodologies.</li>\n<li>4 years experience with Cloud Native patterns with services like AWS Lambda</li>\n<li>4 years experience architecting and building scalable, automated infrastructure</li>\n</ul><p><strong>Preferred Qualifications</strong></p><ul>\n<li>AWS Associate and/or Professional Level Certification</li>\n<li>2+ years of programming experience utilizing Python, Node.js, Typescript, GoLang, Java, C#, or other similar languages</li>\n<li>Intermediate experience building scalable, automated infrastructure</li>\n<li>Intermediate experience in large-scale enterprise IT environments</li>\n<li>Intermediate experience working in a consultative, client-facing consulting role</li>\n<li>Intermediate experience with Cloud Native patterns with services like AWS Lambda</li>\n<li>Experience with and knowledge of AWS and application Observability concepts and methods Able to demonstrate effective verbal and written communication skills</li>\n<li>Demonstrated documentation and presentation skills</li>\n</ul><p><strong>Competencies</strong></p><ul>\n<li>Communication: The ability to effectively convey information, ideas, and instructions to individuals or groups, both verbally and in writing.</li>\n<li>Time Management: The ability to effectively plan and organize one's own time in order to meet deadlines, prioritize tasks, and make the most efficient use of time.</li>\n<li>Self Management: The ability to manage one's own emotions, thoughts, and behavior in different situations.</li>\n<li>Building Work Relationships: The ability to establish and maintain positive and productive relationships with colleagues, clients, and other stakeholders.</li>\n<li>Problem Analysis: The ability to identify, understand, and analyze problems in order to find solutions.</li>\n<li>Persuasiveness: The ability to effectively present and argue one's own ideas and opinions, as well as influence others to adopt a certain viewpoint or take a specific action.</li>\n<li>Technical expertise: The ability to understand, apply, and stay current with the knowledge, concepts, and practices in a specific field or industry.</li>\n<li>Leadership: The ability to guide and inspire a team to achieve a common goal.</li>\n<li>Planning: The ability to set goals, develop action plans, and effectively allocate resources in order to achieve desired outcomes.</li>\n<li>Business development: The ability to identify and pursue new business opportunities, including the ability to generate leads, build relationships, and close deals.</li>\n</ul><h2>Benefits</h2><ul>\n<li>Medical Insurance for you and eligible dependents </li>\n<li>401k plan with company match up to 4% and immediate vesting</li>\n<li>Competitive phantom equity</li>\n<li>Company issued laptop</li>\n<li>Dental and Vision insurance</li>\n<li>Term Disability Insurance</li>\n<li>Term Life Insurance</li>\n<li>Flexible Spending Account</li>\n<li>Equipment &#x26; Office Stipend</li>\n<li>Annual stipend for Learning and Development</li>\n<li>Unlimited Paid Time Off, following a 90-day probationary period</li>\n<li>10 Paid Holidays</li>\n</ul><p><strong>Base Salary Range:</strong> The expected base salary range for this position is USD $150,000 - $170,000 per year, commensurate with experience and qualifications.</p><p><strong>Additional Compensation Components: </strong>In addition to the base salary, the compensation package may include bonuses, commissions, equity, and other incentives. The specific components will vary depending on the role and individual and/or company performance.</p><p><em><strong>NOTE: This position requires current legal authorization to work in the country where this position is located. Caylent is not able to sponsor visa or work permit applications at this time.</strong></em></p><p>At Caylent, we are committed to fair, transparent, and inclusive hiring practices. As part of our recruitment process, we may use artificial intelligence (AI) tools or automated systems to assist with the screening and evaluation of applications to help match candidate qualifications with job requirements.<br>These tools are designed to support — not replace — human decision-making. Final hiring decisions are always made by our trained recruitment professionals.<br>If an AI or automated tool is used during your application process, it will only be in accordance with applicable laws and regulations, and your information will be handled in a secure and confidential manner.<br>If you have any questions, please contact talent@caylent.com </p><p>Caylent is a place where everyone belongs. We celebrate diversity and are committed to creating an inclusive environment for all employees. Our approach helps us to build a winning team that represents a variety of backgrounds, perspectives, and abilities. So, regardless of how your diversity expresses itself, you can find a home here at Caylent. </p><p>We are proud to be an equal opportunity employer. We prohibit discrimination and harassment of any kind based on race, color, religion, national origin, sex (including pregnancy), sexual orientation, gender identity, gender expression, age, veteran status, genetic information, disability, or other applicable legally protected characteristics. If you would like to request an accommodation due to a disability, please contact us at hr@caylent.com.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-cloud-architect-caylent</p>",
       "posted_at": "2026-11-10T09:11:28+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "0046308e-217f-4099-9982-a7bad9ff13b7",
-      "title": "Site Reliability Engineer",
-      "url": "https://remotejobs.org/remote-jobs/site-reliability-engineer-orkes",
-      "apply_url": "https://remotejobs.org/remote-jobs/site-reliability-engineer-orkes",
-      "company": {
-        "name": "Orkes",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/efdfa42a52ca1c637e10f52bf8cf1ce859765356479090e427c882516273b9ef.webp",
-        "website": null,
-        "url": "https://remotejobs.org/companies/orkes"
-      },
-      "category": {
-        "name": "DevOps",
-        "slug": "devops"
-      },
-      "location": "EMEA,  Australia",
-      "location_normalization": {
-        "raw": "EMEA,  Australia",
-        "input": {},
-        "scope": "restricted",
-        "status": "partial",
-        "regions": [
-          "emea"
-        ],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "AU"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "partial",
-        "regions": [
-          "emea"
-        ],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [
-          "Unresolved area: location:1"
-        ],
-        "evidence_ids": [
-          "source-location"
-        ],
-        "allowed_regions": [
-          "EMEA"
-        ],
-        "work_arrangement": "remote",
-        "allowed_countries": [],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": null,
-        "role_family": "devops",
-        "required_skills": [],
-        "mentioned_skills": [
-          "aws",
-          "kubernetes",
-          "python",
-          "terraform"
-        ],
-        "preferred_skills": [],
-        "experience_requirements": [
-          {
-            "text": "5+ years of experience in Site Reliability Engineering, DevOps, Platform Engineering, or related infrastructure roles",
-            "maximum_years": null,
-            "minimum_years": 5,
-            "classification": "mentioned"
-          }
-        ]
-      },
-      "salary_min": 125000,
-      "salary_max": 250000,
-      "salary_text": "USD 125,000–250,000/year",
-      "salary_source_text": "USD 125000 - 250000",
-      "salary_currency": "USD",
-      "salary_period": "year",
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<p><strong>Who We Are</strong></p>\n<p><strong>Building the Backbone of Distributed Applications.</strong></p>\n<p>At <strong><a href=\"https://jobicy.com/company/orkes\">Orkes</a></strong>, we are reimagining how developers build reliable, scalable, event-driven applications without wrangling complex infrastructure.</p>\n<p>Born from Netflix's battle-tested open-source project, OSS <a href=\"https://github.com/conductor-oss/conductor\">Conductor</a>, our platform is now powering billions of mission critical workflows across fintech, e-commerce, logistics, healthcare, and more.</p>\n<p>Our platform powers <a href=\"https://medium.com/orkes/running-a-billion-workflows-a-month-with-netflix-conductor-5fd358d9b6c1\">billions of mission critical workflows</a> across industries like <strong>fintech, e-commerce, logistics, and healthcare</strong> helping companies run the core operations of their business with confidence. These are the workflows behind every transaction, every delivery, every patient check-in, quietly orchestrating our digital world.</p>\n<p>We’re solving some of the hardest infrastructure problems: how do you make distributed systems reliable, observable, and scalable – without every team having to reinvent the wheel? We absorb the complexity of distributed systems, letting teams build with confidence.</p>\n<p>We’re hiring a <strong>SRE</strong> to help us evolve and scale our platform. If you’re passionate about clean, efficient architecture, love solving tough distributed systems challenges, and thrive in an environment where your ideas actually shape the product then we’d love to talk.</p>\n<p>And the best part is we’re just getting started.</p>\n<p><strong>What You’ll Do</strong></p>\n<ul>\n<li>\n<p>Own reliability, availability, and performance of production systems running in cloud environments</p>\n</li>\n<li>\n<p>Define and monitor SLIs/SLOs and help manage error budgets across the platform</p>\n</li>\n<li>\n<p>Lead incident response efforts including detection, triage, mitigation, and postmortems</p>\n</li>\n<li>\n<p>Improve observability through logging, monitoring, alerting, and dashboards</p>\n</li>\n<li>\n<p>Automate operational workflows and reduce manual toil wherever possible</p>\n</li>\n<li>\n<p>Partner closely with engineering teams to improve system resiliency and scalability</p>\n</li>\n<li>\n<p>Assist with capacity planning, infrastructure optimization, and performance tuning</p>\n</li>\n<li>\n<p>Build internal tooling, runbooks, and operational best practices</p>\n</li>\n<li>\n<p>Support Kubernetes-based infrastructure and distributed systems at scale</p>\n</li>\n<li>\n<p>Act as an escalation point for complex production and platform issues</p>\n</li>\n</ul>\n<hr>\n<p><strong>What We’re Looking For</strong></p>\n<ul>\n<li>\n<p>5+ years of experience in Site Reliability Engineering, DevOps, Platform Engineering, or related infrastructure roles</p>\n</li>\n<li>\n<p>Strong experience with cloud platforms such as AWS, GCP, or Azure</p>\n</li>\n<li>\n<p>Hands-on experience with Kubernetes and containerized environments</p>\n</li>\n<li>\n<p>Strong understanding of distributed systems and microservices architecture</p>\n</li>\n<li>\n<p>Experience with observability tools such as Prometheus, Grafana, Datadog, ELK, or OpenTelemetry</p>\n</li>\n<li>\n<p>Proficiency with infrastructure automation and scripting (Terraform, Python, Bash, etc.)</p>\n</li>\n<li>\n<p>Experience managing CI/CD pipelines and deployment automation</p>\n</li>\n<li>\n<p>Strong troubleshooting and incident management skills</p>\n</li>\n<li>\n<p>Ability to work cross-functionally and communicate effectively during high-pressure situations</p>\n</li>\n</ul>\n<hr>\n<p><strong>Nice to Have</strong></p>\n<ul>\n<li>\n<p>Experience supporting large-scale SaaS or cloud-native platforms</p>\n</li>\n<li>\n<p>Familiarity with workflow orchestration technologies such as Conductor, Temporal, or Camunda</p>\n</li>\n<li>\n<p>Experience with Kafka, messaging systems, or event-driven architectures</p>\n</li>\n<li>\n<p>Knowledge of security best practices and cloud infrastructure hardening</p>\n</li>\n<li>\n<p>Open-source contributions or strong systems engineering background</p>\n</li>\n</ul>\n<hr>\n<p><strong>Why Join Orkes?</strong></p>\n<ul>\n<li>\n<p>Work alongside a deeply technical and collaborative engineering team</p>\n</li>\n<li>\n<p>Solve complex distributed systems challenges at scale</p>\n</li>\n<li>\n<p>High ownership and impact in a fast-growing company</p>\n</li>\n<li>\n<p>Remote-friendly culture with strong engineering autonomy</p>\n</li>\n<li>\n<p>Opportunity to help shape the future of cloud orchestration and AI workflows</p>\n</li>\n</ul>\n<p><strong>More Details:</strong></p>\n<p>The base salary for this role is $125,000-250,000 USD. However, pay is variable and when determining compensation, a number of factors will be considered: skills, years of experience, job scope, location/cost of living, and competitive compensation market data for your country/role.</p>\n<ul>\n<li>\n<p><strong>Start Date:</strong> ASAP</p>\n</li>\n<li>\n<p><strong>Status:</strong> Full-time</p>\n</li>\n<li>\n<p><strong>Type:</strong> Remote</p>\n</li>\n<li>\n<p><strong>Location</strong>: Australia, EMEA</p>\n</li>\n<li>\n<p><strong>Department:</strong> Engineering</p>\n</li>\n<li>\n<p><strong>Reports to:</strong> Head of Engineering</p>\n</li>\n<li>\n<p><strong>Travel: </strong>15-20%</p>\n</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>\n<p>Comprehensive health coverage including medical, dental, and vision</p>\n</li>\n<li>\n<p>Flexible PTO</p>\n</li>\n<li>\n<p>Support for personal development</p>\n</li>\n</ul>\n<p>At Orkes, we are committed to building a team that reflects a rich tapestry of perspectives, identities, and professional experiences. We believe that diversity is not just a checkbox, but a driving force behind innovation, creativity, and success. By embracing a variety of backgrounds, we cultivate an inclusive environment where every team member feels valued and empowered to bring their authentic selves to work.</p>\n<p>Join us at Orkes and be a part of a team where your unique perspectives are not only welcomed but celebrated. Together we are shaping the future technology by leveraging the strength that comes from embracing diversity in all its forms. Your Journey with us is an opportunity to contribute to something greater and make a lasting impact.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/site-reliability-engineer-orkes</p>",
-      "posted_at": "2026-11-10T09:09:27+00:00",
       "is_translated": false,
       "original_language": null
     },
@@ -8837,7 +8853,31 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "c2",
+          "c3"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "CA",
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
