@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T23:20:44.740Z",
+  "generatedAt": "2026-11-14T05:10:10.063Z",
   "count": 150,
   "data": [
     {
@@ -234,7 +234,29 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -266,7 +288,7 @@
     },
     {
       "id": "7782bff9-9215-4699-81ed-7d53d1ad0432",
-      "title": "DESENVOLVEDOR(A) SÊNIOR (BACK-END)",
+      "title": "SENIOR DEVELOPER (BACK-END)",
       "url": "https://remotejobs.org/remote-jobs/desenvolvedora-snior-back-end-quality-digital",
       "apply_url": "https://remotejobs.org/remote-jobs/desenvolvedora-snior-back-end-quality-digital",
       "company": {
@@ -298,11 +320,33 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [
+          "BR"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": null,
+        "seniority": "senior",
         "role_family": null,
         "required_skills": [],
         "mentioned_skills": [
@@ -326,10 +370,10 @@
       ],
       "employer_job_id": null,
       "direct_apply": null,
-      "description": "<p>Nós somos a<strong>Quality Digital</strong>! Saiba mais sobre a gente:</p>\n<ul>\n<li><strong>Uma frase que nos define</strong>- Somos especialistas em soluções de TI e apaixonados por inovação! 🚀</li>\n<li><strong>Ao infinito e além</strong> - Somos <em>#semfronteiras</em>. Nosso time está espalhado pelo Brasil e pelo mundo 🌎</li>\n<li><strong>Nossa cultura</strong> - Mesmo distantes, estamos juntos 🧡 Temos cerimônias para estarmos mais próximos, compartilhar conhecimento e ficar por dentro das novidades da nossa empresa!</li>\n<li><strong>Somos diversos</strong> - Um dos nossos compromissos é fazer da companhia um ambiente cada vez mais diverso, inclusivo e respeitoso, valorizando e promovendo a pluralidade. Por isso, <strong>aqui temos espaço para todas as pessoas,</strong> independente de raça, gênero, idade, orientação sexual, crença religiosa ou deficiência. 🏳️‍🌈👩🏾‍🦽</li>\n<li><strong>Nosso objetivo</strong> - Potencializar os negócios dos nossos clientes através de soluções inovadoras e sustentáveis. Topa vir com a gente nessa? 🎯</li>\n</ul>\n<h2>O que buscamos?</h2>\n<p>Um profissional com olhar para melhorias e entregas de valor.</p>\n<h2>Como será o seu dia a dia:</h2>\n<ul>\n<li>Terá a visão do projeto como um todo e apoiará o time no processo de quebra das tarefas e entendimento das mesmas, visando uma melhor eficiência na entrega;</li>\n<li>Irá se certificar de que a solução que está sendo construída atenderá as necessidades dos clientes e contém a aplicação de boas práticas;</li>\n<li>Acompanhar os processos de roll-out dos projetos e apoiar o time na identificação e solução de problemas, e em casos críticos conduzir o time;</li>\n<li>Responsável por mentorar sobre práticas, ferramentas e conceitos de testes, apoiará o time no refactor de testes;</li>\n<li>Atuar na identificação e correção de falhas de segurança ou gerar documentação mapeando o cenário identificado;</li>\n<li>Conhecer modelos e práticas de arquitetura,quando necessárioapoiar o time de arquitetura na validação do desenho de soluções e traduzir as arquiteturas em solução no processo de desenvolvimento;</li>\n<li>Acompanhar as cerimônias do time se há algum impedimento ou problema e apoiar na construção do plano de ação;</li>\n<li>Conhecer as métricas que o time usa e analisá-las, sugerindo mudanças e usando-as para processos de planejamento e alinhamentos;</li>\n<li>Documentar e demonstrar soluções, desenvolvendo documentação, fluxogramas, layouts, diagramas, gráficos e código claro.</li>\n</ul>\n<h2>Conhecimento em:</h2>\n<ul>\n<li>Desenvolvimento de sistemas, testes Unitários com JUnit, verificação de Logs no DataDog, Git;</li>\n<li>Desenvolvimento de Microserviços NodeJs, GraphQL, Kubernetes, Docker, Maven e Filas (JMS, ActiveMQ ou KAFKA);</li>\n<li>DB Oracle, SQL, MYSQL e Aurora;</li>\n<li>Utilização de cache com REDIS, conhecimento em SOLID, Clean Code e SCRUM.</li>\n</ul>\n<p><strong>OBS.:</strong>Hey! Caso você não preencha todos os requisitos da vaga, te convidamos a se candidatar mesmo assim, ok? Faremos uma análise cuidadosa do seu perfil considerando todas as suas qualificações 😉</p>\n<h2>Informações adicionais</h2>\n<h2>O que você vai encontrar aqui:</h2>\n<ul>\n<li>Um ambiente propício para<strong>aprendizado</strong>e<strong>crescimento profissional 🎯</strong></li>\n<li><strong>Avaliação de desempenho</strong>e<strong>feedbacks</strong>, visando o desenvolvimento contínuo das nossas pessoas<strong>📊</strong></li>\n<li><strong>Vale alimentação e/ou refeição</strong>para suas compras de mercado e refeições 🍴</li>\n<li><strong>Assistência médica e odontológica</strong>para que você e sua família estejam com a saúde em dia<strong>💙</strong></li>\n<li><strong>Convênio com farmácias</strong>para descontos em medicamentos<strong>💊</strong></li>\n<li><strong>Auxílio creche</strong>de acordo com política vigente<strong>🍼</strong></li>\n<li><strong>Parceria com o SESC</strong>para programações variadas de cultura e lazer<strong>✈</strong></li>\n<li><strong>Parcerias para seus estudos</strong>de idiomas, tecnologia e plataforma de cursos<strong>📚</strong></li>\n<li><strong>Empréstimo consignado</strong>com taxas atrativas + programa de educação financeira💰</li>\n<li><strong>Universidade Corporativa e trilhas de conhecimento</strong>com conteúdos diversos de tecnologia, soft skills, tendências de mercado e muito mais 👨‍💻</li>\n<li><strong>Programa de Indicações</strong>com possibilidade de prêmios e bonificações 🎁</li>\n<li><strong>Seguro de vida</strong>coletivo ⛑</li>\n</ul>\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/desenvolvedora-snior-back-end-quality-digital</p>",
+      "description": "<p>We are<strong>Quality Digital</strong>! Learn more about us:</p>\n<ul>\n<li><strong>A phrase that defines us</strong>- We are IT solutions specialists and passionate about innovation! 🚀</li>\n<li><strong>To infinity and beyond</strong> - Somos <em>#noborders</em>. Our team is spread across Brazil and the world 🌎</li>\n<li><strong>Our culture</strong> - Even when apart, we are together 🧡 We have ceremonies to stay closer, share knowledge and keep up with the latest news from our company!</li>\n<li><strong>We are diverse</strong> - One of our commitments is to make the company an increasingly diverse, inclusive and respectful environment, valuing and promoting plurality. Therefore, <strong>here there is room for all people,</strong> regardless of race, gender, age, sexual orientation, religious belief or disability. 🏳️‍🌈👩🏾‍🦽</li>\n<li><strong>Our goal</strong> - To boost our clients' business through innovative and sustainable solutions. Are you up for joining us on this? 🎯</li>\n</ul>\n<h2>What we are looking for?</h2>\n<p>A professional with an eye for improvements and value delivery.</p>\n<h2>What your day-to-day will look like:</h2>\n<ul>\n<li>Will have the view of the project as a whole and will support the team in the process of breaking down tasks and understanding them, aiming for better delivery efficiency;</li>\n<li>Will make sure that the solution being built will meet the needs of clients and includes the application of good practices;</li>\n<li>Monitor the roll-out processes of projects and support the team in identifying and solving problems, and in critical cases lead the team;</li>\n<li>Responsible for mentoring on testing practices, tools and concepts, will support the team in the refactoring of tests;</li>\n<li>Act in identifying and correcting security flaws or generate documentation mapping the identified scenario;</li>\n<li>Know architecture models and practices; when necessary, support the architecture team in validating solution designs and translate architectures into solutions in the development process;</li>\n<li>Follow the team's ceremonies for any impediment or problem and support the construction of the action plan;</li>\n<li>Know the metrics the team uses and analyze them, suggesting changes and using them for planning and alignment processes;</li>\n<li>Document and demonstrate solutions, developing documentation, flowcharts, layouts, diagrams, charts and clear code.</li>\n</ul>\n<h2>Knowledge in:</h2>\n<ul>\n<li>Systems development, unit tests with JUnit, log verification in DataDog, Git;</li>\n<li>Development of NodeJs microservices, GraphQL, Kubernetes, Docker, Maven and queues (JMS, ActiveMQ or KAFKA);</li>\n<li>DB Oracle, SQL, MYSQL e Aurora;</li>\n<li>Use of cache with REDIS, knowledge of SOLID, Clean Code and SCRUM.</li>\n</ul>\n<p><strong>OBS.:</strong>Hey! If you don't meet all the requirements for the position, we invite you to apply anyway, ok? We will carefully analyze your profile considering all your qualifications 😉</p>\n<h2>Additional information</h2>\n<h2>What you will find here:</h2>\n<ul>\n<li>An environment conducive to<strong>learning</strong>e<strong>professional growth 🎯</strong></li>\n<li><strong>Performance evaluation</strong>e<strong>feedbacks</strong>, aiming at the continuous development of our people<strong>📊</strong></li>\n<li><strong>Food and/or meal voucher</strong>for your grocery shopping and meals 🍴</li>\n<li><strong>Medical and dental assistance</strong>so that you and your family keep your health up to date<strong>💙</strong></li>\n<li><strong>Pharmacy partnership</strong>for discounts on medications<strong>💊</strong></li>\n<li><strong>Childcare assistance</strong>in accordance with current policy<strong>🍼</strong></li>\n<li><strong>Partnership with SESC</strong>for varied culture and leisure programming<strong>✈</strong></li>\n<li><strong>Partnerships for your studies</strong>in languages, technology and course platforms<strong>📚</strong></li>\n<li><strong>Payroll-deductible loan</strong>with attractive rates + financial education program 💰</li>\n<li><strong>Corporate University and knowledge tracks</strong>with diverse content on technology, soft skills, market trends and much more 👨‍💻</li>\n<li><strong>Referral Program</strong>with the possibility of prizes and bonuses 🎁</li>\n<li><strong>Group life insurance</strong>coletivo ⛑</li>\n</ul>\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/desenvolvedora-snior-back-end-quality-digital</p>",
       "posted_at": "2026-11-13T20:47:20+00:00",
-      "is_translated": false,
-      "original_language": null
+      "is_translated": true,
+      "original_language": "pt"
     },
     {
       "id": "7ea6e444-dba5-4862-a3f6-93ddf3b477ef",
@@ -365,7 +409,43 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [
+          {
+            "kind": "timezone",
+            "areas": [],
+            "effect": "require",
+            "details": "Availability to work hours that overlap the first half of the US Eastern working day, so you work with your counterparts rather than around them.",
+            "regions": [],
+            "timezones": [],
+            "evidence_id": "c1",
+            "conditional_on": null
+          }
+        ],
+        "unresolved": [
+          "The working-hour requirement to overlap the first half of the US Eastern working day is vague and cannot be represented as a precise IANA timezone or hour range."
+        ],
+        "evidence_ids": [
+          "c1",
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [
+          "IN"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -436,7 +516,30 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "c1",
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -505,7 +608,29 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -4788,7 +4913,40 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [
+          "The description limits remote work to the continental United States. Territories and possessions of the United States outside the contiguous states, DC, and the enumerated exclusions (Alaska, Hawaii, California, New York) are not explicitly addressed, so the whole-country allow cannot be fully confirmed as continental-only."
+        ],
+        "evidence_ids": [
+          "c2",
+          "c3",
+          "c4",
+          "c5",
+          "c6"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [
+          "US-AK",
+          "US-CA",
+          "US-HI",
+          "US-NY"
+        ],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -5013,7 +5171,7 @@
     },
     {
       "id": "4bf6d6d7-aaa4-4bb1-9459-25c09a2605d0",
-      "title": "Arquitecto de Observabilidad - Dynatrace - CL",
+      "title": "Observability Architect - Dynatrace - CL",
       "url": "https://remotejobs.org/remote-jobs/arquitecto-de-observabilidad-dynatrace-cl-imagemaker",
       "apply_url": "https://remotejobs.org/remote-jobs/arquitecto-de-observabilidad-dynatrace-cl-imagemaker",
       "company": {
@@ -5093,10 +5251,10 @@
       ],
       "employer_job_id": null,
       "direct_apply": null,
-      "description": "<p>En Imagemaker estamos en búsqueda de un líder de Observabilidad. Este rol existe para traducir las exigencias regulatorias y de negocio en una arquitectura de monitoreo end-to-end aprobable por el banco, garantizando que toda la telemetría (logs, trazas y eventos de negocio) se ingeste, correlacione y mida con exactitud antes de salir a producción.</p>\n<h2>Responsabilidades</h2>\n<ul>\n<li>Diseñar la arquitectura de observabilidad end-to-end (HLD/LLD) aprobada por SRE Central.</li>\n<li>Definir el catálogo de SLIs, SLOs, error budgets y journeys transaccionales críticos.</li>\n<li>Especificar la instrumentación de trazas, logs y business events con reglas de privacidad.</li>\n<li>Desarrollar dashboards ejecutivos y alertas automáticas como código mediante Terraform y Monaco.</li>\n<li>Auditar la calidad técnica y los pull requests del equipo de observabilidad.</li>\n<li>Liderar la planificación, el backlog y los riesgos técnicos frente al cliente.</li>\n<li>Entregar el paquete de promoción a producción.</li>\n</ul>\n<h2>Requisitos</h2>\n<h2>Imprescindibles (<em>Must-Have</em>)</h2>\n<ul>\n<li><strong>Ingeniería en Dynatrace SaaS (3ª Generación):</strong> Dominar el ecosistema nativo en la nube, incluyendo Grail (almacén de datos unificado para logs y eventos), DQL (<em>Dynatrace Query Language</em> o lenguaje de consultas),Notebooks, Dashboards y Business Events (eventos de negocio), descartando perfiles que solo operen versiones clásicas <em>on-premise</em>.</li>\n<li><strong>Arquitectura de Observabilidad End-to-End:</strong> Diseñar soluciones de extremo a extremo bajo la metodología de <em>\"diseño antes que construcción\"</em>, definiendo catálogos de SLIs (<em>Service Level Indicators</em> o indicadores de nivel de servicio), SLOs (<em>Service Level Objectives</em> u objetivos de nivel de servicio), <em>error budgets</em> (presupuestos de error) y mapas de flujos críticos entre sistemas desacoplados.</li>\n<li><strong>Instrumentación y Telemetría Distribuida:</strong> Especificar y validar la captura de trazas distribuidas, logs y métricas mediante Dynatrace OneAgent y estándares de OpenTelemetry, asegurando que las respuestas de los microservicios incluyan los campos del diccionario de datos transaccional.</li>\n<li><strong>Monitoring as Code (MaC) y Control de Versiones:</strong> Desarrollar, versionar y desplegar configuraciones de monitoreo como código (alertas, tableros y objetivos) utilizando Terraform y Monaco (<em>Dynatrace Monitoring as Code</em>) sobre repositorios Git y Bitbucket mediante flujos de aprobación de <em>Pull Requests</em>.</li>\n<li><strong>Seguridad, Privacidad y Cumplimiento Regulatorio:</strong> Implementar reglas estrictas de enmascaramiento y ofuscación de datos sensibles bajo normativas PII (<em>Personally Identifiable Information</em> o información personal identificable) y PCI (<em>Payment Card Industry</em> o industria de tarjetas de pago), garantizando mediciones auditables para entes reguladores.</li>\n<li><strong>Entornos Cloud Native y Sistemas Operativos:</strong> Comprender la arquitectura e ingesta de telemetría sobre clústeres de contenedores en Kubernetes y OpenShift (incluyendo distribuciones Atlas o Anthos), así como entornos base Unix/Linux y consumo de APIs (<em>Application Programming Interfaces</em> o interfaces de programación).</li>\n</ul>\n<h2>Deseables (<em>Nice-to-Have</em>)</h2>\n<ul>\n<li><strong>Capacidades Avanzadas de IA y Automatización en Dynatrace:</strong> Configurar motores de inteligencia artificial causal (Davis AI) para detección automática de anomalías, así como diseñar flujos automatizados (Workflows) y pruebas de monitoreo sintético (<em>Synthetics</em>) para simular transacciones de punta a punta.</li>\n<li><strong>Certificaciones Oficiales de Dynatrace:</strong> Contar con la acreditación <em>Dynatrace Associate</em> (exigida en el pliego formal pero flexibilizada por el cliente frente a experiencia comprobable) o el nivel superior <em>Dynatrace Professional</em>.</li>\n<li><strong>Experiencia en Banca o Medios de Pago en Tiempo Real:</strong> Haber instrumentado ecosistemas financieros de alta criticidad y baja latencia, comprendiendo el ciclo de vida de transferencias interbancarias, cámaras de compensación y reportes regulatorios ante bancos centrales.</li>\n<li><strong>Inglés Técnico Avanzado:</strong> Poseer capacidad de lectura técnica fluida para interpretar documentación oficial de plataformas SaaS y notas de lanzamiento (<em>release notes</em>), complementando el dominio nativo o fluido del español requerido para la operación diaria.</li>\n</ul>\n<h2>Beneficios</h2>\n<p>Ser Maker es cool!<br>\n<br>\n🏖️ Don’t worry, be happy: 3 días libres al año adicionales a tus vacaciones.<br>\n✨ Permiso sin goce de sueldo para cumplir tus sueños.<br>\n⚖️ Programa de bienestar enfocado a equilibrar el trabajo y la vida personal.<br>\n🏥 Seguro Complementario 100% gratuito para Makers.<br>\n🤓 ¡Programas de formación, clases de inglés y mucho más!<br>\n🎂 Día libre para tu cumpleaños y medio día para los cumpleaños de tus hijos.<br>\n💰 Bonificaciones que dan respiros: Fiestas patrias, navidad, matrimonio/AUC, nacimiento/adopción de hijos, etc.<br>\n💳 Convenios y precios preferenciales con bancos.<br>\n👶🏻 3 Días adicionales para padres por nacimiento o adopción de hijo/a.<br>\n🐶 Convenio de seguro para tus mascotas!<br>\n🌿 Nuestra cultura es horizontal, de innovación, desafiante y sobre todo, se respira mucha buena onda!<br>\n<br>\nEn el marco de nuestro compromiso con la inclusión, la siguiente vacante está abierta en el marco de la ley 21.015.</p>\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/arquitecto-de-observabilidad-dynatrace-cl-imagemaker</p>",
+      "description": "<p>En Imagemaker We are looking for an Observability leader. This role exists to translate regulatory and business requirements into an end-to-end monitoring architecture approvable by the bank, ensuring that all telemetry (logs, traces and business events) is ingested, correlated and measured accurately before going to production.</p>\n<h2>Responsabilidades</h2>\n<ul>\n<li>Design the end-to-end observability architecture (HLD/LLD) approved by Central SRE.</li>\n<li>Define the catalog of SLIs, SLOs, error budgets and critical transactional journeys.</li>\n<li>Specify the instrumentation of traces, logs and business events with privacy rules.</li>\n<li>Develop executive dashboards and automatic alerts as code using Terraform and Monaco.</li>\n<li>Audit the technical quality and pull requests of the observability team.</li>\n<li>Lead planning, backlog and technical risks with the client.</li>\n<li>Deliver the production promotion package.</li>\n</ul>\n<h2>Requisitos</h2>\n<h2>Imprescindibles (<em>Must-Have</em>)</h2>\n<ul>\n<li><strong>Engineering in Dynatrace SaaS (3rd Generation):</strong> Master the native cloud ecosystem, including Grail (unified data store for logs and events), DQL (<em>Dynatrace Query Language</em> or query language), Notebooks, Dashboards and Business Events, discarding profiles that only operate classic versions <em>on-premise</em>.</li>\n<li><strong>End-to-End Observability Architecture:</strong> Design end-to-end solutions under the methodology of <em>\"design before build\"</em>, definiendo catálogos de SLIs (<em>Service Level Indicators</em> or service level indicators), SLOs (<em>Service Level Objectives</em> or service level objectives), <em>error budgets</em> (error budgets) and maps of critical flows between decoupled systems.</li>\n<li><strong>Instrumentation and Distributed Telemetry:</strong> Specify and validate the capture of distributed traces, logs and metrics using Dynatrace OneAgent and OpenTelemetry standards, ensuring that microservice responses include the fields of the transactional data dictionary.</li>\n<li><strong>Monitoring as Code (MaC) y Control de Versiones:</strong> Develop, version and deploy monitoring configurations as code (alerts, dashboards and objectives) using Terraform and Monaco (<em>Dynatrace Monitoring as Code</em>) over Git and Bitbucket repositories through approval workflows of <em>Pull Requests</em>.</li>\n<li><strong>Security, Privacy and Regulatory Compliance:</strong> Implement strict rules for masking and obfuscation of sensitive data under PII (<em>Personally Identifiable Information</em> or personally identifiable information) and PCI (<em>Payment Card Industry</em> or payment card industry) regulations, ensuring auditable measurements for regulators.</li>\n<li><strong>Cloud Native Environments and Operating Systems:</strong> Understand the architecture and telemetry ingestion over container clusters in Kubernetes and OpenShift (including Atlas or Anthos distributions), as well as Unix/Linux base environments and API consumption (<em>Application Programming Interfaces</em> or programming interfaces).</li>\n</ul>\n<h2>Deseables (<em>Nice-to-Have</em>)</h2>\n<ul>\n<li><strong>Advanced AI and Automation Capabilities in Dynatrace:</strong> Configure causal artificial intelligence engines (Davis AI) for automatic anomaly detection, and design automated flows (Workflows) and synthetic monitoring tests (<em>Synthetics</em>) to simulate end-to-end transactions.</li>\n<li><strong>Official Dynatrace Certifications:</strong> Hold the accreditation <em>Dynatrace Associate</em> (required in the formal tender but relaxed by the client in favor of verifiable experience) or the higher level <em>Dynatrace Professional</em>.</li>\n<li><strong>Experience in Banking or Real-Time Payment Methods:</strong> Having instrumented highly critical, low-latency financial ecosystems, understanding the lifecycle of interbank transfers, clearing houses and regulatory reporting to central banks.</li>\n<li><strong>Advanced Technical English:</strong> Have fluent technical reading ability to interpret official documentation of SaaS platforms and release notes (<em>release notes</em>), complementing the native or fluent Spanish required for daily operations.</li>\n</ul>\n<h2>Benefits</h2>\n<p>Ser Maker es cool!<br>\n<br>\n🏖️ Don't worry, be happy: 3 additional days off per year on top of your vacation.<br>\n✨ Unpaid leave to fulfill your dreams.<br>\n⚖️ Wellness program focused on balancing work and personal life.<br>\n🏥 100% free Complementary Insurance for Makers.<br>\n🤓 Training programs, English classes and much more!<br>\n🎂 A day off for your birthday and a half day for your children's birthdays.<br>\n💰 Bonuses that provide relief: National holidays, Christmas, marriage/AUC, birth/adoption of children, etc.<br>\n💳 Agreements and preferential prices with banks.<br>\n👶🏻 3 additional days for parents due to birth or adoption of a child.<br>\n🐶 Insurance agreement for your pets!<br>\n🌿 Our culture is horizontal, innovative, challenging and above all, there is a great good vibe!<br>\n<br>\nAs part of our commitment to inclusion, the following vacancy is open within the framework of law 21.015.</p>\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/arquitecto-de-observabilidad-dynatrace-cl-imagemaker</p>",
       "posted_at": "2026-11-13T12:18:43+00:00",
-      "is_translated": false,
-      "original_language": null
+      "is_translated": true,
+      "original_language": "es"
     },
     {
       "id": "25923ede-d1f5-433d-a86d-0d2495c9aa32",
@@ -9428,7 +9586,7 @@
     },
     {
       "id": "ebfc38e4-e7fe-492a-826a-f94fe7912869",
-      "title": "Analytics Engineer III (Diretoria de Dados - FP&A)",
+      "title": "Analytics Engineer III (Data Directorate - FP&A)",
       "url": "https://remotejobs.org/remote-jobs/analytics-engineer-iii-diretoria-de-dados-fpa-grupo-boticrio",
       "apply_url": "https://remotejobs.org/remote-jobs/analytics-engineer-iii-diretoria-de-dados-fpa-grupo-boticrio",
       "company": {
@@ -9486,10 +9644,10 @@
       ],
       "employer_job_id": null,
       "direct_apply": null,
-      "description": "<p>Um dos maiores grupos de beleza do mundo, o Grupo Boticário é uma empresa brasileira presente em mais de 40 países. É dono das marcas O Boticário, Eudora, Quem Disse, Berenice?, Vult, O.U.i, Dr. JONES, TRUSS, e do marketplace Beleza na Web, além de atuar com produtos licenciados como Australian Gold, Bio Oil, Nuxe, e Pampers e sua divisão para o mercado B2B. Essa interação entre diferentes marcas, ativos, plataformas, rede de franqueados, representantes, distribuidores, varejistas, sellers e fornecedores formam o ecossistema de beleza do Grupo Boticário que oferece, ainda, soluções digitais de gestão de negócio para o varejo brasileiro por meio das suas marcas Mooz e GAVB. São mais de 19 mil colaboradores diretos, com mais de 4 mil lojas em 1.780 cidades brasileiras.</p><h2>Vem fazer beleza com a gente!</h2><p><br>Como Analytics Engineer III na diretoria de Dados do Grupo Boticário, você será o elo técnico entre a Plataforma de Dados e as áreas de negócio de FP&#x26;A.</p><p>No dia a dia, você vai:<br><strong>• Liderar a modelagem de dados:</strong>Desenhar e manter camadas de dados robustas, garantindo que as regras de negócio sejam traduzidas em código limpo, eficiente e versionado.<br><strong>• Garantir a confiabilidade:</strong>Implementar testes de dados automatizados, monitoramento de qualidade e documentação técnica, assegurando que indicadores críticos de segurança e eficácia do produto sejam 100% confiáveis.<br><strong>• Otimizar performance:</strong>Atuar na melhoria de performance de queries e pipelines, garantindo escalabilidade para o grande volume de dados do Grupo.<br><strong>• Atuar como parceiro de negócio:</strong>Colaborar ativamente com Product Managers e Analistas Funcionais para entender dores complexas e propor soluções de arquitetura de dados proativas.<br><strong>• Disseminar cultura de dados:</strong>Mentorar membros mais juniores do time (code reviews, boas práticas) e promover a cultura de Self-Service para os stakeholders de negócio.<br><strong>• Pensamento Crítico e Resolução de Problemas:</strong>Capacidade de ir além da solicitação inicial, investigando a causa raiz das dores de negócio para propor arquiteturas que resolvam o problema real. Atuar ativamente nas discussões, questionando premissas e sugerindo melhorias proativas nos processos e na esteira de desenvolvimento do time.</p><p>Para esta posição de <strong>Analytics Engineer III</strong>, buscamos alguém com conhecimento técnico em arquitetura de dados moderna e que atue como referência técnica para o time, garantindo a escalabilidade e a governança dos dados de QEC.<br><strong>O que é indispensável (Must-haves):</strong></p><ul>\n<li>\n<strong>Análise de Requisitos e Autonomia:</strong> Capacidade de atuar diretamente com o time funcional para liderar o levantamento de requisitos, traduzir necessidades de negócio em escopo técnico e conduzir a execução das demandas de ponta a ponta com independência.</li>\n<li>\n<strong>Domínio Avançado de SQL:</strong> Experiência comprovada na escrita de queries complexas e performáticas para transformação de dados no <strong>Google BigQuery.</strong>\n</li>\n<li>\n<strong>Modelagem de Dados:</strong> Sólida experiência com modelagem dimensional, criação de tabelas otimizadas para consumo analítico e arquiteturas modernas de dados (Data Lakehouse), traduzindo regras de negócio em esquemas técnicos eficientes.</li>\n<li>\n<strong>Cloud GCP:</strong> Conhecimento nos serviços do Google Cloud Platform, especialmente em estratégias de armazenamento e processamento.</li>\n<li>\n<strong>Orquestração de Pipelines:</strong> Experiência prática com ferramentas de orquestração de fluxo de dados (<strong>Airflow</strong>) para gerenciar dependências, agendamentos e monitoramento de falhas.</li>\n<li>\n<strong>Engenharia de Software aplicada a Dados:</strong> Vivência com versionamento de código (<strong>Git</strong>), Code Reviews, Pull Requests e esteiras de CI/CD.</li>\n</ul><p><br><strong>O que vai fazer os olhos brilharem (Diferenciais):</strong></p><ul>\n<li>\n<strong>IA Generativa e Agentes:</strong> Uso prático de ferramentas de GenAI (Gemini, Copilot, Cursor, etc) para acelerar o desenvolvimento de código ou experiência na implementação de <strong>agentes de IA</strong> para automação de tarefas, qualidade de dados e integração de agentes nos pipelines de dados.</li>\n<li>\n<strong>Python:</strong> Proficiência em Python para automação de scripts, orquestração ou análises exploratórias.</li>\n<li>\n<strong>Ingestão via APIs:</strong> Experiência em extrações de dados via APIs de terceiros (ex: Google, Meta, Salesforce, etc.), lidando com autenticação, paginação e cargas incrementais.</li>\n<li>\n<strong>FinOps e Otimização:</strong> Experiência monitorando custos de processamento e latência, atuando proativamente na refatoração de queries para eficiência de custos na nuvem.</li>\n<li>\n<strong>Conhecimentos avançados em dados:</strong> Conhecimentos em ciência de dados, modelos estatísticos e machine learning são considerados diferenciais para a posição.</li>\n</ul><h2>Informações adicionais</h2><h2>Benefícios que cuidam e se diferenciam:</h2><p>No Grupo Boticário, o cuidado é a nossa base para atingirmos resultados exponenciais. Temos um portfólio com mais de 20 benefícios para cuidar da sua saúde, bem estar e família. Confira abaixo.</p><h2>Saúde:</h2><ul>\n<li>Plano médico e odontológico flexíveis</li>\n<li>Auxílio medicamentos e vale saúde para familiares</li>\n<li>Sessões de psicoterapia gratuitas e telemedicina 24h</li>\n<li>Programas contínuos de prevenção, cuidado mental e vacinação</li>\n</ul><h2>Alimentação &#x26; bem-estar</h2><ul>\n<li>Vale Refeição (ou restaurante local) e Vale Alimentação (com vale extra no Natal)</li>\n<li>Desconto de até 40% nas marcas do nosso ecossistema</li>\n<li>Gympass/TotalPass para academias e estúdios esportivos</li>\n<li>Auxílio Home Office para modalidades híbrida e remota</li>\n<li>Day off de aniversário para celebrar do seu jeito</li>\n<li>Plano de saúde pet, vantagens em convênios e programas de viagem/hospedagem</li>\n</ul><h2>Para sua família</h2><ul>\n<li>Licença parental estendida (180 dias para mães e 120 dias para pais)</li>\n<li>Suporte para Pais Atípicos e auxílio babá / educação infantil</li>\n<li>Auxílio material escolar e crédito nutrição infantil</li>\n<li>Orientação jurídica, psicológica e social dedicada</li>\n</ul><p><strong>Seguridade para proteção e tranquilidade financeira</strong></p><ul>\n<li>Previdência Privada e Seguro de Vida</li>\n<li>Apoio ao falecimento de pais e empréstimo consignado</li>\n<li>Vale Transporte e Estacionamento (conforme o modelo de trabalho)</li>\n</ul><p><em>Nota: Os pacotes de benefícios são adaptados de acordo com a elegibilidade de cada cargo e modelo de trabalho.</em></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/analytics-engineer-iii-diretoria-de-dados-fpa-grupo-boticrio</p>",
+      "description": "<p>One of the largest beauty groups in the world, the Grupo Boticário is a Brazilian company present in more than 40 countries. It owns the brands O Boticário, Eudora, Quem Disse, Berenice?, Vult, O.U.i, Dr. JONES, TRUSS, and the marketplace Beleza na Web, in addition to operating licensed products such as Australian Gold, Bio Oil, Nuxe, and Pampers and its B2B division. This interaction among different brands, assets, platforms, franchise network, representatives, distributors, retailers, sellers and suppliers forms the beauty ecosystem of the Grupo Boticário which also offers digital business management solutions for Brazilian retail through its brands Mooz and GAVB. It has more than 19 thousand direct employees, with more than 4 thousand stores in 1,780 Brazilian cities.</p><h2>Come make beauty with us!</h2><p><br>As Analytics Engineer III in the Data Directorate of the Grupo Boticário, you will be the technical link between the Data Platform and the FP&#x26;A business areas.</p><p>On a day-to-day basis, you will:<br><strong>• Lead data modeling:</strong>Design and maintain robust data layers, ensuring that business rules are translated into clean, efficient and versioned code.<br><strong>• Ensure reliability:</strong>Implement automated data tests, quality monitoring and technical documentation, ensuring that critical product safety and efficacy indicators are 100% reliable.<br><strong>• Otimizar performance:</strong>Work on improving query and pipeline performance, ensuring scalability for the Group's large data volume.<br><strong>• Act as a business partner:</strong>Actively collaborate with Product Managers and Functional Analysts to understand complex pain points and propose proactive data architecture solutions.<br><strong>• Spread a data culture:</strong>Mentor more junior team members (code reviews, best practices) and promote a Self-Service culture for business stakeholders.<br><strong>• Critical Thinking and Problem Solving:</strong>Ability to go beyond the initial request, investigating the root cause of business pain points to propose architectures that solve the real problem. Actively take part in discussions, questioning assumptions and suggesting proactive improvements to processes and the team's development pipeline.</p><p>For this position of <strong>Analytics Engineer III</strong>, we are looking for someone with technical knowledge of modern data architecture who acts as a technical reference for the team, ensuring the scalability and governance of QEC data.<br><strong>What is indispensable (Must-haves):</strong></p><ul>\n<li>\n<strong>Requirements Analysis and Autonomy:</strong> Ability to work directly with the functional team to lead requirements gathering, translate business needs into technical scope, and independently drive the execution of demands end to end.</li>\n<li>\n<strong>Advanced SQL Proficiency:</strong> Proven experience writing complex and performant queries for data transformation in the <strong>Google BigQuery.</strong>\n</li>\n<li>\n<strong>Data Modeling:</strong> Solid experience with dimensional modeling, creation of tables optimized for analytical consumption and modern data architectures (Data Lakehouse), translating business rules into efficient technical schemas.</li>\n<li>\n<strong>Cloud GCP:</strong> Knowledge of Google Cloud Platform services, especially storage and processing strategies.</li>\n<li>\n<strong>Pipeline Orchestration:</strong> Hands-on experience with data flow orchestration tools (<strong>Airflow</strong>) to manage dependencies, scheduling and failure monitoring.</li>\n<li>\n<strong>Software Engineering applied to Data:</strong> Experience with code versioning (<strong>Git</strong>), Code Reviews, Pull Requests and CI/CD pipelines.</li>\n</ul><p><br><strong>What will make your eyes light up (Differentiators):</strong></p><ul>\n<li>\n<strong>Generative AI and Agents:</strong> Practical use of GenAI tools (Gemini, Copilot, Cursor, etc.) to accelerate code development, or experience implementing <strong>agentes de IA</strong> for task automation, data quality and integration of agents into data pipelines.</li>\n<li>\n<strong>Python:</strong> Proficiency in Python for script automation, orchestration or exploratory analysis.</li>\n<li>\n<strong>Ingestion via APIs:</strong> Experience extracting data via third-party APIs (e.g., Google, Meta, Salesforce, etc.), handling authentication, pagination and incremental loads.</li>\n<li>\n<strong>FinOps and Optimization:</strong> Experience monitoring processing costs and latency, proactively refactoring queries for cloud cost efficiency.</li>\n<li>\n<strong>Advanced data knowledge:</strong> Knowledge of data science, statistical models and machine learning is considered a differentiator for the position.</li>\n</ul><h2>Additional information</h2><h2>Benefits that care and stand out:</h2><p>No Grupo Boticário, care is our foundation for achieving exponential results. We have a portfolio of more than 20 benefits to take care of your health, well-being and family. Check below.</p><h2>Saúde:</h2><ul>\n<li>Flexible medical and dental plans</li>\n<li>Medication allowance and health voucher for family members</li>\n<li>Free psychotherapy sessions and 24h telemedicine</li>\n<li>Continuous programs for prevention, mental care and vaccination</li>\n</ul><h2>Food &#x26; well-being</h2><ul>\n<li>Meal voucher (or local restaurant) and food voucher (with extra voucher at Christmas)</li>\n<li>Discount of up to 40% on brands in our ecosystem</li>\n<li>Gympass/TotalPass for gyms and sports studios</li>\n<li>Home office allowance for hybrid and remote arrangements</li>\n<li>Birthday day off to celebrate your way</li>\n<li>Pet health plan, agreement benefits and travel/lodging programs</li>\n</ul><h2>For your family</h2><ul>\n<li>Extended parental leave (180 days for mothers and 120 days for fathers)</li>\n<li>Support for Atypical Parents and nanny / early childhood education allowance</li>\n<li>School supplies allowance and children's nutrition credit</li>\n<li>Dedicated legal, psychological and social guidance</li>\n</ul><p><strong>Insurance for protection and financial peace of mind</strong></p><ul>\n<li>Private pension and life insurance</li>\n<li>Support upon death of parents and payroll-deductible loan</li>\n<li>Transportation voucher and parking (depending on work model)</li>\n</ul><p><em>Note: Benefit packages are adapted according to each position's eligibility and work model.</em></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/analytics-engineer-iii-diretoria-de-dados-fpa-grupo-boticrio</p>",
       "posted_at": "2026-11-13T20:36:12+00:00",
-      "is_translated": false,
-      "original_language": null
+      "is_translated": true,
+      "original_language": "pt"
     },
     {
       "id": "a711b17e-7806-4688-a34c-84515bda8d87",
@@ -9525,7 +9683,29 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "GB"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
