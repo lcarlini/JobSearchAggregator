@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T05:10:10.063Z",
+  "generatedAt": "2026-11-14T13:04:38.622Z",
   "count": 150,
   "data": [
     {
@@ -3550,6 +3550,80 @@
       "original_language": null
     },
     {
+      "id": "4169f7a9-565c-4feb-82e0-2c30715b6080",
+      "title": "Staff Software Engineer, Console",
+      "url": "https://remotejobs.org/remote-jobs/staff-software-engineer-console-deepgram",
+      "apply_url": "https://remotejobs.org/remote-jobs/staff-software-engineer-console-deepgram",
+      "company": {
+        "name": "Deepgram",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/29a513d97ee19c52fd560fdc6e6b207b3854fee9a0b2f29fbd3d5ad1c8b894d6.jpeg",
+        "website": "https://deepgram.com",
+        "url": "https://remotejobs.org/companies/deepgram"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "USA - Remote",
+      "location_normalization": {
+        "raw": "USA - Remote",
+        "input": {
+          "workArrangement": "remote"
+        },
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "worksite_countries": [
+          "US"
+        ],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": null,
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": "staff",
+        "role_family": "software-engineering",
+        "required_skills": [],
+        "mentioned_skills": [
+          "golang",
+          "python",
+          "rust"
+        ],
+        "preferred_skills": [
+          "react",
+          "rust"
+        ],
+        "experience_requirements": []
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "f10e79df-a1d4-489a-b173-9e52af12abb2",
+      "direct_apply": null,
+      "description": "<h2><strong>Company Overview</strong></h2><p>Deepgram is bringing the world’s most natural interface, voice, to the technology we use every day. Our speech models and real-time infrastructure power AI systems that keep up with the way people actually speak. More than 5,000 organizations run conversational voice AI on Deepgram in production, including Twilio, Cloudflare, Sierra, Decagon, Vapi, Cresta, Granola, and Jack in the Box.</p><p>The Deepgram Voice Agent Platform brings together speech-to-text, text-to-speech and speech-to-speech, with voice-native foundation models available through cloud APIs or self-hosted and on-premises deployments. Built for accuracy, low latency and cost efficiency, Deepgram makes high-quality voice experiences practical to build and run at scale. More than 650,000 developers have used Deepgram to process more than 200,000 years of audio. Every day, more of the world’s conversations with AI run on our models.</p><p><strong>Operating Principles:</strong></p><p>Deepgram is a research company that productizes as fast as possible. Four Operating Principles shape how we think, decide, and work together:</p><ol><li><p><em>Compress before you communicate. </em>You think it through first, then lead with the bottom line.</p></li><li><p><em>Resist entropy. </em>You question what already exists before adding more process or tools.</p></li><li><p><em>Solve the category. </em>You fix recurring problems at the source, not one case at a time.</p></li><li><p><em>Work at the frontier. </em>You go after problems no one has solved yet.</p></li></ol><p>We look for people who already work this way, and these principles shape how we grow and evaluate our team.</p><h2><strong>AI-First by Default</strong></h2><p>We build AI that millions of people talk to, and we run the company the same way. AI is how we centralize work here, and is core to how we operate.</p><p>That means more than using the tools. We expect you to:</p><ul><li><p>Build, not just use. Design your own workflows and agents, and use AI to remove whole categories of work instead of doing the same work faster.</p></li><li><p>Own the output. AI can speed up the work. It doesn’t make anyone less accountable for it. You understand, verify, and stand behind everything you share, including what an agent produces for you.</p></li><li><p>Spend the time you get back at the frontier. The capacity AI creates goes toward problems no one has solved yet.</p></li><li><p>Keep pace. Models and tools change every month, and so will your work. You adopt what’s new quickly and drop what no longer earns its place.</p></li></ul><p>We judge AI by what it helps you deliver and whether you stand behind the result, not by how often you use it. In interviews, expect to walk us through a workflow you built and where you drew the line between AI and your own judgment.</p><h3><strong>The Opportunity</strong></h3><p>Deepgram is looking for a Staff Software Engineer to be the technical lead of the Console team.</p><p>Deepgram is the leader in developer-friendly building blocks for language AI: real-time transcription, voice agents, and audio intelligence at scale. The Console team owns the product surfaces that help developers discover, test, and adopt Deepgram. That includes customer-facing experiences like Console and Playground, account management (authorization, billing, analytics), agentic tooling integrations like MCP servers and SDK experiences, and internal tools that support teams across the company. These surfaces shape a customer's first impression of Deepgram and directly influence buying decisions.</p><p>In the current wave of AI-native development, developer experience is the product. The best infrastructure wins by being the easiest to trust.</p><p>As a Staff engineer, you'll set the technical direction for our self-serve platform and lead large, high-priority, cross-functional projects that shape the company's product-led growth. You'll partner with senior leaders in Engineering, Product, Design, Sales, and Marketing, help set priorities, and anticipate the problems we'll face before they arrive. You'll still write a lot of code. We're looking for a strong full-stack generalist with broad product instincts.</p><h3><strong>What You'll Do</strong></h3><ul><li><p>Set the technical strategy and architecture for Console, Playground, account management services, and agentic developer tooling. Make sure today's decisions scale with our product-led growth plans.</p></li><li><p>Lead large, high-priority, cross-functional projects from ambiguous idea to launch. Drive the key technical decisions and keep stakeholders informed at major milestones.</p></li><li><p>Partner with senior leaders in Engineering, Product, Design, Sales, and Marketing on roadmap and company direction, especially for AI-native developer experience.</p></li><li><p>Set priorities with the engineering manager and product leadership, and translate them into clear, incrementally releasable work for the team.</p></li><li><p>Build and ship full-stack features yourself, including polished user interfaces and the APIs and backend services behind them.</p></li><li><p>Drive the technical foundation of the self-serve growth engine: activation funnels, in-product upgrade flows, usage-based billing instrumentation, and PLG experimentation.</p></li><li><p>Shape how developers use Deepgram through AI tools, including MCP servers, SDK experiences, AI agent playgrounds, and LLM-powered developer tooling.</p></li><li><p>Spot recurring patterns in incidents, tech debt, and delivery problems. Surface root causes to leadership, anticipate future problems, and own the solutions.</p></li><li><p>Raise the engineering bar across the team through design reviews, code reviews, technical standards, and mentoring senior and mid-level engineers.</p></li></ul><h3><strong>What We're Looking For</strong></h3><ul><li><p>8+ years of professional software engineering experience, with a track record of shipping full-stack web applications used by customers.</p></li><li><p>Experience as a technical lead on large, cross-functional projects with significant business impact.</p></li><li><p>Strong front-end skills with modern web technologies and frameworks, and a strong command of web fundamentals, product quality, and user experience.</p></li><li><p>Solid backend experience in a language such as Python, Rust, Go, or similar, including designing APIs and services for customer-facing products.</p></li><li><p>Proven ability to drive architectural decisions that hold up as products and teams scale.</p></li><li><p>Experience partnering with senior leaders on strategy and prioritization, and influencing without authority.</p></li><li><p>A habit of finding root causes, anticipating problems, and turning them into durable solutions.</p></li><li><p>A consistent record of mentoring engineers and raising the bar on engineering practices.</p></li><li><p>Comfort with startup realities: building quickly, iterating often, and running experiments.</p></li><li><p>Strong written and verbal communication skills.</p></li></ul><h3><strong>Nice to Have</strong></h3><ul><li><p>Experience building AI-powered developer tooling such as playgrounds, SDK experiences, interactive docs, or evaluation UIs for ML models.</p></li><li><p>Experience shipping agentic or voice AI integrations, such as MCP servers, function-calling pipelines, or voice assistant SDKs.</p></li><li><p>Experience driving PLG at a developer-tools company, including activation experiments, usage-based pricing, and upgrade flows.</p></li><li><p>Experience with React, or interest in learning it.</p></li><li><p>Depth in backend systems: databases (Postgres), schema design, and performance optimization at scale.</p></li><li><p>Familiarity with cloud infrastructure, containerized deployments, and hybrid cloud (bare-metal datacenters plus cloud providers).</p></li><li><p>Interest in Rust, LLM APIs, GPUs, and real-time audio systems, and a willingness to challenge common assumptions about where the technology is heading.</p></li></ul><p><em><strong>Notice</strong>: We're aware of individuals impersonating Deepgram recruiters. All legitimate Deepgram recruiting communication comes from an @</em><a href=\"http://deepgram.com\"><em>deepgram.com</em></a><em> email address. If you've received a message claiming to be Deepgram, please forward it to careers@deepgram.com.</em></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/staff-software-engineer-console-deepgram</p>",
+      "posted_at": "2026-11-12T22:32:50.842+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
       "id": "17d41467-8d0b-40c1-83bd-86a65173d5b8",
       "title": "Temporary Works Designated Individual",
       "url": "https://remotejobs.org/remote-jobs/temporary-works-designated-individual-costain-group",
@@ -4609,97 +4683,6 @@
       "direct_apply": null,
       "description": "<h2>We are knowmad mood!</h2>\n<p>Somos una compañía líder en transformación digital, en constante evolución y a la vanguardia de la tecnología. Nacimos para provocar un cambio real a través de la innovación y el desarrollo sostenible, con la misión de aportar valor a los clientes e impulsar nuestro talento.</p>\n<p>Formado por más de 3.000 personas creativas, digitales e innovadoras conectadas a un propósito y capaces de generar conexiones con personas de todo el mundo. Un equipo responsable, flexible y con alta capacidad de adaptación a las necesidades de nuestros clientes y del mercado, a la vez que proporciona valor, visión, creatividad, expertise, profesionalidad y pasión por la tecnología en cada proyecto.</p>\n<p>Los valores que marcan nuestro rumbo y nos guían hacia la excelencia son la colaboración, la innovación, el compromiso, la diversión y la conﬁanza.</p>\n<h2>¿Qué es lo que valoramos?</h2>\n<p>Experiencia de al menos 3 años como Desarrollador Front End con React Native:</p>\n<ul>\n<li>Experiencia como desarrollador frontend con JavaScript, creando aplicaciones funcionales y fiables en múltiples pantallas.</li>\n<li>Experiencia trabajando con React Native para el desarrollo de aplicaciones.</li>\n</ul>\n<h2>• Nivel alto de inglés.</h2>\n<ul>\n<li>Experiencia en la creación de soluciones de entretenimiento, tanto en aplicaciones con gran volumen de usuarios como en herramientas internas para optimizar el desarrollo.</li>\n<li>Capacidad de trabajo en equipo y comunicación efectiva con clientes y equipos multidisciplinarios.</li>\n</ul>\n<h2>¿Cuáles serían tus funciones?</h2>\n<ul>\n<li>Desarrollo de aplicaciones SmartTV: Diseñar, desarrollar y optimizar aplicaciones para entornos SmartTV, asegurando experiencias fluidas y de alta calidad en diferentes dispositivos.</li>\n<li>Desarrollo Frontend: Crear interfaces modernas y eficientes utilizando JavaScript y tecnologías asociadas, garantizando rendimiento y escalabilidad.</li>\n<li>Desarrollo con React Native: Implementar y mantener aplicaciones utilizando React Native, adaptando funcionalidades a múltiples plataformas y pantallas.</li>\n<li>Optimización de experiencia de usuario: Construir soluciones de entretenimiento robustas, ya sea para aplicaciones con millones de usuarios o para herramientas internas que mejoren la productividad del equipo.</li>\n<li>Colaboración Multidisciplinaria: Trabajar estrechamente con equipos de producto, diseño y desarrollo para ofrecer soluciones innovadoras y alineadas con las necesidades del negocio.</li>\n<li><strong>Colaborar en el desarrollo de Soluciones Low-Code/No-Code:</strong> Crear y gestionar soluciones innovadoras utilizando la PowerPlatform (Power Apps, Power Automate, Power BI, Dataverse), adaptadas a las necesidades de nuestros clientes.</li>\n</ul>\n<p>Nos encantaría si además te manejases bien con <strong>Inglés.</strong></p>\n<p><strong>Además, valoraremos muy positivamente si tienes experiencia y/o conocimientos en:</strong></p>\n<ul>\n<li>Desarrollo para plataformas de SmartTV como Samsung, LG o Android TV.</li>\n<li>Experiencia trabajando con Shaka Player u otros reproductores de vídeo en JavaScript.</li>\n<li>Conocimientos en optimización de streaming y reproducción multimedia.</li>\n<li>Experiencia en entornos ágiles de desarrollo.</li>\n<li>Experiencia en el desarrollo de aplicaciones de alto rendimiento y escalabilidad.</li>\n</ul>\n<h2>Y con nosotros podrás disfrutar de:</h2>\n<h2>✅Contrato Indefinido</h2>\n<p>✅<strong>100% REMOTO</strong></p>\n<p>✅Formación interna y acceso a certificaciones ♻Consulta nuestro calendario aquí:</p>\n<p>✅Plan de retribución flexible (seguro médico, transporte, tickets guardería, tickets restaurante)</p>\n<p>✅Embajador de nuestra marca, a través de nuestro plan amigo</p>\n<p>¡Recomienda a tus amigos y llévate un extra!</p>\n<p>✅¡Eventos, meetups, techdays, charlas...y mucho más!</p>\n<p>✅ 26 días de descanso (22 días vacaciones, 2 días de libre disposición y 24 y 31 diciembre festivos por defecto)</p>\n<p>✅ Horario: 8.30 a 18h ( flexible) L-J y V 8 a 15h e Intensiva de Verano Julio y Agosto de 8 a 15h</p>\n<p>Para estar al corriente de nuestras novedades síguenos aquí ->knowmad mood</p>\n<p><em>En</em><strong><em>knowmad mood</em></strong><em>nos comprometemos con la igualdad de oportunidades y el respeto a la diversidad. Aplicamos nuestro Plan de Igualdad y el principio de no discriminación en todos nuestros procesos de selección.</em></p>\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/desarrolladora-frontend-react-native-knowmad-mood</p>",
       "posted_at": "2026-11-12T20:56:13+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "9d6912be-92a7-4bf5-88a4-3b39bb7e2c08",
-      "title": "Data Center ICT/Telecom Engineer, Senior Consultant",
-      "url": "https://remotejobs.org/remote-jobs/data-center-icttelecom-engineer-senior-consultant-wsp-africa",
-      "apply_url": "https://remotejobs.org/remote-jobs/data-center-icttelecom-engineer-senior-consultant-wsp-africa",
-      "company": {
-        "name": "WSP Africa",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/c57734acd50db504a863c850cc1ebed9330a4bf825c34374b470f0c0469dffc9.webp",
-        "website": "https://wsp.io",
-        "url": "https://remotejobs.org/companies/wsp-africa"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "United States",
-      "location_normalization": {
-        "raw": "United States",
-        "input": {},
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [],
-        "evidence_ids": [
-          "source-location"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": "senior",
-        "role_family": null,
-        "required_skills": [],
-        "mentioned_skills": [],
-        "preferred_skills": [],
-        "experience_requirements": [
-          {
-            "text": "5-7 years of experience",
-            "maximum_years": 7,
-            "minimum_years": 5,
-            "classification": "mentioned"
-          }
-        ]
-      },
-      "salary_min": 112000,
-      "salary_max": 147000,
-      "salary_text": "USD 112,000–147,000/year",
-      "salary_source_text": "USD 112000 - 147000",
-      "salary_currency": "USD",
-      "salary_period": "year",
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<p><strong>Accelerate possibilities</strong>. The WSP Data Center CoE (Center of Excellence) is growing, and we’re looking for smart, responsive, collaborative people to join us. Our CoE is 100% focused on data centers—supporting the world’s leading AI and cloud infrastructure companies. You’ll work to help tackle our clients’ biggest challenges: Where to build? How to secure power and water? How to develop responsibly and become a valued part of the community? AI is transforming life from scientific discoveries to smarter transportation and more sustainable communities. Data centers make it possible.</p>\n<p>With us, you can build impact, deliver remarkable projects, and grow your career while shaping the future of the data center industry.</p>\n<h2>This Opportunity</h2>\n<p>WSP is currently initiating a search for a <strong>Data Center ICT/Telecom Designer, Senior Conusltant</strong> to sit in any of our kW offices or work remotely. As a Telecommunications Designer with us, you will design Outside Plant Pathways and other building systems including MMR/IDF layouts, Cable Tray layouts, Wireless Access Point layouts, and structured Cabling infrastructure layout to support the Controls Network</p>\n<h2>Your Impact</h2>\n<ul>\n<li>Work independently to perform a variety of BIM/CAD design assignments supporting multiple engineering disciplines</li>\n<li>Produce accurate 2D drawings, 3D BIM Models using Revit or equivalent BIM program</li>\n<li>Design low voltage systems for buildings including telecommunications systems, audio visual, security, and electrical/mechanical control integrations</li>\n<li>Meet required schedules while producing quality work</li>\n<li>Perform Quality Assurance/Quality Control of design packages</li>\n<li>Perform design tasks for site and building technologies including telecommunications systems, audio visual, security, and control integrations</li>\n<li>Independently support the team during design and construction stages of projects</li>\n<li>Research &#x26; recommend fundamental components identified in designs</li>\n<li>Develop equipment, conveyance and device layouts, floor plan, and riser diagrams</li>\n<li>Prepare cable schedules and specifications</li>\n<li>Perform construction administrations tasks</li>\n<li>Survey and evaluate existing conditions</li>\n<li>Work within multi-discipline project teams to develop drawing and specification documents for issuance to architects, contractors and building owners</li>\n<li>Demonstrate significant understanding of the range of services provided by the kW MCE engineering and design teams &#x26; related practices</li>\n<li>Implement best practice procedures</li>\n<li>Integrate project requirements into mission critical facility designs</li>\n<li>Attend and represent the Telecom discipline in internal and client facing meetings</li>\n<li>Lead Telecom design team on projects</li>\n<li>Mentor and lead junior designers</li>\n</ul>\n<h2>Who You Are</h2>\n<p>The ideal candidate is highly experienced in Revit and AutoCAD and has experience in information and communications technology. Strong communication skills, and an interest in liaising with internal and external design, client and construction team members are also necessary.</p>\n<h2>Required Qualifications</h2>\n<ul>\n<li>5-7 years of experience designing low voltage systems for high performing commercial, industrial, or mission critical/data center buildings</li>\n<li>Bachelor’s Degree or equivalent relevant work experience</li>\n<li>Experience with applicable software packages including AutoCAD, Revit</li>\n<li>Excellent verbal and written communication skills</li>\n<li>Attention to detail, highly organized, self-starter?</li>\n<li>Ability to travel to project sites</li>\n<li>Proven track record of upholding workplace safety and ability to abide by WSP’s health, safety and drug/alcohol and harassment policies.</li>\n</ul>\n<h2>Preferred Qualifications :</h2>\n<ul>\n<li>Mission Critical/Data Center experience</li>\n<li>Experience with international projects</li>\n<li>RCDD and/or DCDC certifications</li>\n</ul>\n<h2>WSP Benefits</h2>\n<p>WSP provides a comprehensive suite of benefits focused on providing health and financial stability throughout the employee’s career. These benefits include coverage related to medical, dental, vision, disability, and life; retirement savings; paid sick leave; paid vacation (or other personal time); paid parental leave; and paid time off for purposes of bereavement, voting, and/or attendance at naturalization proceedings.</p>\n<h2>Compensation</h2>\n<ul>\n<li>Expected Salary (all locations): $112,000- $147,000.</li>\n<li>Expected Salary(Colorado): $112,000- $147,000</li>\n</ul>\n<p>WSP USA is providing the compensation range that the company in good faith believes it might pay and offer for this position, based on the successful applicant’s education, experience, knowledge, skills, abilities in addition to internal equity and specific geographic location. WSP USA reserves the right to ultimately pay more or less than the posted range and offer additional benefits and other compensation, depending on circumstances not related to an applicant’s sex or other status protected by local, state, and/or federal law.</p>\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/data-center-icttelecom-engineer-senior-consultant-wsp-africa</p>",
-      "posted_at": "2026-11-12T20:55:13+00:00",
       "is_translated": false,
       "original_language": null
     },
@@ -9618,7 +9601,29 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [
+          "BR"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
