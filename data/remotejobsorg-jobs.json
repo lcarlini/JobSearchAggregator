@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T13:04:38.622Z",
+  "generatedAt": "2026-11-14T22:03:01.871Z",
   "count": 150,
   "data": [
     {
@@ -3588,7 +3588,29 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -10819,6 +10841,206 @@
       "original_language": null
     },
     {
+      "id": "69579fea-9c18-421d-9f54-e7350f1477da",
+      "title": "Data Scientist II, Marketing",
+      "url": "https://remotejobs.org/remote-jobs/data-scientist-ii-marketing-thumbtack-d6f4fd31bb414d3b911401d3e24d4ee8",
+      "apply_url": "https://remotejobs.org/remote-jobs/data-scientist-ii-marketing-thumbtack-d6f4fd31bb414d3b911401d3e24d4ee8",
+      "company": {
+        "name": "Thumbtack",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/00ea3bdf9edbf4041767207c31278656e1254111193ab62826fe7c8138a027c1.jpeg",
+        "website": "https://thumbtack.com",
+        "url": "https://remotejobs.org/companies/thumbtack"
+      },
+      "category": {
+        "name": "Data Science",
+        "slug": "data-science"
+      },
+      "location": "Remote, Ontario",
+      "location_normalization": {
+        "raw": "Remote, Ontario",
+        "input": {
+          "workArrangement": "remote"
+        },
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "worksite_countries": [
+          "CA"
+        ],
+        "allowed_subdivisions": [
+          "CA-ON"
+        ],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [
+          "CA-ON"
+        ],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": null,
+        "role_family": "data-science",
+        "required_skills": [],
+        "mentioned_skills": [
+          "python",
+          "r",
+          "sql"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": [
+          {
+            "text": "3+ years of experience in marketing data science, strong understanding of digital marketing and experience with marketing measurement and performance optimization",
+            "maximum_years": null,
+            "minimum_years": 3,
+            "classification": "mentioned"
+          }
+        ]
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "0b760f61-107f-4464-9913-30752fde85a9",
+      "direct_apply": null,
+      "description": "<h2><strong>Thumbtack helps millions of people confidently care for their homes.</strong></h2>\n<p>Thumbtack is the one app you need to take care of and improve your home — from personalized guidance to AI tools and a best-in-class hiring experience. Every day in every county of the U.S., people turn to Thumbtack to complete urgent repairs, seasonal maintenance and bigger improvements. We help homeowners know which projects to do, when to do them and who to hire from our growing community of 300,000 local service businesses. If making an impact inspires you, join us. Imagine what we’ll build together.</p>\n<h2><strong>About the Data Science Team</strong></h2>\n<p>The data science team empowers Thumbtack to use data to guide business decisions. We collaborate with partners across the company to solve the most analytically challenging problems -- everything from how we set prices across hundreds of local services categories, to evaluating the impact of a new business model on company performance, to identifying early predictors of high-quality customers. We are a tight-knit, intellectually curious team that is committed to improving Thumbtack and improving each other.</p>\n<h2>About the role</h2>\n<p>As a Marketing Data Scientist II at Thumbtack, you’ll be expected to leverage your analytical expertise, marketing knowledge, communication and collaboration skills to drive a variety of high-impact projects. You will embed directly with the paid marketing team to help optimize various marketing channels, drive personalization and discover new channels. Outside growth marketing work, you’ll contribute to our broader Data Science team and company data culture by sharing your learnings, partnering with others, and building new capabilities for how we can use data to guide decisions.</p>\n<h2><strong>What you’ll do</strong></h2>\n<ul>\n<li>\n<p>Own end-to-end analytics for growth marketing, partnering with Marketing, Finance, and external partners to understand user behavior, define target audiences, measure campaign performance, and forecast and allocate budgets.</p>\n</li>\n<li>\n<p>Translate ambiguous business questions into rigorous analyses and clear recommendations that improve individual campaign performance and optimize the overall marketing channel mix.</p>\n</li>\n<li>\n<p>Design, execute, and interpret experiments and quasi-experiments to enable causal inference and inform high-stakes marketing investment decisions.</p>\n</li>\n<li>\n<p>Partner closely with MarTech, Product Management, and Engineering to scope, build, and evaluate new capabilities—such as developing local market intelligence framework and improvements to customer LTV bidding systems—ensuring measurable performance gains.</p>\n</li>\n<li>\n<p>Develop deep domain expertise in growth marketing measurement, experimentation, customer segmentation, and targeting optimization, and apply that expertise to influence strategy and execution.</p>\n</li>\n<li>\n<p>Collaborate with cross-functional partners to build scalable analytical solutions, tools, and frameworks that unlock sustained growth.</p>\n</li>\n<li>\n<p>Raise the bar for Thumbtack’s data culture by designing, maintaining, and documenting high-quality, trusted data tables and metrics that enable self-serve decision-making across teams.</p>\n</li>\n</ul>\n<h2><strong>In order to be successful, you must bring</strong></h2>\n<ul>\n<li>\n<p>Bachelor’s degree in statistics, mathematics, data science, economics, or a related quantitative field (advanced degree a plus).</p>\n</li>\n<li>\n<p>3+ years of experience in marketing data science, strong understanding of digital marketing and experience with marketing measurement and performance optimization.</p>\n</li>\n<li>\n<p>Advanced SQL skills, proficiency in Python or R, and experience using Looker or similar BI tools to drive insights.</p>\n</li>\n<li>\n<p>Experience working with large and imperfect datasets at scale, and building and applying statistical and/or machine learning models to solve real-world business problems.</p>\n</li>\n<li>\n<p>A passion for problem-solving and critical thinking, with the ability to navigate ambiguity and turn data into clear, actionable insights.</p>\n</li>\n<li>\n<p>Strong business judgment and the ability to identify signal in noisy, imperfect data.</p>\n</li>\n<li>\n<p>Excellent communicator and compelling storyteller, with the ability to listen deeply, explain complex concepts clearly, and influence cross-functional partners.</p>\n</li>\n</ul>\n<h2><strong>Expected salary ranges</strong></h2>\n<ul>\n<li>For candidates living in Ontario and British Columbia, the expected total cash compensation (base salary + variable pay, if applicable) range for this role is currently $168,300.00 - $217,800.00.</li>\n</ul>\n<p>Actual offered salaries will vary and will be based on various factors, such as calibrated job level, qualifications, skills, competencies, and proficiency for the role.</p>\n<p>Thumbtack embraces diversity. We are proud to be an equal opportunity workplace and do not discriminate on the basis of sex, race, color, age, pregnancy, sexual orientation, gender identity or expression, religion, national origin, ancestry, citizenship, marital status, military or veteran status, genetic information, disability status, or any other characteristic protected by federal, provincial, state, or local law. We also will consider for employment qualified applicants with arrest and conviction records, consistent with applicable law.</p>\n<p>Thumbtack is committed to working with and providing reasonable accommodation to individuals with disabilities. If you would like to request a reasonable accommodation for a medical condition or disability during any part of the application process, please contact: <a href=\"mailto:recruitingops@thumbtack.com\">recruitingops@thumbtack.com</a>.</p>\n<p>For information about how Thumbtack collects, uses, and shares personal information about job applicants, please see our <a href=\"https://www.thumbtack.com/job-applicant-privacy-policy\">Job Applicant Privacy Policy</a>.</p>\n<p>We put as much craftsmanship into candidate safety as we do into the hiring experience itself. While scammers may try to impersonate our team, we’ll never ask you for money, banking info, or SSNs during hiring. <a href=\"https://careers.thumbtack.com/recruiting-scams\">Check out our blueprint on how to spot the fakes.</a></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/data-scientist-ii-marketing-thumbtack-d6f4fd31bb414d3b911401d3e24d4ee8</p>",
+      "posted_at": "2026-11-10T23:04:55.81+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "d2f62064-1a00-4851-8bdc-c93d424dc6cf",
+      "title": "Data Scientist II, Marketing",
+      "url": "https://remotejobs.org/remote-jobs/data-scientist-ii-marketing-thumbtack",
+      "apply_url": "https://remotejobs.org/remote-jobs/data-scientist-ii-marketing-thumbtack",
+      "company": {
+        "name": "Thumbtack",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/00ea3bdf9edbf4041767207c31278656e1254111193ab62826fe7c8138a027c1.jpeg",
+        "website": "https://thumbtack.com",
+        "url": "https://remotejobs.org/companies/thumbtack"
+      },
+      "category": {
+        "name": "Data Science",
+        "slug": "data-science"
+      },
+      "location": "Remote, United States",
+      "location_normalization": {
+        "raw": "Remote, United States",
+        "input": {
+          "workArrangement": "remote"
+        },
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "worksite_countries": [
+          "US"
+        ],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": null,
+        "role_family": "data-science",
+        "required_skills": [],
+        "mentioned_skills": [
+          "python",
+          "r",
+          "sql"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": [
+          {
+            "text": "3+ years of experience in marketing data science, strong understanding of digital marketing and experience with marketing measurement and performance optimization",
+            "maximum_years": null,
+            "minimum_years": 3,
+            "classification": "mentioned"
+          }
+        ]
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "41a2b5a1-eff3-4a32-9e5f-e51f7e7856e8",
+      "direct_apply": null,
+      "description": "<h2><strong>Thumbtack helps millions of people confidently care for their homes.</strong></h2>\n<p>Thumbtack is the one app you need to take care of and improve your home — from personalized guidance to AI tools and a best-in-class hiring experience. Every day in every county of the U.S., people turn to Thumbtack to complete urgent repairs, seasonal maintenance and bigger improvements. We help homeowners know which projects to do, when to do them and who to hire from our growing community of 300,000 local service businesses. If making an impact inspires you, join us. Imagine what we’ll build together.</p>\n<h2><strong>About the Data Science Team</strong></h2>\n<p>The data science team empowers Thumbtack to use data to guide business decisions. We collaborate with partners across the company to solve the most analytically challenging problems -- everything from how we set prices across hundreds of local services categories, to evaluating the impact of a new business model on company performance, to identifying early predictors of high-quality customers. We are a tight-knit, intellectually curious team that is committed to improving Thumbtack and improving each other.</p>\n<h2>About the role</h2>\n<p>As a Marketing Data Scientist II at Thumbtack, you’ll be expected to leverage your analytical expertise, marketing knowledge, communication and collaboration skills to drive a variety of high-impact projects. You will embed directly with the paid marketing team to help optimize various marketing channels, drive personalization and discover new channels. Outside growth marketing work, you’ll contribute to our broader Data Science team and company data culture by sharing your learnings, partnering with others, and building new capabilities for how we can use data to guide decisions.</p>\n<h2><strong>What you’ll do</strong></h2>\n<ul>\n<li>\n<p>Own end-to-end analytics for growth marketing, partnering with Marketing, Finance, and external partners to understand user behavior, define target audiences, measure campaign performance, and forecast and allocate budgets.</p>\n</li>\n<li>\n<p>Translate ambiguous business questions into rigorous analyses and clear recommendations that improve individual campaign performance and optimize the overall marketing channel mix.</p>\n</li>\n<li>\n<p>Design, execute, and interpret experiments and quasi-experiments to enable causal inference and inform high-stakes marketing investment decisions.</p>\n</li>\n<li>\n<p>Partner closely with MarTech, Product Management, and Engineering to scope, build, and evaluate new capabilities—such as developing local market intelligence framework and improvements to customer LTV bidding systems—ensuring measurable performance gains.</p>\n</li>\n<li>\n<p>Develop deep domain expertise in growth marketing measurement, experimentation, customer segmentation, and targeting optimization, and apply that expertise to influence strategy and execution.</p>\n</li>\n<li>\n<p>Collaborate with cross-functional partners to build scalable analytical solutions, tools, and frameworks that unlock sustained growth.</p>\n</li>\n<li>\n<p>Raise the bar for Thumbtack’s data culture by designing, maintaining, and documenting high-quality, trusted data tables and metrics that enable self-serve decision-making across teams.</p>\n</li>\n</ul>\n<h2><strong>In order to be successful, you must bring</strong></h2>\n<ul>\n<li>\n<p>Bachelor’s degree in statistics, mathematics, data science, economics, or a related quantitative field (advanced degree a plus).</p>\n</li>\n<li>\n<p>3+ years of experience in marketing data science, strong understanding of digital marketing and experience with marketing measurement and performance optimization.</p>\n</li>\n<li>\n<p>Advanced SQL skills, proficiency in Python or R, and experience using Looker or similar BI tools to drive insights.</p>\n</li>\n<li>\n<p>Experience working with large and imperfect datasets at scale, and building and applying statistical and/or machine learning models to solve real-world business problems.</p>\n</li>\n<li>\n<p>A passion for problem-solving and critical thinking, with the ability to navigate ambiguity and turn data into clear, actionable insights.</p>\n</li>\n<li>\n<p>Strong business judgment and the ability to identify signal in noisy, imperfect data.</p>\n</li>\n<li>\n<p>Excellent communicator and compelling storyteller, with the ability to listen deeply, explain complex concepts clearly, and influence cross-functional partners.</p>\n</li>\n</ul>\n<h2><strong>Expected salary ranges</strong></h2>\n<ul>\n<li>\n<p>For candidates living in San Francisco / Bay Area, San Jose, New York City, or Seattle metros, the expected total cash compensation (base salary + variable pay, if applicable) range for the role is currently $197,200.00 - $255,200.00.</p>\n</li>\n<li>\n<p>For candidates living in Austin, TX or Washington DC metros or in California, Massachusetts, New Jersey, or Washington states, the expected total cash compensation (base salary + variable pay, if applicable) range for the role is currently $177,700.00 - $229,900.00.</p>\n</li>\n<li>\n<p>For candidates living in all other US locations, the expected total cash compensation (base salary + variable pay, if applicable) range for this role is currently $167,500.00 - $216,700.00.</p>\n</li>\n</ul>\n<p>Actual offered salaries will vary and will be based on various factors, such as calibrated job level, qualifications, skills, competencies, and proficiency for the role.</p>\n<p>Thumbtack embraces diversity. We are proud to be an equal opportunity workplace and do not discriminate on the basis of sex, race, color, age, pregnancy, sexual orientation, gender identity or expression, religion, national origin, ancestry, citizenship, marital status, military or veteran status, genetic information, disability status, or any other characteristic protected by federal, provincial, state, or local law. We also will consider for employment qualified applicants with arrest and conviction records, consistent with applicable law.</p>\n<p>Thumbtack is committed to working with and providing reasonable accommodation to individuals with disabilities. If you would like to request a reasonable accommodation for a medical condition or disability during any part of the application process, please contact: <a href=\"mailto:recruitingops@thumbtack.com\">recruitingops@thumbtack.com</a>.</p>\n<p>For information about how Thumbtack collects, uses, and shares personal information about job applicants, please see our <a href=\"https://www.thumbtack.com/job-applicant-privacy-policy\">Job Applicant Privacy Policy</a>.</p>\n<p>We put as much craftsmanship into candidate safety as we do into the hiring experience itself. While scammers may try to impersonate our team, we’ll never ask you for money, banking info, or SSNs during hiring. <a href=\"https://careers.thumbtack.com/recruiting-scams\">Check out our blueprint on how to spot the fakes.</a></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/data-scientist-ii-marketing-thumbtack</p>",
+      "posted_at": "2026-11-10T23:04:50.894+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
       "id": "4d6a613f-ccf8-405f-b544-a41b48e9734a",
       "title": "Senior Software Engineer (Computer Vision / ML Engineer)",
       "url": "https://remotejobs.org/remote-jobs/senior-software-engineer-computer-vision-ml-engineer-relx",
@@ -14015,192 +14237,6 @@
       "direct_apply": null,
       "description": "<p>At Acxiom, our vision is to transform data into value for everyone. Our data services enable marketers to recognize, better understand, and deliver highly applicable messages to consumers across any available channel. Our solutions enable true people-based marketing with identity resolution and rich descriptive and predictive audience segmentation. We are seeking a Data Analyst with a versatile skill set to undertake data science and analytics supporting the development of next-generation products for Acxiom’s business.<br>\n<br>\nAs part of the Data Sciences &#x26; Analytics Team, you will work hands-on with innovative technologies to build scalable data products and solutions for our US and global businesses. Your responsibilities include evaluating potential new data partners, establishing quality control processes, monitoring data refreshes, supporting the build of a multi-sourced CPG data product, and QA the final product prior to release/update.</p>\n<h2>What you will do:</h2>\n<ul>\n<li>Research and develop an understanding of Acxiom products, tools, and processes</li>\n</ul>\n<ul>\n<li>Assist with the validation and delivery of products or improvements</li>\n</ul>\n<ul>\n<li>Prepare analysis datasets by appending data, deduping, loading data to analysis applications, and merging with other datasets</li>\n</ul>\n<ul>\n<li>Perform queries on the data to discern data anomalies and quality audits to ensure the accuracy of the rules or statistical models</li>\n</ul>\n<ul>\n<li>Assist with engineering, build teams, delivery and platform teams to ensure appropriate data delivery and presentation</li>\n</ul>\n<ul>\n<li>Perform basic research/analysis which includes accuracy reports, cross-tabs, frequencies, data hygiene, correlations, data summarizations, and profiles reports or profile data</li>\n</ul>\n<ul>\n<li>Collaborate with other data scientists and team leads to define project requirements including data sources, algorithms, and implementation</li>\n</ul>\n<ul>\n<li>Offer ideas for product and/or process improvements such as automation related to focus area of work</li>\n</ul>\n<ul>\n<li>Extract, load, and transform data as preparation for modeling. Build and maintain data mart solutions to support scored model outputs</li>\n</ul>\n<h2>What you will need:</h2>\n<ul>\n<li>Working knowledge or experience with one or more of the following tools: SQL, R, Python, Scala, Spark or similar programming language</li>\n</ul>\n<ul>\n<li>3-5 years experience with ETL, data transformation, data mart development, data source ingestion, data pipelining, data warehousing solutions</li>\n</ul>\n<ul>\n<li>3-5 years experience with cloud computing environments and/or certifications - Databricks and/or Snowflake is a plus.</li>\n</ul>\n<ul>\n<li>Ability to demonstrate critical thinking and enthusiasm for translating data into actionable insight to generate consistently accurate and useful analysis and models</li>\n</ul>\n<ul>\n<li>Ability to quality control production processes</li>\n</ul>\n<ul>\n<li>Ability to develop dashboards or reporting for monitoring data performance and consistency.</li>\n</ul>\n<ul>\n<li>Bachelor’s Degree in a quantitative field (Applied Mathematics, Applied Statistics, Economics, or Computer Science) or related degree programs and 3 years of relevant work experience</li>\n</ul>\n<ul>\n<li>Ability to work independently when given detailed specification and instruction</li>\n</ul>\n<ul>\n<li>Standout colleague, flexible, and creative</li>\n</ul>\n<ul>\n<li>Attention to detail and time management delivering high quality work while meeting deadlines</li>\n</ul>\n<ul>\n<li>Experience working with large datasets</li>\n</ul>\n<ul>\n<li>Experience Microsoft Office suite – especially Excel, Power Point, Word</li>\n</ul>\n<h2>What will set you apart:</h2>\n<ul>\n<li>Databricks data analyst certification and experience with CPG transaction level data</li>\n</ul>\n<ul>\n<li>Familiarity with cloud environments (e.g. AWS, Google Cloud Platform, Azure etc.) a plus</li>\n</ul>\n<ul>\n<li>Experience in statistical modeling techniques to conduct forecasting and other predictive modeling services using R, Python, Scala, Spark/pySpark</li>\n</ul>\n<p>We believe in building an awesome workplace where associates feel engaged and want to come to work every single day. It’s important to Acxiom that we invest in our culture and promote a healthy work-life balance, even when our associates are at work.<br>\n<br>\nAs a part of our team, you will join a fast-moving, dynamic, “get stuff done” culture we empower our people to do their jobs. You will always be guided to do what’s right, legally and morally for our customers. At Acxiom, we believe in exceptionalism- we intend to be the absolute best in everything we do</p>\n<h2>Primary Location City/State:</h2>\n<p>Homebased - Conway, Arkansas</p>\n<h2>Additional Locations (if applicable):</h2>\n<p>Acxiom is an equal opportunity employer, including disability and protected veteran status (EOE/Vet/Disabled) and does not discriminate in recruiting, hiring, training, promotion or other employment of associates or the awarding of subcontracts because of a person's race, color, sex, age, religion, national origin, protected veteran, military status, physical or mental disability, sexual orientation, gender identity or expression, genetics or other protected status.</p>\n<p>Attention California Applicants: Please see our CCPA/CPRA Privacy Act notice here.</p>\n<p>Attention Colorado, California, Connecticut, Massachusetts, Maryland, Nevada, New Jersey, New York City, Ohio, Rhode Island, Virginia, and Washington Applicants: This position is not located in the aforementioned locations but applications for remote work may be considered. For information about this role under state or local equal pay or pay transparency laws, please contact .</p>\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/product-testing-analyst-acxiom</p>",
       "posted_at": "2026-11-06T20:29:33+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "1863960d-35cd-45cc-8db0-0ff07da8a9d4",
-      "title": "Senior Director, Risk Automation & Intelligence",
-      "url": "https://remotejobs.org/remote-jobs/senior-director-risk-automation-intelligence-gsk",
-      "apply_url": "https://remotejobs.org/remote-jobs/senior-director-risk-automation-intelligence-gsk",
-      "company": {
-        "name": "GSK",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/ddec9ba7470882bae11181e6f94ecc33d303cd34d88340eae03fec66a2ff1f61.jpeg",
-        "website": "https://openpaymentsdata.cms.gov",
-        "url": "https://remotejobs.org/companies/gsk"
-      },
-      "category": {
-        "name": "Data Science",
-        "slug": "data-science"
-      },
-      "location": "United States",
-      "location_normalization": {
-        "raw": "United States",
-        "input": {},
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [],
-        "evidence_ids": [
-          "source-location"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "partial",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": null,
-        "role_family": null,
-        "required_skills": [],
-        "mentioned_skills": [
-          "aws",
-          "python",
-          "sql"
-        ],
-        "preferred_skills": [],
-        "experience_requirements": []
-      },
-      "salary_min": 195000,
-      "salary_max": 325000,
-      "salary_text": "USD 195,000–325,000/year",
-      "salary_source_text": "USD 195000 - 325000",
-      "salary_currency": "USD",
-      "salary_period": "year",
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<h2>Business Introduction</h2><p>GSK remains committed to achieving bold commercial ambitions for the future. By 2031, we aim to deliver £40 billion in annual sales, leveraging our existing strong performance momentum to significantly increase our positive impact on the health of billions of patients globally. Our Ahead Together strategy is centred on early intervention to prevent and alter the course of disease, thereby protecting people and supporting healthcare systems.<br>Our diverse portfolio consists of vaccines, specialty medicines, and general medicines.<br>Through continuous innovation and a dedicated focus on scientific and technical excellence, we strive to develop and launch new, groundbreaking treatments that address critical health challenges.<br></p><h2>Position Summary  </h2><p>The Senior Director, Risk Automation &#x26; Intelligence leads the strategy and execution of the data, analytics and automation capabilities that the rest of the Technology Risk and Compliance function relies on to manage risk and demonstrate compliance effectively and efficiently. This is a senior leadership role accountable for the capability across GSK, spanning policy, process, automation and tooling, training and end-user experience for Technology Risk and Compliance capabilities and services. </p><p>About the team. Risk Automation and Intelligence is the engine room of the Risk and Compliance function's data and automation, operating as GSK's Risk Operations Centre. The team builds future-ready analytics, automation and intelligence that enable GSK to manage technology risk and compliance proactively and at scale.</p><h2>Key responsibilities:</h2><p>This role will provide you the opportunity to lead key activities to progress your career. These responsibilities include some of the following:</p><ul><li>Set the enterprise vision and multi-year strategy for the data, analytics and automation capabilities that underpin Technology Risk and Compliance at GSK, and secure the investment to deliver it.</li></ul><ul><li>Lead the Risk Automation &#x26; Intelligence organisation, including leaders of teams, and own its capability plan.</li></ul><ul><li>Own the budget, vendor portfolio and headcount plan for the capability.</li></ul><ul><li>Represent the capability to the CISO, GSK Tech leadership, auditors and regulators.</li></ul><ul><li>Own GSK's Cyber Security Policies, ensuring they remain current, practical and aligned with the evolving threat, technology and regulatory landscape.</li></ul><ul><li>Own the Technology Risk and Compliance processes used across GSK, ensuring they are well-designed, consistently applied and continuously improved.</li></ul><ul><li>Own the integration between Technology Risk and Compliance and GSK's Enterprise Risk Programme, ensuring technology risk is represented accurately and consistently in enterprise risk reporting and governance. </li></ul><ul><li>Operate and evolve GSK's Risk Operations Centre model, bringing modern Risk Operations Centre concepts, continuous controls monitoring and quantitative risk analysis into how GSK manages technology risk and compliance. </li></ul><ul><li>Bring product management rigour to the roadmap for risk and compliance tooling, translating the needs of stakeholders at Director, VP and SVP level into prioritised features and releases. </li></ul><ul><li>Build and lead the capability that automates risk, control and compliance processes, including AI and intelligent automation, to replace manual effort with proactive, at-scale risk management. </li></ul><ul><li>Develop risk analytics, models and quantitative risk methods that help the business identify, evaluate and treat cyber risk, and that support prioritisation and inform resource and investment decisions for leadership, ExCom and the Board. </li></ul><ul><li>Develop performance analytics that measure the effectiveness and operational efficiency of the Technology Risk and Compliance programme itself, driving continuous improvement. </li></ul><ul><li>Own the data platform and pipelines underpinning risk intelligence, including the tooling used for Board-level Key Risk Indicators, issue and risk management, third-party cyber risk management and software development lifecycle compliance. </li></ul><ul><li>Own the GRC tooling strategy, including ServiceNow, ensuring the platforms used across GSK for risk and compliance management are modern, well-integrated and fit for purpose. </li></ul><ul><li>Bring fresh, innovative thinking to how GSK instruments and automates risk and compliance, challenging existing approaches to deliver superior outcomes with less manual effort. </li></ul><ul><li>Lead your team in using approved AI tools to improve productivity and ways of working, role-modelling responsible use and follow GSK’s Responsible AI, privacy and security requirements. </li></ul><p><strong>Why You?</strong><br><strong>Basic Qualification </strong><br>We are seeking professionals with the following required skills and qualifications to help us achieve our goals:  </p><ul>\n<li>Bachelor’s degree. </li>\n<li>Experience in risk analytics, automation or security data science. </li>\n<li>Experience building AI and intelligent automation solutions. </li>\n<li>Product management experience, including applying Agile delivery methods and translating stakeholder requirements into a prioritised roadmap. </li>\n<li>Experience applying Lean Six Sigma or other process excellence methodologies. </li>\n<li>Experience delivering data platforms and data pipelines. </li>\n<li>Experience leading a technical capability. </li>\n<li>Cyber security experience, including leading a global capability. </li>\n<li>Experience managing people leaders across multiple geographies. </li>\n<li>Experience managing a capability budget and vendor portfolio. </li>\n<li>Experience with quantitative risk analysis and statistical methods. </li>\n<li>Experience presenting to executive leadership or board-level audiences</li>\n</ul><p><strong>Preferred Qualification</strong><br>If you have the following characteristics, it would be a plus:  </p><ul><li>Experience leading a data, analytics or automation capability.</li></ul><ul><li>Experience with cyber risk quantification methods and associated quantitative risk analysis techniques.</li></ul><ul><li>Familiarity with modern Risk Operations Centre (ROC) concepts and operating models.</li></ul><ul><li>Experience with continuous controls monitoring.</li></ul><ul><li>Familiarity with modern GRC platforms, especially ServiceNow.</li></ul><ul><li>Cloud data platform experience in Azure, AWS or GCP.</li></ul><ul><li>Relevant certification such as CRISC, CISSP, cloud data or analytics certifications.</li></ul><ul><li>Experience in pharmaceutical, life sciences or another highly regulated industry.</li></ul><p>Typical tools and technologies: Python, SQL, Azure data stack, ServiceNow GRC, Power BI, automation, RPA and AI/intelligent automation tooling. </p><h2>#GSKcso</h2><h2>#Li-GSK\n</h2><h2>#AGTech</h2><h2>Skills</h2><p>Cloud Security, Cybersecurity, Data Integrity, Executive Reports, Identity Access Management (IAM), Risk Assessments, Risk Management, Risk Management Framework, Security Architecture Design, Security Compliance, Security Policies, Security Risk, Third Party Risk Management, Vulnerability Management, Web Application SecurityThe US annual base salary for new hires in this position ranges from $195,000 to $325,000.  The US salary ranges take into account a number of factors including work location within the US market, the candidate’s skills, experience, education level and the market rate for the role. In addition, this position offers an annual bonus and eligibility to participate in our share based long term incentive program which is dependent on the level of the role. Available benefits include health care and other insurance benefits (for employee and family), retirement benefits, paid holidays, vacation, and paid caregiver/parental and medical leave.  If salary ranges are not displayed in the job posting for a specific country, the relevant compensation will be discussed during the recruitment process.</p><p>Please visit  GSK US Benefits Summary  to learn more about the comprehensive benefits program GSK offers US employees. </p><h2>Why GSK?</h2><p><strong>Uniting science, technology and talent to get ahead of disease together.</strong></p><p>GSK is a global biopharma company with a purpose to unite science, technology and talent to get ahead of disease together. We aim to positively impact the health of 2.5 billion people by the end of the decade, as a successful, growing company where people can thrive. We get ahead of disease by preventing and treating it with innovation in specialty medicines and vaccines. We focus on four therapeutic areas: respiratory, immunology and inflammation; oncology; HIV; and infectious diseases – to impact health at scale.</p><p>People and patients around the world count on the medicines and vaccines we make, so we’re committed to creating an environment where our people can thrive and focus on what matters most. Our culture of being ambitious for patients, accountable for impact and doing the right thing is the foundation for how, together, we deliver for patients, shareholders and our people.</p><p>If you require an accommodation or other assistance to apply for a job at GSK, please contact the appropriate Recruitment Staff by emailing us at - </p><p>GSK is an Equal Opportunity Employer. This ensures that all qualified applicants will receive equal consideration for employment without regard to race, color, religion, sex (including pregnancy, gender identity, and sexual orientation), parental status, national origin, age, disability, genetic information (including family medical history), military service or any basis prohibited under federal, state or local law.</p><p><strong>Important notice to Employment businesses/ Agencies</strong></p><p>GSK does not accept referrals from employment businesses and/or employment agencies in respect of the vacancies posted on this site. All employment businesses/agencies are required to contact GSK's commercial and general procurement/human resources department to obtain prior written authorization before referring any candidates to GSK. The obtaining of prior written authorization is a condition precedent to any agreement (verbal or written) between the employment business/ agency and GSK. In the absence of such written authorization being obtained any actions undertaken by the employment business/agency shall be deemed to have been performed without the consent or contractual agreement of GSK. GSK shall therefore not be liable for any fees arising from such actions or any fees arising from any referrals by employment businesses/agencies in respect of the vacancies posted on this site.</p><p>Please note that if you are a US Licensed Healthcare Professional or Healthcare Professional as defined by the laws of the state issuing your license, GSK may be required to capture and report expenses GSK incurs, on your behalf, in the event you are afforded an interview for employment. This capture of applicable transfers of value is necessary to ensure GSK’s compliance to all federal and state US Transparency requirements. For more information, please visit the Centers for Medicare and Medicaid Services (CMS) website at </p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-director-risk-automation-intelligence-gsk</p>",
-      "posted_at": "2026-11-06T20:29:17+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "c8922d47-4380-453e-be6a-e70b00503c4c",
-      "title": "Senior Analytics Engineer",
-      "url": "https://remotejobs.org/remote-jobs/senior-analytics-engineer-instructure",
-      "apply_url": "https://remotejobs.org/remote-jobs/senior-analytics-engineer-instructure",
-      "company": {
-        "name": "Instructure",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/b1baf375890f33b94a295c2228babc4ce7170ec4138257d5e5decdc61a947491.jpeg",
-        "website": "https://instructure.com",
-        "url": "https://remotejobs.org/companies/instructure"
-      },
-      "category": {
-        "name": "Data Science",
-        "slug": "data-science"
-      },
-      "location": "US-REMOTE",
-      "location_normalization": {
-        "raw": "US-REMOTE",
-        "input": {
-          "workArrangement": "remote"
-        },
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "remote",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "worksite_countries": [
-          "US"
-        ],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [],
-        "evidence_ids": [
-          "source-location"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "remote",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": "senior",
-        "role_family": null,
-        "required_skills": [],
-        "mentioned_skills": [
-          "sql"
-        ],
-        "preferred_skills": [],
-        "experience_requirements": [
-          {
-            "text": "5+ years of experience in analytics engineering, data engineering, or a similar role",
-            "maximum_years": null,
-            "minimum_years": 5,
-            "classification": "mentioned"
-          }
-        ]
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": null,
-      "salary_period": null,
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": "af01c88f-fb94-420b-85e8-2afbfb5b0213",
-      "direct_apply": null,
-      "description": "<p><strong>At Instructure</strong>, we believe in the power of people to grow and succeed throughout their lives. Our goal is to amplify that power by creating intuitive products that simplify learning and personal development, facilitate meaningful relationships, and inspire people to go further in their education and careers.<br>\nWe do this by giving smart, creative, passionate people opportunities to create awesome. And that's where you come in:</p>\n<p>We're hiring a Senior Analytics Engineer to build the data models that teams across Instructure use to run the business. You'll work in dbt and Snowflake every day. You'll also sit in the room with business leaders, understand the decisions they're making, and design data that answers their questions correctly the first time.</p>\n<p>This role is broad by design. You'll support analytics across Finance, Operations, Product Management, Sales, and other parts of the company, so you'll see how the whole business fits together. It suits someone who writes clean SQL and also asks \"what is this number used for?\" before building it. You'll own models from source to dashboard, and you'll help set the standards for how we design, test, and document our data.</p>\n<h2><strong>What you'll do</strong></h2>\n<ul>\n<li>\n<p>Design, build, and maintain dimensional models in dbt and Snowflake that support reporting and analysis across Finance, Operations, Product Management, and other business functions.</p>\n</li>\n<li>\n<p>Translate business questions into clear data requirements by working directly with senior leaders across the company.</p>\n</li>\n<li>\n<p>Own the full model lifecycle: source ingestion patterns, staging, intermediate and mart layers, tests, documentation, and deployment.</p>\n</li>\n<li>\n<p>Set and enforce modeling standards, including naming conventions, grain definitions, slowly changing dimension handling, and testing practices.</p>\n</li>\n<li>\n<p>Tune Snowflake performance and cost through smart materialization choices, clustering, and warehouse sizing.</p>\n</li>\n<li>\n<p>Partner with data engineers and business systems teams to make sure upstream data arrives in a shape we can model well.</p>\n</li>\n<li>\n<p>Review pull requests, mentor analysts and engineers, and raise the quality bar across the team.</p>\n</li>\n<li>\n<p>Explain data definitions and tradeoffs to non-technical audiences in plain language, and push back when a request would produce a misleading metric.</p>\n</li>\n</ul>\n<h2><strong>What you bring</strong></h2>\n<ul>\n<li>\n<p>5+ years of experience in analytics engineering, data engineering, or a similar role.</p>\n</li>\n<li>\n<p>A bachelor's degree in Computer Science, Information Systems, Finance, or another quantitative field is preferred.</p>\n</li>\n<li>\n<p>Deep, hands-on experience with dbt, including macros, packages, incremental models, snapshots, and testing.</p>\n</li>\n<li>\n<p>Strong Snowflake skills, with advanced SQL and a good sense of performance and cost.</p>\n</li>\n<li>\n<p>Proven experience designing dimensional models (star schemas, facts, dimensions, conformed dimensions) and a clear point of view on when to use them and when not to.</p>\n</li>\n<li>\n<p>Solid data architecture instincts: layered modeling, grain, lineage, data contracts, and maintainable project structure.</p>\n</li>\n<li>\n<p>Working knowledge of how a business operates across functions such as finance, sales, operations, and product, ideally in a SaaS company.</p>\n</li>\n<li>\n<p>The ability to hold a credible conversation with directors, VPs, and executives about business issues, and to turn that conversation into a data solution.</p>\n</li>\n<li>\n<p>Strong written and verbal communication. You document your work and explain it well.</p>\n</li>\n<li>\n<p>Experience with Git-based workflows and CI/CD for data projects.</p>\n</li>\n</ul>\n<h2><strong>Nice to have</strong></h2>\n<ul>\n<li>\n<p>Experience modeling data from CRM and other business systems such as Salesforce.</p>\n</li>\n<li>\n<p>Familiarity with orchestration tools such as Airflow or dbt Cloud.</p>\n</li>\n<li>\n<p>Experience with a BI tool such as Tableau, Looker, or Power BI.</p>\n</li>\n<li>\n<p>Background in a SaaS or education technology company.</p>\n</li>\n</ul>\n<h2><strong>What success looks like</strong></h2>\n<ul>\n<li>\n<p>In 90 days, you've shipped your first production models and built working relationships with partners in several business functions.</p>\n</li>\n<li>\n<p>In 6 months, you own a major domain in our data model and the business trusts the numbers it produces.</p>\n</li>\n<li>\n<p>In a year, you've shaped our modeling standards and made the whole team faster.</p>\n</li>\n</ul>\n<p><strong>Get in on all the awesome at Instructure!</strong></p>\n<p>We offer competitive, meaningful benefits in every country where we operate. While they vary by location, here's a general idea of what you can expect:</p>\n<ul>\n<li>\n<p>Competitive compensation, plus all full-time employees participate in our ownership program - because everyone should have a stake in our success.</p>\n</li>\n<li>\n<p>Flexible work culture. Our remote, hybrid and in-office collaboration spaces vary by role, team and location.</p>\n</li>\n<li>\n<p>Generous time off, including local holidays and our annual “Dim the Lights” period in late December, when teams are encouraged to step back and recharge based on departmental needs.</p>\n</li>\n<li>\n<p>Comprehensive wellness programs and mental health support</p>\n</li>\n<li>\n<p>Learning and development resources, including professional development tools and tuition reimbursement, to support your growth</p>\n</li>\n<li>\n<p>The technology and tools you need to do your best work</p>\n</li>\n<li>\n<p>Motivosity employee recognition program</p>\n</li>\n<li>\n<p>A culture rooted in inclusivity, support, and meaningful connection</p>\n</li>\n</ul>\n<p>We believe in hiring great people and treating them right. The more diverse we are, the better our ideas and outcomes.</p>\n<p>Instructure is an Equal Opportunity Employer. We comply with applicable employment and anti-discrimination laws in every country where we operate.</p>\n<p>All employees must pass a background check as part of the hiring process. To help protect our teams and systems, we’ve implemented identity verification measures. Candidates may be asked to verify their legal name, current physical location, and provide a valid contact number and residential address, in accordance with local data privacy laws.</p>\n<p>Any attempt to misrepresent personal or professional information will result in disqualification.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-analytics-engineer-instructure</p>",
-      "posted_at": "2026-11-06T00:01:35.758+00:00",
       "is_translated": false,
       "original_language": null
     }
