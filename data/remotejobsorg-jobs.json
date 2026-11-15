@@ -1,7 +1,96 @@
 {
-  "generatedAt": "2026-11-15T05:02:37.318Z",
+  "generatedAt": "2026-11-15T13:32:46.001Z",
   "count": 150,
   "data": [
+    {
+      "id": "53cdd763-11af-4736-988b-35c7db7cec99",
+      "title": "Field Service Engineer - Datacenters MMC",
+      "url": "https://remotejobs.org/remote-jobs/field-service-engineer-datacenters-mmc-ge-vernova",
+      "apply_url": "https://remotejobs.org/remote-jobs/field-service-engineer-datacenters-mmc-ge-vernova",
+      "company": {
+        "name": "GE Vernova",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/37687a7512801682fb08e760c913dc7223e35c259fff3bf68267c98cb65aa703.png",
+        "website": "https://gevernova.com",
+        "url": "https://remotejobs.org/companies/ge-vernova"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "Unspecified, AB, CA",
+      "location_normalization": {
+        "raw": "Unspecified, AB, CA",
+        "input": {},
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [
+          "ab",
+          "ca",
+          "unspecified"
+        ],
+        "work_arrangement": "unknown",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": null,
+        "role_family": null,
+        "required_skills": [],
+        "mentioned_skills": [],
+        "preferred_skills": [],
+        "experience_requirements": [
+          {
+            "text": "6 years of experience in Job Family Group(s)/Function(s))",
+            "maximum_years": null,
+            "minimum_years": 6,
+            "classification": "required"
+          }
+        ]
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "R5058989",
+      "direct_apply": null,
+      "description": "<h2><strong><strong><strong>Job Description Summary</strong></strong></strong></h2><p>All resources, and logistics required to perform services and maintenance activities on customers' site/property. These activities contribute to, maintain, repair and refurbish sold or existing products. Includes all types of maintenance service (preventive and remedial), manage maintenance facilities and field services engineering. Impacts quality of own work and the work of others on the team. Executes standard operational/technical tasks typically subject to instructions and work routines. There is latitude to rearrange the sequence to complete task/duties based on changing work situations. The job allows modification of procedures and practices covering work as long as the end results meet standards of acceptability (quality, volume, timeliness etc.).</p><h2><strong>Job Description</strong></h2><p><strong>Roles and Responsibilities</strong></p><ul><li><strong>Technical Authority &#x26; Training</strong>: Serve as the primary technical interface for customers, developing and delivering training and instructional materials regarding system operations, safety, and maintenance.</li><li>undefined</li><li><strong>Process &#x26; Documentation Management</strong>: Author technical reports, develop commissioning and maintenance procedures, and manage administrative requirements (spare parts, time/expense reporting, handover documentation) with high attention to detail.</li></ul><ul><li><h3>· Strategic Collaboration: Partner with engineering and project management to analyze performance data, drive system reliability, and meet all contractual obligations.</h3><h3>Qualifications</h3><ul><li><strong>Education/Experience:</strong> Bachelor’s in Electrical Engineering (Power Electronics/Energy Systems preferred) with 5+ years of field experience in high-voltage power systems or energy storage.</li><li><strong>Technical Expertise:</strong> Deep knowledge of grid-tied inverters, energy storage architectures, communication protocols (Modbus, DNP3, IEC 61850), and PLC/control system software.</li><li><strong>Leadership &#x26; Autonomy:</strong> Proven ability to work unsupervised in high-pressure environments, manage site-level activities, and effectively mentor or lead small project teams.</li><li><strong>Customer &#x26; Project Focus:</strong> Strong project management skills combined with a customer-first mindset to resolve complex technical issues on-site.</li><li><strong>Operational Requirements:</strong> Ability and willingness to travel (~80%), work remotely, and maintain a valid driver’s license.</li></ul></li></ul><p><strong>Required Qualifications</strong></p><ul><li>For roles outside of the USA- This role requires basic experience in the Services &#x26; On Site Services. Knowledge level is comparable to a Bachelor's degree from an accredited university or college ( or a high school diploma with relevant experience). </li><li>For roles in USA - Bachelor's degree from an accredited university or college (or a high school diploma / GED with at least 6 years of experience in Job Family Group(s)/Function(s)).</li></ul><p><strong>Desired Characteristics</strong></p><ul><li><br>Strong oral and written communication skills. Ability to document, plan, market, and execute programs. <br><br>Note: <br><strong>To comply with US immigration and other legal requirements, it is necessary to specify the minimum number of years' experience required for any role based within the USA.</strong> <strong> For roles outside of the USA, to ensure compliance with applicable legislation, the JDs should focus on the substantive level of experience required for the role and a minimum number of years should NOT be used.</strong></li></ul><h2><strong><strong><strong>Additional Information</strong></strong></strong></h2><p><strong>Relocation Assistance Provided: </strong>No</p><p>#LI-Remote - This is a remote position</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/field-service-engineer-datacenters-mmc-ge-vernova</p>",
+      "posted_at": "2026-11-13T21:45:24.347+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
     {
       "id": "aeacd442-9759-417a-b1fe-dc1f697b9fb5",
       "title": "Newsletter Team Co-Lead",
@@ -4610,105 +4699,6 @@
       "original_language": null
     },
     {
-      "id": "8e0c91eb-2024-4323-8f6a-0d14601ee538",
-      "title": "Desarrollador/a Frontend – React Native",
-      "url": "https://remotejobs.org/remote-jobs/desarrolladora-frontend-react-native-knowmad-mood",
-      "apply_url": "https://remotejobs.org/remote-jobs/desarrolladora-frontend-react-native-knowmad-mood",
-      "company": {
-        "name": "Knowmad Mood",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/974aa9111eecf628eda276e9356c753af7a7c3b442409d8d4ff04408dcbe9782.png",
-        "website": "https://youtube.com",
-        "url": "https://remotejobs.org/companies/knowmad-mood"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "Spain",
-      "location_normalization": {
-        "raw": "Spain",
-        "input": {},
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "ES"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [
-          {
-            "kind": "timezone",
-            "areas": [],
-            "effect": "context",
-            "details": "✅ Horario: 8.30 a 18h ( flexible) L-J y V 8 a 15h e Intensiva de Verano Julio y Agosto de 8 a 15h",
-            "regions": [],
-            "timezones": [],
-            "evidence_id": "c2",
-            "conditional_on": null
-          }
-        ],
-        "unresolved": [],
-        "evidence_ids": [
-          "c2",
-          "source-location"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "remote",
-        "allowed_countries": [
-          "ES"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": null,
-        "role_family": null,
-        "required_skills": [],
-        "mentioned_skills": [
-          "javascript",
-          "react"
-        ],
-        "preferred_skills": [],
-        "experience_requirements": []
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": null,
-      "salary_period": "year",
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<h2>We are knowmad mood!</h2>\n<p>Somos una compañía líder en transformación digital, en constante evolución y a la vanguardia de la tecnología. Nacimos para provocar un cambio real a través de la innovación y el desarrollo sostenible, con la misión de aportar valor a los clientes e impulsar nuestro talento.</p>\n<p>Formado por más de 3.000 personas creativas, digitales e innovadoras conectadas a un propósito y capaces de generar conexiones con personas de todo el mundo. Un equipo responsable, flexible y con alta capacidad de adaptación a las necesidades de nuestros clientes y del mercado, a la vez que proporciona valor, visión, creatividad, expertise, profesionalidad y pasión por la tecnología en cada proyecto.</p>\n<p>Los valores que marcan nuestro rumbo y nos guían hacia la excelencia son la colaboración, la innovación, el compromiso, la diversión y la conﬁanza.</p>\n<h2>¿Qué es lo que valoramos?</h2>\n<p>Experiencia de al menos 3 años como Desarrollador Front End con React Native:</p>\n<ul>\n<li>Experiencia como desarrollador frontend con JavaScript, creando aplicaciones funcionales y fiables en múltiples pantallas.</li>\n<li>Experiencia trabajando con React Native para el desarrollo de aplicaciones.</li>\n</ul>\n<h2>• Nivel alto de inglés.</h2>\n<ul>\n<li>Experiencia en la creación de soluciones de entretenimiento, tanto en aplicaciones con gran volumen de usuarios como en herramientas internas para optimizar el desarrollo.</li>\n<li>Capacidad de trabajo en equipo y comunicación efectiva con clientes y equipos multidisciplinarios.</li>\n</ul>\n<h2>¿Cuáles serían tus funciones?</h2>\n<ul>\n<li>Desarrollo de aplicaciones SmartTV: Diseñar, desarrollar y optimizar aplicaciones para entornos SmartTV, asegurando experiencias fluidas y de alta calidad en diferentes dispositivos.</li>\n<li>Desarrollo Frontend: Crear interfaces modernas y eficientes utilizando JavaScript y tecnologías asociadas, garantizando rendimiento y escalabilidad.</li>\n<li>Desarrollo con React Native: Implementar y mantener aplicaciones utilizando React Native, adaptando funcionalidades a múltiples plataformas y pantallas.</li>\n<li>Optimización de experiencia de usuario: Construir soluciones de entretenimiento robustas, ya sea para aplicaciones con millones de usuarios o para herramientas internas que mejoren la productividad del equipo.</li>\n<li>Colaboración Multidisciplinaria: Trabajar estrechamente con equipos de producto, diseño y desarrollo para ofrecer soluciones innovadoras y alineadas con las necesidades del negocio.</li>\n<li><strong>Colaborar en el desarrollo de Soluciones Low-Code/No-Code:</strong> Crear y gestionar soluciones innovadoras utilizando la PowerPlatform (Power Apps, Power Automate, Power BI, Dataverse), adaptadas a las necesidades de nuestros clientes.</li>\n</ul>\n<p>Nos encantaría si además te manejases bien con <strong>Inglés.</strong></p>\n<p><strong>Además, valoraremos muy positivamente si tienes experiencia y/o conocimientos en:</strong></p>\n<ul>\n<li>Desarrollo para plataformas de SmartTV como Samsung, LG o Android TV.</li>\n<li>Experiencia trabajando con Shaka Player u otros reproductores de vídeo en JavaScript.</li>\n<li>Conocimientos en optimización de streaming y reproducción multimedia.</li>\n<li>Experiencia en entornos ágiles de desarrollo.</li>\n<li>Experiencia en el desarrollo de aplicaciones de alto rendimiento y escalabilidad.</li>\n</ul>\n<h2>Y con nosotros podrás disfrutar de:</h2>\n<h2>✅Contrato Indefinido</h2>\n<p>✅<strong>100% REMOTO</strong></p>\n<p>✅Formación interna y acceso a certificaciones ♻Consulta nuestro calendario aquí:</p>\n<p>✅Plan de retribución flexible (seguro médico, transporte, tickets guardería, tickets restaurante)</p>\n<p>✅Embajador de nuestra marca, a través de nuestro plan amigo</p>\n<p>¡Recomienda a tus amigos y llévate un extra!</p>\n<p>✅¡Eventos, meetups, techdays, charlas...y mucho más!</p>\n<p>✅ 26 días de descanso (22 días vacaciones, 2 días de libre disposición y 24 y 31 diciembre festivos por defecto)</p>\n<p>✅ Horario: 8.30 a 18h ( flexible) L-J y V 8 a 15h e Intensiva de Verano Julio y Agosto de 8 a 15h</p>\n<p>Para estar al corriente de nuestras novedades síguenos aquí ->knowmad mood</p>\n<p><em>En</em><strong><em>knowmad mood</em></strong><em>nos comprometemos con la igualdad de oportunidades y el respeto a la diversidad. Aplicamos nuestro Plan de Igualdad y el principio de no discriminación en todos nuestros procesos de selección.</em></p>\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/desarrolladora-frontend-react-native-knowmad-mood</p>",
-      "posted_at": "2026-11-12T20:56:13+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
       "id": "289aade1-5fb1-441b-9d62-21b41d35cfb0",
       "title": "Network Observability Engineer",
       "url": "https://remotejobs.org/remote-jobs/network-observability-engineer-leidos",
@@ -4742,7 +4732,29 @@
         "allowed_subdivisions": [],
         "excluded_subdivisions": []
       },
-      "applicant_location_requirements": null,
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "c2"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
       "search_facts": {
         "status": "known",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
@@ -5627,6 +5639,98 @@
       "direct_apply": null,
       "description": "<p>We are looking for an experienced <strong>Power Platform Solution Architect</strong> to join an international Agile delivery team. The successful candidate will act as the architecture lead for defined initiatives within the client's Microsoft Power Platform landscape, designing secure, scalable, and supportable solutions across <strong>Power Platform, Azure, and connected enterprise systems</strong>.</p>\n<p>The role combines architectural leadership with practical technical involvement, guiding delivery teams from concept and solution design through implementation, deployment, production stabilization, and continuous improvement.</p>\n<h2>Tasks</h2>\n<ul>\n<li>Act as the architecture lead for defined initiatives within the client's <strong>Power Platform</strong> landscape.</li>\n<li>Translate business capabilities, functional requirements, and non-functional requirements into pragmatic end-to-end solution architectures.</li>\n<li>Design end-to-end architectures covering <strong>Power Apps, Power Automate, Dataverse, Power Pages, Azure services, and external integrations</strong>.</li>\n<li>Define solution boundaries, data models, integration patterns, security concepts, environment strategies, and deployment approaches.</li>\n<li>Evaluate and guide decisions between configuration, low-code, and custom development approaches.</li>\n<li>Assess the appropriate use of technologies such as <strong>React, PCF, Azure Functions, and other Azure components</strong>.</li>\n<li>Ensure solutions align with enterprise architecture, identity and access management, data protection, ALM, security, and operational support requirements.</li>\n<li>Define and maintain appropriate <strong>environment strategies</strong> across development, testing, staging, and production.</li>\n<li>Lead architecture reviews and document architecture decisions, assumptions, risks, dependencies, and exceptions.</li>\n<li>Support solution estimation, backlog refinement, technical planning, and delivery planning with product owners and engineering teams.</li>\n<li>Provide technical guidance to developers and review solution designs, technical approaches, integration patterns, and deployment concepts.</li>\n<li>Coach delivery teams and promote consistent architecture and engineering practices.</li>\n<li>Provide technical leadership during critical releases, production stabilization, incident investigation, and root-cause analysis.</li>\n<li>Identify and mitigate technical risks before they impact delivery or production.</li>\n<li>Balance governance and architectural standards with practical delivery needs, avoiding unnecessary complexity.</li>\n</ul>\n<h2>Requirements</h2>\n<ul>\n<li><strong>8+ years of solution architecture, solution design, or software engineering experience</strong>, including substantial hands-on experience designing enterprise <strong>Microsoft Power Platform</strong> solutions.</li>\n<li>Proven experience designing and delivering production solutions spanning <strong>multiple applications, environments, systems, and integration endpoints</strong>.</li>\n<li>Strong expertise in <strong>Power Apps, Power Automate, Dataverse, and Power Platform architecture</strong>.</li>\n<li>Strong understanding of <strong>Dataverse data modelling, relationships, security roles, permissions, identity, and enterprise data architecture</strong>.</li>\n<li>Strong knowledge of <strong>REST APIs, integration patterns, connectors, and enterprise application integration</strong>.</li>\n<li>Practical experience with <strong>Microsoft Azure</strong> and designing solutions that integrate Power Platform with Azure services.</li>\n<li>Hands-on experience with <strong>managed solutions, environment strategies, source control, Azure DevOps, and structured ALM practices</strong>.</li>\n<li>Strong understanding of <strong>CI/CD and deployment strategies</strong> for enterprise Power Platform solutions.</li>\n<li>Ability to define and assess non-functional requirements covering <strong>security, performance, scalability, availability, reliability, supportability, maintainability, and compliance</strong>.</li>\n<li>Strong understanding of <strong>Microsoft Entra ID</strong> and enterprise identity and access management concepts.</li>\n<li>Experience defining security architecture and data protection approaches for enterprise applications.</li>\n<li>Experience evaluating when to use <strong>configuration, low-code, custom development, or external services</strong> to achieve the appropriate solution architecture.</li>\n<li>Practical understanding of <strong>React, PCF controls, Azure Functions, Logic Apps, API Management, and/or event-driven integration</strong> is an advantage.</li>\n<li>Experience with <strong>Copilot Studio, AI Builder, and the architecture or governance of AI-enabled business solutions</strong> is an advantage.</li>\n<li>Experience with <strong>Power Pages</strong> and external-facing Power Platform solutions is an advantage.</li>\n<li>Experience supporting distributed, remote, or nearshore development teams is an advantage.</li>\n<li>Microsoft Power Platform or Azure architecture certification, particularly <strong>PL-600</strong>, is an advantage.</li>\n<li>Proven ability to facilitate architecture decisions with both <strong>technical and business stakeholders</strong>.</li>\n<li>Strong stakeholder-management and communication skills, with the ability to explain complex technical concepts to different audiences.</li>\n<li>Strong experience producing clear, structured, and traceable <strong>architecture documentation and technical decisions</strong>.</li>\n<li>Strong analytical and problem-solving skills with a pragmatic, delivery-oriented approach.</li>\n<li>Ability to provide hands-on technical guidance and validate key architectural decisions without becoming disconnected from implementation realities.</li>\n<li><strong>Professional English communication skills</strong>, including strong written and verbal communication in an international engineering environment.</li>\n</ul>\n<h2>Benefits</h2>\n<ul>\n<li>All employees benefits for free (our famous games room, daily breakfast, fruits, coffee and other hot drinks, soft drinks and juices, company days out and parties…)</li>\n<li>Social insurance</li>\n<li>Open-door management policy</li>\n<li>Full Medical insurance</li>\n<li>Accommodation and Transportation Allowance</li>\n<li>Friendly environment that values innovation and efficiency</li>\n<li>Exciting opportunities for career growth and talent development</li>\n<li>Feedback encouragement</li>\n<li>Recognition and reward programs</li>\n<li>Competitive salaries and incentives</li>\n<li>Friendly environment</li>\n<li>Flexible and Comfortable schedule</li>\n<li>Fun committees</li>\n<li>Monetary rewards</li>\n<li>Fun, smart and creative people</li>\n<li>Career possibilities with growing team</li>\n<li>Paid vacations</li>\n<li>Social benefits</li>\n</ul>\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/power-platform-solution-architect-nile-bits</p>",
       "posted_at": "2026-11-12T20:49:57+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "19d07cf6-5f4f-4e96-942d-f19c79126db4",
+      "title": "Senior IT Manager",
+      "url": "https://remotejobs.org/remote-jobs/senior-it-manager-policyme",
+      "apply_url": "https://remotejobs.org/remote-jobs/senior-it-manager-policyme",
+      "company": {
+        "name": "PolicyMe",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/17433b9a516352f52bd9792dcf04f4b1c7a88e62202560053a69b9ae6e4e05fd.png",
+        "website": "https://policyme.com",
+        "url": "https://remotejobs.org/companies/policyme"
+      },
+      "category": {
+        "name": "DevOps",
+        "slug": "devops"
+      },
+      "location": "Remote in Toronto",
+      "location_normalization": {
+        "raw": "Remote in Toronto",
+        "input": {
+          "workArrangement": "remote"
+        },
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [
+          "toronto"
+        ],
+        "work_arrangement": "remote",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "worksite_countries": [
+          "CA"
+        ],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "partial",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": null,
+        "role_family": null,
+        "required_skills": [],
+        "mentioned_skills": [],
+        "preferred_skills": [],
+        "experience_requirements": [
+          {
+            "text": "3-5 years of experience in IT support management, Information Security, or Engineering, preferably in a start-up or scale-up technology setting",
+            "maximum_years": 5,
+            "minimum_years": 3,
+            "classification": "mentioned"
+          }
+        ]
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "2baebcc8-2918-4ade-8442-26339038d059",
+      "direct_apply": null,
+      "description": "<p><strong>Overview of the role</strong></p>\n<p>We’re on a mission to modernize insurance, making it simpler, more accessible, and customer-first. The insurance industry is a $1T market that has remained largely untouched by the digital revolution, and PolicyMe is here to change that. As a remote-first, Toronto-based startup with big ambitions, we’re looking for a Senior IT Manager to lead the IT Support function as we expand into the next chapter!</p>\n<h2>What you'll be doing:</h2>\n<p>You will be a senior member of the team, and a cross-functional leader within PolicyMe. This is an opportunity to completely reshape the IT strategy and execution as PolicyMe moves to the next stage of scale and growth, building durable policies and process that will be used for years to come! You will be the decision-maker! In your day-to-day, this will lead you to:</p>\n<ul>\n<li><strong>Define the vision and roadmap for IT Support</strong>: You will articulate the strategic goals for the IT Support team and define the roadmap for how we get there. You will communicate progress against the roadmap and goals to all key stakeholders (e.g. Business Operations, Engineering, Leadership, People and Culture).</li>\n<li><strong>Hands-on ownership of IT equipment</strong>: You will take on the direct responsible of ensuring PolicyMe employees have continuous access to the tools they need (laptops, external monitors, etc.), while also ensuring the inventory management and disposal follow proper governance. This will include managing budgets and strategic thinking on equipment selection decisions.</li>\n<li><strong>Prioritize what to work on</strong>: You will have to decide what other IT Support team members invest time on and in what order. By developing and executing a disciplined process, you will prioritize process improvements, security rollouts, bugs and maintenance activities.</li>\n<li><strong>Collaborate in PolicyMe’s Information Security Committee</strong>: You will work closely with senior leaders from Business Operations and Engineering to maintain a robust information security program where your direct responsibilities will include ownership of access control and maintenance of PolicyMe’s SOC 2 certification. This requires deep attention to detail on role-based access control and third party vendor management.</li>\n<li><strong>Coordinate on-call availability</strong>: You will be responsible for designing and executing alongside the IT support team, on support availability timelines and SLAs within the company based on defined priority levels.</li>\n<li><strong>Develop the backlog</strong>: You will ideate with stakeholders across PolicyMe and then manage a backlog of new IT initiatives to meet our employee’s needs, improve our back-end integrity, innovate and ultimately reach the defined vision.</li>\n<li><strong>Rally the team behind secure best practices</strong>: You will serve as the central point across all functions and ensure that any IT-equipment and access-related roadblocks are removed to achieve success. This includes ensuring information security and IT-related governance is well understood and communicated across the organization.</li>\n<li><strong>Coordinate the launch</strong>: You will work with the Engineering and Business Operations teams to ensure that the patches and new security releases has been thoroughly tested and are ready to launch.</li>\n<li><strong>Measure and learn</strong>: You will measure the key metrics for our IT support team and report out to the broader organization.</li>\n</ul>\n<h2>What are we looking for:</h2>\n<ul>\n<li><strong>Relevant IT support experience</strong>: You have 3-5 years of experience in IT support management, Information Security, or Engineering, preferably in a start-up or scale-up technology setting. You can speak to your track record of leading projects and delivering measurable results.</li>\n<li><strong>A hands-on aptitude</strong>: You have the ability to both think and plan strategically while also remaining a “do-er” for the day to day tasks and activities. This hands-on attitude is incredibly important at PolicyMe and flows through our culture even at the most senior levels.</li>\n<li><strong>AI mindset and willingness to innovate</strong>: You are excited about the opportunities that AI presents for the IT area and are actively learning about new applications and technologies. You are keen to play a major role in the transition of PolicyMe’s AI adoption and development of AI-first capabilities.</li>\n<li><strong>Exceptional collaboration skills</strong>: You have high emotional intelligence and can \"be the glue\" between many different stakeholders in the organization.</li>\n<li><strong>Curiosity and highly comfortable with technical topics</strong>: You are naturally curious about how everything works. You will work closely with some wicked smart Engineers, so you know when to ask clarifying questions and are not shy about diving into complex topics.</li>\n<li><strong>A mindset for risk identification and assessment</strong>: You understand that the PolicyMe business model inherently handles high sensitive personal information. You take a risk-mindful approach to problem solving and identify risks before they present themselves as problems. You are comfortable assessing the probability and severity of risks and communicate these clearly.</li>\n<li><strong>Strong problem solving skills</strong>: You have the ability to take an ambiguous problem and structure it yourself. You are someone who can start with an idea and manage it from concept to deployment. You present and execute solutions that are durable, that is they will solve today’s problem and tomorrow’s edge case!</li>\n<li><strong>Strategic decision making</strong>: You can balance tradeoffs and consider many side to a problem before arriving at a decision. Decisions are based on strong supporting data, consider the second and third order impacts, and are communicated concisely and clearly.</li>\n</ul>\n<h2>Why join us:</h2>\n<ul>\n<li>Generous PTO - 20 vacation days</li>\n<li>A comprehensive benefits plan with premiums paid in full by PolicyMe</li>\n<li>Investment in your professional development, including an L&#x26;D budget, AI tooling budget, performance reviews twice a year and ongoing feedback to ensure you reach your highest potential</li>\n<li>An extremely high performing, low-ego, remote-first team that is truly disrupting an old industry</li>\n<li>Option to work from home or our Toronto-based office (bonus: we cover the costs to bring all our employees in-person twice a year for experiential socials!)</li>\n<li>Access to stock options based on performance</li>\n<li><strong>Compensation:</strong> The total target cash compensation for this role is <strong>$132,000–$154,000 CAD</strong>, based on experience. We’ll walk through the details together during the interview.</li>\n</ul>\n<h3><strong>About PolicyMe:</strong></h3>\n<p>At PolicyMe, we are Canada’s leading digital insurance solution, offering straightforward and affordable financial protection for families from coast to coast. Our product suite includes Life Insurance, Critical Illness Insurance, and Health &#x26; Dental Insurance, all tailored to Canadians' evolving needs. We also offer B2B2C solutions, partnering with organizations to provide seamless digital insurance options. Founded by a team of insurance experts and technology entrepreneurs, PolicyMe is committed to making insurance simpler and more accessible. Since our launch in 2018, we have grown exponentially, selling over $20 billion in insurance coverage to Canadians.</p>\n<p>We are proud of the team we’ve built and are excited for those that are yet to join us. We operate with a remote-first culture, attracting top talent from across Canada. If you’re looking for a fast-paced, collaborative environment, working alongside incredibly ambitious yet humble humans, we may be the right place for you! To learn more, visit <a href=\"http://www.policyme.com/\">www.policyme.com</a>.</p>\n<h3>Additional Notes:</h3>\n<ul>\n<li>Job Vacancy: This role reflects growth in our team and expanded operational scope. We’re hiring to support increasing demand and continue delivering an exceptional customer experience.</li>\n<li>Commitment to Equal Opportunity: PolicyMe is an equal opportunity employer. We welcome applicants of all backgrounds and provide fair consideration regardless of race, colour, religion, sex, sexual orientation, gender identity, national origin, or disability.</li>\n<li>Accessibility Statement: We are committed to providing an accessible hiring experience. If you require accommodations during the application process, please indicate this in the “Additional Information” section of your application.</li>\n</ul>\n<p>We thank all applicants for their interest, however, only those selected for an interview will be contacted.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-it-manager-policyme</p>",
+      "posted_at": "2026-11-12T18:47:35.409+00:00",
       "is_translated": false,
       "original_language": null
     },
@@ -7365,6 +7469,94 @@
       "direct_apply": null,
       "description": "<h2>Please Note:</h2>\n<p><strong>1. If you are a first time user, please create your candidate login account before you apply for a job. (Click Sign In > Create Account)</strong></p>\n<p><strong>2. If you already have a Candidate Account, please Sign-In before you apply.</strong></p>\n<h2><strong>Job Description:</strong></h2>\n<p>The VKS Application Engineering team is responsible for enabling enterprise success with VMware Kubernetes Service (VKS) as part of VMware Cloud Foundation (VCF). Our mission is to accelerate adoption of VKS as the enterprise-grade Kubernetes platform for modern applications in private cloud.</p>\n<p>As a VKS Application Engineer, you will be on the front lines with enterprise customers, driving the successful adoption of VMware Kubernetes Service (vKS) on VMware Cloud Foundation (VCF). This is a hands-on, customer-facing role focused on designing and validating solutions, running proof-of-concepts, and guiding customers through their modernization journey.</p>\n<h2>Key Accountabilities</h2>\n<ul>\n<li>\n<p>Act as a trusted advisor for enterprise customers, guiding them through the design, validation, and deployment of vKS solutions on VCF.</p>\n</li>\n<li>\n<p>Collaborate closely with field account teams to align solution architecture with customer priorities and drive successful engagement outcomes.</p>\n</li>\n<li>\n<p>Lead technical discovery sessions, workshops, and proof-of-concepts to validate vKS architectures and demonstrate business value.</p>\n</li>\n<li>\n<p>Partner with sales to jointly develop customer proposals that address modernization goals, workload placement, and operational transformation.</p>\n</li>\n<li>\n<p>Provide prescriptive guidance on Kubernetes adoption, DevOps/CI-CD integration, and enterprise requirements such as scalability, security, and disaster recovery.</p>\n</li>\n<li>\n<p>Build and share reference architectures, deployment patterns, and technical assets to accelerate customer adoption of VKS.</p>\n</li>\n<li>\n<p>Deliver clear, compelling technical presentations to diverse audiences, from architects to executive decision makers.</p>\n</li>\n<li>\n<p>Stay current on industry trends, competitor offerings, and evolving enterprise requirements to position VKS effectively.</p>\n</li>\n<li>\n<p>Collaborate with product management and engineering to provide field feedback that influences roadmap direction.</p>\n</li>\n</ul>\n<h2>Required Skills &#x26; Experience</h2>\n<ul>\n<li>\n<p>Experience in application engineering or technical sales for enterprise IT, cloud, or application platforms.</p>\n</li>\n<li>\n<p>Strong expertise in Kubernetes, containers, and VMware Cloud Foundation (vSphere, vSAN, NSX as foundation).</p>\n</li>\n<li>\n<p>10+ yearsin technology-related roles, with depth in enterprise IT architecture, application modernization, or cloud-native platforms.</p>\n</li>\n<li>\n<p>Demonstrated success working directly with enterprise customers to deliver technical solutions and drive platform adoption.</p>\n</li>\n<li>\n<p>Excellent communication, storytelling, and presentation skills with the ability to engage both technical and business leaders.</p>\n</li>\n<li>\n<p>Strong collaboration skills, able to work hand-in-hand with sales teams to advance customer opportunities.</p>\n</li>\n<li>\n<p>Proven ability to identify challenges, design solutions, and articulate value in business terms.</p>\n</li>\n<li>\n<p>Enthusiastic self-starter with curiosity, drive, and the ability to thrive in dynamic environments.</p>\n</li>\n<li>\n<h2>Ability to travel up to 50% of the time</h2>\n</li>\n</ul>\n<h2>Qualifications</h2>\n<ul>\n<li>\n<p>Bachelor’s Degree in Computer Science, Engineering, Mathematics, or related field; or equivalent experience.</p>\n</li>\n<li>\n<p>Deep knowledge of VMware Cloud Foundation and Kubernetes platforms.</p>\n</li>\n<li>\n<p>Certifications in cloud-native or public cloud technologies (AWS, Azure, GCP, Red Hat OpenShift, etc.) are highly desirable.</p>\n</li>\n</ul>\n<p><strong>Broadcom is proud to be an equal opportunity employer. We will consider qualified applicants without regard to race, color, creed, religion, sex, sexual orientation, national origin, citizenship, disability status, medical condition, pregnancy, protected veteran status or any other characteristic protected by federal, state, or local law. We will also consider qualified applicants with arrest and conviction records consistent with local law.</strong></p>\n<p><strong>If you are located outside USA, please be sure to fill out a home address as this will be used for future correspondence.</strong></p>\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/kubernetes-platform-architect-india-bangalore-remote-broadcom</p>",
       "posted_at": "2026-11-10T03:56:49+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "0b66f51a-edf4-4587-a043-e3f5b6544dba",
+      "title": "Director of IT Operations",
+      "url": "https://remotejobs.org/remote-jobs/director-of-it-operations-keeper-security",
+      "apply_url": "https://remotejobs.org/remote-jobs/director-of-it-operations-keeper-security",
+      "company": {
+        "name": "Keeper Security",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/35ff33364005c961c0314675408b45b357da66f4a14204cef7aa1686b9926106.webp",
+        "website": "https://keepersecurity.com",
+        "url": "https://remotejobs.org/companies/keeper-security"
+      },
+      "category": {
+        "name": "DevOps",
+        "slug": "devops"
+      },
+      "location": "El Dorado Hills, California, United States",
+      "location_normalization": {
+        "raw": "El Dorado Hills, California, United States",
+        "input": {},
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [
+          "el dorado hills"
+        ],
+        "work_arrangement": "unknown",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "allowed_subdivisions": [
+          "US-CA"
+        ],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [
+          "Hybrid schedule option limited to candidates based in the El Dorado Hills, CA or Chicago, IL metro area; metro-area residency cannot be mapped to ISO subdivision areas without guessing city or radius boundaries."
+        ],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [
+          "US-CA"
+        ],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": "director",
+        "role_family": null,
+        "required_skills": [],
+        "mentioned_skills": [],
+        "preferred_skills": [],
+        "experience_requirements": []
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "4486507009",
+      "direct_apply": null,
+      "description": "<p><strong>Description</strong></p><p>Keeper Security is hiring a Director of IT Operations to lead our global enterprise IT function. This role will oversee IT infrastructure, end-user support, identity lifecycle management, IT service management, business continuity, vendor relationships and IT operations for Keeper’s distributed workforce. This is a 100% remote position, with the opportunity to work a hybrid schedule for candidates based in the El Dorado Hills, CA or Chicago, IL metro area.</p><p>Keeper’s cybersecurity software is trusted by millions of people and thousands of organizations globally. Keeper is published in 23 languages and is sold in over 150 countries. Join one of the fastest-growing cybersecurity companies and help build the systems and processes that enable our global workforce to work securely and efficiently.</p><p><strong>About Keeper</strong></p><p>Keeper Security is one of the fastest-growing cybersecurity software companies that protects thousands of organizations and millions of people in over 150 countries. Keeper is a pioneer of zero-knowledge and zero-trust security built for any IT environment. Its core offering, KeeperPAM®, is an AI-enabled, cloud-native platform that protects all users, devices and infrastructure from cyber attacks. Recognized for its innovation in the Gartner Magic Quadrant for Privileged Access Management (PAM), Keeper secures passwords and passkeys, infrastructure secrets, remote connections and endpoints with role-based enforcement policies, least privilege and just-in-time access. Learn why Keeper is trusted by leading organizations to defend against modern adversaries at <a href=\"http://keepersecurity.com/\">KeeperSecurity.com</a>.</p><p><strong>About the Job</strong></p><p>This role will lead the strategy, operations and continuous improvement of Keeper’s corporate IT environment. The ideal candidate is an experienced IT leader who combines strong operational discipline with a customer-focused mindset and the ability to build scalable systems for a growing, distributed workforce.</p><p>The Director of IT Operations will be responsible for developing a multi-year IT roadmap, leading the IT Operations team, managing the IT operating budget and ensuring that employees have secure and reliable access to the tools and systems they need to be successful.<br><br></p><p><strong>Responsibilities</strong></p><ul>\n<li>Develop and execute a multi-year enterprise IT roadmap aligned with Keeper’s growth and business strategy</li>\n<li>Operate with a “customer zero” mindset, ensuring Keeper’s internal IT environment reflects and validates our product philosophy</li>\n<li>Lead global IT operations supporting a distributed, multi-site workforce and DevOps organization</li>\n<li>Build, develop and lead the IT Operations team, including staffing, performance management and succession planning</li>\n<li>Own the IT operating budget, forecasting, cost optimization, licensing and SaaS spend</li>\n<li>Oversee endpoint management, collaboration systems, enterprise applications and virtual desktop environments</li>\n<li>Ensure secure and frictionless access to corporate systems, SaaS platforms and development environments in partnership with Network and Security Operations</li>\n<li>Govern SaaS application onboarding, ownership, access permissions, integrations and decommissioning</li>\n<li>Maintain accurate configuration management, asset inventory and full hardware and software asset lifecycle management</li>\n<li>Establish and manage a multi-tiered IT support environment for a global employee population</li>\n<li>Own the IT service management framework, including incident, request, problem and change management processes</li>\n<li>Establish measurable service-level agreements and operational KPIs, with regular executive reporting</li>\n<li>Oversee internal IT requests, end-user systems, asset management and daily IT operations</li>\n<li>Own on-call coverage, escalation paths and after-hours support for critical IT services</li>\n<li>Develop and maintain IT support documentation, knowledge base resources, procedures, playbooks and operational plans</li>\n<li>Own the workforce identity lifecycle, including provisioning, deprovisioning, role-based access assignment and identity governance</li>\n<li>Enforce token-based authentication and single sign-on across Keeper’s corporate systems</li>\n<li>Ensure user access changes are processed according to approved policies and maintained in auditable records</li>\n<li>Partner with Security Operations on periodic access reviews and remediation of excessive or orphaned accounts</li>\n<li>Lead and support the new hire IT onboarding process, ensuring devices, accounts, access and software are ready before each employee’s start date</li>\n<li>Define and maintain onboarding workflows, checklists and runbooks in partnership with Human Resources, People Operations and hiring managers</li>\n<li>Oversee hardware procurement, imaging, asset assignment, shipping and remote setup support for new hires</li>\n<li>Track onboarding service levels, employee satisfaction and time-to-productivity metrics</li>\n<li>Own disaster recovery and business continuity planning for corporate and internal systems in partnership with DevOps</li>\n<li>Plan, execute and report on failover testing, managed DNS failover and cross-region recovery exercises</li>\n<li>Define and track recovery time objectives and recovery point objectives for IT-owned systems</li>\n<li>Lead business continuity tabletop exercises and incorporate lessons learned into plans and runbooks</li>\n<li>Communicate company-wide regarding system status, downtime and scheduled maintenance</li>\n<li>Govern enterprise change management, including change calendars, maintenance windows and change freezes</li>\n<li>Manage IT vendor relationships, service-level performance, contract renewals and third-party service delivery</li>\n<li>Partner with Procurement and Security on vendor evaluations and third-party risk reviews, including FedRAMP and IL5 requirements where applicable</li>\n<li>Support audit readiness and control evidence reporting for IT-owned controls</li>\n<li>Maintain documented IT controls and evidence supporting SOC 2, ISO 27001 and related compliance frameworks</li>\n<li>Drive operational maturity through IT automation, observability, reliability engineering and continuous process improvement</li>\n</ul><p><strong>Requirements</strong></p><ul>\n<li>10+ years of progressively responsible experience in IT leadership, enterprise infrastructure, end-user services and IT service management</li>\n<li>Demonstrated experience leading global IT operations for a distributed or multi-site workforce</li>\n<li>Experience building, managing and developing high-performing IT Operations or corporate IT teams</li>\n<li>Experience managing IT budgets, vendor relationships, licensing and SaaS spend</li>\n<li>Strong working knowledge of identity and access management, including SSO, SCIM provisioning, token-based authentication and role-based access controls</li>\n<li>Experience with IT service management platforms, configuration management and IT asset management</li>\n<li>Experience leading or supporting IT onboarding and offboarding for a growing, distributed workforce</li>\n<li>Proven experience designing, testing and managing disaster recovery and business continuity programs, including cloud failover</li>\n<li>Experience establishing IT service-level agreements, operational KPIs and executive reporting</li>\n<li>Strong understanding of endpoint management, enterprise applications, collaboration platforms and workforce technology</li>\n<li>Experience operating in a security-conscious or compliance-driven environment</li>\n<li>Strong executive communication skills, with the ability to translate operational metrics into business decisions</li>\n<li>Excellent problem-solving, organizational and decision-making skills</li>\n<li>Ability to build strong cross-functional relationships and collaborate effectively with technical and business leaders</li>\n<li>Ability and willingness to use AI tools effectively to improve IT operations, documentation, troubleshooting and workflow efficiency<br><br></li>\n</ul><p>Preferred Qualifications</p><ul>\n<li>Experience supporting SOC 2, ISO 27001, FedRAMP, DoD IL5 or similar compliance frameworks</li>\n<li>Experience supporting a global technology or cybersecurity organization</li>\n<li>Experience with IT automation, observability or reliability engineering programs</li>\n<li>Experience managing virtual desktop environments and distributed workforce infrastructure</li>\n<li>Experience with enterprise SaaS governance, application rationalization and access reviews</li>\n<li>Experience leading business continuity tabletop exercises and cross-region recovery testing</li>\n<li>Experience working with HR and People Operations to improve employee onboarding and offboarding</li>\n</ul><p><strong>Benefits</strong></p><ul>\n<li>Medical, Dental &#x26; Vision (inclusive of domestic partnerships)</li>\n<li>Employer Paid Life Insurance &#x26; Employee/Spouse/Child Supplemental life</li>\n<li>Voluntary Short/Long Term Disability Insurance</li>\n<li>401K (Roth/Traditional)</li>\n<li>A generous PTO plan that celebrates your commitment and seniority (including paid Bereavement/Jury Duty, etc)</li>\n<li>Above market annual bonuses</li>\n</ul><p>Keeper Security, Inc. is an equal opportunity employer and participant in the U.S. Federal E-Verify program. We celebrate diversity and are committed to creating an inclusive environment for all employees.</p><p>Classification: <strong>Exempt</strong></p><p><strong>Keeper Candidate Privacy Notice</strong></p><p>This notice explains how Keeper Security processes your personal data during recruitment. Depending on the role and location, the Controller of personal data (the organization responsible for determining why and how personal data is processed) will be Keeper Security Inc. (US), Keeper Security EMEA Ltd. (Ireland), or Keeper Security APAC K.K (Japan).</p><p> 1. <strong>Data We Collect</strong></p><p>Information You provide:</p><ul>\n<li>Contact details, CV/resume, cover letter</li>\n<li>Employment history, qualifications, work eligibility</li>\n<li>Application responses and uploaded documents</li>\n</ul><p>Information We generate:</p><ul>\n<li>Interview notes, assessments, communications</li>\n<li>Scheduling information</li>\n</ul><p>Information From Others:</p><ul>\n<li>Recruiter/referral information who submit your profile</li>\n<li>References (with your consent, before final offer)</li>\n<li>Public professional profiles</li>\n<li>Background verification (post offer)</li>\n</ul><p> Voluntary Diversity and Equal Opportunity Information</p><ul>\n<li>We may ask you to voluntarily provide diversity information including race/ethnicity, gender, disability status and veteran status (US). Providing this information is optional and Keeper collects this data in order to comply with EEOC and similar requirements</li>\n</ul><p> 2. <strong>How We Use Your Data</strong></p><ul>\n<li>Assess your application and suitability</li>\n<li>Manage interviews and recruitment workflow</li>\n<li>Consider you for other/future roles (we may seek your consent to keep your information on our systems beyond the retention period specified)</li>\n<li>Comply with employment law obligations</li>\n</ul><p> 3. <strong>Legal Basis</strong></p><ul>\n<li>Legitimate Interests (recruitment management, security and integrity of the hiring process)</li>\n<li>Contracting steps (for progressed candidates)</li>\n<li>Legal and regulatory compliance obligations; explicit consent where required</li>\n</ul><p> 4. <strong>Who We Share Information With</strong></p><p>Internal: </p><ul>\n<li>HR, hiring managers, interviewers*, IT support for system administration</li>\n</ul><p>*Note - diversity and equal opportunity data is not shared with hiring managers.</p><p>Third Parties:</p><p>Service providers who assist with:</p><ul>\n<li>Applicant tracking, recruitment systems and assessment providers</li>\n<li>Background verification vendors (post offer)</li>\n<li>Recruitment agencies (where applicable)</li>\n<li>Tools to support communication, collaboration and to securely store your data</li>\n</ul><p>Keeper ensures that all our third parties are contractually bound to protect your personal data with adequate safeguards in place.</p><p> 5. <strong>International Transfers</strong></p><p>Your data may be accessed by Keeper entities globally as needed for the purposes of hiring and decision making. We protect any such data transfer between Keeper entities using appropriate safeguards under applicable data protection laws. </p><p>6. <strong>Security</strong></p><p>We implement appropriate technical and organizational measures to protect your data, consistent with our industry leading security standards.</p><p>7. <strong>Retention</strong></p><p>We keep your data for 24 months from your last application activity, then delete or anonymize it. </p><p>Exceptions:</p><ul>\n<li>You opt into our talent database for further retention by providing consent (extended retention)</li>\n<li>You're hired (transfers to employee records)</li>\n</ul><p> 8. <strong>Your Rights</strong></p><p>You have the following rights and can contact us at the email below to exercise them:</p><ul>\n<li>Access, correct, or delete your data, subject to applicable law and retention requirements</li>\n<li>Object to or restrict processing</li>\n<li>Withdraw consent (where applicable)</li>\n<li>Request data portability</li>\n<li>Lodge a complaint with your data protection authority</li>\n</ul><p>If you become an employee, your rights regarding your employee record are governed by our internal Employee Privacy Notice and certain data will be retained as required under relevant laws such as employment or tax law. </p><p>When you request access to your personal data, some information may be redacted if it includes the personal data of other individuals or information that we must protect in order to preserve their privacy rights.</p><p> 9. <strong>Automated Decisions</strong></p><p>Keeper does not make hiring decisions using solely automated processing.</p><p>10. <strong>Contact</strong> - Candidates can send privacy questions to: privacy@keepersecurity.com</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/director-of-it-operations-keeper-security</p>",
+      "posted_at": "2026-11-09T19:00:15+00:00",
       "is_translated": false,
       "original_language": null
     },
@@ -9305,203 +9497,6 @@
       "direct_apply": null,
       "description": "<p>Position Overview:<br>\n<br>\nHelp shape the future of IT delivery at Convatec, a global medical technology company focused on improving outcomes for people living with chronic conditions. In this global leadership role, you will drive delivery excellence, strengthen performance management and accelerate automation across our business application landscape. Bringing together people, processes and technology, you will turn insights into action and apply workflow automation, analytics and AI to improve service quality, reliability and efficiency across SAP and non-SAP applications. You will establish consistent governance, KPIs and dashboards; identify performance trends, risks and improvement opportunities; and support the stabilization and transformation of business-critical application services. Working closely with IT leaders, delivery teams, business partners and strategic vendors, you will translate complex challenges into practical recommendations and measurable improvements. This is an opportunity to shape how we work, influence strategic partners and deliver trusted business solutions that create measurable value across the organization.</p>\n<h2>Key Responsibilities:</h2>\n<ul>\n<li>Cross Functional Service Delivery: Ensure reliable and efficient delivery of cross functional services across IT Delivery Business Applications. Define and continuously improve common processes, governance and delivery standards.</li>\n</ul>\n<ul>\n<li>Performance Management: Establish and maintain consistent KPIs, dashboards and reporting across application operations and the delivery portfolio. Identify performance trends, risks and improvement opportunities and initiate preventive actions and corrections.</li>\n</ul>\n<ul>\n<li>Automation and Continuous Improvement: Identify, prioritize and implement opportunities to automate recurring service requests, technical operations, delivery processes and reporting activities across SAP and non-SAP applications.</li>\n</ul>\n<ul>\n<li>Application Service Stabilization: Support the stabilization and transformation of business-critical application services through appropriate governance, delivery models, partner arrangements and improvement roadmaps.</li>\n</ul>\n<ul>\n<li>Stakeholder Engagement: Maintain effective relationships with IT leadership, Delivery Leads, business partners and other key stakeholders. Ensure transparent communication of performance, progress, risks, decisions and outcomes.</li>\n</ul>\n<ul>\n<li>Partner and Vendor Management: Manage strategic delivery partners and external resources, ensuring alignment with agreed objectives, performance expectations, quality standards and commercial commitments.</li>\n</ul>\n<ul>\n<li>Risk and Quality Management: Proactively identify and manage operational and delivery risks. Ensure that services and deliverables meet agreed quality, compliance and business requirements.</li>\n</ul>\n<ul>\n<li>Technology Enablement: Monitor relevant technology developments and promote the appropriate use of workflow automation, analytics, artificial intelligence and agentic capabilities to improve delivery efficiency and quality.</li>\n</ul>\n<h2>Skills &#x26; Experience:</h2>\n<ul>\n<li>Minimum of 5 years of experience in consulting, project delivery or application operations, with a focus on industrialized service delivery.</li>\n<li><em>IT delivery leadership:</em> Proven experience in global IT service delivery and application operations across SAP and non-SAP environments.</li>\n<li><em>Consulting experience:</em> A strong consulting background, with the ability to assess complex challenges, develop practical recommendations and translate strategy into measurable results.</li>\n<li><em>Automation and innovation:</em>Experience identifying and implementing workflow automation, analytics and AI opportunities to improve efficiency and service quality.</li>\n<li><em>Performance management: </em>Ability to establish meaningful KPIs, dashboards and actionable insights that drive accountability and continuous improvement.</li>\n<li><em>Operational excellence:</em> A track record of standardising processes, strengthening governance and stabilising business-critical application services.</li>\n<li><em>Stakeholder and partner management:</em> Strong communication and influencing skills, with experience aligning senior stakeholders, cross-functional teams and strategic delivery partners.</li>\n<li><em>Change leadership: </em>Ability to build engagement, challenge established ways of working and embed sustainable improvements across a global organisation.</li>\n<li><em>MedTech and regulated environments:</em> Experience in medical technology, life sciences or another regulated industry is highly desirable, with an understanding of quality and compliance requirements.</li>\n</ul>\n<h2>Education &#x26; Qualifications:</h2>\n<ul>\n<li>A bachelor's degree in business, information technology, or a related field. Advanced degrees or certifications are a plus.</li>\n</ul>\n<ul>\n<li>ITIL 4, PRINCE2 or SAFe CSP certification is a plus.</li>\n</ul>\n<h2>Travel Requirements:</h2>\n<ul>\n<li>Position may involve travel up to 10% of the time, mostly within Europe, Asia Pacific, and Americas. Most trips will include overnight travel.</li>\n</ul>\n<h2>Working Conditions:</h2>\n<ul>\n<li>Remote working, with flexibility to travel when required by business needs.</li>\n</ul>\n<p><strong>Beware of scams online or from individuals claiming to represent Convatec</strong></p>\n<p>A formal recruitment process is required for all our opportunities prior to any offer of employment. This will include an interview confirmed by an official Convatec email address.</p>\n<p>If you receive a suspicious approach over social media, text message, email or phone call about recruitment at Convatec, do not disclose any personal information or pay any fees whatsoever. If you’re unsure, please contact us at .</p>\n<h2>Equal opportunities</h2>\n<p>Convatec provides equal employment opportunities for all current employees and applicants for employment. This policy means that no one will be discriminated against because of race, religion, creed, color, national origin, nationality, citizenship, ancestry, sex, age, marital status, physical or mental disability, affectional or sexual orientation, gender identity, military or veteran status, genetic predisposing characteristics or any other basis prohibited by law.</p>\n<h2>Notice to Agency and Search Firm Representatives</h2>\n<p>Convatec is not accepting unsolicited resumes from agencies and/or search firms for this job posting. Resumes submitted to any Convatec employee by a third party agency and/or search firm without a valid written and signed search agreement, will become the sole property of Convatec. No fee will be paid if a candidate is hired for this position as a result of an unsolicited agency or search firm referral. Thank you.</p>\n<h2>Already a Convatec employee?</h2>\n<p><strong>If you are an active employee at Convatec, please do not apply here. Go to the Career Worklet on your Workday home page and View \"Convatec Internal Career Site - Find Jobs\". Thank you!</strong></p>\n<h2>About Convatec</h2>\n<p><strong>Pioneering trusted medical solutions to improve the lives we touch:</strong></p>\n<p>Convatec is a global medical products and technologies company, focused on solutions for the management of chronic conditions, with leading positions in Advanced Wound Care, Ostomy Care, Continence Care, and Infusion Care. With over 10,000 colleagues, we provide products and services in around 90 countries, united by a promise to be forever caring. Our solutions provide a range of benefits, from infection prevention, treatment for hard to heal wounds, at-risk skin and ulcerated tissue to supporting debilitating conditions, improved patient outcomes and reduced care costs. Convatec's revenues in 2025 were over $2 billion. The company is a constituent of the FTSE 100 Index (LSE:CTEC). To learn more please visit:</p>\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/head-of-it-delivery-excellence-automation-convatec</p>",
       "posted_at": "2026-11-06T20:30:35+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "54b577a1-edbd-4c38-be6d-41aabfcae665",
-      "title": "Senior Jira Administrator",
-      "url": "https://remotejobs.org/remote-jobs/senior-jira-administrator-canonical",
-      "apply_url": "https://remotejobs.org/remote-jobs/senior-jira-administrator-canonical",
-      "company": {
-        "name": "Canonical Ltd.",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/6743c2afbb747e4732596b4a08327b640342e64e8611cc65081693a5c7a32a45.png",
-        "website": "https://canonical.com",
-        "url": "https://remotejobs.org/companies/canonical-ltd"
-      },
-      "category": {
-        "name": "DevOps",
-        "slug": "devops"
-      },
-      "location": "EMEA",
-      "location_normalization": {
-        "raw": "EMEA",
-        "input": {},
-        "scope": "restricted",
-        "status": "partial",
-        "regions": [
-          "emea"
-        ],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "partial",
-        "regions": [
-          "emea"
-        ],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [
-          {
-            "kind": "timezone",
-            "areas": [],
-            "effect": "context",
-            "details": "Location: This role can be held anywhere in EMEA time zones.",
-            "regions": [],
-            "timezones": [],
-            "evidence_id": "c1",
-            "conditional_on": null
-          }
-        ],
-        "unresolved": [
-          "The role may be held anywhere in EMEA time zones, but EMEA time zones are not enumerated as ISO subdivisions or IANA timezone identifiers, so the exact applicant geography cannot be fully represented beyond the EMEA header.",
-          "Unresolved area: location:1"
-        ],
-        "evidence_ids": [
-          "c1",
-          "source-location"
-        ],
-        "allowed_regions": [
-          "EMEA"
-        ],
-        "work_arrangement": "remote",
-        "allowed_countries": [],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": "senior",
-        "role_family": null,
-        "required_skills": [],
-        "mentioned_skills": [
-          "golang",
-          "python"
-        ],
-        "preferred_skills": [],
-        "experience_requirements": []
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": null,
-      "salary_period": null,
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<p><a href=\"https://jobicy.com/company/canonical-ltd\">Canonical</a> is a leading provider of open-source software and operating systems for global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in more than 80 countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution.</p>\n<p>The company is founder led, profitable and growing.</p>\n<p>We are hiring a <strong>Jira Administrator</strong> to manage the Atlassian Jira Cloud at Canonical, including the administration, configuration, automation, and integration responsibilities. We expect the highest engineering quality, rigorous documentation practices, and effective stakeholder management abilities. Our goal is to enable Canonical engineering and business teams to leverage the power of Atlassian Jira, work on challenging assignments, and enable teams to make data-driven decisions.</p>\n<p>The role is in the Commercial Systems team that integrates business systems used at Canonical to ensure reliable data flows at the right time to the right place, and to automate business processes across the company. We own a wide range of systems including popular SaaS solutions, such as Jira, Salesforce, NetSuite, Greenhouse, GSuite, and a few dozen others. To achieve this goal, we leverage Python and Go in combination with open source tools, such as Airbyte and Temporal. Our work helps to make data-driven decisions, and increases the efficiency of business operations.</p>\n<p><strong>Location:</strong> This role can be held anywhere in EMEA time zones.</p>\n<h2><strong>The role entails</strong></h2>\n<ul>\n<li>Manage Atlassian Jira Cloud at Canonical</li>\n<li>Design, document, and implement processes and automation in Jira</li>\n<li>Design, document, and implement integrations between Jira and the data warehouse</li>\n<li>Create analytical dashboards to enable stakeholders make data-driven decisions</li>\n<li>Create learning resources that scale</li>\n<li>Work with engineering, operations, and support teams at a global scale</li>\n<li>Take ownership of critical escalations and resolve them in a timely manner</li>\n</ul>\n<h2><strong>What we are looking for in you</strong></h2>\n<ul>\n<li>Exceptional academic track record from both high school and university</li>\n<li>Experience with Atlassian Jira and its ecosystem as an administrator</li>\n<li>Understanding of common Jira usage patterns for various technical and non-technical departments</li>\n<li>Experience as a software developer in Python</li>\n<li>Professional written and spoken English</li>\n<li>Excellent interpersonal skills, curiosity, flexibility, and accountability</li>\n<li>Ability to collaborate remotely with a diverse set of team members and stakeholders, remain highly motivated, productive, and organized in a fully remote environment</li>\n<li>Ability to travel internationally twice a year, for company events up to two weeks long</li>\n</ul>\n<h2><strong>Nice-to-have skills</strong></h2>\n<ul>\n<li>A perspective on process architecture</li>\n<li>Experience with complex cross-project automation</li>\n</ul>\n<h2><strong>What we offer colleagues</strong></h2>\n<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognize outstanding performance. In addition to base pay, we offer a performance-driven annual bonus or commission. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>\n<ul>\n<li>Distributed work environment with twice-yearly team sprints in person</li>\n<li>Personal learning and development budget of USD 2,000 per year</li>\n<li>Annual compensation review</li>\n<li>Recognition rewards</li>\n<li>Annual holiday leave</li>\n<li>Maternity and paternity leave</li>\n<li>Employee Assistance Program</li>\n<li>Opportunity to travel to new locations to meet colleagues</li>\n<li>Priority Pass, and travel upgrades for long haul company events</li>\n</ul>\n<h2><strong>About Canonical</strong></h2>\n<p>Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open-source projects and the platform for AI, IoT and the cloud, we are changing the world of software. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do. Most colleagues at Canonical have worked from home since its inception in 2004.​ Working here is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game.</p>\n<p><strong>Canonical is an equal opportunity employer</strong></p>\n<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href=\"https://canonical.com/careers/diversity/identity\"> Whatever your identity, we will give your application fair consideration.</a></p>\n<p>#LI-remote</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-jira-administrator-canonical</p>",
-      "posted_at": "2026-11-06T17:58:04+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "78296cc4-748d-49a4-ab39-1610ac43e9df",
-      "title": "Site Reliability Engineer in Network Infrastructure",
-      "url": "https://remotejobs.org/remote-jobs/site-reliability-engineer-in-network-infrastructure-nebius-5a00260217044c2b922f206f62dc3e2f",
-      "apply_url": "https://remotejobs.org/remote-jobs/site-reliability-engineer-in-network-infrastructure-nebius-5a00260217044c2b922f206f62dc3e2f",
-      "company": {
-        "name": "Nebius",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/1d090a07697b560eba70d817fc14dba84ad15dfbd7c6a011b1bd7db5bdf99bfa.webp",
-        "website": "https://nebius.com",
-        "url": "https://remotejobs.org/companies/nebius"
-      },
-      "category": {
-        "name": "DevOps",
-        "slug": "devops"
-      },
-      "location": "Europe",
-      "location_normalization": {
-        "raw": "Europe",
-        "input": {},
-        "scope": "restricted",
-        "status": "partial",
-        "regions": [
-          "europe"
-        ],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "partial",
-        "regions": [
-          "europe"
-        ],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [
-          "Applicants must be authorized to work in the country in which they apply (description:36). The Europe header is a regional label with no enumerated countries, so the applicant country set cannot be represented as areas.",
-          "Unresolved area: location:1"
-        ],
-        "evidence_ids": [
-          "source-location"
-        ],
-        "allowed_regions": [
-          "Europe"
-        ],
-        "work_arrangement": "unknown",
-        "allowed_countries": [],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": null,
-        "role_family": "devops",
-        "required_skills": [],
-        "mentioned_skills": [
-          "golang",
-          "python",
-          "r"
-        ],
-        "preferred_skills": [],
-        "experience_requirements": []
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": null,
-      "salary_period": null,
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<p><strong>About <a href=\"https://jobicy.com/company/nebius\">Nebius</a>:</strong></p>\n<p>Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure.</p>\n<p>Built by engineers, for engineers. From large-scale GPU orchestration to inference optimization, we own the hard problems across compute, storage, networking and applied AI.</p>\n<p>Listed on Nasdaq (NBIS) and headquartered in Amsterdam, we have a global footprint with R&#x26;D hubs across Europe, the UK, North America and Israel. Our team of 1,500+ includes hundreds of engineers with deep expertise across hardware, software and AI R&#x26;D.</p>\n<h2>The Role</h2>\n<p>We’re looking for a<strong> Site Reliability Engineer </strong>to help build and run the fundamental part of Nebius - the Network - the infrastructure everything else depends on. This is an engineering-first SRE role: you’ll set clear reliability targets, build the tooling and automation to meet them, and make the network safer to operate as we scale quickly.</p>\n<h2>Your responsibilities will include:</h2>\n<ul>\n<li>Define and own reliability goals for network services and critical paths (SLIs/SLOs, availability targets, error budgets where it makes sense)</li>\n<li>Drive reliability improvements across the whole network: not only services, but also site readiness, inter-site connectivity (DCI), and operational standards</li>\n<li>Own incident response for your areas, lead investigations/postmortems, and turn failures into durable fixes (not repeated firefighting)</li>\n<li>Build and evolve observability: actionable metrics/logs/traces, alerting, and faster debug loops during and after incidents</li>\n<li>Design safer change workflows: automation, CI/CD, test/staging environments, canarying, rollbacks, and auditability for network changes</li>\n<li>Work closely with network engineers and platform teams to embed operability into designs and keep operations practical and fast</li>\n</ul>\n<h2>We expect you to have:</h2>\n<ul>\n<li>Strong production Linux fundamentals and a structured approach to debugging complex systems</li>\n<li>Solid understanding of networking basics and how real networks fail (control plane vs data plane, latency/loss, failure domains, etc.)</li>\n<li>Hands-on experience operating high-availability systems and improving them over time (not just “keeping lights on”)</li>\n<li>Ability to write and maintain software/automation (Go is common for us; Python is also welcome)</li>\n<li>Experience with modern infrastructure tooling (e.g., IaC, CI/CD, container platforms) and comfort automating operational workflows</li>\n</ul>\n<h2>It will be an added bonus if you have:</h2>\n<ul>\n<li>Experience with high-throughput traffic processing: load balancers, tunneling/decap, NAT64, or similar datapath-heavy systems</li>\n<li>Low-level networking performance/debug background (eBPF/XDP, DPDK, perf/ftrace, kernel networking internals)</li>\n<li>Experience building network-safe delivery pipelines (testing labs, staged rollouts, automated verification, drift detection)</li>\n<li>Background with large-scale network observability/telemetry (e.g., routing/flow telemetry, regression detection at scale)</li>\n</ul>\n<p><strong>Benefits &#x26; Perks:</strong></p>\n<ul>\n<li>Competitive compensation</li>\n<li>Career growth and learning opportunities</li>\n<li>Flexibility and ownership</li>\n<li>Collaborative and innovative culture</li>\n<li>Opportunity to work on impactful AI projects</li>\n<li>International environment and talented teams</li>\n</ul>\n<p><strong>What's it like to work at Nebius:</strong></p>\n<p>Fast moving - Bold thinking - Constant growth - Meaningful impact - Trust and real ownership - Opportunity to shape the future of AI</p>\n<p><strong>Equal Opportunity Statement:</strong></p>\n<p>Nebius is an equal opportunity employer. We are committed to fostering an inclusive and diverse workplace and to providing equal employment opportunities in all aspects of employment. We do not discriminate on the basis of race, color, religion, sex (including pregnancy), national origin, ancestry, age, disability, genetic information, marital status, veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by applicable law.</p>\n<p>Applicants must be authorized to work in the country in which they apply and will be required to provide proof of employment eligibility as a condition of hire.</p>\n<p>If you need accommodations during the application process, please let us know.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/site-reliability-engineer-in-network-infrastructure-nebius-5a00260217044c2b922f206f62dc3e2f</p>",
-      "posted_at": "2026-11-06T17:56:17+00:00",
       "is_translated": false,
       "original_language": null
     },
@@ -12690,6 +12685,102 @@
       "original_language": null
     },
     {
+      "id": "c7109d63-7f9b-491c-a00e-73707921930d",
+      "title": "Sr. Associate, Business Operations & Analytics",
+      "url": "https://remotejobs.org/remote-jobs/sr-associate-business-operations-analytics-enable-dental",
+      "apply_url": "https://remotejobs.org/remote-jobs/sr-associate-business-operations-analytics-enable-dental",
+      "company": {
+        "name": "Enable Dental",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/44bf2351f0536a2cacea6d7e1434c0769671ecb2226cf325967c43956b03634d.png",
+        "website": null,
+        "url": "https://remotejobs.org/companies/enable-dental"
+      },
+      "category": {
+        "name": "Data Science",
+        "slug": "data-science"
+      },
+      "location": "Austin, Texas, US",
+      "location_normalization": {
+        "raw": "Austin, Texas, US",
+        "input": {},
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [
+          "austin"
+        ],
+        "work_arrangement": "unknown",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "allowed_subdivisions": [
+          "US-TX"
+        ],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [
+          "US-TX"
+        ],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": "senior",
+        "role_family": null,
+        "required_skills": [],
+        "mentioned_skills": [
+          "python",
+          "sql"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": [
+          {
+            "text": "2–4 years of experience in data analytics, business intelligence, data science, business operations, or a similar highly analytical and technical role",
+            "maximum_years": 4,
+            "minimum_years": 2,
+            "classification": "mentioned"
+          }
+        ]
+      },
+      "salary_min": 120000,
+      "salary_max": 130000,
+      "salary_text": "USD 120,000–130,000/year",
+      "salary_source_text": null,
+      "salary_currency": "USD",
+      "salary_period": "year",
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "3343d34d-5c77-4a44-8c5b-742ce9191d5b",
+      "direct_apply": null,
+      "description": "<h2>ABOUT ENABLE DENTAL</h2>\n<p>Enable Dental is redefining dental care by bringing high-quality, comprehensive services directly to those who need it most—patients in assisted living facilities, skilled nursing homes, and individuals unable to visit a traditional office. By combining cutting-edge mobile healthcare technology with a compassionate, skilled team, we’re improving oral health outcomes and enhancing quality of life for thousands of patients. As a rapidly growing, mission-driven company, we foster a high-performance culture where innovation, accountability, and teamwork drive everything we do. If you're looking for a career with purpose and growth potential, this is your opportunity to make a real impact.</p>\n<h2>YOUR DAY-TO-DAY</h2>\n<p>As the Sr. Associate, Business Operations &#x26; Analytics, you’ll drive key decisions across operations from ensuring our field operations team is staffed, scheduled, and deployed with precision to optimizing revenue and strategic growth. This role is highly analytical and execution-focused, sitting at the intersection of data, operations and decision-making.</p>\n<p>You will own and architect the models and insights that help our operations leadership make smart, fast calls on staffing decisions, market expansion, and our broader operational strategy across every market we serve. You’ll also work hand-in-hand with Regional Managers to improve workforce utilization, minimize non-productive time, optimize supply and demand, and ensure we’re delivering care efficiently and cost-effectively across our business.</p>\n<p>In this role, you will:</p>\n<ul>\n<li>Serve as a thought partner &#x26; analytical right hand to operations leadership, transforming raw operational challenges into structured frameworks and recommendations</li>\n<li>Write complex SQL reports and utilize Python to automate operational workflows, extract actionable insights, and build robust forecasting models</li>\n<li>Build and maintain forecasting, staffing and resource allocation models that drive operational and strategic decisions across the business</li>\n<li>Develop and refine operational workflows and ad-hoc analyses, such as building tools to prescriptively queue work for our support operations staff or setting revenue and scheduling targets across the organization</li>\n<li>Translate complex data into clear, persuasive narratives for executive and cross-functional audiences</li>\n<li>Identify performance gaps, inefficiencies, and growth opportunities across the organization and propose the changes needed to fix/realize them</li>\n<li>Own high-visibility projects and analyses from scoping through execution and measurement. Whether it’s creating a pricing model to evaluate ROI, using geospatial heatmaps to determine new office locations, or optimizing provider compensation structures, you are the project lead.</li>\n<li>Partner closely with field operations leaders to align staffing and scheduling to service goals, productivity targets, and budget</li>\n<li>Create and maintain dashboards, reports, and tools that track field efficiency, utilization, and staffing KPIs</li>\n</ul>\n<h2>WHAT WE’RE LOOKING FOR</h2>\n<ul>\n<li>2–4 years of experience in data analytics, business intelligence, data science, business operations, or a similar highly analytical and technical role</li>\n<li>Strong proficiency in SQL for querying databases and Python for data manipulation, modeling, and workflow automation</li>\n<li>Healthcare, logistics, or field-based services experience is a plus</li>\n<li>Advanced Excel or Google Sheets skills: complex modeling, scenario analysis, dynamic dashboards</li>\n<li>Experience with Power BI, Tableau, or similar data visualization tools is a strong plus</li>\n<li>You can build a model and explain what it means to a Regional Manager who doesn't live in spreadsheets</li>\n<li>Structured problem solver — you know how to frame a problem before you start solving it and can take a messy, qualitative problem and turn it into a quantitative hypothesis</li>\n<li>Comfortable with ambiguity, multiple priorities, and cross-functional collaboration</li>\n<li>Excellent communicator with executive presence — you can distill complex findings into concise and actionable recommendations. You are comfortable “in the room” with senior leadership, able to defend your logic and influence decision-making at the highest levels</li>\n<li>Curious, resourceful, and motivated to optimize and improve outcomes continuously</li>\n<li>Bachelor's degree in business, economics, operations, data analytics, or a related quantitative field</li>\n</ul>\n<p>Compensation: Enjoy a competitive base salary of $120,000-$130,000 USD annually</p>\n<p><strong>Perks: Enjoy a comprehensive benefits package that includes Medical, Dental, Vision coverage, a 401(k) plan (with 3% match), Life Insurance, and generous Paid Time Off to help you recharge and thrive.</strong></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/sr-associate-business-operations-analytics-enable-dental</p>",
+      "posted_at": "2026-11-09T18:36:49.091+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
       "id": "dd9e1931-8efe-46f0-8649-6fe7e7214261",
       "title": "Senior Data Engineer",
       "url": "https://remotejobs.org/remote-jobs/senior-data-engineer-description-ciklum",
@@ -14123,120 +14214,6 @@
       "direct_apply": null,
       "description": "<h2>Director, Strategic Pricing &#x26; Analytics</h2><h2>Remote</h2><p><strong>Company Overview:</strong> AMSURG is an independent leader in ambulatory surgery center services, operating a network of more than 250 surgery centers nationwide. In partnership with physicians and health systems, the organization delivers high-quality care for patients across a diverse spectrum of medical specialties, including gastroenterology, ophthalmology and orthopedics. To learn more about AMSURG, visit www.amsurg.com.</p><h2>POSITION SUMMARY:</h2><p>The Director, Strategic Pricing &#x26; Analytics serves as a key business partner to Health Plan Relations (HPR), Revenue Cycle Management, Operations, Finance, and Executive Leadership, leading the organization's payer contract modeling, chargemaster governance, and price transparency analytics functions. This role provides financial and operational insights that support payer negotiations, pricing decisions, reimbursement optimization, and integration activities. The Director is responsible for establishing analytical standards, ensuring data integrity, developing team capabilities, and advancing the organization's pricing and reimbursement analytics programs.</p><h2>Work Schedule: Remote First</h2><h2>ESSENTIAL RESPONSIBILITIES:</h2><ul>\n<li>Lead payer contract modeling activities, directing the development, maintenance, and governance of reimbursement models while ensuring consistency, accuracy, scalability, and actionable insights across all markets and service lines.</li>\n<li>Serve as a player-coach by remaining actively engaged in complex reimbursement modeling, financial analysis, and payer negotiation support while mentoring and developing team members in modeling methodologies and analytical best practices.</li>\n<li>Direct chargemaster development, maintenance, and pricing governance to support revenue integrity, compliance, and reimbursement optimization.</li>\n<li>Partner with departmental leadership to develop and enhance price transparency reporting, dashboards, and market intelligence capabilities.</li>\n<li>Oversee the aggregation, validation, and interpretation of pricing and reimbursement data to support payer negotiations, market assessments, and executive decision-making.</li>\n<li>Lead and direct analytics staff to meet business needs that support achieving department and organizational goals and objectives.</li>\n<li>Establish and maintain standards, controls, and governance processes that ensure the accuracy, consistency, and integrity of payer modeling, reimbursement analytics, chargemaster management, and price transparency reporting.</li>\n<li>Represent HPR on integration committees associated with acquisitions, de novo centers, mergers, and center consolidations, providing reimbursement, pricing, chargemaster, and payer contract expertise to support successful integrations.</li>\n<li>Lead ad hoc reimbursement analyses and other analytical projects requested by leadership to support business planning and operational initiatives.</li>\n<li>Drive continuous improvement through talent development, process optimization, reporting enhancements, and advancement of analytical tools and technologies.</li>\n</ul><h2>QUALIFICATIONS: </h2><p>To perform this job successfully, an individual must be able to perform each essential responsibility satisfactorily.  The requirements listed below are representative of the knowledge, skills and/or abilities required.</p><ul><li><ul>\n<li>Expertise in healthcare industry, managed care contracts, reimbursement methodologies, and pricing strategies.</li>\n<li>Demonstrated ability to build and audit sophisticated financial models, analyze large healthcare datasets, develop reporting solutions, and translate findings into actionable business recommendations.</li>\n<li>Strong critical thinking, analytical, and problem-solving skills with the ability to assess reimbursement, pricing, and contracting scenarios and provide sound business recommendations.</li>\n<li>Fluency in Microsoft Office applications with advanced Excel skills required; strong Microsoft Office, Access, relational databases, and reporting tools a plus.</li>\n<li>Demonstrated ability to design, develop, and implement routine and custom reporting.</li>\n<li>Demonstrated ability to effectively communicate with C-suite and executive leadership (i.e., packaging and presenting nuanced and detailed information, fielding and responding to questions across the organization, etc.).</li>\n<li>Excellence in delivering projects on time and with the desired results through a structured project management (e.g., time, team, work-stream management) approach.</li>\n</ul></li></ul><h2>Education/Experience:</h2><ul>\n<li>Bachelor's degree required, preferably in Finance, Accounting, Healthcare Administration, Business Administration, or a related discipline. Advanced degree (MBA, MHA, or equivalent) preferred.</li>\n<li>Minimum 7 years of experience in health care or health plan analytics.</li>\n<li>Working knowledge of ambulatory surgery payer contract methodologies.</li>\n<li>Expertise in Excel-based modeling, analysis, financial reporting or data analytics required.</li>\n<li>Experience leading a team to achieve business objectives.</li>\n</ul><p><strong>Employment at AMSURG:</strong><strong>Living Our Values Every Day</strong><br>At AMSURG, our values define who we are and how we serve our patients, partners, and each other. As a national leader in ambulatory surgery, we are committed to a culture of excellence, integrity, teamwork and caring deeply. Our values guide every decision, ensuring we continue to elevate healthcare and provide the highest quality care.<br>These guiding principles are the foundation of our culture and a guide to how we collaborate, innovate, and make a difference every day.</p><ul>\n<li>\n<strong>Care Deeply</strong> for those around us.</li>\n<li>\n<strong>Cultivate Integrity</strong> to build trust.</li>\n<li>\n<strong>Champion Excellence</strong> for continuous improvement</li>\n<li>\n<strong>Celebrate Teamwork</strong> every step to the way.</li>\n</ul><h2>Benefits:</h2><p>To ensure we retain and invest in great people, AMSURG provides its employees with the benefits, recognition, training, and opportunities needed for professional growth. Our wide range of health and welfare benefits allow you to choose the right coverage for you and your family. AMSURG offers a variety of health and welfare benefit options to help protect your health and promote your wellbeing. Benefits offered include but are not limited to: Paid Time Off, Medical, Dental, Vision, Life, Disability, Healthcare FSA, Dependent Care FSA, Limited Healthcare FSA, FSAs for Transportation and Parking &#x26; HSAs, and a matching 401(K) Plan.</p><h2>Paid Time Off:</h2><p>AMSURG offers paid time off, 9 observed holidays, and paid family leave. You accrue Paid Time Off (PTO) each pay period and depending on your position and can earn a minimum of 20 days and up to 25 days per calendar year.</p><h2>EOE Statement:</h2><p>AMSURG is an Equal Opportunity Employer (EOE). Qualified applicants are considered for employment without regard to age (40 or older), race, color, religion, gender, sex, national origin, pregnancy, sexual orientation, disability, genetic information or any other status protected under applicable federal, state, or local laws. We strive to also provide a disability inclusive application and interview process. If you are a candidate with a disability and require reasonable accommodation in order to submit an application, please contact us at: . Please include your full name, the role you’re applying for and the accommodation necessary to assist you with the recruiting process. </p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/director-strategic-pricing-analytics-amsurg-llc</p>",
       "posted_at": "2026-11-06T20:30:38+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "34642ad0-ccdf-4cbb-8417-226965bfed35",
-      "title": "Product Testing Analyst",
-      "url": "https://remotejobs.org/remote-jobs/product-testing-analyst-acxiom",
-      "apply_url": "https://remotejobs.org/remote-jobs/product-testing-analyst-acxiom",
-      "company": {
-        "name": "Acxiom",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/09fbcf91a0c9aee478fa2934954a7ff3aa62d6946448ec9532ad27fb1190d232.jpeg",
-        "website": "https://acxiom.com",
-        "url": "https://remotejobs.org/companies/acxiom"
-      },
-      "category": {
-        "name": "Data Science",
-        "slug": "data-science"
-      },
-      "location": "United States",
-      "location_normalization": {
-        "raw": "United States",
-        "input": {},
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "partial",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [
-          "Homebased work location in Conway, Arkansas is a city-level work-location requirement that cannot be represented as a state or country area.",
-          "The posting states the position is not located in Colorado, California, Connecticut, Massachusetts, Maryland, Nevada, New Jersey, New York City, Ohio, Rhode Island, Virginia, or Washington, but says applications for remote work from these locations may be considered; this conditional remote-applicant permission is not resolved into enumerated areas.",
-          "Unresolved area: description:32, description:33"
-        ],
-        "evidence_ids": [
-          "c2",
-          "source-location"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "remote",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": null,
-        "role_family": null,
-        "required_skills": [],
-        "mentioned_skills": [
-          "python",
-          "r",
-          "sql"
-        ],
-        "preferred_skills": [
-          "aws"
-        ],
-        "experience_requirements": [
-          {
-            "text": "3-5 years experience with ETL, data transformation, data mart development, data source ingestion, data pipelining, data warehousing solutions",
-            "maximum_years": 5,
-            "minimum_years": 3,
-            "classification": "mentioned"
-          },
-          {
-            "text": "3-5 years experience with cloud computing environments and/or certifications - Databricks and/or Snowflake is a plus",
-            "maximum_years": 5,
-            "minimum_years": 3,
-            "classification": "preferred"
-          },
-          {
-            "text": "3 years of relevant work experience",
-            "maximum_years": null,
-            "minimum_years": 3,
-            "classification": "mentioned"
-          }
-        ]
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": null,
-      "salary_period": "year",
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<p>At Acxiom, our vision is to transform data into value for everyone. Our data services enable marketers to recognize, better understand, and deliver highly applicable messages to consumers across any available channel. Our solutions enable true people-based marketing with identity resolution and rich descriptive and predictive audience segmentation. We are seeking a Data Analyst with a versatile skill set to undertake data science and analytics supporting the development of next-generation products for Acxiom’s business.<br>\n<br>\nAs part of the Data Sciences &#x26; Analytics Team, you will work hands-on with innovative technologies to build scalable data products and solutions for our US and global businesses. Your responsibilities include evaluating potential new data partners, establishing quality control processes, monitoring data refreshes, supporting the build of a multi-sourced CPG data product, and QA the final product prior to release/update.</p>\n<h2>What you will do:</h2>\n<ul>\n<li>Research and develop an understanding of Acxiom products, tools, and processes</li>\n</ul>\n<ul>\n<li>Assist with the validation and delivery of products or improvements</li>\n</ul>\n<ul>\n<li>Prepare analysis datasets by appending data, deduping, loading data to analysis applications, and merging with other datasets</li>\n</ul>\n<ul>\n<li>Perform queries on the data to discern data anomalies and quality audits to ensure the accuracy of the rules or statistical models</li>\n</ul>\n<ul>\n<li>Assist with engineering, build teams, delivery and platform teams to ensure appropriate data delivery and presentation</li>\n</ul>\n<ul>\n<li>Perform basic research/analysis which includes accuracy reports, cross-tabs, frequencies, data hygiene, correlations, data summarizations, and profiles reports or profile data</li>\n</ul>\n<ul>\n<li>Collaborate with other data scientists and team leads to define project requirements including data sources, algorithms, and implementation</li>\n</ul>\n<ul>\n<li>Offer ideas for product and/or process improvements such as automation related to focus area of work</li>\n</ul>\n<ul>\n<li>Extract, load, and transform data as preparation for modeling. Build and maintain data mart solutions to support scored model outputs</li>\n</ul>\n<h2>What you will need:</h2>\n<ul>\n<li>Working knowledge or experience with one or more of the following tools: SQL, R, Python, Scala, Spark or similar programming language</li>\n</ul>\n<ul>\n<li>3-5 years experience with ETL, data transformation, data mart development, data source ingestion, data pipelining, data warehousing solutions</li>\n</ul>\n<ul>\n<li>3-5 years experience with cloud computing environments and/or certifications - Databricks and/or Snowflake is a plus.</li>\n</ul>\n<ul>\n<li>Ability to demonstrate critical thinking and enthusiasm for translating data into actionable insight to generate consistently accurate and useful analysis and models</li>\n</ul>\n<ul>\n<li>Ability to quality control production processes</li>\n</ul>\n<ul>\n<li>Ability to develop dashboards or reporting for monitoring data performance and consistency.</li>\n</ul>\n<ul>\n<li>Bachelor’s Degree in a quantitative field (Applied Mathematics, Applied Statistics, Economics, or Computer Science) or related degree programs and 3 years of relevant work experience</li>\n</ul>\n<ul>\n<li>Ability to work independently when given detailed specification and instruction</li>\n</ul>\n<ul>\n<li>Standout colleague, flexible, and creative</li>\n</ul>\n<ul>\n<li>Attention to detail and time management delivering high quality work while meeting deadlines</li>\n</ul>\n<ul>\n<li>Experience working with large datasets</li>\n</ul>\n<ul>\n<li>Experience Microsoft Office suite – especially Excel, Power Point, Word</li>\n</ul>\n<h2>What will set you apart:</h2>\n<ul>\n<li>Databricks data analyst certification and experience with CPG transaction level data</li>\n</ul>\n<ul>\n<li>Familiarity with cloud environments (e.g. AWS, Google Cloud Platform, Azure etc.) a plus</li>\n</ul>\n<ul>\n<li>Experience in statistical modeling techniques to conduct forecasting and other predictive modeling services using R, Python, Scala, Spark/pySpark</li>\n</ul>\n<p>We believe in building an awesome workplace where associates feel engaged and want to come to work every single day. It’s important to Acxiom that we invest in our culture and promote a healthy work-life balance, even when our associates are at work.<br>\n<br>\nAs a part of our team, you will join a fast-moving, dynamic, “get stuff done” culture we empower our people to do their jobs. You will always be guided to do what’s right, legally and morally for our customers. At Acxiom, we believe in exceptionalism- we intend to be the absolute best in everything we do</p>\n<h2>Primary Location City/State:</h2>\n<p>Homebased - Conway, Arkansas</p>\n<h2>Additional Locations (if applicable):</h2>\n<p>Acxiom is an equal opportunity employer, including disability and protected veteran status (EOE/Vet/Disabled) and does not discriminate in recruiting, hiring, training, promotion or other employment of associates or the awarding of subcontracts because of a person's race, color, sex, age, religion, national origin, protected veteran, military status, physical or mental disability, sexual orientation, gender identity or expression, genetics or other protected status.</p>\n<p>Attention California Applicants: Please see our CCPA/CPRA Privacy Act notice here.</p>\n<p>Attention Colorado, California, Connecticut, Massachusetts, Maryland, Nevada, New Jersey, New York City, Ohio, Rhode Island, Virginia, and Washington Applicants: This position is not located in the aforementioned locations but applications for remote work may be considered. For information about this role under state or local equal pay or pay transparency laws, please contact .</p>\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/product-testing-analyst-acxiom</p>",
-      "posted_at": "2026-11-06T20:29:33+00:00",
       "is_translated": false,
       "original_language": null
     }
