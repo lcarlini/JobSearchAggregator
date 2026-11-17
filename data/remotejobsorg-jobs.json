@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T01:41:22.808Z",
+  "generatedAt": "2026-11-17T15:37:13.488Z",
   "count": 150,
   "data": [
     {
@@ -9505,6 +9505,98 @@
       "original_language": null
     },
     {
+      "id": "ef872cf6-8387-47f7-a848-398515c8f628",
+      "title": "Senior Data Scientist, People Analytics",
+      "url": "https://remotejobs.org/remote-jobs/senior-data-scientist-people-analytics-wealthsimple-technologies",
+      "apply_url": "https://remotejobs.org/remote-jobs/senior-data-scientist-people-analytics-wealthsimple-technologies",
+      "company": {
+        "name": "Wealthsimple Technologies",
+        "logo_url": null,
+        "website": "https://wealthsimple.com",
+        "url": "https://remotejobs.org/companies/wealthsimple-technologies"
+      },
+      "category": {
+        "name": "Data Science",
+        "slug": "data-science"
+      },
+      "location": "Remote (Canada)",
+      "location_normalization": {
+        "raw": "Remote (Canada)",
+        "input": {
+          "workArrangement": "remote"
+        },
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "CA"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "worksite_countries": [
+          "CA"
+        ],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "CA"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": "senior",
+        "role_family": "data-science",
+        "required_skills": [],
+        "mentioned_skills": [
+          "python",
+          "sql"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": []
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "efe37181-9bd8-432a-9b23-1e7c3a214faa",
+      "direct_apply": null,
+      "description": "<h2><strong>Build something people love</strong></h2>\n<p>Wealthsimple is Canada’s leading financial innovator. The company offers a full suite of simple, sophisticated financial products across managed investing, do-it-yourself trading, cryptocurrency, tax filing, spending and saving. Wealthsimple currently serves more than 4 million Canadians and holds over $169 billion in assets under administration. The company was founded in 2014 by a team of financial experts and technology entrepreneurs, and is headquartered in Toronto, Canada.</p>\n<p>We're proud of what we've built — and we're just getting started. Read our <a href=\"https://www.wealthsimple.com/en-ca/culture\">Culture Manual</a> and learn more about <a href=\"https://www.wealthsimple.com/en-ca/careers\">how we work</a>.</p>\n<p><strong>About the role</strong></p>\n<p>This role turns people data into the decisions that shape how Wealthsimple hires, grows, and keeps its people. You will build the models, the analysis, and the data products that show how talent moves through Wealthsimple, where it concentrates, who is at risk of leaving, and what the workforce looks like a year out. Reporting to the Director, People Analytics, you will own that work end to end, from the question through to the thing people actually use. Success looks like recurring people decisions getting made from what you built.</p>\n<p><strong>About the team</strong></p>\n<p>People Analytics sits within People and Communications. We are growing the people domain and want to get deeper into our data, through the models, data products, and analysis that leaders across the company use to make calls about talent. We are a small team, building like a startup inside the People team. Analytics developers own the data foundation, analysts handle day-to-day reporting, and software engineers build the products that put insights in front of managers. As our first data scientist, you will help set what best in class looks like for people analytics at Wealthsimple.</p>\n<h2><strong>What you’ll do</strong></h2>\n<ul>\n<li>\n<p>Own the model building and the deeper analysis on people data, including attrition risk, workforce forecasting, and how talent moves and develops across the company.</p>\n</li>\n<li>\n<p>Build people data products that leaders keep coming back to, working with our software engineers to put them in front of managers across Wealthsimple.</p>\n</li>\n<li>\n<p>Move up and down the data stack as the question demands, from raw data through to the model and the surface it lands on.</p>\n</li>\n<li>\n<p>Turn open questions from leaders and partners across the company into analysis they can act on, and be clear about what the data can and cannot support.</p>\n</li>\n<li>\n<p>Bring statistical rigour to how we understand talent density and performance management, forming hypotheses and testing them so people decisions are data informed.</p>\n</li>\n<li>\n<p>Set the analytical standard for the function and raise the level of craft around you, through how we test, document, and review our work.</p>\n</li>\n</ul>\n<h2><strong>Skills you bring</strong></h2>\n<ul>\n<li>\n<p>5+ years in data science or a related quantitative role, owning ambiguous problems end to end.</p>\n</li>\n<li>\n<p>Advanced SQL and Python, applied to work you have taken all the way to production rather than left in a notebook.</p>\n</li>\n<li>\n<p>Applied statistics and causal inference. You can pick a method, defend it, and explain why a correlation is not enough for the decision in front of you.</p>\n</li>\n<li>\n<p>Experience building and evaluating predictive models on messy operational data, including the judgment to say when a model is not the right answer.</p>\n</li>\n<li>\n<p>Experience turning analysis into recommendations that senior leaders act on, including pushing back when the question itself is wrong. You lead with the outcome, then explain how you got there.</p>\n</li>\n<li>\n<p>Comfort working close to the data layer, with modelled datasets, point-in-time history, and a cloud data platform such as Snowflake.</p>\n</li>\n</ul>\n<h2><strong>Nice to have</strong></h2>\n<ul>\n<li>\n<p>HR data literacy: employee lifecycle events, job hierarchies, headcount types, and compensation structures.</p>\n</li>\n<li>\n<p>Workforce planning or headcount forecasting.</p>\n</li>\n<li>\n<p>Experience with survey and engagement data.</p>\n</li>\n<li>\n<p>Experience measuring people performance, such as review ratings, calibration outcomes, or goal attainment.</p>\n</li>\n</ul>\n<p>People analytics experience helps, but it is not required. If you have done this kind of work in product, marketing, growth, or customer analytics and you are curious about people data, we want to hear from you.</p>\n<h2><strong>Who you are</strong></h2>\n<ul>\n<li>\n<p>You are energised by building, and you do not need a paved road to do good work.</p>\n</li>\n<li>\n<p>You think about privacy the way a good engineer thinks about security, as a design constraint rather than an obstacle.</p>\n</li>\n<li>\n<p>You would rather ship a useful answer and improve it than hold a perfect one back.</p>\n</li>\n<li>\n<p>You are direct about uncertainty and say what you do not know before anyone asks.</p>\n</li>\n<li>\n<p>You move between technical and non-technical conversations naturally.</p>\n</li>\n<li>\n<p>You are pragmatic about AI tools and know where they speed you up and where they do not.</p>\n</li>\n</ul>\n<h2><strong>Why you’ll love this role</strong></h2>\n<ul>\n<li>\n<p><strong>Ground-floor impact:</strong> Most of this work hasn’t been done yet, so you’ll shape how it gets done.</p>\n</li>\n<li>\n<p><strong>Visibility:</strong> Your work goes in front of leadership and shapes real decisions about talent.</p>\n</li>\n<li>\n<p><strong>Builders around you:</strong> Your models ship into products managers use, not slide decks</p>\n</li>\n</ul>\n<h2><strong>Why Wealthsimple?</strong></h2>\n<p>🌸 Top-tier health benefits and life insurance</p>\n<p>📈 Long-term group savings with employer match, through Wealthsimple for Business</p>\n<p>🌴 20 vacation days, 4 wellness days, and unlimited sick and mental health days per year*</p>\n<p>✈️ 90 days away: work outside Canada for up to 90 days per year*</p>\n<p>👥 Employee resource groups, including Rainbow (2SLGBTQ), Women of WS, and Black at WS</p>\n<p>🌎 We are a hybrid team with over 1,500 employees across North America. The people are one of the best parts of working here: you'll collaborate with incredibly talented, curious, and driven teammates who are deeply committed to doing great work.<br>\n<br>\n*Unlimited paid sick days, Wellness Days and the 90 day away program do not apply to certain roles.</p>\n<h2><strong>ICYMI</strong></h2>\n<p><strong>Technology &#x26; Innovation at Wealthsimple:</strong> We move quickly and build thoughtfully. That means we're always looking for better ways to work — whether that's new tools, AI, or rethinking how we approach a problem. We don't expect you to have all the answers, but we do expect curiosity and a willingness to evolve alongside the products we're building.</p>\n<p><strong>Inclusion Statement:</strong> We're building products for a diverse world, and we need a diverse team to do it well. We strongly encourage applications from everyone, regardless of race, religion, colour, national origin, gender, sexual orientation, age, marital status, or disability status.</p>\n<p><strong>Accessibility Statement:</strong> We're committed to an accessible hiring experience. If you need any accommodations throughout the interview process, please let us know — we'll work with you to make sure you have what you need. We also welcome any feedback on how we can better accommodate candidates with accessibility needs.</p>\n<p><strong>AI in Hiring: </strong>We may use artificial intelligence (AI) tools to support parts of our hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our team but don't replace human judgment – all final hiring decisions are made by people. If you have questions about how your data is used, reach out to us.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-data-scientist-people-analytics-wealthsimple-technologies</p>",
+      "posted_at": "2026-11-16T18:48:37.896+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
       "id": "e6492d8a-0588-4efa-8add-1d536f6ae235",
       "title": "Analytics Engineer",
       "url": "https://remotejobs.org/remote-jobs/analytics-engineer-ferrellgas",
@@ -10546,6 +10638,99 @@
       "original_language": null
     },
     {
+      "id": "7b843f38-6322-4dba-97b8-0654719b18ea",
+      "title": "Senior Software Developer, Complex Accounts",
+      "url": "https://remotejobs.org/remote-jobs/senior-software-developer-complex-accounts-wealthsimple-technologies",
+      "apply_url": "https://remotejobs.org/remote-jobs/senior-software-developer-complex-accounts-wealthsimple-technologies",
+      "company": {
+        "name": "Wealthsimple Technologies",
+        "logo_url": null,
+        "website": "https://wealthsimple.com",
+        "url": "https://remotejobs.org/companies/wealthsimple-technologies"
+      },
+      "category": {
+        "name": "Data Science",
+        "slug": "data-science"
+      },
+      "location": "Remote (Canada)",
+      "location_normalization": {
+        "raw": "Remote (Canada)",
+        "input": {
+          "workArrangement": "remote"
+        },
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "CA"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "worksite_countries": [
+          "CA"
+        ],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "CA"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": "senior",
+        "role_family": "software-engineering",
+        "required_skills": [],
+        "mentioned_skills": [
+          "react",
+          "ruby",
+          "typescript"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": []
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "71cc353b-06af-4429-9e22-4d1270034d06",
+      "direct_apply": null,
+      "description": "<h2><strong>Build something people love</strong></h2>\n<p>Wealthsimple is Canada’s leading financial innovator. The company offers a full suite of simple, sophisticated financial products across managed investing, do-it-yourself trading, cryptocurrency, tax filing, spending and saving. Wealthsimple currently serves more than 4 million Canadians and holds over $169 billion in assets under administration. The company was founded in 2014 by a team of financial experts and technology entrepreneurs, and is headquartered in Toronto, Canada.</p>\n<p>We're proud of what we've built — and we're just getting started. Read our <a href=\"https://www.wealthsimple.com/en-ca/culture\">Culture Manual</a> and learn more about <a href=\"https://www.wealthsimple.com/en-ca/careers\">how we work</a>.</p>\n<h2>About the team</h2>\n<p>The Complex Accounts team builds the accounts that don't fit a standard mould. We own how businesses, from sole proprietorships to corporations with layered ownership, open and manage their accounts with Wealthsimple, along with joint accounts and registered education savings plans (RESPs). As we expand into more account types, the list keeps growing. It's work where accuracy, security, and regulatory requirements are non-negotiable, and we partner closely with operations, compliance, design, and product to make complicated financial structures feel simple for the people using them. We’re part of Data &#x26; Engineering, where quality, security, and scalability are the standard, not trade-offs.</p>\n<h2>In this role, you'll have the opportunity to:</h2>\n<ul>\n<li>\n<p>Build and evolve the systems that let businesses, joint owners, and families open and manage accounts with Wealthsimple</p>\n</li>\n<li>\n<p>Design data models for complex ownership — corporations, co-owners, and the people behind them</p>\n</li>\n<li>\n<p>Work with compliance and operations partners to turn regulatory requirements into reliable, well-tested software</p>\n</li>\n<li>\n<p>Improve the account opening experience across mobile and web, removing friction wherever clients get stuck</p>\n</li>\n<li>\n<p>Build tools that help our operations teams serve clients faster and handle unusual cases on their own</p>\n</li>\n<li>\n<p>Share on-call responsibilities and fix the root causes of recurring issues</p>\n</li>\n<li>\n<p>Use AI tools as a core part of how you build, and help shape how the team works with them</p>\n</li>\n<li>\n<p>Raise the technical bar through design reviews, code review, documentation, and mentorship</p>\n</li>\n</ul>\n<h2>Skills you bring:</h2>\n<ul>\n<li>\n<p>5+ years of professional software development, with depth in back-end systems and a track record of shipping production systems that clients and teams depend on</p>\n</li>\n<li>\n<p>Full-stack experience: you’re as comfortable contributing to a client-facing flow on web or mobile as you are to the services running underneath it</p>\n</li>\n<li>\n<p>Experience modelling complex domains and designing systems that handle sensitive data, including authentication, fine-grained authorization, and auditability</p>\n</li>\n<li>\n<p>A track record of shipping in a regulated domain alongside compliance or operations partners</p>\n</li>\n<li>\n<p>An AI-first development workflow that doesn’t compromise on rigour: you use agentic tools day to day and know how to verify their output before it reaches production</p>\n</li>\n<li>\n<p>Clear communication: you can explain a technical trade-off to engineers, compliance partners, and leadership alike</p>\n</li>\n</ul>\n<h2>Nice-to-have's:</h2>\n<ul>\n<li>\n<p>Experience with Ruby on Rails, React / React Native, or TypeScript</p>\n</li>\n<li>\n<p>Familiarity with KYC/KYB processes, including business verification and beneficial ownership</p>\n</li>\n<li>\n<p>Knowledge of Canadian business structures (corporations, trusts, partnerships) or registered accounts like RESPs</p>\n</li>\n<li>\n<p>Experience at a fintech or financial services company</p>\n</li>\n</ul>\n<h2><strong>Why Wealthsimple?</strong></h2>\n<p>🌸 Top-tier health benefits and life insurance</p>\n<p>📈 Long-term group savings with employer match, through Wealthsimple for Business</p>\n<p>🌴 20 vacation days, 4 wellness days, and unlimited sick and mental health days per year*</p>\n<p>✈️ 90 days away: work outside Canada for up to 90 days per year*</p>\n<p>👥 Employee resource groups, including Rainbow (2SLGBTQ), Women of WS, and Black at WS</p>\n<p>🌎 We are a hybrid team with over 1,500 employees across North America. The people are one of the best parts of working here: you'll collaborate with incredibly talented, curious, and driven teammates who are deeply committed to doing great work.<br>\n<br>\n*Unlimited paid sick days, Wellness Days and the 90 day away program do not apply to certain roles.</p>\n<h2><strong>ICYMI</strong></h2>\n<p><strong>Technology &#x26; Innovation at Wealthsimple:</strong> We move quickly and build thoughtfully. That means we're always looking for better ways to work — whether that's new tools, AI, or rethinking how we approach a problem. We don't expect you to have all the answers, but we do expect curiosity and a willingness to evolve alongside the products we're building.</p>\n<p><strong>Inclusion Statement:</strong> We're building products for a diverse world, and we need a diverse team to do it well. We strongly encourage applications from everyone, regardless of race, religion, colour, national origin, gender, sexual orientation, age, marital status, or disability status.</p>\n<p><strong>Accessibility Statement:</strong> We're committed to an accessible hiring experience. If you need any accommodations throughout the interview process, please let us know — we'll work with you to make sure you have what you need. We also welcome any feedback on how we can better accommodate candidates with accessibility needs.</p>\n<p><strong>AI in Hiring: </strong>We may use artificial intelligence (AI) tools to support parts of our hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our team but don't replace human judgment – all final hiring decisions are made by people. If you have questions about how your data is used, reach out to us.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-software-developer-complex-accounts-wealthsimple-technologies</p>",
+      "posted_at": "2026-11-13T22:31:35.043+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
       "id": "0d3d6d37-169f-4b20-a917-7ec2870c9398",
       "title": "Workday Reporting & Analytics Manager",
       "url": "https://remotejobs.org/remote-jobs/workday-reporting-analytics-manager-cognizant",
@@ -10799,6 +10984,100 @@
       "direct_apply": null,
       "description": "<h2><strong>Job Title</strong></h2><h2>Data Scientist</h2><h2><strong>Hiring Manager</strong></h2><h2>David Corney</h2><h2><strong>Salary</strong></h2><h2>£41,000 - £50,000 per year depending on experience</h2><h2><strong>Location</strong></h2><p><strong>Remote first within the UK. We work primarily from home but also have an office available in Central London for quarterly in-person meetings with the AI team and with meetings with the rest of Full Fact. You can expect to travel to the office at least 4 times per year.</strong></p><p><strong>Please note that we do not hold a UKVI Sponsorship Licence, so we cannot consider sponsoring a visa applicant or issuing a Certificate of Sponsorship.</strong></p><h2><strong>Reporting to</strong></h2><h2>Senior Data Scientist</h2><h2><strong>Employment Type</strong></h2><h2>Permanent</h2><p><strong>We are happy to talk about flexible working, including part time.</strong></p><h2><strong>Application Closing Date</strong></h2><h2>10 am on Monday 30 November 2026.</h2><h2><strong>Introduction to the role</strong></h2><p><strong>At a moment when our information environment is under significant strain, this is an exciting opportunity: a role with real autonomy, meaningful mission, and genuine influence at the intersection of AI and web scale engineering.</strong></p><p><strong>As a Data Scientist at Full Fact, you will make sure those who make false claims in public can't get away with it. This is a rare opportunity to work for a non-profit tackling internet-scale misinformation problems with a global user base. The fact checks our users publish are seen hundreds of millions of times each year and embedded in many of the most well-known internet services.</strong></p><p><strong>Every day, 100s of people around the world find, check, archive and challenge false claims identified by AI-enabled products produced by Full Fact. Your job will be to help us improve and expand this software for our growing user base. You’ll be working at the intersection of software engineering, machine learning, and real-world impact.</strong></p><p><strong>Whether you're responding to a new feature request from users in Nigeria covering a general election, helping fact checkers in Australia verify politicians' claims in real time, or enabling health-focused charities to identify and reduce harmful content spreading online, you will be working at pace on projects that make a substantial difference in the world. In this role that means prototyping and developing features with robust APIs, writing clean Python, and working closely with engineers and other data scientists to bring AI-powered features into production.</strong></p><p><strong>It is an exciting time to join Full Fact. You will be joining a team of technical, data, and product specialists working on genuinely novel problems in applied AI, from natural language processing and claim detection to trust benchmarks and harm detection.</strong></p><p><strong>We will support you to keep learning, and if you are interested in applying but not sure you have all the skills, please do apply. We are open both to supporting learning on the job and to rearranging tasks within the team to suit the skillsets of the best applicant</strong></p><h2><strong>Job Definition</strong></h2><p><strong>As an experienced Data Scientist, you will be a key contributor to a number of new and ongoing projects. You will use your technical skills to design and develop software that identifies and counters misinformation. You will develop and use a variety of datasets to train and evaluate machine learning models. You will work with non-technical colleagues and other users of our tools. You will participate in code review, both of your own and of others' code.</strong></p><h2><strong>Outcomes</strong></h2><p><strong>Some of the projects you will be contributing to include:</strong></p><ul>\n<li><p><strong>Extending our new “Public Interest AI Trust Benchmark” to provide a deeper analysis of how reliably AI chatbots answer everyday questions.</strong></p></li>\n<li><p><strong>Spotting potentially misleading and harmful claims across a broad range of media</strong></p></li>\n<li><p><strong>Identifying and characterising potentially harmful narratives as they spread</strong></p></li>\n<li><p><strong>Helping to integrate the technologies you build into products that will have an immediate use, for both fact checkers and journalists</strong></p></li>\n<li><p><strong>Identifying sightings of previously checked claims at real-time speed</strong></p></li>\n<li><h2>Measuring and improving the quality of the system</h2></li>\n</ul><h2><strong>What we are looking for from you</strong></h2><h2>Political impartiality and sensitivity:</h2><p><strong>You are committed to the political neutrality of our work and have a good understanding of impartiality (please see the rules on our website).</strong></p><p><strong>Understanding of public debate in the UK and sensitivity to the political context we work in.</strong></p><h2>Skills/competencies</h2><ul>\n<li><p><strong>Software engineering for data science. You are familiar with the software development lifecycle. You can design, code, test, correct and document moderate to complex programs and scripts from agreed specifications with or without AI coding tools. You can use agreed standards and tools. Collaborate with others to review and refine specifications where appropriate.</strong></p></li>\n<li><p><strong>AI and data science innovation. You are broadly familiar with recent advances in AI including LLMs. You proactively research and explore areas of innovation in our industry. You can identify the value for innovation within the organisation.</strong></p></li>\n<li><p><strong>Applied maths, statistics and scientific practices. You understand and can help teams apply a range of practices. You know how to develop deeper expertise on a narrower range of specialisms. You can start to apply emerging theory to practical situations.</strong></p></li>\n<li><p><strong>Developing data science capability. You promote and monitor continuous professional development within your organisation. You know how to develop knowledge of cutting-edge techniques and share this knowledge. You can develop and support data science capability across the organisation.</strong></p></li>\n<li><p><strong>Domain expertise. You can create automated fact-checking products that are proportionate to the operational benefit and achieve significant impact. You know how to present analysis and visualisations in clear ways to communicate complex messages. You can develop data science communication skills within your team. You support the evolution of data governance and take responsibility for applying ethical data science.</strong></p></li>\n<li><p><strong>Understanding analysis across the product life cycle. You understand and can help teams apply a range of techniques to analyse data and provide insight. You are proactive and can present compelling findings that inform wider decisions. You are starting to apply innovative approaches to resolve problems.</strong></p></li>\n</ul><h2><strong>What we offer</strong></h2><p><strong>A salary between £41,000 - £50,000 per year depending on experience.</strong></p><h2>Workplace Pension</h2><h2>Generous holidays:</h2><ul>\n<li><h2>25 days holiday plus bank holidays.</h2></li>\n<li><p><strong>In addition, we usually close the office for a period between Christmas and New Year.</strong></p></li>\n</ul><p><strong>Comfortable, centrally located London office with good transport links</strong></p><h2>Employee Assistance Programme</h2><h2>Emergency Housing Loan and support for moving home</h2><h2>Volunteering day</h2><h2><strong>How to apply</strong></h2><p><strong>Upload your CV and cover letter using the link below by 10 am on Monday 30 November.</strong></p><p><strong>Our recruitment platform will remove identifying details such as email addresses to allow us to sift applications anonymously.</strong></p><p><strong>Before applying, please read the requirements we place on staff to protect Full Fact’s independence and non-partisanship</strong></p><h2><strong>How the application process will work</strong></h2><p><strong>We want to see you at your best to understand your strengths and the contribution you could make at Full Fact with strong support, including for your learning and development. We also want to make sure that we use your time well during this process and don’t ask for more from you than we need to. We will make any reasonable adjustments we need to make to this process to help ensure you can perform at your best. For more information about this before applying, please </strong><strong></strong><strong>.</strong></p><p><strong>The interview panel will be Ellie Ashman (Head of AI), David Corney (Senior Data Scientist), and James McMinn (Senior Engineer).</strong></p><p><strong>The process starts off with an anonymised covering letter and CV. This will be read by at least two people to produce a shortlist for the panel interview.</strong></p><p><strong>The first round interviews will be an audio (not video) interview, lasting no more than half an hour, at a time that’s convenient for you. We will record it so at least two people can review each interview to decide who we invite back for the second round. The recordings will be deleted at the end of the process.</strong></p><p><strong>The second round will include a structured interview during which you will be asked to present some of your recent work in any way you choose. The interview will be with the full panel by video and last no more than an hour. We’ll tell you everything you need to know to prepare in advance.</strong></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/data-scientist-full-fact</p>",
       "posted_at": "2026-11-13T20:29:30+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "b69b3686-4d47-4291-98f9-08a6c5432d9f",
+      "title": "Senior Data Scientist, Banking Data",
+      "url": "https://remotejobs.org/remote-jobs/senior-data-scientist-banking-data-wealthsimple-technologies",
+      "apply_url": "https://remotejobs.org/remote-jobs/senior-data-scientist-banking-data-wealthsimple-technologies",
+      "company": {
+        "name": "Wealthsimple Technologies",
+        "logo_url": null,
+        "website": "https://wealthsimple.com",
+        "url": "https://remotejobs.org/companies/wealthsimple-technologies"
+      },
+      "category": {
+        "name": "Data Science",
+        "slug": "data-science"
+      },
+      "location": "Remote (Canada)",
+      "location_normalization": {
+        "raw": "Remote (Canada)",
+        "input": {
+          "workArrangement": "remote"
+        },
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "CA"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "worksite_countries": [
+          "CA"
+        ],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [
+          "The 90 days away benefit allowing work outside Canada for up to 90 days per year does not apply to certain roles; whether it applies to this role is not stated."
+        ],
+        "evidence_ids": [
+          "c1"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "CA"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": "senior",
+        "role_family": "data-science",
+        "required_skills": [],
+        "mentioned_skills": [
+          "python",
+          "sql"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": []
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "5ad17d9a-fb95-4978-a26f-8382e5a4a892",
+      "direct_apply": null,
+      "description": "<h2><strong>Build something people love</strong></h2>\n<p>Wealthsimple is Canada’s leading financial innovator. The company offers a full suite of simple, sophisticated financial products across managed investing, do-it-yourself trading, cryptocurrency, tax filing, spending and saving. Wealthsimple currently serves more than 4 million Canadians and holds over $169 billion in assets under administration. The company was founded in 2014 by a team of financial experts and technology entrepreneurs, and is headquartered in Toronto, Canada.</p>\n<p>We're proud of what we've built — and we're just getting started. Read our <a href=\"https://www.wealthsimple.com/en-ca/culture\">Culture Manual</a> and learn more about <a href=\"https://www.wealthsimple.com/en-ca/careers\">how we work</a>.</p>\n<p>The Banking Data Science team powers the product roadmap for Wealthsimple’s retail and business banking offering, ranging from Chequing &#x26; Savings accounts, Lending, Money Movement, Payments, Corporate accounts and more. Data scientists are embedded within cross-disciplinary teams, working directly with product managers, engineers and designers as a lateral strategic partner.</p>\n<p>In this role, you'll be the DRI (Directly Responsible Individual) for the Money Movement and Payments domains. The breadth of its scope is vast: you will have ownership of the strategic direction for feature pricing, design experiments to inform the future of the client experience, and build client-facing data products that will reach millions of Canadians. We’re looking for a full-stack Senior Data Scientist who is excited about banking products and can contribute to product growth from day one.</p>\n<p><strong>In this role, you will have the opportunity to</strong>:</p>\n<ul>\n<li>\n<p>Design &#x26; execute A/B tests to inform pricing, measure launch impact and make data-informed decisions on the future of the product roadmap.</p>\n</li>\n<li>\n<p>Build client-facing ML &#x26; AI products, such as <a href=\"https://help.wealthsimple.com/hc/en-ca/articles/49929213964571-Track-and-categorize-your-spending\">spend insights</a>.</p>\n</li>\n<li>\n<p>Design &#x26; implement measurement strategy for upcoming product launches, including metric definition, geo-experimentation and otherwise incrementality analyses.</p>\n</li>\n<li>\n<p>Design &#x26; build data pipelines and architecture for modelled datasets.</p>\n</li>\n<li>\n<p>Use causal inference and complex statistical methods to deep dive into the product problems pace in order to provide actionable insights rooted in a deep understanding of client behaviour.</p>\n</li>\n<li>\n<p>Leverage AI to build agentic workflows, deepen your craft and handle operational tasks efficiently.</p>\n</li>\n<li>\n<p>Take ownership and ship it—continuously look for the simplest, most effective way to approach challenges.</p>\n</li>\n<li>\n<p>Work where you are (while our Canadian offices are located in Toronto, we are a remote-first workforce and you can join from anywhere in Canada!)</p>\n</li>\n</ul>\n<p><strong>We are looking for someone who:</strong></p>\n<ul>\n<li>\n<p>Has a product mindset, having worked on customer-facing products with a culture of A/B testing, strong experimental design, product analytics and data storytelling.</p>\n</li>\n<li>\n<p>Has experience with the impactful application of complex statistical methods, causal inference, and applied mathematics.</p>\n</li>\n<li>\n<p>Is experienced working directly with cross-functional partners, preferably having worked with director-level stakeholders.</p>\n</li>\n<li>\n<p>Is passionate about measurement and understanding what drives business outcomes, navigating the complexities of attribution and incrementality.</p>\n</li>\n<li>\n<p>Has driven high-stakes product decisions (e.g., pricing, roadmap priorities) with data</p>\n</li>\n<li>\n<p>Adjusts quickly to changing priorities and effectively manages complexity in a fast-paced growth environment.</p>\n</li>\n<li>\n<p>Values simplicity and pragmatism, knows when to build sophisticated solutions and when a simpler approach will suffice.</p>\n</li>\n<li>\n<p>Strong technical skills in Python and SQL with experience building production-quality data pipelines.</p>\n</li>\n<li>\n<p>Excellent communication skills and ability to translate complex technical concepts for non-technical stakeholders.</p>\n</li>\n<li>\n<p>Fintech experience is a bonus, but not a requirement.</p>\n</li>\n</ul>\n<p><strong>Why you’ll love this role:</strong></p>\n<ul>\n<li>\n<p>Lead experimentation best practices across Wealthsimple, setting the standard for how teams design and interpret tests to make sharper product decisions.</p>\n</li>\n<li>\n<p>High visibility, high impact: Your work directly affects Wealthsimple's product roadmap and influences the banking experience for millions of Canadians.</p>\n</li>\n<li>\n<p>Diverse technical challenges: Develop expertise across measurement, A/B testing, causal inference, machine learning, and computational math.</p>\n</li>\n<li>\n<p>Strategic domain ownership: Own two key pillars of Wealthsimple's product strategy and build deep expertise in a lasting problem space.</p>\n</li>\n<li>\n<p>AI-enabled efficiency: Leverage cutting-edge AI tooling to amplify your impact and focus on the most strategic challenges.</p>\n</li>\n</ul>\n<h2><strong>Why Wealthsimple?</strong></h2>\n<p>🌸 Top-tier health benefits and life insurance</p>\n<p>📈 Long-term group savings with employer match, through Wealthsimple for Business</p>\n<p>🌴 20 vacation days, 4 wellness days, and unlimited sick and mental health days per year*</p>\n<p>✈️ 90 days away: work outside Canada for up to 90 days per year*</p>\n<p>👥 Employee resource groups, including Rainbow (2SLGBTQ), Women of WS, and Black at WS</p>\n<p>🌎 We are a hybrid team with over 1,500 employees across North America. The people are one of the best parts of working here: you'll collaborate with incredibly talented, curious, and driven teammates who are deeply committed to doing great work.<br>\n<br>\n*Unlimited paid sick days, Wellness Days and the 90 day away program do not apply to certain roles.</p>\n<h2><strong>ICYMI</strong></h2>\n<p><strong>Technology &#x26; Innovation at Wealthsimple:</strong> We move quickly and build thoughtfully. That means we're always looking for better ways to work — whether that's new tools, AI, or rethinking how we approach a problem. We don't expect you to have all the answers, but we do expect curiosity and a willingness to evolve alongside the products we're building.</p>\n<p><strong>Inclusion Statement:</strong> We're building products for a diverse world, and we need a diverse team to do it well. We strongly encourage applications from everyone, regardless of race, religion, colour, national origin, gender, sexual orientation, age, marital status, or disability status.</p>\n<p><strong>Accessibility Statement:</strong> We're committed to an accessible hiring experience. If you need any accommodations throughout the interview process, please let us know — we'll work with you to make sure you have what you need. We also welcome any feedback on how we can better accommodate candidates with accessibility needs.</p>\n<p><strong>AI in Hiring: </strong>We may use artificial intelligence (AI) tools to support parts of our hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our team but don't replace human judgment – all final hiring decisions are made by people. If you have questions about how your data is used, reach out to us.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-data-scientist-banking-data-wealthsimple-technologies</p>",
+      "posted_at": "2026-11-13T19:48:04.967+00:00",
       "is_translated": false,
       "original_language": null
     },
@@ -13924,318 +14203,6 @@
       "direct_apply": null,
       "description": "<p><strong>About us:</strong></p>\n<p><a href=\"http://Jerry.ai\">Jerry.ai</a> is a Series C, YC-backed tech startup with 5M+ customers and $240M in funding. Founded in 2017, product launched in 2019, and achieved profitability in 2024.</p>\n<p><strong>Why we exist:</strong></p>\n<p>Your car, home, and motorcycle aren't just purchases, they're the physical embodiment of the life you've worked hard to build. Yet the experience of owning them is stuck in the 90s. Every step of the journey — buying, insuring, maintaining, repairing, selling — is fragmented, complicated, and expensive.</p>\n<p>Imagine having a trusted friend in your pocket who takes care of everything: they find you the right car or home at the right price, lock in the best insurance rate without you lifting a finger, remind you before that service appointment turns into an expensive repair, and help you sell at the best price when the time is right. That friend is Jerry.</p>\n<p>We are building the first AI-powered advisor to manage all your physical assets. We started with your car in 2019, now we’re expanding into new verticals (e.g. home, motorcycle, RV, boat).</p>\n<p><strong>Why We’re Hiring</strong></p>\n<p>Our Business Operations &#x26; Analytics team has been a force multiplier and accelerant to our business that has helped us reach these pivotal milestones in spite of headwinds and within a highly competitive market. They are a team of former McKinsey, BCG and Bain consultants who drive data &#x26; insights, and inform decision-making across every corner of our business. They are analytical powerhouses and first principles problem solvers who push forward our most important initiatives across product, growth, tech, and operations.</p>\n<p>Every business unit has a Business Operations &#x26; Analytics team member embedded within it — someone who doesn't just run analyses and build dashboards, but shapes what questions we should ask, what data to pull, what conclusions to draw, what decisions to make, and then drives our teams towards our next goal: go from 5M to 50M customers and become a $10B business in the next 4 years.</p>\n<p>As our business continues to expand, there is growing demand for more Business Operations &#x26; Analytics team members. We are hiring 2-3 people to drive impact in these areas:</p>\n<ul>\n<li>\n<p>Growth Marketing</p>\n</li>\n<li>\n<p>Product Development</p>\n</li>\n<li>\n<p>Strategic Partnerships</p>\n</li>\n</ul>\n<p><strong>On leveling: </strong>You may see job ads for this role at different job levels. Our priority is finding the right people, we can be flexible with job title/leveling.</p>\n<p><strong>Why You Will (Or Won't) Like Working Here</strong></p>\n<ul>\n<li>\n<p><strong>No slides:</strong> If you've worked in consulting, you know what it feels like to be up at 3am reformatting a deck. That doesn't exist here. The only work that gets done at Jerry is work that will materially change the trajectory of our business — an important product, a new growth channel, a key metric, a critical partner relationship, etc.</p>\n</li>\n<li>\n<p><strong>No corporate fluff:</strong> The Business Operations &#x26; Analytics team is 14 insatiable learners who care deeply about solving difficult problems and making a tangible impact. Every person owns a critical domain. There is no bloat, unnecessary meetings, or waiting for approvals.</p>\n</li>\n<li>\n<p><strong>Hands-on: </strong>This is not a pure strategy role, you will also own execution. Your day-to-day will be surfacing analytical insights, driving decisions, and seeing them through end-to-end.</p>\n</li>\n</ul>\n<p><strong>What You'll Own</strong></p>\n<p>You'll sit on our central Business Operations &#x26; Analytics team but you’ll be embedded in one of Jerry's core business areas — growth, product, AI and automation, strategic partnerships — and own the analytical function for that business unit end-to-end.</p>\n<ul>\n<li>\n<p><strong>Define the right problems: </strong>Before any analysis, understand what business question it's answering and what decision it will inform. Push back if the question is flawed.</p>\n</li>\n<li>\n<p><strong>Data and insights: </strong>Define metrics, build reports, run analyses, design experiments, and surface data insights that move your team's key metrics.</p>\n</li>\n<li>\n<p><strong>Drive outcomes: </strong>Bring recommendations to your counterparts in product, growth, finance or operations, tell them what's happening and why, and what next steps should be.</p>\n</li>\n</ul>\n<p><strong>Who You Are</strong></p>\n<ul>\n<li>\n<p><strong>First principles thinker: </strong>You break ambiguous problems into clear hypotheses before touching data. You're analytically strong (comfortable with SQL or Python) but your instinct is to ask \"what are we trying to solve here?\" before jumping to \"what should I build?\"</p>\n</li>\n<li>\n<p><strong>Direct communicator:</strong> You can walk a skeptical stakeholder through a complex finding and get buy-in quickly. You write clearly, speak precisely, and don't bury the lede.</p>\n</li>\n<li>\n<p><strong>Owner: </strong>You act like your name is on the door. If something is broken, you feel responsible for fixing it, even if it’s outside of your swim lane.</p>\n</li>\n</ul>\n<p><strong>What You'll Bring</strong></p>\n<ul>\n<li>\n<p>1+ years of experience at a consulting firm, investment bank, or high-growth technology company.</p>\n</li>\n<li>\n<p>Strong analytical skills; ability to pull, structure, and interpret data independently.</p>\n</li>\n<li>\n<p>Track record of owning ambiguous problems and delivering impact.</p>\n</li>\n<li>\n<p>Clear, persuasive communicator who can influence decisions at the leadership level.</p>\n</li>\n</ul>\n<p><strong>Our Tools</strong></p>\n<p>SQL (Clickhouse), Metabase, Python, Jupyter Hub, GitHub.</p>\n<p><em>While we appreciate your interest and application, due to the volume of applications we receive, only applicants under consideration will be contacted.</em></p>\n<p><em><strong>Please note: </strong></em><a href=\"http://Jerry.ai\"><em><strong>Jerry.ai</strong></em></a><em><strong> is only able to hire full-time salaried employees who currently reside in AZ, CA, CO, FL, GA, IL, MA, NC, NJ, NV, NY, OR, TN, TX, UT, VA, or Ontario, Canada, and full-time hourly employees who currently reside in AZ, FL, GA, NV, NY, NC, TN, TX, UT, or VA. Unfortunately, we cannot accept applications from candidates residing elsewhere at this time.</strong></em></p>\n<p><em>Jerry.ai is proud to be an Equal Employment Opportunity employer. We prohibit discrimination based on race, religion, color, national origin, sex, pregnancy, reproductive health decisions or related medical conditions, sexual orientation, gender identity, gender expression, age, veteran status, disability, genetic information, or other characteristics protected by applicable local, state or federal laws.</em></p>\n<p><em>Jerry.ai is committed to providing reasonable accommodations for individuals with disabilities in our job application process. If you need assistance or an accommodation due to a disability, please contact us at </em><a href=\"mailto:recruiting@getjerry.com\"><em>recruiting@jerry.ai</em></a></p>\n<p><em>The successful candidate’s starting pay will fall within the pay range listed on this job posting, determined based on job-related factors including, but not limited to, skills, experience, qualifications, work location, and market conditions. Ranges are market-dependent and may be modified in the future. In addition to base salary, the compensation may include opportunities for equity grants.</em></p>\n<p><em>We offer a comprehensive benefits package to regular employees, including health, dental, and vision coverage, paid time off, paid parental leave, 401(K) plan with employer matching, and wellness benefits, among others. Equity opportunities may also be part of your total rewards package. Part-time, contract, or freelance roles may not be eligible for certain benefits.</em></p>\n<p><strong>About Jerry.ai</strong></p>\n<p>Jerry is building the first AI-powered advisor to manage all your physical assets.</p>\n<p>Your car, home, and motorcycle aren't just purchases, they're the physical embodiment of the life you've worked hard to build. Yet the experience of owning them is stuck in the 90s. Every step of the journey — buying, insuring, maintaining, repairing, selling — is fragmented, complicated, and expensive.</p>\n<p>Imagine having a trusted friend in your pocket who takes care of everything: they find you the right car or home at the right price, lock in the best insurance rate without you lifting a finger, remind you before that service appointment turns into an expensive repair, and help you sell at the best price when the time is right. That friend is Jerry.</p>\n<p>We started with car insurance in 2019, became one of the top 3 brokers in the U.S., then added driving insights, diagnostics, and a repair marketplace. We've reached 5M+ customers, raised $240M+, and achieved profitability in 2024. We're now expanding into home, motorcycle, RV, and beyond.</p>\n<p>Led by serial entrepreneurs and backed by Y Combinator, our team comprises talented and big-hearted leaders from places like Nvidia, Meta, Amazon, BCG, McKinsey, Bain, and GEICO. Our culture is the #1 reason people join Jerry and stay — we are a small and mighty team of competitive but kind people who think and act like owners, care deeply about the quality and impact of our work, and are relentless in our pursuit of learning and mastery over our craft.</p>\n<p>We are proud to consistently rank as one of Y Combinator's Top Companies, Forbes and Statista's Best Startup Employers, and to have received other accolades in fintech and insurtech innovation, workplace culture, and leadership.</p>\n<p>We support remote work for most roles, but if you prefer in-person or hybrid, we also have offices in Palo Alto, New York City, Chicago, and Toronto.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/associate-business-operations-analytics-jerry-22711d39f4dc4466876e80151ab56f5f</p>",
       "posted_at": "2026-11-09T23:56:10.206+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "f1ac4d41-1061-46a3-b2f2-a96b0d986943",
-      "title": "Associate Data Scientist",
-      "url": "https://remotejobs.org/remote-jobs/associate-data-scientist-jerry-1cfb00fba45c4a429f1709f6fb67389e",
-      "apply_url": "https://remotejobs.org/remote-jobs/associate-data-scientist-jerry-1cfb00fba45c4a429f1709f6fb67389e",
-      "company": {
-        "name": "Jerry",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/6d76d60b0491aff4bf82b8d6e724ae66ad582ad0c1dd81fbfc9a527c615b94b2.webp",
-        "website": "https://jerry.co",
-        "url": "https://remotejobs.org/companies/jerry"
-      },
-      "category": {
-        "name": "Data Science",
-        "slug": "data-science"
-      },
-      "location": "New York, New York",
-      "location_normalization": {
-        "raw": "New York, New York",
-        "input": {
-          "workArrangement": "remote"
-        },
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "remote",
-        "allowed_countries": [],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "worksite_countries": [
-          "US"
-        ],
-        "allowed_subdivisions": [
-          "US-NY"
-        ],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "partial",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [
-          "if the role is full-time hourly",
-          "if the role is full-time salaried"
-        ],
-        "evidence_ids": [
-          "c1",
-          "c2",
-          "source-location"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [
-          "US-NY"
-        ],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": null,
-        "role_family": "data-science",
-        "required_skills": [],
-        "mentioned_skills": [
-          "python",
-          "sql"
-        ],
-        "preferred_skills": [],
-        "experience_requirements": [
-          {
-            "text": "1+ years of experience",
-            "maximum_years": null,
-            "minimum_years": 1,
-            "classification": "mentioned"
-          }
-        ]
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": null,
-      "salary_period": null,
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": "81fcaf5e-3203-4a9d-88cd-fb01c7edf1ea",
-      "direct_apply": null,
-      "description": "<p><strong>About us:</strong></p>\n<p><a href=\"http://Jerry.ai\">Jerry.ai</a> is a Series C, YC-backed tech startup with 5M+ customers and $240M in funding. Founded in 2017, product launched in 2019, and achieved profitability in 2024.</p>\n<p><strong>Why we exist:</strong></p>\n<p>Your car, home, and motorcycle aren't just purchases, they're the physical embodiment of the life you've worked hard to build. Yet the experience of owning them is stuck in the 90s. Every step of the journey — buying, insuring, maintaining, repairing, selling — is fragmented, complicated, and expensive.</p>\n<p>Imagine having a trusted friend in your pocket who takes care of everything: they find you the right car or home at the right price, lock in the best insurance rate without you lifting a finger, remind you before that service appointment turns into an expensive repair, and help you sell at the best price when the time is right. That friend is Jerry.</p>\n<p>We are building the first AI-powered advisor to manage all your physical assets. We started with your car in 2019, now we’re expanding into new verticals (e.g. home, motorcycle, RV, boat).</p>\n<p><strong>Why We’re Hiring</strong></p>\n<p>Our Data Science &#x26; Analytics team has been a force multiplier and accelerant to our business that has helped us reach these pivotal milestones in spite of headwinds and within a highly competitive market. They are a team of former McKinsey, BCG and Bain consultants who drive data &#x26; insights, and inform decision-making across every corner of our business. They are analytical powerhouses and first principles problem solvers who push forward our most important initiatives across product, growth, tech, and operations.</p>\n<p>Every business unit has a Data Science team member embedded within it — someone who doesn't just run analyses and build dashboards, but shapes what questions we should ask, what data to pull, what conclusions to draw, what decisions to make, and then drives our teams towards our next goal: go from 5M to 50M customers and become a $10B business in the next 4 years.</p>\n<p>As our business continues to expand, there is growing demand for more Data Science team members. We are hiring 2-3 people to drive impact in these areas:</p>\n<ul>\n<li>\n<p>Growth Marketing</p>\n</li>\n<li>\n<p>Product Development</p>\n</li>\n<li>\n<p>Strategic Partnerships</p>\n</li>\n</ul>\n<p><strong>On leveling: </strong>You may see job ads for this role at different job levels. Our priority is finding the right people, we can be flexible with job title/leveling.</p>\n<p><strong>Why You Will (Or Won't) Like Working Here</strong></p>\n<ul>\n<li>\n<p><strong>No slides:</strong> If you've worked in consulting, you know what it feels like to be up at 3am reformatting a deck. That doesn't exist here. The only work that gets done at Jerry is work that will materially change the trajectory of our business — an important product, a new growth channel, a key metric, a critical partner relationship, etc.</p>\n</li>\n<li>\n<p><strong>No corporate fluff:</strong> The Data Science &#x26; Analytics team is 14 insatiable learners who care deeply about solving difficult problems and making a tangible impact. Every person owns a critical domain. There is no bloat, unnecessary meetings, or waiting for approvals.</p>\n</li>\n<li>\n<p><strong>Hands-on: </strong>This is not a pure strategy role, you will also own execution. Your day-to-day will be surfacing analytical insights, driving decisions, and seeing them through end-to-end.</p>\n</li>\n</ul>\n<p><strong>What You'll Own</strong></p>\n<p>You'll sit on our central Data Science &#x26; Analytics team but you’ll be embedded in one of Jerry's core business areas — growth, product, AI and automation, strategic partnerships — and own the analytical function for that business unit end-to-end.</p>\n<ul>\n<li>\n<p><strong>Define the right problems: </strong>Before any analysis, understand what business question it's answering and what decision it will inform. Push back if the question is flawed.</p>\n</li>\n<li>\n<p><strong>Data and insights: </strong>Define metrics, build reports, run analyses, design experiments, and surface data insights that move your team's key metrics.</p>\n</li>\n<li>\n<p><strong>Drive outcomes: </strong>Bring recommendations to your counterparts in product, growth, finance or operations, tell them what's happening and why, and what next steps should be.</p>\n</li>\n</ul>\n<p><strong>Who You Are</strong></p>\n<ul>\n<li>\n<p><strong>First principles thinker: </strong>You break ambiguous problems into clear hypotheses before touching data. You're analytically strong (comfortable with SQL or Python) but your instinct is to ask \"what are we trying to solve here?\" before jumping to \"what should I build?\"</p>\n</li>\n<li>\n<p><strong>Direct communicator:</strong> You can walk a skeptical stakeholder through a complex finding and get buy-in quickly. You write clearly, speak precisely, and don't bury the lede.</p>\n</li>\n<li>\n<p><strong>Owner: </strong>You act like your name is on the door. If something is broken, you feel responsible for fixing it, even if it’s outside of your swim lane.</p>\n</li>\n</ul>\n<p><strong>What You'll Bring</strong></p>\n<ul>\n<li>\n<p>1+ years of experience at a consulting firm, investment bank, or high-growth technology company.</p>\n</li>\n<li>\n<p>Strong analytical skills; ability to pull, structure, and interpret data independently.</p>\n</li>\n<li>\n<p>Track record of owning ambiguous problems and delivering impact.</p>\n</li>\n<li>\n<p>Clear, persuasive communicator who can influence decisions at the leadership level.</p>\n</li>\n</ul>\n<p><strong>Our Tools</strong></p>\n<p>SQL (Clickhouse), Metabase, Python, Jupyter Hub, GitHub.</p>\n<p><em>While we appreciate your interest and application, due to the volume of applications we receive, only applicants under consideration will be contacted.</em></p>\n<p><em><strong>Please note: </strong></em><a href=\"http://Jerry.ai\"><em><strong>Jerry.ai</strong></em></a><em><strong> is only able to hire full-time salaried employees who currently reside in AZ, CA, CO, FL, GA, IL, MA, NC, NJ, NV, NY, OR, TN, TX, UT, VA, or Ontario, Canada, and full-time hourly employees who currently reside in AZ, FL, GA, NV, NY, NC, TN, TX, UT, or VA. Unfortunately, we cannot accept applications from candidates residing elsewhere at this time.</strong></em></p>\n<p><em>Jerry.ai is proud to be an Equal Employment Opportunity employer. We prohibit discrimination based on race, religion, color, national origin, sex, pregnancy, reproductive health decisions or related medical conditions, sexual orientation, gender identity, gender expression, age, veteran status, disability, genetic information, or other characteristics protected by applicable local, state or federal laws.</em></p>\n<p><em>Jerry.ai is committed to providing reasonable accommodations for individuals with disabilities in our job application process. If you need assistance or an accommodation due to a disability, please contact us at </em><a href=\"mailto:recruiting@getjerry.com\"><em>recruiting@jerry.ai</em></a></p>\n<p><em>The successful candidate’s starting pay will fall within the pay range listed on this job posting, determined based on job-related factors including, but not limited to, skills, experience, qualifications, work location, and market conditions. Ranges are market-dependent and may be modified in the future. In addition to base salary, the compensation may include opportunities for equity grants.</em></p>\n<p><em>We offer a comprehensive benefits package to regular employees, including health, dental, and vision coverage, paid time off, paid parental leave, 401(K) plan with employer matching, and wellness benefits, among others. Equity opportunities may also be part of your total rewards package. Part-time, contract, or freelance roles may not be eligible for certain benefits.</em></p>\n<p><strong>About Jerry.ai</strong></p>\n<p>Jerry is building the first AI-powered advisor to manage all your physical assets.</p>\n<p>Your car, home, and motorcycle aren't just purchases, they're the physical embodiment of the life you've worked hard to build. Yet the experience of owning them is stuck in the 90s. Every step of the journey — buying, insuring, maintaining, repairing, selling — is fragmented, complicated, and expensive.</p>\n<p>Imagine having a trusted friend in your pocket who takes care of everything: they find you the right car or home at the right price, lock in the best insurance rate without you lifting a finger, remind you before that service appointment turns into an expensive repair, and help you sell at the best price when the time is right. That friend is Jerry.</p>\n<p>We started with car insurance in 2019, became one of the top 3 brokers in the U.S., then added driving insights, diagnostics, and a repair marketplace. We've reached 5M+ customers, raised $240M+, and achieved profitability in 2024. We're now expanding into home, motorcycle, RV, and beyond.</p>\n<p>Led by serial entrepreneurs and backed by Y Combinator, our team comprises talented and big-hearted leaders from places like Nvidia, Meta, Amazon, BCG, McKinsey, Bain, and GEICO. Our culture is the #1 reason people join Jerry and stay — we are a small and mighty team of competitive but kind people who think and act like owners, care deeply about the quality and impact of our work, and are relentless in our pursuit of learning and mastery over our craft.</p>\n<p>We are proud to consistently rank as one of Y Combinator's Top Companies, Forbes and Statista's Best Startup Employers, and to have received other accolades in fintech and insurtech innovation, workplace culture, and leadership.</p>\n<p>We support remote work for most roles, but if you prefer in-person or hybrid, we also have offices in Palo Alto, New York City, Chicago, and Toronto.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/associate-data-scientist-jerry-1cfb00fba45c4a429f1709f6fb67389e</p>",
-      "posted_at": "2026-11-09T23:53:11.801+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "89f59d39-5b1f-45a1-b93f-dd5dab1a02ae",
-      "title": "Data Scientist",
-      "url": "https://remotejobs.org/remote-jobs/data-scientist-jerry-daf4d8fdc6e743beb9e40aa519349012",
-      "apply_url": "https://remotejobs.org/remote-jobs/data-scientist-jerry-daf4d8fdc6e743beb9e40aa519349012",
-      "company": {
-        "name": "Jerry",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/6d76d60b0491aff4bf82b8d6e724ae66ad582ad0c1dd81fbfc9a527c615b94b2.webp",
-        "website": "https://jerry.co",
-        "url": "https://remotejobs.org/companies/jerry"
-      },
-      "category": {
-        "name": "Data Science",
-        "slug": "data-science"
-      },
-      "location": "New York, New York",
-      "location_normalization": {
-        "raw": "New York, New York",
-        "input": {
-          "workArrangement": "remote"
-        },
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "remote",
-        "allowed_countries": [],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "worksite_countries": [
-          "US"
-        ],
-        "allowed_subdivisions": [
-          "US-NY"
-        ],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "partial",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [
-          "full-time hourly employment",
-          "full-time salaried employment"
-        ],
-        "evidence_ids": [
-          "c1",
-          "c2",
-          "source-location"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "remote",
-        "allowed_countries": [],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [
-          "US-NY"
-        ],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": null,
-        "role_family": "data-science",
-        "required_skills": [],
-        "mentioned_skills": [
-          "python",
-          "sql"
-        ],
-        "preferred_skills": [],
-        "experience_requirements": [
-          {
-            "text": "2+ years of experience",
-            "maximum_years": null,
-            "minimum_years": 2,
-            "classification": "mentioned"
-          }
-        ]
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": null,
-      "salary_period": null,
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": "e32c24bc-d76a-4030-8ac5-4a9814d1e618",
-      "direct_apply": null,
-      "description": "<p><strong>About us:</strong></p>\n<p><a href=\"http://Jerry.ai\">Jerry.ai</a> is a Series C, YC-backed tech startup with 5M+ customers and $240M in funding. Founded in 2017, product launched in 2019, and achieved profitability in 2024.</p>\n<p><strong>Why we exist:</strong></p>\n<p>Your car, home, and motorcycle aren't just purchases, they're the physical embodiment of the life you've worked hard to build. Yet the experience of owning them is stuck in the 90s. Every step of the journey — buying, insuring, maintaining, repairing, selling — is fragmented, complicated, and expensive.</p>\n<p>Imagine having a trusted friend in your pocket who takes care of everything: they find you the right car or home at the right price, lock in the best insurance rate without you lifting a finger, remind you before that service appointment turns into an expensive repair, and help you sell at the best price when the time is right. That friend is Jerry.</p>\n<p>We are building the first AI-powered advisor to manage all your physical assets. We started with your car in 2019, now we’re expanding into new verticals (e.g. home, motorcycle, RV, boat).</p>\n<p><strong>Why We’re Hiring</strong></p>\n<p>Our Data Science &#x26; Analytics team has been a force multiplier and accelerant to our business that has helped us reach these pivotal milestones in spite of headwinds and within a highly competitive market. They are a team of former McKinsey, BCG and Bain consultants who drive data &#x26; insights, and inform decision-making across every corner of our business. They are analytical powerhouses and first principles problem solvers who push forward our most important initiatives across product, growth, tech, and operations.<br>\n<br>\nEvery business unit has a Data Science team member embedded within it — someone who doesn't just run analyses and build dashboards, but shapes what questions we should ask, what data to pull, what conclusions to draw, what decisions to make, and then drives our teams towards our next goal: go from 5M to 50M customers and become a $10B business in the next 4 years.</p>\n<p>As our business continues to expand, there is growing demand for more Data Science team members. We are hiring 2-3 people to drive impact in these areas:</p>\n<ul>\n<li>\n<p>Growth Marketing</p>\n</li>\n<li>\n<p>Product Development</p>\n</li>\n<li>\n<p>Strategic Partnerships</p>\n</li>\n</ul>\n<p><strong>On leveling: </strong>You may see job ads for this role at different job levels. Our priority is finding the right people, we can be flexible with job title/leveling.</p>\n<p><strong>Why You Will (Or Won't) Like Working Here</strong></p>\n<ul>\n<li>\n<p><strong>No slides:</strong> If you've worked in consulting, you know what it feels like to be up at 3am reformatting a deck. That doesn't exist here. The only work that gets done at Jerry is work that will materially change the trajectory of our business — an important product, a new growth channel, a key metric, a critical partner relationship, etc.</p>\n</li>\n<li>\n<p><strong>No corporate fluff:</strong> The Data Science &#x26; Analytics team is 14 insatiable learners who care deeply about solving difficult problems and making a tangible impact. Every person owns a critical domain. There is no bloat, unnecessary meetings, or waiting for approvals.</p>\n</li>\n<li>\n<p><strong>Hands-on: </strong>This is not a pure strategy role, you will also own execution. Your day-to-day will be surfacing analytical insights, driving decisions, and seeing them through end-to-end.</p>\n</li>\n</ul>\n<p><strong>What You'll Own</strong></p>\n<p>You'll sit on our central Data Science &#x26; Analytics team but you’ll be embedded in one of Jerry's core business areas — growth, product, AI and automation, strategic partnerships — and own the analytical function for that business unit end-to-end.</p>\n<ul>\n<li>\n<p><strong>Define the right problems: </strong>Before any analysis, understand what business question it's answering and what decision it will inform. Push back if the question is flawed.</p>\n</li>\n<li>\n<p><strong>Data and insights: </strong>Define metrics, build reports, run analyses, design experiments, and surface data insights that move your team's key metrics.</p>\n</li>\n<li>\n<p><strong>Drive outcomes: </strong>Bring recommendations to your counterparts in product, growth, finance or operations, tell them what's happening and why, and what next steps should be.</p>\n</li>\n</ul>\n<p><strong>Who You Are</strong></p>\n<ul>\n<li>\n<p><strong>First principles thinker: </strong>You break ambiguous problems into clear hypotheses before touching data. You're analytically strong (comfortable with SQL or Python) but your instinct is to ask \"what are we trying to solve here?\" before jumping to \"what should I build?\"</p>\n</li>\n<li>\n<p><strong>Direct communicator:</strong> You can walk a skeptical stakeholder through a complex finding and get buy-in quickly. You write clearly, speak precisely, and don't bury the lede.</p>\n</li>\n<li>\n<p><strong>Owner: </strong>You act like your name is on the door. If something is broken, you feel responsible for fixing it, even if it’s outside of your swim lane.</p>\n</li>\n</ul>\n<p><strong>What You'll Bring</strong></p>\n<ul>\n<li>\n<p>2+ years of experience at a consulting firm, investment bank, or high-growth technology company.</p>\n</li>\n<li>\n<p>Strong analytical skills; ability to pull, structure, and interpret data independently.</p>\n</li>\n<li>\n<p>Track record of owning ambiguous problems and delivering impact.</p>\n</li>\n<li>\n<p>Clear, persuasive communicator who can influence decisions at the leadership level.</p>\n</li>\n</ul>\n<p><strong>Our Tools</strong></p>\n<p>SQL (Clickhouse), Metabase, Python, Jupyter Hub, GitHub.</p>\n<p><em>While we appreciate your interest and application, due to the volume of applications we receive, only applicants under consideration will be contacted.</em></p>\n<p><em><strong>Please note: </strong></em><a href=\"http://Jerry.ai\"><em><strong>Jerry.ai</strong></em></a><em><strong> is only able to hire full-time salaried employees who currently reside in AZ, CA, CO, FL, GA, IL, MA, NC, NJ, NV, NY, OR, TN, TX, UT, VA, or Ontario, Canada, and full-time hourly employees who currently reside in AZ, FL, GA, NV, NY, NC, TN, TX, UT, or VA. Unfortunately, we cannot accept applications from candidates residing elsewhere at this time.</strong></em></p>\n<p><em>Jerry.ai is proud to be an Equal Employment Opportunity employer. We prohibit discrimination based on race, religion, color, national origin, sex, pregnancy, reproductive health decisions or related medical conditions, sexual orientation, gender identity, gender expression, age, veteran status, disability, genetic information, or other characteristics protected by applicable local, state or federal laws.</em></p>\n<p><em>Jerry.ai is committed to providing reasonable accommodations for individuals with disabilities in our job application process. If you need assistance or an accommodation due to a disability, please contact us at </em><a href=\"mailto:recruiting@getjerry.com\"><em>recruiting@jerry.ai</em></a></p>\n<p><em>The successful candidate’s starting pay will fall within the pay range listed on this job posting, determined based on job-related factors including, but not limited to, skills, experience, qualifications, work location, and market conditions. Ranges are market-dependent and may be modified in the future. In addition to base salary, the compensation may include opportunities for equity grants.</em></p>\n<p><em>We offer a comprehensive benefits package to regular employees, including health, dental, and vision coverage, paid time off, paid parental leave, 401(K) plan with employer matching, and wellness benefits, among others. Equity opportunities may also be part of your total rewards package. Part-time, contract, or freelance roles may not be eligible for certain benefits.</em></p>\n<p><strong>About Jerry.ai</strong></p>\n<p>Jerry is building the first AI-powered advisor to manage all your physical assets.</p>\n<p>Your car, home, and motorcycle aren't just purchases, they're the physical embodiment of the life you've worked hard to build. Yet the experience of owning them is stuck in the 90s. Every step of the journey — buying, insuring, maintaining, repairing, selling — is fragmented, complicated, and expensive.</p>\n<p>Imagine having a trusted friend in your pocket who takes care of everything: they find you the right car or home at the right price, lock in the best insurance rate without you lifting a finger, remind you before that service appointment turns into an expensive repair, and help you sell at the best price when the time is right. That friend is Jerry.</p>\n<p>We started with car insurance in 2019, became one of the top 3 brokers in the U.S., then added driving insights, diagnostics, and a repair marketplace. We've reached 5M+ customers, raised $240M+, and achieved profitability in 2024. We're now expanding into home, motorcycle, RV, and beyond.</p>\n<p>Led by serial entrepreneurs and backed by Y Combinator, our team comprises talented and big-hearted leaders from places like Nvidia, Meta, Amazon, BCG, McKinsey, Bain, and GEICO. Our culture is the #1 reason people join Jerry and stay — we are a small and mighty team of competitive but kind people who think and act like owners, care deeply about the quality and impact of our work, and are relentless in our pursuit of learning and mastery over our craft.</p>\n<p>We are proud to consistently rank as one of Y Combinator's Top Companies, Forbes and Statista's Best Startup Employers, and to have received other accolades in fintech and insurtech innovation, workplace culture, and leadership.</p>\n<p>We support remote work for most roles, but if you prefer in-person or hybrid, we also have offices in Palo Alto, New York City, Chicago, and Toronto.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/data-scientist-jerry-daf4d8fdc6e743beb9e40aa519349012</p>",
-      "posted_at": "2026-11-09T23:50:50.246+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "4401c1eb-4d28-49d0-8005-5ee114ced277",
-      "title": "Senior Associate, Business Operations & Analytics",
-      "url": "https://remotejobs.org/remote-jobs/senior-associate-business-operations-analytics-jerry-e03de2dcbff34788b359ff37eb93d01f",
-      "apply_url": "https://remotejobs.org/remote-jobs/senior-associate-business-operations-analytics-jerry-e03de2dcbff34788b359ff37eb93d01f",
-      "company": {
-        "name": "Jerry",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/6d76d60b0491aff4bf82b8d6e724ae66ad582ad0c1dd81fbfc9a527c615b94b2.webp",
-        "website": "https://jerry.co",
-        "url": "https://remotejobs.org/companies/jerry"
-      },
-      "category": {
-        "name": "Data Science",
-        "slug": "data-science"
-      },
-      "location": "New York, New York",
-      "location_normalization": {
-        "raw": "New York, New York",
-        "input": {
-          "workArrangement": "remote"
-        },
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "remote",
-        "allowed_countries": [],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "worksite_countries": [
-          "US"
-        ],
-        "allowed_subdivisions": [
-          "US-NY"
-        ],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "partial",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [
-          "Applicant is hired as a full-time hourly employee",
-          "Applicant is hired as a full-time salaried employee"
-        ],
-        "evidence_ids": [
-          "c1",
-          "c2",
-          "source-location"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [
-          "US-NY"
-        ],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": "senior",
-        "role_family": null,
-        "required_skills": [],
-        "mentioned_skills": [
-          "python",
-          "sql"
-        ],
-        "preferred_skills": [],
-        "experience_requirements": [
-          {
-            "text": "2+ years of experience",
-            "maximum_years": null,
-            "minimum_years": 2,
-            "classification": "mentioned"
-          }
-        ]
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": null,
-      "salary_period": null,
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": "bf7f7058-19d8-4d33-a2e5-cbf6e0a41478",
-      "direct_apply": null,
-      "description": "<p><strong>About us:</strong></p>\n<p><a href=\"http://Jerry.ai\">Jerry.ai</a> is a Series C, YC-backed tech startup with 5M+ customers and $240M in funding. Founded in 2017, product launched in 2019, and achieved profitability in 2024.</p>\n<p><strong>Why we exist:</strong></p>\n<p>Your car, home, and motorcycle aren't just purchases, they're the physical embodiment of the life you've worked hard to build. Yet the experience of owning them is stuck in the 90s. Every step of the journey — buying, insuring, maintaining, repairing, selling — is fragmented, complicated, and expensive.</p>\n<p>Imagine having a trusted friend in your pocket who takes care of everything: they find you the right car or home at the right price, lock in the best insurance rate without you lifting a finger, remind you before that service appointment turns into an expensive repair, and help you sell at the best price when the time is right. That friend is Jerry.</p>\n<p>We are building the first AI-powered advisor to manage all your physical assets. We started with your car in 2019, now we’re expanding into new verticals (e.g. home, motorcycle, RV, boat).</p>\n<p><strong>Why We’re Hiring</strong></p>\n<p>Our Business Operations &#x26; Analytics team has been a force multiplier and accelerant to our business that has helped us reach these pivotal milestones in spite of headwinds and within a highly competitive market. They are a team of former McKinsey, BCG and Bain consultants who drive data &#x26; insights, and inform decision-making across every corner of our business. They are analytical powerhouses and first principles problem solvers who push forward our most important initiatives across product, growth, tech, and operations.</p>\n<p>Every business unit has a Business Operations &#x26; Analytics team member embedded within it — someone who doesn't just run analyses and build dashboards, but shapes what questions we should ask, what data to pull, what conclusions to draw, what decisions to make, and then drives our teams towards our next goal: go from 5M to 50M customers and become a $10B business in the next 4 years.</p>\n<p>As our business continues to expand, there is growing demand for more Business Operations &#x26; Analytics team members. We are hiring 2-3 people to drive impact in these areas:</p>\n<ul>\n<li>\n<p>Growth Marketing</p>\n</li>\n<li>\n<p>Product Development</p>\n</li>\n<li>\n<p>Strategic Partnerships</p>\n</li>\n</ul>\n<p><strong>On leveling: </strong>You may see job ads for this role at different job levels. Our priority is finding the right people, we can be flexible with job title/leveling.</p>\n<p><strong>Why You Will (Or Won't) Like Working Here</strong></p>\n<ul>\n<li>\n<p><strong>No slides:</strong> If you've worked in consulting, you know what it feels like to be up at 3am reformatting a deck. That doesn't exist here. The only work that gets done at Jerry is work that will materially change the trajectory of our business — an important product, a new growth channel, a key metric, a critical partner relationship, etc.</p>\n</li>\n<li>\n<p><strong>No corporate fluff:</strong> The Business Operations &#x26; Analytics team is 14 insatiable learners who care deeply about solving difficult problems and making a tangible impact. Every person owns a critical domain. There is no bloat, unnecessary meetings, or waiting for approvals.</p>\n</li>\n<li>\n<p><strong>Hands-on: </strong>This is not a pure strategy role, you will also own execution. Your day-to-day will be surfacing analytical insights, driving decisions, and seeing them through end-to-end.</p>\n</li>\n</ul>\n<p><strong>What You'll Own</strong></p>\n<p>You'll sit on our central Business Operations &#x26; Analytics team but you’ll be embedded in one of Jerry's core business areas — growth, product, AI and automation, strategic partnerships — and own the analytical function for that business unit end-to-end.</p>\n<ul>\n<li>\n<p><strong>Define the right problems: </strong>Before any analysis, understand what business question it's answering and what decision it will inform. Push back if the question is flawed.</p>\n</li>\n<li>\n<p><strong>Data and insights: </strong>Define metrics, build reports, run analyses, design experiments, and surface data insights that move your team's key metrics.</p>\n</li>\n<li>\n<p><strong>Drive outcomes: </strong>Bring recommendations to your counterparts in product, growth, finance or operations, tell them what's happening and why, and what next steps should be.</p>\n</li>\n</ul>\n<p><strong>Who You Are</strong></p>\n<ul>\n<li>\n<p><strong>First principles thinker: </strong>You break ambiguous problems into clear hypotheses before touching data. You're analytically strong (comfortable with SQL or Python) but your instinct is to ask \"what are we trying to solve here?\" before jumping to \"what should I build?\"</p>\n</li>\n<li>\n<p><strong>Direct communicator:</strong> You can walk a skeptical stakeholder through a complex finding and get buy-in quickly. You write clearly, speak precisely, and don't bury the lede.</p>\n</li>\n<li>\n<p><strong>Owner: </strong>You act like your name is on the door. If something is broken, you feel responsible for fixing it, even if it’s outside of your swim lane.</p>\n</li>\n</ul>\n<p><strong>What You'll Bring</strong></p>\n<ul>\n<li>\n<p>2+ years of experience at a consulting firm, investment bank, or high-growth technology company.</p>\n</li>\n<li>\n<p>Strong analytical skills; ability to pull, structure, and interpret data independently.</p>\n</li>\n<li>\n<p>Track record of owning ambiguous problems and delivering impact.</p>\n</li>\n<li>\n<p>Clear, persuasive communicator who can influence decisions at the leadership level.</p>\n</li>\n</ul>\n<p><strong>Our Tools</strong></p>\n<p>SQL (Clickhouse), Metabase, Python, Jupyter Hub, GitHub.</p>\n<p><em>While we appreciate your interest and application, due to the volume of applications we receive, only applicants under consideration will be contacted.</em></p>\n<p><em><strong>Please note: </strong></em><a href=\"http://Jerry.ai\"><em><strong>Jerry.ai</strong></em></a><em><strong> is only able to hire full-time salaried employees who currently reside in AZ, CA, CO, FL, GA, IL, MA, NC, NJ, NV, NY, OR, TN, TX, UT, VA, or Ontario, Canada, and full-time hourly employees who currently reside in AZ, FL, GA, NV, NY, NC, TN, TX, UT, or VA. Unfortunately, we cannot accept applications from candidates residing elsewhere at this time.</strong></em></p>\n<p><em>Jerry.ai is proud to be an Equal Employment Opportunity employer. We prohibit discrimination based on race, religion, color, national origin, sex, pregnancy, reproductive health decisions or related medical conditions, sexual orientation, gender identity, gender expression, age, veteran status, disability, genetic information, or other characteristics protected by applicable local, state or federal laws.</em></p>\n<p><em>Jerry.ai is committed to providing reasonable accommodations for individuals with disabilities in our job application process. If you need assistance or an accommodation due to a disability, please contact us at </em><a href=\"mailto:recruiting@getjerry.com\"><em>recruiting@jerry.ai</em></a></p>\n<p><em>The successful candidate’s starting pay will fall within the pay range listed on this job posting, determined based on job-related factors including, but not limited to, skills, experience, qualifications, work location, and market conditions. Ranges are market-dependent and may be modified in the future. In addition to base salary, the compensation may include opportunities for equity grants.</em></p>\n<p><em>We offer a comprehensive benefits package to regular employees, including health, dental, and vision coverage, paid time off, paid parental leave, 401(K) plan with employer matching, and wellness benefits, among others. Equity opportunities may also be part of your total rewards package. Part-time, contract, or freelance roles may not be eligible for certain benefits.</em></p>\n<p><strong>About Jerry.ai</strong></p>\n<p>Jerry is building the first AI-powered advisor to manage all your physical assets.</p>\n<p>Your car, home, and motorcycle aren't just purchases, they're the physical embodiment of the life you've worked hard to build. Yet the experience of owning them is stuck in the 90s. Every step of the journey — buying, insuring, maintaining, repairing, selling — is fragmented, complicated, and expensive.</p>\n<p>Imagine having a trusted friend in your pocket who takes care of everything: they find you the right car or home at the right price, lock in the best insurance rate without you lifting a finger, remind you before that service appointment turns into an expensive repair, and help you sell at the best price when the time is right. That friend is Jerry.</p>\n<p>We started with car insurance in 2019, became one of the top 3 brokers in the U.S., then added driving insights, diagnostics, and a repair marketplace. We've reached 5M+ customers, raised $240M+, and achieved profitability in 2024. We're now expanding into home, motorcycle, RV, and beyond.</p>\n<p>Led by serial entrepreneurs and backed by Y Combinator, our team comprises talented and big-hearted leaders from places like Nvidia, Meta, Amazon, BCG, McKinsey, Bain, and GEICO. Our culture is the #1 reason people join Jerry and stay — we are a small and mighty team of competitive but kind people who think and act like owners, care deeply about the quality and impact of our work, and are relentless in our pursuit of learning and mastery over our craft.</p>\n<p>We are proud to consistently rank as one of Y Combinator's Top Companies, Forbes and Statista's Best Startup Employers, and to have received other accolades in fintech and insurtech innovation, workplace culture, and leadership.</p>\n<p>We support remote work for most roles, but if you prefer in-person or hybrid, we also have offices in Palo Alto, New York City, Chicago, and Toronto.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-associate-business-operations-analytics-jerry-e03de2dcbff34788b359ff37eb93d01f</p>",
-      "posted_at": "2026-11-09T23:49:38.044+00:00",
       "is_translated": false,
       "original_language": null
     }
