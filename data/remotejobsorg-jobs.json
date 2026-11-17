@@ -1,7 +1,107 @@
 {
-  "generatedAt": "2026-11-16T15:00:08.519Z",
+  "generatedAt": "2026-11-17T01:41:22.808Z",
   "count": 150,
   "data": [
+    {
+      "id": "55a9dfc3-8b5c-4019-987e-af8cdce84dda",
+      "title": "Senior Full-Stack Engineer (TypeScript/AI Automation) - Real Estate - LATAM",
+      "url": "https://remotejobs.org/remote-jobs/senior-full-stack-engineer-typescriptai-automation-real-estate-latam-truelogic-3ddddde1f1124809a8536af93d53c437",
+      "apply_url": "https://remotejobs.org/remote-jobs/senior-full-stack-engineer-typescriptai-automation-real-estate-latam-truelogic-3ddddde1f1124809a8536af93d53c437",
+      "company": {
+        "name": "Truelogic",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/2bc30cf616bdb3e327981ebbdabc39dda60953ebc503d060766006aaaada3b5d.png",
+        "website": "https://truelogic.io",
+        "url": "https://remotejobs.org/companies/truelogic"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "LatAm",
+      "location_normalization": {
+        "raw": "LatAm",
+        "input": {
+          "workArrangement": "remote"
+        },
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [
+          "latam"
+        ],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "worksite_countries": [
+          "PA"
+        ],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [
+          "latam"
+        ],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [
+          "Unresolved area: location:1"
+        ],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [
+          "Latin America (LATAM)"
+        ],
+        "work_arrangement": "remote",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": "senior",
+        "role_family": "software-engineering",
+        "required_skills": [],
+        "mentioned_skills": [
+          "aws",
+          "nodejs",
+          "postgresql",
+          "react",
+          "typescript",
+          "vue"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": []
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "53c2731f-8bb9-47ab-8a93-6849ff435ae7",
+      "direct_apply": null,
+      "description": "<h2><strong>About Truelogic</strong></h2><p>At Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals.</p><p>Our team of 600+ highly skilled tech professionals, based in Latin America, drives digital disruption by partnering with U.S. companies on their most impactful projects. Whether collaborating with Fortune 500 giants or scaling startups, we deliver results that make a difference.</p><p>By applying for this position, you’re taking the first step in joining a dynamic team that values your expertise and aspirations. We aim to align your skills with opportunities that foster exceptional career growth and success while contributing to transformative projects that shape the future.</p><h2><strong>Our Client</strong></h2><p>This company is far more than a traditional real estate brokerage — it is a tech-powered media company reinventing how real estate is bought, sold, and experienced, combining elite sales talent, cutting-edge technology, and world-class content creation to build a completely new industry approach; its ecosystem spans luxury residential real estate, a powerful education platform, and an in-house creative agency, forming a vertically integrated model that is reshaping the real estate landscape, while offering engineers the opportunity to join an organization that treats technology as a core strategic differentiator, empowers small, autonomous, high-impact teams with full ownership, and values great design, clean code, and exceptional user experience, all within a company that is actively building the future of real estate.<br><br><strong>Job Summary</strong><br>We are seeking a Senior Full-Stack Engineer to join a fast-growing, tech-driven company that is transforming the real estate experience through innovative digital products and AI-powered solutions. This role is ideal for a highly autonomous “Unicorn” Generalist who thrives in fast-paced environments, takes ownership of end-to-end product development, and leverages AI coding tools to accelerate delivery without compromising engineering quality. The engineer will work across frontend, backend, and AI systems to build scalable production-grade applications, custom AI agents, and reliable LLM-powered workflows while contributing to a culture focused on execution speed, clean code, and product excellence.<br></p><h3><strong>Responsibilities</strong></h3><ul><li><p>Build and ship end-to-end web and backend features with production-grade quality</p></li><li><p>Develop AI-powered systems, including custom agents, RAG pipelines, and state-machine-driven workflows</p></li><li><p>Create scalable frontend experiences using SvelteKit, React, Vue, or similar modern frameworks</p></li><li><p>Design and implement backend services using Node.js and TypeScript</p></li><li><p>Engineer reliable AI systems with guardrails, traceability, and confidence measurement frameworks</p></li><li><p>Rapidly transform product requirements into functional solutions with a strong bias toward execution</p></li><li><p>Use AI coding tools such as Cursor and Claude Code to improve productivity and accelerate development</p></li><li><p>Collaborate within a highly autonomous, async-first remote engineering environment</p></li><li><p>Integrate APIs, authentication systems, analytics platforms, and third-party services</p></li><li><p>Contribute to data pipelines, analytics tooling, and dynamic asset generation when needed</p></li></ul><h3><strong>Qualifications and Job Requirements</strong></h3><ul><li><p>Expert-level proficiency in TypeScript, including advanced concepts such as Generics and Discriminated Unions</p></li><li><p>Strong experience with Node.js backend development</p></li><li><p>Proven full-stack engineering experience across frontend and backend systems</p></li><li><p>Experience with React, Vue, or Svelte/SvelteKit</p></li><li><p>Hands-on experience building and deploying AI/LLM-powered features or agentic systems</p></li><li><p>Strong understanding of APIs, authentication flows, and token-based security</p></li><li><p>Experience working with PostgreSQL databases</p></li><li><p>Cloud experience with AWS or Azure</p></li><li><p>Practical experience using AI coding assistants such as Cursor or Claude Code</p></li><li><p>Ability to work independently in a remote, highly autonomous environment with strong English communication skills</p></li></ul><h3><strong>Preferred Skills</strong></h3><ul><li><p>Experience with Fastify, Hono, or Express frameworks</p></li><li><p>Familiarity with Slack API integrations and analytics platforms such as PostHog or Metabase</p></li><li><p>Experience with PDF generation tools like PDFKit or Puppeteer is a plus</p></li><li><p>Experience building or optimizing data pipelines and transformation workflows is a plus<br></p></li></ul><h3><strong>What We Offer</strong></h3><ul><li><p>100% Remote Work: Enjoy the freedom to work from the location that helps you thrive. All it takes is a laptop and a reliable internet connection.</p></li><li><p>Highly Competitive USD Pay: Earn an excellent, market-leading compensation in USD, that goes beyond typical market offerings.</p></li><li><p>Paid Time Off: We value your well-being. Our paid time off policies ensure you have the chance to unwind and recharge when needed.</p></li><li><p>Work with Autonomy: Enjoy the freedom to manage your time as long as the work gets done. Focus on results, not the clock.</p></li><li><p>Work with Top American Companies: Grow your expertise working on innovative, high-impact projects with Industry-Leading U.S. Companies.</p></li></ul><h3><strong>Why You’ll Like Working Here</strong></h3><ul><li><p>A Culture That Values You: We prioritize well-being and work-life balance, offering engagement activities and fostering dynamic teams to ensure you thrive both personally and professionally.</p></li><li><p>Diverse, Global Network: Connect with over 600 professionals in 25+ countries, expand your network, and collaborate with a multicultural team from Latin America.</p></li><li><p>Team Up with Skilled Professionals: Join forces with senior talent. All of our team members are seasoned experts, ensuring you're working with the best in your field.</p></li></ul><p>Apply now!</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-full-stack-engineer-typescriptai-automation-real-estate-latam-truelogic-3ddddde1f1124809a8536af93d53c437</p>",
+      "posted_at": "2026-11-16T11:56:47.065+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
     {
       "id": "8e27ef07-e14b-41b3-ae2e-f9cc5a5c64b1",
       "title": "Sr. Staff Software Development Engineer",
@@ -4644,97 +4744,6 @@
       "original_language": null
     },
     {
-      "id": "4ea42685-d685-410f-8de6-3714a30fd384",
-      "title": "Embedded Software Engineer - Multicore Platforms & Avionics Networking",
-      "url": "https://remotejobs.org/remote-jobs/embedded-software-engineer-multicore-platforms-avionics-networking-quest-defense-systems-038-solutions-inc",
-      "apply_url": "https://remotejobs.org/remote-jobs/embedded-software-engineer-multicore-platforms-avionics-networking-quest-defense-systems-038-solutions-inc",
-      "company": {
-        "name": "Quest Defense Systems &#038; Solutions, Inc.",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/1a234db832a2e438f6e5ad1cd0113ff380196fc3934ed7821a1cc03858472913.webp",
-        "website": null,
-        "url": "https://remotejobs.org/companies/quest-defense-systems-038-solutions-inc"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "USA",
-      "location_normalization": {
-        "raw": "USA",
-        "input": {},
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "partial",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [
-          "Remote candidates must be available for an initial onboarding period in Endicott, NY and travel to the site quarterly thereafter. This city-based onboarding and travel requirement cannot be represented as a geographic area without approximating the city by its state.",
-          "Unresolved area: description:3"
-        ],
-        "evidence_ids": [
-          "c2",
-          "source-location"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "remote",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": null,
-        "role_family": "software-engineering",
-        "required_skills": [],
-        "mentioned_skills": [
-          "cpp",
-          "python"
-        ],
-        "preferred_skills": [],
-        "experience_requirements": []
-      },
-      "salary_min": 100000,
-      "salary_max": 140000,
-      "salary_text": "USD 100,000–140,000/year",
-      "salary_source_text": "USD 100000 - 140000",
-      "salary_currency": "USD",
-      "salary_period": "year",
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<p><strong>We don’t just build technology—we engineer the future. From next-gen aerospace to cutting-edge defense systems, we tackle the toughest, mission-critical challenges that keep people safe and push the limits of innovation. This is where problem-solvers, innovators, and big thinkers thrive. </strong></p><p><strong>Quest Defense Systems &#x26; Solutions is seeking an Embedded Software Engineer</strong> with experience developing low-level software for multicore processors and System-on-Chip platforms. This role requires hands-on experience with deterministic avionics networking—particularly Time-Sensitive Networking, ARINC 664 Part 7/AFDX, or related ARINC communication standards—as well as development within a DO-178 environment. You will work at the intersection of software and hardware, developing processor-level software, enabling new hardware platforms, and integrating multicore systems with FPGA, ASIC, and other custom hardware.</p><p><strong>Location:</strong> <em>Remote candidates will be considered provided they are available for an initial onboarding period in Endicott, NY and can travel to the site on a quarterly basis thereafter. </em></p><p><strong>Citizenship:</strong> U.S. citizenship is required</p><p><strong>W</strong><strong>hat You’ll Do</strong></p><ul>\n<li>Design, develop, and maintain low-level embedded software using C, C++, and Assembly.</li>\n<li>Develop software for multicore processors and SoCs, including processor initialization, inter-core communication, synchronization, shared-resource management, and deterministic execution.</li>\n<li>Develop and integrate deterministic avionics networking solutions using TSN, ARINC 664 Part 7/AFDX, PCIe, and related real-time communication technologies.</li>\n<li>Develop board support packages, boot code, device drivers, and other platform-level software.</li>\n<li>Support new hardware bring-up, board initialization, and hardware/software integration.</li>\n<li>Integrate embedded software with FPGA, ASIC, and custom hardware components.</li>\n<li>Develop software in accordance with DO-178B/C processes and applicable safety-critical requirements.</li>\n<li>Analyze and troubleshoot timing, latency, concurrency, and real-time performance issues.</li>\n<li>Debug processor- and board-level software using hardware debuggers, trace tools, oscilloscopes, logic analyzers, and related laboratory equipment.</li>\n<li>Develop Python-based tools to support debugging, testing, automation, and integration.</li>\n<li>Collaborate with software, hardware, FPGA, ASIC, systems, and verification engineers throughout the development lifecycle.</li>\n<li>Participate in software architecture, design reviews, testing, technical documentation, and continuous process improvement.</li>\n</ul><p><strong> </strong><strong>Required Qualifications</strong></p><ul>\n<li>Bachelor’s degree in Computer Engineering, Software Engineering, Electrical Engineering, Computer Science, or another relevant STEM discipline.</li>\n<li>4+ years of embedded software or firmware development experience in aerospace, avionics, defense, or another safety- or mission-critical environment.</li>\n<li>Strong programming experience with embedded C and C++.</li>\n<li>Experience developing very low-level, real-time embedded software, such as BSPs, boot code, device drivers, processor initialization, or platform software.</li>\n<li>Hands-on experience developing software for multicore processors or multicore SoCs.</li>\n<li>Experience with deterministic avionics networking or communications, including at least one of the following:</li>\n<ul>\n<li>Time-Sensitive Networking</li>\n<li>ARINC 664 Part 7 or AFDX</li>\n<li>Related ARINC avionics communication standards</li>\n</ul>\n<li>Experience working within a DO-178B/C software development lifecycle.</li>\n<li>Experience with board bring-up, hardware initialization, or hardware/software integration.</li>\n<li>Experience interfacing embedded software with FPGA, ASIC, or other custom hardware.</li>\n<li>Experience debugging embedded systems using hardware debugging or trace tools.</li>\n<li>U.S. citizenship.</li>\n</ul><p><strong> </strong><strong>Preferred Qualifications</strong></p><ul>\n<li>Experience with ARM processor architecture and ARM-based SoCs.</li>\n<li>Experience with PCIe or other high-speed hardware interfaces.</li>\n<li>Experience with RTOS, bare-metal, or embedded Linux development.</li>\n<li>Experience analyzing timing, latency, concurrency, WCET, or deterministic system performance.</li>\n<li>Experience with ARM Development Studio, DSTREAM, or comparable processor-debugging tools.</li>\n<li>Experience using oscilloscopes, logic analyzers, and other laboratory equipment.</li>\n<li>Experience developing Python scripts for debugging, testing, or workflow automation.</li>\n<li>Familiarity with DO-254 and hardware/software design assurance activities.</li>\n<li>Active security clearance or the ability to obtain one.</li>\n</ul><p><strong>The QDSS Advantage</strong></p><p>At QDSS, you’ll work alongside collaborative engineering teams on complex, mission-critical programs where software reliability and technical precision matter. You’ll have opportunities to deepen your expertise, take on new challenges, and contribute to platforms with meaningful real-world impact.</p><p><strong>What You’ll Find Here</strong></p><ul>\n<li><strong>Work That Matters:</strong> Contribute to next-generation safety- and mission-critical systems.</li>\n<li><strong>Supported Growth:</strong> Competitive compensation, employer-matched 401(k), certification assistance, and opportunities for advancement.</li>\n<li><strong>A Collaborative Culture:</strong> Join a flexible, people-focused environment where teamwork, technical excellence, and work-life balance are valued.</li>\n</ul><p><strong>Benefits</strong></p><ul>\n<li>Competitive compensation, comprehensive medical, dental, life, and disability coverage, a 401(k) with employer match, professional development support, and a flexible, collaborative workplace.</li>\n</ul><p>Full compensation package is based on candidate experience and certifications</p><p>Pay Ranges</p><p>$100,000—$140,000 USD</p><p>At <strong>Quest Defense Systems and Solutions</strong>, we don’t just build technology — we engineer the future. From next-generation aerospace solutions to cutting-edge defense systems, we tackle the toughest, mission-critical challenges that keep people safe and push the boundaries of innovation. This is where problem-solvers, innovators, and visionary thinkers come together to shape the future. With over 25 years of aerospace and defense engineering expertise, our commitment to delivering high-quality, transformative solutions sets us apart — not just as an industry leader, but as a driving force for impactful change. Together, we’re not just leading the industry — we’re revolutionizing it.</p><p>Quest Defense provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.</p><p>This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/embedded-software-engineer-multicore-platforms-avionics-networking-quest-defense-systems-038-solutions-inc</p>",
-      "posted_at": "2026-11-13T15:34:25+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
       "id": "2ac69e5e-91e0-473d-a73e-b644c4214305",
       "title": "Solutions Architect",
       "url": "https://remotejobs.org/remote-jobs/solutions-architect-atreides",
@@ -6759,6 +6768,107 @@
       "direct_apply": null,
       "description": "<p>We are looking for an experienced <strong>Power Platform Solution Architect</strong> to join an international Agile delivery team. The successful candidate will act as the architecture lead for defined initiatives within the client's Microsoft Power Platform landscape, designing secure, scalable, and supportable solutions across <strong>Power Platform, Azure, and connected enterprise systems</strong>.</p>\n<p>The role combines architectural leadership with practical technical involvement, guiding delivery teams from concept and solution design through implementation, deployment, production stabilization, and continuous improvement.</p>\n<h2>Tasks</h2>\n<ul>\n<li>Act as the architecture lead for defined initiatives within the client's <strong>Power Platform</strong> landscape.</li>\n<li>Translate business capabilities, functional requirements, and non-functional requirements into pragmatic end-to-end solution architectures.</li>\n<li>Design end-to-end architectures covering <strong>Power Apps, Power Automate, Dataverse, Power Pages, Azure services, and external integrations</strong>.</li>\n<li>Define solution boundaries, data models, integration patterns, security concepts, environment strategies, and deployment approaches.</li>\n<li>Evaluate and guide decisions between configuration, low-code, and custom development approaches.</li>\n<li>Assess the appropriate use of technologies such as <strong>React, PCF, Azure Functions, and other Azure components</strong>.</li>\n<li>Ensure solutions align with enterprise architecture, identity and access management, data protection, ALM, security, and operational support requirements.</li>\n<li>Define and maintain appropriate <strong>environment strategies</strong> across development, testing, staging, and production.</li>\n<li>Lead architecture reviews and document architecture decisions, assumptions, risks, dependencies, and exceptions.</li>\n<li>Support solution estimation, backlog refinement, technical planning, and delivery planning with product owners and engineering teams.</li>\n<li>Provide technical guidance to developers and review solution designs, technical approaches, integration patterns, and deployment concepts.</li>\n<li>Coach delivery teams and promote consistent architecture and engineering practices.</li>\n<li>Provide technical leadership during critical releases, production stabilization, incident investigation, and root-cause analysis.</li>\n<li>Identify and mitigate technical risks before they impact delivery or production.</li>\n<li>Balance governance and architectural standards with practical delivery needs, avoiding unnecessary complexity.</li>\n</ul>\n<h2>Requirements</h2>\n<ul>\n<li><strong>8+ years of solution architecture, solution design, or software engineering experience</strong>, including substantial hands-on experience designing enterprise <strong>Microsoft Power Platform</strong> solutions.</li>\n<li>Proven experience designing and delivering production solutions spanning <strong>multiple applications, environments, systems, and integration endpoints</strong>.</li>\n<li>Strong expertise in <strong>Power Apps, Power Automate, Dataverse, and Power Platform architecture</strong>.</li>\n<li>Strong understanding of <strong>Dataverse data modelling, relationships, security roles, permissions, identity, and enterprise data architecture</strong>.</li>\n<li>Strong knowledge of <strong>REST APIs, integration patterns, connectors, and enterprise application integration</strong>.</li>\n<li>Practical experience with <strong>Microsoft Azure</strong> and designing solutions that integrate Power Platform with Azure services.</li>\n<li>Hands-on experience with <strong>managed solutions, environment strategies, source control, Azure DevOps, and structured ALM practices</strong>.</li>\n<li>Strong understanding of <strong>CI/CD and deployment strategies</strong> for enterprise Power Platform solutions.</li>\n<li>Ability to define and assess non-functional requirements covering <strong>security, performance, scalability, availability, reliability, supportability, maintainability, and compliance</strong>.</li>\n<li>Strong understanding of <strong>Microsoft Entra ID</strong> and enterprise identity and access management concepts.</li>\n<li>Experience defining security architecture and data protection approaches for enterprise applications.</li>\n<li>Experience evaluating when to use <strong>configuration, low-code, custom development, or external services</strong> to achieve the appropriate solution architecture.</li>\n<li>Practical understanding of <strong>React, PCF controls, Azure Functions, Logic Apps, API Management, and/or event-driven integration</strong> is an advantage.</li>\n<li>Experience with <strong>Copilot Studio, AI Builder, and the architecture or governance of AI-enabled business solutions</strong> is an advantage.</li>\n<li>Experience with <strong>Power Pages</strong> and external-facing Power Platform solutions is an advantage.</li>\n<li>Experience supporting distributed, remote, or nearshore development teams is an advantage.</li>\n<li>Microsoft Power Platform or Azure architecture certification, particularly <strong>PL-600</strong>, is an advantage.</li>\n<li>Proven ability to facilitate architecture decisions with both <strong>technical and business stakeholders</strong>.</li>\n<li>Strong stakeholder-management and communication skills, with the ability to explain complex technical concepts to different audiences.</li>\n<li>Strong experience producing clear, structured, and traceable <strong>architecture documentation and technical decisions</strong>.</li>\n<li>Strong analytical and problem-solving skills with a pragmatic, delivery-oriented approach.</li>\n<li>Ability to provide hands-on technical guidance and validate key architectural decisions without becoming disconnected from implementation realities.</li>\n<li><strong>Professional English communication skills</strong>, including strong written and verbal communication in an international engineering environment.</li>\n</ul>\n<h2>Benefits</h2>\n<ul>\n<li>All employees benefits for free (our famous games room, daily breakfast, fruits, coffee and other hot drinks, soft drinks and juices, company days out and parties…)</li>\n<li>Social insurance</li>\n<li>Open-door management policy</li>\n<li>Full Medical insurance</li>\n<li>Accommodation and Transportation Allowance</li>\n<li>Friendly environment that values innovation and efficiency</li>\n<li>Exciting opportunities for career growth and talent development</li>\n<li>Feedback encouragement</li>\n<li>Recognition and reward programs</li>\n<li>Competitive salaries and incentives</li>\n<li>Friendly environment</li>\n<li>Flexible and Comfortable schedule</li>\n<li>Fun committees</li>\n<li>Monetary rewards</li>\n<li>Fun, smart and creative people</li>\n<li>Career possibilities with growing team</li>\n<li>Paid vacations</li>\n<li>Social benefits</li>\n</ul>\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/power-platform-solution-architect-nile-bits</p>",
       "posted_at": "2026-11-12T20:49:57+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "b055c916-abc2-4fb5-af8a-52bb1aacbd41",
+      "title": "Senior DevOps Engineer - Advertising Industry",
+      "url": "https://remotejobs.org/remote-jobs/senior-devops-engineer-advertising-industry-truelogic",
+      "apply_url": "https://remotejobs.org/remote-jobs/senior-devops-engineer-advertising-industry-truelogic",
+      "company": {
+        "name": "Truelogic",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/2bc30cf616bdb3e327981ebbdabc39dda60953ebc503d060766006aaaada3b5d.png",
+        "website": "https://truelogic.io",
+        "url": "https://remotejobs.org/companies/truelogic"
+      },
+      "category": {
+        "name": "DevOps",
+        "slug": "devops"
+      },
+      "location": "LatAm",
+      "location_normalization": {
+        "raw": "LatAm",
+        "input": {
+          "workArrangement": "remote"
+        },
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [
+          "latam"
+        ],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "worksite_countries": [
+          "PA"
+        ],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [
+          "latam"
+        ],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [
+          "Unresolved area: location:1"
+        ],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [
+          "Latin America (LATAM)"
+        ],
+        "work_arrangement": "remote",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": "senior",
+        "role_family": "devops",
+        "required_skills": [],
+        "mentioned_skills": [
+          "aws",
+          "docker",
+          "kubernetes",
+          "python",
+          "terraform"
+        ],
+        "preferred_skills": [
+          "aws"
+        ],
+        "experience_requirements": []
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "1f841bb4-d1a3-47f0-8597-d3169cb2195f",
+      "direct_apply": null,
+      "description": "<h2><strong>About Truelogic</strong></h2><p>At Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals.</p><p>Our team of 600+ highly skilled tech professionals, based in Latin America, drives digital disruption by partnering with U.S. companies on their most impactful projects. Whether collaborating with Fortune 500 giants or scaling startups, we deliver results that make a difference.</p><p>By applying for this position, you’re taking the first step in joining a dynamic team that values your expertise and aspirations. We aim to align your skills with opportunities that foster exceptional career growth and success while contributing to transformative projects that shape the future.</p><h2><strong>Our Client</strong></h2><p>Our client is a global digital-first creative and technology network that combines engineering, creativity, and innovation to help leading brands solve complex business challenges and transform their digital experiences. The organization works with Fortune 100 companies and high-growth businesses across multiple industries, delivering technology-driven solutions through distributed teams worldwide.</p><h2><br><strong>Job Summary</strong></h2><p>We are looking for a <strong>Senior DevOps Engineer</strong> to own and evolve the cloud infrastructure, tooling, and developer experience powering AI-native digital platforms. In this role, you will work across cloud architecture, Infrastructure as Code (IaC), CI/CD, security, and observability to build scalable, secure, and reliable environments that enable engineering teams to deliver software efficiently.</p><p>The ideal candidate has extensive hands-on experience with cloud platforms such as AWS, GCP, or Azure, strong expertise in Terraform, Docker, Kubernetes, and CI/CD automation, and a solid understanding of DevSecOps, cloud networking, and high-availability architectures. You will partner closely with cross-functional engineering teams to improve developer workflows, optimize infrastructure costs, and leverage AI-enabled tools and agentic workflows to accelerate engineering, automation, and operational processes.</p><h3><strong>Responsibilities</strong></h3><ul><li><p>Design, provision, and maintain scalable cloud infrastructure across AWS, GCP, and/or Azure, ensuring high availability, reliability, and operational excellence.</p></li><li><p>Build, maintain, and optimize CI/CD pipelines to enable fast, secure, and reliable software delivery from development through production.</p></li><li><p>Lead Infrastructure as Code practices using Terraform and other IaC tools to create reproducible, consistent, and auditable environments.</p></li><li><p>Manage containerized environments using Docker and Kubernetes.</p></li><li><p>Implement DevSecOps practices throughout the development lifecycle, including security scanning, IAM, secrets management, and automated security controls.</p></li><li><p>Own observability across infrastructure and applications, including monitoring, logging, alerting, tracing, and incident troubleshooting.</p></li><li><p>Design and maintain highly available and fault-tolerant architectures, implementing deployment strategies such as blue-green deployments, canary releases, and feature flags.</p></li><li><p>Support serverless architectures and cloud-native services to improve scalability and operational efficiency.</p></li><li><p>Manage cloud networking, web infrastructure, CDNs, load balancers, and edge platforms.</p></li><li><p>Drive cloud cost optimization and FinOps initiatives by identifying inefficiencies, right-sizing resources, and improving infrastructure utilization.</p></li><li><p>Partner with engineering teams to improve developer experience, streamline workflows, and remove friction throughout the Software Development Lifecycle (SDLC).</p></li><li><p>Develop automation scripts and internal tooling using Python, Bash, and Linux-based technologies.</p></li><li><p>Maintain architecture documentation, operational runbooks, and post-mortems to support knowledge sharing and continuous improvement.</p></li><li><p>Leverage AI-enabled development tools and workflows for infrastructure automation, debugging, and operational tasks.</p></li><li><p>Orchestrate multi-step AI and agent-driven workflows, selecting appropriate models, tools, and execution patterns for different use cases.</p></li><li><p>Review and harden AI-assisted outputs to ensure security, scalability, maintainability, reliability, and architectural alignment.</p></li><li><p>Support prompts, evaluation frameworks, documentation, and operational context systems that improve engineering productivity.</p></li><li><p>Contribute to automated evaluation and feedback loops for AI-enabled engineering workflows.</p></li></ul><h3><strong>Qualifications and Job Requirements</strong></h3><ul><li><p>xtensive hands-on experience provisioning, managing, and maintaining cloud infrastructure using <strong>AWS, GCP, or Azure</strong>.</p></li><li><p>Strong proficiency with <strong>Infrastructure as Code</strong>, particularly Terraform.</p></li><li><p>Experience building and maintaining CI/CD pipelines using <strong>GitHub Actions, Jenkins, Bitbucket Pipelines, or equivalent tools</strong>.</p></li><li><p>Strong hands-on experience with <strong>Docker and Kubernetes</strong> in production environments.</p></li><li><p>Experience designing and managing <strong>high-availability, scalable, and fault-tolerant cloud architectures</strong>.</p></li><li><p>Strong understanding of cloud networking, deployment strategies, and web application infrastructure.</p></li><li><p>Experience implementing <strong>DevSecOps practices</strong>, including cloud security, IAM, secrets management, and automated security scanning.</p></li><li><p>Experience with observability practices and tools for monitoring, logging, alerting, and troubleshooting.</p></li><li><p>Proficiency in <strong>Python and Bash scripting</strong>, along with solid Linux administration skills.</p></li><li><p>Experience with cloud cost optimization and infrastructure efficiency practices.</p></li><li><p>Strong understanding of Git and managed development platforms such as GitHub, Bitbucket, or Azure DevOps.</p></li><li><p>Practical experience using <strong>AI-enabled development tools and workflows</strong> to accelerate engineering, automation, debugging, and operational tasks.</p></li><li><p>Experience orchestrating multi-step AI or agent-driven workflows, including selecting appropriate models, tools, and execution patterns.</p></li><li><p>Strong judgment when reviewing and hardening AI-assisted outputs, considering security, scalability, maintainability, reliability, and architectural fit.</p></li><li><p>Experience creating or maintaining prompts, evaluation frameworks, technical documentation, or operational context systems that improve engineering velocity and reliability.</p></li><li><p>Familiarity with automated evaluation and feedback loops for AI-enabled workflows.</p></li><li><p>Strong communication skills, with the ability to explain complex technical concepts, collaborate across teams, and maintain clear technical documentation.</p></li></ul><p><strong>Nice to have</strong></p><ul><li><p>Hands-on experience across multiple cloud providers, particularly AWS, GCP, and Azure.</p></li><li><p>Additional IaC experience with <strong>AWS CloudFormation or Ansible</strong>.</p></li><li><p>Experience with serverless technologies such as <strong>AWS Lambda, GCP Cloud Functions, or Azure Functions</strong>.</p></li><li><p>Familiarity with edge platforms and CDNs such as <strong>Fastly or AWS CloudFront</strong>.</p></li><li><p>Experience with developer platforms such as <strong>Vercel, Netlify, or WP Engine</strong>.</p></li><li><p>Familiarity with DevSecOps and observability tools such as <strong>Snyk, SonarQube, HashiCorp Vault, Datadog, New Relic, or AWS CloudWatch</strong>.</p></li><li><p>Experience configuring <strong>NGINX, Traefik, and load balancers</strong>.</p></li><li><p>Advanced cloud cost optimization and FinOps experience.</p></li><li><p>Experience in <strong>agency, consultancy, or enterprise SaaS environments</strong>.</p></li><li><p>Background in AI/LLMOps, including agent orchestration, model selection, prompt engineering, and evaluation frameworks.</p></li><li><p>AWS, GCP, or Azure certifications.</p></li></ul><h3><strong>What We Offer</strong></h3><ul><li><p>100% Remote Work: Enjoy the freedom to work from the location that helps you thrive. All it takes is a laptop and a reliable internet connection.</p></li><li><p>Highly Competitive USD Pay: Earn an excellent, market-leading compensation in USD, that goes beyond typical market offerings.</p></li><li><p>Paid Time Off: We value your well-being. Our paid time off policies ensure you have the chance to unwind and recharge when needed.</p></li><li><p>Work with Autonomy: Enjoy the freedom to manage your time as long as the work gets done. Focus on results, not the clock.</p></li><li><p>Work with Top American Companies: Grow your expertise working on innovative, high-impact projects with Industry-Leading U.S. Companies.</p></li></ul><h3><strong>Why You’ll Like Working Here</strong></h3><ul><li><p>A Culture That Values You: We prioritize well-being and work-life balance, offering engagement activities and fostering dynamic teams to ensure you thrive both personally and professionally.</p></li><li><p>Diverse, Global Network: Connect with over 600 professionals in 25+ countries, expand your network, and collaborate with a multicultural team from Latin America.</p></li><li><p>Team Up with Skilled Professionals: Join forces with senior talent. All of our team members are seasoned experts, ensuring you're working with the best in your field.</p></li></ul><p>Apply now!</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-devops-engineer-advertising-industry-truelogic</p>",
+      "posted_at": "2026-11-12T19:59:15.587+00:00",
       "is_translated": false,
       "original_language": null
     },
@@ -9391,101 +9501,6 @@
       "direct_apply": null,
       "description": "<h2>Department:</h2>\n<p>WDTech - I&#x26;O</p>\n<p>We are Walker &#x26; Dunlop. We are one of the largest providers of capital to the commercial real estate industry, enabling real estate owners and operators to bring their visions of communities — where people live, work, shop, and play — to life. We are committed to creating meaningful social, environmental, and economic change in our communities.</p>\n<h2>Department Overview</h2>\n<p>WDTech is Walker &#x26; Dunlop’s technology organization, bringing together product, design, engineering, data, infrastructure, information security, and operations to build, operate, and protect the technology that powers our business.<br>\n<br>\nYou will have the opportunity to apply modern technology and AI within one of the nation’s leading commercial real estate finance and advisory services firms. W&#x26;D’s market position, deep industry expertise, client relationships, and proprietary data provide a strong foundation for solving meaningful business problems, improving how we work and serve our clients, and creating new sources of competitive advantage.<br>\n<br>\nAcross WDTech, we combine business context with disciplined technology practices and a high standard for security, resilience, and quality. Teams have ownership of meaningful problems and collaborate across disciplines, make thoughtful decisions, and continuously improve the products, platforms, and capabilities that move W&#x26;D forward.</p>\n<h2>The Impact You Will Have</h2>\n<p>The Senior Cloud Services Engineer, II, will play a key role in designing, implementing, and supporting the cloud infrastructure that powers Walker &#x26; Dunlop’s technology platform. This position will help ensure the reliability, scalability, and security of our cloud environments while enabling engineering teams to build and deliver innovative, data-driven solutions.</p>\n<p>Working closely with Engineering, Security, and Infrastructure teams, the Senior Cloud Services Engineer, II, will help modernize and automate our cloud operations, implement infrastructure best practices, and support highly available systems that serve both internal users and external products. This role will directly impact the productivity of WDTech teams and the performance of the platforms that support collaboration, communication, monitoring, and data governance across the organization.</p>\n<h2>Primary Responsibilities</h2>\n<ul>\n<li>Design, implement, and maintain scalable, secure, and highly available cloud infrastructure supporting enterprise collaboration, monitoring, and security platforms including Microsoft Azure, Amazon Web Services, Microsoft Office 365, Microsoft Purview, Box, and Cisco Email Security (Ironport).</li>\n<li>Manage and optimize enterprise cloud services and SaaS platforms to ensure reliability, performance, and availability for internal users and business applications.</li>\n<li>Independently evaluate complex infrastructure challenges, recommend technical solutions, and implement improvements to cloud services, system performance, and operational efficiency.</li>\n<li>Automate the provisioning, configuration, and management of cloud resources as required.</li>\n<li>Utilize monitoring and observability solutions using tools such as SolarWinds Observability Self-Hosted to ensure proactive detection of system performance issues and service disruptions.</li>\n<li>Support enterprise data governance and compliance initiatives through the implementation and management of tools such as Microsoft Purview.</li>\n<li>Lead the investigation and resolution of complex technical incidents, conduct root cause analysis, and implement operational improvements to enhance system reliability and operational maturity.</li>\n<li>Partner with Information Security to ensure infrastructure platforms and SaaS services adhere to security policies, regulatory requirements, and enterprise governance standards.</li>\n<li>Utilize ServiceNow, Jira, and Confluence to manage work tracking, operational documentation, and knowledge sharing across engineering and infrastructure teams.</li>\n<li>Contribute to the development and enforcement of infrastructure standards, cloud architecture guidelines, and operational best practices across the organization.</li>\n<li>Provide mentorship and technical guidance to junior engineers and team members.</li>\n<li>Develop and maintain infrastructure architecture documentation, operational procedures, and system configurations, ensuring accuracy, consistency, and alignment with established standards.</li>\n<li>Be part of an on-call rotation for 24/7 support of the infrastructure.</li>\n<li>Perform other duties as assigned</li>\n</ul>\n<h2>Education and Experience</h2>\n<ul>\n<li>8+ years of progressively responsible experience in IT infrastructure, systems administration, cloud services, or related technical disciplines.</li>\n<li>Bachelor’s degree in computer science or related field, or equivalent practical experience.</li>\n<li>Experience in real-estate domain a plus.</li>\n</ul>\n<h2>Knowledge, Skills and Abilities</h2>\n<ul>\n<li>Strong understanding of Azure, AWS, and related cloud technologies.</li>\n<li>Ability to maintain documentation for infrastructure architecture, operational procedures, and system configurations.</li>\n<li>Strong understanding of cloud infrastructure architecture, networking, identity management, and enterprise SaaS integrations.</li>\n<li>Knowledge of data governance, compliance, and information lifecycle management practices within cloud environments.</li>\n<li>Knowledgeable in disaster recovery and business continuity principles.</li>\n<li>Understanding of information security certifications and audits.</li>\n<li>Excellent verbal and written communication skills.</li>\n<li>Ability to show ownership of your work, take on challenges and acknowledge growth opportunities, and demonstrate patience when learning new processes</li>\n<li>Courtesy, respect, and thoughtfulness in teaming with colleagues and other stakeholders</li>\n</ul>\n<p>This position has an estimated base salary of $145,000 - $160,000 plus a discretionary bonus. An employment offer is based on the applicant’s relevant work experience, applicable knowledge, skills, abilities, internal equity, and alignment with market data</p>\n<p><strong>What We Offer</strong> </p>\n<ul>\n<li>\n<p>The opportunity to join one of Fortune Magazine’s Great Places to Work winners</p>\n</li>\n<li>\n<p>Comprehensive benefit options* that have earned Walker &#x26; Dunlop the gold level of the 2025 Cigna Healthy Workforce Designation™, some of which include:<br>\n- Up to 83% subsidized medical payroll deductions<br>\n- Competitive dental and vision benefits</p>\n<h2>- 401(k) + match</h2>\n<p>- Pre-tax transit and commuting benefits<br>\n- A robust health and wellness program – earn cash rewards and gain access to resources that<br>\npromote health, engagement, and balance<br>\n- Paid maternity and parental leave, as well as other family paid leave programs<br>\n- Company-paid life, short and long-term disability insurance<br>\n- Health Savings Account and Healthcare and Dependent Care Flexible Spending</p>\n</li>\n<li>\n<h2>Career development opportunities</h2>\n</li>\n<li>\n<p>Empowerment and encouragement to give back – volunteer hours and donation matching</p>\n</li>\n</ul>\n<p>*Eligibility may vary based on average number of hours worked</p>\n<h2>Equal Employment Opportunity Statement</h2>\n<p>We are committed to equity in all steps of the recruitment and employment experience. We believe in equal access to opportunities in our workplace. We do not tolerate discrimination, including harassment, based on any characteristic protected by applicable law, such as race, color, national origin, religion, gender identity, sexual orientation, sex, age, disability, veteran or military status, and genetic information, or any other characteristic protected by applicable law. We strive to be a safe place to ask questions, build professional relationships, and develop careers.</p>\n<p><strong>SPAM</strong><br>\nPlease be wary of recruitment scams. An indication of a scam might be a request for sensitive or bank information at the time of application or emails coming from a non walkerdunlop.com email address. Please call us at 301.215.5500, if you have any concerns about information requested during or after the application process.</p>\n<h2>Fair Chance Hiring</h2>\n<p>Background checks, including any questions related to infractions, arrests, or conviction records, will not be conducted until after a conditional offer of employment has been accepted. We will consider for employment qualified applicants regardless of arrest and conviction records, in accordance with federal, state, and local laws.</p>\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-cloud-services-engineer-ii-walker-dunlop</p>",
       "posted_at": "2026-11-08T20:31:38+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "3d147764-4849-463e-9eef-198654abc88b",
-      "title": "Senior Salesforce Engineer",
-      "url": "https://remotejobs.org/remote-jobs/senior-salesforce-engineer-description-ciklum",
-      "apply_url": "https://remotejobs.org/remote-jobs/senior-salesforce-engineer-description-ciklum",
-      "company": {
-        "name": "Description Ciklum",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/ea6b4558c93ac868b409fc0fbcb7574da060c73bd99806c911333bb847114640.webp",
-        "website": null,
-        "url": "https://remotejobs.org/companies/description-ciklum"
-      },
-      "category": {
-        "name": "DevOps",
-        "slug": "devops"
-      },
-      "location": "Bulgaria",
-      "location_normalization": {
-        "raw": "Bulgaria",
-        "input": {},
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "BG"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [],
-        "evidence_ids": [
-          "source-location"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "BG"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": "senior",
-        "role_family": null,
-        "required_skills": [
-          "javascript"
-        ],
-        "mentioned_skills": [
-          "golang"
-        ],
-        "preferred_skills": [],
-        "experience_requirements": [
-          {
-            "text": "6+ years of hands-on experience as a Salesforce Developer & Administrator, specifically with Salesforce Service Cloud",
-            "maximum_years": null,
-            "minimum_years": 6,
-            "classification": "required"
-          }
-        ]
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": null,
-      "salary_period": "year",
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<p><strong>Ciklum</strong> is looking for a<strong> Senior Salesforce Engineer</strong> to join our team full-time in Bulgaria.</p>\n<p>We are a custom product engineering company that supports both multinational organizations and scaling startups to solve their most complex business challenges. With a global team of over 4,000 highly skilled developers, consultants, analysts and product owners, we engineer technology that redefines industries and shapes the way people live.</p>\n<h2>About the role:</h2>\n<p>As a Senior Salesforce Engineer, become a part of a cross-functional development team engineering experiences of tomorrow.</p>\n<p>The company is on an incredible journey to become the universal symbol of trust. As the world's largest independent consumer review platform, they bring consumers and businesses together to foster transparency and improvement. With over 300 million reviews and 64 million monthly active users, the work we do together has a massive global impact, helping millions of people make better choices every day. In this role, you will join the Go To Market department within the Technology organization. You will be pivotal in delivering large strategic projects and change requests across the Salesforce platform, supporting commercial, marketing, ops, and customer service teams. You will work as a key link with the business-wide team responsible for the entire company’s Salesforce ecosystem, working with a proactive approach to operational excellence, system architecture, code quality, and process automation.</p>\n<h2>Responsibilities:</h2>\n<ul>\n<li>Salesforce Development &#x26; Architecture: Design, develop, and implement custom Salesforce solutions using Apex, Visualforce, Lightning Web Components (LWC), and platform automation (Flows)</li>\n<li>Integrations &#x26; APIs: Build and maintain secure integrations between Salesforce and internal/external systems using REST, SOAP, and various API integration patterns</li>\n<li>Declarative &#x26; Automated Solutions: Develop and maintain complex Salesforce Flows and process automations, balancing programmatic capabilities with declarative best practices for optimal performance and scalable architecture</li>\n<li>Collaborative Engineering &#x26; Peer Review: Participate in code reviews, troubleshooting, unit testing, and quality assurance alongside the cross-functional GTM Tech team and broader Salesforce engineering ecosystem</li>\n<li>DevOps &#x26; Delivery: Apply change management via standard CI/CD pipelines, using version control tools (e.g., GitHub) and deployment workflows for smooth project delivery</li>\n<li>Documentation &#x26; Compliance: Maintain comprehensive technical documentation, system auditing evidence, and integration/customization processes</li>\n<li>Team Growth &#x26; Support: Collaborate closely with technical and non-technical stakeholders, provide support and guidance to junior team members/administrators, and contribute to an inclusive knowledge-sharing environment</li>\n</ul>\n<h2>Requirements:</h2>\n<ul>\n<li>We are looking for engineers with a strong background in Salesforce development and apassion for high-quality, scalable code</li>\n<li>Experience: 6+ years of hands-on experience as a Salesforce Developer &#x26; Administrator, specifically with Salesforce Service Cloud</li>\n<li>Core Declarative &#x26; Programmatic Skills: Expert proficiency in Apex, Visualforce, Lightning Web Components (LWC), SOQL/SOSL, and platform automation tools (Salesforce Flows)</li>\n<li>Web Fundamentals: Solid understanding of web technologies including HTML, CSS, and JavaScript</li>\n<li>Integrations &#x26; Security: Experience with Salesforce APIs (REST/SOAP, Bulk) and understanding of Salesforce security models (profiles, permission sets, sharing rules, roles)</li>\n<li>Quality &#x26; QA: Strong focus on unit testing, debugging, and familiarity with automated testing frameworks (e.g., Provar)</li>\n<li>DevOps &#x26; Developer Tools: Salesforce CLI, version control (GitHub), and CI/CD tools</li>\n</ul>\n<h2>Desirable:</h2>\n<ul>\n<li>Certifications: Advanced Administrator or Platform Developer, or System/Application Architect certifications are a strong plus</li>\n<li>Exposure to Salesforce Community Cloud (Experience Cloud) or other collaboration platforms</li>\n<li>Hands-on experience or familiarity with Agentforce</li>\n<li>Knowledge of highly distributed system architectures and integration architecture patterns</li>\n</ul>\n<h2>What’s in it for you?</h2>\n<ul>\n<li>Regular salary reviews based on performance</li>\n<li>Corporate events: webinars, offline parties, and meetups</li>\n<li>Internal Mobility Program</li>\n<li>Tailored education path (including full access to Udemy, certifications, etc.)</li>\n<li>25 paid days off: 20 business days of vacation per calendar year + 5 undocumented sick leave days</li>\n<li>Additional health insurance</li>\n<li>100% company-covered Multisport card, with discounts available for family members</li>\n</ul>\n<h2>About us:</h2>\n<p>At Ciklum, we are always exploring innovations, empowering each other to achieve more, and engineering solutions that matter. With us, you’ll work with cutting-edge technologies, contribute to impactful projects, and be part of a One Team culture that values collaboration and progress.</p>\n<p>Since expanding to Bulgaria in 2022, we’ve been building a fast-growing team that thrives on learning, collaboration, and innovation. Join us on this exciting journey and help shape the future of our delivery center.</p>\n<h2>Explore, empower, engineer with Ciklum!</h2>\n<p>Interested already? We would love to get to know you! Submit your application. We can’t wait to see you at Ciklum.</p>\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-salesforce-engineer-description-ciklum</p>",
-      "posted_at": "2026-11-08T20:29:38+00:00",
       "is_translated": false,
       "original_language": null
     },
