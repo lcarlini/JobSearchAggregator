@@ -1,7 +1,193 @@
 {
-  "generatedAt": "2026-11-18T15:14:52.369Z",
+  "generatedAt": "2026-11-18T23:59:45.646Z",
   "count": 150,
   "data": [
+    {
+      "id": "fbcced2e-180a-4d9c-b319-b1c9c92af61a",
+      "title": "Staff Software Development Engineer (Backend Dev - C/C++)",
+      "url": "https://remotejobs.org/remote-jobs/staff-software-development-engineer-backend-dev-cc-zscaler",
+      "apply_url": "https://remotejobs.org/remote-jobs/staff-software-development-engineer-backend-dev-cc-zscaler",
+      "company": {
+        "name": "Zscaler",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/249589fe09c0936337f826ee03adcfd15e01dbfbb51a5a88fe98f8d505029171.png",
+        "website": "https://zscaler.com",
+        "url": "https://remotejobs.org/companies/zscaler"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "Mohali, IND",
+      "location_normalization": {
+        "raw": "Mohali, IND",
+        "input": {},
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [
+          "mohali"
+        ],
+        "work_arrangement": "unknown",
+        "allowed_countries": [
+          "IN"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "hybrid",
+        "allowed_countries": [
+          "IN"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": "staff",
+        "role_family": null,
+        "required_skills": [],
+        "mentioned_skills": [
+          "cpp"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": [
+          {
+            "text": "5+ years experience in C programming and strong understanding of core principles",
+            "maximum_years": null,
+            "minimum_years": 5,
+            "classification": "mentioned"
+          }
+        ]
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "5295956007",
+      "direct_apply": null,
+      "description": "<p>Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange platform protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location. Distributed across 200+ public data centers globally and thousands of private sites at the edge, the SASE-based Zero Trust Exchange is the world’s largest in-line cloud security platform.</p>\n<p>We believe the future of work is Human + AI and are building an AI-native enterprise where human potential is amplified by machine intelligence to solve the world’s hardest security challenges. Driven by deep customer obsession, we are committed to the mission, outcome, and to each other. We bring these commitments to life through three core behaviors: ownership and collaboration, trust through outcomes and impact, and a challenge culture with ongoing feedback. Ready to make an impact at the company pioneering security transformation in the AI era? Join us at Zscaler.</p>\n<p><strong>Role</strong> </p>\n<p>We are looking for a Staff Software Development Engineer to join our team. This is a Hybrid role, reporting to the Director, Software Engineering in the Engineering department. In this position, you will serve as a core software development engineer, driving key engineering initiatives and taking ownership of designing, building, and maintaining high-performance system components.</p>\n<p><strong>What you’ll do (Role Expectations)</strong></p>\n<ul>\n<li>Develop and maintain software components using the C programming language</li>\n<li>Implement and optimize data structures for efficient problem-solving</li>\n<li>Work on Linux/FreeBSD-based systems, including basic configuration and scripting</li>\n<li>Collaborate with senior engineers to understand, debug, and resolve system and application-level issues</li>\n<li>Debug code using tools like GDB to identify and resolve issues in a timely manner</li>\n</ul>\n<p><strong>Who You Are (Success Profile)</strong></p>\n<ul>\n<li>You thrive in ambiguity and feel comfortable building the path forward, viewing dynamic environments as an opportunity to construct something meaningful.</li>\n<li>You act like an owner with a strong bias for action and integrity, seamlessly navigating between high-level strategy and hands-on execution.</li>\n<li>You are an energized problem-solver who actively seeks out complex challenges, knowing that tackling tough problems yields the highest impact.</li>\n<li>You are a high-trust collaborator who embraces ongoing, respectful candor and feedback to drive collective team success over individual achievement.</li>\n<li>You possess a dedicated growth mindset and continuously seek self-development and feedback to become a stronger partner and teammate.</li>\n</ul>\n<p><strong>What We’re Looking for (Minimum Qualifications)</strong></p>\n<ul>\n<li>Foundational understanding of AI/ML technologies and experience leveraging, securing, or positioning AI-driven solutions to optimize outcomes within your functional domain</li>\n<li>5+ years experience in C programming and strong understanding of core principles</li>\n<li>Hands-on experience in data structures (arrays, linked lists, stacks, and trees) and their applications</li>\n<li>Familiarity with operating system concepts such as process management, threading, and memory management</li>\n<li>Experience with GDB or other debugging tools for troubleshooting software errors</li>\n<li>Strong problem-solving skills with a keen attention to detail</li>\n</ul>\n<p><strong>What Will Make You Stand Out (Preferred Qualifications)</strong></p>\n<ul>\n<li>Proven ability to leverage AI technologies and workflows to drive measurable operational efficiency</li>\n<li>Knowledge of version control tools (Git)</li>\n<li>Familiarity with networking concepts and protocols</li>\n<li>BS/MS degree in computer science or related field</li>\n</ul>\n<p>#LI-SK3 </p>\n<p>#LI-HYBRID</p>\n<p>At Zscaler, we are committed to building a team that reflects the communities we serve and the customers we work with. We foster an inclusive environment that values all backgrounds and perspectives, emphasizing collaboration and belonging. Join us in our mission to make doing business seamless and secure.</p>\n<p>Our Benefits program is one of the most important ways we support our employees. Zscaler proudly offers comprehensive and inclusive benefits to meet the diverse needs of our employees and their families throughout their life stages, including:</p>\n<ul>\n<li>Various health plans</li>\n<li>Time off plans for vacation and sick time</li>\n<li>Parental leave options</li>\n<li>Retirement options</li>\n<li>Education reimbursement</li>\n<li>In-office perks, and more!</li>\n</ul>\n<p>Learn more about Zscaler's hybrid working model and benefits <a href=\"https://www.zscaler.com/candidate-resource-hub\">here</a>.</p>\n<p>By applying for this role, you adhere to applicable laws, regulations, and Zscaler policies, including those related to security and privacy standards and guidelines.</p>\n<p>Zscaler is committed to providing equal employment opportunities to all individuals. We strive to create a workplace where employees are treated with respect and have the chance to succeed. All qualified applicants will be considered for employment without regard to race, color, religion, sex (including pregnancy or related medical conditions), age, national origin, sexual orientation, gender identity or expression, genetic information, disability status, protected veteran status, or any other characteristic protected by federal, state, or local laws. <em>See more information by clicking on the </em><a href=\"https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf\"><em>Know Your Rights: Workplace Discrimination is Illegal </em></a><em>link.</em></p>\n<p>Pay Transparency</p>\n<p>Zscaler complies with all applicable federal, state, and local pay transparency rules.</p>\n<p>Zscaler is committed to providing reasonable support (called accommodations or adjustments) in our recruiting processes for candidates who are differently abled, have long term conditions, mental health conditions or sincerely held religious beliefs, or who are neurodivergent or require pregnancy-related support.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/staff-software-development-engineer-backend-dev-cc-zscaler</p>",
+      "posted_at": "2026-11-18T08:44:33+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "920568c1-fd03-4f8e-8a15-0119c780865e",
+      "title": "Staff Software Development Engineer",
+      "url": "https://remotejobs.org/remote-jobs/staff-software-development-engineer-zscaler-b2fb0193644a47cda5b04cf275f0ef61",
+      "apply_url": "https://remotejobs.org/remote-jobs/staff-software-development-engineer-zscaler-b2fb0193644a47cda5b04cf275f0ef61",
+      "company": {
+        "name": "Zscaler",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/249589fe09c0936337f826ee03adcfd15e01dbfbb51a5a88fe98f8d505029171.png",
+        "website": "https://zscaler.com",
+        "url": "https://remotejobs.org/companies/zscaler"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "Bangalore, IND",
+      "location_normalization": {
+        "raw": "Bangalore, IND",
+        "input": {},
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [
+          "bangalore"
+        ],
+        "work_arrangement": "unknown",
+        "allowed_countries": [
+          "IN"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": {
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "applicant-location/1",
+        "timezones": [],
+        "conditions": [],
+        "unresolved": [],
+        "evidence_ids": [
+          "source-location"
+        ],
+        "allowed_regions": [],
+        "work_arrangement": "hybrid",
+        "allowed_countries": [
+          "IN"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": [],
+        "worldwide_permission_verified": false
+      },
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": "staff",
+        "role_family": null,
+        "required_skills": [],
+        "mentioned_skills": [
+          "golang",
+          "java",
+          "python",
+          "terraform"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": []
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "5279068007",
+      "direct_apply": null,
+      "description": "<p>Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange platform protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location. Distributed across 200+ public data centers globally and thousands of private sites at the edge, the SASE-based Zero Trust Exchange is the world’s largest in-line cloud security platform.</p>\n<p>We believe the future of work is Human + AI and are building an AI-native enterprise where human potential is amplified by machine intelligence to solve the world’s hardest security challenges. Driven by deep customer obsession, we are committed to the mission, outcome, and to each other. We bring these commitments to life through three core behaviors: ownership and collaboration, trust through outcomes and impact, and a challenge culture with ongoing feedback. Ready to make an impact at the company pioneering security transformation in the AI era? Join us at Zscaler.</p>\n<p><strong>Role</strong></p>\n<p>We are looking for a Staff Engineer to join our team. This is a Hybrid role, reporting to the Senior Manager, Software Engineering in the Cloud Platform Services department. As a passionate engineer you will drive the architecture, automation, and reliability of our core infrastructure and cloud platform solutions. In this role, you will work closely with the Engineering Manager and fellow senior engineers to design robust distributed systems, enforce secure software supply chains, and shape our long-term platform roadmap.</p>\n<p><strong>What you’ll do (Role Expectations)</strong></p>\n<ul>\n<li>Design, implement, and scale robust microservices, distributed systems, and cloud infrastructure using modern Infrastructure as Code (IaC) tooling</li>\n<li>Build and maintain high-availability platform services and automation tools utilizing Go, Python, and Java</li>\n<li>Champion secure container build practices and integrate vulnerability management and compliance tools across our infrastructure and application layers</li>\n<li>Own production stability by participating in follow-the-sun on-call rotations, leading incident triage, and driving deep root cause analyses (RCA)</li>\n<li>Collaborate across engineering teams to deliver seamless infrastructure solutions, self-service provisioning, and automated continuous delivery pipelines.</li>\n</ul>\n<p><strong>Who You Are (Success Profile)</strong></p>\n<ul>\n<li>You thrive in ambiguity. You're comfortable building the path as you walk it. You thrive in a dynamic environment, seeing ambiguity not as a hindrance, but as the raw material to build something meaningful.</li>\n<li>You act like an owner. Your passion for the mission fuels your bias for action. You operate with integrity because you genuinely care about the outcome. True ownership involves leveraging dynamic range: the ability to navigate seamlessly between high-level strategy and hands-on execution.</li>\n<li>You are a problem-solver. You love running towards the challenges because you are laser-focused on finding the solution, knowing that solving the hard problems delivers the biggest impact.</li>\n<li>You are a high-trust collaborator. You are ambitious for the team, not just yourself. You embrace our challenge culture by giving and receiving ongoing feedback—knowing that candor delivered with clarity and respect is the truest form of teamwork and the fastest way to earn trust.</li>\n<li>You are a learner. You have a true growth mindset and are obsessed with your own development, actively seeking feedback to become a better partner and a stronger teammate. You love what you do and you do it with purpose.</li>\n</ul>\n<p><strong>What We’re Looking for (Minimum Qualifications)</strong></p>\n<ul>\n<li>Foundational understanding of AI/ML technologies and experience leveraging, securing, or positioning AI-driven solutions to optimize outcomes within your functional domain</li>\n<li>5+ years of hands-on software engineering experience specializing in infrastructure, distributed systems, and platform engineering, with expert-level proficiency in Go and Java/Python for building production-grade microservices and backend platform components</li>\n<li>Extensive experience with Infrastructure as Code (IaC) (e.g., Terraform, Crossplane) and orchestrating containerized workloads in cloud environments</li>\n<li>Solid operational background in incident response, production troubleshooting, and observability (e.g., Prometheus, Grafana, OpenTelemetry)</li>\n<li>Proven experience building secure, optimized OCI container images alongside familiarity with container security and hardening tools (e.g., Falco, Trivy, Wazuh)</li>\n</ul>\n<p><strong>What Will Make You Stand Out (Preferred Qualifications)</strong></p>\n<ul>\n<li>Experience leveraging LLMs or AI code-assistance platforms to accelerate distributed systems development, code refactoring, and automated testing pipelines</li>\n<li>Strong \"automation-first\" mindset with experience in GitOps workflows and continuous delivery engines (e.g., Argo CD, Flux CD), replacing manual operational toil with declarative, self-healing platform services</li>\n<li>Deep networking and distributed systems expertise, including service mesh implementations (e.g., Istio, Linkerd) and multi-region fault domains</li>\n</ul>\n<p>#LI-RM6 #LI-Hybrid</p>\n<p>At Zscaler, we are committed to building a team that reflects the communities we serve and the customers we work with. We foster an inclusive environment that values all backgrounds and perspectives, emphasizing collaboration and belonging. Join us in our mission to make doing business seamless and secure.</p>\n<p>Our Benefits program is one of the most important ways we support our employees. Zscaler proudly offers comprehensive and inclusive benefits to meet the diverse needs of our employees and their families throughout their life stages, including:</p>\n<ul>\n<li>Various health plans</li>\n<li>Time off plans for vacation and sick time</li>\n<li>Parental leave options</li>\n<li>Retirement options</li>\n<li>Education reimbursement</li>\n<li>In-office perks, and more!</li>\n</ul>\n<p>Learn more about Zscaler's hybrid working model and benefits <a href=\"https://www.zscaler.com/candidate-resource-hub\">here</a>.</p>\n<p>By applying for this role, you adhere to applicable laws, regulations, and Zscaler policies, including those related to security and privacy standards and guidelines.</p>\n<p>Zscaler is committed to providing equal employment opportunities to all individuals. We strive to create a workplace where employees are treated with respect and have the chance to succeed. All qualified applicants will be considered for employment without regard to race, color, religion, sex (including pregnancy or related medical conditions), age, national origin, sexual orientation, gender identity or expression, genetic information, disability status, protected veteran status, or any other characteristic protected by federal, state, or local laws. <em>See more information by clicking on the </em><a href=\"https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf\"><em>Know Your Rights: Workplace Discrimination is Illegal </em></a><em>link.</em></p>\n<p>Pay Transparency</p>\n<p>Zscaler complies with all applicable federal, state, and local pay transparency rules.</p>\n<p>Zscaler is committed to providing reasonable support (called accommodations or adjustments) in our recruiting processes for candidates who are differently abled, have long term conditions, mental health conditions or sincerely held religious beliefs, or who are neurodivergent or require pregnancy-related support.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/staff-software-development-engineer-zscaler-b2fb0193644a47cda5b04cf275f0ef61</p>",
+      "posted_at": "2026-11-18T08:39:50+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
     {
       "id": "44079984-fd92-4b71-b750-8f04fa92338b",
       "title": "Senior Staff Software Development Engineer",
@@ -4707,183 +4893,6 @@
       "original_language": null
     },
     {
-      "id": "f352a7a2-82bc-4348-9e96-d4eb67dcc848",
-      "title": "Senior Solution Architect",
-      "url": "https://remotejobs.org/remote-jobs/senior-solution-architect-salesforce-dc209bde5e5949bba514f0196bf36cd1",
-      "apply_url": "https://remotejobs.org/remote-jobs/senior-solution-architect-salesforce-dc209bde5e5949bba514f0196bf36cd1",
-      "company": {
-        "name": "Salesforce",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/dfc73ba6c5b62f28bb42526a20d9282ba3e577be23947201d6980531709cffb6.jpeg",
-        "website": "https://salesforce.com",
-        "url": "https://remotejobs.org/companies/salesforce"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "Brazil",
-      "location_normalization": {
-        "raw": "Brazil",
-        "input": {},
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "BR"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [],
-        "evidence_ids": [
-          "source-location"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "BR"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": "senior",
-        "role_family": null,
-        "required_skills": [],
-        "mentioned_skills": [
-          "sql"
-        ],
-        "preferred_skills": [],
-        "experience_requirements": [
-          {
-            "text": "8+ years of experience in CRM, Marketing Automation, or enterprise software implementation, with at least 3-5 years acting specifically in a Solution Architect or Enterprise Architect capacity",
-            "maximum_years": null,
-            "minimum_years": 8,
-            "classification": "mentioned"
-          }
-        ]
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": null,
-      "salary_period": "year",
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<p><em>To get the best candidate experience, please consider applying for a maximum of 3 roles within 12 months to ensure you are not duplicating efforts.</em></p><h2>Job Category</h2><p>Customer Success</p><h2>Job Details</h2><h2><strong>About Salesforce</strong></h2><p>Salesforce is the #1 AI CRM, where humans with agents drive customer success together. Here, ambition meets action. Tech meets trust. And innovation isn’t a buzzword — it’s a way of life. The world of work as we know it is changing and we're looking for Trailblazers who are passionate about bettering business and the world through AI, driving innovation, and keeping Salesforce's core values at the heart of it all.</p><p>Ready to level-up your career at the company leading workforce transformation in the agentic era? You’re in the right place! Agentforce is the future of AI, and you are the future of Salesforce.</p><h2>Key Responsibilities:</h2><p><br><br>Architectural Leadership: Act as the lead Senior Solution Architect on complex, enterprise-level Salesforce projects, designing scalable, robust, and future-proof end-to-end solutions.<br>Strategic Discovery &#x26; Design: Drive high-level strategic discovery sessions, executive workshops, and blueprinting to capture complex business requirements and translate them into comprehensive architectural designs.<br>Solution Strategy &#x26; Oversight: Oversee the design and deployment of solutions across the Salesforce MarTech stack, ensuring alignment with enterprise architecture standards and business KPIs.<br>Integration Architecture: Define the integration strategy and architecture between the Salesforce ecosystem and external enterprise systems. Design data models and API-led connectivity approaches, guiding technical delivery teams during implementation.<br>Executive Stakeholder Management: Act as a strategic partner and trusted advisor to senior business and IT leaders (C-level, VPs, Directors), translating high-level business goals into actionable technology roadmaps.<br>Enterprise Governance &#x26; Mentorship: Establish Centers of Excellence (CoE), architectural guidelines, release management strategies, and compliance frameworks. Mentor and guide mid-level architects and technical delivery teams.<br><br></p><h2>Client Engagement:</h2><p><br><br>Strategic Partnership: Partner with senior client stakeholders to define long-term marketing technology roadmaps and ensure the delivery of high-quality solutions aligned with their broader business vision.<br>Complex Communication: Communicate highly complex, multi-cloud architectural concepts in a clear, compelling manner to non-technical business leaders and technical teams alike.<br>Business Growth &#x26; Success: Build deep, trusted relationships with clients, acting as an escalation point for architectural challenges and identifying opportunities for platform expansion.<br><br><br><br>Technical &#x26; Platform Expertise:<br><br><br><br>Core Platform Experience: Deep architectural expertise and hands-on solution design experience across the following Salesforce platforms: Salesforce Marketing Cloud, Marketing Cloud Personalization, Data Cloud, Loyalty Management, and Intelligence (formerly Datorama).<br>Cross-Cloud Architecture: Proven track record of designing high-scale, multi-org, and cross-cloud solutions (e.g., B2C architecture connecting SFMC, Data Cloud, and Service/Commerce Cloud).<br>Architecture Optimization: Lead platform audits, architectural health checks, and technical debt resolution strategies. Provide architectural oversight to ensure solutions are highly performant and scalable.<br>Technical Oversight: Strong conceptual understanding of programmatic capabilities (AMPscript, SSJS, APIs, SQL) and custom ETL solutions.<br><br><br><br>Language Skills:<br><br><br><br>English: Advanced/Fluent proficiency required for engaging with global stakeholders, reading technical documentation, and delivering presentations.<br>Spanish: Advanced/Fluent proficiency required to support regional LATAM projects and communicate effectively with cross-border teams and clients.<br><br><br><br>Education and Experience:<br><br><br><br>8+ years of experience in CRM, Marketing Automation, or enterprise software implementation, with at least 3-5 years acting specifically in a Solution Architect or Enterprise Architect capacity.<br><br><br><br>Preferred Qualifications:<br><br><br><br>Advanced Salesforce certifications (e.g., Marketing Cloud Consultant, Data Cloud Consultant, Personalization Accredited Professional).<br>Proven experience in enterprise-level Agile delivery methodologies and managing multi-stream projects.<br>Knowledge of global data security and privacy regulations (e.g., GDPR, CCPA, LGPD) applied to marketing architectures.</p><h2>Unleash Your Potential</h2><p>When you join Salesforce, you’ll be limitless in all areas of your life. Our benefits and resources support you to find balance and<em>be your best</em>, and our AI agents accelerate your impact so you can<em>do your best</em>. Together, we’ll bring the power of Agentforce to organizations of all sizes and deliver amazing experiences that customers love. Apply today to not only shape the future — but to redefine what’s possible — for yourself, for AI, and the world.</p><h2>Accommodations</h2><p>If you need a reasonable accommodation during the application or the recruiting process, please submit a request via this Accommodations Request Form.</p><p>Please note that Salesforce uses artificial intelligence (AI) tools to help our recruiters assess and evaluate candidates’ resumes and qualifications throughout the recruiting process. Humans will always make any candidate selection and hiring decisions. Please see our Candidate Privacy Statement for more information about how we use your personal data and your rights, including with regard to use of AI tools and opt out options.</p><h2>Posting Statement</h2><p>Salesforce is an equal opportunity employer and maintains a policy of non-discrimination with all employees and applicants for employment. What does that mean exactly? It means that at Salesforce, we believe in equality for all. And we believe we can lead the path to equality in part by creating a workplace that’s inclusive, and free from discrimination. Know your rights: workplace discrimination is illegal. Any employee or potential employee will be assessed on the basis of merit, competence and qualifications – without regard to race, religion, color, national origin, sex, sexual orientation, gender expression or identity, transgender status, age, disability, veteran or marital status, political viewpoint, or other classifications protected by law. This policy applies to current and prospective employees, no matter where they are in their Salesforce employment journey. It also applies to recruiting, hiring, job assignment, compensation, promotion, benefits, training, assessment of job performance, discipline, termination, and everything in between. Recruiting, hiring, and promotion decisions at Salesforce are fair and based on merit. The same goes for compensation, benefits, promotions, transfers, reduction in workforce, recall, training, and education.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-solution-architect-salesforce-dc209bde5e5949bba514f0196bf36cd1</p>",
-      "posted_at": "2026-11-15T12:28:04+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "2eeaf397-a7bb-4b59-88a9-4cef988b3256",
-      "title": "JD Edwards Technical Functional Solution Architect",
-      "url": "https://remotejobs.org/remote-jobs/jd-edwards-technical-functional-solution-architect-erp-suites",
-      "apply_url": "https://remotejobs.org/remote-jobs/jd-edwards-technical-functional-solution-architect-erp-suites",
-      "company": {
-        "name": "ERP Suites",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/8fe937f515ab14c196b85d3e03231b019f24549732aab9e5d0f40a1662bb349b.png",
-        "website": null,
-        "url": "https://remotejobs.org/companies/erp-suites"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "United States",
-      "location_normalization": {
-        "raw": "United States",
-        "input": {},
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [],
-        "evidence_ids": [
-          "source-location"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "unknown",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": null,
-        "role_family": null,
-        "required_skills": [],
-        "mentioned_skills": [],
-        "preferred_skills": [],
-        "experience_requirements": []
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": "USD",
-      "salary_period": "year",
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<h2>\n<br>ERP Suites is seeking Solution Architects to design and lead the technical solutions behind our client engagements. <br>In this technical role, you will be responsible for the architecture of JD Edwards solutions, how systems are configured, extended, integrated, and deployed, and for ensuring those designs are implemented correctly through delivery.<br>Success in this role requires strong technical and functional knowledge. You must understand the business processes and the technology behind them so you can create, review, explain, and defend effective solutions.<br>Solution Architects at ERP Suites own the solution lifecycle from discovery and requirements definition through architecture design, proposal development, technical design oversight, implementation guidance, and post-project review. <br><br><strong>Key Responsibilities</strong><br><strong>Solution Architecture &#x26; Design</strong>\n</h2><ul>\n<li>Lead discovery sessions to understand client business processes, objectives, challenges, and technical requirements.</li>\n<li>Translate business needs into scalable, practical solution architectures and functional designs.</li>\n<li>Design integrated solutions across enterprise platforms, including JD Edwards, Salesforce, AI technologies, and related business applications.</li>\n<li>Evaluate solution alternatives by considering business value, implementation complexity, risk, scalability, and long-term maintainability.</li>\n<li>Produce solution architecture documents, workflow diagrams, technical specifications, and implementation roadmaps.</li>\n</ul><p><strong>Client Engagement &#x26; Presales</strong></p><ul>\n<li>Serve as a trusted advisor during presales engagements, helping clients identify the best solution for their business needs.</li>\n<li>Facilitate discovery workshops and requirements sessions with executives, business users, and technical stakeholders.</li>\n<li>Present solution recommendations with clear business and technical justification.</li>\n<li>Support proposal development, project estimation, and implementation planning.</li>\n<li>Set realistic expectations regarding project scope, timelines, costs, and delivery approach.</li>\n</ul><p><strong>Delivery Leadership</strong></p><ul>\n<li>Maintain architectural ownership throughout project delivery to ensure solutions are implemented as designed.</li>\n<li>Collaborate with project managers, consultants, developers, and client teams to resolve design questions and implementation challenges.</li>\n<li>Identify risks, technical constraints, and scope changes early, recommending practical solutions when adjustments are needed.</li>\n<li>Review implementation progress to ensure alignment with architectural standards and client objectives.</li>\n<li>Participate in post-implementation reviews and continuously improve delivery methodologies and best practices.</li>\n</ul><p><strong>About You</strong><br>You enjoy solving business problems just as much as technical ones. You're naturally curious, ask thoughtful questions, and quickly understand how technology can improve business operations.<br>You communicate effectively with both executives and technical teams, translating complex concepts into language that builds confidence and trust. You take ownership of your work, make informed decisions, and remain engaged throughout delivery to ensure your solutions achieve the intended outcomes.<br>You thrive in consulting environments where every client presents a unique challenge and where your ability to think strategically, collaborate effectively, and adapt quickly makes a meaningful impact.<br><strong>Qualifications:</strong></p><ul>\n<li>Demonstrated experience in one or more JD Edwards functional areas, including supply chain, distribution, finance, or accounting. </li>\n<li>Working knowledge of JD Edwards technical architecture.</li>\n<li>Ability to translate business requirements into clear technical specifications and solution designs that development teams can use to build and implement solutions.</li>\n<li>Experience leading discovery sessions and gathering requirements from business and technical stakeholders.</li>\n<li>Ability to estimate implementation effort, identify technical risks, and recommend practical delivery approaches.</li>\n<li>Strong analytical and problem-solving skills, including the ability to understand complex business processes and translate them into effective system designs.</li>\n<li>Excellent written and verbal communication skills, with the ability to communicate effectively with technical and non-technical audiences and influence decisions through collaboration.</li>\n</ul><p>*JD Edwards is the foundation of our practice and remains our preferred experience. However, we will consider candidates with comparable technical solution architecture experience in another ERP platform: such as Oracle ERP Cloud, SAP, Microsoft Dynamics, Infor, or NetSuite.<br><strong>Preferred Qualifications</strong></p><ul>\n<li>Consulting or professional services experience supporting multiple concurrent client engagements.</li>\n<li>Experience across both presales solution architecture and post-sales implementation.</li>\n<li>Experience with JD Edwards Orchestrator, AIS, or automation and low-code extension frameworks.</li>\n<li>Experience with JD Edwards upgrades, code-current programs, retrofit strategy, or cloud migrations.</li>\n<li>Familiarity with cloud platforms and enterprise application infrastructure, including Oracle Cloud Infrastructure.</li>\n<li>Experience architecting solutions that combine JD Edwards with adjacent platforms such as Salesforce, Oracle ERP Cloud, or reporting and analytics tools.</li>\n<li>Experience applying AI technologies, automation platforms, or modern integration frameworks within an enterprise environment.</li>\n<li>Certifications in Oracle, JD Edwards, cloud platforms, or enterprise architecture. ERP Suites supports professional development and will contribute toward relevant certifications for the right candidate.</li>\n</ul><p><strong>Why ERP Suites</strong><br><br>At ERP Suites, Solution Architects do more than design systems—they help shape client strategy and influence business outcomes. As a boutique consulting firm specializing in JD Edwards and enterprise technology solutions, we empower our architects to take ownership from initial discovery through successful delivery.<br>You'll work directly with clients, collaborate with experienced consultants and technical experts, and have the opportunity to make a visible impact across a wide variety of industries and technologies. If you're looking for a role where your expertise influences both business decisions and technical execution, ERP Suites offers an environment where you can grow, lead, and make a difference.<br>ERP Suites is an Equal Opportunity Employer. We celebrate diversity and are committed to creating an inclusive workplace where everyone can thrive.<br><br><br><strong>Company:</strong><br><br>At ERP Suites, our focus is on helping our customers realize IT’s potential. Our comprehensive ERP solutions enable them to streamline and scale their IT products and processes. And this leads directly to improved efficiency and increased margins. We are a proud Oracle Gold Partner and champion of proactive JD Edwards management and custom product enhancements.<br>ERP Suites provides technical consulting, cloud services, managed services, and digital transformation solutions for some of America’s top companies. We build secure connections, improve performance, automate workloads and give them mobility. In other words, we help them stay on top.<br>We deliver multi-functional value through cloud services, digital transformation, ERP consulting services, ERP managed services, and software development. <br><br><strong>Core Values:</strong></p><ul>\n<li>Make Customers Successful</li>\n<li>Be An Advisor</li>\n<li>Be a teacher</li>\n<li>Be a Coach</li>\n<li>Have Fun</li>\n<li>Do the Right Things for the ERP Suites Family</li>\n<li>Adapt Quickly to Changing Roles and Environments</li>\n</ul><p><br><strong>This is Where IT Change Starts.</strong></p><ul>\n<li>With questions.</li>\n<li>With problems that need to be solved.</li>\n<li>With business needs, both immediate and long term.</li>\n<li>Because technology and its impact on business isn’t getting any simpler.</li>\n<li>That’s why we exist.</li>\n<li>To answer the tough questions.</li>\n<li>To find a solution to every problem—no matter the size or scope.</li>\n<li>And to help companies not just identify IT’s potential, but realize IT</li>\n</ul><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/jd-edwards-technical-functional-solution-architect-erp-suites</p>",
-      "posted_at": "2026-11-15T12:24:58+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
       "id": "07635cd3-e1b0-4768-b941-e0ff478679c9",
       "title": "Staff DevOps Engineer",
       "url": "https://remotejobs.org/remote-jobs/staff-devops-engineer-zscaler",
@@ -4927,9 +4936,8 @@
         "timezones": [],
         "conditions": [],
         "unresolved": [
-          "Mandatory U.S. citizenship requirement (description:22) is an eligibility restriction that cannot be represented by the available claim kinds.",
-          "Unresolved area: description:4",
-          "Work location requirement: hybrid role based in Bangalore, India 3 days a week (description:4); the city-level requirement cannot be approximated by country or subdivision areas."
+          "City-based work location requirement: the role is based in Bangalore, India 3 days a week (hybrid), which cannot be represented as a typed country or subdivision area.",
+          "Unresolved area: description:4, location:1"
         ],
         "evidence_ids": [
           "c2",
@@ -4975,7 +4983,7 @@
       ],
       "employer_job_id": "5270971007",
       "direct_apply": null,
-      "description": "<p>Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange platform protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location. Distributed across 200+ public data centers globally and thousands of private sites at the edge, the SASE-based Zero Trust Exchange is the world’s largest in-line cloud security platform.</p>\n<p>We believe the future of work is Human + AI and are building an AI-native enterprise where human potential is amplified by machine intelligence to solve the world’s hardest security challenges. Driven by deep customer obsession, we are committed to the mission, outcome, and to each other. We bring these commitments to life through three core behaviors: ownership and collaboration, trust through outcomes and impact, and a challenge culture with ongoing feedback. Ready to make an impact at the company pioneering security transformation in the AI era? Join us at Zscaler.</p>\n<p><strong>Role</strong> </p>\n<p>We are looking for a Staff DevOps Engineer to join our team. This is a hybrid role based in Bangalore, India 3 days a week, reporting to the Senior Engineering Manager in the Identity team department. As a Staff DevOps Engineer, you will focus on managing development and infrastructure demands, steering systems architecture, maintaining support and security, deploying systems, and supporting peer developers.</p>\n<p><strong>What you’ll do (Role Expectations)</strong></p>\n<ul>\n<li>Provision Zscaler services on public cloud (AWS, GCP) using Kubernetes, helm and terraform</li>\n<li>Ensure security compliance of service deployment</li>\n<li>Work with the team to control costs and optimize cloud utilization</li>\n<li>Design and implement CI/CD pipelines</li>\n<li>Evangelize and instruct Software Engineers in DevOps philosophy</li>\n</ul>\n<p><strong>Who You Are (Success Profile)</strong></p>\n<ul>\n<li>You thrive in ambiguity. You're comfortable building the path as you walk it. You thrive in a dynamic environment, seeing ambiguity not as a hindrance, but as the raw material to build something meaningful.</li>\n<li>You act like an owner. Your passion for the mission fuels your bias for action. You operate with integrity because you genuinely care about the outcome. True ownership involves leveraging dynamic range: the ability to navigate seamlessly between high-level strategy and hands-on execution.</li>\n<li>You are a problem-solver. You love running towards the challenges because you are laser-focused on finding the solution, knowing that solving the hard problems delivers the biggest impact.</li>\n<li>You are a high-trust collaborator. You are ambitious for the team, not just yourself. You embrace our challenge culture by giving and receiving ongoing feedback—knowing that candor delivered with clarity and respect is the truest form of teamwork and the fastest way to earn trust.</li>\n<li>You are a learner. You have a true growth mindset and are obsessed with your own development, actively seeking feedback to become a better partner and a stronger teammate. You love what you do and you do it with purpose.</li>\n</ul>\n<p><strong>What We’re Looking for (Minimum Qualifications)</strong></p>\n<ul>\n<li>Foundational understanding of AI/ML technologies and experience leveraging, securing, or positioning AI-driven solutions to optimize outcomes within your functional domain</li>\n<li>Experience hosting 24x7 services in public cloud providers AWS/GCP(AWS is must) with automation and orchestration using tools such as Terraform, Cloudformation, or Ansible</li>\n<li>Experience managing and deploying Kubernetes resources using Helm charts. Proficiency with gitlab (or similar tooling), or similar CI/CD tools</li>\n<li>Working knowledge of Databases &#x26; SQL (Postgres preferred) and experience with cloud-based architecture building blocks like message queuing, in-memory caches, and load balancing</li>\n<li>Bachelor’s degree in Computer Science and Engineering, and U.S. Citizenship (required due to the secure nature of the work).</li>\n</ul>\n<p><strong>What Will Make You Stand Out (Preferred Qualifications)</strong></p>\n<ul>\n<li>Experience implementing AIOps, AI-driven predictive scaling, or automated anomaly detection to optimize cloud infrastructure performance and reliability</li>\n<li>Familiarity with logging and monitoring technologies such as Prometheus, Grafana, Alert manager</li>\n<li>Advanced experience running highly available cloud services, with a proven track record of optimizing Zscaler service deployments and cloud cost utilization </li>\n</ul>\n<p>#Hybrid #LISU1</p>\n<p>At Zscaler, we are committed to building a team that reflects the communities we serve and the customers we work with. We foster an inclusive environment that values all backgrounds and perspectives, emphasizing collaboration and belonging. Join us in our mission to make doing business seamless and secure.</p>\n<p>Our Benefits program is one of the most important ways we support our employees. Zscaler proudly offers comprehensive and inclusive benefits to meet the diverse needs of our employees and their families throughout their life stages, including:</p>\n<ul>\n<li>Various health plans</li>\n<li>Time off plans for vacation and sick time</li>\n<li>Parental leave options</li>\n<li>Retirement options</li>\n<li>Education reimbursement</li>\n<li>In-office perks, and more!</li>\n</ul>\n<p>Learn more about Zscaler's hybrid working model and benefits <a href=\"https://www.zscaler.com/candidate-resource-hub\">here</a>.</p>\n<p>By applying for this role, you adhere to applicable laws, regulations, and Zscaler policies, including those related to security and privacy standards and guidelines.</p>\n<p>Zscaler is committed to providing equal employment opportunities to all individuals. We strive to create a workplace where employees are treated with respect and have the chance to succeed. All qualified applicants will be considered for employment without regard to race, color, religion, sex (including pregnancy or related medical conditions), age, national origin, sexual orientation, gender identity or expression, genetic information, disability status, protected veteran status, or any other characteristic protected by federal, state, or local laws. <em>See more information by clicking on the </em><a href=\"https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf\"><em>Know Your Rights: Workplace Discrimination is Illegal </em></a><em>link.</em></p>\n<p>Pay Transparency</p>\n<p>Zscaler complies with all applicable federal, state, and local pay transparency rules.</p>\n<p>Zscaler is committed to providing reasonable support (called accommodations or adjustments) in our recruiting processes for candidates who are differently abled, have long term conditions, mental health conditions or sincerely held religious beliefs, or who are neurodivergent or require pregnancy-related support.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/staff-devops-engineer-zscaler</p>",
+      "description": "<p>Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange platform protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location. Distributed across 200+ public data centers globally and thousands of private sites at the edge, the SASE-based Zero Trust Exchange is the world’s largest in-line cloud security platform.</p>\n<p>We believe the future of work is Human + AI and are building an AI-native enterprise where human potential is amplified by machine intelligence to solve the world’s hardest security challenges. Driven by deep customer obsession, we are committed to the mission, outcome, and to each other. We bring these commitments to life through three core behaviors: ownership and collaboration, trust through outcomes and impact, and a challenge culture with ongoing feedback. Ready to make an impact at the company pioneering security transformation in the AI era? Join us at Zscaler.</p>\n<p><strong>Role</strong> </p>\n<p>We are looking for a Staff DevOps Engineer to join our team. This is a hybrid role based in Bangalore, India 3 days a week, reporting to the Senior Engineering Manager in the Identity team department. As a Staff DevOps Engineer, you will focus on managing development and infrastructure demands, steering systems architecture, maintaining support and security, deploying systems, and supporting peer developers.</p>\n<p><strong>What you’ll do (Role Expectations)</strong></p>\n<ul>\n<li>Provision Zscaler services on public cloud (AWS, GCP) using Kubernetes, helm and terraform</li>\n<li>Ensure security compliance of service deployment</li>\n<li>Work with the team to control costs and optimize cloud utilization</li>\n<li>Design and implement CI/CD pipelines</li>\n<li>Evangelize and instruct Software Engineers in DevOps philosophy</li>\n</ul>\n<p><strong>Who You Are (Success Profile)</strong></p>\n<ul>\n<li>You thrive in ambiguity. You're comfortable building the path as you walk it. You thrive in a dynamic environment, seeing ambiguity not as a hindrance, but as the raw material to build something meaningful.</li>\n<li>You act like an owner. Your passion for the mission fuels your bias for action. You operate with integrity because you genuinely care about the outcome. True ownership involves leveraging dynamic range: the ability to navigate seamlessly between high-level strategy and hands-on execution.</li>\n<li>You are a problem-solver. You love running towards the challenges because you are laser-focused on finding the solution, knowing that solving the hard problems delivers the biggest impact.</li>\n<li>You are a high-trust collaborator. You are ambitious for the team, not just yourself. You embrace our challenge culture by giving and receiving ongoing feedback—knowing that candor delivered with clarity and respect is the truest form of teamwork and the fastest way to earn trust.</li>\n<li>You are a learner. You have a true growth mindset and are obsessed with your own development, actively seeking feedback to become a better partner and a stronger teammate. You love what you do and you do it with purpose.</li>\n</ul>\n<p><strong>What We’re Looking for (Minimum Qualifications)</strong></p>\n<ul>\n<li>Foundational understanding of AI/ML technologies and experience leveraging, securing, or positioning AI-driven solutions to optimize outcomes within your functional domain</li>\n<li>Experience hosting 24x7 services in public cloud providers AWS/GCP(AWS is must) with automation and orchestration using tools such as Terraform, Cloudformation, or Ansible</li>\n<li>Experience managing and deploying Kubernetes resources using Helm charts. Proficiency with gitlab (or similar tooling), or similar CI/CD tools</li>\n<li>Working knowledge of Databases &#x26; SQL (Postgres preferred) and experience with cloud-based architecture building blocks like message queuing, in-memory caches, and load balancing</li>\n<li>Bachelor’s degree in Computer Science and Engineering</li>\n</ul>\n<p><strong>What Will Make You Stand Out (Preferred Qualifications)</strong></p>\n<ul>\n<li>Experience implementing AIOps, AI-driven predictive scaling, or automated anomaly detection to optimize cloud infrastructure performance and reliability</li>\n<li>Familiarity with logging and monitoring technologies such as Prometheus, Grafana, Alert manager</li>\n<li>Advanced experience running highly available cloud services, with a proven track record of optimizing Zscaler service deployments and cloud cost utilization </li>\n</ul>\n<p>#Hybrid #LISU1</p>\n<p>At Zscaler, we are committed to building a team that reflects the communities we serve and the customers we work with. We foster an inclusive environment that values all backgrounds and perspectives, emphasizing collaboration and belonging. Join us in our mission to make doing business seamless and secure.</p>\n<p>Our Benefits program is one of the most important ways we support our employees. Zscaler proudly offers comprehensive and inclusive benefits to meet the diverse needs of our employees and their families throughout their life stages, including:</p>\n<ul>\n<li>Various health plans</li>\n<li>Time off plans for vacation and sick time</li>\n<li>Parental leave options</li>\n<li>Retirement options</li>\n<li>Education reimbursement</li>\n<li>In-office perks, and more!</li>\n</ul>\n<p>Learn more about Zscaler's hybrid working model and benefits <a href=\"https://www.zscaler.com/candidate-resource-hub\">here</a>.</p>\n<p>By applying for this role, you adhere to applicable laws, regulations, and Zscaler policies, including those related to security and privacy standards and guidelines.</p>\n<p>Zscaler is committed to providing equal employment opportunities to all individuals. We strive to create a workplace where employees are treated with respect and have the chance to succeed. All qualified applicants will be considered for employment without regard to race, color, religion, sex (including pregnancy or related medical conditions), age, national origin, sexual orientation, gender identity or expression, genetic information, disability status, protected veteran status, or any other characteristic protected by federal, state, or local laws. <em>See more information by clicking on the </em><a href=\"https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf\"><em>Know Your Rights: Workplace Discrimination is Illegal </em></a><em>link.</em></p>\n<p>Pay Transparency</p>\n<p>Zscaler complies with all applicable federal, state, and local pay transparency rules.</p>\n<p>Zscaler is committed to providing reasonable support (called accommodations or adjustments) in our recruiting processes for candidates who are differently abled, have long term conditions, mental health conditions or sincerely held religious beliefs, or who are neurodivergent or require pregnancy-related support.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/staff-devops-engineer-zscaler</p>",
       "posted_at": "2026-11-18T06:49:46+00:00",
       "is_translated": false,
       "original_language": null
@@ -12151,7 +12159,7 @@
         "timezones": [],
         "conditions": [],
         "unresolved": [
-          "Applicant citizenship/immigration restriction from description:35 (ITAR): applicant must be a U.S. citizen or national, U.S. lawful permanent resident, refugee under 8 U.S.C. 1157, or asylee under 8 U.S.C. 1158, or be eligible to obtain the required authorizations from the U.S. Department of State. This is a legal status requirement, not a geographic residence or work-location permission, and it cannot be reconciled with the CAN and USA location header without enumerated jurisdictions, so it is retained here unrepresented."
+          "ITAR export-control applicant eligibility (description:43): applicant must be a (i) U.S. citizen or national, (ii) U.S. lawful permanent resident, (iii) refugee under 8 U.S.C. 1157, or (iv) asylee under 8 U.S.C. 1158, or be eligible to obtain the required authorizations from the U.S. Department of State. This nationality and export-status requirement cannot be represented in the residence, work-location, license or timezone claim kinds."
         ],
         "evidence_ids": [
           "source-location"
@@ -12196,7 +12204,7 @@
       ],
       "employer_job_id": "12218219",
       "direct_apply": null,
-      "description": "<p><strong>About Revel</strong></p><p>At Revel, we are revolutionizing the way the world's most critical hardware is controlled—across aerospace, automotive, energy, and manufacturing sectors. Our next-generation software stack combines an intuitive command/control interface, a specialized programming language tailored for hardware control, and a high-performance runtime environment. We empower engineers to build, test, and deploy critical systems rapidly, reliably, and safely.</p><p><strong>The role<br></strong>We’re building a new data platform to add to Revel’s current products. The data platform receives, stores, and serves telemetry from our customers’ hardware. It helps customers develop and operate their hardware faster and more effectively.</p><p>As a Site Reliability Engineer, you will join very early in the project and help to decide how we deploy, run, and maintain the platform in every environment our customers need.</p><p><strong>Problems you’ll work on</strong></p><ul><li><p><strong>One platform, every environment.</strong> The platform must run in commercial cloud, in government cloud, and on-prem. You will design one system that deploys to all three, not three separate systems. This starts with technology choices. You will pick tools that are truly portable, not tools that lock us into one environment.</p></li><li><p><strong>Environments that stay healthy.</strong> Launch is only the start. Every environment needs upgrades, patches, and sometimes hands-on hardware maintenance. You will make this work repeatable, so the effort does not grow with each new environment.</p></li><li><p><strong>Security for regulated customers.</strong> Government and defense customers have strict security requirements. You will design the networks, access control, and system hardening that meet those requirements and pass audits.</p></li><li><p><strong>Reliability from day one.</strong> Customers record data during hardware tests that can be expensive or impossible to repeat. You will decide what “up” means for them. You will set SLOs and error budgets, and build on-call and incident practices before the first big outage, not after it.</p></li><li><p><strong>Growth in data volume.</strong> As customers connect more hardware, the platform receives more data. You will plan capacity, keep performance high, and help to control cost as the data grows.</p></li></ul><p><strong>What you’ll do</strong></p><ul><li><p>Own the infrastructure for the data platform in every environment: networks, firewalls, access control, capacity, and cost</p></li><li><p>Choose portable technology, and write infrastructure as code so each new environment follows a tested, documented process</p></li><li><p>Keep every environment healthy over time with upgrades, patches, tested backups, and hardware maintenance when needed</p></li><li><p>Agree on SLOs and error budgets with the team, and use them to decide when to ship and when to fix</p></li><li><p>Build the observability stack, and set the standard for alerts: few, clear, and actionable</p></li><li><p>Start on-call, incident response, and blameless postmortems, and make sure each incident leads to a lasting fix</p></li><li><p>Give engineers the pipelines, tools, and runbooks to ship and run their services safely on their own</p></li><li><p>Review designs with our distributed systems engineers to find failure modes and operating costs before launch</p></li><li><p>Lead security and compliance for government customers, and work with customer IT and security teams on deployments, audits, and accreditation</p></li><li><p>Help hire and mentor our second SRE</p></li></ul><p><strong>What we are looking for</strong></p><ul><li><p>You’ve designed and run a production environment yourself, including networks, security, and identity.</p></li><li><p>You choose technology for the long term. You can explain when a tool is portable enough to run anywhere, and when a managed service from one cloud provider is worth the lock-in.</p></li><li><p>You write infrastructure as code and automation that other engineers trust and use (e.g., Terraform, Kubernetes, and CI/CD tools).</p></li><li><p>You’ve defined SLOs and built the alerting and incident practices around them, not only followed ones someone else set.</p></li><li><p>You’ve run data-heavy distributed systems, including high-availability databases. You can read and change the application code that runs on them.</p></li><li><p>You want to make other engineers better at running their services, not do all the operations work yourself.</p></li><li><p>You’re comfortable with hands-on work, from cloud accounts to physical servers.</p></li><li><p>You want to be the first person in a role and define how it works.</p></li><li><p>Experience with government cloud (e.g., AWS GovCloud), FIPS or FedRAMP, air-gapped deployments, or aerospace, defense, or industrial environments is a plus.</p></li></ul><p><strong><strong>Join us to redefine what’s possible in software for hardware.</strong></strong></p><p><strong>ITAR Requirements</strong><br>To conform to U.S. Government export regulations, applicant must be a (i) U.S. citizen or national, (ii) U.S. lawful, permanent resident (aka green card holder), (iii) Refugee under 8 U.S.C. 1157, or (iv) Asylee under 8 U.S.C. 1158, or be eligible to obtain the required authorizations from the U.S. Department of State. Learn more about the ITAR here.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/site-reliability-engineer-data-platform-serve-robotics</p>",
+      "description": "<p><strong>About Revel</strong></p><p>At Revel, we are revolutionizing the way the world's most critical hardware is controlled—across aerospace, automotive, energy, and manufacturing sectors. Our next-generation software stack combines an intuitive command/control interface, a specialized programming language tailored for hardware control, and a high-performance runtime environment. We empower engineers to build, test, and deploy critical systems rapidly, reliably, and safely.</p><p><strong>The role<br></strong>We’re building a new data platform to add to Revel’s current products. The data platform receives, stores, and serves telemetry from our customers’ hardware. It helps customers develop and operate their hardware faster and more effectively.</p><p>As a Site Reliability Engineer, you will join very early in the project and help to decide how we deploy, run, and maintain the platform in every environment our customers need.</p><p><strong>Problems you’ll work on</strong></p><ul><li><p><strong>One platform, every environment.</strong> The platform must run in commercial cloud, in government cloud, and on-prem. You will design one system that deploys to all three, not three separate systems. This starts with technology choices. You will pick tools that are truly portable, not tools that lock us into one environment.</p></li><li><p><strong>Environments that stay healthy.</strong> Launch is only the start. Every environment needs upgrades, patches, and sometimes hands-on hardware maintenance. You will make this work repeatable, so the effort does not grow with each new environment.</p></li><li><p><strong>Security for regulated customers.</strong> Government and defense customers have strict security requirements. You will design the networks, access control, and system hardening that meet those requirements and pass audits.</p></li><li><p><strong>Reliability from day one.</strong> Customers record data during hardware tests that can be expensive or impossible to repeat. You will decide what “up” means for them. You will set SLOs and error budgets, and build on-call and incident practices before the first big outage, not after it.</p></li><li><p><strong>Growth in data volume.</strong> As customers connect more hardware, the platform receives more data. You will plan capacity, keep performance high, and help to control cost as the data grows.</p></li></ul><p><strong>What you’ll do</strong></p><ul><li><p>Own the infrastructure for the data platform in every environment: networks, firewalls, access control, capacity, and cost</p></li><li><p>Choose portable technology, and write infrastructure as code so each new environment follows a tested, documented process</p></li><li><p>Keep every environment healthy over time with upgrades, patches, tested backups, and hardware maintenance when needed</p></li><li><p>Agree on SLOs and error budgets with the team, and use them to decide when to ship and when to fix</p></li><li><p>Build the observability stack, and set the standard for alerts: few, clear, and actionable</p></li><li><p>Start on-call, incident response, and blameless postmortems, and make sure each incident leads to a lasting fix</p></li><li><p>Give engineers the pipelines, tools, and runbooks to ship and run their services safely on their own</p></li><li><p>Review designs with our distributed systems engineers to find failure modes and operating costs before launch</p></li><li><p>Lead security and compliance for government customers, and work with customer IT and security teams on deployments, audits, and accreditation</p></li><li><p>Help hire and mentor our second SRE</p></li></ul><p><strong>What we are looking for</strong></p><ul><li><p>You’ve designed and run a production environment yourself, including networks, security, and identity.</p></li><li><p>You choose technology for the long term. You can explain when a tool is portable enough to run anywhere, and when a managed service from one cloud provider is worth the lock-in.</p></li><li><p>You write infrastructure as code and automation that other engineers trust and use (e.g., Terraform, Kubernetes, and CI/CD tools).</p></li><li><p>You’ve defined SLOs and built the alerting and incident practices around them, not only followed ones someone else set.</p></li><li><p>You’ve run data-heavy distributed systems, including high-availability databases. You can read and change the application code that runs on them.</p></li><li><p>You want to make other engineers better at running their services, not do all the operations work yourself.</p></li><li><p>You’re comfortable with hands-on work, from cloud accounts to physical servers.</p></li><li><p>You want to be the first person in a role and define how it works.</p></li><li><p>Experience with government cloud (e.g., AWS GovCloud), FIPS or FedRAMP, air-gapped deployments, or aerospace, defense, or industrial environments is a plus.</p></li></ul><p><strong><strong>Join us to redefine what’s possible in software for hardware.</strong></strong></p><p><strong>Benefits</strong></p><ul><li><p><strong>Health insurance</strong> — We offer comprehensive medical, dental, and vision coverage to support you and your family.</p></li><li><p><strong>401(k)</strong> — Save for your future with our 401(k) plan.</p></li><li><p><strong>Equity</strong> — All full-time employees receive equity, ensuring that you share in Revel's success and growth.</p></li><li><p><strong>Life insurance</strong> — Company-paid life insurance gives you and your family peace of mind.</p></li><li><p><strong>Parental leave</strong> — We offer paid maternity and paternity leave to support new parents.</p></li><li><p><strong>Catered lunch</strong> — We provide catered lunch five days a week, so you can stay fueled and focused.</p></li><li><p><strong>Unlimited PTO</strong> — We trust you to take the time you need. Unlimited PTO for all full-time employees.<br><strong><br>ITAR Requirements</strong><br>To conform to U.S. Government export regulations, applicant must be a (i) U.S. citizen or national, (ii) U.S. lawful, permanent resident (aka green card holder), (iii) Refugee under 8 U.S.C. 1157, or (iv) Asylee under 8 U.S.C. 1158, or be eligible to obtain the required authorizations from the U.S. Department of State. Learn more about the ITAR here.</p></li></ul><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/site-reliability-engineer-data-platform-serve-robotics</p>",
       "posted_at": "2026-11-13T00:00:00+00:00",
       "is_translated": false,
       "original_language": null
