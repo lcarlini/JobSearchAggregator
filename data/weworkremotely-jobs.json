@@ -1,7 +1,22 @@
 {
-  "generatedAt": "2026-11-20T05:56:03.167Z",
-  "count": 220,
+  "generatedAt": "2026-11-20T15:01:08.626Z",
+  "count": 221,
   "jobs": [
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/knock-lending-manager-front-end-remote",
+      "source": "weworkremotely",
+      "title": "Lending Manager (Front End) - Remote",
+      "company": "Knock",
+      "url": "https://weworkremotely.com/remote-jobs/knock-lending-manager-front-end-remote",
+      "description": "Headquarters: Remote Knock is redefining the home buying and selling experience, and we’re only getting started! We’re a passionate team of industry experts who knew there had to be a better, simpler way for people to navigate the journey between homes. That people-first mindset is core to how we operate, and why Knock has been honored as one of Inc.’s Best Workplaces six times in the past seven years. We bring that mindset into the work we do every day.&nbsp; The Knock Bridge Loan™ empowers homebuyers to ‘buy before they sell’, by unlocking the equity in their current home, giving them greater convenience, certainty, and competitiveness.&nbsp; Founded in 2015, Knock has grown into a trusted partner for thousands of homebuyers and a network of 60,000+ loan officers and agents across the co",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Front-End Programming",
+        "programming"
+      ],
+      "postedAt": "Sun, 01 Nov 2026 07:31:04 +0000",
+      "category": "programming"
+    },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-product-management-growth",
       "source": "weworkremotely",
@@ -363,19 +378,94 @@
       "category": "programming"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/lemon-io-senior-vue-developer-1",
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/sumo-logic-presales-solutions-engineer",
       "source": "weworkremotely",
-      "title": "Senior Vue Developer",
-      "company": "Lemon.io",
-      "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-vue-developer-1",
-      "description": "Headquarters: New York, NY URL: https://lemon.io Lemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. We’ve been doing this since 2015, and more than 1,500 companies have hired engineers through us. New roles for Senior Angular Engineers come in all the time, and several are open right now. Two ways to work with clients Contract: most roles are contract-based. You join the client’s team and work as part of it. Direct hire: some clients hire engineers full-time, and we support you through the process. Because companies trust our vetting, applying through Lemon.io is often a shortcut. You get to the client faster than going through their full hiring process on your own. What you get Competitive rate, based",
+      "title": "PreSales Solutions Engineer",
+      "company": "Sumo Logic",
+      "url": "https://weworkremotely.com/remote-jobs/sumo-logic-presales-solutions-engineer",
+      "description": "Headquarters: Remote US As a Sales Engineer , you will be the primary technical resource for our Account Executive team. You will share your product and technical expertise through presentations, product demonstrations, and technical evaluations (Proof Of Values). As the technical expert, you will work with clients to understand their requirements and pain points, then design the right solution for their business needs. During the sales cycle you will guide clients through trials and POVs, demonstrating Sumo Logic’s ability to meet and exceed their requirements and building a positive relationship that will provide continuous value to our customers. Finally, you will have the opportunity to work cross-functionally with our Product Management and Engineering teams to share your knowledge an",
       "location": "Anywhere in the World",
       "tags": [
-        "Full-Stack Programming",
-        "programming"
+        "DevOps and Sysadmin",
+        "devops"
       ],
-      "postedAt": "Wed, 21 Oct 2026 12:54:56 +0000",
-      "category": "programming"
+      "postedAt": "Fri, 20 Nov 2026 06:01:44 +0000",
+      "category": "devops"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/beyondtrust-inside-solutions-engineer",
+      "source": "weworkremotely",
+      "title": "Inside Solutions Engineer",
+      "company": "BeyondTrust",
+      "url": "https://weworkremotely.com/remote-jobs/beyondtrust-inside-solutions-engineer",
+      "description": "Headquarters: Remote Germany BeyondTrust is a place where you can bring your purpose to life through the work that you do, creating a safer world through our cybersecurity SaaS portfolio. Our culture of flexibility, trust, and continual learning means you will be recognized for your growth, and for the impact you make on our success. You will be surrounded by people who challenge, support, and inspire you to be the best version of yourself. The Role As an Inside Solutions Engineer, you will collaborate with sales representatives and partners to showcase the value of BeyondTrust’s products, services, and solutions. Acting as a technical specialist within the sales cycle, you will provide foundational support to highlight the capabilities of the BeyondTrust suite. This role is ideal for indi",
+      "location": "Anywhere in the World",
+      "tags": [
+        "DevOps and Sysadmin",
+        "devops"
+      ],
+      "postedAt": "Fri, 20 Nov 2026 06:01:44 +0000",
+      "category": "devops"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/fivetran-manager-security-engineer-operations",
+      "source": "weworkremotely",
+      "title": "Manager Security Engineer, Operations",
+      "company": "Fivetran",
+      "url": "https://weworkremotely.com/remote-jobs/fivetran-manager-security-engineer-operations",
+      "description": "Headquarters: Remote, Massachusetts, United States, AMER From Fivetran’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to query, with no engineering or maintenance required. We’re proud that more organizations continue to leverage our technology every day to become truly data-driven. About Us Fivetran and dbt Labs are bringing together two industry-leading companies with a shared mission: helping organizations unlock the full value of their data. Together, we’re delivering the data infrastructure layer that helps organizations move, transform, and trust their data — from the moment data moves, through every transformation, to the context teams",
+      "location": "Anywhere in the World",
+      "tags": [
+        "DevOps and Sysadmin",
+        "devops"
+      ],
+      "postedAt": "Fri, 20 Nov 2026 06:01:35 +0000",
+      "category": "devops"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/pagerduty-forward-deployed-engineer-sdev",
+      "source": "weworkremotely",
+      "title": "Forward Deployed Engineer (SDEV)",
+      "company": "PagerDuty",
+      "url": "https://weworkremotely.com/remote-jobs/pagerduty-forward-deployed-engineer-sdev",
+      "description": "Headquarters: Remote (USA - New York City, NY) PagerDuty, Inc. (NYSE: PD) is the global leader in AI-first digital operations. By automatically detecting, diagnosing, and remediating issues, the PagerDuty Platform orchestrates AI agents and automated workflows with context from over 750 integrations. Trusted by approximately two-thirds of the Fortune 100 and nearly half of the Fortune 500, PagerDuty is the industry standard for organizations scaling resilient, autonomous operations. Notable customers include Chipotle, Cloudflare, Docusign, Fox, Nvidia, Salesforce, Spotify, Zoom and more. We are growing rapidly and hiring top talent with leading AI skills across engineering, sales, product, marketing, and beyond as we build the leading digital operations platform. &nbsp; PagerDuty is seekin",
+      "location": "Anywhere in the World",
+      "tags": [
+        "DevOps and Sysadmin",
+        "devops"
+      ],
+      "postedAt": "Fri, 20 Nov 2026 06:01:06 +0000",
+      "category": "devops"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/discord-senior-platform-security-engineer",
+      "source": "weworkremotely",
+      "title": "Senior Platform Security Engineer",
+      "company": "Discord",
+      "url": "https://weworkremotely.com/remote-jobs/discord-senior-platform-security-engineer",
+      "description": "Headquarters: Remote (California, Washington, and Oregon Only) Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people to hang out before, during, and after playing games. More broadly, Discord is about empowering people to find belonging in all kinds of communities, and those people trust us to keep their communications safe. Our Platform Security Engineering team protects the systems we use to create Discord, making the \"secure way\" the \"easy way.\" We're looking for a Senior Engineer to advance this mission through security experti",
+      "location": "Anywhere in the World",
+      "tags": [
+        "DevOps and Sysadmin",
+        "devops"
+      ],
+      "postedAt": "Fri, 20 Nov 2026 06:00:43 +0000",
+      "category": "devops"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/collibra-federal-enterprise-solution-architect",
+      "source": "weworkremotely",
+      "title": "Federal Enterprise Solution Architect",
+      "company": "Collibra",
+      "url": "https://weworkremotely.com/remote-jobs/collibra-federal-enterprise-solution-architect",
+      "description": "Headquarters: Remote, USA Joining Collibra’s Public Sector team At Collibra Public Sector, our Professional Services team relies on Federal Solution Architects to deliver on customer expectations for the services we sell, working directly with customer key projects stakeholders throughout the entire customer journey. Ensuring growth, adoption and renewal, Federal Solution Architects act as customer champions, ensuring customers are onboarded and realizing value rapidly. Federal Enterprise Solution Architects at Collibra Public Sector are responsible for Supporting federal customer engagements by delivering mission-aligned architectural design and execution of Collibra products that adhere to Collibra Public Sector’s Delivery Models, Engagement Processes, Methodologies, and Artifacts, while",
+      "location": "Anywhere in the World",
+      "tags": [
+        "DevOps and Sysadmin",
+        "devops"
+      ],
+      "postedAt": "Fri, 20 Nov 2026 06:00:43 +0000",
+      "category": "devops"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/circleci-staff-software-engineer",
@@ -798,289 +888,64 @@
       "category": "devops"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/6sense-business-solutions-partner-enterprise-ai",
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/tebra-senior-product-manager",
       "source": "weworkremotely",
-      "title": "Business Solutions Partner - Enterprise AI",
-      "company": "6sense",
-      "url": "https://weworkremotely.com/remote-jobs/6sense-business-solutions-partner-enterprise-ai",
-      "description": "Headquarters: Costa Rica, Remote Our Mission: 6sense's mission is to multiply what matters: growth, retention, and efficiency.&nbsp; We envision a future where companies, teams and people reach their full potential. Our People: People are the heart and soul of 6sense. We serve with passion and purpose. We live by our Being 6sense values of Win as One Team, Stay Curious, Do The Right Thing, Own the Outcome, and Create Belonging. &nbsp;Every 6sensor plays a part in deﬁning the future of our industry-leading technology.&nbsp; 6sense is a place where difference-makers roll up their sleeves, take risks, act with integrity, and measure success by the value we create for our customers.&nbsp; We want 6sense to be the best chapter of your career.&nbsp; Enterprise AI Business Solutions Partner Busin",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Design",
-        "design"
-      ],
-      "postedAt": "Thu, 19 Nov 2026 18:31:40 +0000",
-      "category": "design"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/tebra-product-designer",
-      "source": "weworkremotely",
-      "title": "Product Designer",
+      "title": "Senior Product Manager",
       "company": "Tebra",
-      "url": "https://weworkremotely.com/remote-jobs/tebra-product-designer",
-      "description": "Headquarters: United States - Remote Tebra only initiates contact with candidates via email from an official Tebra email address (@ tebra.com , @ patientpop.com , or @ kareo.com ) or through our applicant tracking system, Greenhouse.&nbsp;We will only ask you to provide sensitive personal information through our official application portal — not via social media or text message. We do not conduct interviews via instant messaging. About the Role We are looking for a customer-focused individual to help shape the future of our Tebra platform. This role is an exciting and challenging opportunity to be a partner in an embedded team of cross-functional counterparts. You will be joining a close-knit, collaborative product design culture with a focus on raising the bar of the day-to-day product ex",
+      "url": "https://weworkremotely.com/remote-jobs/tebra-senior-product-manager",
+      "description": "Headquarters: United States - Remote Tebra only initiates contact with candidates via email from an official Tebra email address (@ tebra.com , @ patientpop.com , or @ kareo.com ) or through our applicant tracking system, Greenhouse.&nbsp;We will only ask you to provide sensitive personal information through our official application portal — not via social media or text message. We do not conduct interviews via instant messaging. About the Role Tebra is seeking a Senior Product Manager for our Patient Experience portfolio. You will help independent healthcare practices connect with patients and reduce administrative work. You will own product strategy and execution, turn customer needs into clear priorities, lead cross-functional teams from discovery through launch, and measure customer an",
       "location": "Anywhere in the World",
       "tags": [
-        "Design",
-        "design"
+        "Product",
+        "product"
       ],
-      "postedAt": "Thu, 19 Nov 2026 18:31:26 +0000",
-      "category": "design"
+      "postedAt": "Fri, 20 Nov 2026 06:01:44 +0000",
+      "category": "product"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/flexport-senior-it-systems-engineer",
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/storyblok-technical-support-engineer-ii-costa-rica-colombia-mexico",
       "source": "weworkremotely",
-      "title": "Senior IT Systems Engineer",
-      "company": "Flexport",
-      "url": "https://weworkremotely.com/remote-jobs/flexport-senior-it-systems-engineer",
-      "description": "Headquarters: U.S. Remote About Flexport:&nbsp; At Flexport, we believe global trade can move the human race forward. That’s why it’s our mission to make global commerce so easy there will be more of it. We’re shaping the future of a $10T industry with solutions powered by innovative technology and exceptional people. Today, companies of all sizes—from emerging brands to Fortune 500s—use Flexport technology to move more than $19B of merchandise across 112 countries a year.&nbsp; The recent global supply chain crisis has put Flexport center stage as we continue to play a pivotal role in how goods move around the world. We are proud to have the support of the best investors in the game who believe in our mission, solutions and people. Ready to tackle global challenges that impact business, s",
+      "title": "Technical Support Engineer II - Costa Rica, Colombia, Mexico",
+      "company": "Storyblok",
+      "url": "https://weworkremotely.com/remote-jobs/storyblok-technical-support-engineer-ii-costa-rica-colombia-mexico",
+      "description": "Headquarters: Remote Storyblok is a headless CMS that enables marketers and developers to create with joy and publish with confidence. It empowers you to deliver structured and consistent content everywhere: websites, apps, AI search, and beyond. Legendary brands like Virgin Media O2, Oatly, and TomTom use Storyblok to make a bigger, faster market impact. &nbsp; WHAT IS IN IT FOR YOU You will be joining a growing company where you can contribute to many “firsts”. Plus these benefits: Monthly remote work stipend (home internet costs, electricity). Home office equipment package right at the start (laptop, keyboard, monitor…) Home office equipment upgrade (furniture, ear plugs …) or membership to a local co-working space after your onboarding Sick leave benefit, parental leave and 25 days of ",
       "location": "Anywhere in the World",
       "tags": [
-        "Design",
-        "design"
+        "Product",
+        "product"
       ],
-      "postedAt": "Thu, 19 Nov 2026 18:30:55 +0000",
-      "category": "design"
+      "postedAt": "Fri, 20 Nov 2026 06:01:35 +0000",
+      "category": "product"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/shirvano-graphic-design-intern-remote",
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/storyblok-senior-product-architect",
       "source": "weworkremotely",
-      "title": "Graphic Design Intern (Remote)",
-      "company": "SHIRVANO",
-      "url": "https://weworkremotely.com/remote-jobs/shirvano-graphic-design-intern-remote",
-      "description": "Headquarters: Yogyakarta, Special Region of Yogyakarta, Indonesia URL: http://www.shirvano.co.id Position Type Paid Internship Duration: 6 months Working Hours: 8 hours per day, Monday to Friday Work Arrangement: Flexible Remote Position Overview Support in preparing visual presentations, pitch decks, and reports, as well as creating social media content, brochures, and infographics. Qualifications Must be a final-year student or fresh graduate with full availability from Architecture or a related field; Proficient in Figma, Adobe Illustrator, and Photoshop is required. Motion graphics & video editing skill is a plus. Candidates must submit relevant portfolio. Benefits Monthly stipend of IDR 2,000,000. Flexible remote working arrangement. Hands-on experience working on real projects. Mento",
-      "location": "Asia Only",
-      "tags": [
-        "Design",
-        "design"
-      ],
-      "postedAt": "Wed, 18 Nov 2026 11:31:43 +0000",
-      "category": "design"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/lightbox-animation-senior-sets-props-surface-artist",
-      "source": "weworkremotely",
-      "title": "Senior Sets&Props Surface Artist",
-      "company": "Lightbox Animation",
-      "url": "https://weworkremotely.com/remote-jobs/lightbox-animation-senior-sets-props-surface-artist",
-      "description": "Headquarters: Córdoba, Andalusia, Spain URL: https://lbox.es Your mission Knock, knock...Any Lightboxer in the room? If you are passionate about 3D animated films and want to create magic cinematographic, you can´t let this opportunity go! We are looking for a talented ​ Senior Sets&Props Surface Artist with enthusiasm to join our great team on the exciting new project, Animated Feature TAD 4!! ​You will be an essential part of our artistic team, responsible for creating high detailed texture maps and materials for the 3D environments and props, to deliver a visually impressive look. First of all, you're probably interested in knowing that...we offer 100% remote work! WE NEED YOU TO BE ABLE TO DO: Knowledge to recreate texture with procedural nodes, tile textures and noises for big environ",
-      "location": "Europe Only",
-      "tags": [
-        "Design",
-        "design"
-      ],
-      "postedAt": "Wed, 18 Nov 2026 11:31:41 +0000",
-      "category": "design"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/lightbox-animation-senior-sets-props-concept-artist",
-      "source": "weworkremotely",
-      "title": "Senior Sets&Props Concept Artist",
-      "company": "Lightbox Animation",
-      "url": "https://weworkremotely.com/remote-jobs/lightbox-animation-senior-sets-props-concept-artist",
-      "description": "Headquarters: Córdoba, Andalusia, Spain URL: https://lbox.es Your mission Knock, knock...Any Lightboxer in the room? If you are passionate about 3D animated films and want to create magic cinematographic, you can´t let this opportunity go! We are looking for a talented ​ Senior Sets&Props Concept Artist with enthusiasm to join our great team on the exciting new project, Animated Feature TAD 4!! ​You will be responsible for creating outstanding backgrounds and props. First of all, you're probably interested in knowing that...we offer 100% remote work! WE NEED YOU TO BE ABLE TO DO: Create Design conceptual artwork under directions of the Director and collaborate closely with Artists. Develop the project´s artistic vision, showing understanding of the goals creating designs which fit the styl",
-      "location": "Europe Only",
-      "tags": [
-        "Design",
-        "design"
-      ],
-      "postedAt": "Wed, 18 Nov 2026 11:31:38 +0000",
-      "category": "design"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/workmotion-junior-ae-benelux",
-      "source": "weworkremotely",
-      "title": "Junior AE Benelux",
-      "company": "WorkMotion",
-      "url": "https://weworkremotely.com/remote-jobs/workmotion-junior-ae-benelux",
-      "description": "Headquarters: Croatia URL: https://jobs.workable.com/company/jzo8hYoyQi6MffQtCgXykk/jobs-at-workmotion Junior Account Executive Benelux (Dutch-speaking) Location: Remote (Within +/- 2 hours of CET) Contract type: Full-time Salary: Starting from €40,000 OTE per annum gross (60% base / 40% bonus), subject to location, skills and experience. Not Your Typical Workplace… Great talent doesn't stop at borders, and neither do the companies we work with. At WorkMotion, we're building the future of work: helping ambitious companies hire, onboard and manage the best people anywhere in the world, through smart, flexible workforce solutions. Remote-first, fast-paced, people-driven and globally connected, we empower businesses to build teams beyond borders. And we're looking for people who want to win w",
-      "location": "Europe Only",
-      "tags": [
-        "Design",
-        "design"
-      ],
-      "postedAt": "Tue, 17 Nov 2026 18:01:48 +0000",
-      "category": "design"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/koru-ux-design-llp-sr-ux-researcher-uxr-2-112026",
-      "source": "weworkremotely",
-      "title": "Sr. UX Researcher (UXR-2-112026)",
-      "company": "Koru UX Design LLP",
-      "url": "https://weworkremotely.com/remote-jobs/koru-ux-design-llp-sr-ux-researcher-uxr-2-112026",
-      "description": "Headquarters: India URL: https://jobs.workable.com/company/jozUZxNGqSdsinT91Ct4ET/jobs-at-koru-ux-design-llp About the Company Koru UX Design is a leading UX design agency specializing in HealthTech. We partner with clients to deliver user-centered design solutions that drive innovation and enhance user experiences. Our design teams work as an integrated extension of our client’s teams, deeply embedding ourselves into their processes to create seamless, impactful products. About the Role We’re looking for a Senior UX Researcher who thrives on complex problem spaces and is comfortable driving research in ambiguity. At Koru, your insights won’t just sit in reports—they’ll directly influence real enterprise products across healthcare, automation, and finance. You’ll plan and execute end-to-en",
-      "location": "Asia Only",
-      "tags": [
-        "Design",
-        "design"
-      ],
-      "postedAt": "Wed, 11 Nov 2026 17:01:15 +0000",
-      "category": "design"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/medamerica-instructional-designer",
-      "source": "weworkremotely",
-      "title": "Instructional Designer",
-      "company": "MedAmerica",
-      "url": "https://weworkremotely.com/remote-jobs/medamerica-instructional-designer",
-      "description": "Headquarters: Sacramento, California, United States URL: https://www.vituity.com/about-us/practice-management Remote, Nationwide – Seeking Instructional Designer &nbsp; Everybody Has A Role To Play In Transforming Healthcare &nbsp; At Vituity you are part of a larger team that is driven by our purpose to improve lives. We are dedicated to transforming healthcare through our culture by working together to tackle healthcare’s most pressing challenges from the inside. &nbsp; Join the Vituity Team. At Vituity we’ve cultivated an environment where passion thrives, and success comes through shared purpose. We were founded in a culture that values team accomplishments more than individual achievements, an approach we call “culture of brilliance.” Together, we leverage our strengths and experience",
-      "location": "USA Only",
-      "tags": [
-        "Design",
-        "design"
-      ],
-      "postedAt": "Sat, 07 Nov 2026 17:01:14 +0000",
-      "category": "design"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/breakthrough-design-group-senior-creative-web-designer",
-      "source": "weworkremotely",
-      "title": "Senior Creative & Web Designer",
-      "company": "Breakthrough Design Group",
-      "url": "https://weworkremotely.com/remote-jobs/breakthrough-design-group-senior-creative-web-designer",
-      "description": "Headquarters: Syracuse, NY URL: https://breakthroughdesign.com Senior Creative & Web Designer Position (Contract) Breakthrough Design Group Inc. Job Description Breakthrough is looking for a Senior Creative & Web Designer to work on a contract basis (10-30 hours/week, with potential for full-time hire).&nbsp; Your primary responsibilities will include: A zeal to live, and to share life with those around you.&nbsp; To better understand the human condition, it's unique struggles, and strengths.&nbsp; And for each individual client - an excitement to make lives better, to understand and improve others' pain points, and weaknesses, and to want to help them grow and change the world via their web, creative, and digital experiences. Requirements: Demonstrable (Currently Live) Web Design Demonstr",
+      "title": "Senior Product Architect",
+      "company": "Storyblok",
+      "url": "https://weworkremotely.com/remote-jobs/storyblok-senior-product-architect",
+      "description": "Headquarters: Remote Storyblok is a headless CMS that enables marketers and developers to create with joy and publish with confidence. It empowers you to deliver structured and consistent content everywhere: websites, apps, AI search, and beyond. Legendary brands like Virgin Media O2, Oatly, and TomTom use Storyblok to make a bigger, faster market impact. &nbsp; WHAT IS IN IT FOR YOU You will be joining a growing company where you can contribute to many “firsts”. Plus these benefits: Monthly remote work stipend (home internet costs, electricity). Home office equipment package right at the start (laptop, keyboard, monitor…) Home office equipment upgrade (furniture, ear plugs …) or membership to a local co-working space after your onboarding Sick leave benefit, parental leave and 25 days of ",
       "location": "Anywhere in the World",
       "tags": [
-        "Design",
-        "design"
+        "Product",
+        "product"
       ],
-      "postedAt": "Thu, 05 Nov 2026 22:31:50 +0000",
-      "category": "design"
+      "postedAt": "Fri, 20 Nov 2026 06:01:27 +0000",
+      "category": "product"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/elitebrain-photographer-ai-image-quality-evaluation-remote-u-s",
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/instacart-bilingual-cx-specialist-french",
       "source": "weworkremotely",
-      "title": "Photographer – AI Image Quality Evaluation (Remote, U.S.)",
-      "company": "ELITEBRAIN",
-      "url": "https://weworkremotely.com/remote-jobs/elitebrain-photographer-ai-image-quality-evaluation-remote-u-s",
-      "description": "Headquarters: Pembroke Pines, Florida, United States URL: https://www.elitebrain.ai Company Description Our client is seeking photography professionals to support an initiative focused on evaluating and improving visual data quality for next-generation artificial intelligence systems. The project combines human creative expertise with detailed image assessment to help improve AI-generated visual content. &nbsp; &nbsp; Job Description We are seeking Photographers for a remote, contract opportunity supporting the evaluation and improvement of visual data used to train next-generation AI systems. You will apply your photography expertise to compare original photographs with AI-generated images, identify visual inconsistencies, and provide detailed written feedback. No prior experience in AI i",
-      "location": "USA Only",
-      "tags": [
-        "Design",
-        "design"
-      ],
-      "postedAt": "Tue, 03 Nov 2026 17:00:21 +0000",
-      "category": "design"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/smartsheet-manager-engineering-remote-eligible-in-bulgaria",
-      "source": "weworkremotely",
-      "title": "Manager, Engineering (Remote Eligible in Bulgaria)",
-      "company": "Smartsheet",
-      "url": "https://weworkremotely.com/remote-jobs/smartsheet-manager-engineering-remote-eligible-in-bulgaria",
-      "description": "Headquarters: -REMOTE, BULGARIA- For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best, automating manual tasks and uncovering insights at scale, we create the space for people to focus on what truly matters: judgment, creativity, and big thinking. That is magic at work, and it’s what we show up for every day. Smartsheet is a tech company with a human story to tell. We’re here to empower teams to manage projects, automate workflows, and rapidly build new secure solutions, using simple no-code tools. We’re revolutionaries – so for us, changing the way the world works is all in a day’s work. As a global leader in Intell",
+      "title": "Bilingual CX Specialist (French)",
+      "company": "Instacart",
+      "url": "https://weworkremotely.com/remote-jobs/instacart-bilingual-cx-specialist-french",
+      "description": "Headquarters: United States - Remote We're transforming the grocery industry At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers. Instacart has become a lifeline for millions of people, and we’re building the team to help push our shopping cart forward. If you’re ready to do the best work of your life, come join our table. Instacart is a",
       "location": "Anywhere in the World",
       "tags": [
-        "Design",
-        "design"
+        "Product",
+        "product"
       ],
-      "postedAt": "Fri, 30 Oct 2026 07:31:10 +0000",
-      "category": "design"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/thatch-brand-designer",
-      "source": "weworkremotely",
-      "title": "Brand Designer",
-      "company": "Thatch",
-      "url": "https://weworkremotely.com/remote-jobs/thatch-brand-designer",
-      "description": "Headquarters: United States URL: https://thatch.com/ About the role For most people, health insurance happens to them: a plan chosen by someone else, with little room to fit their life. Thatch is changing that. We help companies give employees a healthcare budget instead of a one-size-fits-all plan, so people can choose the coverage and care that works for them while employers get predictable costs. It's a simple idea, but making it real means solving hard problems across healthcare, payments, and technology. We're just getting started. We look for people who use good judgment, take ownership, and care deeply about building something that matters. Design is central to what makes Thatch stand out. We're building a brand that sets a new standard for healthcare. We're a small, collaborative t",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Design",
-        "design"
-      ],
-      "postedAt": "Thu, 29 Oct 2026 22:42:13 +0000",
-      "category": "design"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/trusted-building-technologies-inc-executive-assistant-project-manager",
-      "source": "weworkremotely",
-      "title": "Executive Assistant / Project Manager",
-      "company": "Trusted Building Technologies Inc.",
-      "url": "https://weworkremotely.com/remote-jobs/trusted-building-technologies-inc-executive-assistant-project-manager",
-      "description": "Headquarters: West Palm Beach, Florida, USA URL: http://www.TrustedBuildTech.com Trusted Building Technologies Inc., a construction company in US&nbsp; / Florida seeking REMOTE–WORK professionals with construction industry-related degrees: architects, engineers, and Executive Assistants.&nbsp; Knowledge of English is a must. Experience designing documents, managing multiple websites, and handling social media is a plus.&nbsp; Long-term, full-time commitment only.&nbsp; For committed professionals, potential is unlimited.&nbsp; Knowledge of the construction business is a plus.&nbsp; The position is REMOTE: Flexibility to work on US / Florida time.&nbsp;&nbsp; To apply: https://weworkremotely.com/remote-jobs/trusted-building-technologies-inc-executive-assistant-project-manager",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Design",
-        "design"
-      ],
-      "postedAt": "Tue, 27 Oct 2026 16:03:32 +0000",
-      "category": "design"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/maptiler-head-of-design-maps-platform-remote-in-europe",
-      "source": "weworkremotely",
-      "title": "Head of Design | Maps Platform (Remote in Europe)",
-      "company": "MapTiler",
-      "url": "https://weworkremotely.com/remote-jobs/maptiler-head-of-design-maps-platform-remote-in-europe",
-      "description": "Headquarters: Zug, Switzerland URL: https://www.maptiler.com/ Full-time&nbsp; Freelance / B2B contract&nbsp; Remote in Europe Description MapTiler is moving toward becoming an AI-accelerated company, and design is a part of that change. We are looking for a Head of Design to lead the craft and the design practice across our products and customer experience, and help to define the new setup and processes for how designers should work. This is a completely new role at MapTiler! What you will do Lead the design team of 5 and make the people decisions that come with it: hiring, performance, wellbeing, career progression and education of designers. Work closely with product managers, developers and marketing, and represent design in discussions with the executive team. Measurably increase the u",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Design",
-        "design"
-      ],
-      "postedAt": "Mon, 26 Oct 2026 11:48:42 +0000",
-      "category": "design"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/cata-kor-graphic-designer",
-      "source": "weworkremotely",
-      "title": "Graphic Designer",
-      "company": "Cata-Kor",
-      "url": "https://weworkremotely.com/remote-jobs/cata-kor-graphic-designer",
-      "description": "Headquarters: Miami, FL URL: https://catakor.com/ &nbsp; A leading supplement brand in its category in the U.S. market is expanding its creative team and looking for a talented Graphic Designer with a strong eye for modern, polished, and high-converting e-commerce design. Please note: we are only considering candidates who are currently based in the United States. &nbsp;The ideal candidate has strong visual taste, understands the U.S. e-commerce and retail aesthetic, and can create high-quality, realistic product visuals across multiple digital and print formats. &nbsp; What you’ll be doing - Creating main product images, infographics, A+ Content, and PPC creatives - Designing e-commerce and retail marketing materials - Developing packaging and print-ready artwork - Creating and adapting v",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Design",
-        "design"
-      ],
-      "postedAt": "Wed, 21 Oct 2026 12:51:00 +0000",
-      "category": "design"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/contra-senior-3d-designer",
-      "source": "weworkremotely",
-      "title": "Senior 3D Designer",
-      "company": "Contra",
-      "url": "https://weworkremotely.com/remote-jobs/contra-senior-3d-designer",
-      "description": "Headquarters: San Francisco, CA URL: http://bit.ly/3kLhMdk About Contra Labs Contra Labs sits at the intersection of human creativity and AI. We partner with leading AI labs and product companies to improve their tools across design, video, development, and beyond. Our research is grounded in how top creatives actually work, studying the patterns behind what gets created, what gets chosen, and what resonates. We believe human input will always be at the center of net new creation, and our mission is to help shape technology so human creativity can be amplified to create what today is unimaginable. By joining the Contra Labs network you gain access to paid projects with some of the most innovative companies building the next generation of creative and AI-powered tools. How It Works This is ",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Design",
-        "design"
-      ],
-      "postedAt": "Wed, 07 Oct 2026 00:11:33 +0000",
-      "category": "design"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/contra-senior-game-designer",
-      "source": "weworkremotely",
-      "title": "Senior Game Designer",
-      "company": "Contra",
-      "url": "https://weworkremotely.com/remote-jobs/contra-senior-game-designer",
-      "description": "Headquarters: San Francisco, CA URL: http://bit.ly/3kLhMdk About Contra Labs Contra Labs sits at the intersection of human creativity and AI. We partner with leading AI labs and product companies to improve their tools across design, video, development, and beyond. Our research is grounded in how top creatives actually work, studying the patterns behind what gets created, what gets chosen, and what resonates. We believe human input will always be at the center of net new creation, and our mission is to help shape technology so human creativity can be amplified to create what today is unimaginable. By joining the Contra Labs network you gain access to paid projects with some of the most innovative companies building the next generation of creative and AI-powered tools. How It Works This is ",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Design",
-        "design"
-      ],
-      "postedAt": "Wed, 07 Oct 2026 00:08:54 +0000",
-      "category": "design"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/seat-geek-senior-ux-designer",
-      "source": "weworkremotely",
-      "title": "Senior UX Designer",
-      "company": "Seat Geek",
-      "url": "https://weworkremotely.com/remote-jobs/seat-geek-senior-ux-designer",
-      "description": "Headquarters: Remote URL: https://seatgeek.com/ What you’ll do Deeply understand the needs, motivations, and behaviors of fans, sellers, teams, and artists Set direction by creating clear and impactful strategies while also sweating the details through execution and launch Balance speed and quality with a focus on driving impact through both optimizations and 0-1 product development Demonstrate outstanding design skills and a passion for experimentation, data, and systems thinking Collaboratively improve our component systems to ensure consistent, high quality experiences What you have 4+ years of experience Excellent craftsmanship An understanding of the technical and logistical obstacles that create friction during live experiences The mindset of a challenge, changemaker, and innovator 4",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Design",
-        "design"
-      ],
-      "postedAt": "Wed, 30 Sep 2026 15:13:43 +0000",
-      "category": "design"
+      "postedAt": "Fri, 20 Nov 2026 06:01:06 +0000",
+      "category": "product"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/algolia-revenue-enablement-manager-post-sales",
@@ -1426,6 +1291,141 @@
       ],
       "postedAt": "Tue, 06 Oct 2026 08:44:40 +0000",
       "category": "product"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/fin-senior-manager-solutions-engineering",
+      "source": "weworkremotely",
+      "title": "Senior Manager, Solutions Engineering",
+      "company": "Fin",
+      "url": "https://weworkremotely.com/remote-jobs/fin-senior-manager-solutions-engineering",
+      "description": "Headquarters: NYC, Remote; San Francisco, California Fin , now part of Salesforce, is on a mission to help businesses provide perfect customer experiences. Our AI Agent Fin is the highest-performing AI Customer Agent on the market today, enabling businesses to deliver impeccable, always-on customer support across the customer journey, from service, to sales, to ecommerce. Powered by our own AI models, Fin resolves complex customer issues end-to-end across every channel, with minimal set-up and integration. Fin can also be combined with our natively integrated Intercom help desk, giving modern support teams one single system. Together with Salesforce, the #1 AI CRM, where humans with agents drive customer success, we're building the future of customer experience. Here, ambition meets action",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Fri, 20 Nov 2026 06:02:02 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/fin-senior-forward-deployed-data-scientist",
+      "source": "weworkremotely",
+      "title": "Senior Forward Deployed Data Scientist",
+      "company": "Fin",
+      "url": "https://weworkremotely.com/remote-jobs/fin-senior-forward-deployed-data-scientist",
+      "description": "Headquarters: NYC, Remote Fin , now part of Salesforce, is on a mission to help businesses provide perfect customer experiences. Our AI Agent Fin is the highest-performing AI Customer Agent on the market today, enabling businesses to deliver impeccable, always-on customer support across the customer journey, from service, to sales, to ecommerce. Powered by our own AI models, Fin resolves complex customer issues end-to-end across every channel, with minimal set-up and integration. Fin can also be combined with our natively integrated Intercom help desk, giving modern support teams one single system. Together with Salesforce, the #1 AI CRM, where humans with agents drive customer success, we're building the future of customer experience. Here, ambition meets action. Tech meets trust. And inn",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Fri, 20 Nov 2026 06:01:46 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/cribl-director-of-security-research-cribl-detect",
+      "source": "weworkremotely",
+      "title": "Director of Security Research, Cribl Detect",
+      "company": "Cribl",
+      "url": "https://weworkremotely.com/remote-jobs/cribl-director-of-security-research-cribl-detect",
+      "description": "Headquarters: Remote - Israel Join the company that’s building the telemetry infrastructure for the AI era. At Cribl, we partner with IT and Security teams at many of the world’s biggest enterprises, including half of the Fortune 100, to bridge the gap between AI ambition and infrastructure reality. As the AI Platform for Telemetry, we give customers the choice, control, and flexibility to manage and analyze telemetry for both humans and agents, so they can build what’s next. We’re one of the fastest‑growing private companies and a leading player in a massive, fast‑moving market. With a global workforce, we’re remote‑first and grounded in a simple idea: software is a people business. Cribl is the place where curious, collaborative people can do their best work, grow fast, and bring their f",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Fri, 20 Nov 2026 06:01:44 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/squarespace-senior-security-engineer",
+      "source": "weworkremotely",
+      "title": "Senior Security Engineer",
+      "company": "Squarespace",
+      "url": "https://weworkremotely.com/remote-jobs/squarespace-senior-security-engineer",
+      "description": "Headquarters: New York City; Remote Squarespace is looking for a Software Engineer, Product Security to build security controls directly into our AI products as they grow. Our Product Security team ensures that customer-facing surfaces across Squarespace's expanding AI portfolio are protected from the ground up, not patched after the fact. We are a focused, embedded team that works at the intersection of platform engineering and security. You will work closely with AI product, platform engineering, and infrastructure teams. This is an opportunity to shape how security is practiced inside a rapidly scaling set of AI products at a critical point in their development. You will work remotely and report to the Security Engineering Manager. You'll Get To... Design and implement security controls",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Fri, 20 Nov 2026 06:01:35 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/postscript-senior-fullstack-engineer-customer-context",
+      "source": "weworkremotely",
+      "title": "Senior Fullstack Engineer, Customer Context",
+      "company": "Postscript",
+      "url": "https://weworkremotely.com/remote-jobs/postscript-senior-fullstack-engineer-customer-context",
+      "description": "Headquarters: Remote Postscript is the AI messaging platform trusted by 20,000+ Shopify brands — including Brooklinen, Ruggable, True Classic, and Dr. Squatch.&nbsp; With a mission to make SMS your number one revenue driving channel, we built the best-in-class SMS marketing platform and launched revenue-driving AI features not available on any other platform. And we're just getting started.&nbsp; Backed by Greylock and Y Combinator, fully remote since 2018. We are looking for a polyglot Senior Fullstack Engineer to join the Customer Context&nbsp; team. You’ll help build and scale the foundational services, APIs, and pipelines that power the Postscript product. This role blends strong backend engineering skills with a deep appreciation for data intensive systems, performance, and reliabilit",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Fri, 20 Nov 2026 06:01:27 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/mercury-engineering-manager-bank-accounts",
+      "source": "weworkremotely",
+      "title": "Engineering Manager - Bank Accounts",
+      "company": "Mercury",
+      "url": "https://weworkremotely.com/remote-jobs/mercury-engineering-manager-bank-accounts",
+      "description": "Headquarters: San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States Roman aqueducts quietly carried water across cities and made daily life possible. Their value was not in the structures themselves, but in everything they enabled. The Bank Accounts team plays a similar role at Mercury. We build the foundation for depository accounts*: managing money held in Mercury accounts and helping customers move money between accounts they own.&nbsp; The work ahead is especially exciting: as Mercury is opening its own bank, this team will build a major part of the foundation needed to manage customer accounts at that scale. The systems and capabilities we build will support how customers open, use, manage, and move money between their accounts. Your job as an enginee",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Fri, 20 Nov 2026 06:01:19 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/twilio-architect",
+      "source": "weworkremotely",
+      "title": "Architect",
+      "company": "Twilio",
+      "url": "https://weworkremotely.com/remote-jobs/twilio-architect",
+      "description": "Headquarters: Remote - US Who we are&nbsp; At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to &nbsp;hundreds of thousands of businesses&nbsp; and empower millions of developers worldwide to craft personalized customer experiences. Our dedication to remote-first work , and strong culture of connection and global inclusion means that no matter your location, you’re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we’re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands. . Hiring and how we work We use Artificial Intelligence (AI) to help make our hiring process efficient",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Fri, 20 Nov 2026 06:01:19 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/collibra-senior-customer-support-engineer",
+      "source": "weworkremotely",
+      "title": "Senior Customer Support Engineer",
+      "company": "Collibra",
+      "url": "https://weworkremotely.com/remote-jobs/collibra-senior-customer-support-engineer",
+      "description": "Headquarters: Remote, Australia Joining Collibra’s Support team Collibra seeks to expand our Support Engineering team with the addition of a Senior Technical Support Engineer to support the company's growth. Collibra’s Senior Technical Support Engineers provide support that increases Collibra’s credibility as an organization with world-class personnel and processes that can be relied upon as customers increase their product usage. Senior Technical Support Engineers at Collibra are responsible for Managing all communication with customers and partners required to resolve support tickets. Assessing if support tickets are feature requests or product bugs. Resolving support tickets within the limits of contractual service level agreements (SLA). Replicating bugs. Training and mentoring junior ",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Fri, 20 Nov 2026 06:00:44 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/discord-engineering-manager-machine-learning-safety-1",
+      "source": "weworkremotely",
+      "title": "Engineering Manager, Machine Learning - Safety",
+      "company": "Discord",
+      "url": "https://weworkremotely.com/remote-jobs/discord-engineering-manager-machine-learning-safety-1",
+      "description": "Headquarters: San Francisco Bay Area or Remote (U.S.) Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people to hang out before, during, and after playing games. Discord's Safety ML team builds the machine learning systems that protect 200M+ users. The team's mission is to make Discord a place where people can build genuine friendships without exposure to harm, at a scale where manual review alone can never keep up. We're looking for a highly technical, hands-on, and mission-driven Engineering Manager to lead our Safety ML team. As ",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Fri, 20 Nov 2026 06:00:38 +0000",
+      "category": "full-stack"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/airbnb-machine-learning-engineer-assistance-engineering",
@@ -2596,6 +2596,21 @@
       ],
       "postedAt": "Sun, 16 Jun 2024 17:30:51 +0000",
       "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/databricks-accounting-manager-accounts-receivable",
+      "source": "weworkremotely",
+      "title": "Accounting Manager, Accounts Receivable",
+      "company": "Databricks",
+      "url": "https://weworkremotely.com/remote-jobs/databricks-accounting-manager-accounts-receivable",
+      "description": "Headquarters: California; New York; Remote - Colorado; Remote - Georgia; Remote - Ohio; Remote - Oregon; Remote - Pennsylvania; Remote - Texas; Remote - Washington; Remote - Washington D.C. GAQ327R240 While candidates in the listed location(s) are encouraged for this role, candidates in other locations will be considered. We're building a finance function that stays ahead of the curve — maximizing self-serve AI capabilities while driving an AI-first automation roadmap to operate at the pace Databricks demands. The Accounting Manager, Accounts Receivable, will serve as a senior individual contributor owning end-to-end technical AR accounting across global AR balances and multiple legal entities, leading multi-entity subledger consolidations as our global footprint expands. Working within a ",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Management and Finance",
+        "management"
+      ],
+      "postedAt": "Fri, 20 Nov 2026 06:01:06 +0000",
+      "category": "management"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/storyblok-senior-legal-counsel-emea",
