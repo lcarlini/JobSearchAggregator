@@ -1,7 +1,71 @@
 {
-  "generatedAt": "2026-11-20T15:00:29.770Z",
+  "generatedAt": "2026-11-20T23:46:44.608Z",
   "count": 150,
   "data": [
+    {
+      "id": "5c5f74a4-b6f7-4ff6-9195-d91a609d65e5",
+      "title": "Red Team Lead",
+      "url": "https://remotejobs.org/remote-jobs/red-team-lead-supabase",
+      "apply_url": "https://remotejobs.org/remote-jobs/red-team-lead-supabase",
+      "company": {
+        "name": "Supabase",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/26ad11491325f739f8ad99a4b2e5e5d487396bdfa7952ac1401f24a222477c8e.png",
+        "website": "https://supabase.com",
+        "url": "https://remotejobs.org/companies/supabase"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "Remote, Global",
+      "location_normalization": {
+        "raw": "Remote, Global",
+        "input": {
+          "workArrangement": "remote"
+        },
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [
+          "global"
+        ],
+        "work_arrangement": "remote",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": null,
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": "lead",
+        "role_family": null,
+        "required_skills": [],
+        "mentioned_skills": [],
+        "preferred_skills": [],
+        "experience_requirements": []
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "4ee6b96f-cc38-4531-aadd-7ff0f8e87e25",
+      "direct_apply": null,
+      "description": "<h2><strong>About Supabase</strong></h2><p>Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth.<br><br><strong>What we're looking for</strong></p><p>We're looking for a <strong>Red Team Lead</strong> to establish our Red Team and strengthen the security culture at Supabase. As the team lead, you'll build the team and work alongside them to plan and execute realistic attack simulations across the entire tech stack. You'll guide the team to turn findings into practical recommendations that drive meaningful security improvements.</p><p>This role is ideal for someone who combines technical expertise with thoughtful, people-first leadership. Success in this role means our team brings security at Supabase to new heights.<br></p><h3>What you'll be responsible for</h3><ul><li><p>Develop our Red Team from the ground up.</p></li><li><p>Lead and mentor a team that values technical depth, curiosity, collaboration, and accountability, where people can challenge ideas and learn. Align their efforts with their career growth and organizational security goals.</p></li><li><p>Stay technically connected to the planning and execution of operations. Guide the team to make sound judgment calls and communicate operational impact to various audiences.</p></li><li><p>Define the team's strategic roadmap and operational practices for our environment and threat landscape. Use metrics and impact narratives to communicate the team's success.</p></li><li><p>Build strategic relationships with relevant teams, including Legal, Engineering, IT, HR, and Finance, for cross-functional influence and amplified security impact. Foster a collaborative relationship with defensive teams.</p></li><li><p>Advise leadership on strategic growth beyond the Red Team.</p></li><li><p>Establish Supabase as a thought leader in the security space. Share appropriate research and lessons publicly through writing or talks.<br></p></li></ul><h3>You might be a good fit if you</h3><ul><li><p>Have experience leading adversary emulation teams, especially balancing hands-on work and management as a player-coach.</p></li><li><p>Have experience with global asynchronous teams and can work independently.</p></li><li><p>Are familiar with cloud-native offensive operations, including cloud and CI/CD pipelines, and creating and securely deploying command-and-control (C2), reconnaissance tools, and infrastructure for adversary simulations.</p></li><li><p>Understand attack techniques targeting browsers, cloud infrastructure, databases, SaaS applications, supply chains, Linux and macOS devices, and identity and access systems.</p></li><li><p>Naturally build rapport, trust, and engagement within Security and across the organization.</p></li><li><p>Work collaboratively with kindness and respect.</p></li><li><p>Can clearly communicate complex security concepts to a wide range of audiences, including executive leadership.</p></li></ul><h3><strong>What We Offer</strong></h3><ul><li><p><strong>Fully Remote</strong></p><p>We hire globally. We believe you can do your best work from anywhere. There are no Supabase offices, but we provide a WeWork membership or co-working allowance you can use anywhere in the world.</p></li><li><p><strong>ESOP</strong></p><p>Every team member receives ESOP (equity ownership) in the company. We want everyone to share in the upside of what we’re building together.</p></li><li><p><strong>Tech Allowance</strong></p><p>Use this budget to set up your ideal work environment—laptop, monitor, headphones, or whatever helps you do your best work.</p></li><li><p><strong>Health Benefits</strong></p><p>Supabase covers 100% of health insurance for employees and 80% for dependents, wherever you are. Your wellbeing and your family’s health are important to us.</p></li><li><p><strong>Annual Off-Sites</strong></p><p>Once a year, the entire company gathers in a new city for a week of connection, collaboration, and fun. It’s a highlight of our year.</p></li><li><p><strong>Flexible Work</strong></p><p>We operate asynchronously and trust you to manage your own time. You know what needs to be done and when.</p></li><li><p><strong>Professional Development</strong></p><p>Every team member receives an annual education allowance to spend on learning—courses, books, conferences, or anything that supports your growth.</p></li></ul><h3><strong>About the Team</strong></h3><p>Supabase was born-remote and open-source-first. We believe our globally distributed team is our secret weapon in building tools developers love.</p><ul><li><p>~400 team members</p></li><li><p>60+ countries</p></li><li><p>20+ languages spoken</p></li><li><p>Over $1B raised (including our $500M Series F)</p></li><li><p>540,000+ community members</p></li></ul><p>We move fast, build in public, and use what we ship. If it’s in your project, we probably use it in ours too. We believe deeply in the open-source ecosystem and strive to support—not replace—existing tools and communities.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/red-team-lead-supabase</p>",
+      "posted_at": "2026-11-20T13:04:20.56+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
     {
       "id": "aa2713c4-e9ee-4458-a457-1623ed62c604",
       "title": "Associate Engineer",
@@ -1474,6 +1538,84 @@
       "original_language": null
     },
     {
+      "id": "69a61c73-f5cd-4017-b79f-b86663e577cb",
+      "title": "Software Engineer - Postgres Tooling",
+      "url": "https://remotejobs.org/remote-jobs/software-engineer-postgres-tooling-supabase",
+      "apply_url": "https://remotejobs.org/remote-jobs/software-engineer-postgres-tooling-supabase",
+      "company": {
+        "name": "Supabase",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/26ad11491325f739f8ad99a4b2e5e5d487396bdfa7952ac1401f24a222477c8e.png",
+        "website": "https://supabase.com",
+        "url": "https://remotejobs.org/companies/supabase"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "Remote, Global",
+      "location_normalization": {
+        "raw": "Remote, Global",
+        "input": {
+          "workArrangement": "remote"
+        },
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [
+          "global"
+        ],
+        "work_arrangement": "remote",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": null,
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": null,
+        "role_family": "software-engineering",
+        "required_skills": [
+          "golang",
+          "postgresql",
+          "typescript"
+        ],
+        "mentioned_skills": [
+          "postgresql",
+          "sql"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": [
+          {
+            "text": "8+ years of experience as a software engineer, including deep, hands-on work with PostgreSQL",
+            "maximum_years": null,
+            "minimum_years": 8,
+            "classification": "required"
+          }
+        ]
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "2184cfbd-927e-4d3c-b34a-f2301d3e8281",
+      "direct_apply": null,
+      "description": "<h2><strong>About Supabase</strong></h2><p>Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth.</p><h2><br>About the Role</h2><p>We’re looking for a <strong>Software Engineer, Postgres Tooling</strong> to join our <strong>CLI team</strong> and help build the open-source tools developers use to change their Postgres schemas safely. You’ll join as a co-maintainer of pg-delta, our schema diff and migration engine, and grow into leading it.</p><p>Given two databases, or a database and a folder of SQL files describing the schema you want, pg-delta works out the differences and generates the migration to get from one to the other. It powers <code>supabase db diff</code>, <code>db pull</code>, and declarative schemas, and it runs underneath Supabase’s platform, branching, and AI agent workflows. Every migration it generates is verified on a throwaway clone before it’s trusted, and it’s tested against 331 scenarios on PostgreSQL 14–18. We’re now working toward a stable, standalone 1.0 release for any Postgres developer, on Supabase or not.</p><p>This is a correctness-first role. The SQL this tool generates runs against production databases, so privilege safety and avoiding data loss are non-negotiable. It’s a great fit for someone who loves Postgres at the catalog level, enjoys compiler-style problems, and thrives in async, fast-paced environments.</p><h2>What You’ll Be Responsible For</h2><p>In this role, you’ll:</p><ul><li><p>Co-maintain pg-delta: review and merge changes, including PRs written by AI agents, and grow into its lead maintainer.</p></li><li><p>Own correctness: triage bug reports from GitHub and support, fix diff and dependency-ordering bugs, and extend test coverage across Postgres versions.</p></li><li><p>Make sure generated migrations are privilege-safe and never silently lose data, by detecting destructive changes and rewriting them into safe equivalents where possible.</p></li><li><p>Help take pg-delta to a stable 1.0: a public API with a semver contract, documentation, and broader coverage of Postgres extensions.</p></li><li><p>Work with the open-source community: triage issues, review outside contributions, and say no gracefully when a request doesn’t fit.</p></li><li><p>Work with the teams across Supabase that build on pg-delta, so migrations are generated and run the same way everywhere.</p></li><li><p>Write the design docs and technical strategy that set the tool’s direction, working async across teams.</p></li><li><p>Share the CLI team’s on-call rotation. Weekdays are covered follow-the-sun, and because we ship packaged software that users can roll back, pages are rare.<br></p></li></ul><h2>You Might Be a Good Fit If You</h2><p>Must have:</p><ul><li><p>Have 8+ years of experience as a software engineer, including deep, hands-on work with <strong>PostgreSQL</strong>.</p></li><li><p>Know Postgres internals at the catalog level: <code>pg_catalog</code>, <code>pg_depend</code>, object ownership, grants and default privileges, <strong>RLS policies</strong>, and extension membership.</p></li><li><p>Understand DDL and migration semantics: which changes take locks, which can’t run inside a transaction, how dependencies determine ordering, and how to spot a destructive change.</p></li><li><p>Treat a migration that silently loosens access as a top-severity bug.</p></li><li><p>Write strong <strong>TypeScript</strong>, and design tests for correctness, such as differential, property-based, or corpus testing across multiple Postgres versions.</p></li><li><p>Are comfortable with compiler-style problems: dependency graphs, topological ordering, cycle handling, and diffing.</p></li><li><p>Can confidently review complex changes in an intricate codebase, including AI-generated PRs.</p></li><li><p>Have owned software in production with users in the loop: staged rollouts, error monitoring, and triaging real bug reports.</p></li><li><p>Have led a technical project across several teams, from an ambiguous start to production.</p></li><li><p>Communicate clearly in writing and thrive in async, globally distributed teams.</p></li></ul><p>Nice to have, roughly in order of how much they’d help:</p><ul><li><p>Have built or maintained schema diff or migration tooling (such as migra, pg-schema-diff, Atlas, pgroll, sqitch, Prisma Migrate, or Flyway/Liquibase), or worked with pg_dump internals.</p></li><li><p>Open-source maintainer experience: API contracts, semver, documentation, and community triage.</p></li><li><p>Familiarity with Postgres extensions such as pg_cron, pgmq, pg_partman, vault, pg_net, pgvector, or PostGIS.</p></li><li><p>Experience with <strong>Go</strong>.</p></li><li><p>Contributions to Postgres itself, or authorship of a Postgres extension.</p></li><li><p>Experience with Supabase or another managed Postgres platform.</p></li></ul><h3><strong>What We Offer</strong></h3><ul><li><p><strong>Fully Remote</strong></p><p>We hire globally. We believe you can do your best work from anywhere. There are no Supabase offices, but we provide a WeWork membership or co-working allowance you can use anywhere in the world.</p></li><li><p><strong>ESOP</strong></p><p>Every team member receives ESOP (equity ownership) in the company. We want everyone to share in the upside of what we’re building together.</p></li><li><p><strong>Tech Allowance</strong></p><p>Use this budget to set up your ideal work environment—laptop, monitor, headphones, or whatever helps you do your best work.</p></li><li><p><strong>Health Benefits</strong></p><p>Supabase covers 100% of health insurance for employees and 80% for dependents, wherever you are. Your wellbeing and your family’s health are important to us.</p></li><li><p><strong>Annual Off-Sites</strong></p><p>Once a year, the entire company gathers in a new city for a week of connection, collaboration, and fun. It’s a highlight of our year.</p></li><li><p><strong>Flexible Work</strong></p><p>We operate asynchronously and trust you to manage your own time. You know what needs to be done and when.</p></li><li><p><strong>Professional Development</strong></p><p>Every team member receives an annual education allowance to spend on learning—courses, books, conferences, or anything that supports your growth.</p></li></ul><h3><strong>About the Team</strong></h3><p>Supabase was born-remote and open-source-first. We believe our globally distributed team is our secret weapon in building tools developers love.</p><ul><li><p>~400 team members</p></li><li><p>60+ countries</p></li><li><p>20+ languages spoken</p></li><li><p>Over $1B raised (including our $500M Series F)</p></li><li><p>540,000+ community members</p></li></ul><p>We move fast, build in public, and use what we ship. If it’s in your project, we probably use it in ours too. We believe deeply in the open-source ecosystem and strive to support—not replace—existing tools and communities.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/software-engineer-postgres-tooling-supabase</p>",
+      "posted_at": "2026-11-19T17:48:28.617+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
       "id": "42cd7141-b21c-40e0-b62e-a8276b1a07ec",
       "title": "Solutions Engineer",
       "url": "https://remotejobs.org/remote-jobs/solutions-engineer-backblaze-external-website",
@@ -2216,6 +2358,78 @@
       "direct_apply": null,
       "description": "<h2><strong>Senior Software Engineer (Backend Applications)</strong></h2>\n<p>We are a global digital innovation agency for the Intelligence Age, specializing in digital product development, brand transformation, media, and communications for major companies. Our Technology team is an integral part of our business; they are perpetual problem solvers, always seeking new and innovative ways to help our creatives bring their ideas to life. We work across a diverse range of projects, from major website builds and core tech platforms to bespoke experiences and strategic innovation with emerging technologies.</p>\n<h2><strong>About the Role</strong></h2>\n<p>We are seeking a Senior Software Engineer with a focus on backend applications to be part of our team servicing Google. This role will be responsible for building core services that power major global web experiences, with an emphasis on data ingestion, API design and implementation, and integrations. You’ll be comfortable with a variety of coding languages such as C++ and Python, and will design and scale low-latency RPC/REST microservices, architect globally distributed relational and vector database schemas, build resilient batch data-ingestion pipelines, and own automated CI/CD release workflows from prototype to production.</p>\n<p>You will act as a core code contributor within a broader team, moving beyond simple feature implementation to architecting reusable systems, performing rigorous code reviews, and ensuring the seamless integration of diverse technologies. The ideal candidate is a specialist who understands the full software development lifecycle and is passionate about delivering high-quality, production-ready code in a collaborative environment.</p>\n<h2><strong>Key Responsabilities</strong></h2>\n<p>On any given day, you will:</p>\n<ul>\n<li><strong>Design &#x26; Evolve API Designs:</strong> Design, version, and maintain clean, backward-compatible gRPC and REST/HTTP APIs (supporting multi-version v1/v2 lifecycles), including request/response contracts, deadline budgets, stateless encrypted pagination, and data-governance annotations.</li>\n<li><strong>Build &#x26; Manage High-Performance Serving &#x26; Search Features:</strong> Build high-concurrency, low-latency backend handlers (using C++ primarily). Optimize hybrid retrieval pipelines that combine full-text search, real-time ML query embeddings, and vector search, with graceful degradation when upstream dependencies degrade.</li>\n<li><strong>Design Distributed Databases: </strong>Architect normalized and interleaved relational schemas, partitioned full-text search indexes, vector indexes, and incremental materialized views on a globally distributed SQL database. Design atomic snapshot/versioning patterns for zero-downtime data updates and instant rollbacks.</li>\n<li><strong>Manage Scalability &#x26; Batch Data Pipelines: </strong>Build and operate distributed ETL/batch ingestion pipelines that extract CMS content, perform HTML chunking and rate-limited ML embedding generation, validate data integrity, quarantine malformed records, and bulk-load snapshots at scale.</li>\n<li><strong>Handle CI/CD, Release Engineering &#x26; Observability: </strong>Maintain automated build, test, coverage, and progressive rollout pipelines (continuous presubmit, multi-day staging soak phases, and decoupled scheduled data syncs).</li>\n<li><strong>Collaborate with Frontend Dev &#x26; Product Teams:</strong> collaborate with other devs to assess product requirements, and translate those into technical specifications.</li>\n<li><strong>Work with a fullstack team: </strong>Collaborate with fullstack web engineers to deliver web experiences leveraging enterprise-grade CMS platforms with custom integrations.</li>\n<li><strong>Documentation &#x26; Technical Mapping</strong>: Create documentation to ensure technical clarity, supporting long-term maintenance and team scalability.</li>\n</ul>\n<h2><strong>The Ideal Candidate</strong></h2>\n<ul>\n<li><strong>T-Shaped: </strong>You have deep expertise in system application development, but also possess a breadth of skills to collaborate and contribute effectively across web experiences, a variety of backend stacks, and infrastructure design.</li>\n<li><strong>Product Mindset: </strong>You don’t just build features; you build systems. You are passionate about understanding how the solutions you build serve broader product initiatives and outcomes and use product inputs to inform your architecture approach</li>\n<li><strong>Large-Scale Delivery</strong>: You understand the rigor that needs to go into delivering and maintaining scaled applications and core services for major brands, including release orchestration, working closely with QA to remediate issues, and working in an agile environment with a scaled team.</li>\n<li><strong>Detail-Oriented Craft: </strong>You possess a passion for product quality, ensuring that your code is not only functional but also clean, maintainable, and well-tested; and can work autonomously to hold yourself and your work to a high standard.</li>\n<li><strong>AI-Enabled: </strong>You’re comfortable leveraging AI code-assist tools to accelerate your workflow and are interested in integrating AI services where they add genuine value to work efficiency, productivity, and quality.</li>\n<li><strong>Always Learning: </strong>You proactively keep up with modern best practices and concepts, and constantly look for ways to incorporate new approaches into your daily work.</li>\n</ul>\n<h2><strong>You Bring</strong></h2>\n<ul>\n<li>5+ years of software engineering experience building production backend services.</li>\n<li><strong>Systems Programming: </strong>Strong proficiency in modern C++ (C++17/20) and familiarity with Python and SQL.</li>\n<li><strong>API &#x26; Service Design: </strong>Proven experience designing versioned RPC (gRPC/Protobuf) and RESTful HTTP APIs, including pagination, input validation, error handling, and backward compatibility.</li>\n<li><strong>Database Design:</strong> Solid foundation in relational database modeling, indexing strategies, query optimization, and transaction/consistency models in distributed SQL systems.</li>\n<li><strong>CI/CD &#x26; Testing:</strong> Strong grasp of CI/CD concepts—hermetic unit/integration testing, code coverage, automated presubmits, canary deployments, staged rollouts, and rollback strategies.</li>\n<li><strong>High-Performance Concurrency: </strong>Experience with asynchronous/fiber-based concurrency models, parallel fan-out/fan-in execution, tail-latency optimization, and circuit-breaking/fallback patterns.</li>\n<li><strong>Search &#x26; ML Retrieval Systems:</strong> Hands-on experience with full-text search engines, dense vector embeddings, approximate/exact vector indexing, or hybrid ranking (e.g., Reciprocal Rank Fusion).</li>\n<li><strong>Data Pipelines &#x26; Streaming/Batch ETL: </strong>Experience building large-scale distributed batch pipelines (e.g., Flume, Beam, Spark) with rate-limited external RPC enrichment and dead-letter/quarantine handling.</li>\n<li><strong>Privacy &#x26; Security Engineering: </strong>Familiarity with cryptographic token handling (AEAD), strict PII/user-data access controls, automated TTL/wipeout policies, and auditable production data changes.</li>\n</ul><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-software-engineer-rga</p>",
       "posted_at": "2026-11-19T13:05:05+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "f7708fb2-35c4-4747-b0e5-778cbb5a2894",
+      "title": "Storage Platform Engineer",
+      "url": "https://remotejobs.org/remote-jobs/storage-platform-engineer-supabase",
+      "apply_url": "https://remotejobs.org/remote-jobs/storage-platform-engineer-supabase",
+      "company": {
+        "name": "Supabase",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/26ad11491325f739f8ad99a4b2e5e5d487396bdfa7952ac1401f24a222477c8e.png",
+        "website": "https://supabase.com",
+        "url": "https://remotejobs.org/companies/supabase"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "Remote, Global",
+      "location_normalization": {
+        "raw": "Remote, Global",
+        "input": {},
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [
+          "global"
+        ],
+        "work_arrangement": "remote",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": null,
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": null,
+        "role_family": "devops",
+        "required_skills": [
+          "cpp",
+          "golang",
+          "kubernetes",
+          "rust"
+        ],
+        "mentioned_skills": [
+          "aws",
+          "kubernetes"
+        ],
+        "preferred_skills": [
+          "aws"
+        ],
+        "experience_requirements": []
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "463d8cd7-3092-44eb-b80e-8d21008e569e",
+      "direct_apply": null,
+      "description": "<h2><strong>About the Role</strong></h2>\n<p>Supabase runs millions of Postgres databases, and storage performance is now one of the biggest levers on how fast, reliable, and affordable they are. We're building a software-defined, NVMe-over-Fabrics storage platform underneath Supabase Postgres. Postgres stays unmodified, and the new layer delivers near-local-NVMe performance with the durability and flexibility of networked storage.</p>\n<p>As the senior engineer driving storage, you'll own this effort end to end: the architecture and build-vs-buy decisions, integration into our compute platform, and operating the system in production.</p>\n<p>Your first goal is raw Postgres I/O performance at scale. In the longer term, the layer you build will provide the block-level snapshots and copy-on-write clones behind database branching, fast restores, and instant resizes. Because it's software-defined, it will also travel with us as we expand beyond a single cloud provider into multi-cloud and colocated infrastructure.</p>\n<p>This is a foundational, high-ownership role. You'll set the technical direction for storage at Supabase and help grow the team around it.</p>\n<h2>What You’ll Be Responsible For</h2>\n<ul>\n<li>\n<p>Lead the architecture of Supabase's NVMe-oF storage platform, including evaluating and deciding between adopting existing software-defined storage and building on SPDK</p>\n</li>\n<li>\n<p>Integrate networked block storage into our Kubernetes-based compute platform through CSI drivers and custom controllers, covering provisioning, attach/detach, resizing, and migration</p>\n</li>\n<li>\n<p>Make Postgres fast on networked storage by profiling and tuning the full I/O path, from fsync, WAL, and checkpoints through the kernel block layer, NVMe/TCP, and the network</p>\n</li>\n<li>\n<p>Design for durability and availability, including replication or erasure coding, failure domains, failover, and data-integrity verification</p>\n</li>\n<li>\n<p>Build I/O isolation and QoS so that noisy neighbors can't degrade other tenants</p>\n</li>\n<li>\n<p>Set performance and reliability SLOs, and build the benchmarking and observability to hold the system to them</p>\n</li>\n<li>\n<p>Design the layer for block-level snapshots and copy-on-write clones, laying the groundwork for database branching</p>\n</li>\n<li>\n<p>Keep the platform portable across AWS, other clouds, and bare-metal/colo</p>\n</li>\n<li>\n<p>Write design docs, mentor engineers, and work closely with the Compute, Branching, Postgres, and Multicloud teams</p>\n</li>\n<li>\n<p>Participate in on-call rotations, incident response, and post-incident reviews</p>\n</li>\n<li>\n<p>Resolve escalated support issues, while also identifying and resolving systemic issues across the platform</p>\n</li>\n</ul>\n<h2><strong>You Might Be a Good Fit If You</strong></h2>\n<h3>Must have:</h3>\n<ul>\n<li>\n<p>Have 7+ years of software engineering experience, including significant time building and operating storage systems in production</p>\n</li>\n<li>\n<p>Have built or operated distributed or software-defined block storage (for example Ceph RBD, Lightbits, Simplyblock, Portworx, LINSTOR/DRBD, or an in-house system)</p>\n</li>\n<li>\n<p>Have hands-on experience with NVMe/TCP or NVMe-oF, including targets, initiators, multipath, and failover behavior</p>\n</li>\n<li>\n<p>Have a deep understanding of Linux storage internals: the block layer, io_uring, page cache, O_DIRECT and fsync semantics, filesystems, and device-mapper</p>\n</li>\n<li>\n<p>Write strong systems code in Go, plus C, C++, or Rust</p>\n</li>\n<li>\n<p>Measure performance rigorously with fio, pgbench, eBPF, and perf, and can explain latency down to its individual components</p>\n</li>\n<li>\n<p>Understand durability tradeoffs between replication, erasure coding, and consistency under failure</p>\n</li>\n<li>\n<p>Have led technical direction on a complex system: design docs, tradeoffs, and bringing others along</p>\n</li>\n<li>\n<p>Have experience with Kubernetes controllers and/or CSI drivers</p>\n</li>\n<li>\n<p>Have been on call for large production systems</p>\n</li>\n<li>\n<p>Communicate clearly in writing and thrive in async, globally distributed teams</p>\n</li>\n</ul>\n<h3>Nice to have:</h3>\n<ul>\n<li>\n<p>SPDK development experience</p>\n</li>\n<li>\n<p>RDMA/RoCE experience</p>\n</li>\n<li>\n<p>Experience implementing block-level snapshots, thin provisioning, or copy-on-write cloning</p>\n</li>\n<li>\n<p>Postgres internals knowledge (WAL, buffer manager, checkpointer), or familiarity with OrioleDB</p>\n</li>\n<li>\n<p>Experience with AWS networking and instance storage at scale (ENA, placement, bandwidth limits)</p>\n</li>\n<li>\n<p>Experience running storage on bare metal or in colo</p>\n</li>\n<li>\n<p>Contributions to open source storage projects or the Linux kernel storage stack</p>\n</li>\n</ul>\n<h3><strong>What We Offer</strong></h3>\n<ul>\n<li>\n<p><strong>Fully Remote</strong></p>\n<p>We hire globally. We believe you can do your best work from anywhere. There are no Supabase offices, but we provide a WeWork membership or co-working allowance you can use anywhere in the world.</p>\n</li>\n<li>\n<p><strong>ESOP</strong></p>\n<p>Every team member receives ESOP (equity ownership) in the company. We want everyone to share in the upside of what we’re building together.</p>\n</li>\n<li>\n<p><strong>Tech Allowance</strong></p>\n<p>Use this budget to set up your ideal work environment—laptop, monitor, headphones, or whatever helps you do your best work.</p>\n</li>\n<li>\n<p><strong>Health Benefits</strong></p>\n<p>Supabase covers 100% of health insurance for employees and 80% for dependents, wherever you are. Your wellbeing and your family’s health are important to us.</p>\n</li>\n<li>\n<p><strong>Annual Off-Sites</strong></p>\n<p>Once a year, the entire company gathers in a new city for a week of connection, collaboration, and fun. It’s a highlight of our year.</p>\n</li>\n<li>\n<p><strong>Flexible Work</strong></p>\n<p>We operate asynchronously and trust you to manage your own time. You know what needs to be done and when.</p>\n</li>\n<li>\n<p><strong>Professional Development</strong></p>\n<p>Every team member receives an annual education allowance to spend on learning—courses, books, conferences, or anything that supports your growth.</p>\n</li>\n</ul>\n<h3><strong>About the Team</strong></h3>\n<p>Supabase was born-remote and open-source-first. We believe our globally distributed team is our secret weapon in building tools developers love.</p>\n<ul>\n<li>\n<p>~400 team members</p>\n</li>\n<li>\n<p>60+ countries</p>\n</li>\n<li>\n<p>20+ languages spoken</p>\n</li>\n<li>\n<p>Over $1B raised (including our $500M Series F)</p>\n</li>\n<li>\n<p>540,000+ community members</p>\n</li>\n</ul>\n<p>We move fast, build in public, and use what we ship. If it’s in your project, we probably use it in ours too. We believe deeply in the open-source ecosystem and strive to support—not replace—existing tools and communities.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/storage-platform-engineer-supabase</p>",
+      "posted_at": "2026-11-19T12:56:25.99+00:00",
       "is_translated": false,
       "original_language": null
     },
@@ -3217,405 +3431,6 @@
       "direct_apply": null,
       "description": "<p><strong>About the Role</strong></p>\n<p>We are building a new engineering-led production support function, and as a <strong>Senior Software Engineer, Production Support</strong>, you will operate at the intersection of support, product, and engineering. Your primary focus will be to debug complex product issues, ship fixes, and improve overall system reliability — serving as the technical escalation layer that helps our support team resolve issues quickly and eliminate them at the root.</p>\n<p>You will be part of a dedicated production support pod, working alongside engineers and support teammates to tackle real issues in production, bridging the gap between customer-facing challenges and long-term engineering solutions.</p>\n<p><em>This hire must be comfortable working 9am to 6pm Pacific Time.</em></p>\n<p><strong>What You’ll Do:</strong></p>\n<p>Debug &#x26; Resolve Complex Issues</p>\n<ul>\n<li>\n<p>Investigate escalations across frontend (JavaScript), APIs, and data flows</p>\n</li>\n<li>\n<p>Reproduce issues and identify root causes</p>\n</li>\n<li>\n<p>Work across the stack to understand system behavior</p>\n</li>\n</ul>\n<p>Ship Fixes &#x26; Improvements</p>\n<ul>\n<li>\n<p>Write and ship small-to-medium fixes (PRs)</p>\n</li>\n<li>\n<p>Improve reliability and reduce repeat issues</p>\n</li>\n<li>\n<p>Contribute incremental product improvements</p>\n</li>\n</ul>\n<p>Support the Support Team</p>\n<ul>\n<li>\n<p>Act as the technical escalation point for support representatives</p>\n</li>\n<li>\n<p>Provide clear guidance and unblock issues quickly</p>\n</li>\n<li>\n<p>Help improve debugging workflows and internal playbooks</p>\n</li>\n</ul>\n<p>Contribute to Customer Feedback Execution</p>\n<ul>\n<li>\n<p>Translate structured customer feedback into actionable technical issues</p>\n</li>\n<li>\n<p>Provide <strong>T-shirt sizing (S / M / L)</strong> from an engineering perspective</p>\n</li>\n<li>\n<p>Identify small, high-impact fixes that can be shipped quickly</p>\n</li>\n<li>\n<p>Help close the loop on resolved issues</p>\n</li>\n</ul>\n<p>Drive Systemic Improvements</p>\n<ul>\n<li>\n<p>Identify recurring issues and eliminate them</p>\n</li>\n<li>\n<p>Improve logging, observability, and debugging processes</p>\n</li>\n<li>\n<p>Build lightweight tooling or scripts to improve efficiency</p>\n</li>\n</ul>\n<p><strong>What You Are:</strong></p>\n<ul>\n<li>\n<p><strong>5+ years of experience</strong> in Software Engineering, Developer Support / DevEx, Solutions Engineering, or Technical Product Support ideally for a B2B SaaS platform.</p>\n</li>\n<li>\n<p>Familiarity with modern web technologies such as TypeScript, React, Node.js, Python, GraphQL.</p>\n</li>\n<li>\n<p>Experience working with relational databases (e.g. PostgreSQL), including: understanding data models, writing/debugging SQL queries, investigating data inconsistencies.</p>\n</li>\n<li>\n<p>Comfortable reading and navigating production codebases.</p>\n</li>\n<li>\n<p>Experience debugging across: browser dev tools, APIs and network requests, frontend UI/state issues, backend data flows and database interactions.</p>\n</li>\n<li>\n<p>Effective communication with an ability to code-switch between technical and non-technical audiences.</p>\n</li>\n<li>\n<p>Experience shipping code (PRs, fixes, and small features).</p>\n</li>\n</ul><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-software-engineer-production-support-fieldguide</p>",
       "posted_at": "2026-11-17T22:34:23.174+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "c12dcb65-6546-40a9-95dd-d82cb1e80a85",
-      "title": "Mid-Level Development Analyst | Integrations",
-      "url": "https://remotejobs.org/remote-jobs/analista-de-desenvolvimento-pleno-integraes-gera-sales-ecosystem",
-      "apply_url": "https://remotejobs.org/remote-jobs/analista-de-desenvolvimento-pleno-integraes-gera-sales-ecosystem",
-      "company": {
-        "name": "Gera Sales Ecosystem",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/8963d7c9ccf7a6c8bffd856f236a5df5148c2c6dde1ade1a7b12129522bf1b8f.webp",
-        "website": null,
-        "url": "https://remotejobs.org/companies/gera-sales-ecosystem"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "Brazil",
-      "location_normalization": {
-        "raw": "Brazil",
-        "input": {},
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "BR"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [],
-        "evidence_ids": [
-          "source-location"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "remote",
-        "allowed_countries": [
-          "BR"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": "mid",
-        "role_family": null,
-        "required_skills": [],
-        "mentioned_skills": [
-          "csharp",
-          "r",
-          "sql"
-        ],
-        "preferred_skills": [],
-        "experience_requirements": []
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": null,
-      "salary_period": "year",
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<h2>Job description</h2>\n<p>Description dWe are looking for a Mid-Level Development Analyst to join our Technology team, contributing to turning ideas and needs into solutions with quality, performance and good practices, aligned with the needs of our clients and Gera's strategy.</p>\n<p>In this opportunity, the work will have a greater focus on plugins, APIs and integrations between systems, contributing to communication and information exchange between different applications.</p>\n<p>We are looking for someone with good analytical skills, who enjoys investigating problems, understanding how different systems connect and building solutions collaboratively.</p>\n<h2>As a #GTeam member, you will:</h2>\n<ul>\n<li>Write code in a clear and objective way, using best practices (Clean Code), aiming for better performance;</li>\n<li>Test your developments, ensuring delivery quality without causing side effects in other parts of the system;</li>\n<li>Actively contribute to grooming to ensure the best implementation strategy;</li>\n<li>Actively contribute to defining acceptance criteria and identify possible \"gaps\" and improvements in the scope of the activity;</li>\n<li>Analyze the root cause of bugs and propose a definitive or workaround solution;</li>\n<li>Actively contribute to the planning and decomposition of stories and technical tasks;</li>\n<li>Support internal or external clients with technical questions, test execution, or understanding a possible problem, when requested.</li>\n<li>Stay up to date with new technologies and seek improvements for our products;</li>\n<li>Ensure all developments are included in version update packages (staging and production).</li>\n<li>Provide technical knowledge throughout the product lifecycle, including design, implementation and delivery of scalable build/test/release infrastructure;</li>\n<li>Assist in configuring pre-sales environments when requested;</li>\n<li>Document development tasks following best practices.</li>\n</ul>\n<p><strong>For this position, we are looking for someone with a solid foundation and knowledge in:</strong></p>\n<ul>\n<li>C#;</li>\n<li>Oracle;</li>\n<li>SQL Server;</li>\n<li>Integrations between systems;</li>\n<li>Development and consumption of APIs;</li>\n<li>Concepts related to communication and network connections between systems;</li>\n<li>Git/GitHub.</li>\n</ul>\n<p>In addition to technical knowledge, analytical and investigative skills, ease in solving problems, organization, collaboration and systemic vision will be important.</p>\n<h2><strong>It will be a differentiator:</strong></h2>\n<ul>\n<li>Experience with plugins and integrations between different applications;</li>\n<li>Knowledge of API standards and best practices;</li>\n<li>Experience analyzing and resolving communication failures between systems.</li>\n</ul>\n<h2>Additional information</h2>\n<h2>What you will find here:</h2>\n<p>✨ Collaborative environment, with knowledge sharing among the team</p>\n<p>✨ Technical challenges involving integrations, APIs, plugins and communication between systems</p>\n<p>✨ Exposure to different solutions and opportunities for continuous learning</p>\n<p>✨ Participation in projects and initiatives relevant to Gera's products and clients</p>\n<p>✨ Space to investigate problems, propose improvements and contribute to the evolution of solutions</p>\n<p>✨ Opportunity for development and career building in Technology<br>\n<br>\n<strong>Our #GTeam Benefits Package:</strong></p>\n<ul>\n<li>🍽️ Meal voucher of R$ 37,00 per business day on the Caju Card;</li>\n<li>🚌 Transportation voucher</li>\n<li>🩺 Medical assistance from Sulamérica;</li>\n<li>🦷 Dental assistance from Porto Seguro;</li>\n<li>🛡️ Life insurance</li>\n<li>👶 Childcare allowance for children up to 5 years old</li>\n<li>🎓 Scholarship for short and long courses and languages</li>\n<li>💻 Home Office allowance | Cost assistance for remote work.</li>\n<li>🎂 Day off on your birthday, take the day to celebrate =D</li>\n<li>💰 PLR (Profit Sharing and Results) linked to achieving company goals and results.</li>\n</ul>\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/analista-de-desenvolvimento-pleno-integraes-gera-sales-ecosystem</p>",
-      "posted_at": "2026-11-17T20:33:25+00:00",
-      "is_translated": true,
-      "original_language": "pt"
-    },
-    {
-      "id": "0a789e23-5ab2-4c80-ba4f-fac15256f444",
-      "title": "Sr. Salesforce Architect - Remote",
-      "url": "https://remotejobs.org/remote-jobs/sr-salesforce-architect-remote-american-cancer-society",
-      "apply_url": "https://remotejobs.org/remote-jobs/sr-salesforce-architect-remote-american-cancer-society",
-      "company": {
-        "name": "American Cancer Society",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/2e547e5d6c96af26d39640a72eda9164c0e878f2779168d650b3dd6aabb5200c.jpeg",
-        "website": "https://american.com",
-        "url": "https://remotejobs.org/companies/american-cancer-society"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "United States",
-      "location_normalization": {
-        "raw": "United States",
-        "input": {},
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [
-          {
-            "kind": "license",
-            "areas": [
-              {
-                "country_code": "US",
-                "subdivision_code": null
-              }
-            ],
-            "effect": "allow",
-            "details": "Candidates can be located anywhere in the U.S.",
-            "regions": [],
-            "timezones": [],
-            "evidence_id": "c2",
-            "conditional_on": null
-          }
-        ],
-        "unresolved": [],
-        "evidence_ids": [
-          "c2",
-          "source-location"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "remote",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": "senior",
-        "role_family": null,
-        "required_skills": [],
-        "mentioned_skills": [],
-        "preferred_skills": [],
-        "experience_requirements": []
-      },
-      "salary_min": 135000,
-      "salary_max": 147000,
-      "salary_text": "USD 135,000–147,000/year",
-      "salary_source_text": "USD 135000 - 147000",
-      "salary_currency": "USD",
-      "salary_period": "year",
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<p>At the American Cancer Society, we're working to end cancer as we know it, for everyone. Our employees and 1.3 million volunteers are raising the bar every single day. We are a culture comprised of diverse backgrounds and experience, to better serve our communities. <br><br>The people who work at the American Cancer Society focus their diverse talents on our lifesaving mission. It is a calling. And the people who answer it are fulfilled.</p><p>This is a 100% remote role. Candidates can be located anywhere in the U.S. <br><br><br>The Sr. Salesforce Solution Architect is responsible for designing and delivering well-architected, scalable, and sustainable Salesforce solutions that drive business value. This Sr. role owns the end-to-end technical vision for Salesforce implementations, ensuring solutions are robust, secure, maintainable, and aligned with both current operational needs and the organization’s long-term strategic objectives.<br><br>The Sr. Salesforce Solution Architect provides expert technical leadership across the Salesforce platform, including architecture governance, solution design, integration strategy, data architecture, and release management. This role focuses on creating high-quality, future-proof solutions while balancing immediate business demands with platform best practices, technical debt management, and maximum leverage of Salesforce capabilities.<br><br>The Sr. Salesforce Solution Architect provides expert technical leadership across the Salesforce platform, including architecture governance, solution design, integration strategy, data architecture, and release management. This role focuses on creating high-quality, future-proof solutions while balancing immediate business demands with platform best practices, technical debt management, and maximum leverage of Salesforce capabilities.</p><h2>ESSENTIAL FUNCTIONS:</h2><ul>\n<li>Lead the design and architecture of complex, well-architected Salesforce solutions across multiple clouds (Sales Cloud, Service Cloud, Nonprofit Cloud, Experience Cloud, Data Cloud, Marketing Cloud, etc.), ensuring adherence to Salesforce Well-Architected Framework principles (security, performance, scalability, maintainability, and reliability). (25%)<br>\n</li>\n<li>Develop and maintain Salesforce technology roadmaps, architecture principles, standards, and best practices for CRM, data management, development, release processes, and integrations. (15%)<br>\n</li>\n<li>Provide technical guidance and mentoring to delivery teams, ensuring solutions follow governance standards, security/compliance requirements, and Salesforce best practices. (15%)<br>\n</li>\n<li>Collaborate with business leaders, application owners, technology teams, vendors, and stakeholders to gather requirements, evaluate options, and recommend optimal Salesforce-based solutions. (15%)<br>\n</li>\n<li>Support investment and prioritization decisions by clearly articulating the technical implications, risks, costs, and long-term benefits of proposed solutions. (15%)<br>\n</li>\n<li>Champion the adoption of emerging Salesforce capabilities to solve business challenges efficiently. (15%)</li>\n</ul><h2>EXPERIENCE/QUALIFICATIONS:</h2><ul>\n<li>Minimum Degree Required: Bachelor's Degree in Computer Science, Information Systems or other related field.  Or equivalent combination of education and work experience</li>\n<li>Preferred Degree: Bachelor's Degree</li>\n<li>Required Certifications: Salesforce Certified Application Architect, Salesforce Certified System Architect</li>\n<li>Preferred Certifications: Salesforce Certified Agentforce Specialist, Salesforce Certified Data 360 Consultant, Salesforce Certified Marketing Cloud Engagement Consultant, Salesforce Certified Nonprofit Cloud Consultant (NPC)</li>\n<li>Years of experience:  8+ years of progressive experience in the Salesforce ecosystem, with at least 4–5 years in a Solution Architect or Technical Architect capacity on complex implementations.</li>\n</ul><h2>KNOWLEDGE, SKILLS, AND ABILITY: </h2><ul>\n<li>Proven success designing and delivering enterprise-grade, multi-cloud Salesforce solutions with strong emphasis on architecture quality and long-term sustainability.</li>\n<li>Deep expertise in Salesforce platform capabilities, declarative development, Apex, Lightning Web Components, integrations (APIs, MuleSoft, middleware), data architecture, and security models.</li>\n<li>Experience creating and governing technology roadmaps and architectural standards in a Salesforce environment.</li>\n<li>Strong background in Agile delivery, DevOps practices (CI/CD for Salesforce), and change management.</li>\n<li>Strong knowledge of data standards, compliance (e.g., GDPR, HIPAA), master data management, and security best practices like role-based access and encryption to ensure reliable data flows.</li>\n<li>Excellent storytelling and visualization skills using tools like UML, process flow diagrams, and sequence diagrams to document solutions, wireframe designs, and convey tradeoffs to non-technical leaders.</li>\n<li>Skill in translating business requirements into technical roadmaps, assessing risks/costs vs. benefits, and leading Architecture Review Boards to ensure solutions support organizational strategy.</li>\n<li>Experience guiding teams, mentoring junior developers, and driving innovation through research on market trends, with a focus on agile methodologies and continuous improvement.</li>\n</ul><h2>TRAVEL REQUIREMENTS:</h2><ul><li>Occasional travel may be required, generally limited to 1-2 trips annually for essential business meetings and professional development opportunities (e.g., training or conferences).</li></ul><h2>PHYSICAL REQUIREMENTS:</h2><ul>\n<li>Frequent sitting and use of computer equipment</li>\n<li>Occasional standing, walking, bending, and lifting materials up to 10 lbs.</li>\n<li>Availability and ability to work after hours, weekends, holidays, etc. as needed, to be on call and/or to fulfill job responsibilities and requirements.</li>\n</ul><p>The starting rate is $135,000 to $147,000. The final candidate's relevant experience/skills will be considered before an offer is extended. Actual starting pay will vary based on non-discriminatory factors including, but not limited to, geographic location, experience, skills, specialty, and education.</p><p>ACS provides staff a generous paid time off policy; medical, dental, retirement benefits, wellness programs, and professional development programs to enhance staff skills. Further details on our benefits can be found on our careers site at: jobs.cancer.org/benefits. We are a proud equal opportunity employer.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/sr-salesforce-architect-remote-american-cancer-society</p>",
-      "posted_at": "2026-11-17T20:30:40+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "6073df7d-226a-445b-b6f9-569bc08a2b6c",
-      "title": "Frontend Developer (Western EU)",
-      "url": "https://remotejobs.org/remote-jobs/frontend-developer-western-eu-ethikos",
-      "apply_url": "https://remotejobs.org/remote-jobs/frontend-developer-western-eu-ethikos",
-      "company": {
-        "name": "Ethikos",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/b5b6521d142c5fd11d25242d7d629363a69b468fd0dd304d7d94a8ec09f5909d.webp",
-        "website": null,
-        "url": "https://remotejobs.org/companies/ethikos"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See (Vatican City State), Hungary, Iceland, Ireland, Isle of Man, Italy, Jersey, Kosovo, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Monaco, Montenegro, Netherlands, North Macedonia, Norway, Poland, Portugal, Romania, San Marino, Serbia, Slovakia, Slovenia, Spain, Svalbard and Jan Mayen, Sweden, Switzerland, Ukraine, United Kingdom, Åland Islands",
-      "location_normalization": {
-        "raw": "Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See (Vatican City State), Hungary, Iceland, Ireland, Isle of Man, Italy, Jersey, Kosovo, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Monaco, Montenegro, Netherlands, North Macedonia, Norway, Poland, Portugal, Romania, San Marino, Serbia, Slovakia, Slovenia, Spain, Svalbard and Jan Mayen, Sweden, Switzerland, Ukraine, United Kingdom, Åland Islands",
-        "input": {},
-        "scope": "restricted",
-        "status": "partial",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [
-          "kosovo",
-          "vatican city state"
-        ],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "AD",
-          "AL",
-          "AT",
-          "AX",
-          "BA",
-          "BE",
-          "BG",
-          "BY",
-          "CH",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "EE",
-          "ES",
-          "FI",
-          "FO",
-          "FR",
-          "GB",
-          "GG",
-          "GI",
-          "GR",
-          "HR",
-          "HU",
-          "IE",
-          "IM",
-          "IS",
-          "IT",
-          "JE",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MC",
-          "MD",
-          "ME",
-          "MK",
-          "MT",
-          "NL",
-          "NO",
-          "PL",
-          "PT",
-          "RO",
-          "RS",
-          "SE",
-          "SI",
-          "SJ",
-          "SK",
-          "SM",
-          "UA",
-          "VA"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "partial",
-        "regions": [
-          "EU"
-        ],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [
-          {
-            "kind": "timezone",
-            "areas": [],
-            "effect": "require",
-            "details": "working hours are compatible w/ the team",
-            "regions": [],
-            "timezones": [],
-            "evidence_id": "c3",
-            "conditional_on": null
-          }
-        ],
-        "unresolved": [
-          "Remote work permission is limited to the EU, but the posting does not enumerate EU member countries and the location header lists non-EU European countries; the applicant country set cannot be fully represented.",
-          "The working-hour compatibility condition with the team is vague and cannot be converted into a defined time overlap.",
-          "the working hours are compatible with the team"
-        ],
-        "evidence_ids": [
-          "c2",
-          "c3",
-          "source-location"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "remote",
-        "allowed_countries": [
-          "AD",
-          "AL",
-          "AT",
-          "AX",
-          "BA",
-          "BE",
-          "BG",
-          "BY",
-          "CH",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "EE",
-          "ES",
-          "FI",
-          "FO",
-          "FR",
-          "GB",
-          "GG",
-          "GI",
-          "GR",
-          "HR",
-          "HU",
-          "IE",
-          "IM",
-          "IS",
-          "IT",
-          "JE",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MC",
-          "MD",
-          "ME",
-          "MK",
-          "MT",
-          "NL",
-          "NO",
-          "PL",
-          "PT",
-          "RO",
-          "RS",
-          "SE",
-          "SI",
-          "SJ",
-          "SK",
-          "SM",
-          "UA",
-          "VA"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": null,
-        "role_family": "software-engineering",
-        "required_skills": [],
-        "mentioned_skills": [
-          "javascript",
-          "react",
-          "typescript"
-        ],
-        "preferred_skills": [],
-        "experience_requirements": []
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": null,
-      "salary_period": "year",
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<p><strong>¡Jobs with Impact! Are you looking to work in an impactful organization? Scroll down and learn more about the \"Frontend Developer\" vacancy at kencko.</strong></p>\n<hr>\n<h2>Our Mission</h2>\n<p>We make it easy for everyone to build healthy habits and eat more fruit and vegetables by creating innovative products that are highly nutritious, sustainable, and delicious.</p>\n<h2>How We Do It</h2>\n<p>Just 1 in 10 US adults eats the recommended minimum of 5 cups of fruits and vegetables every day. We're helping solve that problem with convenient, organic, and mouth-watering products.<br>\nWe transform fresh, organic fruits and veggies into handy single-serving meal moments such as instant smoothies and delicious ready-to-eat gum drops.</p>\n<p><strong>Job Overview</strong> We are a fast-growing B-Corp startup that strongly believes every single kencko-er we hire is a key part of our shared success. We are now seeking a full-time <strong>Sr. Frontend Developer</strong> to help us continue building our engine.</p>\n<h2>Responsibilities</h2>\n<ul>\n<li>Developing new or adapting existing UI components in JavaScript and TypeScript, with React using Next.js framework and CSS.</li>\n<li>Partner with design to implement new features by collaborating using Figma.</li>\n<li>Writing clean, maintainable code and apply proper testing on code.</li>\n<li>Ensuring a flawless UX and UI experience for our members.</li>\n<li>Actively participate in creating a team culture that you would want to invite your friends to work in.</li>\n</ul>\n<h2>Experience You Bring</h2>\n<ul>\n<li>3+ years of professional software development experience.</li>\n<li>Several years of experience building modular frontend applications in React.</li>\n<li>Experience building modular and scoped CSS and optimizing it for cross-browser and cross-platform compatibility (desktop / tablet / mobile).</li>\n<li>Have excellent communication skills, are a self starter and be resourceful.</li>\n<li>Fluent in English.</li>\n</ul>\n<h2>Nice-To-Haves</h2>\n<ul>\n<li>Experience with Server Side Rendering and/or NextJS (Bonus)</li>\n<li>Experience with TypeScript</li>\n<li>Experience working with Shopify and other ecommerce solutions a strong plus.</li>\n</ul>\n<h2>How To Apply</h2>\n<p>Along with your CV, please be sure to answer the questions found in the application. All application materials must be submitted in English.</p>\n<p>Submit your application here:</p>\n<h2>What We Offer</h2>\n<ul>\n<li>The opportunity to join a B-Corp team that is shaking-up the nutrition industry for the better!</li>\n<li>The opportunity to work remotely in the EU so long as the working hours are compatible w/ the team</li>\n<li>An employee stock equity award</li>\n<li>Private health insurance, kencko pays 100% premium for you and your spouse/domestic partner</li>\n<li>25 days of paid time off</li>\n<li>Steep discounts on Kencko products for you and friends/family, plus free samples of new launches</li>\n<li>Nutrition Consults</li>\n<li>Generous Maternity/Paternity and Marriage Leave policies</li>\n<li>Destination offsites</li>\n<li>Donation to your favorite charity on your birthday!</li>\n<li>Wellness perks via our kencko-er assistance program</li>\n<li>A casual, dynamic, ambitious, and for real fun work environment</li>\n</ul>\n<p>kencko is committed to bringing together individuals from different backgrounds and perspectives. We strive to create an inclusive environment where everyone can thrive, feel a sense of belonging, and do great work together. As an equal opportunity employer, we prohibit any unlawful discrimination against a job applicant on the basis of their race, color, religion, veteran status, sex, parental status, gender identity or expression, transgender status, sexual orientation, national origin, age, disability or genetic information. We are dedicated to going above and beyond in fostering diversity across our company.</p>\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/frontend-developer-western-eu-ethikos</p>",
-      "posted_at": "2026-11-17T20:30:05+00:00",
       "is_translated": false,
       "original_language": null
     },
@@ -4856,6 +4671,83 @@
       "direct_apply": null,
       "description": "<p><strong>Headquarters:</strong> New York, New York; Miami, Florida; Remote (USA)</p>\n<p><strong>About the Company</strong></p>\n<p>Gemini is a global crypto and Web3 platform founded by Cameron and Tyler Winklevoss in 2014, offering a wide range of simple, reliable, and secure crypto products and services to individuals and institutions in over 70 countries. Our mission is to unlock the next era of financial, creative, and personal freedom by providing trusted access to the decentralized future. We envision a world where crypto reshapes the global financial system, internet, and money to create greater choice, independence, and opportunity for all — bridging traditional finance with the emerging cryptoeconomy in a way that is more open, fair, and secure. As a publicly traded company, Gemini is poised to accelerate this vision with greater scale, reach, and impact.</p>\n<p><strong>The Department: Platform Security</strong></p>\n<p>In the emerging industry of digital assets, there is nothing more important than trust. The Gemini security team forms the backbone of trust. In fact, Gemini’s very first hires were security specialists and we continue to tackle unique challenges in the crypto space.  Our team ensures that our customers, clients, and employees are safe, secure, and supported.</p>\n<p><strong>The Role: Senior Manager, Platform Security</strong></p>\n<p>Gemini takes a cloud-first approach to our services, platforms, and vendors, allowing the organization to continue scaling with hypergrowth hiring, innovative product development, and demanding customer needs. To achieve that scale securely, Gemini has a dedicated Platform Security team whose mission is to enable the business to achieve secure-by-design architectures, implement best-in-class security technologies, and help our engineering partners to achieve security success easily &#x26; confidently. To further that mission, we’re looking for a new leader to join the existing team to take our vision, strategy, internal partnerships, business alignment, &#x26; technical expertise to the next stage of maturity. At Gemini, our best leaders lead from the trenches — we need this Senior Manager to remain hands-on, spending a meaningful portion of their time in the code, IaC, and architecture diagrams alongside their team — writing Terraform, reviewing PRs, and prototyping solutions, not just unblocking others when they're stuck.</p>\n<p><strong>Responsibilities:</strong></p>\n<ul>\n<li>Provide strategic and technical leadership of Gemini's Platform Security team, personally architecting and implementing security solutions alongside engineers — including writing and reviewing Terraform, CI/CD pipelines, and security tooling code</li>\n<li>Align team-wide strategy with the needs of the business, internal partners, &#x26; peer Security leadership</li>\n<li>Enable the ongoing success &#x26; growth of the team through creation of hiring plans and hands-on technical mentorship — pairing with engineers, reviewing designs and PRs, and staying current on the team's actual codebase</li>\n<li>Establish a Platform Security roadmap for initiatives that will provide ever-increasing maturity of capabilities for stakeholders, while also reducing toil through automation</li>\n<li>Serve as a senior technical escalation point for the team's hardest architecture and engineering problems, contributing working code/IaC when the situation calls for it</li>\n<li>Foster trust-centric relationships with key partner teams, ensuring that their voices are heard and needs are being met, while achieving excellent security outcomes together</li>\n<li>Lead the development of security policies, procedures, standards, &#x26; guidelines that will guide functional security outcomes with all GRC and Audits needs being met</li>\n<li>Determine program KPIs that will meaningfully highlight where we’re succeeding, or falling short of, the mission we aim to accomplish for the business</li>\n<li>Provide guidance through lived-experience and industry awareness on the different approaches to architecture, security engineering, and business-achievement goals</li>\n<li>Define a customer-first process, choosing to provide self-service solutions that minimize friction, create agility, and provide value-oriented ways to solve problems</li>\n<li>Manage relevant third-party vendor relationships, leading the determination of when &#x26; why to “build” vs. “buy” in response to gaps in capabilities the business may have</li>\n</ul>\n<p><strong>Qualifications:</strong></p>\n<ul>\n<li>5+ years of leadership experience for cloud-native engineering and/or security teams, with a strong preference for Amazon Web Services (AWS)-based organizations</li>\n<li>10+ years of direct, technical experience in relevant roles (e.g., Platform Engineering, Security), with continued hands-on coding/IaC work within the last 2-3 years — not solely past practitioner experience</li>\n<li>Strong experience in AWS, EKS (Kubernetes), IAM, Terraform, GitHub Enterprise Cloud</li>\n<li>Experience leveraging industry security frameworks &#x26; standards that act as the basis of maturing the overall security program and enable successful business outcomes</li>\n<li>Comfortable with hiring &#x26; scaling a team </li>\n<li>Prior success in leading a team through organizational change management, with a strong preference for start-up experience in a technology-centric business</li>\n<li>Able to easily communicate with technical stakeholders at their level, hearing their feedback and translating those needs or concerns into program-level outcomes</li>\n<li>Pragmatic about security requirements, ignoring “best practices” that don’t make sense to the needs of the business by leveraging your team’s expertise for decision making</li>\n<li>Strong written and verbal communication skills with an attention to detail</li>\n</ul>\n<p><strong>It Pays to Work Here</strong></p>\n<p>The compensation &#x26; benefits package for this role includes:</p>\n<ul>\n<li>Competitive starting pay</li>\n<li>A discretionary annual bonus</li>\n<li>Long-term incentive in the form of a new hire equity grant</li>\n<li>Comprehensive health plans</li>\n<li>401K with company matching</li>\n<li>Paid Parental Leave</li>\n<li>Flexible time off</li>\n</ul>\n<p><strong>Salary Range</strong>: The base salary range for this role is between $195,000 - $300,000 in the State of New York. This range is not inclusive of our discretionary bonus or equity package. When determining a candidate’s compensation, we consider a number of factors including skillset, experience, job scope, and current market data.</p>\n<p><em>In the United States, we offer a hybrid work approach at our hub offices, balancing the benefits of in-person collaboration with the flexibility of remote work. Expectations may vary by location and role, so candidates are encouraged to connect with their recruiter to learn more about the specific policy for the role. Employees who do not live near one of our hubs are part of our remote workforce. All employees, however, are required to onboard in-person at one of our office locations.</em></p>\n<p><em>At Gemini, we strive to build diverse teams that reflect the people we want to empower through our products, and we are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, or Veteran status. Equal Opportunity is the Law, and Gemini is proud to be an equal opportunity workplace. If you have a specific need that requires accommodation, please let a member of the People Team know.</em></p>\n<p><em>#LI-AA1</em></p>\n<p><strong>To apply:</strong> https://weworkremotely.com/remote-jobs/gemini-senior-manager-platform-security</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-manager-platform-security-gemini</p>",
       "posted_at": "2026-11-19T18:30:55+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "7798b670-c073-4dcf-9914-0f6159c712e1",
+      "title": "Manager, Site Reliability Engineering",
+      "url": "https://remotejobs.org/remote-jobs/manager-site-reliability-engineering-lumin-digital",
+      "apply_url": "https://remotejobs.org/remote-jobs/manager-site-reliability-engineering-lumin-digital",
+      "company": {
+        "name": "Lumin Digital",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/dc23cdbafecfc9dcef43a56c817aa404b7e71dfcd6e30cb769c71676152e5098.jpeg",
+        "website": "https://lumindigital.com",
+        "url": "https://remotejobs.org/companies/lumin-digital"
+      },
+      "category": {
+        "name": "DevOps",
+        "slug": "devops"
+      },
+      "location": "Remote - United States",
+      "location_normalization": {
+        "raw": "Remote - United States",
+        "input": {
+          "workArrangement": "remote"
+        },
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "worksite_countries": [
+          "US"
+        ],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": null,
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": "manager",
+        "role_family": null,
+        "required_skills": [],
+        "mentioned_skills": [
+          "aws",
+          "terraform"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": [
+          {
+            "text": "5+ years of experience",
+            "maximum_years": null,
+            "minimum_years": 5,
+            "classification": "mentioned"
+          }
+        ]
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "d81f5c34-bf30-4a86-b69d-aef76b2adbb5",
+      "direct_apply": null,
+      "description": "<p><strong>Basic Function</strong></p>\n<p>The Site Reliability Engineering (SRE) Manager provides leadership and strategic oversight for the SRE function, ensuring operational excellence, incident preparedness, and system reliability across the organization. This role is responsible for capacity management, budget planning, and policy adherence, as well as guiding the team through critical events and audits. The SRE Manager champions key performance metrics such as uptime and SLA compliance, and fosters a healthy, high-performing team culture through mentorship, alignment with company values, and career development. This role reports to the VP of SRE and helps align SRE initiatives with organizational priorities.</p>\n<p><strong>Essential Functions and Responsibilities:</strong></p>\n<ul>\n<li>\n<p>Provide strategic leadership to the SRE team, ensuring high engagement, operational alignment, and execution of meaningful, value-driven work.</p>\n</li>\n<li>\n<p>Serve as incident commander during critical and disaster recovery events, ensuring coordination, communication, and rapid resolution.</p>\n</li>\n<li>\n<p>Oversee policy compliance and audit readiness, ensuring the SRE team adheres to internal standards and regulatory obligations.</p>\n</li>\n<li>\n<p>Track, analyze, and report SRE performance metrics (e.g., SLAs, uptime, error budgets) to the Senior Leadership Team (SLT) for transparency and improvement.</p>\n</li>\n<li>\n<p>Collaborate with the VP of SRE to define and manage the annual operating budget, balancing cost efficiency with system reliability.</p>\n</li>\n<li>\n<p>Evaluate and prioritize incoming workstreams, ensuring projects align with broader organizational goals and drive long-term sustainability and innovation.</p>\n</li>\n<li>\n<p>Partner cross-functionally with engineering, security, and product teams to ensure the successful delivery of SRE initiatives.</p>\n</li>\n<li>\n<p>Champion professional development, promoting team growth through mentorship, feedback, and career pathing.</p>\n</li>\n<li>\n<p>Drive a culture of operational excellence, encouraging automation, process improvement, and continuous learning across the team.</p>\n</li>\n<li>\n<p>Other duties as assigned</p>\n</li>\n</ul>\n<p><strong>Physical Demands:</strong></p>\n<ul>\n<li>\n<p>While performing the duties of this Job, the employee is regularly required to sit; use hands to type, handle, or feel and talk or hear</p>\n</li>\n<li>\n<p>Specific vision abilities required by this job include close vision</p>\n</li>\n<li>\n<p>Ability to occasionally lift/move up to 25 pounds</p>\n</li>\n<li>\n<p>Individuals with a disability who are otherwise able to perform the essential functions of the job may request reasonable accommodation through the Human Resources department.</p>\n</li>\n<li>\n<p>Other physical activities may be required to support business operations.</p>\n</li>\n</ul>\n<p><strong>Supervisory Responsibility:</strong></p>\n<ul>\n<li>\n<p>Set clear expectations, offer direction, and ensure alignment with organizational goals while fostering a supportive environment that encourages collaboration, accountability, and growth.</p>\n</li>\n<li>\n<p>Coach, mentor, and provide training opportunities to build team members’ skills, promote internal growth, and prepare staff for future roles and responsibilities.</p>\n</li>\n</ul>\n<ul>\n<li>\n<p>5+ years of experience managing a technical team (e.g., SRE, DevOps, Infrastructure).</p>\n</li>\n<li>\n<p>Hands-on experience with cloud-based platforms, especially Amazon Web Services (AWS).</p>\n</li>\n<li>\n<p>Familiarity with operational toolsets such as Atlassian Jira/Confluence, monitoring and incident management systems.</p>\n</li>\n<li>\n<p>Experience working with cross-functional teams and aligning technology efforts with business outcomes.</p>\n</li>\n</ul>\n<ul>\n<li>\n<p>Manage hiring, onboarding, performance evaluations, promotions, compensation, and terminations, ensuring fair and consistent application of policies and procedures.</p>\n</li>\n<li>\n<p>Assess team performance regularly, address gaps, and ensure duties are completed efficiently and effectively in alignment with department and organizational objectives</p>\n</li>\n</ul>\n<p><strong>Position Specifications</strong></p>\n<p><strong>Education:</strong></p>\n<ul>\n<li>Bachelor’s degree or higher in Computer Science, or a related field, or equivalent combination of education and experience required</li>\n</ul>\n<p><strong>Experience:</strong></p>\n<ul>\n<li>\n<p>5+ years managing a technical team (e.g., SRE, DevOps, Platform, or Infrastructure), including hiring, performance management, and career development.</p>\n</li>\n<li>\n<p>Hands-on experience with cloud platforms, especially Amazon Web Services (AWS), and a solid understanding of cloud architecture, scalability, and cost management.</p>\n</li>\n<li>\n<p>Experience defining and operating SLIs, SLOs, and error budgets, and reporting reliability metrics (uptime, SLA compliance) to senior leadership.</p>\n</li>\n<li>\n<p>Experience leading incident response, including serving as incident commander, running blameless postmortems, and driving corrective actions to completion.</p>\n</li>\n<li>\n<p>Experience with monitoring, observability, and incident management tools (e.g., Datadog, Grafana, Prometheus, PagerDuty), plus Atlassian Jira and Confluence.</p>\n</li>\n<li>\n<p>Familiarity with infrastructure as code and CI/CD practices (e.g., Terraform, CloudFormation, GitHub Actions) and a track record of driving automation to reduce toil.</p>\n</li>\n<li>\n<p>Experience with disaster recovery and business continuity planning, including testing and documenting recovery procedures.</p>\n</li>\n<li>\n<p>Experience supporting audits and compliance requirements (e.g., SOC 2, PCI DSS) in a regulated or security-conscious environment.</p>\n</li>\n<li>\n<p>Experience managing or contributing to an operating budget and capacity planning for cloud infrastructure.</p>\n</li>\n<li>\n<p>Experience partnering with engineering, security, and product teams to align reliability work with business outcomes.</p>\n</li>\n</ul>\n<p><strong>Knowledge, Skills, &#x26; Abilities:</strong></p>\n<ul>\n<li>\n<p>Strong cultural alignment with values such as integrity, humility, ownership, and initiative.</p>\n</li>\n<li>\n<p>Exceptional leadership and organizational skills with a strong operational mindset.</p>\n</li>\n<li>\n<p>Excellent written and verbal communication, with the ability to present to senior leadership.</p>\n</li>\n<li>\n<p>Practical knowledge of SRE/DevOps best practices, including automation, error budgeting, and postmortem analysis.</p>\n</li>\n<li>\n<p>Ability to work in a fast-paced, dynamic environment while maintaining focus on reliability and continuous improvement.</p>\n</li>\n</ul>\n<p><strong>Travel:</strong></p>\n<ul>\n<li>Minimal, generally 12 days or less per year, ~2X team get togethers a year</li>\n</ul>\n<p><strong>LIFE AT LUMIN DIGITAL</strong></p>\n<p>Lumin Digital is a trailblazer in digital banking solutions, driven by a unique approach to technology, service, and people. We empower credit unions and banks by creating cutting-edge digital experiences that continuously serve, engage, and grow their membership base — and as a 100% cloud-native company, we're purpose-built to unlock the full advantages of the cloud for financial institutions and their users.</p>\n<p>At Lumin, we thrive on curiosity and innovation. Our culture is built on trust in our expertise and decisions, respect for diverse perspectives and talents, and boldness in pursuing new ideas. These values shape a workplace where collaboration thrives, ideas flourish, and new possibilities are discovered every day. We encourage our team to explore, experiment, and challenge the status quo — because continuous improvement isn't just a goal, it's how we operate.</p>\n<p><strong>Benefits include: </strong>We take care of our people with medical, dental, and vision insurance, a 401(k) with company match, flexible PTO plus 12 paid holidays, paid sick leave, and paid parental and family leave. We also offer a lifestyle spending account, tuition reimbursement, and a cell phone stipend. Additional details are provided during the interview process.</p>\n<p>Lumin Digital is an equal opportunity employer. We consider all qualified applicants without regard to race, color, religion, sex, national origin, disability, protected veteran status, sexual orientation, gender identity, or any other legally protected basis. For more information, visit<a href=\"http://lumindigital.com\"> lumindigital.com</a>.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/manager-site-reliability-engineering-lumin-digital</p>",
+      "posted_at": "2026-11-19T17:57:19.529+00:00",
       "is_translated": false,
       "original_language": null
     },
@@ -7660,93 +7552,6 @@
       "posted_at": "2026-11-13T12:27:55+00:00",
       "is_translated": false,
       "original_language": null
-    },
-    {
-      "id": "4bf6d6d7-aaa4-4bb1-9459-25c09a2605d0",
-      "title": "Observability Architect - Dynatrace - CL",
-      "url": "https://remotejobs.org/remote-jobs/arquitecto-de-observabilidad-dynatrace-cl-imagemaker",
-      "apply_url": "https://remotejobs.org/remote-jobs/arquitecto-de-observabilidad-dynatrace-cl-imagemaker",
-      "company": {
-        "name": "Imagemaker",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/6f61533b85f6d3983de3f6e3ae997c4d1f49e8c9937c7f2ce823b758523d1211.webp",
-        "website": null,
-        "url": "https://remotejobs.org/companies/imagemaker"
-      },
-      "category": {
-        "name": "DevOps",
-        "slug": "devops"
-      },
-      "location": "Chile",
-      "location_normalization": {
-        "raw": "Chile",
-        "input": {},
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "CL"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [],
-        "evidence_ids": [
-          "source-location"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "CL"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": null,
-        "role_family": null,
-        "required_skills": [],
-        "mentioned_skills": [
-          "kubernetes",
-          "terraform"
-        ],
-        "preferred_skills": [],
-        "experience_requirements": []
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": "USD",
-      "salary_period": "year",
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<p>En Imagemaker We are looking for an Observability leader. This role exists to translate regulatory and business requirements into an end-to-end monitoring architecture approvable by the bank, ensuring that all telemetry (logs, traces and business events) is ingested, correlated and measured accurately before going to production.</p>\n<h2>Responsabilidades</h2>\n<ul>\n<li>Design the end-to-end observability architecture (HLD/LLD) approved by Central SRE.</li>\n<li>Define the catalog of SLIs, SLOs, error budgets and critical transactional journeys.</li>\n<li>Specify the instrumentation of traces, logs and business events with privacy rules.</li>\n<li>Develop executive dashboards and automatic alerts as code using Terraform and Monaco.</li>\n<li>Audit the technical quality and pull requests of the observability team.</li>\n<li>Lead planning, backlog and technical risks with the client.</li>\n<li>Deliver the production promotion package.</li>\n</ul>\n<h2>Requisitos</h2>\n<h2>Imprescindibles (<em>Must-Have</em>)</h2>\n<ul>\n<li><strong>Engineering in Dynatrace SaaS (3rd Generation):</strong> Master the native cloud ecosystem, including Grail (unified data store for logs and events), DQL (<em>Dynatrace Query Language</em> or query language), Notebooks, Dashboards and Business Events, discarding profiles that only operate classic versions <em>on-premise</em>.</li>\n<li><strong>End-to-End Observability Architecture:</strong> Design end-to-end solutions under the methodology of <em>\"design before build\"</em>, definiendo catálogos de SLIs (<em>Service Level Indicators</em> or service level indicators), SLOs (<em>Service Level Objectives</em> or service level objectives), <em>error budgets</em> (error budgets) and maps of critical flows between decoupled systems.</li>\n<li><strong>Instrumentation and Distributed Telemetry:</strong> Specify and validate the capture of distributed traces, logs and metrics using Dynatrace OneAgent and OpenTelemetry standards, ensuring that microservice responses include the fields of the transactional data dictionary.</li>\n<li><strong>Monitoring as Code (MaC) y Control de Versiones:</strong> Develop, version and deploy monitoring configurations as code (alerts, dashboards and objectives) using Terraform and Monaco (<em>Dynatrace Monitoring as Code</em>) over Git and Bitbucket repositories through approval workflows of <em>Pull Requests</em>.</li>\n<li><strong>Security, Privacy and Regulatory Compliance:</strong> Implement strict rules for masking and obfuscation of sensitive data under PII (<em>Personally Identifiable Information</em> or personally identifiable information) and PCI (<em>Payment Card Industry</em> or payment card industry) regulations, ensuring auditable measurements for regulators.</li>\n<li><strong>Cloud Native Environments and Operating Systems:</strong> Understand the architecture and telemetry ingestion over container clusters in Kubernetes and OpenShift (including Atlas or Anthos distributions), as well as Unix/Linux base environments and API consumption (<em>Application Programming Interfaces</em> or programming interfaces).</li>\n</ul>\n<h2>Deseables (<em>Nice-to-Have</em>)</h2>\n<ul>\n<li><strong>Advanced AI and Automation Capabilities in Dynatrace:</strong> Configure causal artificial intelligence engines (Davis AI) for automatic anomaly detection, and design automated flows (Workflows) and synthetic monitoring tests (<em>Synthetics</em>) to simulate end-to-end transactions.</li>\n<li><strong>Official Dynatrace Certifications:</strong> Hold the accreditation <em>Dynatrace Associate</em> (required in the formal tender but relaxed by the client in favor of verifiable experience) or the higher level <em>Dynatrace Professional</em>.</li>\n<li><strong>Experience in Banking or Real-Time Payment Methods:</strong> Having instrumented highly critical, low-latency financial ecosystems, understanding the lifecycle of interbank transfers, clearing houses and regulatory reporting to central banks.</li>\n<li><strong>Advanced Technical English:</strong> Have fluent technical reading ability to interpret official documentation of SaaS platforms and release notes (<em>release notes</em>), complementing the native or fluent Spanish required for daily operations.</li>\n</ul>\n<h2>Benefits</h2>\n<p>Ser Maker es cool!<br>\n<br>\n🏖️ Don't worry, be happy: 3 additional days off per year on top of your vacation.<br>\n✨ Unpaid leave to fulfill your dreams.<br>\n⚖️ Wellness program focused on balancing work and personal life.<br>\n🏥 100% free Complementary Insurance for Makers.<br>\n🤓 Training programs, English classes and much more!<br>\n🎂 A day off for your birthday and a half day for your children's birthdays.<br>\n💰 Bonuses that provide relief: National holidays, Christmas, marriage/AUC, birth/adoption of children, etc.<br>\n💳 Agreements and preferential prices with banks.<br>\n👶🏻 3 additional days for parents due to birth or adoption of a child.<br>\n🐶 Insurance agreement for your pets!<br>\n🌿 Our culture is horizontal, innovative, challenging and above all, there is a great good vibe!<br>\n<br>\nAs part of our commitment to inclusion, the following vacancy is open within the framework of law 21.015.</p>\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/arquitecto-de-observabilidad-dynatrace-cl-imagemaker</p>",
-      "posted_at": "2026-11-13T12:18:43+00:00",
-      "is_translated": true,
-      "original_language": "es"
     },
     {
       "id": "d8624fa6-3855-4f63-b102-5a7e0d0842f3",
