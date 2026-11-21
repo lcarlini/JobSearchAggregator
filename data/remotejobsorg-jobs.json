@@ -1,7 +1,148 @@
 {
-  "generatedAt": "2026-11-21T05:49:03.909Z",
+  "generatedAt": "2026-11-21T14:20:23.180Z",
   "count": 150,
   "data": [
+    {
+      "id": "35c7d6ed-6765-44b8-a69b-9f7d189355f4",
+      "title": "Software Development Engineer",
+      "url": "https://remotejobs.org/remote-jobs/software-development-engineer-zscaler",
+      "apply_url": "https://remotejobs.org/remote-jobs/software-development-engineer-zscaler",
+      "company": {
+        "name": "Zscaler",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/249589fe09c0936337f826ee03adcfd15e01dbfbb51a5a88fe98f8d505029171.png",
+        "website": "https://zscaler.com",
+        "url": "https://remotejobs.org/companies/zscaler"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "Santa Clara, California, USA",
+      "location_normalization": {
+        "raw": "Santa Clara, California, USA",
+        "input": {},
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [
+          "santa clara"
+        ],
+        "work_arrangement": "unknown",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "allowed_subdivisions": [
+          "US-CA"
+        ],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": null,
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": null,
+        "role_family": null,
+        "required_skills": [],
+        "mentioned_skills": [
+          "docker",
+          "golang",
+          "java",
+          "kubernetes",
+          "python",
+          "sql"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": []
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "5283494007",
+      "direct_apply": null,
+      "description": "<p>Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange platform protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location. Distributed across 200+ public data centers globally and thousands of private sites at the edge, the SASE-based Zero Trust Exchange is the world’s largest in-line cloud security platform.</p><p>We believe the future of work is Human + AI and are building an AI-native enterprise where human potential is amplified by machine intelligence to solve the world’s hardest security challenges. Driven by deep customer obsession, we are committed to the mission, outcome, and to each other. We bring these commitments to life through three core behaviors: ownership and collaboration, trust through outcomes and impact, and a challenge culture with ongoing feedback. Ready to make an impact at the company pioneering security transformation in the AI era? Join us at Zscaler.</p><p><strong>Role</strong></p><p><strong><br></strong>We are looking for a Software Development Engineer to join our team. This is a Hybrid role for Santa Clara, CA, reporting to the Sr Manager, Software Development Engineering in the Engineering department. As an engineer on the Data &#x26; APIs team, you will build large-scale data pipelines and real-time streaming systems that process Zscaler's security telemetry at scale, along with the APIs that expose it to internal and external consumers. You will own features end-to-end across the streaming pipeline and API surface—writing production code, contributing to distributed-systems design, and operating what you build.</p><p><strong>What you’ll do (Role Expectations)</strong></p><ul>\n<li>Build and maintain backend services and APIs (REST/gRPC) that expose Zscaler's security data to internal teams and customers, writing production-quality code across the request path</li>\n<li>Contribute to large-scale streaming and batch data pipelines (Kafka, Spark/Flink) and the storage layer (SQL, NoSQL, columnar) that feed those APIs — writing processing logic, tuning performance, and helping triangulate bottlenecks in production</li>\n<li>Participate in design discussions, write and review design docs for features you own, and contribute to AI/ML enabled anomaly-detection and signal-correlation logic over streaming telemetry.</li>\n<li>Instrument, monitor, and operate the services you build — including on-call rotation, incident response, and continuous improvement of reliability and performance</li>\n<li>Spot pain points and friction in the existing system (bugs, slow queries, flaky tests, manual toil) and propose or ship improvements; partner with senior engineers, Product, and consuming teams to clarify requirements and deliver features — fluently using modern AI coding, review, and agentic tools across the SDLC</li>\n</ul><p><strong>Who You Are (Success Profile)</strong></p><ul>\n<li>You are an innovative problem-solver who is energized by complex technical challenges and actively seeks them out to find creative solutions.</li>\n<li>You are a pragmatic builder who loves shipping high-quality code, rolling up your sleeves, and iterating quickly without sacrificing stability or standards.</li>\n<li>You are a lifelong learner with a true growth mindset, actively seeking out feedback and continuously looking for ways to improve your skills.</li>\n<li>You operate with a strong sense of urgency, focusing on high-impact delivery and understanding that speed and quality are both essential in a fast-paced, high-growth environment.</li>\n<li>You are a high-trust collaborator who is ambitious for the team, communicates with directness and candor, and serves as a reliable partner to teammates across various functions.</li>\n</ul><p><strong>What We’re Looking for (Minimum Qualifications)</strong></p><ul>\n<li>Demonstrated fluency with the AI-augmented SDLC — daily, hands-on use of modern AI coding assistants, code-review tools, and agentic workflows — with a proven history of integrating new AI technologies to enhance daily workflows and augment problem-solving</li>\n<li>0-2 years of professional software engineering experience building backend services, with proficiency in at least one of Java, Python, or Go</li>\n<li>Hands-on experience designing and building APIs (REST and/or gRPC), including schema definition, versioning, and auth</li>\n<li>Working experience with streaming/batch data technologies (Kafka, Spark, Flink, Airflow, or equivalent) and relational and/or NoSQL databases, including basic performance analysis of pipelines (throughput, lag, resource utilization)</li>\n<li>Exposure to Azure and/or GCP (compute, managed data services, networking) and containerized environments (Docker/Kubernetes), with basic observability and debugging skills</li>\n<li>Strong fundamentals in data structures, algorithms, and distributed systems (consistency, partitioning, replication, fault tolerance, backpressure), with a clear track record of shipping production features end-to-end</li>\n</ul><p><strong>What Will Make You Stand Out (Preferred Qualifications)</strong></p><ul>\n<li>Proven ability to leverage AI technologies and workflows to drive measurable operational efficiency</li>\n<li>Experience with anomaly detection, signal triangulation, or correlation techniques over large-scale telemetry, logs, or security/networking data — statistical, rules-based, or ML</li>\n<li>Hands-on experience with Azure and/or GCP managed streaming and data services (Azure Event Hubs / Stream Analytics / Synapse / Cosmos DB; GCP Pub/Sub / Dataflow / BigQuery / Bigtable) and modern warehouse/lakehouse tech (Snowflake, Databricks, ClickHouse, Elasticsearch)</li>\n<li>Experience with API-first development practices — OpenAPI/protobuf, contract testing, and API lifecycle management</li>\n</ul><p>#LI-CM3 </p><p>#LI-Hybrid</p><p>Zscaler’s salary ranges are benchmarked and are determined by role and level. The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position across all US locations and could be higher or lower based on a multitude of factors, including job-related skills, experience, and relevant education or training.</p><p>The base salary range listed for this full-time position excludes commission/ bonus/ equity (if applicable) + benefits.</p><p>Base Pay Range</p><p>$101,500—$145,000 USD</p><p>At Zscaler, we are committed to building a team that reflects the communities we serve and the customers we work with. We foster an inclusive environment that values all backgrounds and perspectives, emphasizing collaboration and belonging. Join us in our mission to make doing business seamless and secure.</p><p>Our Benefits program is one of the most important ways we support our employees. Zscaler proudly offers comprehensive and inclusive benefits to meet the diverse needs of our employees and their families throughout their life stages, including:</p><ul>\n<li>Various health plans</li>\n<li>Time off plans for vacation and sick time</li>\n<li>Parental leave options</li>\n<li>Retirement options</li>\n<li>Education reimbursement</li>\n<li>In-office perks, and more!</li>\n</ul><p>Learn more about Zscaler's hybrid working model and benefits <a href=\"https://www.zscaler.com/candidate-resource-hub\">here</a>.</p><p>By applying for this role, you adhere to applicable laws, regulations, and Zscaler policies, including those related to security and privacy standards and guidelines.</p><p>Zscaler is committed to providing equal employment opportunities to all individuals. We strive to create a workplace where employees are treated with respect and have the chance to succeed. All qualified applicants will be considered for employment without regard to race, color, religion, sex (including pregnancy or related medical conditions), age, national origin, sexual orientation, gender identity or expression, genetic information, disability status, protected veteran status, or any other characteristic protected by federal, state, or local laws. <em>See more information by clicking on the </em><a href=\"https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf\"><em>Know Your Rights: Workplace Discrimination is Illegal </em></a><em>link.</em></p><p>Pay Transparency</p><p>Zscaler complies with all applicable federal, state, and local pay transparency rules.</p><p>Zscaler is committed to providing reasonable support (called accommodations or adjustments) in our recruiting processes for candidates who are differently abled, have long term conditions, mental health conditions or sincerely held religious beliefs, or who are neurodivergent or require pregnancy-related support.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/software-development-engineer-zscaler</p>",
+      "posted_at": "2026-11-20T20:05:05+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "fff293d1-e6f1-4df4-8d40-f801a9d9af58",
+      "title": "Sr. Software Development Engineer",
+      "url": "https://remotejobs.org/remote-jobs/sr-software-development-engineer-zscaler-d8702b6d09fa4c3b9fa75b6c80f26c56",
+      "apply_url": "https://remotejobs.org/remote-jobs/sr-software-development-engineer-zscaler-d8702b6d09fa4c3b9fa75b6c80f26c56",
+      "company": {
+        "name": "Zscaler",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/249589fe09c0936337f826ee03adcfd15e01dbfbb51a5a88fe98f8d505029171.png",
+        "website": "https://zscaler.com",
+        "url": "https://remotejobs.org/companies/zscaler"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "Santa Clara, California, USA",
+      "location_normalization": {
+        "raw": "Santa Clara, California, USA",
+        "input": {},
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [
+          "santa clara"
+        ],
+        "work_arrangement": "unknown",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "allowed_subdivisions": [
+          "US-CA"
+        ],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": null,
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": "senior",
+        "role_family": null,
+        "required_skills": [],
+        "mentioned_skills": [
+          "golang",
+          "java",
+          "kubernetes",
+          "python",
+          "sql"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": []
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "5283490007",
+      "direct_apply": null,
+      "description": "<p>Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange platform protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location. Distributed across 200+ public data centers globally and thousands of private sites at the edge, the SASE-based Zero Trust Exchange is the world’s largest in-line cloud security platform.</p><p>We believe the future of work is Human + AI and are building an AI-native enterprise where human potential is amplified by machine intelligence to solve the world’s hardest security challenges. Driven by deep customer obsession, we are committed to the mission, outcome, and to each other. We bring these commitments to life through three core behaviors: ownership and collaboration, trust through outcomes and impact, and a challenge culture with ongoing feedback. Ready to make an impact at the company pioneering security transformation in the AI era? Join us at Zscaler.</p><p><strong>Role</strong></p><p><strong><br></strong>We are looking for a Senior Software Development Engineer to join our team. This is a Hybrid role for Santa Clara, CA, reporting to the Sr Manager, Software Development Engineering in the Engineering department. In this role, you will serve as a senior engineer on the Data &#x26; APIs team, architecting and operating large-scale data pipelines and real-time streaming systems that process multi-terabyte, high-cardinality security telemetry, as well as the internal and customer-facing APIs that expose it. You will own distributed subsystems end-to-end, drive performance, reliability, and cost at streaming scale, and raise the technical bar on streaming architecture,  AI/ML enabled anomaly detection, and API quality across the team.</p><p><strong>What you’ll do (Role Expectations)</strong></p><ul>\n<li>Design and build highly scalable, low-latency data services and APIs (REST/gRPC) that expose Zscaler's security telemetry to internal consumers and external customers, owning them from design through production operation</li>\n<li>Architect, evolve, and tune large-scale streaming and batch pipelines (Kafka, Spark/Flink) and the underlying storage layer (SQL, NoSQL, columnar/warehouse) for multi-terabyte, high-throughput workloads — driving performance analysis, bottleneck triangulation, and cost/latency optimization across Azure and GCP</li>\n<li>Lead the technical design of new subsystems — writing design docs, driving reviews, choosing trade-offs around consistency, throughput, and schema evolution — and hold the quality bar through code review, testing strategy, and operational readiness</li>\n<li>Design and build  AI/ML enabled anomaly-detection and signal-correlation capabilities over streaming telemetry — using statistical, rules-based, or ML techniques — and partner with Product, Security Research, and consuming engineering teams to shape API contracts, data models, and SLAs</li>\n<li>Proactively identify pain points and bottlenecks in existing systems (reliability, performance, developer velocity, operational toil) and drive targeted improvements; master the AI-augmented SDLC — fluently using modern AI coding assistants, code-review tools, and agentic workflows to accelerate delivery — and raise the team's bar on observability, incident response, mentorship, and safe adoption of AI tools across the lifecycle</li>\n</ul><p><strong>Who You Are (Success Profile)</strong></p><ul>\n<li>You are driven by innovation and have a deep curiosity for how things work, finding energy in solving complex technical challenges and constantly seeking better, more secure, and more scalable approaches.</li>\n<li>You act like an owner with a strong bias for action and integrity in outcomes, seamlessly moving between high-level strategy and hands-on execution as needed.</li>\n<li>You are a pragmatic builder who balances technical excellence with time-to-value, demonstrating comfort in shipping and building initial versions end-to-end before generalizing.</li>\n<li>You think at scale, design durable processes, systems, and APIs that support global, high-growth usage rather than just solving for current load.</li>\n<li>You are a high-trust collaborator who is ambitious for the team, giving and receiving candid feedback to earn trust across Product, Security, and partner engineering teams.</li>\n</ul><p><strong>What We’re Looking for (Minimum Qualifications)</strong></p><ul>\n<li>Demonstrated mastery of the AI-augmented SDLC — hands-on, daily use of modern AI coding assistants, code-review tools, and agentic workflows across design, implementation, testing, and operations — with a proven history of integrating new AI technologies to accelerate delivery and augment problem-solving</li>\n<li>3-5 years of professional software engineering experience building and operating production backend services at scale, with strong proficiency in at least one of Java, Python, or Go</li>\n<li>Deep experience designing and shipping production APIs (REST and/or gRPC) — including API versioning, auth, schema evolution, and backward-compatibility discipline</li>\n<li>Hands-on experience building and operating large-scale streaming pipelines (Kafka, Spark Streaming, Flink, or equivalent), including performance analysis, bottleneck triangulation (producer/broker/consumer/stateful-operator), backpressure tuning, and cost/throughput optimization at TB+/day scale</li>\n<li>Deep understanding of distributed systems fundamentals — consistency models, consensus, partitioning/sharding, replication, fault tolerance, and backpressure — with a track record of designing and operating distributed services in production, including applying anomaly detection and signal-correlation techniques (statistical, rules-based, or ML) over streaming telemetry</li>\n<li>Strong production ownership on a major public cloud — hands-on experience with Azure and/or GCP (compute, managed data services, networking, IAM), Kubernetes, observability, performance debugging, and incident response</li>\n</ul><p><strong>What Will Make You Stand Out (Preferred Qualifications)</strong></p><ul>\n<li>Proven ability to leverage AI technologies and workflows to drive measurable operational efficiency</li>\n<li>Experience building data platforms or APIs in the security, networking, or observability domain — especially with high-cardinality telemetry, multi-tenant isolation, and real-time threat/anomaly signal generation</li>\n<li>Deep experience across both Azure and GCP managed data services (e.g., Azure Event Hubs / Stream Analytics / Synapse / Cosmos DB and GCP Pub/Sub / Dataflow / BigQuery / Bigtable) and with modern lakehouse / warehouse stacks (Snowflake, Databricks, Iceberg, ClickHouse) at TB+ scale</li>\n<li>History of mentoring engineers, driving cross-team technical initiatives, and raising engineering standards on a team</li>\n</ul><p>#LI-CM3 </p><p>#LI-Hybrid</p><p>Zscaler’s salary ranges are benchmarked and are determined by role and level. The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position across all US locations and could be higher or lower based on a multitude of factors, including job-related skills, experience, and relevant education or training.</p><p>The base salary range listed for this full-time position excludes commission/ bonus/ equity (if applicable) + benefits.</p><p>Base Pay Range</p><p>$115,500—$165,000 USD</p><p>At Zscaler, we are committed to building a team that reflects the communities we serve and the customers we work with. We foster an inclusive environment that values all backgrounds and perspectives, emphasizing collaboration and belonging. Join us in our mission to make doing business seamless and secure.</p><p>Our Benefits program is one of the most important ways we support our employees. Zscaler proudly offers comprehensive and inclusive benefits to meet the diverse needs of our employees and their families throughout their life stages, including:</p><ul>\n<li>Various health plans</li>\n<li>Time off plans for vacation and sick time</li>\n<li>Parental leave options</li>\n<li>Retirement options</li>\n<li>Education reimbursement</li>\n<li>In-office perks, and more!</li>\n</ul><p>Learn more about Zscaler's hybrid working model and benefits <a href=\"https://www.zscaler.com/candidate-resource-hub\">here</a>.</p><p>By applying for this role, you adhere to applicable laws, regulations, and Zscaler policies, including those related to security and privacy standards and guidelines.</p><p>Zscaler is committed to providing equal employment opportunities to all individuals. We strive to create a workplace where employees are treated with respect and have the chance to succeed. All qualified applicants will be considered for employment without regard to race, color, religion, sex (including pregnancy or related medical conditions), age, national origin, sexual orientation, gender identity or expression, genetic information, disability status, protected veteran status, or any other characteristic protected by federal, state, or local laws. <em>See more information by clicking on the </em><a href=\"https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf\"><em>Know Your Rights: Workplace Discrimination is Illegal </em></a><em>link.</em></p><p>Pay Transparency</p><p>Zscaler complies with all applicable federal, state, and local pay transparency rules.</p><p>Zscaler is committed to providing reasonable support (called accommodations or adjustments) in our recruiting processes for candidates who are differently abled, have long term conditions, mental health conditions or sincerely held religious beliefs, or who are neurodivergent or require pregnancy-related support.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/sr-software-development-engineer-zscaler-d8702b6d09fa4c3b9fa75b6c80f26c56</p>",
+      "posted_at": "2026-11-20T20:04:54+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
     {
       "id": "5c5f74a4-b6f7-4ff6-9195-d91a609d65e5",
       "title": "Red Team Lead",
@@ -3280,157 +3421,6 @@
       "direct_apply": null,
       "description": "<p>Join the company that’s building the telemetry infrastructure for the AI era. At Cribl, we partner with IT and Security teams at many of the world’s biggest enterprises, including half of the Fortune 100, to bridge the gap between AI ambition and infrastructure reality. As the AI Platform for Telemetry, we give customers the choice, control, and flexibility to manage and analyze telemetry for both humans and agents, so they can build what’s next.</p><p>We’re one of the fastest‑growing private companies and a leading player in a massive, fast‑moving market. With a global workforce, we’re remote‑first and grounded in a simple idea: software is a people business. Cribl is the place where curious, collaborative people can do their best work, grow fast, and bring their full selves to the herd.</p><p><strong>Why You’ll Love This Role</strong></p><p>Cribl is looking for a Principal Product Security Engineer to serve as a hands-on technical authority at the intersection of application, cloud, and FedRAMP environment security. You will help secure Cribl’s cloud-native, customer-managed, and hybrid products as they process high-volume data for some of the world’s largest organizations.</p><p>As a Principal engineer, impact is defined by reach. You will set long-term direction across teams, resolve critical and ambiguous security problems, advise Engineering and Product leaders, and turn security requirements into secure designs, production-ready patterns, automation, and verified outcomes. This is not a documentation-only compliance role: you will work with Engineering, SRE, Cloud Operations, Compliance, and Product Security Incident Response Team (PSIRT) partners to make regulatory commitments real in product architecture and day-to-day operations.</p><p>This is a remote, hands-on individual-contributor role within Engineering. You will lead through expertise and influence, mentor engineers and security partners, and create durable systems that reduce risk while making the secure path easier.</p><p><strong><br>As An Active Member Of Our Team, You Will…</strong></p><ul><li>Set long-term product and cloud security direction across multiple teams, shaping roadmaps, standards, secure-by-default patterns, and risk-informed design and release decisions.</li><li>Lead Product Security Reviews for distributed, multi-tenant SaaS and customer-managed products, including architecture and design review, threat modeling, abuse-case analysis, targeted secure code review, and security test planning.</li><li>Translate risk into concrete engineering requirements, mitigations, tests, and secure defaults; stay engaged through implementation and independently verify that the intended risk reduction was achieved.</li><li>Serve as a principal cloud security authority across IAM and workload identity, organization and account boundaries, network exposure, KMS and encryption, secrets, logging and detection, containers and Kubernetes, serverless services, infrastructure as code, hardening, and data isolation.</li><li>Lead the Product Security component of FedRAMP engineering. Translate FedRAMP Moderate and NIST SP 800-53 control intent into sustainable technical controls and defensible evidence, and partner on authorization-boundary and significant-change decisions, continuous monitoring, vulnerability and change management, POA&#x26;M and deviation remediation, incident response, vendor assessments, and 3PAO or assessor interactions.</li><li>Investigate ambiguous signals and vulnerabilities from bug bounty, application and supply-chain scanners, penetration tests, cloud detections, and internal reports; determine exploitability, exposure, and impact; coordinate remediation; validate fixes and bypasses; and hunt for variants and root causes.</li><li>Evolve scalable, risk-adaptive vulnerability management using exposure, exploitability, CISA Known Exploited Vulnerabilities signals, asset criticality, customer impact, and regulatory timelines,not CVSS alone.</li><li>Build and operate durable security capabilities and developer paved roads across CI/CD, SAST, SCA, secrets, infrastructure as code, containers, cloud posture, and testing. Automate repeatable work while preserving explicit human judgment for consequential security decisions.</li><li>Scope and oversee external penetration tests, purple-team exercises, and relevant security vendors; ensure findings become owned, verified engineering outcomes; and provide evidence-based input to build, retain, replace, or retire decisions.</li><li>Lead multi-team work through uncertainty and high-stakes situations, making clear tradeoffs among security, reliability, delivery, customer impact, and compliance while acting with appropriate urgency.</li><li>Communicate complex risks, options, uncertainty, and recommendations in direct, audience-appropriate terms for engineers, senior leaders, customers, assessors, and external partners; represent Cribl credibly when needed.</li><li>Multiply the team by mentoring Product Security engineers, security champions, and engineering partners; create standards, runbooks, automation, and continuity plans that prevent critical capabilities from depending on one person.</li><li>Evaluate and responsibly apply emerging technologies, including AI-assisted security engineering, with measurable outcomes, rigorous verification, secure operating boundaries, and clear human accountability.</li><li>This position will require stand-by, on-call, or off-hours duties.</li></ul><p><strong><br>If You’ve Got It - We Want It</strong></p><ul><li>Typically 10+ years of relevant software security, security engineering, or software engineering experience,or equivalent demonstrated scope and impact,including substantial hands-on Application Security or Product Security and cloud security work.</li><li>Experience securing AI or agentic systems and applying AI responsibly to security engineering workflows.</li><li>A Principal-level track record of setting technical direction across teams, leading multi-quarter initiatives, resolving ambiguous critical problems, and influencing senior Engineering and Product leaders without direct authority.</li><li>Deep, hands-on AWS and Azure security experience in production SaaS or cloud-native systems, including identity and authorization, network controls, encryption and key management, secrets, logging and detection, containers or Kubernetes, serverless services, infrastructure as code, and multi-tenant data isolation.</li><li>Direct experience implementing or operating product and cloud security controls in a FedRAMP-authorized or FedRAMP-bound environment. You understand NIST SP 800-53 control intent and have supported technical control implementation and evidence, continuous monitoring, vulnerability and change management, POA&#x26;M or deviation remediation, and assessor interactions.</li><li>Expertise leading security design reviews and threat models for complex applications, APIs, distributed systems, and cloud architectures, with the judgment to turn findings into practical countermeasures and risk-informed release recommendations.</li><li>Strong knowledge of web and application vulnerabilities, exploit techniques, OWASP guidance, authentication and authorization protocols, cryptography, common network protocols, and secure cloud operating models.</li><li>Ability to read production code and build maintainable automation in JavaScript or TypeScript, Python, Go, or a comparable language; willingness to work directly with Engineering to implement and verify security improvements.</li><li>Hands-on vulnerability-response experience, including exploitability analysis, root-cause and variant analysis, remediation design, fix and bypass validation, stakeholder coordination, and incident support.</li><li>Exceptional written and verbal communication, with the ability to make complex risk and tradeoffs clear to engineers, executives, customers, assessors, and external partners.</li><li>A bachelor’s degree in computer science, cybersecurity, or a related field—or equivalent practical experience.</li><li><strong>Preferred qualifications</strong><ul><li>Experience securing enterprise data platforms, observability systems, high-volume data pipelines, agents, or customer-managed and hybrid software.</li><li>Experience with AWS GovCloud, FedRAMP Moderate/High, NIST 800-53.</li><li>Experience building developer security platforms, secure-by-default libraries, policy-as-code, or automated guardrails across SAST, SCA, DAST, software supply chain, containers, and cloud posture.</li><li>Public security contributions such as open-source work, published research, CVE credits, standards participation, conference talks, or other demonstrated thought leadership.</li><li>Relevant credentials such as AWS Certified Security – Specialty, CISSP, CCSP, CSSLP, GIAC, or OSCP; demonstrated practical impact matters more than certifications.</li></ul></li></ul><p>#LI-AM1<br>#LI-Remote</p><p>The salary for this role is dependent on geographic location and will be based on the individual candidate's job-related knowledge, skills, and experience.<br>In addition to base salary, for sales and some sales-adjacent roles, employees are eligible to earn incentive compensation (commission). For all other roles, employees are eligible to participate in the Cribl Corporate Bonus Program.<br>In addition to a competitive salary, Cribl also offers a generous benefits package which includes health, dental, vision, short-term disability, and life insurance, paid holidays and paid time off, a fertility treatment benefit, 401(k), and equity.</p><p>Base Salary Range</p><p>$265,000—$320,000 USD</p><p><strong>Bring Your Whole Self<br></strong><br>Diversity drives innovation, enables better decisions to support our customers, and inspires change for the better. We’re building a culture where differences are valued and welcomed, and we work together to bring out the best in each other. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, or any other applicable legally protected characteristics in the location in which the candidate is applying.</p><p>Interested in joining the Cribl herd? Learn more about the smartest, funniest, most passionate goats you’ll ever meet at cribl.io/about-us. </p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/principal-product-security-engineer-cribl</p>",
       "posted_at": "2026-11-18T00:00:00+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "9f651adf-5f75-4871-9d8a-aeefc87d4db6",
-      "title": "Sr Mgr, Software Engineering (Cribl Detect)",
-      "url": "https://remotejobs.org/remote-jobs/sr-mgr-software-engineering-cribl-detect-cribl",
-      "apply_url": "https://remotejobs.org/remote-jobs/sr-mgr-software-engineering-cribl-detect-cribl",
-      "company": {
-        "name": "Cribl",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/dfb757712984fa4a817995b31d783d9f54e154e596e228354cfe18828d407f0c.jpeg",
-        "website": "https://cribl.com",
-        "url": "https://remotejobs.org/companies/cribl"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "USA",
-      "location_normalization": {
-        "raw": "USA",
-        "input": {},
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": null,
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": "senior",
-        "role_family": null,
-        "required_skills": [],
-        "mentioned_skills": [
-          "aws",
-          "golang",
-          "kubernetes",
-          "nodejs",
-          "python",
-          "typescript"
-        ],
-        "preferred_skills": [],
-        "experience_requirements": []
-      },
-      "salary_min": 230000,
-      "salary_max": 300000,
-      "salary_text": "USD 230,000–300,000/year",
-      "salary_source_text": null,
-      "salary_currency": "USD",
-      "salary_period": "year",
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": "12308707",
-      "direct_apply": null,
-      "description": "<p>Join the company that’s building the telemetry infrastructure for the AI era. At Cribl, we partner with IT and Security teams at many of the world’s biggest enterprises, including half of the Fortune 100, to bridge the gap between AI ambition and infrastructure reality. As the AI Platform for Telemetry, we give customers the choice, control, and flexibility to manage and analyze telemetry for both humans and agents, so they can build what’s next.</p><p>We’re one of the fastest‑growing private companies and a leading player in a massive, fast‑moving market. With a global workforce, we’re remote‑first and grounded in a simple idea: software is a people business. Cribl is the place where curious, collaborative people can do their best work, grow fast, and bring their full selves to the herd.</p><p><strong>Why You’ll Love This Role</strong></p><p>At Cribl, we move fast, try things out, and aren’t afraid to break a few things along the way if it means learning faster and building something better. This is where we experiment, prototype, and turn rough ideas into real products that deliver value to customers.</p><p>While our platform handles massive ingestion and detection streams, this team leads the charge on the most critical phase of modern security: next-generation Alerting and Triage. We are building the AI-driven layer that automatically connects context and evidence, generates fully auditable incident verdicts, and orchestrates seamless response workflows for top-tier security operations.</p><p>We are looking for a Senior Engineering Manager to join the Cribl Detect team.</p><p>This is a fully remote leadership role focused on people management, team scaling, cross-functional delivery, and operational execution across AI and security engineering. While you won't be the primary software architect, you will provide strong technical direction, empower your senior technical leads, and partner closely with principal engineers to guide your team in building cutting-edge, autonomous alerting and triage capabilities directly within Cribl Detect.</p><p>This is a fully remote role, and Cribl is a remote-first company. Our culture embraces the diversity of team members spread across the globe. </p><p><strong><br>As An Active Member Of Our Team, You Will…</strong></p><ul><li>Build, coach, mentor, and grow a high-performing engineering team focused on autonomous alerting, triage, investigation, and response capabilities.</li><li>Set a high bar for engineering execution and reliability in AI and backend systems development, focusing on operational quality and code standards.</li><li>Lead the team in driving projects from early concept exploration through design, functional prototyping, production delivery, and testing.</li><li>Partner tightly with Product Management, Security Researchers, and the core Cribl Detect team to refine, prioritize, and execute the alerting and triage roadmap.</li><li>Foster safe AI execution frameworks by ensuring the team prioritizes auditability, transparent reasoning trails, clear chains of custody, and human-on-the-loop controls.</li><li>Balance tactical issue resolution with a strategic focus on future alerting mechanisms and autonomous SOC workflows.</li><li>Collaborate with engineering leaders across Cribl to align API contracts, data models, and cross-team dependencies.</li><li>Identify and drive process improvements, engineering practices, and key initiatives that help achieve operational excellence in a remote-first environment.</li></ul><p><strong><br>If You’ve Got It - We Want It</strong></p><ul><li>Proven experience leading and scaling distributed teams of software engineers in a fast-paced, remote-first, Agile environment.</li><li>Technical background in backend systems, distributed architectures, or building data-intensive security platforms.</li><li>Demonstrated experience or strong working familiarity with integrating AI capabilities into production enterprise software.</li><li>Broad understanding of the security incident lifecycle, post-detection analyst workflows (specifically alerting and triage), and frameworks like MITRE ATT&#x26;CK.</li><li>Experience building and operating scalable software within SaaS and cloud-native architectures (AWS, Azure, GCP, Kubernetes).</li><li>Proven track record of hiring, developing, and retaining top-tier engineering talent while fostering an inclusive, high-ownership engineering culture.</li><li>Strong cross-functional leadership skills, with experience collaborating directly with product management, security research, and enterprise customers.</li><li>BS CS/EE or equivalent practical experience with 10+ years of software industry experience, including 4+ years in engineering management or technical leadership.</li><li>Direct experience leading teams focused on SOAR, SIEM, or automated threat response products.</li><li>Hands-on development experience with fine-tuning, distilling, or building custom ML/AI models for security use cases.</li><li>Experience with Node.js/TypeScript, Go, or Python in large-scale backend systems.</li><li>Open communication style and an appreciation for good (or bad) jokes.</li><li>A genuine love for goats 🐐.</li></ul><p>#LI-EL1<br>#LI-Remote</p><p>The salary for this role is dependent on geographic location and will be based on the individual candidate's job-related knowledge, skills, and experience.<br>In addition to base salary, for sales and some sales-adjacent roles, employees are eligible to earn incentive compensation (commission). For all other roles, employees are eligible to participate in the Cribl Corporate Bonus Program.<br>In addition to a competitive salary, Cribl also offers a generous benefits package which includes health, dental, vision, short-term disability, and life insurance, paid holidays and paid time off, a fertility treatment benefit, 401(k), and equity.</p><p>Base Salary Range</p><p>$230,000—$300,000 USD</p><p><strong>Bring Your Whole Self<br></strong><br>Diversity drives innovation, enables better decisions to support our customers, and inspires change for the better. We’re building a culture where differences are valued and welcomed, and we work together to bring out the best in each other. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, or any other applicable legally protected characteristics in the location in which the candidate is applying.</p><p>Interested in joining the Cribl herd? Learn more about the smartest, funniest, most passionate goats you’ll ever meet at cribl.io/about-us. </p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/sr-mgr-software-engineering-cribl-detect-cribl</p>",
-      "posted_at": "2026-11-18T00:00:00+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "56941d77-488f-4640-9032-7d7e04f25d6f",
-      "title": "Senior Software Engineer, Production Support",
-      "url": "https://remotejobs.org/remote-jobs/senior-software-engineer-production-support-fieldguide",
-      "apply_url": "https://remotejobs.org/remote-jobs/senior-software-engineer-production-support-fieldguide",
-      "company": {
-        "name": "Fieldguide",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/b759a52612adfd0e369366b735ce4c17e4c21f0fef9251dd580147ba0ab82dde.png",
-        "website": "https://fieldguide.com",
-        "url": "https://remotejobs.org/companies/fieldguide"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "Remote (USA)",
-      "location_normalization": {
-        "raw": "Remote (USA)",
-        "input": {
-          "workArrangement": "remote"
-        },
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "remote",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "worksite_countries": [
-          "US"
-        ],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": null,
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": "senior",
-        "role_family": "software-engineering",
-        "required_skills": [],
-        "mentioned_skills": [
-          "javascript",
-          "nodejs",
-          "postgresql",
-          "python",
-          "react",
-          "sql",
-          "typescript"
-        ],
-        "preferred_skills": [],
-        "experience_requirements": [
-          {
-            "text": "5+ years of experience in Software Engineering, Developer Support / DevEx, Solutions Engineering, or Technical Product Support ideally for a B2B SaaS platform",
-            "maximum_years": null,
-            "minimum_years": 5,
-            "classification": "mentioned"
-          }
-        ]
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": null,
-      "salary_period": null,
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": "eb8b637c-d9cd-4b98-99e4-ea5113701473",
-      "direct_apply": null,
-      "description": "<p><strong>About the Role</strong></p>\n<p>We are building a new engineering-led production support function, and as a <strong>Senior Software Engineer, Production Support</strong>, you will operate at the intersection of support, product, and engineering. Your primary focus will be to debug complex product issues, ship fixes, and improve overall system reliability — serving as the technical escalation layer that helps our support team resolve issues quickly and eliminate them at the root.</p>\n<p>You will be part of a dedicated production support pod, working alongside engineers and support teammates to tackle real issues in production, bridging the gap between customer-facing challenges and long-term engineering solutions.</p>\n<p><em>This hire must be comfortable working 9am to 6pm Pacific Time.</em></p>\n<p><strong>What You’ll Do:</strong></p>\n<p>Debug &#x26; Resolve Complex Issues</p>\n<ul>\n<li>\n<p>Investigate escalations across frontend (JavaScript), APIs, and data flows</p>\n</li>\n<li>\n<p>Reproduce issues and identify root causes</p>\n</li>\n<li>\n<p>Work across the stack to understand system behavior</p>\n</li>\n</ul>\n<p>Ship Fixes &#x26; Improvements</p>\n<ul>\n<li>\n<p>Write and ship small-to-medium fixes (PRs)</p>\n</li>\n<li>\n<p>Improve reliability and reduce repeat issues</p>\n</li>\n<li>\n<p>Contribute incremental product improvements</p>\n</li>\n</ul>\n<p>Support the Support Team</p>\n<ul>\n<li>\n<p>Act as the technical escalation point for support representatives</p>\n</li>\n<li>\n<p>Provide clear guidance and unblock issues quickly</p>\n</li>\n<li>\n<p>Help improve debugging workflows and internal playbooks</p>\n</li>\n</ul>\n<p>Contribute to Customer Feedback Execution</p>\n<ul>\n<li>\n<p>Translate structured customer feedback into actionable technical issues</p>\n</li>\n<li>\n<p>Provide <strong>T-shirt sizing (S / M / L)</strong> from an engineering perspective</p>\n</li>\n<li>\n<p>Identify small, high-impact fixes that can be shipped quickly</p>\n</li>\n<li>\n<p>Help close the loop on resolved issues</p>\n</li>\n</ul>\n<p>Drive Systemic Improvements</p>\n<ul>\n<li>\n<p>Identify recurring issues and eliminate them</p>\n</li>\n<li>\n<p>Improve logging, observability, and debugging processes</p>\n</li>\n<li>\n<p>Build lightweight tooling or scripts to improve efficiency</p>\n</li>\n</ul>\n<p><strong>What You Are:</strong></p>\n<ul>\n<li>\n<p><strong>5+ years of experience</strong> in Software Engineering, Developer Support / DevEx, Solutions Engineering, or Technical Product Support ideally for a B2B SaaS platform.</p>\n</li>\n<li>\n<p>Familiarity with modern web technologies such as TypeScript, React, Node.js, Python, GraphQL.</p>\n</li>\n<li>\n<p>Experience working with relational databases (e.g. PostgreSQL), including: understanding data models, writing/debugging SQL queries, investigating data inconsistencies.</p>\n</li>\n<li>\n<p>Comfortable reading and navigating production codebases.</p>\n</li>\n<li>\n<p>Experience debugging across: browser dev tools, APIs and network requests, frontend UI/state issues, backend data flows and database interactions.</p>\n</li>\n<li>\n<p>Effective communication with an ability to code-switch between technical and non-technical audiences.</p>\n</li>\n<li>\n<p>Experience shipping code (PRs, fixes, and small features).</p>\n</li>\n</ul><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-software-engineer-production-support-fieldguide</p>",
-      "posted_at": "2026-11-17T22:34:23.174+00:00",
       "is_translated": false,
       "original_language": null
     },
