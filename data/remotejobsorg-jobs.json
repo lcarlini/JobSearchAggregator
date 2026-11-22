@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T14:10:59.851Z",
+  "generatedAt": "2026-11-22T23:20:29.176Z",
   "count": 150,
   "data": [
     {
@@ -1943,6 +1943,334 @@
       "original_language": null
     },
     {
+      "id": "0cfd73d8-1ec7-4d11-b28b-6d5477f9e190",
+      "title": "Senior Cloud Security Engineer, FedRAMP",
+      "url": "https://remotejobs.org/remote-jobs/senior-cloud-security-engineer-fedramp-sentilink",
+      "apply_url": "https://remotejobs.org/remote-jobs/senior-cloud-security-engineer-fedramp-sentilink",
+      "company": {
+        "name": "SentiLink",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/d87b6baaeee708ef420484cc7bebbbfbf986049678d4868e6e3ad776f8564fbe.png",
+        "website": "https://sentilink.com",
+        "url": "https://remotejobs.org/companies/sentilink"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "United States",
+      "location_normalization": {
+        "raw": "United States",
+        "input": {
+          "workArrangement": "remote"
+        },
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "worksite_countries": [
+          "US"
+        ],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": null,
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": "senior",
+        "role_family": "security",
+        "required_skills": [
+          "aws",
+          "kubernetes",
+          "terraform"
+        ],
+        "mentioned_skills": [
+          "aws",
+          "kubernetes",
+          "terraform"
+        ],
+        "preferred_skills": [
+          "aws",
+          "golang",
+          "kubernetes",
+          "python"
+        ],
+        "experience_requirements": [
+          {
+            "text": "5+ years of hands-on experience in cloud security engineering, infrastructure security, platform engineering, or a closely related technical role",
+            "maximum_years": null,
+            "minimum_years": 5,
+            "classification": "required"
+          }
+        ]
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "99060cec-96a4-49aa-8d51-099e2ca8bb5f",
+      "direct_apply": null,
+      "description": "<p><a href=\"https://www.sentilink.com/\">SentiLink</a> helps institutions and protects customers by accurately resolving identities and flagging fraud risk. Each day, we verify more than 3 million identities, flagging 150k+ fraud attempts in the process. The problems we work on are challenging, and solving them takes deep domain expertise, rigorous analysis, and a willingness to dig into the details.</p>\n<p>At SentiLink, you'll work alongside smart, highly collaborative colleagues who respect each other's time and judgment, take ownership, and follow through on their commitments. Together, we do truly meaningful work protecting the identities of innocent consumers and flagging the fraudsters attempting to exploit them.</p>\n<p>We're well capitalized and growing quickly. We already serve 13 of the top 15 U.S. banks, we're expanding into new markets, and we're backed by Craft Ventures, Andreessen Horowitz, NYCA, and Max Levchin. We've been named to the<a href=\"https://www.forbes.com/companies/sentilink/?list=fintech50\"> Forbes Fintech 50</a> and as a<a href=\"https://www.businesswire.com/news/home/20260330439998/en/SentiLink-Named-a-2026-FICO-Industry-Vanguard-Decision-Award-Winner-for-Leadership-in-Identity-Theft-Detection\"> 2026 FICO Industry Vanguard Decision Award Winner</a>. We were also the<a href=\"https://resources.sentilink.com/blog/sentilink-makes-history-as-first-ecbsv-provider\"> first company to go live</a> with the electronic Consent Based Social Security Number Verification (eCBSV) service, and we've <a href=\"https://resources.sentilink.com/media/dr.-david-maimons-congressional-testimony-on-emerging-fraud-threats-and-the-evolving-fraud-landscape\">testified before the U.S. Congress</a> on the future of identity.</p>\n<p>We want SentiLink to be the best place you've ever worked. We offer generous benefits and support a range of working arrangements, from fully remote to in-office. We are a digital-first company with strong collaboration across the U.S. and India, and we meet in person regularly to build relationships. We have offices in Austin, San Francisco, New York City, Seattle (Bellevue), Los Angeles, and Chicago in the U.S., and in Gurugram (Delhi) and Bengaluru in India.</p>\n<h2><strong>Role:</strong></h2>\n<p>SentiLink's Information Security team protects our systems, data, and customers while enabling the business to move quickly and securely. We operate a modern, AWS-based environment and support security and compliance programs including FedRAMP, SOC 2, and PCI DSS.</p>\n<p>We're looking for a <strong>Senior Cloud Security Engineer</strong> to own and improve the technical security implementation of SentiLink's AWS GovCloud environment. This is a hands-on engineering role focused on building, maintaining, and operating security controls—not a compliance or audit-management position.</p>\n<p>You'll work across AWS infrastructure, Kubernetes, identity and access management, security tooling, vulnerability management, and monitoring. You will partner closely with Infrastructure, Security Engineering, IT, and our Security &#x26; Risk team to turn security and FedRAMP requirements into effective, maintainable implementations. You should be comfortable independently identifying gaps, designing pragmatic solutions, and following through on implementation and ongoing operation.</p>\n<p>This is an individual contributor role with meaningful technical ownership and no people-management responsibilities.</p>\n<p><strong>This is a U.S.-based role. U.S. citizenship is required to meet applicable government customer and access requirements for the position.</strong> Candidates must also be able to satisfy applicable agency personnel-screening and system-access requirements.</p>\n<h2><strong>Responsibilities:</strong></h2>\n<ul>\n<li>\n<p>Design, implement, maintain, and operate security controls within SentiLink's AWS GovCloud environment, including controls supporting FedRAMP Moderate requirements and continuous monitoring.</p>\n</li>\n<li>\n<p>Engineer and improve cloud security across AWS accounts, IAM, networking, EKS/Kubernetes, Linux workloads, secrets management, logging, and encryption.</p>\n</li>\n<li>\n<p>Define and implement role-based access control and least-privilege access patterns for teams, services, and administrators; partner with IT on identity lifecycle and access provisioning.</p>\n</li>\n<li>\n<p>Develop, deploy, and maintain cloud infrastructure and security automation using Terraform and GitOps/CI/CD workflows.</p>\n</li>\n<li>\n<p>Own or provide durable technical coverage for security services in GovCloud, including vulnerability scanning and management integrations, dynamic application security testing, security telemetry, and related tooling.</p>\n</li>\n<li>\n<p>Investigate security findings, assess real-world risk, coordinate remediation with the engineering teams that own affected systems, and implement fixes directly for security-owned infrastructure and controls.</p>\n</li>\n<li>\n<p>Improve vulnerability-management operations and technical evidence collection, ensuring findings can be accurately tracked, validated, and reported through FedRAMP processes.</p>\n</li>\n<li>\n<p>Identify gaps in security visibility, monitoring, incident-response readiness, and operational processes; build and implement practical improvements rather than simply maintaining existing controls.</p>\n</li>\n<li>\n<p>Support security incidents, response exercises, technical assessments, and remediation of audit or penetration-testing findings affecting the government environment.</p>\n</li>\n<li>\n<p>Establish clear operational ownership, documentation, runbooks, and backup coverage for critical GovCloud security systems; participate in the security on-call rotation.</p>\n</li>\n<li>\n<p>Collaborate with the Security &#x26; Risk team, which owns FedRAMP governance, audit coordination, and POA&#x26;M oversight, while Security Engineering owns technical implementation and operational effectiveness.</p>\n</li>\n</ul>\n<h2><strong>Requirements:</strong></h2>\n<ul>\n<li>\n<p>5+ years of hands-on experience in cloud security engineering, infrastructure security, platform engineering, or a closely related technical role.</p>\n</li>\n<li>\n<p>Strong practical experience designing and securing production systems on AWS, including IAM, VPC networking, logging/monitoring, and security services.</p>\n</li>\n<li>\n<p>Experience deploying and operating cloud infrastructure using Terraform or equivalent infrastructure-as-code tools.</p>\n</li>\n<li>\n<p>Working knowledge of Kubernetes/container security, Linux security, CI/CD, and modern infrastructure operations.</p>\n</li>\n<li>\n<p>Demonstrated ability to implement and operate technical security controls rather than only assess compliance or provide recommendations.</p>\n</li>\n<li>\n<p>Experience with vulnerability assessment, remediation coordination, security findings, and continuous improvement of security operations.</p>\n</li>\n<li>\n<p>Ability to troubleshoot complex infrastructure and security issues, independently drive projects to completion, and produce clear technical documentation.</p>\n</li>\n<li>\n<p>Strong communication skills and the ability to collaborate with Infrastructure, Engineering, IT, and security compliance stakeholders.</p>\n</li>\n<li>\n<p>Understanding of security principles and frameworks such as NIST SP 800-53, FedRAMP, SOC 2, or comparable standards, with the ability to connect control requirements to real technical implementations.</p>\n</li>\n<li>\n<p>U.S. citizenship and ability to satisfy applicable government customer access and personnel-screening requirements.</p>\n</li>\n</ul>\n<h2><strong>Nice to have:</strong></h2>\n<ul>\n<li>\n<p>Direct experience operating or securing AWS GovCloud systems within a FedRAMP Moderate or comparable government-authorized environment.</p>\n</li>\n<li>\n<p>Experience implementing NIST SP 800-53 technical controls, supporting continuous monitoring, and producing technical evidence for assessors.</p>\n</li>\n<li>\n<p>Experience with AWS Organizations, SCPs, IAM Identity Center, EKS, Kubernetes security tooling, and multi-account cloud environments.</p>\n</li>\n<li>\n<p>Experience operating vulnerability scanners, DAST tooling, cloud posture management, and security logging/detection platforms.</p>\n</li>\n<li>\n<p>Programming or scripting experience in Python, Go, Bash, or similar languages to develop useful security automation.</p>\n</li>\n<li>\n<p>Experience with government cloud access models, privileged access, just-in-time access, and identity lifecycle processes.</p>\n</li>\n<li>\n<p>Experience in fintech, identity verification, financial services, or another highly regulated SaaS environment.</p>\n</li>\n</ul>\n<h2><strong>Compensation:</strong></h2>\n<ul>\n<li>$180,000/year - $230,000/year + equity + benefits</li>\n</ul>\n<h2><strong>Perks:</strong></h2>\n<ul>\n<li>\n<p>Employer paid group health insurance for you and your dependents</p>\n</li>\n<li>\n<p>401(k) plan with employer match (or equivalent for non US-based roles)</p>\n</li>\n<li>\n<p>Flexible paid time off</p>\n</li>\n<li>\n<p>Regular company-wide in-person events</p>\n</li>\n<li>\n<p>Home office stipend, and more!</p>\n</li>\n</ul>\n<h2><strong>Corporate Values:</strong></h2>\n<ul>\n<li>\n<p>Follow Through</p>\n</li>\n<li>\n<p>Deep Understanding</p>\n</li>\n<li>\n<p>Whatever It Takes</p>\n</li>\n<li>\n<p>Do Something Smart</p>\n</li>\n</ul><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-cloud-security-engineer-fedramp-sentilink</p>",
+      "posted_at": "2026-11-20T15:28:28.049+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "5ba5d263-8e4f-4459-a6c6-60dffba7c306",
+      "title": "Senior Software Engineer, Product Security",
+      "url": "https://remotejobs.org/remote-jobs/senior-software-engineer-product-security-sentilink",
+      "apply_url": "https://remotejobs.org/remote-jobs/senior-software-engineer-product-security-sentilink",
+      "company": {
+        "name": "SentiLink",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/d87b6baaeee708ef420484cc7bebbbfbf986049678d4868e6e3ad776f8564fbe.png",
+        "website": "https://sentilink.com",
+        "url": "https://remotejobs.org/companies/sentilink"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "United States",
+      "location_normalization": {
+        "raw": "United States",
+        "input": {
+          "workArrangement": "remote"
+        },
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "worksite_countries": [
+          "US"
+        ],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": null,
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": "senior",
+        "role_family": "software-engineering",
+        "required_skills": [
+          "aws",
+          "golang",
+          "java",
+          "python",
+          "typescript"
+        ],
+        "mentioned_skills": [],
+        "preferred_skills": [
+          "aws",
+          "kubernetes",
+          "postgresql",
+          "react",
+          "terraform"
+        ],
+        "experience_requirements": []
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "1259909b-5c6a-4533-8e43-38d89a950e66",
+      "direct_apply": null,
+      "description": "<p><a href=\"https://www.sentilink.com/\">SentiLink</a> helps institutions and protects customers by accurately resolving identities and flagging fraud risk. Each day, we verify more than 3 million identities, flagging 150k+ fraud attempts in the process. The problems we work on are challenging, and solving them takes deep domain expertise, rigorous analysis, and a willingness to dig into the details.</p>\n<p>At SentiLink, you'll work alongside smart, highly collaborative colleagues who respect each other's time and judgment, take ownership, and follow through on their commitments. Together, we do truly meaningful work protecting the identities of innocent consumers and flagging the fraudsters attempting to exploit them.</p>\n<p>We're well capitalized and growing quickly. We already serve 13 of the top 15 U.S. banks, we're expanding into new markets, and we're backed by Craft Ventures, Andreessen Horowitz, NYCA, and Max Levchin. We've been named to the<a href=\"https://www.forbes.com/companies/sentilink/?list=fintech50\"> Forbes Fintech 50</a> and as a<a href=\"https://www.businesswire.com/news/home/20260330439998/en/SentiLink-Named-a-2026-FICO-Industry-Vanguard-Decision-Award-Winner-for-Leadership-in-Identity-Theft-Detection\"> 2026 FICO Industry Vanguard Decision Award Winner</a>. We were also the<a href=\"https://resources.sentilink.com/blog/sentilink-makes-history-as-first-ecbsv-provider\"> first company to go live</a> with the electronic Consent Based Social Security Number Verification (eCBSV) service, and we've <a href=\"https://resources.sentilink.com/media/dr.-david-maimons-congressional-testimony-on-emerging-fraud-threats-and-the-evolving-fraud-landscape\">testified before the U.S. Congress</a> on the future of identity.</p>\n<p>We want SentiLink to be the best place you've ever worked. We offer generous benefits and support a range of working arrangements, from fully remote to in-office. We are a digital-first company with strong collaboration across the U.S. and India, and we meet in person regularly to build relationships. We have offices in Austin, San Francisco, New York City, Seattle (Bellevue), Los Angeles, and Chicago in the U.S., and in Gurugram (Delhi) and Bengaluru in India.</p>\n<h2><strong>Role:</strong></h2>\n<p>SentiLink's Information Security team protects our systems, data, and customers while enabling the business to move quickly and securely. As software development accelerates across the company, we're investing in engineers who can both build security capabilities and improve the security of the products we deliver to customers.</p>\n<p>We're looking for a <strong>Senior Software Engineer, Product Security</strong> who combines strong software engineering skills with a security mindset. You'll build and operate custom security applications, automation, and integrations; investigate vulnerabilities in our applications and cloud infrastructure; and help engineering teams develop, test, and deliver more secure software.</p>\n<p>This role spans software development and hands-on product security. You'll work closely with other product security engineers and the broader Engineering and Infrastructure teams to uncover difficult security problems, develop practical solutions, and drive them through implementation. We're looking for someone who is curious about how systems fail, can navigate complex codebases and architectures, and has the technical range to move between building security tooling and validating the security of customer-facing products.</p>\n<h2><strong>Responsibilities:</strong></h2>\n<ul>\n<li>\n<p>Design, build, deploy, and maintain custom security applications and services that improve vulnerability discovery, attack-surface visibility, security testing, and remediation workflows.</p>\n</li>\n<li>\n<p>Develop backend services, APIs, data-processing pipelines, integrations, and user interfaces that make security information useful and actionable for engineers.</p>\n</li>\n<li>\n<p>Assess the security of SentiLink's customer-facing products and internal applications through code review, threat modeling, vulnerability research, and hands-on security testing.</p>\n</li>\n<li>\n<p>Perform targeted penetration testing and validate potential vulnerabilities, including reproducing findings, assessing exploitability and impact, and verifying that fixes are effective.</p>\n</li>\n<li>\n<p>Work directly with product engineering teams to investigate and remediate application vulnerabilities, strengthen security-sensitive designs, and implement durable fixes.</p>\n</li>\n<li>\n<p>Develop and improve automated security testing within CI/CD and application delivery workflows, including static and dynamic analysis, dependency and container scanning, and security validation.</p>\n</li>\n<li>\n<p>Build integrations with cloud services, source-control systems, scanners, and other engineering and security platforms; improve the quality and usefulness of vulnerability data and reduce manual operational work.</p>\n</li>\n<li>\n<p>Use AI-assisted development and security analysis tools to accelerate delivery and expand testing coverage, while applying independent technical scrutiny to their output.</p>\n</li>\n<li>\n<p>Take responsibility for the full lifecycle of the systems you build, including architecture, implementation, testing, deployment, observability, reliability, and ongoing improvement.</p>\n</li>\n<li>\n<p>Collaborate with Security Engineering, Infrastructure, and product teams on security architecture, technical investigations, incident response, and remediation of identified risks.</p>\n</li>\n<li>\n<p>Participate in the security on-call rotation and help improve the effectiveness of the team's technical security capabilities.</p>\n</li>\n</ul>\n<h2><strong>Requirements:</strong></h2>\n<ul>\n<li>\n<p>4+ years of professional software engineering, product security engineering, or closely related experience, with substantial recent hands-on coding work.</p>\n</li>\n<li>\n<p>Strong proficiency in at least one modern programming language such as Python, Go, Java, or TypeScript, with the ability to work effectively across unfamiliar codebases and technologies.</p>\n</li>\n<li>\n<p>Demonstrated experience designing, shipping, and operating substantial software systems, including backend services, APIs, integrations, and data-intensive applications.</p>\n</li>\n<li>\n<p>Ability to investigate application security weaknesses at the code and architecture levels, understand how vulnerabilities can be exploited, and work with developers to implement effective remediations.</p>\n</li>\n<li>\n<p>Experience with practical application security testing, vulnerability assessment, or penetration testing, including validating findings beyond automated scanner output.</p>\n</li>\n<li>\n<p>Strong understanding of common software security failures, authentication and authorization, web services and APIs, dependencies, and secure development practices.</p>\n</li>\n<li>\n<p>Familiarity with cloud-native application environments, including AWS or comparable cloud platforms, containers, CI/CD, and infrastructure as code.</p>\n</li>\n<li>\n<p>Demonstrated ability to independently navigate ambiguous technical problems, investigate root causes, make pragmatic tradeoffs, and drive projects through delivery.</p>\n</li>\n<li>\n<p>Strong communication and collaboration skills, particularly when working with engineers to explain vulnerabilities, evaluate fixes, and improve security without creating unnecessary friction.</p>\n</li>\n</ul>\n<h2><strong>Nice to have:</strong></h2>\n<ul>\n<li>\n<p>Experience developing vulnerability-management, attack-surface management, security analytics, or security automation platforms.</p>\n</li>\n<li>\n<p>Experience building security testing tools, exploit validation harnesses, fuzzers, or other offensive-security automation.</p>\n</li>\n<li>\n<p>Hands-on red-team experience, advanced penetration testing, vulnerability research, or participation in responsible disclosure programs.</p>\n</li>\n<li>\n<p>Experience with AWS IAM, EKS/Kubernetes, cloud networking, Terraform, and security-sensitive cloud architecture.</p>\n</li>\n<li>\n<p>Experience integrating SAST, DAST, SCA, container scanning, or software supply-chain security controls into developer workflows.</p>\n</li>\n<li>\n<p>Experience with PostgreSQL, asynchronous processing, event-driven systems, FastAPI, React, or similar application technologies.</p>\n</li>\n<li>\n<p>Experience building LLM-based agents or using AI-assisted tooling for software development, security testing, or vulnerability discovery.</p>\n</li>\n<li>\n<p>Published security research, open-source tooling contributions, CVEs, or other evidence of hands-on security exploration.</p>\n</li>\n<li>\n<p>Experience in fintech, identity verification, financial services, or highly regulated SaaS environments.</p>\n</li>\n<li>\n<p>Familiarity with FedRAMP, SOC 2, PCI DSS, or comparable security and compliance obligations.</p>\n</li>\n</ul>\n<h2><strong>Compensation:</strong></h2>\n<ul>\n<li>$180,000/year - $230,000/year + equity + benefits</li>\n</ul>\n<h2><strong>Perks:</strong></h2>\n<ul>\n<li>\n<p>Employer paid group health insurance for you and your dependents</p>\n</li>\n<li>\n<p>401(k) plan with employer match (or equivalent for non US-based roles)</p>\n</li>\n<li>\n<p>Flexible paid time off</p>\n</li>\n<li>\n<p>Regular company-wide in-person events</p>\n</li>\n<li>\n<p>Home office stipend, and more!</p>\n</li>\n</ul>\n<h2><strong>Corporate Values:</strong></h2>\n<ul>\n<li>\n<p>Follow Through</p>\n</li>\n<li>\n<p>Deep Understanding</p>\n</li>\n<li>\n<p>Whatever It Takes</p>\n</li>\n<li>\n<p>Do Something Smart</p>\n</li>\n</ul><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-software-engineer-product-security-sentilink</p>",
+      "posted_at": "2026-11-20T15:28:25.272+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "89e786ac-78d2-4897-beb7-6eef5be6caf7",
+      "title": "Senior InfoSec Product Engineer",
+      "url": "https://remotejobs.org/remote-jobs/senior-infosec-product-engineer-sentilink",
+      "apply_url": "https://remotejobs.org/remote-jobs/senior-infosec-product-engineer-sentilink",
+      "company": {
+        "name": "SentiLink",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/d87b6baaeee708ef420484cc7bebbbfbf986049678d4868e6e3ad776f8564fbe.png",
+        "website": "https://sentilink.com",
+        "url": "https://remotejobs.org/companies/sentilink"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "United States",
+      "location_normalization": {
+        "raw": "United States",
+        "input": {
+          "workArrangement": "remote"
+        },
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "worksite_countries": [
+          "US"
+        ],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": null,
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": "senior",
+        "role_family": null,
+        "required_skills": [
+          "aws",
+          "golang",
+          "java",
+          "python",
+          "typescript"
+        ],
+        "mentioned_skills": [],
+        "preferred_skills": [
+          "aws",
+          "kubernetes",
+          "postgresql",
+          "react",
+          "terraform"
+        ],
+        "experience_requirements": []
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "d409a012-5647-4686-9c71-30739b0b1906",
+      "direct_apply": null,
+      "description": "<p><a href=\"https://www.sentilink.com/\">SentiLink</a> helps institutions and protects customers by accurately resolving identities and flagging fraud risk. Each day, we verify more than 3 million identities, flagging 150k+ fraud attempts in the process. The problems we work on are challenging, and solving them takes deep domain expertise, rigorous analysis, and a willingness to dig into the details.</p>\n<p>At SentiLink, you'll work alongside smart, highly collaborative colleagues who respect each other's time and judgment, take ownership, and follow through on their commitments. Together, we do truly meaningful work protecting the identities of innocent consumers and flagging the fraudsters attempting to exploit them.</p>\n<p>We're well capitalized and growing quickly. We already serve 13 of the top 15 U.S. banks, we're expanding into new markets, and we're backed by Craft Ventures, Andreessen Horowitz, NYCA, and Max Levchin. We've been named to the<a href=\"https://www.forbes.com/companies/sentilink/?list=fintech50\"> Forbes Fintech 50</a> and as a<a href=\"https://www.businesswire.com/news/home/20260330439998/en/SentiLink-Named-a-2026-FICO-Industry-Vanguard-Decision-Award-Winner-for-Leadership-in-Identity-Theft-Detection\"> 2026 FICO Industry Vanguard Decision Award Winner</a>. We were also the<a href=\"https://resources.sentilink.com/blog/sentilink-makes-history-as-first-ecbsv-provider\"> first company to go live</a> with the electronic Consent Based Social Security Number Verification (eCBSV) service, and we've <a href=\"https://resources.sentilink.com/media/dr.-david-maimons-congressional-testimony-on-emerging-fraud-threats-and-the-evolving-fraud-landscape\">testified before the U.S. Congress</a> on the future of identity.</p>\n<p>We want SentiLink to be the best place you've ever worked. We offer generous benefits and support a range of working arrangements, from fully remote to in-office. We are a digital-first company with strong collaboration across the U.S. and India, and we meet in person regularly to build relationships. We have offices in Austin, San Francisco, New York City, Seattle (Bellevue), Los Angeles, and Chicago in the U.S., and in Gurugram (Delhi) and Bengaluru in India.</p>\n<h2><strong>Role:</strong></h2>\n<p>SentiLink's Information Security team protects our systems, data, and customers while enabling the business to move quickly and securely. As software development accelerates across the company, we're investing in engineers who can both build security capabilities and improve the security of the products we deliver to customers.</p>\n<p>We're looking for a <strong>Senior InfoSec Product Engineer</strong> who combines strong software engineering skills with a security mindset. You'll build and operate custom security applications, automation, and integrations; investigate vulnerabilities in our applications and cloud infrastructure; and help engineering teams develop, test, and deliver more secure software.</p>\n<p>This role spans software development and hands-on product security. You'll work closely with other product security engineers and the broader Engineering and Infrastructure teams to uncover difficult security problems, develop practical solutions, and drive them through implementation. We're looking for someone who is curious about how systems fail, can navigate complex codebases and architectures, and has the technical range to move between building security tooling and validating the security of customer-facing products.</p>\n<h2><strong>Responsibilities:</strong></h2>\n<ul>\n<li>\n<p>Design, build, deploy, and maintain custom security applications and services that improve vulnerability discovery, attack-surface visibility, security testing, and remediation workflows.</p>\n</li>\n<li>\n<p>Develop backend services, APIs, data-processing pipelines, integrations, and user interfaces that make security information useful and actionable for engineers.</p>\n</li>\n<li>\n<p>Assess the security of SentiLink's customer-facing products and internal applications through code review, threat modeling, vulnerability research, and hands-on security testing.</p>\n</li>\n<li>\n<p>Perform targeted penetration testing and validate potential vulnerabilities, including reproducing findings, assessing exploitability and impact, and verifying that fixes are effective.</p>\n</li>\n<li>\n<p>Work directly with product engineering teams to investigate and remediate application vulnerabilities, strengthen security-sensitive designs, and implement durable fixes.</p>\n</li>\n<li>\n<p>Develop and improve automated security testing within CI/CD and application delivery workflows, including static and dynamic analysis, dependency and container scanning, and security validation.</p>\n</li>\n<li>\n<p>Build integrations with cloud services, source-control systems, scanners, and other engineering and security platforms; improve the quality and usefulness of vulnerability data and reduce manual operational work.</p>\n</li>\n<li>\n<p>Use AI-assisted development and security analysis tools to accelerate delivery and expand testing coverage, while applying independent technical scrutiny to their output.</p>\n</li>\n<li>\n<p>Take responsibility for the full lifecycle of the systems you build, including architecture, implementation, testing, deployment, observability, reliability, and ongoing improvement.</p>\n</li>\n<li>\n<p>Collaborate with Security Engineering, Infrastructure, and product teams on security architecture, technical investigations, incident response, and remediation of identified risks.</p>\n</li>\n<li>\n<p>Participate in the security on-call rotation and help improve the effectiveness of the team's technical security capabilities.</p>\n</li>\n</ul>\n<h2><strong>Requirements:</strong></h2>\n<ul>\n<li>\n<p>4+ years of professional software engineering, product security engineering, or closely related experience, with substantial recent hands-on coding work.</p>\n</li>\n<li>\n<p>Strong proficiency in at least one modern programming language such as Python, Go, Java, or TypeScript, with the ability to work effectively across unfamiliar codebases and technologies.</p>\n</li>\n<li>\n<p>Demonstrated experience designing, shipping, and operating substantial software systems, including backend services, APIs, integrations, and data-intensive applications.</p>\n</li>\n<li>\n<p>Ability to investigate application security weaknesses at the code and architecture levels, understand how vulnerabilities can be exploited, and work with developers to implement effective remediations.</p>\n</li>\n<li>\n<p>Experience with practical application security testing, vulnerability assessment, or penetration testing, including validating findings beyond automated scanner output.</p>\n</li>\n<li>\n<p>Strong understanding of common software security failures, authentication and authorization, web services and APIs, dependencies, and secure development practices.</p>\n</li>\n<li>\n<p>Familiarity with cloud-native application environments, including AWS or comparable cloud platforms, containers, CI/CD, and infrastructure as code.</p>\n</li>\n<li>\n<p>Demonstrated ability to independently navigate ambiguous technical problems, investigate root causes, make pragmatic tradeoffs, and drive projects through delivery.</p>\n</li>\n<li>\n<p>Strong communication and collaboration skills, particularly when working with engineers to explain vulnerabilities, evaluate fixes, and improve security without creating unnecessary friction.</p>\n</li>\n</ul>\n<h2><strong>Nice to have:</strong></h2>\n<ul>\n<li>\n<p>Experience developing vulnerability-management, attack-surface management, security analytics, or security automation platforms.</p>\n</li>\n<li>\n<p>Experience building security testing tools, exploit validation harnesses, fuzzers, or other offensive-security automation.</p>\n</li>\n<li>\n<p>Hands-on red-team experience, advanced penetration testing, vulnerability research, or participation in responsible disclosure programs.</p>\n</li>\n<li>\n<p>Experience with AWS IAM, EKS/Kubernetes, cloud networking, Terraform, and security-sensitive cloud architecture.</p>\n</li>\n<li>\n<p>Experience integrating SAST, DAST, SCA, container scanning, or software supply-chain security controls into developer workflows.</p>\n</li>\n<li>\n<p>Experience with PostgreSQL, asynchronous processing, event-driven systems, FastAPI, React, or similar application technologies.</p>\n</li>\n<li>\n<p>Experience building LLM-based agents or using AI-assisted tooling for software development, security testing, or vulnerability discovery.</p>\n</li>\n<li>\n<p>Published security research, open-source tooling contributions, CVEs, or other evidence of hands-on security exploration.</p>\n</li>\n<li>\n<p>Experience in fintech, identity verification, financial services, or highly regulated SaaS environments.</p>\n</li>\n<li>\n<p>Familiarity with FedRAMP, SOC 2, PCI DSS, or comparable security and compliance obligations.</p>\n</li>\n</ul>\n<h2><strong>Compensation:</strong></h2>\n<ul>\n<li>$180,000/year - $230,000/year + equity + benefits</li>\n</ul>\n<h2><strong>Perks:</strong></h2>\n<ul>\n<li>\n<p>Employer paid group health insurance for you and your dependents</p>\n</li>\n<li>\n<p>401(k) plan with employer match (or equivalent for non US-based roles)</p>\n</li>\n<li>\n<p>Flexible paid time off</p>\n</li>\n<li>\n<p>Regular company-wide in-person events</p>\n</li>\n<li>\n<p>Home office stipend, and more!</p>\n</li>\n</ul>\n<h2><strong>Corporate Values:</strong></h2>\n<ul>\n<li>\n<p>Follow Through</p>\n</li>\n<li>\n<p>Deep Understanding</p>\n</li>\n<li>\n<p>Whatever It Takes</p>\n</li>\n<li>\n<p>Do Something Smart</p>\n</li>\n</ul><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-infosec-product-engineer-sentilink</p>",
+      "posted_at": "2026-11-20T15:28:23.286+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "0bc3ca20-ecce-4b53-b848-3d17d3cb3896",
+      "title": "Staff Software Engineer, Product Security",
+      "url": "https://remotejobs.org/remote-jobs/staff-software-engineer-product-security-sentilink",
+      "apply_url": "https://remotejobs.org/remote-jobs/staff-software-engineer-product-security-sentilink",
+      "company": {
+        "name": "SentiLink",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/d87b6baaeee708ef420484cc7bebbbfbf986049678d4868e6e3ad776f8564fbe.png",
+        "website": "https://sentilink.com",
+        "url": "https://remotejobs.org/companies/sentilink"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "United States",
+      "location_normalization": {
+        "raw": "United States",
+        "input": {
+          "workArrangement": "remote"
+        },
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "worksite_countries": [
+          "US"
+        ],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": null,
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": "staff",
+        "role_family": "software-engineering",
+        "required_skills": [
+          "aws",
+          "cpp",
+          "golang",
+          "python",
+          "rust",
+          "typescript"
+        ],
+        "mentioned_skills": [
+          "aws"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": [
+          {
+            "text": "8+ years of experience in security engineering, software engineering with a security focus, or closely related roles",
+            "maximum_years": null,
+            "minimum_years": 8,
+            "classification": "required"
+          }
+        ]
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "b3ad3110-4217-478a-8763-efd40869c4e6",
+      "direct_apply": null,
+      "description": "<p><a href=\"https://www.sentilink.com/\">SentiLink</a> helps institutions and protects customers by accurately resolving identities and flagging fraud risk. Each day, we verify more than 3 million identities, flagging 150k+ fraud attempts in the process. The problems we work on are challenging, and solving them takes deep domain expertise, rigorous analysis, and a willingness to dig into the details.</p>\n<p>At SentiLink, you'll work alongside smart, highly collaborative colleagues who respect each other's time and judgment, take ownership, and follow through on their commitments. Together, we do truly meaningful work protecting the identities of innocent consumers and flagging the fraudsters attempting to exploit them.</p>\n<p>We're well capitalized and growing quickly. We already serve 13 of the top 15 U.S. banks, we're expanding into new markets, and we're backed by Craft Ventures, Andreessen Horowitz, NYCA, and Max Levchin. We've been named to the<a href=\"https://www.forbes.com/companies/sentilink/?list=fintech50\"> Forbes Fintech 50</a> and as a<a href=\"https://www.businesswire.com/news/home/20260330439998/en/SentiLink-Named-a-2026-FICO-Industry-Vanguard-Decision-Award-Winner-for-Leadership-in-Identity-Theft-Detection\"> 2026 FICO Industry Vanguard Decision Award Winner</a>. We were also the<a href=\"https://resources.sentilink.com/blog/sentilink-makes-history-as-first-ecbsv-provider\"> first company to go live</a> with the electronic Consent Based Social Security Number Verification (eCBSV) service, and we've <a href=\"https://resources.sentilink.com/media/dr.-david-maimons-congressional-testimony-on-emerging-fraud-threats-and-the-evolving-fraud-landscape\">testified before the U.S. Congress</a> on the future of identity.</p>\n<p>We want SentiLink to be the best place you've ever worked. We offer generous benefits and support a range of working arrangements, from fully remote to in-office. We are a digital-first company with strong collaboration across the U.S. and India, and we meet in person regularly to build relationships. We have offices in Austin, San Francisco, New York City, Seattle (Bellevue), Los Angeles, and Chicago in the U.S., and in Gurugram (Delhi) and Bengaluru in India.</p>\n<h2><strong>Role:</strong></h2>\n<p>We’re looking for a Staff Software Engineer, Product Security to lead and elevate security across SentiLink’s infrastructure, applications, and internal systems. This is a highly technical, hands-on role focused on building scalable security foundations while enabling the business to move quickly and safely.</p>\n<p>You will partner closely with Engineering, Infrastructure, Product, Legal, and Compliance teams to design secure systems, improve detection and response capabilities, strengthen cloud security posture, and reduce organizational risk. You’ll help shape long-term security strategy while remaining deeply involved in technical implementation and operational execution.</p>\n<p>This role is best suited for someone who combines strong technical depth with practical judgment and thrives in fast-moving, high-ownership environments.</p>\n<h2><strong>Responsibilities:</strong></h2>\n<ul>\n<li>\n<p>Design and build internal security tooling from scratch, including agent-based security tooling, code analysis tooling, dynamic scanning, and security assessment tools</p>\n</li>\n<li>\n<p>Identify vulnerabilities across SentiLink's AWS-based stack, including application code, cloud service configurations, and integrations between the two</p>\n</li>\n<li>\n<p>Develop AI-assisted and agent-based tooling to scale offensive security testing beyond what a small team can do manually</p>\n</li>\n<li>\n<p>Build and maintain security automation that improves detection, response, and remediation across the organization</p>\n</li>\n<li>\n<p>Conduct hands-on penetration testing and vulnerability research against SentiLink's infrastructure and applications</p>\n</li>\n<li>\n<p>Partner with engineering teams to remediate findings and embed security into the development process without slowing them down</p>\n</li>\n<li>\n<p>Participate in the security on-call rotation, including incident response and regular response testing</p>\n</li>\n<li>\n<p>Contribute to threat modeling and security design reviews for new systems, with a focus on cloud integrations and identity flows</p>\n</li>\n<li>\n<p>Stay current on offensive security techniques, AI-assisted security tooling, and emerging attack patterns relevant to fintech and identity verification</p>\n</li>\n</ul>\n<h2><strong>Requirements:</strong></h2>\n<ul>\n<li>\n<p>8+ years of experience in security engineering, software engineering with a security focus, or closely related roles</p>\n</li>\n<li>\n<p>Proficient in at least one systems language (Go, Rust, C++) and at least one higher-level language (Python, TypeScript)</p>\n</li>\n<li>\n<p>Proven ability to design and ship production software end-to-end</p>\n</li>\n<li>\n<p>Deep AWS infrastructure expertise, including IAM, EKS, RDS, networking, and managed services</p>\n</li>\n<li>\n<p>Proficiency with using an AI tool such as Claude Code, ChatGPT/Codex, Cursor or another similar tool</p>\n</li>\n<li>\n<p>Demonstrated ability to identify security misconfigurations and vulnerabilities across cloud architectures, application code, and the integrations between them</p>\n</li>\n<li>\n<p>Experience conducting or building tooling for penetration testing, vulnerability assessment, or red team activities</p>\n</li>\n<li>\n<p>Track record of building security automation and tooling from scratch</p>\n</li>\n<li>\n<p>Comfortable operating independently on ambiguous problems without heavy process or oversight</p>\n</li>\n<li>\n<p>Strong communication skills and the ability to partner with engineers who are not security specialists</p>\n</li>\n</ul>\n<h2><strong>Nice to have:</strong></h2>\n<ul>\n<li>\n<p>Experience building or deploying LLM-based agents or AI-assisted security tooling</p>\n</li>\n<li>\n<p>Prior experience at a security product company (Wiz, Snyk, Datadog, etc.) or other security-forward engineering org</p>\n</li>\n<li>\n<p>Prior fintech, identity, or fraud detection experience</p>\n</li>\n<li>\n<p>Industry certifications (OSCP, OSCE, GPEN, GXPN)</p>\n</li>\n<li>\n<p>Experience with detection engineering or SIEM platforms</p>\n</li>\n<li>\n<p>Published security research, CVEs, or open source security tooling contributions</p>\n</li>\n<li>\n<p>Experience supporting compliance frameworks (FedRAMP, SOC 2, PCI DSS) without it being their primary focus</p>\n</li>\n</ul>\n<h2><strong>Compensation:</strong></h2>\n<p>$210k-260k/year + equity + benefits</p>\n<h2><strong>Perks:</strong></h2>\n<ul>\n<li>\n<p>Employer paid group health insurance for you and your dependents</p>\n</li>\n<li>\n<p>401(k) plan with employer match (or equivalent for non US-based roles)</p>\n</li>\n<li>\n<p>Flexible paid time off</p>\n</li>\n<li>\n<p>Regular company-wide in-person events</p>\n</li>\n<li>\n<p>Home office stipend, and more!</p>\n</li>\n</ul>\n<h2><strong>Corporate Values:</strong></h2>\n<ul>\n<li>\n<p>Follow Through</p>\n</li>\n<li>\n<p>Deep Understanding</p>\n</li>\n<li>\n<p>Whatever It Takes</p>\n</li>\n<li>\n<p>Do Something Smart</p>\n</li>\n</ul><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/staff-software-engineer-product-security-sentilink</p>",
+      "posted_at": "2026-11-20T15:18:25.723+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
       "id": "5c5f74a4-b6f7-4ff6-9195-d91a609d65e5",
       "title": "Red Team Lead",
       "url": "https://remotejobs.org/remote-jobs/red-team-lead-supabase",
@@ -2878,6 +3206,69 @@
       "original_language": null
     },
     {
+      "id": "c675f19e-0651-4d1a-a2d7-a28b8d514db1",
+      "title": "Senior Agentic Engineer (UIPath)",
+      "url": "https://remotejobs.org/remote-jobs/senior-agentic-engineer-uipath-upstaff",
+      "apply_url": "https://remotejobs.org/remote-jobs/senior-agentic-engineer-uipath-upstaff",
+      "company": {
+        "name": "Upstaff",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/9c72fef1ff6193ee9f9d3d56a466dbcbee48817e450ff4555db56114b5bb4375.png",
+        "website": "https://upstaff.com",
+        "url": "https://remotejobs.org/companies/upstaff"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": null,
+      "location_normalization": {
+        "raw": null,
+        "input": {},
+        "scope": "unknown",
+        "status": "unknown",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [],
+        "work_arrangement": "unknown",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": null,
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": "senior",
+        "role_family": null,
+        "required_skills": [
+          "dotnet",
+          "sql"
+        ],
+        "mentioned_skills": [],
+        "preferred_skills": [],
+        "experience_requirements": []
+      },
+      "salary_min": 3000,
+      "salary_max": 3000,
+      "salary_text": "USD 3,000/month",
+      "salary_source_text": null,
+      "salary_currency": "USD",
+      "salary_period": "month",
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "e88f78c01a8ed0fed22b7ef0fbe70e3a3497de457efe0651567d8c02a2cfea14",
+      "direct_apply": null,
+      "description": "<p>Senior Agentic Engineer (UiPath) for a global payments platform operating in 40+ countries.</p>\n<p>Must have 5+ years in RPA, 3+ years leading UiPath delivery, mandatory UiARD certification, and hands-on experience with UiPath ReFramework, Orchestrator, AI Center, Document Understanding, and LLM integrations (OpenAI/Gemini).</p>\n<p>Strong .NET, SQL, and API skills required. Fintech/payments experience is a plus. Remote: Poland, Spain, Ukraine, or Romania, subject to local employment/contract requirements.</p>\n<p>Urgent start: Dec 1.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-agentic-engineer-uipath-upstaff</p>",
+      "posted_at": "2026-11-20T00:00:00+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
       "id": "af104f22-f579-49ba-aab2-f9cd6f138d37",
       "title": "Software Engineer, Dash",
       "url": "https://remotejobs.org/remote-jobs/software-engineer-dash-liftoff-llc",
@@ -3011,343 +3402,6 @@
       "direct_apply": null,
       "description": "<h2>Help Us Build The Future of Travel</h2><p>At Airalo, we're making it easier for people to stay connected wherever they travel. As the world's first eSIM store, we help millions of travelers access affordable mobile data in 200+ countries and regions around the world.</p><p>Today, we're a team of 400+ people across 60+ countries, building a product used by travelers every day. We've grown quickly, but we've worked hard to keep what matters: trust, ownership, and the freedom for people to do great work without unnecessary layers or bureaucracy.</p><p>We're fully remote by design, genuinely global, and united by a shared mission to make travel simpler for everyone.</p><h2>Your Next Destination</h2><ul>\n<li>\n<strong>Location:</strong> Remote, anywhere in Spain or the UK.</li>\n<li>\n<strong>Contract:</strong><ul>\n<li>Spain: Full-time, permanent <em>contrato indefinido</em> via Deel (our employer of record in Spain)</li>\n<li>UK: Full-time, permanent</li>\n</ul>\n</li>\n<li>\n<strong>Benefits: </strong>Learn more about our benefits here in this link - </li>\n<li>\n<strong>Languages:</strong> English is our main working language day to day, so you'll need to be comfortable communicating in it both in meetings and async.</li>\n</ul><p>Curious what it's actually like to work at Airalo? We've put together a guide for each of the hubs we hire from most, covering our benefits, remote culture, employment setup, and what our team values most:</p><ul>\n<li>\n<strong>Life at Airalo · España</strong>: </li>\n<li>\n<strong>Life at Airalo · United Kingdom</strong>: </li>\n</ul><p>You are someone who cares deeply about the quality of your work, the people who use it, and the success of your team.</p><p>You're a strong engineer with a wide view of the industry and an eye for detail, and you think in outcomes rather than tasks: why something is being built, how it will feel for users, and whether it made a difference once it shipped.</p><p>You're a natural collaborator who enjoys shaping product decisions, and you communicate openly, so people always know where things stand. You're fluent in AI-assisted development and use it with judgment, validating the outputs it produces.</p><p>We are looking for a <strong>Senior iOS engineer</strong> to join the team building the Airalo app. You'll make the technical decisions that keep the app healthy as it grows, and help drive technical excellence across the team.</p><h2>What You'll Do:</h2><ul>\n<ul><li>Own features end to end: shape them with Product and Design, build and release them, and follow how they perform, so users get a best-in-class experience</li><li>Make sound architecture decisions and trade-offs, and write them up as proposals when the team needs to align</li><li>Own app performance and stability: investigate production issues, debug and profile, and fix root causes</li><li>Keep quality high through meaningful tests and thoughtful code reviews</li><li>Run product experiments and use the results to decide what to build next</li><li>Stay current with the iOS ecosystem and adopt new Apple platform capabilities early</li><li>Mentor engineers and contribute to our mobile guild, sharing knowledge across iOS and Android</li></ul></ul><h2>What You'll Bring:</h2><ul>\n<ul><li>5+ years of iOS development in Swift, with production experience in SwiftUI and UIKit</li><li>Deep platform fundamentals: architecture, concurrency, memory, performance, security and debugging</li><li>A track record of shipping and evolving apps at product companies, in cross-functional teams with product managers, designers, QA and backend engineers</li><li>Proven ability to work independently: you organise your own work, get yourself unblocked through research, your team or the guild, and deliver predictably, flagging early when plans change</li><li>Advanced AI-assisted development: you've built AI into how you design, code, test and review</li><li>Excellent written and spoken communication in English</li></ul><h2>Nice to have:</h2>\n<ul><li>Experience building accessible, localized apps</li><li>Experience making apps fast and reliable on poor or unstable connections</li><li>Experience with in-app payments or e-commerce flows</li><li>A strong eye for UI craft and Apple's Human Interface Guidelines</li><li>Familiarity with agentic development workflows</li></ul></ul><p>If you are interested in this position, please apply via the link.</p><h2>Why People Join Us</h2><h2>🇪🇸 Why people join us in Spain</h2><p>We started Airalo to make staying connected effortless, wherever you are in the world. Today, millions of travelers rely on our eSIMs, and many of the people building the product were customers first.</p><p>Our team is united by a shared belief that great work happens when people are trusted to own what they do. As Airalo continues to grow, so do the opportunities to learn, take on new challenges, and make a real impact.</p><p>For many of our teammates in Spain, it's the combination of stability, flexibility, and genuine work-life balance that makes Airalo feel like home.</p><h2>🇬🇧 Why people join us in the UK</h2><p>We started Airalo to make staying connected effortless, wherever you are in the world. Today, millions of travelers rely on our eSIMs, and many of the people building the product first discovered us as customers.</p><p>Our team spans 60+ countries, but what people often notice quickly is how work actually feels here. There's trust to own what you do, space to focus without constant layers of process, and a clear sense of what you're responsible for from day one.</p><p>As Airalo continues to grow, people tend to stay for a mix of things: the chance to work on a product used globally, the autonomy to shape how they work, and the opportunity to keep taking on new challenges without getting stuck in one lane.</p><h2>Before You Hit Apply</h2><p>By applying, you acknowledge and agree that, in case of successful application, Airalo may request to run background checks as a condition for entering into an agreement with you. Rest assured that these checks will only occur upon your prior consent and at the end of the selection process, and will be strictly limited to what is allowed under the laws that are applicable to you. All data that you share or that we collect in connection with such checks will be processed in accordance with our Privacy Policy, available here: </p><p>We sincerely thank all applicants in advance for submitting their interest in this opportunity. Airalo is an equal-opportunity employer and values diversity, equity &#x26; inclusion. We do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We are committed to providing reasonable accommodations upon request for individuals with disabilities throughout our job interview process.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-ios-developer-airalo</p>",
       "posted_at": "2026-11-19T20:58:21+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "bf421fd6-e329-4bcd-8565-156d3a797db6",
-      "title": "Full Stack Developer Senior",
-      "url": "https://remotejobs.org/remote-jobs/full-stack-developer-senior-contctica",
-      "apply_url": "https://remotejobs.org/remote-jobs/full-stack-developer-senior-contctica",
-      "company": {
-        "name": "Contáctica",
-        "logo_url": null,
-        "website": null,
-        "url": "https://remotejobs.org/companies/contctica"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "Ecuador",
-      "location_normalization": {
-        "raw": "Ecuador",
-        "input": {},
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "EC"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": null,
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": "senior",
-        "role_family": "software-engineering",
-        "required_skills": [],
-        "mentioned_skills": [
-          "docker",
-          "nodejs",
-          "php",
-          "react",
-          "sql",
-          "typescript"
-        ],
-        "preferred_skills": [],
-        "experience_requirements": []
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": null,
-      "salary_period": "year",
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<h2>ABOUT US</h2>\n<p>At Contáctica, we are our clients' evolution partner. We connect technology, data, creativity, and paid, owned, and earned channels to deliver measurable business results.</p>\n<p>We seek curious, proactive, and collaborative individuals who integrate artificial intelligence into their daily work to transform operations, processes, and challenges into valuable solutions.</p>\n<p>We work remotely and collaboratively, understanding how each contribution impacts our clients' businesses.</p>\n<h2>JOB DESCRIPTION</h2>\n<p>We are looking for an experienced Full Stack Developer to build, maintain, and enhance web applications, content platforms, and integrations.</p>\n<p>This is a development-focused role that requires autonomy in solving technical challenges and supporting junior developers through code reviews and practical guidance.</p>\n<h2>EXPECTED IMPACT</h2>\n<p>Stable, secure, and maintainable solutions, high-quality deliverables, and improvements that reduce errors and technical debt.</p>\n<h2>KEY RESPONSIBILITIES</h2>\n<ul>\n<li>Develop interfaces and features using React, Next.js, and TypeScript, ensuring performance, accessibility, and responsive behavior.</li>\n<li>Build and maintain backend services and integrations using Node.js, REST APIs, and relational databases.</li>\n<li>Develop and maintain features using PHP and WordPress according to project requirements.</li>\n<li>Participate in technical design, effort estimation, and the identification of risks and dependencies.</li>\n<li>Implement tests, review code, and apply security, authentication, and data management best practices.</li>\n<li>Perform deployments and maintain existing pipelines in Azure, including validation, troubleshooting, and rollback procedures, in coordination with infrastructure teams.</li>\n<li>Mentor junior developers and document relevant technical decisions and solutions.</li>\n</ul>\n<h2>EXPERIENCE &#x26; CAPABILITIES</h2>\n<ul>\n<li>Proven experience in full stack development and production applications; four or more years as a reference.</li>\n<li>Strong proficiency in React, Next.js, TypeScript, HTML, and CSS.</li>\n<li>Experience developing backend services with Node.js and integrating APIs.</li>\n<li>Experience with PHP and WordPress development.</li>\n<li>Knowledge of relational databases, SQL queries, and database migrations.</li>\n<li>Regular use of Git, pull requests, code reviews, and automated testing.</li>\n<li>Understanding of application security fundamentals and experience with deployments, CI/CD, and cloud environments.</li>\n<li>Practical experience using AI coding assistants, with the ability to understand, review, and test AI-generated code.</li>\n</ul>\n<h2>VALUED</h2>\n<ul>\n<li>Experience with Directus or other headless CMS platforms.</li>\n<li>Knowledge of Astro, Azure App Service, and Azure DevOps.</li>\n<li>Experience with Docker, application monitoring, and troubleshooting.</li>\n<li>Experience with Salesforce integrations and automation using n8n or Zapier.</li>\n</ul>\n<h2>START THE JOURNEY</h2>\n<p>If you share our beliefs—and are committed to act on them fully—we invite you to<br>\napply to join our team and experience the thrill of working in a fast-paced, cutting-edge, mostly remote environment.</p>\n<p>Apply here and start the journey. Please include a personal letter with your application explaining why you're the best person for this position.</p>\n<p>We are Contáctica, a technology and creativity company tackling the most complex brand, product, and business challenges of today and tomorrow while serving key industries such as banking, insurance, and consumer packaged goods (CPGs).</p>\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/full-stack-developer-senior-contctica</p>",
-      "posted_at": "2026-11-19T20:54:54+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "0d36ceb7-e687-411e-956a-a6a7b04dd210",
-      "title": "Senior ServiceNow Developer",
-      "url": "https://remotejobs.org/remote-jobs/senior-servicenow-developer-sitreps",
-      "apply_url": "https://remotejobs.org/remote-jobs/senior-servicenow-developer-sitreps",
-      "company": {
-        "name": "Sitreps",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/6d6ef218995d8a6187bc7fe66558456634b1a3ce83cded84c9cacd0137fad2c8.webp",
-        "website": null,
-        "url": "https://remotejobs.org/companies/sitreps"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "United States",
-      "location_normalization": {
-        "raw": "United States",
-        "input": {},
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": null,
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": "senior",
-        "role_family": null,
-        "required_skills": [
-          "javascript"
-        ],
-        "mentioned_skills": [],
-        "preferred_skills": [],
-        "experience_requirements": []
-      },
-      "salary_min": 120000,
-      "salary_max": 150000,
-      "salary_text": "USD 120,000–150,000/year",
-      "salary_source_text": "USD 120000 - 150000",
-      "salary_currency": "USD",
-      "salary_period": "year",
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<h2><strong>Senior ServiceNow Developer</strong></h2>\n<p><strong>Company:</strong> Defense Tech<br>\n<strong>Location:</strong> Remote, United States<br>\n<strong>Compensation:</strong> $120K to $150K base, commensurate with experience<br>\n<strong>Type:</strong> Full-Time Employee<br>\n<strong>Reports To:</strong> Director, Security and Compliance Operations<br>\n<strong>Citizenship:</strong> U.S. citizen, able to pass a background check<br>\n<strong>Clearance:</strong> Must be eligible to obtain a U.S. security clearance</p>\n<hr>\n<h2><strong>About the Client</strong></h2>\n<p>We are a fast-growing, defense-focused company supporting sensitive and cleared workforces. We have grown from a handful of people to more than sixty in the past year, and we operate with startup speed in an environment where accuracy and auditability matter as much as functionality.</p>\n<h2><strong>About the Role</strong></h2>\n<p>We are hiring our first full-time ServiceNow developer. You will own all development on our platform, building and extending the GRC and SecOps capabilities that support our FedRAMP and NIST 800-53 obligations, along with customer service workflows and custom applications. A dedicated platform administrator handles infrastructure; the development side is yours end to end, from requirements and scripting through testing, deployment and support.</p>\n<p>As we grow, so does this role. Building out our development pipeline sets up a promotion track shaped around where you want to take your ServiceNow career.</p>\n<h2><strong>Responsibilities</strong></h2>\n<ul>\n<li>Design, develop and maintain custom applications, workflows and integrations on ServiceNow, including scoped applications and Service Portal components.</li>\n<li>Build and extend GRC, SecOps and Integrated Risk Management (IRM) capabilities supporting FedRAMP, NIST 800-53 and related compliance programs.</li>\n<li>Configure and extend Security Incident Response (SIR) and Customer Service Management (CSM) workflows for internal and client-facing needs.</li>\n<li>Develop business rules, client scripts, UI policies, ACLs, Flow Designer flows and scheduled jobs to ServiceNow best practices.</li>\n<li>Own the CI/CD pipeline across dev, test and production, including update sets, source control and automated testing.</li>\n<li>Partner with security operations, compliance and customer success to turn operational and regulatory requirements into platform solutions.</li>\n<li>Write clear technical documentation, design specs and change records that support audit traceability.</li>\n<li>Troubleshoot defects, performance issues and integration failures across the platform.</li>\n</ul>\n<h2><strong>Requirements</strong></h2>\n<h2><strong>Must-Haves</strong></h2>\n<ul>\n<li>5+ years of hands-on ServiceNow development, including JavaScript and Glide API scripting, Flow Designer and custom application development.</li>\n<li>Strong understanding of ServiceNow platform architecture: ACLs, business rules, data model design, and integrations (REST/SOAP, MID Server, IntegrationHub).</li>\n<li>Experience with CI/CD pipelines and automated testing for ServiceNow (e.g., ATF).</li>\n<li>The ability to work autonomously and own the development function without day-to-day direction.</li>\n<li>Excellent written communication, for technical and non-technical audiences alike.</li>\n<li>U.S. citizen, able to pass a background check and eligible to obtain a security clearance.</li>\n</ul>\n<h2><strong>Nice-to-Haves</strong></h2>\n<ul>\n<li>Experience with ServiceNow GRC, IRM or SecOps modules.</li>\n<li>Experience supporting FedRAMP, NIST 800-53 or other federal compliance frameworks.</li>\n<li>Prior work in defense, federal or another highly regulated industry.</li>\n<li>ServiceNow Certified Application Developer (CAD); CIS-CSM a plus.</li>\n<li>Familiarity with Performance Analytics, Service Portal widgets or UI Builder.</li>\n<li>Startup experience, or a corporate background with a startup mindset.</li>\n</ul>\n<h2><strong>Why This Role</strong></h2>\n<ul>\n<li>Own the platform: you are the developer, not one of twenty</li>\n<li>Fully remote within the United States</li>\n<li>A defined growth track in a company that has grown more than tenfold in a year</li>\n<li>Mission-driven work supporting the defense community</li>\n</ul>\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-servicenow-developer-sitreps</p>",
-      "posted_at": "2026-11-19T20:54:29+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "ec8e037e-7470-41a8-a6da-1ee178395887",
-      "title": "Senior z/OS Software Developer",
-      "url": "https://remotejobs.org/remote-jobs/senior-zos-software-developer-crawford-technologies",
-      "apply_url": "https://remotejobs.org/remote-jobs/senior-zos-software-developer-crawford-technologies",
-      "company": {
-        "name": "Crawford Technologies",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/6726bc5b2051f9d730dd010978532a6566399d99aeb3e7c01aac14c0373cc351.png",
-        "website": "https://crawford.com",
-        "url": "https://remotejobs.org/companies/crawford-technologies"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "United States",
-      "location_normalization": {
-        "raw": "United States",
-        "input": {},
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": null,
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": "senior",
-        "role_family": "software-engineering",
-        "required_skills": [],
-        "mentioned_skills": [
-          "cpp",
-          "csharp",
-          "java"
-        ],
-        "preferred_skills": [],
-        "experience_requirements": [
-          {
-            "text": "5+ years of professional experience",
-            "maximum_years": null,
-            "minimum_years": 5,
-            "classification": "mentioned"
-          }
-        ]
-      },
-      "salary_min": 100000,
-      "salary_max": 130000,
-      "salary_text": "USD 100,000–130,000/year",
-      "salary_source_text": "USD 100000 - 130000",
-      "salary_currency": "USD",
-      "salary_period": "year",
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<p>Senior z/OS Software Developer <br><br>Remote - In USA</p><p>As a key member of a dynamic team, you will develop, enhance, and maintain document print and image file conversion, manipulation, and data mining software. Development is done for all major platforms including z/OS, AIX, Solaris, Linux, and Windows. To work in this fast paced, dynamic, and demanding environment you must be an exceptional programmer. </p><h2>MAJOR DUTIES AND RESPONSIBILITIES</h2><ul>\n<li>Expert knowledge of z/OS and IBM assembler language     </li>\n<li>Design and develop portable software using IBM assembler and C/C++ in a cross platform environment.  </li>\n<li>Trouble shoots software problems and analyzes reasons for failure, corrects software deficiencies and develops enhancements as necessary. </li>\n<li>Develop new software as well as enhancing existing systems.  </li>\n<li>Work with distributed systems. </li>\n<li>Work within specifications provided to meet programming assignment goals and objectives in a timely and accurate manner. </li>\n<li>Takes independent action to correct problems encountered during execution within authority level granted by manager.</li>\n<li>Demonstrate ability to prioritize conflicting demands and execute assigned projects tasks within established schedule, recognize processing/programming inefficiencies and recommend improvements.</li>\n<li>Aid in documentation of new programs and enhancements made to existing programs.</li>\n<li>Aid in test case creation, preparation of test data and analyze program results and performance. </li>\n<li>Must be willing to be on call as needed and work weekends to cover software failure on production programs or new applications behind schedule.</li>\n<li>Other duties as assigned/required.</li>\n</ul><h2>SKILLS</h2><ul>\n<li>zArchitecture assembler programming for z/OS</li>\n<li>Software development for z/OS </li>\n<li>Strong debugging and trouble shooting skills on z/OS</li>\n<li>Cross platform programming/debugging with 3GL programming language(s)</li>\n<li>Knowledge of system design methodologies, techniques and standards. </li>\n<li>Comfortable programming in a production environment. </li>\n</ul><p><strong> BENEFICIAL EXPERIENCE:</strong></p><ul>\n<li>Cross platform programming/debugging with C/C++, Java or C#</li>\n<li>Cryptographic programming, AT/TLS</li>\n<li>Experience with low-level system interfaces on z/OS</li>\n<li>IP Networking programming</li>\n<li>RACF Security</li>\n<li>Print streams such as AFP, PDF, PostScript, etc. </li>\n</ul><h2>WORK EXPERIENCE &#x26; EDUCATION &#x26; BENEFITS</h2><p>WORK EXPERIENCE</p><ul>\n<li>5+ years of professional experience designing developing enterprise software on z/OS</li>\n<li>Experience with software design patterns</li>\n<li>Experience with large projects and can work well as part of a team.</li>\n<li>Ability to adapt to alternate technologies as required</li>\n<li>Comfortable programming in a production environment</li>\n</ul><p>EDUCATION</p><ul><li>Degree in computer science, mathematics, engineering or closely related field or equivalent combination and/or experience in related field.</li></ul><p>\nBENEFITS</p><ul>\n<li>Competitive salary (Commensurate with experience and position and eligible bonus) <ul>\n<li>Excellent benefits<ul>\n<li>Medical</li>\n<li>Dental</li>\n<li>Vision</li>\n<li>Short Term Disability</li>\n<li>Long Term Disability</li>\n<li>Group and Voluntary Life</li>\n<li>Sick Time Pay</li>\n<li>Vacation Pay</li>\n<li>Holiday Pay</li>\n</ul>\n</li>\n<li>Be part of a rapidly growing software company</li>\n</ul>\n</li>\n<li><em>How long will the role be open for?  Until filled.</em></li>\n</ul><em> Prior to submitting an application/resume, review the job descriptions complete list of job duties and qualifications.<em> We thank all applicants for their interest in joining our team. Those short listed will be contacted.<em> Should you need any assistance in the application process, please contact .<p><em> Note: This job description is to be used as a guide for accomplishing company and department objectives and is not intended and should not be construed to be an all-inclusive list of responsibilities, skills, efforts or working condition associated with a job. Management reserves the right to modify, add or remove duties from particular jobs and to assign other duties as necessary.</em></p></em></em></em><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-zos-software-developer-crawford-technologies</p>",
-      "posted_at": "2026-11-19T20:53:36+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "c18ca6f1-7729-4349-9c87-9c3e2e620a6e",
-      "title": "Workday Extend Principal Consultant",
-      "url": "https://remotejobs.org/remote-jobs/workday-extend-principal-consultant-collaborative-solutions",
-      "apply_url": "https://remotejobs.org/remote-jobs/workday-extend-principal-consultant-collaborative-solutions",
-      "company": {
-        "name": "Collaborative Solutions",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/6f6ca1cc348de81aa98e9d7cab18fb358b86225c107e0cb0ac1e9e036c7996e5.png",
-        "website": null,
-        "url": "https://remotejobs.org/companies/collaborative-solutions"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "United Kingdom",
-      "location_normalization": {
-        "raw": "United Kingdom",
-        "input": {},
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "GB"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": null,
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": "principal",
-        "role_family": null,
-        "required_skills": [],
-        "mentioned_skills": [],
-        "preferred_skills": [],
-        "experience_requirements": []
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": null,
-      "salary_period": "year",
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<p>The Workday Extend Principal Consultant is a senior technical consultant responsible for leading the design, development, and delivery of Workday Extend solutions. Acting as a trusted advisor, this individual helps organisations maximise the value of their Workday investment by designing and deploying custom applications, automations, and user experiences that extend standard Workday functionality.</p>\n<p>The Principal Consultant combines deep Workday Extend expertise with delivery leadership, pre-sales support, and mentoring responsibilities. They lead Extend workstreams on complex implementations, support business development activities, and contribute to the growth of the Workday practice through knowledge sharing and technical innovation.</p>\n<h2>Responsibilities:</h2>\n<ul>\n<li>Serve as a Workday Extend subject matter expert, providing guidance on solution architecture, application design, and Workday best practices.</li>\n<li>Lead client workshops and technical design sessions to define Extend solutions aligned to business requirements.</li>\n<li>Design, develop, and deploy custom applications using Workday Extend.</li>\n<li>Lead Extend workstreams on medium to large Workday implementations, managing solution decisions, risks, and dependencies.</li>\n<li>Translate business requirements into scalable, supportable, and secure Extend applications.</li>\n<li>Partner with Functional, Integrations, Reporting, Security, and Project Management teams to deliver integrated solutions.</li>\n<li>Advise clients on Workday extensibility, automation opportunities, user experience design, and platform capabilities.</li>\n<li>Support testing, deployment, cutover, and post-go-live activities throughout the project lifecycle.</li>\n<li>Mentor consultants and developers, providing coaching, quality reviews, and technical guidance.</li>\n<li>Support business development activities including solutioning, estimations, proposals, demonstrations, and customer presentations.</li>\n<li>Contribute to practice development through methodology enhancements, reusable assets, internal training, and knowledge-sharing initiatives.</li>\n<li>Maintain expertise in Workday Extend functionality, emerging technologies, and Workday product innovations.</li>\n</ul>\n<h2>Skills &#x26; Requirements:</h2>\n<ul>\n<li>Bachelor's degree in Computer Science, Information Technology, Engineering, or equivalent professional experience.</li>\n<li>Active Workday Extend Certification preferred.</li>\n<li>Additional certifications in Workday Integrations or Workday Architecture are desirable.</li>\n<li>5+ years of Workday implementation experience.</li>\n<li>Proven experience leading Workday Extend workstreams on end-to-end Workday implementations.</li>\n<li>Experience designing and developing applications using Workday Extend.</li>\n<li>Strong understanding of application architecture, integration patterns, security concepts, and software development best practices.</li>\n<li>Experience gathering requirements, facilitating workshops, solution design, development, testing, and deployment.</li>\n<li>Experience supporting pre-sales activities including estimations, proposals, demonstrations, and solution presentations.</li>\n<li>Strong consulting, stakeholder management, facilitation, and communication skills.</li>\n<li>Ability to mentor team members and provide technical leadership across projects.</li>\n<li>Ability to manage multiple priorities in a fast-paced consulting environment.</li>\n<li><strong>Eligible for SC Clearance - you must have been a UK resident for the last five years and be legally entitled to work in the UK.</strong></li>\n<li>Minimal travel required, but must be willing to travel on-site as needed.</li>\n</ul>\n<h2>Why choose Cognizant:</h2>\n<ul>\n<li>Entrepreneurial environment that welcomes your ideas</li>\n<li>Opportunity to do great work</li>\n<li>Outreach programs that support communities and tap into your volunteer spirit</li>\n<li>Learning opportunities to help current needs and advancement</li>\n<li>Global operations, with opportunities in North America, Europe and Asia Pacific</li>\n<li>An abundance of Affinity groups to meet your needs</li>\n</ul>\n<h2>Cognizant Core Values:</h2>\n<ul>\n<li><strong>Work as One:</strong> We think beyond roles, relying on each other’s strengths to win as a team.</li>\n<li><strong>Raise the Bar: </strong>We always aim for excellence in how we work and what we deliver.</li>\n<li><strong>Dare to Innovate:</strong> We push boundaries and take chances to reimagine what’s possible.</li>\n<li><strong>Do the Right Thing: </strong>We all lead with integrity and always make the ethical choice.</li>\n<li><strong>Own It:</strong> We own the outcomes for our company, colleagues, and community.</li>\n</ul>\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/workday-extend-principal-consultant-collaborative-solutions</p>",
-      "posted_at": "2026-11-19T20:43:46+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "42f23a8c-1e72-4e98-aa57-c23c14983fda",
-      "title": "PCB Designer",
-      "url": "https://remotejobs.org/remote-jobs/pcb-designer-fidus-systems",
-      "apply_url": "https://remotejobs.org/remote-jobs/pcb-designer-fidus-systems",
-      "company": {
-        "name": "Fidus Systems",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/f9d741d3405882f419dfe09264a05d73bfd16d6b3bceff66b6672dd7c6bb4a8a.webp",
-        "website": "https://fidussystems.com",
-        "url": "https://remotejobs.org/companies/fidus-systems"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "United States",
-      "location_normalization": {
-        "raw": "United States",
-        "input": {},
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": null,
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": null,
-        "role_family": null,
-        "required_skills": [],
-        "mentioned_skills": [],
-        "preferred_skills": [],
-        "experience_requirements": [
-          {
-            "text": "5 years of experience",
-            "maximum_years": null,
-            "minimum_years": 5,
-            "classification": "mentioned"
-          }
-        ]
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": null,
-      "salary_period": "year",
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<p>Fidus is a global high-tech design firm headquartered in Ottawa, with additional design centres in Kitchener-Waterloo and San Jose. We specialize in leading-edge electronic product development, with hardware, embedded software, FPGA/ASIC, and signal integrity teams working together to design and deliver next-generation products for clients in emerging technology markets.</p>\n<h2>Position Overview/Mandate:</h2>\n<p>The <strong>PCB Layout Designer</strong> is responsible for designing and delivering complex, high-speed, multi-layer PCBs for Fidus clients. You will work closely with hardware, signal integrity, mechanical teams, and manufacturing partners to translate electrical requirements into high-quality, manufacturable PCB layouts.</p>\n<p>This role is ideal for someone who enjoys working on dense designs across different technologies and substrates, values attention to detail, and takes pride in producing robust, zero-defect layouts that meet performance, cost, and manufacturing requirements.</p>\n<h2>Make an Impact with US:</h2>\n<p>At Fidus, you'll work on high-speed, high-complexity electronic systems, often using emerging technologies before they reach the broader market. You'll collaborate across FPGA/DSP, hardware, embedded software, verification, SI/PI, PCB layout, and mechanical/thermal design as part of cross-functional teams delivering real products for our clients.</p>\n<p>In practice, that means contributing to projects across Communications, Aerospace &#x26; Defence, Life Sciences &#x26; Medical Devices, Space &#x26; Satellite, Industrial Automation, Automotive, and Semiconductor engagements. You won't be limited to a single product or industry—your work will follow the technology, not just one roadmap.</p>\n<h2>What You’ll Be Doing:</h2>\n<ul>\n<li>Layout of complex, multi-layer, high speed PCBs using Cadence Allegro PCB Design, Mentor Expedition/PADS or Altium.</li>\n<li>PCB layout design on different core material substrate, component placement, impedance matching and routing analysis</li>\n<li>Work closely with the mechanical and the signal integrity team during product development phases</li>\n<li>Generate fabrication drawings, assembly drawings and drill files</li>\n<li>Work closely with board houses to ensure compliance with DFA and DFM practices and lead DFM reviews, until closure to ensure the design is ready for high volume manufacturing</li>\n<li>Interface with board houses to resolve technical issues</li>\n<li>Research and implement new techniques and technologies to grow the PCB design skill-set, reduce PCB cost, and stay current on industry PCB design practices.</li>\n</ul>\n<h2>Who You are:</h2>\n<ul>\n<li>Minimum 5 years of experience laying out dense, high-speed, digital and analog boards for various industries and products. You must have a proven track record for delivering high-quality designs.</li>\n<li>Extensive experience applying advanced electrical constraint sets using the Allegro Constraint Manager, or equivalent</li>\n<li>College technician diploma or equivalent</li>\n<li>IPC certification will be considered an asset</li>\n<li>Be detail driven and have a good understanding of how to produce zero-defect layouts</li>\n<li>Understand the fundamentals of high-speed circuit card design and routing</li>\n<li>Exhibit strong communication skills</li>\n<li>Interact well with customers and other employees</li>\n<li>Ramp-up quickly on new technologies and processes</li>\n<li>Contribute to a dynamic and friendly working environment.</li>\n<li>Layout of complex, multi-layer, high speed PCBs using Cadence Allegro PCB Design, Mentor Expedition/PADS or Altium.</li>\n<li>PCB layout design on different core material substrate, component placement, impedance matching and routing analysis</li>\n<li>Work closely with the mechanical and the signal integrity team during product development phases</li>\n<li>Generate fabrication drawings, assembly drawings and drill files</li>\n<li>Work closely with board houses to ensure compliance with DFA and DFM practices and lead DFM reviews, until closure to ensure the design is ready for high volume manufacturing</li>\n<li>Interface with board houses to resolve technical issues</li>\n<li>Embraces AI as part of a modern engineering toolkit</li>\n<li>Research and implement new techniques and technologies to grow the PCB design skill-set, reduce PCB cost, and stay current on industry PCB design practices.</li>\n</ul>\n<h2>Additional skills considered an Asset:</h2>\n<ul>\n<li>Protel, Altium,Pcad; OrCAD Layout; Cadstar; Orcad CIS, Concept or DxDesigner (schematic capture tools; Autocad, Solidworks, Inventor (mechanical design tools)</li>\n</ul>\n<p><strong>Location and travel:</strong> Position is based in the United States. Travel may be required domestically and internationally to support customer engagements and project delivery.<br>\nThis position may require access to export-controlled information. Candidates must be a U.S. person as defined under 22 CFR 120.62, or be eligible for an export license. Candidates will be required to complete background checks.</p>\n<h2>Benefits</h2>\n<p>Our competitive compensation package also includes a comprehensive benefits package, including medical, dental, and vision plans, matching 401(k) contributions, annual profit-sharing bonus, along with other supplementary benefits.</p>\n<p>We also recognize that candidates show interest throughout different career stages and welcome all applications. When there is a great fit, the level of the role may be shifted as applicable.</p>\n<h2>About Fidus &#x26; Why Work Here</h2>\n<p>Since 2001, Fidus has completed over 4,000 projects for more than 400 customers across industries including Telecom/Datacom, Aerospace &#x26; Defence, Consumer, Semiconductors, Industrial/Automotive Controls, and Medical. As a Premier Adaptive Computing Partner for AMD North America, we combine deep technical expertise with industry-leading tools to solve complex design challenges.</p>\n<p>Fidus designs high-speed, high-complexity electronic systems using emerging technologies, often well before they reach the broader market. Our teams work across FPGA/DSP, hardware, embedded software, verification, SI/PI, PCB layout, and mechanical/thermal design to deliver real products for our customers.</p>\n<p>At Fidus, collaboration is at the core of how we work. We value openness, trust, and shared ownership, and we create an environment where people are encouraged to contribute ideas, learn from one another, and have a meaningful impact through the work they do.</p>\n<p>If all of this excites you, has your attention, and you can’t wait to join our amazing team and work environment, then we want to hear from you!</p>\n<p><em>Fidus has a commitment to ensure a fair and transparent recruitment process. Automated tools (including AI) support our initial screening of applicants against our job posting to identify candidates whose qualifications, experience, and skills align most closely with the position requirements. All further candidate assessments and final selection are conducted by our human recruitment team. AI does not make any final hiring decisions.</em></p>\n<p><em>Thank you for your interest in Fidus. We welcome and encourage diverse candidates to apply. Accommodations are available upon request for candidates taking part in all aspects of the selection process. Fidus is committed to creating a diverse environment and is proud to be an equal opportunity employer.</em></p>\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/pcb-designer-fidus-systems</p>",
-      "posted_at": "2026-11-19T20:39:37+00:00",
       "is_translated": false,
       "original_language": null
     },
@@ -8862,6 +8916,83 @@
       "original_language": null
     },
     {
+      "id": "666216be-b66b-4eb8-8423-9892fa144fa9",
+      "title": "Strategy & Analytics Associate",
+      "url": "https://remotejobs.org/remote-jobs/strategy-analytics-associate-sentilink",
+      "apply_url": "https://remotejobs.org/remote-jobs/strategy-analytics-associate-sentilink",
+      "company": {
+        "name": "SentiLink",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/d87b6baaeee708ef420484cc7bebbbfbf986049678d4868e6e3ad776f8564fbe.png",
+        "website": "https://sentilink.com",
+        "url": "https://remotejobs.org/companies/sentilink"
+      },
+      "category": {
+        "name": "Data Science",
+        "slug": "data-science"
+      },
+      "location": "United States",
+      "location_normalization": {
+        "raw": "United States",
+        "input": {
+          "workArrangement": "remote"
+        },
+        "scope": "restricted",
+        "status": "known",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [],
+        "work_arrangement": "remote",
+        "allowed_countries": [
+          "US"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "worksite_countries": [
+          "US"
+        ],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": null,
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": null,
+        "role_family": null,
+        "required_skills": [],
+        "mentioned_skills": [],
+        "preferred_skills": [
+          "python",
+          "sql"
+        ],
+        "experience_requirements": [
+          {
+            "text": "3-5 years work experience",
+            "maximum_years": 5,
+            "minimum_years": 3,
+            "classification": "required"
+          }
+        ]
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "941419a2-277e-40da-bb94-40cd973107cd",
+      "direct_apply": null,
+      "description": "<p><a href=\"https://www.sentilink.com/\">SentiLink</a> helps institutions and protects customers by accurately resolving identities and flagging fraud risk. Each day, we verify more than 3 million identities, flagging 150k+ fraud attempts in the process. The problems we work on are challenging, and solving them takes deep domain expertise, rigorous analysis, and a willingness to dig into the details.</p>\n<p>At SentiLink, you'll work alongside smart, highly collaborative colleagues who respect each other's time and judgment, take ownership, and follow through on their commitments. Together, we do truly meaningful work protecting the identities of innocent consumers and flagging the fraudsters attempting to exploit them.</p>\n<p>We're well capitalized and growing quickly. We already serve 13 of the top 15 U.S. banks, we're expanding into new markets, and we're backed by Craft Ventures, Andreessen Horowitz, NYCA, and Max Levchin. We've been named to the<a href=\"https://www.forbes.com/companies/sentilink/?list=fintech50\"> Forbes Fintech 50</a> and as a<a href=\"https://www.businesswire.com/news/home/20260330439998/en/SentiLink-Named-a-2026-FICO-Industry-Vanguard-Decision-Award-Winner-for-Leadership-in-Identity-Theft-Detection\"> 2026 FICO Industry Vanguard Decision Award Winner</a>. We were also the<a href=\"https://resources.sentilink.com/blog/sentilink-makes-history-as-first-ecbsv-provider\"> first company to go live</a> with the electronic Consent Based Social Security Number Verification (eCBSV) service, and we've <a href=\"https://resources.sentilink.com/media/dr.-david-maimons-congressional-testimony-on-emerging-fraud-threats-and-the-evolving-fraud-landscape\">testified before the U.S. Congress</a> on the future of identity.</p>\n<p>We want SentiLink to be the best place you've ever worked. We offer generous benefits and support a range of working arrangements, from fully remote to in-office. We are a digital-first company with strong collaboration across the U.S. and India, and we meet in person regularly to build relationships. We have offices in Austin, San Francisco, New York City, Seattle (Bellevue), Los Angeles, and Chicago in the U.S., and in Gurugram (Delhi) and Bengaluru in India.</p>\n<h2><strong>Role:</strong></h2>\n<p>SentiLink earns trust with prospects and customers (“partners”) by quantifying value with clear, data-backed business cases. The Solution Analytics team turns pilot datasets into rigorous retrospectives and ROI narratives that inform partner decisions and accelerate adoption. We also support existing partners with targeted, high-impact analyses that surface opportunities, de-risk implementations, and demonstrate ongoing value.</p>\n<p>We’re looking for an analyst who blends business acumen with analytical rigor—someone who can frame ambiguous questions, structure analyses, and distill complex findings into executive-ready stories. You have a track record of translating data into decisions, building compelling presentations, and delivering them to senior stakeholders. Success in this role means owning the end-to-end analytics workflow (from scoping and methodology through insights and recommendations), communicating crisply, and influencing outcomes across Sales, Partner Success, Product, and Engineering.</p>\n<p>This is a remote, US-based role.</p>\n<h2><strong>Responsibilities:</strong></h2>\n<ul>\n<li>\n<p>Conduct client discovery calls with account executives.</p>\n</li>\n<li>\n<p>Meet with clients to discuss fraud strategies to mitigate risk.</p>\n</li>\n<li>\n<p>Strategizing with the sales team to ensure alignment with partner’s needs.</p>\n</li>\n<li>\n<p>Create and deliver presentations aligned to proposed solution value.</p>\n</li>\n<li>\n<p>Support the sales team with all technical related queries.</p>\n</li>\n<li>\n<p>Establish best practices across all solution analytics team members through effective coaching.</p>\n</li>\n<li>\n<p>Design and execute analysis for white papers and other industry materials. Identity relevant insights, e.g., based on emerging fraud tactics, and collaborate on publishing</p>\n</li>\n<li>\n<p>Develop relationships and maintain customer relationships.</p>\n</li>\n</ul>\n<h2><strong>Requirements:</strong></h2>\n<ul>\n<li>\n<p>3-5 years work experience at a VC-backed startup, management consulting, banking or private equity firm with an analytical focus</p>\n</li>\n<li>\n<p>Strong analytical &#x26; communication skills, comfortable with ambiguity, a quick learner, drives work independently</p>\n</li>\n<li>\n<p>Enthusiastic about becoming an expert in topics related to the future of financial services, fraud &#x26; identity</p>\n</li>\n<li>\n<p>Exceptional interpersonal skills</p>\n</li>\n<li>\n<p>Ability to present ideas in a clear, user-friendly way</p>\n</li>\n<li>\n<p>Technical skills: you should be a pro with Google docs, sheets &#x26; slides; proficiency with SQL and/or Python a plus</p>\n</li>\n<li>\n<p>Bachelor’s degree in computer science or software engineering (ability to write scripts), a plus</p>\n</li>\n<li>\n<p>Candidates must be legally authorized to work in the United States and must live in the United States</p>\n</li>\n</ul>\n<h2><strong>Salary Range:</strong></h2>\n<ul>\n<li>$160,000/year - $190,000/year + equity + benefits</li>\n</ul>\n<h2><strong>Perks:</strong></h2>\n<ul>\n<li>\n<p>Employer paid group health insurance for you and your dependents</p>\n</li>\n<li>\n<p>401(k) plan with employer match (or equivalent for non US-based roles)</p>\n</li>\n<li>\n<p>Flexible paid time off</p>\n</li>\n<li>\n<p>Regular company-wide in-person events</p>\n</li>\n<li>\n<p>Home office stipend, and more!</p>\n</li>\n</ul>\n<h2><strong>Corporate Values:</strong></h2>\n<ul>\n<li>\n<p>Follow Through</p>\n</li>\n<li>\n<p>Deep Understanding</p>\n</li>\n<li>\n<p>Whatever It Takes</p>\n</li>\n<li>\n<p>Do Something Smart</p>\n</li>\n</ul><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/strategy-analytics-associate-sentilink</p>",
+      "posted_at": "2026-11-17T15:32:55.556+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
       "id": "73c85f5b-be0c-4767-9abe-37cb6198477b",
       "title": "Senior AI Engineer",
       "url": "https://remotejobs.org/remote-jobs/senior-ai-engineer-inato",
@@ -11368,104 +11499,6 @@
       "posted_at": "2026-11-12T21:01:59+00:00",
       "is_translated": false,
       "original_language": null
-    },
-    {
-      "id": "2f5a8488-a783-48e1-818b-bd73efe4e541",
-      "title": "Engineering Lead Alta Volumetría (Oracle OCI, Analítica)",
-      "url": "https://remotejobs.org/remote-jobs/engineering-lead-alta-volumetra-oracle-oci-analtica-tecdata-engineering",
-      "apply_url": "https://remotejobs.org/remote-jobs/engineering-lead-alta-volumetra-oracle-oci-analtica-tecdata-engineering",
-      "company": {
-        "name": "TECDATA ENGINEERING",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/d93c8592b1b70e192534398c0b99ad5a4f00e0d0a3b424019dfbdfec501a9675.webp",
-        "website": null,
-        "url": "https://remotejobs.org/companies/tecdata-engineering"
-      },
-      "category": {
-        "name": "Data Science",
-        "slug": "data-science"
-      },
-      "location": "Spain",
-      "location_normalization": {
-        "raw": "Spain",
-        "input": {},
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "ES"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [
-          {
-            "kind": "timezone",
-            "areas": [],
-            "effect": "context",
-            "details": "HORARIOS: De 9 a 18 h en jornada partida, igual en verano que en invierno.",
-            "regions": [],
-            "timezones": [],
-            "evidence_id": "c1",
-            "conditional_on": null
-          }
-        ],
-        "unresolved": [],
-        "evidence_ids": [
-          "c1",
-          "source-location"
-        ],
-        "allowed_regions": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "ES"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": "lead",
-        "role_family": null,
-        "required_skills": [],
-        "mentioned_skills": [
-          "postgresql"
-        ],
-        "preferred_skills": [],
-        "experience_requirements": []
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": null,
-      "salary_period": "year",
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<p>We are looking for profiles of<strong>Engineering Lead Alta Volumetría (Oracle OCI, Analítica)</strong></p>\n<p>EXPERIENCE: more than 3 years demonstrable experience leading technical teams on high-volume platforms</p>\n<p>SCHEDULE: From 9 to 18 h in split shifts, the same in summer as in winter.</p>\n<h2>Essential requirements:</h2>\n<p>Demonstrable experience leading technical teams (technical management MAS delivery).</p>\n<p>Experience on high-volume platforms (batch/streaming/near-real-time), with a focus on performance and stability.</p>\n<p>Solid knowledge of Oracle OCI and operating data platforms in the cloud.</p>\n<p>Demonstrable technical mastery of payment methods (essential): reconciliation, settlement, transactionality, brands/schemes, operations and reporting.</p>\n<p>Ability to interact with the client: clear communication, focus on closing, and expectation management.</p>\n<p>Technical documentation: designs, quality criteria, operating procedures and postmortems.</p>\n<h2>Desirable requirements:</h2>\n<p>Experience in <strong>Oracle GoldenGate</strong> or other replication/CDC strategies</p>\n<p>Experience with tools <strong>ETL/ELT</strong> and orchestration (e.g., ODI, Airflow, dbt or other equivalents).</p>\n<p>Experience with pipeline observability (metrics, alerts, data SLAs).</p>\n<p>Knowledge of security and compliance applied to data (PII, minimization, retention, auditing).</p>\n<p>Experience in PostgreSQL and/or hybrid multicloud environments.</p>\n<p>competency profile: Practical (hands-on) leadership and ability to organize and accelerate a team.</p>\n<p>Focus on quality and operations (not only building, but running).executive and technical communication for the client (without unnecessary jargon).</p>\n<p>negotiation skills and dispute management.</p>\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/engineering-lead-alta-volumetra-oracle-oci-analtica-tecdata-engineering</p>",
-      "posted_at": "2026-11-12T20:43:39+00:00",
-      "is_translated": true,
-      "original_language": "es"
     }
   ]
 }
