@@ -1,7 +1,67 @@
 {
-  "generatedAt": "2026-11-23T05:58:57.719Z",
-  "count": 387,
+  "generatedAt": "2026-11-23T17:53:04.084Z",
+  "count": 414,
   "jobs": [
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/toptal-cryptography-specialist-for-ai-lab",
+      "source": "weworkremotely",
+      "title": "Cryptography Specialist for AI lab",
+      "company": "Toptal",
+      "url": "https://weworkremotely.com/remote-jobs/toptal-cryptography-specialist-for-ai-lab",
+      "description": "Headquarters: Overview A fast-growing AI evaluation company is building expert-level benchmarks that test how well AI agents handle real professional work in the terminal. We are hiring cryptography experts to turn real, paid tasks from their own work into end-to-end challenges for AI agents, each with a working solution and a check that proves the result is correct. ***THIS IS A TASK BASED COMPENSATION MODEL. PLEASE CHECK THE APPLICATION QUESTIONS FOR MORE DETAILS.*** Responsibilities • Design expert-level Terminal-Bench cryptography tasks by turning real, paid work from your own experience into challenges that an AI agent must solve end to end. • Define the task environment, including files, systems, ciphertexts and data, so the challenge is realistic, self-contained and reproducible in ",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "programming"
+      ],
+      "postedAt": "Thu, 05 Nov 2026 17:09:07 +0000",
+      "category": "programming"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/drfirst-com-inc-senior-software-engineer",
+      "source": "weworkremotely",
+      "title": "Senior Software Engineer",
+      "company": "DRFIRST COM INC",
+      "url": "https://weworkremotely.com/remote-jobs/drfirst-com-inc-senior-software-engineer",
+      "description": "Headquarters: United States URL: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=fc2a6c7e-ef54-4ed9-8c04-d5aca23f99e3 Senior Software Engineer, eRx Enterprise and Gadget About DrFirst For 25 years, DrFirst has empowered providers and patients to achieve better health through intelligent medication management. We improve healthcare workflows and help patients start and stay on therapy with end-to-end solutions that enhance prescription access, affordability, and adherence. Our solutions help 100 million patients a year and are used by more than 420,000 prescribers, 71,000 pharmacies, 270 EHRs and health information systems, and over 2,000 hospitals in the U.S. This is a great opportunity to be a part of a successful Healthcare IT company experiencing signifi",
+      "location": "USA Only",
+      "tags": [
+        "Full-Stack Programming",
+        "programming"
+      ],
+      "postedAt": "Thu, 05 Nov 2026 13:22:33 +0000",
+      "category": "programming"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/secure-privacy-senior-full-stack-web-developer-net-c-mongodb-angular-redux-ai-first-with-gdpr-experience",
+      "source": "weworkremotely",
+      "title": "Senior Full-Stack Web Developer (.NET/C#/MongoDB/Angular/Redux) – AI-First, with GDPR Experience",
+      "company": "Secure Privacy",
+      "url": "https://weworkremotely.com/remote-jobs/secure-privacy-senior-full-stack-web-developer-net-c-mongodb-angular-redux-ai-first-with-gdpr-experience",
+      "description": "Headquarters: Europe (DK) URL: https://secureprivacy.ai Secure Privacy is expanding, and we’re looking for an experienced Senior Full-Stack Developer with expertise in .NET, C#, and MongoDB, along with GDPR experience, to join our team! You’ll work remotely with a diverse group of developers, helping us build cutting-edge data privacy solutions for global clients. This role focuses on creating and optimizing APIs and backend services. If you’re passionate about clean, maintainable code, we’d love to hear from you! What You’ll Do: Develop and maintain backend services with C# and .NET. Develop and maintain frontend logic with Angular and Redux. Use AI coding tools (Cursor, Claude Code, or similar) as a core part of your daily workflow, and help the team get more out of them. Work closely wi",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "programming"
+      ],
+      "postedAt": "Thu, 05 Nov 2026 12:39:27 +0000",
+      "category": "programming"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/toptal-ml-inference-engineer-terminal-bench-task-designer",
+      "source": "weworkremotely",
+      "title": "ML Inference Engineer – Terminal-Bench Task Designer",
+      "company": "Toptal",
+      "url": "https://weworkremotely.com/remote-jobs/toptal-ml-inference-engineer-terminal-bench-task-designer",
+      "description": "Headquarters: Overview We are building a benchmark that tests how well AI agents handle real expert work in a terminal. We are hiring ML inference and serving experts to turn real, paid tasks from their jobs into expert-level Terminal-Bench challenges. Each task includes the environment, a working solution, and an automated check that proves the result is correct. ***THIS IS A TASK BASED COMPENSATION MODEL. PLEASE CHECK THE APPLICATION QUESTIONS FOR MORE DETAILS.*** Responsibilities • Design expert-level Terminal-Bench tasks that turn real, paid ML inference work from your own experience into challenges an AI agent must solve end to end. • Define the files, systems and environments each task runs on, such as model serving with streaming, so the challenge is realistic, reproducible and comm",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "programming"
+      ],
+      "postedAt": "Wed, 04 Nov 2026 21:41:56 +0000",
+      "category": "programming"
+    },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/crazy-maple-studio-screenwriter-reelshort-contractor",
       "source": "weworkremotely",
@@ -213,21 +273,6 @@
       "category": "programming"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/bitovi-backend-platform-developer-consultant-temporal-kubernetes",
-      "source": "weworkremotely",
-      "title": "Backend / Platform Developer Consultant (Temporal & Kubernetes)",
-      "company": "Bitovi",
-      "url": "https://weworkremotely.com/remote-jobs/bitovi-backend-platform-developer-consultant-temporal-kubernetes",
-      "description": "Headquarters: United States URL: https://bitovi.com JOIN OUR TEAM! Bitovi is looking for a Backend / Platform Developer Consultant to join us as we transform technology delivery. We build and operate durable, distributed systems for enterprise clients — heavy on Java Services, Temporal for workflow orchestration, Kafka for event streaming, and Kubernetes-native platform engineering on AWS to run it all reliably. If you want to build exceptional systems, take orchestration, systems engineering, and infrastructure seriously, and have ideas for making delivery more collaborative, validation-driven, and swift, we want to work with you! Compensation: $120,000 to $190,000 annually, depending on experience, plus annual bonus opportunity. PLEASE NOTE: At this time, we are only considering candidat",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Back-End Programming",
-        "programming"
-      ],
-      "postedAt": "Thu, 29 Oct 2026 22:31:03 +0000",
-      "category": "programming"
-    },
-    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/salesloft-hr-enablement-lead",
       "source": "weworkremotely",
       "title": "HR Enablement Lead",
@@ -333,49 +378,64 @@
       "category": "programming"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/stockx-category-manager-trading-cards",
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/clover-health-associate-counsel-vendor-and-provider-contracting",
       "source": "weworkremotely",
-      "title": "Category Manager - Trading Cards",
-      "company": "StockX",
-      "url": "https://weworkremotely.com/remote-jobs/stockx-category-manager-trading-cards",
-      "description": "Headquarters: Remote, USA Help empower our global customers to connect to culture through their passions. Why you’ll love this role: StockX is the world’s leading marketplace for current culture, built at the intersection of commerce, community, and credibility. Trading Cards are foundational to StockX — not just as products, but as artifacts of fandom, nostalgia, speculation, and identity. We are expanding how Trading Cards culture shows up on StockX through creator-driven, community-oriented commerce experiences that blend storytelling, expertise, and transaction. To do this well, we need category leaders who don’t just understand collectibles — they live inside them. The Trading Cards Category Manager is the single-threaded owner of collectibles category growth within a new, high-priori",
+      "title": "Associate Counsel, Vendor and Provider Contracting",
+      "company": "Clover Health",
+      "url": "https://weworkremotely.com/remote-jobs/clover-health-associate-counsel-vendor-and-provider-contracting",
+      "description": "Headquarters: Remote - USA Clover Health’s legal team is a group of proactive business partners whose mission is to empower the organization to innovate and achieve its goals within a dynamic and fluid regulatory environment. We are committed to supporting continued excellence for our customers while building a sustainable future for the organization. We believe integrity, collaboration, and sustainability ensures Clover Health exceeds its objectives, while upholding the highest standards of legal and ethical responsibility. Clover is looking for an attorney with three to five years of experience to join our Legal team and support vendor and healthcare provider contracting. As Associate Counsel, you will independently draft, review, negotiate, and manage agreements that enable Clover’s hea",
       "location": "Anywhere in the World",
       "tags": [
-        "Full-Stack Programming",
-        "programming"
+        "DevOps and Sysadmin",
+        "devops"
       ],
-      "postedAt": "Sat, 24 Oct 2026 07:31:04 +0000",
-      "category": "programming"
+      "postedAt": "Mon, 23 Nov 2026 06:02:30 +0000",
+      "category": "devops"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/stockx-category-manager-sneakers",
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/beyondtrust-senior-security-technical-program-manager",
       "source": "weworkremotely",
-      "title": "Category Manager - Sneakers",
-      "company": "StockX",
-      "url": "https://weworkremotely.com/remote-jobs/stockx-category-manager-sneakers",
-      "description": "Headquarters: Remote, USA Help empower our global customers to connect to culture through their passions. Why you’ll love this role: StockX is the world’s leading marketplace for current culture, built at the intersection of commerce, community, and credibility. Sneakers are foundational to StockX — not just as a category, but as a culture, an economy, and a global community. We are expanding how sneaker culture shows up on StockX through creator-driven, community-oriented commerce experiences that blend storytelling, expertise, and transaction. To do this well, we need category leaders who don’t just understand the sneaker market — they live inside it. The Sneakers Category Manager is the single-threaded owner of sneaker category growth within a new, high-priority commerce initiative. Thi",
+      "title": "Senior Security Technical Program Manager",
+      "company": "BeyondTrust",
+      "url": "https://weworkremotely.com/remote-jobs/beyondtrust-senior-security-technical-program-manager",
+      "description": "Headquarters: Remote Toronto, ON Canada | Remote United States BeyondTrust is a place where you can bring your purpose to life through the work that you do, creating a safer world through our cybersecurity SaaS portfolio. Our culture of flexibility, trust, and continual learning means you will be recognized for your growth and for the impact you make on our success. You will be surrounded by people who challenge, support, and inspire you to be the best version of yourself. The Role As a Senior Security Technical Program Manager at BeyondTrust, you will use your technical expertise, business acumen and security domain knowledge to manage and streamline critical CISO Office operations and programs. In this role, you will be an advocate for building seamless and metrics-driven operational fra",
       "location": "Anywhere in the World",
       "tags": [
-        "Full-Stack Programming",
-        "programming"
+        "DevOps and Sysadmin",
+        "devops"
       ],
-      "postedAt": "Sat, 24 Oct 2026 07:31:03 +0000",
-      "category": "programming"
+      "postedAt": "Mon, 23 Nov 2026 06:01:56 +0000",
+      "category": "devops"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/oportun-sr-data-analytics-engineer-r14153",
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/collibra-senior-federal-enterprise-solution-architect",
       "source": "weworkremotely",
-      "title": "Sr. Data Analytics Engineer (R14153)",
-      "company": "Oportun",
-      "url": "https://weworkremotely.com/remote-jobs/oportun-sr-data-analytics-engineer-r14153",
-      "description": "Headquarters: Remote - MX Who We Are Oportun (Nasdaq: OPRT) is a mission-driven financial services company that puts its members' financial goals within reach. With intelligent borrowing, savings, and budgeting capabilities, Oportun empowers members with the confidence to build a better financial future. Since inception, Oportun has provided more than $22.7 billion in responsible and affordable credit, saved its members more than $2.5 billion in interest and fees, and helped its members set aside an average of more than $1,800 annually. The Opportunity&nbsp; As a Sr. Data Engineer at Oportun, you will be a key member of our team, responsible for designing, developing, and maintaining sophisticated software / data platforms in achieving the charter of the engineering group. Your mastery of ",
+      "title": "Senior Federal Enterprise Solution Architect",
+      "company": "Collibra",
+      "url": "https://weworkremotely.com/remote-jobs/collibra-senior-federal-enterprise-solution-architect",
+      "description": "Headquarters: Remote, USA Joining Collibra’s Public Sector team At Collibra Public Sector, our Professional Services team relies on Federal Solution Architects to deliver on customer expectations for the services we sell, working directly with customer key projects stakeholders throughout the entire customer journey. Ensuring growth, adoption and renewal, Federal Solution Architects act as customer champions, ensuring customers are onboarded and realizing value rapidly.&nbsp; &nbsp; Senior Enterprise Solution Architects at Collibra Public Sector are responsible for Supporting federal customer engagements by delivering mission-aligned architectural design and execution of Collibra products that adhere to Collibra Public Sector’s Delivery Models, Engagement Processes, Methodologies, and Arti",
       "location": "Anywhere in the World",
       "tags": [
-        "Full-Stack Programming",
-        "programming"
+        "DevOps and Sysadmin",
+        "devops"
       ],
-      "postedAt": "Sat, 24 Oct 2026 07:30:50 +0000",
-      "category": "programming"
+      "postedAt": "Mon, 23 Nov 2026 06:01:42 +0000",
+      "category": "devops"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/launchdarkly-security-analyst-governance-risk-and-compliance",
+      "source": "weworkremotely",
+      "title": "Security Analyst - Governance, Risk, and Compliance",
+      "company": "LaunchDarkly",
+      "url": "https://weworkremotely.com/remote-jobs/launchdarkly-security-analyst-governance-risk-and-compliance",
+      "description": "Headquarters: Remote - US About the Job: LaunchDarkly's Governance, Risk, and Compliance team is hiring a Security Analyst III to facilitate the definition, implementation, and operation of security and privacy programs at LaunchDarkly. LaunchDarkly is critical infrastructure. Our security team keeps it safe for the global systems that depend on us and the GRC team demonstrates that to earn the trust of our customers. As a member of the team, you'll drive initiatives to assess and reduce security risks to the company, advise stakeholders, and maintain compliance with the frameworks that we adhere to including ISO 27001, SOC 2 Type II, and FedRAMP. You'll report to the Director of Security and partner closely with stakeholders in Legal, Revenue, and other members of our security team. We ex",
+      "location": "Anywhere in the World",
+      "tags": [
+        "DevOps and Sysadmin",
+        "devops"
+      ],
+      "postedAt": "Mon, 23 Nov 2026 06:01:38 +0000",
+      "category": "devops"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/ping-identity-director-sales-nordics-eastern-europe-1",
@@ -1233,6 +1293,51 @@
       "category": "devops"
     },
     {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/lightbox-animation-sets-props-concept-artist-internship",
+      "source": "weworkremotely",
+      "title": "Sets&Props Concept Artist Internship",
+      "company": "Lightbox Animation",
+      "url": "https://weworkremotely.com/remote-jobs/lightbox-animation-sets-props-concept-artist-internship",
+      "description": "Headquarters: Córdoba, Andalusia, Spain URL: https://lbox.es Your mission Knock, knock...Any Lightboxer in the room? If you are passionate about 3D animated films and want to create magic cinematographic, you can´t let this opportunity go! We are looking for a talented&nbsp; Sets&Props Concept Artist Internship with enthusiasm to join our great team on the exciting new project, Animated Feature TAD 4!! You will be responsible for creating outstanding backgrounds and props. First of all, you're probably interested in knowing that...we offer 100% remote work! WE NEED YOU TO BE ABLE TO DO: Create Design conceptual artwork under directions of the Director and collaborate closely with Artists. Develop the project´s artistic vision, showing understanding of the goals creating designs which fit t",
+      "location": "Europe Only",
+      "tags": [
+        "Design",
+        "design"
+      ],
+      "postedAt": "Mon, 23 Nov 2026 17:01:08 +0000",
+      "category": "design"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/elation-health-senior-or-staff-product-designer",
+      "source": "weworkremotely",
+      "title": "Senior OR Staff Product Designer",
+      "company": "Elation Health",
+      "url": "https://weworkremotely.com/remote-jobs/elation-health-senior-or-staff-product-designer",
+      "description": "Headquarters: US or Canada - Remote Our team is committed to enhancing physician and patient quality of life through Elation, a SaaS cloud-based clinical platform. We’ve built a product that users love, and we plan to keep it that way by continuing to empathize with users and help them overcome their most significant challenges. Designing at Elation is humbling, challenging, and rewarding. Our users do work that affects human lives, and our tools can make or break that work. The Role As a Senior/Staff Product Designer, you'll lead the design for how primary care clinicians work. You’ll develop a deep understanding of their workflows to inspire an AI-native experience while keeping the team grounded in day-to-day clinical practice. This role is for someone who creates and champions compelli",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Design",
+        "design"
+      ],
+      "postedAt": "Mon, 23 Nov 2026 06:01:56 +0000",
+      "category": "design"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/pinterest-machine-learning-engineer-ii-responsible-ai",
+      "source": "weworkremotely",
+      "title": "Machine Learning Engineer II, Responsible AI",
+      "company": "Pinterest",
+      "url": "https://weworkremotely.com/remote-jobs/pinterest-machine-learning-engineer-ii-responsible-ai",
+      "description": "Headquarters: San Francisco, CA, US; Remote, US About Pinterest: Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product. Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other’s unique experiences and embrace the&nbsp; flexibility to do your best work. Creating a career you love? It’s Possible. At Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we’re looking for candidates who are excited to be a part of",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Design",
+        "design"
+      ],
+      "postedAt": "Mon, 23 Nov 2026 06:00:54 +0000",
+      "category": "design"
+    },
+    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/lightbox-animation-senior-storyboard-artist",
       "source": "weworkremotely",
       "title": "Senior Storyboard Artist",
@@ -1713,6 +1818,96 @@
       "category": "design"
     },
     {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/gitlab-professional-services-program-manager",
+      "source": "weworkremotely",
+      "title": "Professional Services, Program Manager",
+      "company": "GitLab",
+      "url": "https://weworkremotely.com/remote-jobs/gitlab-professional-services-program-manager",
+      "description": "Headquarters: Remote, Canada GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&nbsp;and c",
+      "location": "Canada Only",
+      "tags": [
+        "Product",
+        "product"
+      ],
+      "postedAt": "Mon, 23 Nov 2026 17:01:48 +0000",
+      "category": "product"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/elation-health-senior-manager-commercial-learning-and-development",
+      "source": "weworkremotely",
+      "title": "Senior Manager, Commercial Learning and Development",
+      "company": "Elation Health",
+      "url": "https://weworkremotely.com/remote-jobs/elation-health-senior-manager-commercial-learning-and-development",
+      "description": "Headquarters: US - Remote At Elation, our team is committed to enhancing physician and patient quality of life. We are a SaaS cloud-based clinical platform on a mission to enable every patient to receive the highest quality of care. Since inception, we’ve been focused on building a delightful, world‑class customer experience that empowers physicians to focus on delivering phenomenal care to patients. Elation Health is looking for a Senior Manager, Training & Enablement to build and lead a dedicated function that strengthens how our employees and customers learn. As Elation grows, we’re investing in a coordinated, scalable approach to training and education. You’ll lead a small, nimble team and own internal learning programs for Sales, Customer Success, Professional Services, Onboarding, Su",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Product",
+        "product"
+      ],
+      "postedAt": "Mon, 23 Nov 2026 06:01:51 +0000",
+      "category": "product"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-senior-business-intelligence-analyst-product-analytics",
+      "source": "weworkremotely",
+      "title": "Senior Business Intelligence Analyst – Product Analytics",
+      "company": "ZoomInfo Technologies LLC",
+      "url": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-senior-business-intelligence-analyst-product-analytics",
+      "description": "Headquarters: Remote ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen fast. Overview You'll join ZoomInfo as a Senior Business Intelligence Analyst to help drive product strategy through analytics, measurement, and actionable insights across Product, Product Leadership, and Engineering. You will transform complex product and business questions into trusted analytics that influence product outcomes and business performance, partnering closely with Product Managers, Engineering, Data Engineering, and BI team",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Product",
+        "product"
+      ],
+      "postedAt": "Mon, 23 Nov 2026 06:01:06 +0000",
+      "category": "product"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/upstart-join-our-product-talent-community",
+      "source": "weworkremotely",
+      "title": "Join our Product Talent Community!",
+      "company": "Upstart",
+      "url": "https://weworkremotely.com/remote-jobs/upstart-join-our-product-talent-community",
+      "description": "Headquarters: United States | Remote About Upstart At Upstart, we’re united by a mission that matters: to radically reduce the cost and complexity of borrowing for all Americans. Every day, we bring creativity, experimentation, and advanced AI to reshape access to credit, helping millions move forward financially with clarity and confidence. As the leading AI lending marketplace, we partner with banks and credit unions to expand access to affordable credit through technology that’s both radically intelligent and deeply human. Our platform runs over one million predictions per borrower using more than 3,000 signals, powering smarter, fairer decisions for millions of customers. But the numbers only hint at the impact. Every idea, every voice, and every contribution moves us closer to a world",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Product",
+        "product"
+      ],
+      "postedAt": "Mon, 23 Nov 2026 06:01:05 +0000",
+      "category": "product"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/wrike-senior-product-manager-ai-platform-ecosystem-1",
+      "source": "weworkremotely",
+      "title": "Senior Product Manager, AI Platform & Ecosystem",
+      "company": "Wrike",
+      "url": "https://weworkremotely.com/remote-jobs/wrike-senior-product-manager-ai-platform-ecosystem-1",
+      "description": "Headquarters: Cyprus - Remote Wrike is the most powerful work management platform. Built for teams and organizations looking to collaborate, create, and exceed every day, Wrike brings everyone and all work into a single place to remove complexity, increase productivity, and free people up to focus on their most purposeful work. &nbsp; Wrike is our people, not a place. As a distributed team, we own our growth, stay globally connected, and rely on the product we build to deliver impactful work alongside brilliant minds. You'll have real ownership over meaningful work, a global team that has your back, and the flexibility to do your best work your way. If that sounds like you, we'd love to hear from you. &nbsp; Our vision:&nbsp; A world where everyone is free to focus on their most purposeful",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Product",
+        "product"
+      ],
+      "postedAt": "Mon, 23 Nov 2026 06:00:54 +0000",
+      "category": "product"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/wrike-senior-product-manager-ai-platform-ecosystem",
+      "source": "weworkremotely",
+      "title": "Senior Product Manager, AI Platform & Ecosystem",
+      "company": "Wrike",
+      "url": "https://weworkremotely.com/remote-jobs/wrike-senior-product-manager-ai-platform-ecosystem",
+      "description": "Headquarters: Czech Republic - Remote Wrike is the most powerful work management platform. Built for teams and organizations looking to collaborate, create, and exceed every day, Wrike brings everyone and all work into a single place to remove complexity, increase productivity, and free people up to focus on their most purposeful work. &nbsp; Wrike is our people, not a place. As a distributed team, we own our growth, stay globally connected, and rely on the product we build to deliver impactful work alongside brilliant minds. You'll have real ownership over meaningful work, a global team that has your back, and the flexibility to do your best work your way. If that sounds like you, we'd love to hear from you. &nbsp; Our vision:&nbsp; A world where everyone is free to focus on their most pu",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Product",
+        "product"
+      ],
+      "postedAt": "Mon, 23 Nov 2026 06:00:42 +0000",
+      "category": "product"
+    },
+    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/smartsheet-sr-technical-program-manager-remote-eligible-in-bulgaria",
       "source": "weworkremotely",
       "title": "Sr. Technical Program Manager (Remote Eligible in Bulgaria)",
@@ -2040,21 +2235,6 @@
         "product"
       ],
       "postedAt": "Fri, 20 Nov 2026 18:31:01 +0000",
-      "category": "product"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/jetbrains-entrepreneur-in-residence-product-lead",
-      "source": "weworkremotely",
-      "title": "Entrepreneur in Residence/Product Lead",
-      "company": "JetBrains",
-      "url": "https://weworkremotely.com/remote-jobs/jetbrains-entrepreneur-in-residence-product-lead",
-      "description": "Headquarters: Amsterdam, Netherlands; Belgrade, Serbia; Berlin, Germany; Limassol, Cyprus; London, United Kingdom; Madrid, Spain; Munich, Germany; Paphos, Cyprus; Prague, Czech Republic; Remote, Germany; Warsaw, Poland; Yerevan, Armenia Are you a builder who thrives in ambiguity, gets energy from talking to real users, and wants to turn emerging agentic AI capabilities into a product people actually rely on? About JetBrains We create intelligent software development tools for developers and teams. More than 15 million users, over 300,000 companies, and 88 of the Fortune Global Top 100 rely on our products to solve real, complex problems. Our mission is simple: make development teams more productive and AI adoptable at scale. What you’ll do NoPressure is an early-stage startup within JetBra",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Product",
-        "product"
-      ],
-      "postedAt": "Fri, 20 Nov 2026 18:30:44 +0000",
       "category": "product"
     },
     {
@@ -2418,21 +2598,6 @@
       "category": "product"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/cribl-director-product-management-security",
-      "source": "weworkremotely",
-      "title": "Director, Product Management (Security)",
-      "company": "Cribl",
-      "url": "https://weworkremotely.com/remote-jobs/cribl-director-product-management-security",
-      "description": "Headquarters: Remote - United States Join the company that’s building the telemetry infrastructure for the AI era. At Cribl, we partner with IT and Security teams at many of the world’s biggest enterprises, including half of the Fortune 100, to bridge the gap between AI ambition and infrastructure reality. As the AI Platform for Telemetry, we give customers the choice, control, and flexibility to manage and analyze telemetry for both humans and agents, so they can build what’s next. We’re one of the fastest‑growing private companies and a leading player in a massive, fast‑moving market. With a global workforce, we’re remote‑first and grounded in a simple idea: software is a people business. Cribl is the place where curious, collaborative people can do their best work, grow fast, and bring ",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Product",
-        "product"
-      ],
-      "postedAt": "Sat, 24 Oct 2026 07:31:04 +0000",
-      "category": "product"
-    },
-    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/semaphore-senior-product-engineer",
       "source": "weworkremotely",
       "title": "Senior Product Engineer",
@@ -2446,6 +2611,126 @@
       ],
       "postedAt": "Tue, 06 Oct 2026 08:44:40 +0000",
       "category": "product"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/oddball-senior-data-engineer",
+      "source": "weworkremotely",
+      "title": "Senior Data Engineer",
+      "company": "Oddball",
+      "url": "https://weworkremotely.com/remote-jobs/oddball-senior-data-engineer",
+      "description": "Headquarters: URL: https://www.oddball.io Oddball believes that the best products are built when companies understand and value the things they are working on. We value learning and growth and the ability to make a big impact at a small company. We believe that we can make big changes happen and improve the daily lives of millions of people by bringing quality software to the federal space. This position is contingent upon contract award. We’re looking for a Senior Data Engineer to join our CMS team, building and reconciling the data pipelines that move Medicare claims data between legacy systems and a modern platform. What you'll be doing: Design and build pipelines that move claims and beneficiary data between legacy sources and the new platform Set patterns for data mapping, transformat",
+      "location": "USA Only",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Mon, 23 Nov 2026 17:01:05 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/affirm-analytics-lead-full-stack-1",
+      "source": "weworkremotely",
+      "title": "Analytics Lead, Full Stack",
+      "company": "Affirm",
+      "url": "https://weworkremotely.com/remote-jobs/affirm-analytics-lead-full-stack-1",
+      "description": "Headquarters: Remote Canada At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. We are seeking a highly motivated and analytical individual to join our Growth Analytics International team. This team plays a crucial role in conducting research, monitoring performance, and running experiments to develop exceptional products for both consumers and merchants while driving long-term growth for the business. As Affirm continues expanding into new international markets, this role will be instrumental in establishing the operational analytics framework for new launches, beginning with Australia and expanding into future international markets. The ideal candidate will posse",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Mon, 23 Nov 2026 06:02:30 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/affirm-analytics-lead-full-stack",
+      "source": "weworkremotely",
+      "title": "Analytics Lead, Full Stack",
+      "company": "Affirm",
+      "url": "https://weworkremotely.com/remote-jobs/affirm-analytics-lead-full-stack",
+      "description": "Headquarters: Remote UK At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. We are seeking a highly motivated and analytical individual to join our Growth Analytics International team. This team plays a crucial role in conducting research, monitoring performance, and running experiments to develop exceptional products for both consumers and merchants while driving long-term growth for the business. As Affirm continues expanding into new international markets, this role will be instrumental in establishing the operational analytics framework for new launches, beginning with Australia and expanding into future international markets. The ideal candidate will possess s",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Mon, 23 Nov 2026 06:02:20 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/coinbase-compliance-investigations-associate",
+      "source": "weworkremotely",
+      "title": "Compliance Investigations Associate",
+      "company": "Coinbase",
+      "url": "https://weworkremotely.com/remote-jobs/coinbase-compliance-investigations-associate",
+      "description": "Headquarters: Remote - USA Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.”&nbsp; Learn more about working at Coinbase . As a Senior Investigator in Coinbase’s Financial Intelligence Unit within Compliance (2LoD), you’ll help drive Coinbase’s financial crime investigations capabilit",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Mon, 23 Nov 2026 06:02:20 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/descript-software-engineer-product",
+      "source": "weworkremotely",
+      "title": "Software Engineer, Product",
+      "company": "Descript",
+      "url": "https://weworkremotely.com/remote-jobs/descript-software-engineer-product",
+      "description": "Headquarters: San Francisco, CA or Remote, US Product engineering at Descript means owning outcomes, not just tickets — you'll take a problem from a rough idea to a shipped, measured result, working closely with product, design, and the rest of engineering along the way. We organize around a few teams, each responsible for a distinct part of the product: Editor: owns our video editor. Help make traditionally complex video-editing workflows simpler, craft cutting-edge AI into practical creative tools, and build on our vision of turning a text-editor for video into a tool that puts video in everyone's communication toolkit. Growth & Monetization: owns onboarding and activation, growth loops and in-product experiments, plans and pricing, checkout, billing, and AI credits. Help turn visitors i",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Mon, 23 Nov 2026 06:02:06 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/celonis-lead-applied-value-engineer",
+      "source": "weworkremotely",
+      "title": "Lead Applied Value Engineer",
+      "company": "Celonis",
+      "url": "https://weworkremotely.com/remote-jobs/celonis-lead-applied-value-engineer",
+      "description": "Headquarters: Remote, United Arab Emirates Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI can actually understand, turning AI's operational blind spots into operational clarity. World's leading companies trust Celonis and its global ecosystem of partners to make their AI agents, people, systems, and processes work together, achieving transformational outcomes. We believe there's a massive opportunity to unlock global productivity and sustainability by giving AI the context to understand how every business process really works. Join our mission to make processes work for people, companies, and the planet. The Role:",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Mon, 23 Nov 2026 06:02:06 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/beyondtrust-site-reliability-engineer",
+      "source": "weworkremotely",
+      "title": "Site Reliability Engineer",
+      "company": "BeyondTrust",
+      "url": "https://weworkremotely.com/remote-jobs/beyondtrust-site-reliability-engineer",
+      "description": "Headquarters: Remote United States BeyondTrust is a place where you can bring your purpose to life through the work that you do, creating a safer world through our cybersecurity SaaS portfolio. Our culture of flexibility, trust, and continual learning means you will be recognized for your growth, and for the impact you make on our success. You will be surrounded by people who challenge, support, and inspire you to be the best version of yourself. The Role BeyondTrust is building a new cross-product Site Reliability Engineering team that stands up and runs the AWS GovCloud environments bringing additional BeyondTrust products into our FedRAMP authorization. The team owns the reliability, change control, and continuous-compliance machinery for those environments so that product feature teams",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Mon, 23 Nov 2026 06:01:59 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/alloy-senior-solutions-architect-transaction-monitoring",
+      "source": "weworkremotely",
+      "title": "Senior Solutions Architect - Transaction Monitoring",
+      "company": "Alloy",
+      "url": "https://weworkremotely.com/remote-jobs/alloy-senior-solutions-architect-transaction-monitoring",
+      "description": "Headquarters: Remote Alloy is where you belong! Alloy is the AI-powered identity and fraud prevention platform that accelerates onboarding, stops fraud, and scales compliance across the customer lifecycle so financial organizations can grow without limits. More than 900 of the world's leading financial institutions and fintechs trust Alloy for smarter risk management that drives growth. Through our values: Be Bold, Go Fast, Collaborate, and Celebrate Our Differences, we are creating a workplace where you can grow, thrive, and belong. See how we’ve been continuously recognized and named one of Inc. Magazine’s Best Workplaces , Forbes America’s Best Startup Employers , Best Fintech to Work for by American Banker , year after year. Check out our investors and read more about us here . About t",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Mon, 23 Nov 2026 06:01:28 +0000",
+      "category": "full-stack"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/doximity-senior-software-engineer-data-platform",
@@ -4563,64 +4848,199 @@
       "category": "full-stack"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/toptal-cryptography-specialist-for-ai-lab",
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/lightbox-animation-vfx-supervisor",
       "source": "weworkremotely",
-      "title": "Cryptography Specialist for AI lab",
-      "company": "Toptal",
-      "url": "https://weworkremotely.com/remote-jobs/toptal-cryptography-specialist-for-ai-lab",
-      "description": "Headquarters: Overview A fast-growing AI evaluation company is building expert-level benchmarks that test how well AI agents handle real professional work in the terminal. We are hiring cryptography experts to turn real, paid tasks from their own work into end-to-end challenges for AI agents, each with a working solution and a check that proves the result is correct. ***THIS IS A TASK BASED COMPENSATION MODEL. PLEASE CHECK THE APPLICATION QUESTIONS FOR MORE DETAILS.*** Responsibilities • Design expert-level Terminal-Bench cryptography tasks by turning real, paid work from your own experience into challenges that an AI agent must solve end to end. • Define the task environment, including files, systems, ciphertexts and data, so the challenge is realistic, self-contained and reproducible in ",
-      "location": "Anywhere in the World",
+      "title": "VFX Supervisor",
+      "company": "Lightbox Animation",
+      "url": "https://weworkremotely.com/remote-jobs/lightbox-animation-vfx-supervisor",
+      "description": "Headquarters: Córdoba, Andalusia, Spain URL: https://lbox.es Your mission Knock, knock...Any Lightboxer in the room? If you are passionate about 3D animated films and want to create magic cinematographic, you can´t let this opportunity go! We are looking for a talented VFX &nbsp;Supervisor with enthusiasm to join our great team on the exciting new project, Animated Feature TAD 4!! You will be responsible for leading VFX teams and coordinating with all levels of production, for design and create elements and visual effects. First of all, you're probably interested in knowing that...we offer 100% remote work! WE NEED YOU TO BE ABLE TO DO: Responsible for ensuring the VFX Artists create a wide range of high quality visual effects. Make sure that visual effects look believable and consistent w",
+      "location": "Europe Only",
       "tags": [
-        "Full-Stack Programming",
-        "full-stack"
+        "Management and Finance",
+        "management"
       ],
-      "postedAt": "Thu, 05 Nov 2026 17:09:07 +0000",
-      "category": "full-stack"
+      "postedAt": "Mon, 23 Nov 2026 17:01:51 +0000",
+      "category": "management"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/drfirst-com-inc-senior-software-engineer",
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/gitlab-senior-solutions-architect-operations-manager",
       "source": "weworkremotely",
-      "title": "Senior Software Engineer",
-      "company": "DRFIRST COM INC",
-      "url": "https://weworkremotely.com/remote-jobs/drfirst-com-inc-senior-software-engineer",
-      "description": "Headquarters: United States URL: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=fc2a6c7e-ef54-4ed9-8c04-d5aca23f99e3 Senior Software Engineer, eRx Enterprise and Gadget About DrFirst For 25 years, DrFirst has empowered providers and patients to achieve better health through intelligent medication management. We improve healthcare workflows and help patients start and stay on therapy with end-to-end solutions that enhance prescription access, affordability, and adherence. Our solutions help 100 million patients a year and are used by more than 420,000 prescribers, 71,000 pharmacies, 270 EHRs and health information systems, and over 2,000 hospitals in the U.S. This is a great opportunity to be a part of a successful Healthcare IT company experiencing signifi",
+      "title": "Senior Solutions Architect Operations Manager",
+      "company": "GitLab",
+      "url": "https://weworkremotely.com/remote-jobs/gitlab-senior-solutions-architect-operations-manager",
+      "description": "Headquarters: Remote, Canada GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&nbsp;and c",
+      "location": "Canada Only",
+      "tags": [
+        "Management and Finance",
+        "management"
+      ],
+      "postedAt": "Mon, 23 Nov 2026 17:01:46 +0000",
+      "category": "management"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/oddball-lead-integration-architect",
+      "source": "weworkremotely",
+      "title": "Lead Integration Architect",
+      "company": "Oddball",
+      "url": "https://weworkremotely.com/remote-jobs/oddball-lead-integration-architect",
+      "description": "Headquarters: URL: https://www.oddball.io Oddball believes that the best products are built when companies understand and value the things they are working on. We value learning and growth and the ability to make a big impact at a small company. We believe that we can make big changes happen and improve the daily lives of millions of people by bringing quality software to the federal space. This position is contingent upon contract award. We’re looking for a Lead Integration Architect to join our CMS team, designing how a modern claims platform connects with the legacy systems behind Medicare claims processing. What you'll be doing: Define the integration architecture between a commercial claims platform and legacy systems, including mainframe Set technical direction, patterns, and standar",
       "location": "USA Only",
       "tags": [
-        "Full-Stack Programming",
-        "full-stack"
+        "Management and Finance",
+        "management"
       ],
-      "postedAt": "Thu, 05 Nov 2026 13:22:33 +0000",
-      "category": "full-stack"
+      "postedAt": "Mon, 23 Nov 2026 17:01:36 +0000",
+      "category": "management"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/secure-privacy-senior-full-stack-web-developer-net-c-mongodb-angular-redux-ai-first-with-gdpr-experience",
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/dln-consulting-group-work-from-home-team-lead",
       "source": "weworkremotely",
-      "title": "Senior Full-Stack Web Developer (.NET/C#/MongoDB/Angular/Redux) – AI-First, with GDPR Experience",
-      "company": "Secure Privacy",
-      "url": "https://weworkremotely.com/remote-jobs/secure-privacy-senior-full-stack-web-developer-net-c-mongodb-angular-redux-ai-first-with-gdpr-experience",
-      "description": "Headquarters: Europe (DK) URL: https://secureprivacy.ai Secure Privacy is expanding, and we’re looking for an experienced Senior Full-Stack Developer with expertise in .NET, C#, and MongoDB, along with GDPR experience, to join our team! You’ll work remotely with a diverse group of developers, helping us build cutting-edge data privacy solutions for global clients. This role focuses on creating and optimizing APIs and backend services. If you’re passionate about clean, maintainable code, we’d love to hear from you! What You’ll Do: Develop and maintain backend services with C# and .NET. Develop and maintain frontend logic with Angular and Redux. Use AI coding tools (Cursor, Claude Code, or similar) as a core part of your daily workflow, and help the team get more out of them. Work closely wi",
-      "location": "Anywhere in the World",
+      "title": "Work From Home Team Lead",
+      "company": "DLN Consulting Group",
+      "url": "https://weworkremotely.com/remote-jobs/dln-consulting-group-work-from-home-team-lead",
+      "description": "Headquarters: Miami, Florida, United States URL: https://jobs.workable.com/company/7L2FzU15AMzMKn9txgLfbp/jobs-at-dln-consulting-group Work From Home Team Lead Company: DLN Consulting Group Location: Remote (United States) Job Type: Full-Time Salary: $65,000 – $90,000/year + performance bonuses Schedule: Monday – Friday | Flexible shifts available Description DLN Consulting Group is hiring a Work From Home Team Lead to manage and motivate a remote team of specialists delivering top-tier client support and operational excellence. You’ll be the daily anchor for your team — coaching performance, removing roadblocks, and making sure every shift runs smooth. This isn’t a sit-back-and-supervise role. You lead from the front, stay close to your people, and take full ownership of your team’s resul",
+      "location": "USA Only",
       "tags": [
-        "Full-Stack Programming",
-        "full-stack"
+        "Management and Finance",
+        "management"
       ],
-      "postedAt": "Thu, 05 Nov 2026 12:39:27 +0000",
-      "category": "full-stack"
+      "postedAt": "Mon, 23 Nov 2026 17:01:34 +0000",
+      "category": "management"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/toptal-ml-inference-engineer-terminal-bench-task-designer",
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/d2b-bookkeeper-financial-administrator-spa-and-maintenance",
       "source": "weworkremotely",
-      "title": "ML Inference Engineer – Terminal-Bench Task Designer",
-      "company": "Toptal",
-      "url": "https://weworkremotely.com/remote-jobs/toptal-ml-inference-engineer-terminal-bench-task-designer",
-      "description": "Headquarters: Overview We are building a benchmark that tests how well AI agents handle real expert work in a terminal. We are hiring ML inference and serving experts to turn real, paid tasks from their jobs into expert-level Terminal-Bench challenges. Each task includes the environment, a working solution, and an automated check that proves the result is correct. ***THIS IS A TASK BASED COMPENSATION MODEL. PLEASE CHECK THE APPLICATION QUESTIONS FOR MORE DETAILS.*** Responsibilities • Design expert-level Terminal-Bench tasks that turn real, paid ML inference work from your own experience into challenges an AI agent must solve end to end. • Define the files, systems and environments each task runs on, such as model serving with streaming, so the challenge is realistic, reproducible and comm",
+      "title": "Bookkeeper / Financial Administrator (Spa and Maintenance)",
+      "company": "D2B",
+      "url": "https://weworkremotely.com/remote-jobs/d2b-bookkeeper-financial-administrator-spa-and-maintenance",
+      "description": "Headquarters: Philippines URL: https://jobs.workable.com/company/dcaVtKQqXr9FwBNppNCBH9/jobs-at-d2b Position : Bookkeeper / Financial Administrator Salary : $2000-$3000 NZD Working Hours & Conditions : Full time, New Zealand business hours Holidays : To follow ABOUT THE COMPANY:&nbsp; The Company is the world’s largest global franchise network for swimming pool and spa care, operating over 160 retail stores and 600+ mobile service vehicles across New Zealand, Australia, and the United States. Founded in 1992 by entrepreneur John O'Brien, the brand has spent more than 30 years establishing itself as ANZ's (Australia and New Zealand's) leading pool retail and maintenance network. ROLE OVERVIEW: The Company is New Zealand's trusted pool and spa service brand, with more than 30 years' experien",
+      "location": "Asia Only",
+      "tags": [
+        "Management and Finance",
+        "management"
+      ],
+      "postedAt": "Mon, 23 Nov 2026 17:01:30 +0000",
+      "category": "management"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/d2b-medical-virtual-assistant-reception-bookkeeping",
+      "source": "weworkremotely",
+      "title": "Medical Virtual Assistant - Reception & Bookkeeping",
+      "company": "D2B",
+      "url": "https://weworkremotely.com/remote-jobs/d2b-medical-virtual-assistant-reception-bookkeeping",
+      "description": "Headquarters: Manila, Metro Manila, Philippines URL: https://jobs.workable.com/company/dcaVtKQqXr9FwBNppNCBH9/jobs-at-d2b Position: MEDICAL VIRTUAL ASSISTANT – RECEPTION & BOOKKEEPING Client Industry: Healthcare – Medical Aesthetics & Cosmetic Medicine Salary range: Php 50,000/month (The final amount will be at the the client discretion basing on the candidate’s skills and experience.) Working Hours: Following AU business hours Work set-up: 100% Remote work under Independent Contractor Agreement Holidays: AU Holidays Recruitment process: possible multiple client interviews and an assessment About the Company & Role Our client operates in the healthcare and medical aesthetics industry, specialising in medical aesthetic services, cosmetic treatments, skin care procedures, and specialised pat",
+      "location": "Asia Only",
+      "tags": [
+        "Management and Finance",
+        "management"
+      ],
+      "postedAt": "Mon, 23 Nov 2026 17:01:11 +0000",
+      "category": "management"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/clover-health-director-enterprise-portfolio-management",
+      "source": "weworkremotely",
+      "title": "Director, Enterprise Portfolio Management",
+      "company": "Clover Health",
+      "url": "https://weworkremotely.com/remote-jobs/clover-health-director-enterprise-portfolio-management",
+      "description": "Headquarters: Remote - USA Clover Health’s People Operations team is the strategic force behind our human capital management. We attract and recruit top talent, manage employee lifecycle processes, and foster career development and continuous learning. We’re proud of our data-driven approach to talent engagement and feel privileged to support our global workforce. We are seeking a Director, Enterprise Initiatives & Enablement, to lead change management across employee-impacting initiatives and help our people understand, adopt, and sustain changes that improve how we work. Reporting to our Chief People Officer, you will connect enterprise priorities with the planning, communication, training, and follow-through needed to make employee-impacting initiatives successful. Your focus will be on",
       "location": "Anywhere in the World",
       "tags": [
-        "Full-Stack Programming",
-        "full-stack"
+        "Management and Finance",
+        "management"
       ],
-      "postedAt": "Wed, 04 Nov 2026 21:41:56 +0000",
-      "category": "full-stack"
+      "postedAt": "Mon, 23 Nov 2026 06:02:30 +0000",
+      "category": "management"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/cribl-international-people-ops-analyst-benefits",
+      "source": "weworkremotely",
+      "title": "International People Ops Analyst, Benefits",
+      "company": "Cribl",
+      "url": "https://weworkremotely.com/remote-jobs/cribl-international-people-ops-analyst-benefits",
+      "description": "Headquarters: Remote - United Kingdom Join the company that’s building the telemetry infrastructure for the AI era. At Cribl, we partner with IT and Security teams at many of the world’s biggest enterprises, including half of the Fortune 100, to bridge the gap between AI ambition and infrastructure reality. As the AI Platform for Telemetry, we give customers the choice, control, and flexibility to manage and analyze telemetry for both humans and agents, so they can build what’s next. We’re one of the fastest‑growing private companies and a leading player in a massive, fast‑moving market. With a global workforce, we’re remote‑first and grounded in a simple idea: software is a people business. Cribl is the place where curious, collaborative people can do their best work, grow fast, and bring",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Management and Finance",
+        "management"
+      ],
+      "postedAt": "Mon, 23 Nov 2026 06:02:10 +0000",
+      "category": "management"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/collibra-senior-sales-compensation-analyst",
+      "source": "weworkremotely",
+      "title": "Senior Sales Compensation Analyst",
+      "company": "Collibra",
+      "url": "https://weworkremotely.com/remote-jobs/collibra-senior-sales-compensation-analyst",
+      "description": "Headquarters: Raleigh, North Carolina, USA; Remote, East Coast USA Joining Collibra's Sales Compensation team Collibra is the global leader in data intelligence, helping organizations find, understand, trust, and access data at scale. You'll join the Sales Compensation team, which sits within Finance and works alongside Sales Operations and Total Rewards to design, calculate, and pay commissions for quota-carrying Collibrians across North America and EMEA. Reporting to the Senior Manager, Sales Compensation&nbsp; you will be the hands-on owner of sales comp operations, plan logic in Xactly, monthly close, dispute resolution, and the annual plan cycle. Because every seller sees the output of this work each month, the team lives our value of being open, direct, and kind : we explain how a nu",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Management and Finance",
+        "management"
+      ],
+      "postedAt": "Mon, 23 Nov 2026 06:01:51 +0000",
+      "category": "management"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/launchdarkly-senior-accounting-manager",
+      "source": "weworkremotely",
+      "title": "Senior Accounting Manager",
+      "company": "LaunchDarkly",
+      "url": "https://weworkremotely.com/remote-jobs/launchdarkly-senior-accounting-manager",
+      "description": "Headquarters: Remote - US About the Job: LaunchDarkly is building the runtime control layer for the AI era , helping engineering teams govern what ships in production and how software and AI agents behave after deployment. As Senior Accounting Manager, you’ll play a key role in strengthening the financial operations behind that work: owning critical close and technical accounting activities, supporting international entities and audit readiness, and partnering across Finance, Technology, and the business. You’ll also lead and develop a global team while improving accounting workflows, systems, and controls, including through automation and AI. This is an opportunity to combine hands-on accounting expertise with meaningful leadership and operational impact at a company shaping how teams bui",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Management and Finance",
+        "management"
+      ],
+      "postedAt": "Mon, 23 Nov 2026 06:01:42 +0000",
+      "category": "management"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/grafana-labs-director-sales-talent-acquisition-united-states-remote",
+      "source": "weworkremotely",
+      "title": "Director, Sales Talent Acquisition | United States | Remote",
+      "company": "Grafana Labs",
+      "url": "https://weworkremotely.com/remote-jobs/grafana-labs-director-sales-talent-acquisition-united-states-remote",
+      "description": "Headquarters: United States (Remote) Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving teams (and their agents) unified visibility so they can see, understand, and act on all their disparate data, wherever it lives, and move at the speed of their ambitions. Customers, including Anthropic, Bloomberg, NVIDIA, Microsoft, and Salesforce, rely on Grafana Labs. We are a 100% remote company with team members across 40+ countries, backed by leading investors including Light",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Management and Finance",
+        "management"
+      ],
+      "postedAt": "Mon, 23 Nov 2026 06:00:54 +0000",
+      "category": "management"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/carrot-sr-security-operations-manager",
+      "source": "weworkremotely",
+      "title": "Sr. Security Operations Manager",
+      "company": "Carrot",
+      "url": "https://weworkremotely.com/remote-jobs/carrot-sr-security-operations-manager",
+      "description": "Headquarters: Remote About Carrot: Carrot is the leading global fertility and family care platform, built on intelligent care orchestration: the right clinical guidance, at the right moment, in the context of each member’s life. More than a thousand multinational employers, health plans, and health systems trust Carrot to support millions of members across 195 countries – from pre-pregnancy through menopause and major life moments in between. Carrot's comprehensive clinical program delivers industry-leading cost savings for plan sponsors and award-winning experiences and improved outcomes for millions of people worldwide. Carrot is widely regarded as a defining force in healthcare innovation as a recipient of several top-tier awards, including Fast Company's 'Most Innovative Companies' and",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Management and Finance",
+        "management"
+      ],
+      "postedAt": "Mon, 23 Nov 2026 06:00:54 +0000",
+      "category": "management"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/grafana-labs-director-sales-talent-acquisition-united-kingdom-remote",
+      "source": "weworkremotely",
+      "title": "Director, Sales Talent Acquisition | United Kingdom | Remote",
+      "company": "Grafana Labs",
+      "url": "https://weworkremotely.com/remote-jobs/grafana-labs-director-sales-talent-acquisition-united-kingdom-remote",
+      "description": "Headquarters: United Kingdom (Remote) Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving teams (and their agents) unified visibility so they can see, understand, and act on all their disparate data, wherever it lives, and move at the speed of their ambitions. Customers, including Anthropic, Bloomberg, NVIDIA, Microsoft, and Salesforce, rely on Grafana Labs. We are a 100% remote company with team members across 40+ countries, backed by leading investors including Ligh",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Management and Finance",
+        "management"
+      ],
+      "postedAt": "Mon, 23 Nov 2026 06:00:54 +0000",
+      "category": "management"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/discord-technical-sourcer",
@@ -4770,21 +5190,6 @@
         "management"
       ],
       "postedAt": "Sat, 21 Nov 2026 18:32:33 +0000",
-      "category": "management"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/ledgy-junior-finance-billing-associate",
-      "source": "weworkremotely",
-      "title": "Junior Finance & Billing Associate",
-      "company": "Ledgy",
-      "url": "https://weworkremotely.com/remote-jobs/ledgy-junior-finance-billing-associate",
-      "description": "Headquarters: Germany (Remote); London, United Kingdom; Poland (Remote); Romania (Remote); Spain (Remote) At Ledgy, we’re on a mission to make Europe a powerhouse of entrepreneurship by building a modern, tech-driven equity management and financial reporting platform for private and public companies. In 2026, we aim to be the leading provider for European IPOs and reporting for share-based payments. We are a value-based company with a core focus on being humble, transparent, ambitious and impactful, all in order to delivery the best experience for our customers and end users. We are proud to partner with some of the world’s leading investors. New Enterprise Associates led our&nbsp; $22m Series B round in 2022, with Philip Chopin joining Sequoia’s Luciana Lixandru on our board. We were foun",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Management and Finance",
-        "management"
-      ],
-      "postedAt": "Sat, 21 Nov 2026 18:31:36 +0000",
       "category": "management"
     },
     {
