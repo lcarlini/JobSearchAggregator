@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-23T17:53:04.084Z",
-  "count": 414,
+  "generatedAt": "2026-11-24T03:53:25.397Z",
+  "count": 435,
   "jobs": [
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/toptal-cryptography-specialist-for-ai-lab",
@@ -376,6 +376,111 @@
       ],
       "postedAt": "Sun, 25 Oct 2026 07:30:54 +0000",
       "category": "programming"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/reddit-engineering-manager-ranking-platform",
+      "source": "weworkremotely",
+      "title": "Engineering Manager, Ranking Platform",
+      "company": "Reddit",
+      "url": "https://weworkremotely.com/remote-jobs/reddit-engineering-manager-ranking-platform",
+      "description": "Headquarters: Remote - United States Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit www.redditinc.com . The Ranking Platform team builds and runs the services that coordinate contextualized and personalized ranking on Reddit. We build infrastructure, including a scatter-gather ranking coordination service, feature indexes, and scalable data pipelines that power personalized feeds, search, and other Reddit pro",
+      "location": "Anywhere in the World",
+      "tags": [
+        "DevOps and Sysadmin",
+        "devops"
+      ],
+      "postedAt": "Mon, 23 Nov 2026 18:32:25 +0000",
+      "category": "devops"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/metamask-senior-manager-application-security",
+      "source": "weworkremotely",
+      "title": "Senior Manager, Application Security",
+      "company": "MetaMask",
+      "url": "https://weworkremotely.com/remote-jobs/metamask-senior-manager-application-security",
+      "description": "Headquarters: EMEA - Remote Please note that we are unable to consider applications from candidates based in France, Italy, or Germany for this role. Money is moving onto the internet, and the shift has a name: Open Money. This is money that is open, portable, agentic, and owned by you. MetaMask spent the last ten years building it; with 100M+ downloads, users in ~190 countries, and trillions in cumulative transaction volume, it's the most trusted self-custodial financial platform on the internet. Now we're building the operating system for your money: one place to hold, move, grow, and use anything you own.&nbsp; Join a remote-first, global team rebuilding how money works: a problem that touches everyone, every day. About the role MetaMask is a self-custody wallet that does not hold users",
+      "location": "Anywhere in the World",
+      "tags": [
+        "DevOps and Sysadmin",
+        "devops"
+      ],
+      "postedAt": "Mon, 23 Nov 2026 18:32:20 +0000",
+      "category": "devops"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/grafana-labs-engineering-manager-grafana-infrastructure-remote-ireland",
+      "source": "weworkremotely",
+      "title": "Engineering Manager - Grafana Infrastructure (Remote, Ireland)",
+      "company": "Grafana Labs",
+      "url": "https://weworkremotely.com/remote-jobs/grafana-labs-engineering-manager-grafana-infrastructure-remote-ireland",
+      "description": "Headquarters: Republic of Ireland (Remote) Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving teams (and their agents) unified visibility so they can see, understand, and act on all their disparate data, wherever it lives, and move at the speed of their ambitions. Customers, including Anthropic, Bloomberg, NVIDIA, Microsoft, and Salesforce, rely on Grafana Labs. We are a 100% remote company with team members across 40+ countries, backed by leading investors including",
+      "location": "Anywhere in the World",
+      "tags": [
+        "DevOps and Sysadmin",
+        "devops"
+      ],
+      "postedAt": "Mon, 23 Nov 2026 18:32:20 +0000",
+      "category": "devops"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/grafana-labs-engineering-manager-grafana-infrastructure-remote-canada",
+      "source": "weworkremotely",
+      "title": "Engineering Manager - Grafana Infrastructure (Remote, Canada)",
+      "company": "Grafana Labs",
+      "url": "https://weworkremotely.com/remote-jobs/grafana-labs-engineering-manager-grafana-infrastructure-remote-canada",
+      "description": "Headquarters: Canada (Remote) Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving teams (and their agents) unified visibility so they can see, understand, and act on all their disparate data, wherever it lives, and move at the speed of their ambitions. Customers, including Anthropic, Bloomberg, NVIDIA, Microsoft, and Salesforce, rely on Grafana Labs. We are a 100% remote company with team members across 40+ countries, backed by leading investors including Lightspeed V",
+      "location": "Anywhere in the World",
+      "tags": [
+        "DevOps and Sysadmin",
+        "devops"
+      ],
+      "postedAt": "Mon, 23 Nov 2026 18:32:12 +0000",
+      "category": "devops"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/launchdarkly-senior-director-enablement",
+      "source": "weworkremotely",
+      "title": "Senior Director, Enablement",
+      "company": "LaunchDarkly",
+      "url": "https://weworkremotely.com/remote-jobs/launchdarkly-senior-director-enablement",
+      "description": "Headquarters: Remote - US About the Job: LaunchDarkly is seeking a Sr. Director, Enablement to join our Revenue team. This position will report to the VP, Revenue Operations and Enablement. The Revenue Operations and Enablement team is responsible for sales strategy, technology, and enablement. The Sr. Director, Enablement will build a repeatable enablement framework to systematically support all segments of LaunchDarkly’s Revenue Organization. This role will ensure that all customer-facing personnel have the knowledge, content, skills, processes, and behaviors needed to optimize every interaction with buyers. The role will also oversee the planning and execution of Revenue Organization events, including SKOs. The ideal candidate is a strategic thinker with leadership experience in a reven",
+      "location": "Anywhere in the World",
+      "tags": [
+        "DevOps and Sysadmin",
+        "devops"
+      ],
+      "postedAt": "Mon, 23 Nov 2026 18:32:07 +0000",
+      "category": "devops"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/gusto-inc-site-reliability-engineer",
+      "source": "weworkremotely",
+      "title": "Site Reliability Engineer",
+      "company": "Gusto, Inc.",
+      "url": "https://weworkremotely.com/remote-jobs/gusto-inc-site-reliability-engineer",
+      "description": "Headquarters: Denver, CO - Hybrid; San Francisco, CA - Hybrid; Seattle, WA - Remote &nbsp; About Gusto At Gusto, we're on a mission to grow the small business economy. We handle the hard stuff — payroll, health insurance, 401(k)s, and HR — so owners can focus on their craft and their customers. With teams in Denver, San Francisco, and New York, we support more than 500,000 small businesses nationwide and are building a workplace that reflects the people we serve. All full-time employees receive competitive base pay, benefits, and equity (RSUs) — because everyone who helps build Gusto should share in its success. Offer amounts are determined by role, level, and location. Learn more about our Total Rewards philosophy . AI is a fundamental part of how work gets done at Gusto. We expect all te",
+      "location": "Anywhere in the World",
+      "tags": [
+        "DevOps and Sysadmin",
+        "devops"
+      ],
+      "postedAt": "Mon, 23 Nov 2026 18:31:31 +0000",
+      "category": "devops"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/pinterest-manager-ii-engineering-kubernetes-platform",
+      "source": "weworkremotely",
+      "title": "Manager II, Engineering - Kubernetes Platform",
+      "company": "Pinterest",
+      "url": "https://weworkremotely.com/remote-jobs/pinterest-manager-ii-engineering-kubernetes-platform",
+      "description": "Headquarters: San Francisco, CA, US; Remote, CA, US About Pinterest: Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product. Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other’s unique experiences and embrace the&nbsp; flexibility to do your best work. Creating a career you love? It’s Possible. At Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we’re looking for candidates who are excited to be a par",
+      "location": "Anywhere in the World",
+      "tags": [
+        "DevOps and Sysadmin",
+        "devops"
+      ],
+      "postedAt": "Mon, 23 Nov 2026 18:31:19 +0000",
+      "category": "devops"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/clover-health-associate-counsel-vendor-and-provider-contracting",
@@ -1818,6 +1923,111 @@
       "category": "design"
     },
     {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/mixpanel-senior-customer-engineer-latam-spanish-speaking",
+      "source": "weworkremotely",
+      "title": "Senior Customer Engineer - LATAM (Spanish Speaking)",
+      "company": "Mixpanel",
+      "url": "https://weworkremotely.com/remote-jobs/mixpanel-senior-customer-engineer-latam-spanish-speaking",
+      "description": "Headquarters: Remote, US (Remote) About Mixpanel Mixpanel is the leading product intelligence and analytics platform, trusted by more than 29,000 companies to help understand how people use the products they build. By combining powerful analytics with AI that knows your business, Mixpanel helps teams see what’s working, diagnose what’s not, and decide what to build next. Learn more at mixpanel.com . About the Customer Engineering Team Mixpanel's Customer Engineering teams are analytics consultants who embed themselves within our enterprise customer teams to drive business outcomes. We work with prospects and customers throughout the customer journey to understand what drives value, and serve as the technical counterpart to our Sales organisation to deliver on that value. You will partner c",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Product",
+        "product"
+      ],
+      "postedAt": "Mon, 23 Nov 2026 18:32:35 +0000",
+      "category": "product"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/oportun-senior-product-manager-r14206",
+      "source": "weworkremotely",
+      "title": "Senior Product Manager (R14206)",
+      "company": "Oportun",
+      "url": "https://weworkremotely.com/remote-jobs/oportun-senior-product-manager-r14206",
+      "description": "Headquarters: Remote - India Who We Are Oportun (Nasdaq: OPRT) is a mission-driven financial services company that puts its members' financial goals within reach. With intelligent borrowing, savings, and budgeting capabilities, Oportun empowers members with the confidence to build a better financial future. Since inception, Oportun has provided more than $22.7 billion in responsible and affordable credit, saved its members more than $2.5 billion in interest and fees, and helped its members set aside an average of more than $1,800 annually. Location Note We’re excited to consider talent currently based in India, as well as candidates who are open to relocating to India for this opportunity. Please note that, as this is a \"Remote–India\" position, the role must be performed from within India.",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Product",
+        "product"
+      ],
+      "postedAt": "Mon, 23 Nov 2026 18:32:28 +0000",
+      "category": "product"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/metamask-senior-product-manager-universal-kyc-metamask-passport",
+      "source": "weworkremotely",
+      "title": "Senior Product Manager – Universal KYC (MetaMask Passport)",
+      "company": "MetaMask",
+      "url": "https://weworkremotely.com/remote-jobs/metamask-senior-product-manager-universal-kyc-metamask-passport",
+      "description": "Headquarters: EMEA - Remote, UNITED STATES - Remote Please note that we are unable to consider applications from candidates based in France, Italy, or Germany for this role. Money is moving onto the internet, and the shift has a name: Open Money. This is money that is open, portable, agentic, and owned by you. MetaMask spent the last ten years building it; with 100M+ downloads, users in ~190 countries, and trillions in cumulative transaction volume, it's the most trusted self-custodial financial platform on the internet. Now we're building the operating system for your money: one place to hold, move, grow, and use anything you own.&nbsp; Join a remote-first, global team rebuilding how money works: a problem that touches everyone, every day. About MetaMask MetaMask is building a future wher",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Product",
+        "product"
+      ],
+      "postedAt": "Mon, 23 Nov 2026 18:32:25 +0000",
+      "category": "product"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/okta-solutions-engineer-okta-enterprise",
+      "source": "weworkremotely",
+      "title": "Solutions Engineer, Okta(Enterprise)",
+      "company": "Okta",
+      "url": "https://weworkremotely.com/remote-jobs/okta-solutions-engineer-okta-enterprise",
+      "description": "Headquarters: Massachusetts Remote Secure Every Identity, from AI to Human Identity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real-world stakes. We are looking for builders and owners who operate with speed and urgency and execute with excellence. This is an opportunity to do career-defining work. We're all in on this mission. If you are too, let's talk. Solutions Engineer, US Enterprise - East Coast&nbsp; Get to know Okta Okta is The World’s Identity Company. We free everyone to safely use any technology, anywhere, on any device or app. Our flexible and neutral products, Okta Platform and Auth0 ",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Product",
+        "product"
+      ],
+      "postedAt": "Mon, 23 Nov 2026 18:31:56 +0000",
+      "category": "product"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/dropbox-director-strategic-ai-partnerships",
+      "source": "weworkremotely",
+      "title": "Director, Strategic AI Partnerships",
+      "company": "Dropbox",
+      "url": "https://weworkremotely.com/remote-jobs/dropbox-director-strategic-ai-partnerships",
+      "description": "Headquarters: Remote - US: San Francisco, CA Role Description The Dropbox Business Development team builds strategic partnerships that expand product adoption, create new distribution channels, and drive long-term customer and revenue growth. We are hiring a Director of Strategic AI Partnerships to own a focused portfolio of Dropbox’s highest-priority AI relationships, including OpenAI, Anthropic, and Meta. You will define and execute multi-year strategies across product integration, distribution, enterprise GTM, commercial agreements, and joint marketing. The opportunity goes beyond maintaining individual integrations: you will identify where Dropbox and each partner can create differentiated customer value, align executives and product leaders around a small number of high-impact workstr",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Product",
+        "product"
+      ],
+      "postedAt": "Mon, 23 Nov 2026 18:31:38 +0000",
+      "category": "product"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/talkspace-general-application-for-product-engineering-and-technology",
+      "source": "weworkremotely",
+      "title": "General Application for Product, Engineering and Technology",
+      "company": "Talkspace",
+      "url": "https://weworkremotely.com/remote-jobs/talkspace-general-application-for-product-engineering-and-technology",
+      "description": "Headquarters: Remote At Talkspace, we are committed to fostering a diverse, equitable, inclusive, and belonging-centered workplace where everyone can thrive while making a difference in mental health. Want to help over one million people receive quality mental healthcare? Come join our mission of getting therapy in the hands of everyone! Not seeing the right opportunity? Join our general applicant pool and be fast-tracked for future consideration on open roles.&nbsp;&nbsp; Please first review our open roles to see if there is a position that might suit your skills and interests. Indicate your interest here by submitting a resume and answering a few questions about yourself. Our team will continue to monitor incoming profiles and will reach out when we have an opportunity that could be of i",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Product",
+        "product"
+      ],
+      "postedAt": "Mon, 23 Nov 2026 18:31:31 +0000",
+      "category": "product"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/pinterest-manager-ii-engineering-analytics-engineering-core-data-science",
+      "source": "weworkremotely",
+      "title": "Manager II, Engineering- Analytics Engineering, Core Data Science",
+      "company": "Pinterest",
+      "url": "https://weworkremotely.com/remote-jobs/pinterest-manager-ii-engineering-analytics-engineering-core-data-science",
+      "description": "Headquarters: San Francisco, CA, US; Remote, US About Pinterest: Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product. Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other’s unique experiences and embrace the&nbsp; flexibility to do your best work. Creating a career you love? It’s Possible. At Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we’re looking for candidates who are excited to be a part of",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Product",
+        "product"
+      ],
+      "postedAt": "Mon, 23 Nov 2026 18:31:10 +0000",
+      "category": "product"
+    },
+    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/gitlab-professional-services-program-manager",
       "source": "weworkremotely",
       "title": "Professional Services, Program Manager",
@@ -2611,6 +2821,96 @@
       ],
       "postedAt": "Tue, 06 Oct 2026 08:44:40 +0000",
       "category": "product"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/coinbase-corporate-development-senior-manager",
+      "source": "weworkremotely",
+      "title": "Corporate Development Senior Manager",
+      "company": "Coinbase",
+      "url": "https://weworkremotely.com/remote-jobs/coinbase-corporate-development-senior-manager",
+      "description": "Headquarters: Remote - USA Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.”&nbsp; Learn more about working at Coinbase . As a Senior Manager on the Corporate Development team, you'll help shape Coinbase's inorganic growth strategy by leading the execution of M&A transactions, strate",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Mon, 23 Nov 2026 18:32:12 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/clover-health-director-workforce-management",
+      "source": "weworkremotely",
+      "title": "Director, Workforce Management",
+      "company": "Clover Health",
+      "url": "https://weworkremotely.com/remote-jobs/clover-health-director-workforce-management",
+      "description": "Headquarters: Remote - USA The Clover Care Services organization delivers proactive support and care to our members through our clinical Clover Home Care teams, and quality improvement services to our aligned providers through our practice engagement team. Clover has built one of the most proactive, data-driven health care services platforms and is excited about how technology impacts our ability to bring transformative results to both patients and providers. Clover Care Services is entering a significant period of clinical growth. As we scale our Clover Care Visit (CCV) team, we need a dedicated leader who can turn an ambitious hiring plan into a reliable, repeatable workforce engine—from recruiting pipeline and onboarding capacity through clinician readiness, productivity, and performanc",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Mon, 23 Nov 2026 18:32:08 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/maven-clinic-manager-payments-reconciliation",
+      "source": "weworkremotely",
+      "title": "Manager, Payments & Reconciliation",
+      "company": "Maven Clinic",
+      "url": "https://weworkremotely.com/remote-jobs/maven-clinic-manager-payments-reconciliation",
+      "description": "Headquarters: Remote Maven Clinic is the world's largest virtual clinic for women and families on a mission to make healthcare work for all of us. Through Maven Enterprise, the company partners with more than 2,300 employers and health plans to provide end-to-end women's and family health programs spanning fertility and family building, maternity and newborn care, parenting and pediatrics, and menopause and midlife — improving clinical outcomes, reducing healthcare costs, and expanding equitable access to high-quality care at scale. Through its consumer platform, Maven provides direct access to virtual care across 30+ specialties, as well as dedicated hormone and GLP-1 care programs purpose-built for women. Founded in 2014 by CEO Kate Ryder, Maven Clinic has raised more than $425 million f",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Mon, 23 Nov 2026 18:31:47 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/dropbox-full-stack-product-software-engineer",
+      "source": "weworkremotely",
+      "title": "Full Stack Product Software Engineer",
+      "company": "Dropbox",
+      "url": "https://weworkremotely.com/remote-jobs/dropbox-full-stack-product-software-engineer",
+      "description": "Headquarters: Remote - Poland Role Description As a Full Stack Engineer at Dropbox, you will help design and develop the seamless, scalable, and user-friendly experiences Dropbox users depend on. Your work will encompass both front-end and back-end development, supporting products that empower millions worldwide. You will work closely with cross-functional teams to transform ideas into reliable, scalable features that provide outstanding user experiences. This year, Dropbox is on a mission to expedite the creation and implementation of AI-enabled products, providing a comprehensive technology stack for rapid prototyping and reliable deployment of AI-augmented functionality. Our Engineering Career Framework is viewable by anyone outside the company and describes what’s expected for our engi",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Mon, 23 Nov 2026 18:31:47 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/wrike-senior-professional-services-consultant-german",
+      "source": "weworkremotely",
+      "title": "Senior Professional Services Consultant- German",
+      "company": "Wrike",
+      "url": "https://weworkremotely.com/remote-jobs/wrike-senior-professional-services-consultant-german",
+      "description": "Headquarters: Ireland - Remote Wrike is the most powerful work management platform. Built for teams and organizations looking to collaborate, create, and exceed every day, Wrike brings everyone and all work into a single place to remove complexity, increase productivity, and free people up to focus on their most purposeful work. &nbsp; Wrike is our people, not a place. As a distributed team, we own our growth, stay globally connected, and rely on the product we build to deliver impactful work alongside brilliant minds. You'll have real ownership over meaningful work, a global team that has your back, and the flexibility to do your best work your way. If that sounds like you, we'd love to hear from you. &nbsp; Our vision:&nbsp; A world where everyone is free to focus on their most purposefu",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Mon, 23 Nov 2026 18:31:38 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/wrike-senior-professional-services-consultant",
+      "source": "weworkremotely",
+      "title": "Senior Professional Services Consultant",
+      "company": "Wrike",
+      "url": "https://weworkremotely.com/remote-jobs/wrike-senior-professional-services-consultant",
+      "description": "Headquarters: US - Remote Wrike is the most powerful work management platform. Built for teams and organizations looking to collaborate, create, and exceed every day, Wrike brings everyone and all work into a single place to remove complexity, increase productivity, and free people up to focus on their most purposeful work. &nbsp; Wrike is our people, not a place. As a distributed team, we own our growth, stay globally connected, and rely on the product we build to deliver impactful work alongside brilliant minds. You'll have real ownership over meaningful work, a global team that has your back, and the flexibility to do your best work your way. If that sounds like you, we'd love to hear from you. &nbsp; Our vision:&nbsp; A world where everyone is free to focus on their most purposeful wor",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Mon, 23 Nov 2026 18:31:31 +0000",
+      "category": "full-stack"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/oddball-senior-data-engineer",
@@ -4848,6 +5148,36 @@
       "category": "full-stack"
     },
     {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/coinbase-corporate-accounting-manager",
+      "source": "weworkremotely",
+      "title": "Corporate Accounting Manager",
+      "company": "Coinbase",
+      "url": "https://weworkremotely.com/remote-jobs/coinbase-corporate-accounting-manager",
+      "description": "Headquarters: Remote - USA Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.”&nbsp; Learn more about working at Coinbase . The Controllership team is seeking a Corporate Accounting Manager to lead core accounting operations across global month-end close, operating expenses, operating ",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Management and Finance",
+        "management"
+      ],
+      "postedAt": "Mon, 23 Nov 2026 18:32:08 +0000",
+      "category": "management"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/maven-clinic-network-operations-manager-contracting",
+      "source": "weworkremotely",
+      "title": "Network Operations Manager, Contracting",
+      "company": "Maven Clinic",
+      "url": "https://weworkremotely.com/remote-jobs/maven-clinic-network-operations-manager-contracting",
+      "description": "Headquarters: New York, New York, United States; Remote Maven Clinic is the world's largest virtual clinic for women and families on a mission to make healthcare work for all of us. Through Maven Enterprise, the company partners with more than 2,300 employers and health plans to provide end-to-end women's and family health programs spanning fertility and family building, maternity and newborn care, parenting and pediatrics, and menopause and midlife — improving clinical outcomes, reducing healthcare costs, and expanding equitable access to high-quality care at scale. Through its consumer platform, Maven provides direct access to virtual care across 30+ specialties, as well as dedicated hormone and GLP-1 care programs purpose-built for women. Founded in 2014 by CEO Kate Ryder, Maven Clinic ",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Management and Finance",
+        "management"
+      ],
+      "postedAt": "Mon, 23 Nov 2026 18:31:56 +0000",
+      "category": "management"
+    },
+    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/lightbox-animation-vfx-supervisor",
       "source": "weworkremotely",
       "title": "VFX Supervisor",
@@ -5235,21 +5565,6 @@
         "management"
       ],
       "postedAt": "Sat, 21 Nov 2026 18:30:52 +0000",
-      "category": "management"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/united-nations-office-for-project-services-hr-senior-assistant",
-      "source": "weworkremotely",
-      "title": "HR Senior Assistant",
-      "company": "United Nations Office for Project Services",
-      "url": "https://weworkremotely.com/remote-jobs/united-nations-office-for-project-services-hr-senior-assistant",
-      "description": "Headquarters: URL: http://www.unops.org Job Highlight Drive impactful HR solutions by expertly supporting people, policies, and processes. About the Region The UNOPS Africa Regional Office, based in Nairobi, Kenya, oversees the delivery of over 250 projects across 40 countries, with a focus on fragile and conflict-affected settings. Supported by more than 1,000 personnel across five multi-country offices—spanning North, West, Central, Eastern and Southern Africa, and the Horn of Africa—the office advances national priorities through strategic initiatives in Climate Action, Health, Infrastructure, Peace and Security, Middle-Income Country Support, and Small Island Developing States (SIDS). The Regional Office provides strategic leadership, operational support, and oversight in key areas inc",
-      "location": "Africa Only",
-      "tags": [
-        "Management and Finance",
-        "management"
-      ],
-      "postedAt": "Sat, 21 Nov 2026 17:02:14 +0000",
       "category": "management"
     },
     {

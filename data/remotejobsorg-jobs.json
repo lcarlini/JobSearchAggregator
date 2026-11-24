@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T17:53:00.193Z",
+  "generatedAt": "2026-11-24T03:53:21.253Z",
   "count": 150,
   "data": [
     {
@@ -3135,6 +3135,138 @@
       "original_language": null
     },
     {
+      "id": "1e168ed3-e55e-4f0d-9ec8-8fb9b431ea0c",
+      "title": "Ingénieur(e) IA en déploiement avancé, Travel Intelligence// Forward Deployed AI Engineer, Travel Intelligence",
+      "url": "https://remotejobs.org/remote-jobs/ingnieure-ia-en-dploiement-avanc-travel-intelligence-forward-deployed-ai-engineer-travel-intelligence-hopper",
+      "apply_url": "https://remotejobs.org/remote-jobs/ingnieure-ia-en-dploiement-avanc-travel-intelligence-forward-deployed-ai-engineer-travel-intelligence-hopper",
+      "company": {
+        "name": "Hopper",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/5c1797751f6290d27c0b4fe17cf2ac507bcbb58ab991650f47adaff36c3ef17d.jpeg",
+        "website": null,
+        "url": "https://remotejobs.org/companies/hopper"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "Québec, CAN; Montréal, Québec, CAN",
+      "location_normalization": {
+        "raw": "Québec, CAN; Montréal, Québec, CAN",
+        "input": {},
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [
+          "montreal"
+        ],
+        "work_arrangement": "unknown",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "allowed_subdivisions": [
+          "CA-QC"
+        ],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": null,
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": null,
+        "role_family": null,
+        "required_skills": [],
+        "mentioned_skills": [
+          "python",
+          "sql"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": []
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "12363209",
+      "direct_apply": null,
+      "description": "<p><strong>À propos du poste</strong><br>Hopper propulse le voyage pour certaines des plus grandes banques, compagnies aériennes et entreprises de voyage au monde, et notre équipe de Recherche conçoit des modèles spécialisés pour le voyage. À titre d’ingénieur(e) IA en déploiement avancé, vous portez ce travail dans l’environnement d’un partenaire et vous l’adaptez à sa réalité : construire l’évaluation avec son équipe, préparer ses données, entraîner et évaluer le modèle, puis le mettre en production là où il produit des résultats mesurables. Vous travaillez au sein d’une petite équipe déployée chez le partenaire, à titre de personne qui dirige l’entraînement des modèles sur place, dans les domaines du service à la clientèle, de la fidélisation, du commerce et plus encore, et vous faites le pont entre nos partenaires et l’équipe de Recherche.</p><p><strong>À quoi ressemblera votre quotidien</strong></p><ul><li><p>Travailler avec les équipes de données et d’affaires du partenaire pour transformer ses tâches réelles en un banc d’essai figé et réservé, couvrant ses cas d’usage prioritaires</p></li><li><p>Définir ce que signifie la réussite pour chaque tâche, soit l’exécution correcte, le respect des politiques, le coût et le temps de réponse, et construire les évaluateurs automatisés avec des vérifications humaines ponctuelles</p></li><li><p>Établir des références afin que les résultats puissent être comparés équitablement</p></li><li><p>Préparer les données d’entraînement dans l’environnement du partenaire par extraction, caviardage, déduplication, étiquetage et répartition entraînement/test, en utilisant uniquement les données nécessaires aux tâches convenues</p></li><li><p>Réaliser le post-entraînement en partenariat avec l’équipe de Recherche, en appliquant des méthodes modernes de réglage fin aux cas d’usage du partenaire</p></li><li><p>Exécuter l’entraînement sur l’infonuagique et les GPU du partenaire, ou dans un environnement qu’il approuve, selon ses règles de sécurité et d’accès</p></li><li><p>Concevoir des expériences qui montrent clairement aux partenaires ce qui détermine les résultats</p></li><li><p>Faire passer les modèles de l’évaluation à la production sur la base de preuves, puis surveiller la qualité, la latence et le coût une fois en service</p></li><li><p>Utiliser les résultats en production pour continuer d’améliorer le modèle</p></li><li><p>Présenter les résultats, la méthode et les compromis aux responsables des données et de la technologie chez le partenaire, et les défendre</p></li><li><p>Collaborer étroitement avec l’équipe de Recherche en lui transmettant ce que vous apprenez sur le terrain</p></li><li><p>Transformer chaque déploiement en outils réutilisables afin que le prochain partenaire avance plus vite</p></li><li><p>Maintenir des normes strictes de traitement des données, de confidentialité et de sécurité dans chaque environnement partenaire, et appuyer les examens de risque lié aux modèles, de sécurité et de conformité du partenaire avec une documentation claire des données, de l’entraînement et de l’évaluation</p></li></ul><p><strong>Le ou la candidat(e) idéal(e) possède</strong></p><ul><li><p>Avoir réalisé soi-même la boucle complète de post-entraînement, de la préparation des données au réglage fin d’un modèle à poids ouverts, à l’évaluation et au service, et non seulement des appels au service de réglage fin d’un fournisseur</p></li><li><p>Une expérience pratique du réglage fin supervisé et d’au moins une des approches suivantes, l’optimisation des préférences ou l’apprentissage par renforcement, y compris les méthodes à paramètres efficients comme LoRA</p></li><li><p>Une solide maîtrise de Python et de la pile d’entraînement standard, par exemple PyTorch, Hugging Face et vLLM, et de l’aisance à exécuter des tâches sur des GPU loués ou appartenant au client</p></li><li><p>Avoir construit des bancs d’essai et des évaluateurs à partir de données réelles désordonnées et les avoir utilisés pour démontrer qu’un modèle surpasse un autre en qualité, en coût et en latence</p></li><li><p>L’habitude de penser en ensembles réservés, en références et en ablations, et la capacité d’expliquer les limites d’un résultat aussi clairement que sa conclusion principale</p></li><li><p>Au moins deux déploiements en immersion chez un client d’entreprise, en travaillant dans ses systèmes, ses contrôles de données et ses examens de sécurité</p></li><li><p>L’assurance nécessaire pour présenter à des parties prenantes clientes de haut niveau, y compris des responsables des données et de la technologie, et pour remettre en question leurs positions</p></li><li><p>De solides compétences en ingénierie des données, en SQL, en pipelines, et en traitement et caviardage des renseignements personnels</p></li><li><p>Une compréhension des exigences de confidentialité, de sécurité et de risque lié aux modèles des clients réglementés comme les banques et les compagnies aériennes</p></li><li><p>Atout : une expérience en déploiement avancé, en recherche appliquée ou en IA appliquée au sein d’une entreprise native de l’IA qui entraîne ses propres modèles pour un domaine</p></li><li><p>Atout : l’entraînement et l’évaluation multilingues, ou une expérience des systèmes et des données du voyage, du transport aérien ou bancaires, comme les PSS, les GDS, la norme NDC, la billetterie, la fidélisation et les données de centre de contact</p></li><li><p>Atout : une expérience des systèmes agentiques et de l’utilisation d’outils, ou du travail aux côtés d’une équipe de recherche pour transformer ses méthodes en résultats chez un client</p></li><li><p>La volonté de voyager et de passer des périodes de plusieurs semaines sur place chez les partenaires, ainsi qu’une base dans le fuseau horaire de l’Est ou du Centre, avec un chevauchement quotidien avec les équipes partenaires et de Recherche avec lesquelles vous travaillez</p></li></ul><p><strong>Avantages sociaux</strong></p><ul><li><p>Une entreprise en démarrage bien financée et éprouvée, avec de grandes ambitions, un salaire compétitif et les avantages d’un régime d’actions pré-IPO</p></li><li><p>Hopper couvre 100 % des primes du régime d’assurance collective</p></li><li><p>Hopper offre une couverture vie, invalidité de courte durée et invalidité de longue durée</p></li><li><p>Un compte de dépenses santé qui couvre les frais médicaux et dentaires admissibles</p></li><li><p>Tous les employés et leurs personnes à charge ont accès aux services de télémédecine de Dialogue, en tout temps, où que vous soyez</p></li><li><p>Tous les employés ont accès à un régime REER avec retenues automatiques avant impôt à chaque paie</p></li><li><p>Renseignez-vous sur notre congé parental très généreux, bien au-delà des normes de l’industrie</p></li><li><p>Vacances illimitées</p></li><li><p>Allocation de voyage Carrot Cash</p></li><li><p>Accès à un espace de cotravail sur demande via FlexDesk, et une allocation pour le télétravail</p></li><li><p>Une culture entrepreneuriale où repousser les limites et prendre des risques fait partie du quotidien</p></li><li><p>Communication ouverte avec la direction et les leaders de l’entreprise</p></li><li><p>Des équipes petites et dynamiques, un impact considérable</p></li></ul><p><strong>À propos d’Hopper</strong><br>Chez Hopper, nous bâtissons la principale plateforme technologique de voyage au monde, et nous y parvenons en résolvant de vrais problèmes pour de vrais voyageurs partout sur la planète. Nos plateformes de réservation grand public Hopper et HTS (Hopper Technology Solutions), notre division B2B, travaillent ensemble pour offrir aux voyageurs ce que l’industrie n’a jamais proposé de façon fiable : transparence, flexibilité et économies réelles sur chaque voyage. Nous combinons d’énormes quantités de données et l’IA à des produits fintech exclusifs pour y arriver, non pas un simple moteur de réservation de plus, mais une façon fondamentalement meilleure de planifier et de vivre le voyage, pour nos clients comme pour nos partenaires. Nous sommes la preuve que ce qui est meilleur pour le client et ce qui est meilleur pour l’entreprise peuvent ne faire qu’un</p><p>Et nous continuons de croître rapidement! L’application Hopper a été téléchargée plus de 120 millions de fois, et 70 % de nos utilisateurs font partie de la génération Z et de la génération Y, les voyageurs de la prochaine génération. Aujourd’hui, notre plus grande occasion consiste à propulser la fintech du voyage, le commerce et la fidélisation pour certaines des plus grandes marques de l’industrie. Notre premier partenariat HTS, avec Capital One, a permis de lancer un portail de voyage dédié aux titulaires de cartes d’une grande marque financière, et nous avons depuis étendu notre présence auprès de certains des plus grands noms du voyage et du secteur bancaire, dont Air Canada, Uber, la Banque Royale du Canada (RBC) et Nubank, en propulsant aussi bien une simple intégration fintech qu’un portail de fidélisation voyage complet de bout en bout.</p><p>Voilà notre trajectoire : nous avons commencé comme une petite application perturbatrice dans l’univers du voyage, et nous sommes aujourd’hui le moteur qui propulse le fonctionnement des technologies de voyage.</p><p><strong>Concrètement, voici ce que cela représente :</strong></p><ul><li><p>Des milliards de dollars de voyages et de produits fintech de voyage transitent par Hopper et HTS chaque année.</p></li><li><p>Nos produits fintech, dont Annulation pour tout motif et Assistance en cas de perturbation pour tout motif, affichent une satisfaction client exceptionnellement élevée, parce que les conditions sont claires et les résolutions instantanées, sans poser de questions.</p></li><li><p>Près de 30 % des clients de l’application ajoutent un produit fintech à leur réservation, et ces clients sont 1,6 fois plus susceptibles de réserver de nouveau avec nous.</p></li><li><p>HTS génère maintenant plus de 90 % des activités, preuve de la rapidité avec laquelle le B2B a pris de l’ampleur.</p></li><li><p>Grâce à HTS, tout fournisseur de services de voyage (compagnies aériennes, hôtels, banques, agences de voyages) peut intégrer les solutions fintech, de commerce et d’IA de l’entreprise à ses propres canaux, qu’il s’agisse d’une seule intégration ou d’un portail de voyage complet de bout en bout.</p></li></ul><p>Prenez votre envol avec nous!<br>#LI-Remote</p><p><em>Bien que ce poste utilise des systèmes automatisés pour évaluer l’adéquation des candidatures, chaque décision déterminante est prise par un membre humain de notre équipe. Conformément à la réglementation locale, vous avez le droit de comprendre les principaux facteurs utilisés dans cette évaluation, de demander une correction de vos données, ou de demander une révision humaine de toute décision automatisée. Pour exercer ces droits, veuillez communiquer avec recruiting@hopper.com.</em><br>------------------------------------------------------------------------------------------------------<br><strong>About the Role</strong><br>Hopper powers travel for some of the world’s largest banks, airlines and travel companies, and our Research team builds travel-specialized models. As a Forward Deployed AI Engineer you take that work into a partner’s environment and make it theirs: building the evaluation with their team, preparing their data, training and evaluating the model, and putting it into production where it delivers measurable results. You work in a small forward-deployed team as the person who leads model training on site, across servicing, loyalty, commerce and more, and you are the bridge between our partners and Research.</p><p><strong>What would your day-to-day look like</strong></p><ul><li><p>Work with a partner’s data and business teams to turn their real tasks into a frozen, held-out benchmark across their priority use cases</p></li><li><p>Define what success means for each task, covering task completion, policy adherence, cost and response time, and build the automated graders with human spot checks</p></li><li><p>Establish baselines so results can be compared fairly</p></li><li><p>Prepare training data inside the partner’s environment through extraction, redaction, deduplication, labelling and train/test splits, using only the data the agreed tasks need</p></li><li><p>Run post-training in partnership with Research, applying modern fine-tuning methods to partner use cases</p></li><li><p>Run training on the partner’s cloud and GPUs, or in an environment they approve, under their security and access rules</p></li><li><p>Design experiments that show partners clearly what drives the results</p></li><li><p>Take models from evaluation into production based on evidence, then monitor quality, latency and cost once they are live</p></li><li><p>Use production results to keep improving the model</p></li><li><p>Present results, method and trade-offs to partner data and technology leaders, and defend them</p></li><li><p>Work closely with Research, feeding back what you learn in the field</p></li><li><p>Turn each deployment into reusable tooling so the next partner goes faster</p></li><li><p>Uphold strict data handling, privacy and security standards in every partner environment, and support partner model-risk, security and compliance reviews with clear documentation of data, training and evaluation</p></li></ul><p><strong>An ideal candidate has</strong></p><ul><li><p>Run the full post-training loop end to end themselves, from data preparation through fine-tuning an open-weight model, evaluation and serving, rather than only calling a vendor’s fine-tuning service</p></li><li><p>Working experience with supervised fine-tuning and at least one of preference optimization or reinforcement learning, including parameter-efficient methods such as LoRA</p></li><li><p>Experience in travel or travel-adjacent financial services: airlines, hotels, OTAs, metasearch, travel technology, or bank travel and loyalty programs.</p></li><li><p>You understand how travel actually works behind the scenes: bookings, changes, refunds, disruptions and loyalty, and why they're hard.</p></li></ul><ul><li><p>Strong Python and command of the standard training stack, for example PyTorch, Hugging Face and vLLM, with comfort running jobs on rented or customer GPUs</p></li><li><p>Built benchmarks and graders from messy real-world data and used them to show that one model beats another on quality, cost and latency</p></li><li><p>A habit of thinking in held-out sets, baselines and ablations, and can explain a result’s limits as clearly as its headline</p></li><li><p>At least two deployments embedded with an enterprise customer, working inside their systems, data controls and security reviews</p></li><li><p>Confidence presenting to and pushing back on senior customer stakeholders, including data and technology leaders</p></li><li><p>Strong data engineering skills across SQL, HTS, pipelines, PII handling and redaction</p></li><li><p>An understanding of the privacy, security and model-risk requirements of regulated customers such as banks and airlines</p></li><li><p>Bonus: forward-deployed, applied research or applied AI experience at an AI-native company that trains its own models for a domain</p></li><li><p>Bonus: multilingual training and evaluation, or experience with travel, airline or banking systems and data such as PSS, GDS, NDC, ticketing, loyalty and contact-centre data</p></li><li><p>Bonus: experience with agent systems and tool use, or working alongside a research team to turn their methods into results at a customer</p></li><li><p>Willingness to travel and spend multi-week stretches on site with partners, plus a base in the Eastern or Central time zone with daily overlap across the partner and Research teams you work with</p></li></ul><p><strong>Perks and benefits of working with us</strong></p><ul><li><p>Well-funded and proven startup with large ambitions, competitive salary and upsides of pre-IPO equity packages</p></li><li><p>Hopper covers 100% of the premiums for group insurance plan</p></li><li><p>Hopper offers life, short term and long term disability coverage</p></li><li><p>HSA that covers eligible medical and dental expenses</p></li><li><p>All employees and dependents have access to Dialogue’s telemedicine services, anytime, anywhere</p></li><li><p>All employees have access to an RRSP plan with automatic pre-tax withdrawals per pay</p></li><li><p>Please ask us about our very generous parental leave, much above industry standards!</p></li><li><p>Unlimited PTO</p></li><li><p>Carrot Cash travel stipend</p></li><li><p>Access to co-working space on demand through FlexDesk AND Work-from-home stipend</p></li><li><p>Entrepreneurial culture where pushing limits and taking risks is everyday business</p></li><li><p>Open communication with management and company leadership</p></li><li><p>Small, dynamic teams = massive impact</p></li></ul><p><strong>About Hopper</strong><br>At Hopper, we’re building the leading travel technology platform in the world, and we’re doing it by solving real problems for real travelers globally. Our Hopper consumer booking platforms and HTS (Hopper Technology Solutions), our B2B business, work together to give travelers something the industry has never reliably offered: transparency, flexibility, and real savings on every trip. We combine massive amounts of data and AI with proprietary fintech products to make that happen, not just another booking engine, but a fundamentally better way to plan and experience travel for our customers and our partners. We are proof that better-for-the-customer and better-for-the-business can be one in the same</p><p>And we’re continuing to grow fast! The Hopper app has been downloaded over 120 million times, with 70% of our users being Gen Z and Millennials, next-generation travelers. Today, our biggest opportunity is powering travel fintech, commerce, and loyalty for some of the biggest brands in the industry. Our first HTS partnership with Capital One helped launch a dedicated travel portal for a major financial brand’s cardholders, and we’ve since expanded across some of the biggest names in travel and banking, including Air Canada, Uber, Royal Bank of Canada (RBC), and Nubank, powering everything from a single fintech integration to a full end-to-end travel loyalty portal.</p><p>That’s our trajectory: we started as a small, disruptive app within the travel space, and now we’re the engine under the hood powering how Travel Tech works.</p><p><strong>What that looks like in practice:</strong></p><ul><li><p>Billions of dollars in travel and travel fintech move through Hopper and HTS every year.</p></li><li><p>Our fintech products, including Cancel for Any Reason and Disruption Assistance for Any Reason, post exceptionally strong customer satisfaction because the terms are clear and resolutions are instant, no questions asked.</p></li><li><p>Nearly 30% of app customers add a fintech product to their booking, and those customers are 1.6x more likely to book with us again.</p></li><li><p>HTS now drives more than 90% of the business, proof of how fast B2B has scaled.</p></li><li><p>Through HTS, any travel provider (airlines, hotels, banks, travel agencies) can plug the company’s fintech, commerce and AI solutions into their own channels, whether that’s a single integration or a full end-to-end travel portal.</p></li></ul><p>Come take off with us!<br>#LI-Remote</p><p><em>While this role utilizes automated systems to assess candidate suitability, every actionable decision is made by a human member of our team. Under local regulations, you have the right to understand the principal factors used in this assessment, request a correction of your data, or request a human review of any automated decision. To exercise these rights, please contact recruiting@hopper.com</em></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/ingnieure-ia-en-dploiement-avanc-travel-intelligence-forward-deployed-ai-engineer-travel-intelligence-hopper</p>",
+      "posted_at": "2026-11-20T00:00:00+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "6117ef32-42b0-4c3f-beaa-503a5ce6b2f9",
+      "title": "Forward Deployed Engineer, Applied ML and Data",
+      "url": "https://remotejobs.org/remote-jobs/forward-deployed-engineer-applied-ml-and-data-hopper",
+      "apply_url": "https://remotejobs.org/remote-jobs/forward-deployed-engineer-applied-ml-and-data-hopper",
+      "company": {
+        "name": "Hopper",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/5c1797751f6290d27c0b4fe17cf2ac507bcbb58ab991650f47adaff36c3ef17d.jpeg",
+        "website": null,
+        "url": "https://remotejobs.org/companies/hopper"
+      },
+      "category": {
+        "name": "Programming",
+        "slug": "programming"
+      },
+      "location": "CAN; Ontario, CAN; Alberta, CAN; Toronto, Ontario, CAN",
+      "location_normalization": {
+        "raw": "CAN; Ontario, CAN; Alberta, CAN; Toronto, Ontario, CAN",
+        "input": {},
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [
+          "toronto"
+        ],
+        "work_arrangement": "unknown",
+        "allowed_countries": [],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "allowed_subdivisions": [
+          "CA-AB",
+          "CA-ON"
+        ],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": null,
+      "search_facts": {
+        "status": "unknown",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": null,
+        "role_family": null,
+        "required_skills": [],
+        "mentioned_skills": [],
+        "preferred_skills": [],
+        "experience_requirements": []
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "12363205",
+      "direct_apply": null,
+      "description": "<p><strong>About the Role</strong></p><p>The Forward Deployed Engineer embeds with Hopper's partners, some of the world's largest banks, airlines and travel companies, to bring our AI into their business end to end: getting the data, building and tuning the models, and taking them to production. You will lead data and modelling on site as part of a small forward-deployed team, acting as the bridge between partners and Research. What makes the role distinctive is that the data that matters lives inside partners' own systems, so you make it usable, securely, and turn each deployment into reusable tooling that makes the next partner faster.</p><p><strong><br>What would your day-to-day look like</strong></p><ul><li><p>Work on site with partner teams to connect to their systems, including on-premise and legacy platforms, and build secure, reliable data feeds.</p></li><li><p>Map messy, inconsistent commercial data from many sources into one clean model.</p></li><li><p>Build and run pipelines for large historical and near-real-time datasets, with monitoring and data quality checks.</p></li><li><p>Meet partners' security, privacy and IT review requirements, taking only the data the product needs.</p></li><li><p>Design, train and evaluate production ML models for a high-volume commercial use case, choosing the right approach and being clear about the trade-offs.</p></li><li><p>Build the evaluation and measurement that show whether the models are good enough, and where they aren't.</p></li><li><p>Build low-latency, high-throughput services that serve the models in production.</p></li><li><p>Design how the system decides what to answer and how, and how it improves from real usage.</p></li><li><p>Own reliability, cost and performance once the system is live.</p></li><li><p>Partner directly with technology and business teams, from first conversations to go-live.</p></li><li><p>Collaborate with Research and Product, feeding back what you learn in the field.</p></li><li><p>Turn each deployment into reusable tooling so the next partner goes faster.</p></li></ul><p><strong>An ideal candidate has</strong></p><ul><li><p>5+ years building and shipping production ML systems end to end, covering data, modelling, serving and monitoring, which you will apply to a high-volume commercial use case from day one.</p></li><li><p>Strong data engineering experience, having built and kept running pipelines over large, messy datasets, which you will use to turn partner data into one clean model.</p></li><li><p>Experience integrating with systems you don't control, such as enterprise, on-premise or legacy platforms, and working through a customer's security and IT review, so you can get partner data flowing securely.</p></li><li><p>Experience building and running services that handle thousands of requests per second at sub-second response times, which you will use to serve models in production.</p></li><li><p>Travel industry experience (airlines, hotels, OTAs, metasearch or travel technology) working with availability, rates, schedules and inventory, and the systems behind them such as GDS, NDC and airline and hotel reservation systems, so you can read partner data quickly and spot what matters.</p></li><li><p>Sound judgment on modelling trade-offs and the ability to explain them to non-technical partners, which you will use to guide partner teams through decisions from first conversations to go-live.</p></li><li><p>At least two deployments embedded with an enterprise customer, working inside their systems, data controls and security reviews, so you are ready to lead data and modelling on site.</p></li><li><p>Willingness to travel and spend multi-week stretches on site with partner teams.</p></li><li><p>Bonus: experience in both airline and hotel data, or in another high-volume marketplace (e-commerce, ad tech, fintech) as well as travel, to bring patterns from other verticals to each deployment.</p></li><li><p>Bonus: forecasting, estimation or recommendation models in production, and experience working alongside a research team to turn their methods into results at a customer.</p></li><li><p>Bonus: forward-deployed, solutions or integration engineering experience at an enterprise software or data company, or an advanced degree in computer science, statistics or a related field.</p></li></ul><p><br><strong>Perks and benefits of working with us</strong></p><ul><li><p>Well-funded and proven startup with large ambitions, competitive salary and upsides of pre-IPO equity packages</p></li><li><p>Hopper covers 100% of the premiums for group insurance plan</p></li><li><p>Hopper offers life, short term and long term disability coverage</p></li><li><p>HSA that covers eligible medical and dental expenses</p></li><li><p>All employees and dependents have access to Dialogue’s telemedicine services, anytime, anywhere</p></li><li><p>All employees have access to an RRSP plan with automatic pre-tax withdrawals per pay</p></li><li><p>Please ask us about our very generous parental leave, much above industry standards!</p></li><li><p>Unlimited PTO</p></li><li><p>Carrot Cash travel stipend</p></li><li><p>Access to co-working space on demand through FlexDesk AND Work-from-home stipend</p></li><li><p>Entrepreneurial culture where pushing limits and taking risks is everyday business</p></li><li><p>Open communication with management and company leadership</p></li><li><p>Small, dynamic teams = massive impact</p></li></ul><p><br><strong>About Hopper</strong><br>At Hopper, we’re building the leading travel technology platform in the world, and we’re doing it by solving real problems for real travelers globally. Our Hopper consumer booking platforms and HTS (Hopper Technology Solutions), our B2B business, work together to give travelers something the industry has never reliably offered: transparency, flexibility, and real savings on every trip. We combine massive amounts of data and AI with proprietary fintech products to make that happen, not just another booking engine, but a fundamentally better way to plan and experience travel for our customers and our partners. We are proof that better-for-the-customer and better-for-the-business can be one in the same</p><p>And we’re continuing to grow fast! The Hopper app has been downloaded over 120 million times, with 70% of our users being Gen Z and Millennials, next-generation travelers. Today, our biggest opportunity is powering travel fintech, commerce, and loyalty for some of the biggest brands in the industry. Our first HTS partnership with Capital One helped launch a dedicated travel portal for a major financial brand’s cardholders, and we’ve since expanded across some of the biggest names in travel and banking, including Air Canada, Uber, Royal Bank of Canada (RBC), and Nubank, powering everything from a single fintech integration to a full end-to-end travel loyalty portal.</p><p>That’s our trajectory: we started as a small, disruptive app within the travel space, and now we’re the engine under the hood powering how Travel Tech works.</p><p><strong>What that looks like in practice:</strong></p><ul><li><p>Billions of dollars in travel and travel fintech move through Hopper and HTS every year.</p></li><li><p>Our fintech products, including Cancel for Any Reason and Disruption Assistance for Any Reason, post exceptionally strong customer satisfaction because the terms are clear and resolutions are instant, no questions asked.</p></li><li><p>Nearly 30% of app customers add a fintech product to their booking, and those customers are 1.6x more likely to book with us again.</p></li><li><p>HTS now drives more than 90% of the business, proof of how fast B2B has scaled.</p></li><li><p>Through HTS, any travel provider (airlines, hotels, banks, travel agencies) can plug the company’s fintech, commerce and AI solutions into their own channels, whether that’s a single integration or a full end-to-end travel portal.</p></li></ul><p>Come take off with us!<br>#LI-Remote</p><p><em>While this role utilizes automated systems to assess candidate suitability, every actionable decision is made by a human member of our team. Under local regulations, you have the right to understand the principal factors used in this assessment, request a correction of your data, or request a human review of any automated decision. To exercise these rights, please contact recruiting@hopper.com</em></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/forward-deployed-engineer-applied-ml-and-data-hopper</p>",
+      "posted_at": "2026-11-20T00:00:00+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
       "id": "67d0e0d1-f4d1-4cbc-aa66-c740c9e92149",
       "title": "Senior WSD Developer (399)",
       "url": "https://remotejobs.org/remote-jobs/senior-wsd-developer-399-itech-ag",
@@ -3206,202 +3338,73 @@
       "original_language": null
     },
     {
-      "id": "c675f19e-0651-4d1a-a2d7-a28b8d514db1",
-      "title": "Senior Agentic Engineer (UIPath)",
-      "url": "https://remotejobs.org/remote-jobs/senior-agentic-engineer-uipath-upstaff",
-      "apply_url": "https://remotejobs.org/remote-jobs/senior-agentic-engineer-uipath-upstaff",
+      "id": "add160e4-a576-454a-9117-7aa174fb08e2",
+      "title": "Forward Deployed Engineer, Applied ML and Data",
+      "url": "https://remotejobs.org/remote-jobs/forward-deployed-engineer-applied-ml-and-data-hopper-a54bca34b55d4a889340efca3aaa20ec",
+      "apply_url": "https://remotejobs.org/remote-jobs/forward-deployed-engineer-applied-ml-and-data-hopper-a54bca34b55d4a889340efca3aaa20ec",
       "company": {
-        "name": "Upstaff",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/9c72fef1ff6193ee9f9d3d56a466dbcbee48817e450ff4555db56114b5bb4375.png",
-        "website": "https://upstaff.com",
-        "url": "https://remotejobs.org/companies/upstaff"
+        "name": "Hopper",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/5c1797751f6290d27c0b4fe17cf2ac507bcbb58ab991650f47adaff36c3ef17d.jpeg",
+        "website": null,
+        "url": "https://remotejobs.org/companies/hopper"
       },
       "category": {
         "name": "Programming",
         "slug": "programming"
       },
-      "location": null,
+      "location": "USA; Austin, Texas, USA; Dallas, Texas, USA; Miami, Florida, USA; New Jersey, USA; Boston, Massachusetts, USA; New York, New York, USA",
       "location_normalization": {
-        "raw": null,
+        "raw": "USA; Austin, Texas, USA; Dallas, Texas, USA; Miami, Florida, USA; New Jersey, USA; Boston, Massachusetts, USA; New York, New York, USA",
         "input": {},
-        "scope": "unknown",
-        "status": "unknown",
+        "scope": "restricted",
+        "status": "partial",
         "regions": [],
         "version": "job-location/1",
         "timezones": [],
-        "unresolved": [],
+        "unresolved": [
+          "austin",
+          "boston",
+          "dallas",
+          "miami"
+        ],
         "work_arrangement": "unknown",
         "allowed_countries": [],
         "reference_version": "iso-3166@4.4.0",
         "excluded_countries": [],
-        "allowed_subdivisions": [],
+        "allowed_subdivisions": [
+          "US-FL",
+          "US-MA",
+          "US-NJ",
+          "US-NY",
+          "US-TX"
+        ],
         "excluded_subdivisions": []
       },
       "applicant_location_requirements": null,
       "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": "senior",
-        "role_family": null,
-        "required_skills": [
-          "dotnet",
-          "sql"
-        ],
-        "mentioned_skills": [],
-        "preferred_skills": [],
-        "experience_requirements": []
-      },
-      "salary_min": 3000,
-      "salary_max": 3000,
-      "salary_text": "USD 3,000/month",
-      "salary_source_text": null,
-      "salary_currency": "USD",
-      "salary_period": "month",
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": "e88f78c01a8ed0fed22b7ef0fbe70e3a3497de457efe0651567d8c02a2cfea14",
-      "direct_apply": null,
-      "description": "<p>Senior Agentic Engineer (UiPath) for a global payments platform operating in 40+ countries.</p>\n<p>Must have 5+ years in RPA, 3+ years leading UiPath delivery, mandatory UiARD certification, and hands-on experience with UiPath ReFramework, Orchestrator, AI Center, Document Understanding, and LLM integrations (OpenAI/Gemini).</p>\n<p>Strong .NET, SQL, and API skills required. Fintech/payments experience is a plus. Remote: Poland, Spain, Ukraine, or Romania, subject to local employment/contract requirements.</p>\n<p>Urgent start: Dec 1.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-agentic-engineer-uipath-upstaff</p>",
-      "posted_at": "2026-11-20T00:00:00+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "af104f22-f579-49ba-aab2-f9cd6f138d37",
-      "title": "Software Engineer, Dash",
-      "url": "https://remotejobs.org/remote-jobs/software-engineer-dash-liftoff-llc",
-      "apply_url": "https://remotejobs.org/remote-jobs/software-engineer-dash-liftoff-llc",
-      "company": {
-        "name": "Liftoff",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/3a537d63b84584e725ea476627b0cb0eeec4baaf314d8cf41d45f873d9c72fe7.png",
-        "website": "https://liftoff.io",
-        "url": "https://remotejobs.org/companies/liftoff"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "United States",
-      "location_normalization": {
-        "raw": "United States",
-        "input": {},
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "US"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": null,
-      "search_facts": {
-        "status": "known",
+        "status": "unknown",
         "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
         "seniority": null,
-        "role_family": "software-engineering",
-        "required_skills": [
-          "aws",
-          "docker",
-          "golang",
-          "java",
-          "kubernetes",
-          "nodejs",
-          "python",
-          "react",
-          "typescript"
-        ],
+        "role_family": null,
+        "required_skills": [],
         "mentioned_skills": [],
         "preferred_skills": [],
         "experience_requirements": []
       },
-      "salary_min": 180000,
-      "salary_max": 260000,
-      "salary_text": "USD 180,000–260,000/year",
-      "salary_source_text": "USD 180000 - 260000",
+      "salary_min": 360000,
+      "salary_max": 425000,
+      "salary_text": "USD 360,000–425,000/year",
+      "salary_source_text": null,
       "salary_currency": "USD",
       "salary_period": "year",
       "type": "Full-time",
       "employment_types": [
         "FULL_TIME"
       ],
-      "employer_job_id": null,
+      "employer_job_id": "12363207",
       "direct_apply": null,
-      "description": "<p>Liftoff is a leading AI-powered performance marketing platform for the mobile app economy. Our end-to-end technology stack helps app marketers acquire and retain high-value users, while enabling publishers to maximize revenue across programmatic and direct demand.</p>\n<p>Liftoff’s solutions, including Accelerate, Direct, Monetize, Intelligence, and Vungle Exchange, support over 6,600 mobile businesses across 74 countries in sectors such as gaming, social, finance, ecommerce, and entertainment. Founded in 2012 and headquartered in Redwood City, CA, Liftoff has a diverse, global presence.</p>\n<h2><strong>About the Role:</strong></h2>\n<p>As a Software Engineer at Liftoff working on the Dash team, you will be key in building and scaling the core systems that power our mobile growth platform. You’ll be part of a high-impact engineering team responsible for developing web applications, backing services, APIs and tools that help app developers acquire users, optimize engagement, and drive monetization across millions of devices worldwide.</p>\n<p>Your contributions will directly impact the performance, reliability, and scalability of our ad delivery, user acquisition, and analytics products. From designing efficient UIs, APIs and services to supporting machine learning pipelines, you'll help ensure our platform remains best-in-class for mobile growth and monetization.</p>\n<h2><strong>Responsibilities:</strong></h2>\n<ul>\n<li>Design, build, and maintain UIs, APIs and backend systems that support liftoff accelerate real-time campaign management, bidding, user targeting, and in-app monetization, primarily by developing configuration management and analytics services.</li>\n<li>Work with large-scale data sources to enable real-time analytics dashboards and reports.</li>\n<li>Improve our development environment and engineering systems with AI and LLM tooling, championing agentic workflows that raise the whole team’s velocity and quality.</li>\n<li>Optimize backend systems for high availability and low-latency response under peak global traffic.</li>\n<li>Contribute to the scalability and observability of the platform through metrics, logging, and alerting best practices.</li>\n<li>Develop high value user interfaces that optimize user flow, for both internal and external consumers securely, with a high bar for safety and correctness.</li>\n<li>Partner closely with product managers, UX stakeholders, operations and bidding / ML engineers to deliver cohesive end-to-end features.</li>\n<li>Participate in architectural design documentation, discussions and long-term technical planning for infrastructure, systems and platform evolution.</li>\n<li>Continuously evaluate emerging tools and technologies in the mobile ad tech landscape and bring forward recommendations.</li>\n<li>Actively participate in code reviews and mentorship opportunities to strengthen team-wide engineering excellence.</li>\n<li>Other duties as assigned.</li>\n</ul>\n<h2><strong>Requirements:</strong></h2>\n<ul>\n<li>Bachelor’s or Master’s degree in Computer Science, Engineering, or a related field. Equivalent practical experience may be considered in place of a formal degree.</li>\n<li>Experience building full stack UI systems.</li>\n<li>Strong programming skills in one or more languages such as Go, Java, Python, or Typescript/Node.js.</li>\n<li>Solid understanding of data structures, algorithms, and system design.</li>\n<li>Experience with cloud infrastructure (AWS, GCP, or Azure) and container orchestration (Docker, Kubernetes).</li>\n<li>Familiarity with leading edge UI technologies, including React.</li>\n<li>You operate with Agency and Urgency by taking initiative to solve problems and drive outcomes independently, with a strong sense of ownership and accountability.</li>\n<li>You have a Growth Mindset and are adaptable, quick to test, iterate, and improve both ideas and your own skill set.</li>\n<li>Experience in the mobile advertising or app monetization space is a plus.</li>\n<li>Exposure to mobile SDKs, ad exchanges, or real-time bidding protocols is a plus.</li>\n<li>Understanding of data pipelines, stream processing, and large-scale analytics is a plus.</li>\n<li>Passion for building performant, scalable systems that operate at a global scale.</li>\n</ul>\n<hr>\n<p><strong>Location:</strong><br>\nThis role is eligible for full-time remote work in one of our entities: CA, CO, ID, IL, FL, GA, MA, MI, MN, MO, NJ, NV, NY, OR, PA, TX, UT, and WA.</p>\n<p><em>We are a remote-first company with US hubs in Redwood City, Los Angeles, and New York City.</em></p>\n<p><strong>Travel Expectations:</strong>We offer several opportunities for in-person team gatherings, including but not limited to project meetings, regional meetups, and company-wide events. We expect our employees to attend these gatherings at least once per quarter. These gatherings provide essential opportunities for collaboration, communication, and team building.</p>\n<p><strong>Compensation:</strong><br>\nLiftoff offers all employees a full compensation package that includes equity and health/vision/dental benefits associated with your country of residence. Base compensation will vary based on the candidate's location and experience.</p>\n<p>The following are our base salary ranges for this role:</p>\n<ul>\n<li><strong>SF Bay Area, NYC, Los Angeles/Orange County</strong>: $210k - $260k</li>\n<li><strong>Seattle/Olympia, Austin, San Diego, Santa Barbara, Boston:</strong> $193k - $239k</li>\n<li><strong>All other cities and towns in our approved states:</strong> $180k - $223k</li>\n</ul>\n<hr>\n<hr>\n<p>Liftoff offers a fast-paced, collaborative, and innovative work environment where employees are empowered to grow and make an impact. We’re shaping the future of the mobile app ecosystem—join us and help accelerate what’s next.</p>\n<p>Liftoff’s compensation strategy includes competitive salaries, equity, and benefits designed to support employee well-being and performance. We benchmark compensation based on role, level, and location to ensure fairness and market alignment. Benefits may include medical coverage, wellness stipends, and additional perks based on your country of residence.</p>\n<p>Liftoff is an equal opportunity employer. We are committed to creating an inclusive environment for all employees and applicants regardless of race, ethnicity, national origin, age, marital status, disability, sexual orientation, gender identity, religion, veteran status, or any other characteristic protected by applicable law.</p>\n<h2>Agency and Third Party Recruiter Notice:</h2>\n<p>Liftoff does not accept unsolicited resumes from individual recruiters or third-party recruiting agencies in response to job postings. No fee will be paid to third parties who submit unsolicited candidates directly to our hiring managers or Recruiting Team. All candidates must be submitted via our Applicant Tracking System by approved Liftoff vendors who have been expressly requested to make a submission by our Recruiting Team for a specific job opening. No placement fees will be paid to any firm unless such a request has been made by the Liftoff Recruiting Team and such a candidate was submitted to the Liftoff Recruiting Team via our Applicant Tracking System.</p>\n<p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/software-engineer-dash-liftoff-llc</p>",
-      "posted_at": "2026-11-19T21:03:01+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "eb538d7a-fd9f-4a8b-b018-d4bd84d813fa",
-      "title": "Senior iOS Developer",
-      "url": "https://remotejobs.org/remote-jobs/senior-ios-developer-airalo",
-      "apply_url": "https://remotejobs.org/remote-jobs/senior-ios-developer-airalo",
-      "company": {
-        "name": "Airalo",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/f490aa7cc229e7518d9c35aea8e95c2e93aabdf477d9d8c30cbf33ffdc9ec69b.webp",
-        "website": "https://airalo-public.notion.site",
-        "url": "https://remotejobs.org/companies/airalo"
-      },
-      "category": {
-        "name": "Programming",
-        "slug": "programming"
-      },
-      "location": "Spain, United Kingdom",
-      "location_normalization": {
-        "raw": "Spain, United Kingdom",
-        "input": {},
-        "scope": "restricted",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [
-          "ES",
-          "GB"
-        ],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": null,
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": "senior",
-        "role_family": null,
-        "required_skills": [],
-        "mentioned_skills": [
-          "swift"
-        ],
-        "preferred_skills": [],
-        "experience_requirements": []
-      },
-      "salary_min": 91600,
-      "salary_max": 137400,
-      "salary_text": "GBP 91,600–137,400/year",
-      "salary_source_text": "GBP 91600 - 137400",
-      "salary_currency": "GBP",
-      "salary_period": "year",
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<h2>Help Us Build The Future of Travel</h2><p>At Airalo, we're making it easier for people to stay connected wherever they travel. As the world's first eSIM store, we help millions of travelers access affordable mobile data in 200+ countries and regions around the world.</p><p>Today, we're a team of 400+ people across 60+ countries, building a product used by travelers every day. We've grown quickly, but we've worked hard to keep what matters: trust, ownership, and the freedom for people to do great work without unnecessary layers or bureaucracy.</p><p>We're fully remote by design, genuinely global, and united by a shared mission to make travel simpler for everyone.</p><h2>Your Next Destination</h2><ul>\n<li>\n<strong>Location:</strong> Remote, anywhere in Spain or the UK.</li>\n<li>\n<strong>Contract:</strong><ul>\n<li>Spain: Full-time, permanent <em>contrato indefinido</em> via Deel (our employer of record in Spain)</li>\n<li>UK: Full-time, permanent</li>\n</ul>\n</li>\n<li>\n<strong>Benefits: </strong>Learn more about our benefits here in this link - </li>\n<li>\n<strong>Languages:</strong> English is our main working language day to day, so you'll need to be comfortable communicating in it both in meetings and async.</li>\n</ul><p>Curious what it's actually like to work at Airalo? We've put together a guide for each of the hubs we hire from most, covering our benefits, remote culture, employment setup, and what our team values most:</p><ul>\n<li>\n<strong>Life at Airalo · España</strong>: </li>\n<li>\n<strong>Life at Airalo · United Kingdom</strong>: </li>\n</ul><p>You are someone who cares deeply about the quality of your work, the people who use it, and the success of your team.</p><p>You're a strong engineer with a wide view of the industry and an eye for detail, and you think in outcomes rather than tasks: why something is being built, how it will feel for users, and whether it made a difference once it shipped.</p><p>You're a natural collaborator who enjoys shaping product decisions, and you communicate openly, so people always know where things stand. You're fluent in AI-assisted development and use it with judgment, validating the outputs it produces.</p><p>We are looking for a <strong>Senior iOS engineer</strong> to join the team building the Airalo app. You'll make the technical decisions that keep the app healthy as it grows, and help drive technical excellence across the team.</p><h2>What You'll Do:</h2><ul>\n<ul><li>Own features end to end: shape them with Product and Design, build and release them, and follow how they perform, so users get a best-in-class experience</li><li>Make sound architecture decisions and trade-offs, and write them up as proposals when the team needs to align</li><li>Own app performance and stability: investigate production issues, debug and profile, and fix root causes</li><li>Keep quality high through meaningful tests and thoughtful code reviews</li><li>Run product experiments and use the results to decide what to build next</li><li>Stay current with the iOS ecosystem and adopt new Apple platform capabilities early</li><li>Mentor engineers and contribute to our mobile guild, sharing knowledge across iOS and Android</li></ul></ul><h2>What You'll Bring:</h2><ul>\n<ul><li>5+ years of iOS development in Swift, with production experience in SwiftUI and UIKit</li><li>Deep platform fundamentals: architecture, concurrency, memory, performance, security and debugging</li><li>A track record of shipping and evolving apps at product companies, in cross-functional teams with product managers, designers, QA and backend engineers</li><li>Proven ability to work independently: you organise your own work, get yourself unblocked through research, your team or the guild, and deliver predictably, flagging early when plans change</li><li>Advanced AI-assisted development: you've built AI into how you design, code, test and review</li><li>Excellent written and spoken communication in English</li></ul><h2>Nice to have:</h2>\n<ul><li>Experience building accessible, localized apps</li><li>Experience making apps fast and reliable on poor or unstable connections</li><li>Experience with in-app payments or e-commerce flows</li><li>A strong eye for UI craft and Apple's Human Interface Guidelines</li><li>Familiarity with agentic development workflows</li></ul></ul><p>If you are interested in this position, please apply via the link.</p><h2>Why People Join Us</h2><h2>🇪🇸 Why people join us in Spain</h2><p>We started Airalo to make staying connected effortless, wherever you are in the world. Today, millions of travelers rely on our eSIMs, and many of the people building the product were customers first.</p><p>Our team is united by a shared belief that great work happens when people are trusted to own what they do. As Airalo continues to grow, so do the opportunities to learn, take on new challenges, and make a real impact.</p><p>For many of our teammates in Spain, it's the combination of stability, flexibility, and genuine work-life balance that makes Airalo feel like home.</p><h2>🇬🇧 Why people join us in the UK</h2><p>We started Airalo to make staying connected effortless, wherever you are in the world. Today, millions of travelers rely on our eSIMs, and many of the people building the product first discovered us as customers.</p><p>Our team spans 60+ countries, but what people often notice quickly is how work actually feels here. There's trust to own what you do, space to focus without constant layers of process, and a clear sense of what you're responsible for from day one.</p><p>As Airalo continues to grow, people tend to stay for a mix of things: the chance to work on a product used globally, the autonomy to shape how they work, and the opportunity to keep taking on new challenges without getting stuck in one lane.</p><h2>Before You Hit Apply</h2><p>By applying, you acknowledge and agree that, in case of successful application, Airalo may request to run background checks as a condition for entering into an agreement with you. Rest assured that these checks will only occur upon your prior consent and at the end of the selection process, and will be strictly limited to what is allowed under the laws that are applicable to you. All data that you share or that we collect in connection with such checks will be processed in accordance with our Privacy Policy, available here: </p><p>We sincerely thank all applicants in advance for submitting their interest in this opportunity. Airalo is an equal-opportunity employer and values diversity, equity &#x26; inclusion. We do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We are committed to providing reasonable accommodations upon request for individuals with disabilities throughout our job interview process.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-ios-developer-airalo</p>",
-      "posted_at": "2026-11-19T20:58:21+00:00",
+      "description": "<p><strong>About the Role</strong></p><p>The Forward Deployed Engineer embeds with Hopper's partners, some of the world's largest banks, airlines and travel companies, to bring our AI into their business end to end: getting the data, building and tuning the models, and taking them to production. You will lead data and modelling on site as part of a small forward-deployed team, acting as the bridge between partners and Research. What makes the role distinctive is that the data that matters lives inside partners' own systems, so you make it usable, securely, and turn each deployment into reusable tooling that makes the next partner faster.</p><p><strong><br>What would your day-to-day look like</strong></p><ul><li><p>Work on site with partner teams to connect to their systems, including on-premise and legacy platforms, and build secure, reliable data feeds.</p></li><li><p>Map messy, inconsistent commercial data from many sources into one clean model.</p></li><li><p>Build and run pipelines for large historical and near-real-time datasets, with monitoring and data quality checks.</p></li><li><p>Meet partners' security, privacy and IT review requirements, taking only the data the product needs.</p></li><li><p>Design, train and evaluate production ML models for a high-volume commercial use case, choosing the right approach and being clear about the trade-offs.</p></li><li><p>Build the evaluation and measurement that show whether the models are good enough, and where they aren't.</p></li><li><p>Build low-latency, high-throughput services that serve the models in production.</p></li><li><p>Design how the system decides what to answer and how, and how it improves from real usage.</p></li><li><p>Own reliability, cost and performance once the system is live.</p></li><li><p>Partner directly with technology and business teams, from first conversations to go-live.</p></li><li><p>Collaborate with Research and Product, feeding back what you learn in the field.</p></li><li><p>Turn each deployment into reusable tooling so the next partner goes faster.</p></li></ul><p><strong>An ideal candidate has</strong></p><ul><li><p>5+ years building and shipping production ML systems end to end, covering data, modelling, serving and monitoring, which you will apply to a high-volume commercial use case from day one.</p></li><li><p>Strong data engineering experience, having built and kept running pipelines over large, messy datasets, which you will use to turn partner data into one clean model.</p></li><li><p>Experience integrating with systems you don't control, such as enterprise, on-premise or legacy platforms, and working through a customer's security and IT review, so you can get partner data flowing securely.</p></li><li><p>Experience building and running services that handle thousands of requests per second at sub-second response times, which you will use to serve models in production.</p></li><li><p>Travel industry experience (airlines, hotels, OTAs, metasearch or travel technology) working with availability, rates, schedules and inventory, and the systems behind them such as GDS, NDC and airline and hotel reservation systems, so you can read partner data quickly and spot what matters.</p></li><li><p>Sound judgment on modelling trade-offs and the ability to explain them to non-technical partners, which you will use to guide partner teams through decisions from first conversations to go-live.</p></li><li><p>At least two deployments embedded with an enterprise customer, working inside their systems, data controls and security reviews, so you are ready to lead data and modelling on site.</p></li><li><p>Willingness to travel and spend multi-week stretches on site with partner teams.</p></li><li><p>Bonus: experience in both airline and hotel data, or in another high-volume marketplace (e-commerce, ad tech, fintech) as well as travel, to bring patterns from other verticals to each deployment.</p></li><li><p>Bonus: forecasting, estimation or recommendation models in production, and experience working alongside a research team to turn their methods into results at a customer.</p></li><li><p>Bonus: forward-deployed, solutions or integration engineering experience at an enterprise software or data company, or an advanced degree in computer science, statistics or a related field.</p></li></ul><p><br><strong>Perks and benefits of working with us</strong></p><ul><li><p>Well-funded and proven startup with large ambitions, competitive salary and the upsides of pre-IPO equity packages</p></li><li><p>Unlimited PTO</p></li><li><p>Carrot Cash travel stipend</p></li><li><p>Access to co-working space on demand through FlexDesk AND Work-from-home stipend</p></li><li><p>Please ask us about our very generous parental leave, much above industry standards!</p></li><li><p>Entrepreneurial culture where pushing limits and taking risks is everyday business</p></li><li><p>Open communication with management and company leadership</p></li><li><p>Small, dynamic teams = massive impact</p></li><li><p>100% employer paid Medical, Dental and Vision coverage for employees</p></li><li><p>Access to Disability &#x26; Life insurance</p></li><li><p>Health Reimbursement Account (HRA)</p></li><li><p>DCA/ FSA and access to 401k plan</p></li></ul><p><br><strong>About Hopper</strong><br>At Hopper, we’re building the leading travel technology platform in the world, and we’re doing it by solving real problems for real travelers globally. Our Hopper consumer booking platforms and HTS (Hopper Technology Solutions), our B2B business, work together to give travelers something the industry has never reliably offered: transparency, flexibility, and real savings on every trip. We combine massive amounts of data and AI with proprietary fintech products to make that happen, not just another booking engine, but a fundamentally better way to plan and experience travel for our customers and our partners. We are proof that better-for-the-customer and better-for-the-business can be one in the same</p><p>And we’re continuing to grow fast! The Hopper app has been downloaded over 120 million times, with 70% of our users being Gen Z and Millennials, next-generation travelers. Today, our biggest opportunity is powering travel fintech, commerce, and loyalty for some of the biggest brands in the industry. Our first HTS partnership with Capital One helped launch a dedicated travel portal for a major financial brand’s cardholders, and we’ve since expanded across some of the biggest names in travel and banking, including Air Canada, Uber, Royal Bank of Canada (RBC), and Nubank, powering everything from a single fintech integration to a full end-to-end travel loyalty portal.</p><p>That’s our trajectory: we started as a small, disruptive app within the travel space, and now we’re the engine under the hood powering how Travel Tech works.</p><p><strong>What that looks like in practice:</strong></p><ul><li><p>Billions of dollars in travel and travel fintech move through Hopper and HTS every year.</p></li><li><p>Our fintech products, including Cancel for Any Reason and Disruption Assistance for Any Reason, post exceptionally strong customer satisfaction because the terms are clear and resolutions are instant, no questions asked.</p></li><li><p>Nearly 30% of app customers add a fintech product to their booking, and those customers are 1.6x more likely to book with us again.</p></li><li><p>HTS now drives more than 90% of the business, proof of how fast B2B has scaled.</p></li><li><p>Through HTS, any travel provider (airlines, hotels, banks, travel agencies) can plug the company’s fintech, commerce and AI solutions into their own channels, whether that’s a single integration or a full end-to-end travel portal.</p></li></ul><p>Come take off with us!<br>#LI-Remote</p><p><em>While this role utilizes automated systems to assess candidate suitability, every actionable decision is made by a human member of our team. Under local regulations, you have the right to understand the principal factors used in this assessment, request a correction of your data, or request a human review of any automated decision. To exercise these rights, please contact recruiting@hopper.com</em></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/forward-deployed-engineer-applied-ml-and-data-hopper-a54bca34b55d4a889340efca3aaa20ec</p>",
+      "posted_at": "2026-11-20T00:00:00+00:00",
       "is_translated": false,
       "original_language": null
     },
