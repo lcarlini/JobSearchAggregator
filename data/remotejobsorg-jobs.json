@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T16:55:19.186Z",
+  "generatedAt": "2026-11-26T01:38:22.712Z",
   "count": 150,
   "data": [
     {
@@ -3362,6 +3362,237 @@
       "direct_apply": null,
       "description": "<h2>About <a href=\"https://jobicy.com/company/cookunity\">CookUnity</a>:</h2><p>Food has lost its soul to modern convenience. And with it, it has lost the power to nourish, inspire, and connect us. So in 2018, CookUnity was founded as the first-of-its-kind platform that connects the world with the source of truly great food: chefs. Today, CookUnity delivers 50 million meals a year from the industry’s best chefs to homes all over the country. Fresh. Ready-to-eat. And crafted with the passion that nourishes body and soul.</p><p>Unwilling to stop there, CookUnity is expanding beyond delivery to become an ever-innovating marketplace focused on our singular mission: <strong>empower Chefs to nourish the world.</strong></p><p>If that mission has you hungry in more ways than one, you’ve found the right job posting.</p><h2>About the Team:</h2><p>As part of our B2B Operations, the Tech Enablement team serves as a central tech hub connecting Product, Engineering, Sales, Marketing, CX, and Operations. We focus on building internal tools and automations that streamline workflows and reduce manual work across teams. By unifying systems and data and leveraging a mix of low-code platforms and custom development, Tech Enablement drives efficiency and scalable growth for CookUnity’s B2B business. This small, cross-functional team wears many hats – from creating process automations and integrations, to building and maintaining smart hardware solutions – all in the service of empowering our Ops team and other departments to work smarter and faster.</p><h2>The role:</h2><ul>\n<li>We are looking for a <strong>Staff</strong> <strong>Tech Enablement Engineer </strong>to lead the technology that supports CookUnity's B2B operations and Smart Fridges program.</li>\n<li>You will manage and develop a Tech Enablement Engineer, work hands-on with the engineer covering Smart Fridges hardware and OS, and collaborate with Product, Engineering, Operations, Healthcare, Sales, Marketing, and CX leaders.</li>\n<li>You will own the direction and reliability of our internal tools, automations, and integrations while leading the hardware and operating-system work needed to deploy and support hundreds of Smart Fridges.</li>\n<li>This is a hands-on leadership role. You will set priorities and technical standards, review architecture and code, investigate difficult software and device issues, and make sure each solution has a clear owner and support model.</li>\n<li>You will help the team move quickly without creating fragile workflows, undocumented devices, or systems that cannot be operated safely at scale.</li>\n</ul><h2><strong>Responsibilities:</strong></h2><ul>\n<li><strong>Team Leadership &#x26; Prioritization:</strong> Manage, coach, and develop the Tech Enablement Engineer. Own intake, capacity, roadmap, delivery commitments, and communication with B2B and Product &#x26; Engineering leaders. Make tradeoffs visible and focus the team on measurable business impact.</li>\n<li><strong>Build &#x26; Optimize Automations:</strong> Lead the design, delivery, and operation of workflows that remove manual work across B2B. Use low-code tools such as n8n and custom software where each is appropriate. Ensure critical jobs have monitoring, failure handling, recovery paths, and clear ownership.</li>\n<li><strong>Full-Stack Internal Tools:</strong> Guide the development of internal web and mobile tools, dashboards, and services for Operations, Healthcare, CX, Sales, and Smart Fridges. Contribute directly to complex work, establish sound engineering practices, and decide when a prototype needs to become a supported product.</li>\n<li><strong>Hardware (IoT) &#x26; Smart Fridge OS:</strong> Own the technical direction for Smart Fridges hardware and embedded Linux software alongside the hardware engineer. Work across compute devices, locks, sensors, cameras, connectivity, and on-device computer vision. Partner with manufacturers and field teams on component choices, build quality, installation, device debugging, and failure analysis.</li>\n<li><strong>Fleet Scale &#x26; Reliability:</strong> Turn one-device-at-a-time setup and updates into repeatable imaging, enrollment, remote deployment, staged releases, rollback, and central fleet-health monitoring. Define release gates, security controls, and operational measures so hundreds of fridges can be deployed, updated, and supported without proportional growth in manual work or site visits.</li>\n<li><strong>Third-Party Integrations:</strong> Lead reliable data flows between CookUnity systems and platforms such as Salesforce, support tools, logistics services, and healthcare partners. Work with system owners on API and webhook contracts, data quality, credentials, and incident response.</li>\n<li><strong>Security &#x26; Operational Readiness:</strong> Partner with Security, Legal, Infrastructure, and Engineering on access, secrets, auditability, and reviews for customer and healthcare data. Build runbooks, alerting, and recovery procedures for business-critical workflows and field devices.</li>\n<li><strong>Documentation &#x26; Handover:</strong> Keep source-of-truth links, architecture decisions, device build and release procedures, deployment steps, and operational playbooks current. Decide with Product and Engineering which services Tech Enablement will maintain, which prototypes should be productized, and which should be retired.</li>\n<li><strong>AI Tools &#x26; Agents:</strong> Identify practical opportunities to use AI in B2B operations and engineering workflows. Evaluate prototypes for measurable value, reliability, data protection, and a sustainable owner before scaling them.</li>\n</ul><hr><h2><strong>Minimum requirements</strong><strong>:</strong></h2><ul>\n<li>Experience managing engineers, including coaching, feedback, prioritization, and accountability for delivery.</li>\n<li>Strong hands-on software engineering experience across backend services, integrations, and internal applications, with proficiency in JavaScript/TypeScript or Python and working knowledge of SQL.</li>\n<li>Hands-on experience building and operating physical devices with embedded Linux or comparable IoT software in the field. You can diagnose problems across device hardware, sensors, connectivity, operating-system services, and cloud systems.</li>\n<li>Demonstrated experience scaling a device fleet beyond hand-configured deployments, including reproducible provisioning, remote software updates, staged releases and rollback, telemetry, security, and field support.</li>\n<li>Experience designing reliable production workflows using APIs, webhooks, scheduled jobs, and third-party systems, including retries, idempotency, monitoring, and data reconciliation.</li>\n<li>Experience with cloud deployment, CI/CD, access management, and incident response for systems that business teams depend on.</li>\n<li>Sound judgment about security and privacy, including when to involve specialist reviewers for sensitive customer or healthcare data.</li>\n<li>Ability to turn ambiguous operational needs into priorities, technical plans, and clear decisions with technical and non-technical stakeholders.</li>\n<li>Helping to have higher levels of uptime &#x26; supporting the on-call rotation that will help the business run 24/7</li>\n<li><strong>Fluent English communication skills</strong>, written and spoken, for collaboration across teams and regions.</li>\n</ul><h2><strong>Preferred requirements:</strong></h2><ul>\n<li>Experience with Raspberry Pi or similar edge devices, and with AWS IoT Greengrass, SSM, MQTT, or comparable fleet-management tools.</li>\n<li>Experience with camera pipelines, computer vision at the edge, hardware manufacturing, or device quality assurance.</li>\n<li>Experience with n8n or similar automation platforms and with Salesforce or other CRM integrations.</li>\n<li>Experience building internal applications with React/Next.js and Node.js or Python, and deploying them on cloud platforms.</li>\n<li>Familiarity with healthcare operations or workflows involving PHI-sensitive data.</li>\n<li>Experience with customer support, marketing, or logistics tools and their APIs.</li>\n<li>Experience applying AI tools to operational workflows while checking output quality, privacy, and business impact.</li>\n<li>Comfort leading a small team across software, hardware, vendors, and business stakeholders in a fast-moving environment.</li>\n</ul><hr><h2>Benefits:</h2><p>💸 Get paid in USD.</p><p>🗺 Work remotely: design the life that you want.</p><p>⛱ Enjoy 15 business days of vacation each year from the start date.</p><p>🎄16 fully paid Argentinean holidays.</p><p>🩺 Healthcare Benefit: Monthly stipend to use in your preferred healthcare provider.</p><p>🗓️ 5-year Sabbatical: After 5 years with CookUnity, you get a 4-week paid sabbatical.</p><p>🐣 Paid family leave.</p><p>🕯 Compassionate Leave: 3-5 days each time the need arises.</p><p>🧘🏽‍♀️ Customize the benefits that suit your needs! Access a range of perks tailored to you, including learning opportunities, wellness memberships, delivery apps, and more through our comprehensive benefit platform.</p><p>🧑‍🏫 Personalized English coach.</p><p>#LI-Hybrid</p><p>If you’re interested in this role, please submit your application, and if we think you might be a fit, we'll get in touch with you. <strong>Thank you for your time!</strong></p><p><em><strong>CookUnity is an Equal Opportunity Employer</strong>. We are dedicated to creating a community of inclusion and an environment free from discrimination or harassment. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, age, sexual orientation, gender identity, national origin, citizenship status, protected veteran status, genetic information, or physical or mental disability.</em></p><p><em><strong>A quick note for all candidates</strong></em><br><em>We’ve recently seen an increase in recruitment scams across the industry, and we want to make sure you (and your data) <strong>stay safe while applying to CookUnity.</strong> We also want you to know that we take this seriously — sometimes, as part of our process, we may ask for a brief <strong>“proof of humanity”</strong> to confirm that we’re connecting with a real person, not an impersonator. </em><em>Here are a few tips to help you protect yourself and know what to expect from us:</em></p><ul>\n<li><em><strong>Apply only through our official channels. </strong>All open roles are listed on our official careers page: <a href=\"http://careers.cookunity.com/\">careers.cookunity.com</a></em></li>\n<li><em><strong>Our recruiters are real people — and easy to verify. </strong>You can always find them on LinkedIn with verified profiles. If you’re unsure, feel free to reach out to us on our official <a href=\"https://www.linkedin.com/company/cookunity/\">LinkedIn Company Page</a>.</em></li>\n<li><em><strong>We only communicate through official CookUnity channels. </strong>That means emails ending in <code>@cookunity.com</code> and interviews held through official company platforms (Google Meet or Zoom) — never WhatsApp, Telegram, or SMS.</em></li>\n<li><em><strong>We’ll never ask for payment or personal financial details. </strong>If anyone does, please don’t share any information and let us know right away.</em></li>\n</ul><p><em>If something ever feels off or you’re unsure about a message, we’d much rather you double-check with us. You can always contact us directly through any of our social media channels. We appreciate your interest in joining CookUnity — and <strong>we care about keeping your experience (and safety) as genuine as possible.</strong></em></p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/staff-tech-enablement-engineer-b2b-operations-cookunity</p>",
       "posted_at": "2026-11-21T14:26:17+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "961602e9-1384-497a-9a94-c0635177f32a",
+      "title": "Production Engineer (SRE/Dev - Python)",
+      "url": "https://remotejobs.org/remote-jobs/production-engineer-sredev-python-zscaler",
+      "apply_url": "https://remotejobs.org/remote-jobs/production-engineer-sredev-python-zscaler",
+      "company": {
+        "name": "Zscaler",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/249589fe09c0936337f826ee03adcfd15e01dbfbb51a5a88fe98f8d505029171.png",
+        "website": "https://zscaler.com",
+        "url": "https://remotejobs.org/companies/zscaler"
+      },
+      "category": {
+        "name": "DevOps",
+        "slug": "devops"
+      },
+      "location": "Bangalore, IND",
+      "location_normalization": {
+        "raw": "Bangalore, IND",
+        "input": {},
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [
+          "bangalore"
+        ],
+        "work_arrangement": "unknown",
+        "allowed_countries": [
+          "IN"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": null,
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": null,
+        "role_family": null,
+        "required_skills": [],
+        "mentioned_skills": [
+          "aws",
+          "cpp",
+          "golang",
+          "python",
+          "terraform"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": [
+          {
+            "text": "2 to 3 years of experience",
+            "maximum_years": 3,
+            "minimum_years": 2,
+            "classification": "mentioned"
+          }
+        ]
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "5271559007",
+      "direct_apply": null,
+      "description": "<p>Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange platform protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location. Distributed across 200+ public data centers globally and thousands of private sites at the edge, the SASE-based Zero Trust Exchange is the world’s largest in-line cloud security platform.</p>\n<p>We believe the future of work is Human + AI and are building an AI-native enterprise where human potential is amplified by machine intelligence to solve the world’s hardest security challenges. Driven by deep customer obsession, we are committed to the mission, outcome, and to each other. We bring these commitments to life through three core behaviors: ownership and collaboration, trust through outcomes and impact, and a challenge culture with ongoing feedback. Ready to make an impact at the company pioneering security transformation in the AI era? Join us at Zscaler.</p>\n<p>Role</p>\n<p>We are looking for a Production Engineer to join our team. This is a Hybrid role, reporting to the Manager, Site Reliability Engineering in the Cloud Infrastructure &#x26; Operations department. Join Zscaler to be a force multiplier for the reliability of a global platform protecting over 15 million users, providing the technical vision and hands-on execution to drive an automation-first culture across the company. By maturing our observability and architectural standards, you will directly reduce our Mean Time to Mitigate (MTTM) and shape the scalability of our globally distributed, multi-cloud infrastructure.</p>\n<p>What you’ll do (Role Expectations)</p>\n<ul>\n<li>Design and implement highly available, scalable infrastructure across AWS, Azure, GCP, and bare-metal environments</li>\n<li>Drive an \"automation-first\" culture by writing code (Python/Go) to eliminate manual toil and build self-healing systems</li>\n<li>Implement and maintain sophisticated observability (Prometheus, Grafana, OpenTelemetry), define SLIs/SLOs, and establish error budgets</li>\n<li>Act as a lead Incident Commander (TDO on-call), develop response playbooks, and conduct deep-dive post-incident analyses</li>\n<li>Partner with Engineering and partner teams to conduct operability reviews</li>\n</ul>\n<p>Who You Are (Success Profile)</p>\n<ul>\n<li>Comfortable navigating ambiguity and dynamic environments, viewing uncertainty not as a hindrance but as an opportunity to build meaningful solutions.</li>\n<li>Driven by a strong sense of ownership and bias for action, operating with integrity while seamlessly balancing high-level strategy with hands-on technical execution.</li>\n<li>Laser-focused problem solver who proactively runs toward complex engineering challenges to deliver high-impact results.</li>\n<li>High-trust collaborator committed to team success, actively giving and receiving transparent feedback with clarity and respect.</li>\n<li>Purpose-driven learner with an active growth mindset, continuously seeking feedback to grow as a teammate and engineering partner.</li>\n</ul>\n<p>What We’re Looking for (Minimum Qualifications)</p>\n<ul>\n<li>Foundational understanding of AI/ML technologies and experience leveraging, securing, or positioning AI-driven solutions to optimize outcomes within your functional domain</li>\n<li>2 to 3 years of experience managing reliability, scalability, and availability for large-scale production services with deep expertise in programming (e.g., Python, Go, or C/C++)</li>\n<li>Strong background in networking protocols, Linux/FreeBSD systems, and distributed architecture</li>\n<li>Experience in high-stakes incident management and participation in a 24/7 on-call rotation</li>\n<li>Proficiency in leveraging ITIL frameworks and incident data to drive service maturity through systematic problem management and technical operability reviews</li>\n</ul>\n<p>What Will Make You Stand Out (Preferred Qualifications)</p>\n<ul>\n<li>Proven ability to leverage AI technologies, workflows, and AIOps tools to drive measurable operational efficiency, including implementing machine learning models for anomaly detection and predictive capacity planning to automate incident response</li>\n<li>Extensive experience with public cloud (AWS, Azure, GCP), Infrastructure-as-Code (Ansible, Terraform), and chaos engineering or disaster recovery planning at scale</li>\n<li>Expertise in global routing (BGP), traffic tunneling (GRE, IPSec), L7 proxy architectures (HAProxy), DNS at scale, and OS networking stack internals</li>\n</ul>\n<p>#LI-SK3 </p>\n<p>#LI-HYBRID</p>\n<p>At Zscaler, we are committed to building a team that reflects the communities we serve and the customers we work with. We foster an inclusive environment that values all backgrounds and perspectives, emphasizing collaboration and belonging. Join us in our mission to make doing business seamless and secure.</p>\n<p>Our Benefits program is one of the most important ways we support our employees. Zscaler proudly offers comprehensive and inclusive benefits to meet the diverse needs of our employees and their families throughout their life stages, including:</p>\n<ul>\n<li>Various health plans</li>\n<li>Time off plans for vacation and sick time</li>\n<li>Parental leave options</li>\n<li>Retirement options</li>\n<li>Education reimbursement</li>\n<li>In-office perks, and more!</li>\n</ul>\n<p>Learn more about Zscaler's hybrid working model and benefits <a href=\"https://www.zscaler.com/candidate-resource-hub\">here</a>.</p>\n<p>By applying for this role, you adhere to applicable laws, regulations, and Zscaler policies, including those related to security and privacy standards and guidelines.</p>\n<p>Zscaler is committed to providing equal employment opportunities to all individuals. We strive to create a workplace where employees are treated with respect and have the chance to succeed. All qualified applicants will be considered for employment without regard to race, color, religion, sex (including pregnancy or related medical conditions), age, national origin, sexual orientation, gender identity or expression, genetic information, disability status, protected veteran status, or any other characteristic protected by federal, state, or local laws. <em>See more information by clicking on the </em><a href=\"https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf\"><em>Know Your Rights: Workplace Discrimination is Illegal </em></a><em>link.</em></p>\n<p>Pay Transparency</p>\n<p>Zscaler complies with all applicable federal, state, and local pay transparency rules.</p>\n<p>Zscaler is committed to providing reasonable support (called accommodations or adjustments) in our recruiting processes for candidates who are differently abled, have long term conditions, mental health conditions or sincerely held religious beliefs, or who are neurodivergent or require pregnancy-related support.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/production-engineer-sredev-python-zscaler</p>",
+      "posted_at": "2026-11-25T16:04:55+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "9d2f2d5b-7eed-4949-8ead-b84df10084c7",
+      "title": "Sr Production Engineer (SRE / Dev-Python)",
+      "url": "https://remotejobs.org/remote-jobs/sr-production-engineer-sre-dev-python-zscaler",
+      "apply_url": "https://remotejobs.org/remote-jobs/sr-production-engineer-sre-dev-python-zscaler",
+      "company": {
+        "name": "Zscaler",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/249589fe09c0936337f826ee03adcfd15e01dbfbb51a5a88fe98f8d505029171.png",
+        "website": "https://zscaler.com",
+        "url": "https://remotejobs.org/companies/zscaler"
+      },
+      "category": {
+        "name": "DevOps",
+        "slug": "devops"
+      },
+      "location": "Bangalore, IND",
+      "location_normalization": {
+        "raw": "Bangalore, IND",
+        "input": {},
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [
+          "bangalore"
+        ],
+        "work_arrangement": "unknown",
+        "allowed_countries": [
+          "IN"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": null,
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": "senior",
+        "role_family": null,
+        "required_skills": [],
+        "mentioned_skills": [
+          "aws",
+          "cpp",
+          "golang",
+          "python",
+          "terraform"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": [
+          {
+            "text": "3 to 5 years of experience",
+            "maximum_years": 5,
+            "minimum_years": 3,
+            "classification": "mentioned"
+          }
+        ]
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "5271549007",
+      "direct_apply": null,
+      "description": "<p>Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange platform protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location. Distributed across 200+ public data centers globally and thousands of private sites at the edge, the SASE-based Zero Trust Exchange is the world’s largest in-line cloud security platform.</p>\n<p>We believe the future of work is Human + AI and are building an AI-native enterprise where human potential is amplified by machine intelligence to solve the world’s hardest security challenges. Driven by deep customer obsession, we are committed to the mission, outcome, and to each other. We bring these commitments to life through three core behaviors: ownership and collaboration, trust through outcomes and impact, and a challenge culture with ongoing feedback. Ready to make an impact at the company pioneering security transformation in the AI era? Join us at Zscaler.</p>\n<p>Role</p>\n<p>We are looking for a Senior Production Engineer to join our team. This is a Hybrid role, reporting to the Manager, Site Reliability Engineering in the Cloud Infrastructure &#x26; Operations department. Join Zscaler to be a force multiplier for the reliability of a global platform protecting over 15 million users, providing the technical vision and hands-on execution to drive an automation-first culture across the company. By maturing our observability and architectural standards, you will directly reduce our Mean Time to Mitigate (MTTM) and shape the scalability of our globally distributed, multi-cloud infrastructure.</p>\n<p>What you’ll do (Role Expectations)</p>\n<ul>\n<li>Design and implement highly available, scalable infrastructure across AWS, Azure, GCP, and bare-metal environments</li>\n<li>Drive an \"automation-first\" culture by writing code (Python/Go) to eliminate manual toil and build self-healing systems</li>\n<li>Implement and maintain sophisticated observability (Prometheus, Grafana, OpenTelemetry), define SLIs/SLOs, and establish error budgets</li>\n<li>Act as a lead Incident Commander (TDO on-call), develop response playbooks, and conduct deep-dive post-incident analyses</li>\n<li>Partner with Engineering and partner teams to conduct operability reviews</li>\n</ul>\n<p>Who You Are (Success Profile)</p>\n<ul>\n<li>Comfortable navigating ambiguity and dynamic environments, viewing uncertainty not as a hindrance but as an opportunity to build meaningful solutions.</li>\n<li>Driven by a strong sense of ownership and bias for action, operating with integrity while seamlessly balancing high-level strategy with hands-on technical execution.</li>\n<li>Laser-focused problem solver who proactively runs toward complex engineering challenges to deliver high-impact results.</li>\n<li>High-trust collaborator committed to team success, actively giving and receiving transparent feedback with clarity and respect.</li>\n<li>Purpose-driven learner with an active growth mindset, continuously seeking feedback to grow as a teammate and engineering partner.</li>\n</ul>\n<p>What We’re Looking for (Minimum Qualifications)</p>\n<ul>\n<li>Foundational understanding of AI/ML technologies and experience leveraging, securing, or positioning AI-driven solutions to optimize outcomes within your functional domain</li>\n<li>3 to 5 years of experience managing reliability, scalability, and availability for large-scale production services with deep expertise in programming (e.g., Python, Go, or C/C++)</li>\n<li>Strong background in networking protocols, Linux/FreeBSD systems, and distributed architecture</li>\n<li>Experience in high-stakes incident management and participation in a 24/7 on-call rotation</li>\n<li>Proficiency in leveraging ITIL frameworks and incident data to drive service maturity through systematic problem management and technical operability reviews</li>\n</ul>\n<p>What Will Make You Stand Out (Preferred Qualifications)</p>\n<ul>\n<li>Proven ability to leverage AI technologies, workflows, and AIOps tools to drive measurable operational efficiency, including implementing machine learning models for anomaly detection and predictive capacity planning to automate incident response</li>\n<li>Extensive experience with public cloud (AWS, Azure, GCP), Infrastructure-as-Code (Ansible, Terraform), and chaos engineering or disaster recovery planning at scale</li>\n<li>Expertise in global routing (BGP), traffic tunneling (GRE, IPSec), L7 proxy architectures (HAProxy), DNS at scale, and OS networking stack internals</li>\n</ul>\n<p>#LI-SK3 </p>\n<p>#LI-HYBRID</p>\n<p>At Zscaler, we are committed to building a team that reflects the communities we serve and the customers we work with. We foster an inclusive environment that values all backgrounds and perspectives, emphasizing collaboration and belonging. Join us in our mission to make doing business seamless and secure.</p>\n<p>Our Benefits program is one of the most important ways we support our employees. Zscaler proudly offers comprehensive and inclusive benefits to meet the diverse needs of our employees and their families throughout their life stages, including:</p>\n<ul>\n<li>Various health plans</li>\n<li>Time off plans for vacation and sick time</li>\n<li>Parental leave options</li>\n<li>Retirement options</li>\n<li>Education reimbursement</li>\n<li>In-office perks, and more!</li>\n</ul>\n<p>Learn more about Zscaler's hybrid working model and benefits <a href=\"https://www.zscaler.com/candidate-resource-hub\">here</a>.</p>\n<p>By applying for this role, you adhere to applicable laws, regulations, and Zscaler policies, including those related to security and privacy standards and guidelines.</p>\n<p>Zscaler is committed to providing equal employment opportunities to all individuals. We strive to create a workplace where employees are treated with respect and have the chance to succeed. All qualified applicants will be considered for employment without regard to race, color, religion, sex (including pregnancy or related medical conditions), age, national origin, sexual orientation, gender identity or expression, genetic information, disability status, protected veteran status, or any other characteristic protected by federal, state, or local laws. <em>See more information by clicking on the </em><a href=\"https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf\"><em>Know Your Rights: Workplace Discrimination is Illegal </em></a><em>link.</em></p>\n<p>Pay Transparency</p>\n<p>Zscaler complies with all applicable federal, state, and local pay transparency rules.</p>\n<p>Zscaler is committed to providing reasonable support (called accommodations or adjustments) in our recruiting processes for candidates who are differently abled, have long term conditions, mental health conditions or sincerely held religious beliefs, or who are neurodivergent or require pregnancy-related support.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/sr-production-engineer-sre-dev-python-zscaler</p>",
+      "posted_at": "2026-11-25T16:04:55+00:00",
+      "is_translated": false,
+      "original_language": null
+    },
+    {
+      "id": "b69ee331-22a2-481a-8c7d-efab891e8ee7",
+      "title": "Staff Production Engineer (SRE / Dev-Python)",
+      "url": "https://remotejobs.org/remote-jobs/staff-production-engineer-sre-dev-python-zscaler",
+      "apply_url": "https://remotejobs.org/remote-jobs/staff-production-engineer-sre-dev-python-zscaler",
+      "company": {
+        "name": "Zscaler",
+        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/249589fe09c0936337f826ee03adcfd15e01dbfbb51a5a88fe98f8d505029171.png",
+        "website": "https://zscaler.com",
+        "url": "https://remotejobs.org/companies/zscaler"
+      },
+      "category": {
+        "name": "DevOps",
+        "slug": "devops"
+      },
+      "location": "Bangalore, IND",
+      "location_normalization": {
+        "raw": "Bangalore, IND",
+        "input": {},
+        "scope": "restricted",
+        "status": "partial",
+        "regions": [],
+        "version": "job-location/1",
+        "timezones": [],
+        "unresolved": [
+          "bangalore"
+        ],
+        "work_arrangement": "unknown",
+        "allowed_countries": [
+          "IN"
+        ],
+        "reference_version": "iso-3166@4.4.0",
+        "excluded_countries": [],
+        "allowed_subdivisions": [],
+        "excluded_subdivisions": []
+      },
+      "applicant_location_requirements": null,
+      "search_facts": {
+        "status": "known",
+        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
+        "seniority": "staff",
+        "role_family": null,
+        "required_skills": [],
+        "mentioned_skills": [
+          "aws",
+          "cpp",
+          "golang",
+          "python",
+          "terraform"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": [
+          {
+            "text": "5 to 7 years of experience",
+            "maximum_years": 7,
+            "minimum_years": 5,
+            "classification": "mentioned"
+          }
+        ]
+      },
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_source_text": null,
+      "salary_currency": null,
+      "salary_period": null,
+      "type": "Full-time",
+      "employment_types": [
+        "FULL_TIME"
+      ],
+      "employer_job_id": "5271551007",
+      "direct_apply": null,
+      "description": "<p>Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange platform protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location. Distributed across 200+ public data centers globally and thousands of private sites at the edge, the SASE-based Zero Trust Exchange is the world’s largest in-line cloud security platform.</p>\n<p>We believe the future of work is Human + AI and are building an AI-native enterprise where human potential is amplified by machine intelligence to solve the world’s hardest security challenges. Driven by deep customer obsession, we are committed to the mission, outcome, and to each other. We bring these commitments to life through three core behaviors: ownership and collaboration, trust through outcomes and impact, and a challenge culture with ongoing feedback. Ready to make an impact at the company pioneering security transformation in the AI era? Join us at Zscaler.</p>\n<p>Role</p>\n<p>We are looking for a Staff Production Engineer to join our team. This is a Hybrid role, reporting to the Manager, Site Reliability Engineering in the Cloud Infrastructure &#x26; Operations department. Join Zscaler to be a force multiplier for the reliability of a global platform protecting over 15 million users, providing the technical vision and hands-on execution to drive an automation-first culture across the company. By maturing our observability and architectural standards, you will directly reduce our Mean Time to Mitigate (MTTM) and shape the scalability of our globally distributed, multi-cloud infrastructure.</p>\n<p>What you’ll do (Role Expectations)</p>\n<ul>\n<li>Design and implement highly available, scalable infrastructure across AWS, Azure, GCP, and bare-metal environments</li>\n<li>Drive an \"automation-first\" culture by writing code (Python/Go) to eliminate manual toil and build self-healing systems</li>\n<li>Implement and maintain sophisticated observability (Prometheus, Grafana, OpenTelemetry), define SLIs/SLOs, and establish error budgets</li>\n<li>Act as a lead Incident Commander (TDO on-call), develop response playbooks, and conduct deep-dive post-incident analyses</li>\n<li>Partner with Engineering and partner teams to conduct operability reviews</li>\n</ul>\n<p>Who You Are (Success Profile)</p>\n<ul>\n<li>Comfortable navigating ambiguity and dynamic environments, viewing uncertainty not as a hindrance but as an opportunity to build meaningful solutions.</li>\n<li>Driven by a strong sense of ownership and bias for action, operating with integrity while seamlessly balancing high-level strategy with hands-on technical execution.</li>\n<li>Laser-focused problem solver who proactively runs toward complex engineering challenges to deliver high-impact results.</li>\n<li>High-trust collaborator committed to team success, actively giving and receiving transparent feedback with clarity and respect.</li>\n<li>Purpose-driven learner with an active growth mindset, continuously seeking feedback to grow as a teammate and engineering partner.</li>\n</ul>\n<p>What We’re Looking for (Minimum Qualifications)</p>\n<ul>\n<li>Foundational understanding of AI/ML technologies and experience leveraging, securing, or positioning AI-driven solutions to optimize outcomes within your functional domain</li>\n<li>5 to 7 years of experience managing reliability, scalability, and availability for large-scale production services with deep expertise in programming (e.g., Python, Go, or C/C++)</li>\n<li>Strong background in networking protocols, Linux/FreeBSD systems, and distributed architecture</li>\n<li>Experience in high-stakes incident management and participation in a 24/7 on-call rotation</li>\n<li>Proficiency in leveraging ITIL frameworks and incident data to drive service maturity through systematic problem management and technical operability reviews</li>\n</ul>\n<p>What Will Make You Stand Out (Preferred Qualifications)</p>\n<ul>\n<li>Proven ability to leverage AI technologies, workflows, and AIOps tools to drive measurable operational efficiency, including implementing machine learning models for anomaly detection and predictive capacity planning to automate incident response</li>\n<li>Extensive experience with public cloud (AWS, Azure, GCP), Infrastructure-as-Code (Ansible, Terraform), and chaos engineering or disaster recovery planning at scale</li>\n<li>Expertise in global routing (BGP), traffic tunneling (GRE, IPSec), L7 proxy architectures (HAProxy), DNS at scale, and OS networking stack internals</li>\n</ul>\n<p>#LI-SK3 </p>\n<p>#LI-HYBRID</p>\n<p>At Zscaler, we are committed to building a team that reflects the communities we serve and the customers we work with. We foster an inclusive environment that values all backgrounds and perspectives, emphasizing collaboration and belonging. Join us in our mission to make doing business seamless and secure.</p>\n<p>Our Benefits program is one of the most important ways we support our employees. Zscaler proudly offers comprehensive and inclusive benefits to meet the diverse needs of our employees and their families throughout their life stages, including:</p>\n<ul>\n<li>Various health plans</li>\n<li>Time off plans for vacation and sick time</li>\n<li>Parental leave options</li>\n<li>Retirement options</li>\n<li>Education reimbursement</li>\n<li>In-office perks, and more!</li>\n</ul>\n<p>Learn more about Zscaler's hybrid working model and benefits <a href=\"https://www.zscaler.com/candidate-resource-hub\">here</a>.</p>\n<p>By applying for this role, you adhere to applicable laws, regulations, and Zscaler policies, including those related to security and privacy standards and guidelines.</p>\n<p>Zscaler is committed to providing equal employment opportunities to all individuals. We strive to create a workplace where employees are treated with respect and have the chance to succeed. All qualified applicants will be considered for employment without regard to race, color, religion, sex (including pregnancy or related medical conditions), age, national origin, sexual orientation, gender identity or expression, genetic information, disability status, protected veteran status, or any other characteristic protected by federal, state, or local laws. <em>See more information by clicking on the </em><a href=\"https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf\"><em>Know Your Rights: Workplace Discrimination is Illegal </em></a><em>link.</em></p>\n<p>Pay Transparency</p>\n<p>Zscaler complies with all applicable federal, state, and local pay transparency rules.</p>\n<p>Zscaler is committed to providing reasonable support (called accommodations or adjustments) in our recruiting processes for candidates who are differently abled, have long term conditions, mental health conditions or sincerely held religious beliefs, or who are neurodivergent or require pregnancy-related support.</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/staff-production-engineer-sre-dev-python-zscaler</p>",
+      "posted_at": "2026-11-25T16:04:55+00:00",
       "is_translated": false,
       "original_language": null
     },
@@ -6788,276 +7019,6 @@
       "employer_job_id": null,
       "direct_apply": null,
       "description": "<p>\n  <strong>Headquarters:</strong> Czechia\n    <br><strong>URL:</strong> <a href=\"http://bloomreach.com\">http://bloomreach.com</a>\n</p><p>Bloomreach is building the world’s premier <strong>agentic platform for personalization</strong>.We’re revolutionizing how businesses connect with their customers, building and deploying AI agents to personalize the <strong><em>entire</em></strong> customer journey.</p><ul>\n<li>We're taking <strong>autonomous search</strong> mainstream, making product discovery more intuitive and conversational for customers, and more profitable for businesses.</li>\n<li>We’re making <strong>conversational shopping</strong> a reality, connecting every shopper with tailored guidance and product expertise — available on demand, at every touchpoint in their journey.</li>\n<li>We're designing the future of <strong>autonomous marketing</strong>, taking the work out of workflows, and reclaiming the creative, strategic, and customer-first work marketers were always meant to do.</li>\n</ul><p>And we're building all of that on the intelligence of a single AI engine — <strong>Loomi </strong>— so that personalization isn't only autonomous…it's also consistent.From retail to financial services, hospitality to gaming, businesses use Bloomreach to drive higher growth and lasting loyalty. We power personalization for more than 1,400 global brands, including American Eagle, Sonepar, and Pandora.</p><p>Are you looking for a cutting-edge tech stack to work with daily? We are currently expanding our <strong>Infrastructure team</strong> and are looking for a new colleague to join as a <strong>Staff DevOps / Infrastructure Engineer</strong>. You can work from home or one of our Central Europe offices (Bratislava, Brno, Prague) on a full-time basis. The base salary range for this position is 1 520 000 - 1 900 000 CZK. The pay range actually offered will take into account a variety of potential factors considered in compensation, including but not limited to skills, qualifications, geographic location, accomplishments, experience, credentials, internal equity and business needs, and may vary from the range listed above. Are you ready to grow with us?</p><h2><strong>What tech stack do we have for you?</strong></h2><ul>\n<li>Kubernetes (GKE), Terraform, GitLab</li>\n<li>Google Cloud, including a wide range of managed products such as Cloud SQL, BigQuery, Bigtable, Dataflow, and Pub/Sub</li>\n<li>Self-hosted stack: MongoDB, Kafka, Elasticsearch, Etcd, Victoria Metrics, InfluxDB, Sentry</li>\n<li>Python, Golang</li>\n</ul><h2><strong>Minimum requirements:</strong></h2><p>At least 5 years of production experience with:</p><ul>\n<li>Kubernetes - we are looking for an engineer who not only deploys applications to a cluster, but also understands what is happening behind the scenes and can operate 24x7 production</li>\n<li>GCP (preferred)/AWS/Azure - our solution is built on top of the GCP platform. Candidate should be comfortable working with public cloud, understand the risks and benefits associated with running applications in the public cloud, be familiar with infrastructure as a code principle, and have the ability to make design choices between using cloud-managed solutions versus self-hosted alternatives</li>\n<li>Python/Go - you should be able to read and understand code with confidence, and to review and evaluate AI-generated Python code for correctness, security, and fit. Hands-on coding skills matter less than before, but you should still be able to develop custom tooling when needed, with or without AI assistance</li>\n</ul><p>If you don’t meet these requirements, don’t worry; take a look at the Senior DevOps position - Czechia: <a href=\"https://job-boards.greenhouse.io/bloomreach/jobs/8329244\">https://job-boards.greenhouse.io/bloomreach/jobs/8329244</a>, Slovakia: https://job-boards.greenhouse.io/bloomreach/jobs/8329243</p><h2><strong>How to know if you are a good fit:</strong></h2><p>The qualifications outlined below serve as a guide to determine if your skills and experience align with the requirements of this position:</p><ul>\n<li><strong>Design and Specification</strong>: You turn loosely defined problems into designs and specifications that others can execute. You write design proposals, weigh trade-offs between managed and self-hosted solutions, and review the designs of others.</li>\n<li><strong>Cross-team Leadership</strong>: You have led projects spanning multiple teams, from scoping and planning through delivery, coordinating engineers who do not report to you.</li>\n<li><strong>Independent Delivery</strong>: You take a specified maintenance or project task and drive it to completion on your own. AI assistants are a given part of your toolkit, but you always understand and can explain how and why every change was made.</li>\n<li><strong>AI as a Tool, Not a Replacement</strong>: You use AI assistants to work faster, not to hand your work over. You understand what the AI produced, question and verify it, and steer it toward the outcome you want rather than accepting whatever it gives you. You stay in control and remain accountable for everything you ship.</li>\n<li><strong>Continuous Learning</strong>: You have a keen interest in Kubernetes and related technologies, as demonstrated by your active engagement in reading and staying up to date on them.</li>\n<li><strong>Conference Participation</strong>: You have participated in DevOps-related conferences, showcasing your commitment to continuous learning and networking in the field.</li>\n<li><strong>Configuration Proficiency</strong>: You have hands-on experience configuring pod/container security context, network policies, roles and role bindings, pod affinity, host path, pod disruption budgets, priority classes, node taints, to name a few.</li>\n<li><strong>Resource Optimization</strong>: You have analyzed resource usage of applications hosted on a cluster and implemented or suggested changes to resource requests/limits, Horizontal Pod Autoscalers (HPAs), or Vertical Pod Autoscalers (VPAs).</li>\n<li><strong>Cluster Management</strong>: You have a deep understanding of the clusters you manage, including the types of machines used in node pools, the reasons for their selection, which cluster features are enabled or disabled, the cluster version, and the node autoscaling configuration. You have successfully upgraded the Kubernetes cluster versions without interrupting live applications hosted on the cluster.</li>\n<li><strong>Terraform Proficiency</strong>: You have written a Terraform module with multiple interconnected resources.</li>\n<li><strong>Monitoring and Alerting</strong>: You have experience setting up monitoring systems and configuring alerts. On-duty experience is preferred, along with experience with Grafana and Prometheus.</li>\n<li><strong>DevOps and CI/CD Experience</strong>: You have experience with DevOps, Orchestration/Configuration Management, and Continuous Integration technologies, including Terraform, GitLab, Ansible, and Docker.</li>\n<li><strong>Team Onboarding and Training</strong>: You have experience with onboarding and training new team members, demonstrating your leadership skills and commitment to team growth.</li>\n</ul><h2><strong>About your team:</strong></h2><p>The Infrastructure team operates and maintains Bloomreach Engagement core infrastructure built on Google Cloud with security, high availability, costs, and scalability in mind.<strong> </strong>Our vision is to identify and implement opportunities to achieve a robust, reliable, and efficient infrastructure and development platform. We strongly support DevOps culture: each team is responsible for releasing, operating, and monitoring their own applications.</p><p><strong>The role</strong> of the Infrastructure Team is to provide a strong foundation upon which all teams can build, for example, manage big infrastructure components like Kubernetes, databases, and cloud components in Google Cloud. An important role of the team is also to provide support to developers, review design proposals, validate the performance and availability of applications, and sometimes even develop new core application components such as logging or authorization.</p><h2><strong>Tasks and responsibilities:</strong></h2><p>In the position of Staff DevOps Engineer, you’d be expected to work with other Engineering teams to design sustainable infrastructure, microservice solutions, and an efficient and robust production environment. Additionally, you’ll be working on a variety of tasks and projects, including automating tools and infrastructure to reduce manual work, monitoring applications and participating in an on-call rotation as required.</p><p>You’ll own the design and specification of infrastructure initiatives, break them down into tasks the team can execute, and lead projects that span multiple engineering teams. AI assistants are a given part of your toolkit, and you retain full understanding of, and responsibility for, what gets shipped.</p><p>The ideal candidate will be passionate about learning new things, creative, willing to take the initiative, and able to think outside the box to solve problems strategically.</p><p lang=\"en-GB\">#LI-KP1</p><h2>More things you'll like about Bloomreach:</h2><h3><strong>Culture:</strong></h3><ul>\n<li>\n<p>A great deal of freedom and trust. At Bloomreach we don’t clock in and out, and we have neither corporate rules nor long approval processes. This freedom goes hand in hand with responsibility. We are interested in results from day one. </p>\n</li>\n<li>\n<p>We have defined our <a href=\"https://www.bloomreach.com/en/careers?utm_source=Job-Description-Footer&#x26;utm_medium=Job-Description&#x26;utm_content=Hyperlink-1\">5 values</a> and the 10 underlying key behaviors that we strongly believe in. We can only succeed if everyone lives these behaviors day to day. We've embedded them in our processes like recruitment, onboarding, feedback, personal development, performance review and internal communication. </p>\n</li>\n<li>\n<p>We believe in flexible working hours to accommodate your working style.</p>\n</li>\n<li>\n<p>We work virtual-first with several Bloomreach Hubs available across three continents.</p>\n</li>\n<li>\n<p>We organize company events to experience the global spirit of the company and get excited about what's ahead.</p>\n</li>\n<li>\n<p>We encourage and support our employees to engage in volunteering activities - every Bloomreacher can take 5 paid days off to volunteer*.</p>\n</li>\n<li>\n<p>The <a href=\"https://www.glassdoor.com/Overview/Working-at-Bloomreach-EI_IE442167.11,21.htm\">Bloomreach Glassdoor page</a> elaborates on our stellar 4.7/5 rating. The <a href=\"https://www.comparably.com/companies/bloomreach\">Bloomreach Comparably page</a> Culture score is even higher at 4.9/5</p>\n</li>\n</ul><h3><strong>Personal Development:</strong></h3><ul>\n<li>\n<p>We have a People Development Program - participating in personal development workshops on various topics run by experts from inside the company. We are continuously developing &#x26; updating competency maps for select functions.</p>\n</li>\n<li>\n<p>Our resident communication coach <a href=\"https://www.linkedin.com/in/ivo-ve%C4%8De%C5%99a-2a94291/\">Ivo Večeřa</a> is available to help navigate work-related communications &#x26; decision-making challenges.*</p>\n</li>\n<li>\n<p>Our managers are strongly encouraged to participate in the Leader Development Program to develop in the areas we consider essential for any leader. The program includes regular comprehensive feedback, consultations with a coach and follow-up check-ins.</p>\n</li>\n<li>\n<p>Bloomreachers utilize the $1,500 professional education budget on an annual basis to purchase education products (books, courses, certifications, etc.)*</p>\n</li>\n</ul><h3><strong>Well-being:</strong></h3><ul>\n<li>\n<p>The Employee Assistance Program -- with counselors -- is available for non-work-related challenges.*</p>\n</li>\n<li>\n<p>Subscription to Calm - sleep and meditation app.*</p>\n</li>\n<li>\n<p>We organize ‘DisConnect’ days where Bloomreachers globally enjoy one additional day off each quarter, allowing us to unwind together and focus on activities away from the screen with our loved ones.</p>\n</li>\n<li>\n<p>We facilitate sports, yoga, and meditation opportunities for each other.</p>\n</li>\n<li>\n<p>Extended parental leave up to 26 calendar weeks for Primary Caregivers.*</p>\n</li>\n</ul><h3><strong>Compensation:</strong></h3><ul>\n<li>\n<p>Restricted Stock Units or Stock Options are granted depending on a team member’s role, seniority, and location.*</p>\n</li>\n<li>\n<p>Everyone gets to participate in the company's success through the company performance bonus.*</p>\n</li>\n<li>\n<p>We offer an employee referral bonus of up to $3,000!</p>\n</li>\n<li>\n<p>We reward &#x26; celebrate work anniversaries -- Bloomversaries!*</p>\n</li>\n</ul><p><em>(*Subject to employment type. Interns are exempt from marked benefits, usually for the first 6 months.)</em></p><p><strong>Excited? Join us and transform the future of commerce experiences!</strong></p><p><em>If this position doesn't suit you, but you know someone who might be a great fit, share it - we will be very grateful!</em></p><p><em>Any unsolicited resumes/candidate profiles submitted through our website or to personal email accounts of employees of Bloomreach are considered property of Bloomreach and are not subject to payment of agency fees.</em></p><p>#LI-Remote</p><p><strong>To apply:</strong> https://weworkremotely.com/remote-jobs/bloomreach-staff-devops-engineer</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/staff-devops-engineer-bloomreach-d0cdf5fa61e74f2fa4e7f03d9d30c82e</p>",
-      "posted_at": "2026-11-16T18:32:34+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "a718ac13-e00d-4c95-a825-45b572483c69",
-      "title": "Senior DevOps / Platform Engineer - GCP",
-      "url": "https://remotejobs.org/remote-jobs/senior-devops-platform-engineer-gcp-gomining",
-      "apply_url": "https://remotejobs.org/remote-jobs/senior-devops-platform-engineer-gcp-gomining",
-      "company": {
-        "name": "GoMining",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/ff9eb27d38341cdb8d60d6c51de6ee3de6666b4c261549ab0b4c2eff27892283.png",
-        "website": null,
-        "url": "https://remotejobs.org/companies/gomining"
-      },
-      "category": {
-        "name": "DevOps",
-        "slug": "devops"
-      },
-      "location": "Anywhere in the World",
-      "location_normalization": {
-        "raw": "Anywhere in the World",
-        "input": {},
-        "scope": "worldwide",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "unknown",
-        "status": "conflicting",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [],
-        "evidence_ids": [],
-        "allowed_regions": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": "senior",
-        "role_family": "devops",
-        "required_skills": [
-          "kubernetes",
-          "postgresql",
-          "python",
-          "sql",
-          "terraform"
-        ],
-        "mentioned_skills": [
-          "kubernetes",
-          "terraform"
-        ],
-        "preferred_skills": [
-          "aws",
-          "javascript",
-          "kubernetes",
-          "typescript"
-        ],
-        "experience_requirements": []
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": null,
-      "salary_period": null,
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<p>\n  <strong>Headquarters:</strong> Cyprus\n    <br><strong>URL:</strong> <a href=\"http://gomining.com\">http://gomining.com</a>\n</p><p><strong>Description</strong><br></p><p>We are looking for a <strong>Senior DevOps / Platform Engineer</strong> to develop and operate GoMining's cloud platform.</p><p>The primary focus of this role is <strong>GCP and Kubernetes</strong>, infrastructure and application delivery automation, and the reliability and security of production services.</p><p>You will maintain and improve our existing infrastructure, contribute to the development of the next generation of our platform, and help product teams ship changes safely and efficiently.</p><h2><br>Responsibilities</h2><ul><li>Develop and operate infrastructure in <strong>GCP</strong>, including GKE, virtual machines, networking, load balancers, storage, and managed services.</li><li>Manage Infrastructure as Code with <strong>Terraform</strong>: develop modules, manage state and dependencies, ensure reproducible changes, and identify configuration drift.</li><li>Operate <strong>Kubernetes</strong>: upgrade clusters and platform components, configure autoscaling, workload placement, network policies, and resource allocation.</li><li>Develop <strong>CI/CD and GitOps</strong> using GitLab CI and Flux / Argo CD, automating builds, checks, deployments, controlled releases, and rollbacks.</li><li>Build observability across metrics, logs, distributed tracing, and actionable alerting. Define and improve <strong>SLIs/SLOs</strong>together with engineering teams.</li><li>Troubleshoot production incidents and performance issues, conduct root cause analysis, and eliminate recurring failure patterns.</li><li>Implement least-privilege access, environment and service isolation, secure secrets management and rotation, and infrastructure audit controls.</li><li>Maintain backup processes and regularly validate recovery of critical data and infrastructure according to agreed <strong>RPO/RTO</strong>.</li><li>Help engineering teams prepare services for production, including health checks, resource configuration, telemetry, and deployment procedures.</li><li>Optimize cloud infrastructure usage and costs while maintaining reliability requirements.</li><li>Maintain infrastructure documentation, operational runbooks, and recovery procedures.</li></ul><p><br><br><strong>Requirements</strong><br></p><ul><li>Strong hands-on experience independently operating <strong>production infrastructure and Kubernetes</strong>, including upgrades, troubleshooting, and disaster recovery.</li><li>Strong experience with <strong>GCP</strong>, including GKE, Compute Engine, VPC, IAM, and Cloud Storage; good understanding of Cloud SQL, Cloud Logging, and Cloud Monitoring.</li><li>Hands-on experience with <strong>Terraform</strong>, including modules, remote state, locking, importing existing resources, and safely applying infrastructure changes through CI.</li><li>Deep knowledge of <strong>Kubernetes and containerization</strong>: Deployments, StatefulSets, Services, Ingress, storage, requests/limits, probes, autoscaling, RBAC, and NetworkPolicy.</li><li>Experience with <strong>Helm and Kustomize</strong>.</li><li>Strong Linux administration skills, preferably Debian/Ubuntu: processes, systemd, filesystems, disks, and resource troubleshooting.</li><li>Strong networking fundamentals: TCP/IP, DNS, HTTP(S), TLS, routing, NAT, load balancing, and firewalls.</li><li>Ability to troubleshoot connectivity issues across applications, Kubernetes clusters, networks, and cloud services.</li><li>Experience building CI/CD pipelines, preferably with <strong>GitLab CI</strong>, and strong understanding of Git and GitOps principles.</li><li>Understanding of runner permissions, secrets protection, and production deployment controls.</li><li>Automation skills with <strong>Bash and Python</strong>, including maintainable infrastructure scripts and API integrations.</li><li>Experience with monitoring, logging, and alerting using tools such as <strong>Prometheus, Grafana, or Cloud Monitoring</strong>.</li><li>Practical experience operating <strong>PostgreSQL</strong> and understanding Redis and RabbitMQ, including availability, connections, replication or clustering, backup, and recovery.</li><li>Strong understanding of cloud security principles: least privilege, service accounts, Workload Identity, secrets management, network segmentation, and access auditing.</li><li>Ability to independently deliver infrastructure changes to a validated production result, explain technical trade-offs, and collaborate effectively with Engineering and Security teams.</li></ul><p>Nice to Have</p><ul><li>Experience with <strong>Flux CD, Argo CD, Ansible, and HashiCorp Vault</strong>.</li><li>Experience with <strong>OpenTelemetry</strong> and distributed tracing.</li><li>Experience migrating infrastructure between clouds or Kubernetes clusters, including database migrations with limited downtime.</li><li>Experience designing disaster recovery strategies and conducting recovery exercises.</li><li>Cloud cost optimization and capacity planning experience.</li><li>Experience with <strong>DigitalOcean, Hetzner, or AWS</strong>.</li><li>Ability to read and troubleshoot JavaScript / TypeScript applications.</li><li>Experience operating financial or payment services with strict requirements around access control, auditing, reliability, and data integrity.</li></ul><p><br><br><strong>Benefits</strong><br></p><ul><li>Professional growth: support for courses, conferences, and English learning (up to 100% coverage). </li><li> Work-life fit: remote or hybrid format with flexible hours across international teams. </li><li>Paid leave: up to 20 vacation days +  8 company holidays + 5 personal days per year</li><li> Recognition programs: structured performance reviews and team awards. </li><li>Team culture: retreats in international locations (for example, company apartments in Cyprus).</li></ul><p><strong>To apply:</strong> https://weworkremotely.com/remote-jobs/gomining-senior-devops-platform-engineer-gcp</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-devops-platform-engineer-gcp-gomining</p>",
-      "posted_at": "2026-11-16T18:32:34+00:00",
-      "is_translated": false,
-      "original_language": null
-    },
-    {
-      "id": "ce3f8905-7d98-4499-8e84-ff04c8115761",
-      "title": "Microsoft Endpoint / Intune Consultant",
-      "url": "https://remotejobs.org/remote-jobs/microsoft-endpoint-intune-consultant-dl-remote",
-      "apply_url": "https://remotejobs.org/remote-jobs/microsoft-endpoint-intune-consultant-dl-remote",
-      "company": {
-        "name": "DL Remote",
-        "logo_url": "https://assets.remotejobs.org/company-logos/scraped/24a15679023376091d82cbf0b78ab9e420e6747687978076c3998bf3606ff859.webp",
-        "website": null,
-        "url": "https://remotejobs.org/companies/dl-remote"
-      },
-      "category": {
-        "name": "DevOps",
-        "slug": "devops"
-      },
-      "location": "Anywhere in the World",
-      "location_normalization": {
-        "raw": "Anywhere in the World",
-        "input": {},
-        "scope": "worldwide",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "unknown",
-        "status": "unknown",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [
-          "The posting states that the role should regularly include presence in one of the offices in Ansfelden, Wien, Salzburg, Hall in Tirol or München. This regular office-presence expectation is not represented as an applicant residence or work-location permission and cannot be fully resolved as eligibility from the supplied text."
-        ],
-        "evidence_ids": [],
-        "allowed_regions": [],
-        "work_arrangement": "hybrid",
-        "allowed_countries": [],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "unknown",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": null,
-        "role_family": null,
-        "required_skills": [],
-        "mentioned_skills": [],
-        "preferred_skills": [],
-        "experience_requirements": []
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": null,
-      "salary_period": null,
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<p><strong>Headquarters:</strong> Spittelwiese 6 Linz, 4020 Austria<br>\n<strong>URL:</strong> <a href=\"http://dl-remote.com\">http://dl-remote.com</a></p>\n<p>We are currently filling a role as Senior IT Consultant with a focus on Microsoft Endpoint / Intune at a leading provider of IT services in Austria.</p>\n<p>In this role, you are responsible for the analysis, design and implementation of modern endpoint solutions, primarily with Microsoft products. You advise customers on cloud, hybrid and on-premises options, conduct workshops, and take on the technical implementation as well as project management.</p>\n<p>We are looking for experienced IT experts with solid knowledge of Microsoft Workplace / Endpoint technologies. You should therefore bring experience with both Windows 10/11 and Intune Configuration and Mobile Device Management. In addition, you should enjoy supporting and further developing customer environments, as this will be one of the main focus areas of the role.</p>\n<p>| WHAT YOU WILL DO<br>\n<br>\n* IT solutions: You analyze, design and implement modern Microsoft Workplace endpoint solutions for cloud, hybrid and on-premises environments.</p>\n<p>* Customer consulting: You conduct technical workshops and training sessions for customers and advise them on questions of the Modern Workplace and endpoint management.</p>\n<p>* Project management: You plan and implement migrations and take on technical project management.</p>\n<p>* Optimization: You define and implement KPIs for the continuous improvement of IT processes.</p>\n<p>* System operations: You support day-to-day system operations, create documentation, and provide 2nd- and 3rd-level support.</p>\n<p>| WHOM WE ARE LOOKING FOR<br>\n<br>\n* Technical training: You have a completed technical training in the IT field.</p>\n<p>* Modern Workplace expertise: You have solid knowledge of Intune &#x26; Configuration Manager for endpoint management.</p>\n<p>* System competence: You are proficient in OS and application management, inventory and patch management for Windows, iOS, macOS &#x26; Android.</p>\n<p>* Communication skills: You are a team player with strong communication skills and a high degree of customer and solution orientation.</p>\n<p>* Personal responsibility: You work responsibly, accurately, in a structured way, and on your own initiative.</p>\n<p>* Willingness to learn: You bring initiative and the desire for continuous development to a dynamic team.</p>\n<p>| REMOTE WORK POLICY<br>\n<br>\nIn this role, you can work predominantly remotely; however, you should plan regular on-site presence at one of the offices in Ansfelden, Vienna, Salzburg, Hall in Tyrol or Munich to foster personal exchange with the team.</p>\n<p>| WHAT YOU WILL GET<br>\n<br>\n* Salary up to €100k + bonus</p>\n<p>* Company car from the 3rd month (also for private use)</p>\n<p>* Bike leasing for a top-of-the-line company bike</p>\n<p>* 4-day week possible</p>\n<p>* Sports subsidy for fitness studios, Alpenverein or sports clubs</p>\n<p>* Remote setup with plenty of room for individual flexibility &#x26; a very high employee satisfaction rating (Kununu)</p>\n<p>| NEXT STEPS<br>\n<br>\nIf you apply here, we will send you additional information about the company, the role and the salary to support your decision-making process.</p>\n<p>If you remain interested, we will invite you to a first conversation.</p>\n<p><strong>To apply:</strong> https://weworkremotely.com/remote-jobs/dl-remote-microsoft-endpoint-intune-consultant</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/microsoft-endpoint-intune-consultant-dl-remote</p>",
-      "posted_at": "2026-11-16T18:32:34+00:00",
-      "is_translated": true,
-      "original_language": "de"
-    },
-    {
-      "id": "f613e932-8316-4474-ade0-52a7c9159958",
-      "title": "Senior DevOps Engineer",
-      "url": "https://remotejobs.org/remote-jobs/senior-devops-engineer-epam-systems",
-      "apply_url": "https://remotejobs.org/remote-jobs/senior-devops-engineer-epam-systems",
-      "company": {
-        "name": "EPAM Systems",
-        "logo_url": "https://we-work-remotely.imgix.net/logos/0171/6472/logo.gif",
-        "website": "https://we-work-remotely.imgix.net",
-        "url": "https://remotejobs.org/companies/epam-systems"
-      },
-      "category": {
-        "name": "DevOps",
-        "slug": "devops"
-      },
-      "location": "Anywhere in the World",
-      "location_normalization": {
-        "raw": "Anywhere in the World",
-        "input": {},
-        "scope": "worldwide",
-        "status": "known",
-        "regions": [],
-        "version": "job-location/1",
-        "timezones": [],
-        "unresolved": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": []
-      },
-      "applicant_location_requirements": {
-        "scope": "unknown",
-        "status": "unknown",
-        "regions": [],
-        "version": "applicant-location/1",
-        "timezones": [],
-        "conditions": [],
-        "unresolved": [],
-        "evidence_ids": [],
-        "allowed_regions": [],
-        "work_arrangement": "unknown",
-        "allowed_countries": [],
-        "reference_version": "iso-3166@4.4.0",
-        "excluded_countries": [],
-        "extraction_version": "applicant-location/1|semantic-geography/3|iso-3166@4.4.0|claude-haiku-5-5|description-presentation/1|description-sanitizer/1|greenhouse-content/1|geography-prompt/5",
-        "allowed_subdivisions": [],
-        "excluded_subdivisions": [],
-        "worldwide_permission_verified": false
-      },
-      "search_facts": {
-        "status": "known",
-        "version": "job-search-enrichment/1|description-presentation/1|description-sanitizer/1",
-        "seniority": "senior",
-        "role_family": "devops",
-        "required_skills": [
-          "aws",
-          "docker",
-          "dotnet",
-          "golang",
-          "java",
-          "kubernetes",
-          "python",
-          "terraform"
-        ],
-        "mentioned_skills": [
-          "aws",
-          "docker",
-          "kubernetes"
-        ],
-        "preferred_skills": [],
-        "experience_requirements": [
-          {
-            "text": "3+ years experience with Azure or AWS (AKS/EKS, API Management, Virtual Machines, Cloud Databases, networking/VPC, VPNs, Serverless, IAM)",
-            "maximum_years": null,
-            "minimum_years": 3,
-            "classification": "required"
-          }
-        ]
-      },
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_source_text": null,
-      "salary_currency": null,
-      "salary_period": null,
-      "type": "Full-time",
-      "employment_types": [
-        "FULL_TIME"
-      ],
-      "employer_job_id": null,
-      "direct_apply": null,
-      "description": "<p><strong>Headquarters:</strong> Croatia<br>\n<strong>URL:</strong> <a href=\"http://epam.com\">http://epam.com</a></p>\n<p>We are seeking a <strong>Senior DevOps Engineer</strong>.</p>\n<p>Elevate your career with EPAM, a global leader in digital transformation. Apply today to explore this exciting opportunity and be part of a dynamic project.</p>\n<h2>Responsibilities</h2>\n<ul>\n<li>Develop cloud solutions with Azure/AWS</li>\n<li>Implement container platforms like Docker and Kubernetes</li>\n<li>Enable continuous integration and delivery using CI/CD tools</li>\n<li>Write scripts for system automation with relevant coding languages</li>\n<li>Monitor system performance and address issues using appropriate tools</li>\n<li>Collaborate effectively with both team members and stakeholders</li>\n<li>Use English for communication in a global team setting</li>\n</ul>\n<h2>Requirements</h2>\n<ul>\n<li>3+ years experience with Azure or AWS (AKS/EKS, API Management, Virtual Machines, Cloud Databases, networking/VPC, VPNs, Serverless, IAM)</li>\n<li>Knowledge of Containers (Docker, Kubernetes)</li>\n<li>Background in Software Development Life Cycle, Continuous Integration, and Continuous Delivery</li>\n<li>Skills in CI/CD tools (Jenkins, TeamCity, GoCD, Travis, CodePipeline, Azure DevOps)</li>\n<li>Competency in Infrastructure as Code such as Terraform, CloudFormation, or CDK/SDK</li>\n<li>Proficiency in scripting/coding for automation (Bash, Python, Golang, PowerShell, Java, .NET, or similar)</li>\n<li>Expertise in monitoring tools like Prometheus, Grafana, Datadog, Graylog</li>\n<li>Excellent communication skills in writing, speaking, and reading</li>\n<li>Upper-Intermediate English language competency (B2)</li>\n</ul>\n<h2>Nice to have</h2>\n<ul>\n<li>Familiarity with security best practices in cloud and DevOps environments</li>\n<li>Understanding of advanced networking concepts and configurations</li>\n<li>Capability to use multiple programming languages effectively</li>\n<li>Flexibility to adapt to evolving technologies and methodologies</li>\n<li>Сertifications related to cloud platforms or DevOps</li>\n</ul>\n<p><strong>To apply:</strong> https://weworkremotely.com/remote-jobs/epam-systems-senior-devops-engineer</p><p>Apply directly on <a href=\"https://remotejobs.org\">RemoteJobs.org</a>: https://remotejobs.org/remote-jobs/senior-devops-engineer-epam-systems</p>",
       "posted_at": "2026-11-16T18:32:34+00:00",
       "is_translated": false,
       "original_language": null
