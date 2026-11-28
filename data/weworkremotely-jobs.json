@@ -1,7 +1,22 @@
 {
-  "generatedAt": "2026-11-27T16:17:03.717Z",
-  "count": 587,
+  "generatedAt": "2026-11-28T01:12:36.385Z",
+  "count": 617,
   "jobs": [
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/oneimaging-cloud-systems-administrator",
+      "source": "weworkremotely",
+      "title": "Cloud Systems Administrator",
+      "company": "OneImaging",
+      "url": "https://weworkremotely.com/remote-jobs/oneimaging-cloud-systems-administrator",
+      "description": "Headquarters: URL: https://oneimaging.com Radiology is the second most used healthcare service, used by over 51% of the workforce annually. Despite the critical role of radiology in healthcare, the process for undergoing a medical imaging exam has remained unchanged for decades. OneImaging is solving this with a concierge approach and a premium-quality radiology network of over 5,000 vetted providers across 48 states, which also reduces imaging costs by 60-80%. Our solution helps patients and families access essential radiology services at fair prices and without surprise bills, all while delivering immediate savings and ROI for employers and payers on every exam. The Systems Administrator owns the day-to-day administration of our SaaS and cloud vendor stack, with security and logging as t",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "programming"
+      ],
+      "postedAt": "Sat, 07 Nov 2026 17:01:12 +0000",
+      "category": "programming"
+    },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/opentrain-ai-full-stack-engineer",
       "source": "weworkremotely",
@@ -363,19 +378,169 @@
       "category": "programming"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/simpletiger-web-developer-wordpress-hubspot-u-s-based-remote-contractor",
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/coder-technologies-inc-senior-platform-engineer",
       "source": "weworkremotely",
-      "title": "Web Developer: WordPress & HubSpot (U.S. Based, Remote Contractor)",
-      "company": "SimpleTiger",
-      "url": "https://weworkremotely.com/remote-jobs/simpletiger-web-developer-wordpress-hubspot-u-s-based-remote-contractor",
-      "description": "Headquarters: Sarasota, FL URL: https://www.simpletiger.com/ SimpleTiger is hiring a part-time contract web developer to build, improve, and troubleshoot client websites in WordPress and HubSpot, with the potential to grow into a larger role. We’re a B2B SaaS marketing agency helping software companies grow through SEO, content marketing, paid media, and answer engine optimization (AEO). Our clients’ websites are where much of that work comes to life, and we’re looking for a developer who can turn ideas into clean, functional pages quickly. As part of our delivery team, you’ll work primarily on client websites, translating designs, campaign concepts, and SEO recommendations into effective web experiences. From building new pages to fixing issues on existing sites, you’ll help turn our mark",
+      "title": "Senior Platform Engineer",
+      "company": "Coder Technologies Inc.",
+      "url": "https://weworkremotely.com/remote-jobs/coder-technologies-inc-senior-platform-engineer",
+      "description": "Headquarters: United States As a Senior Platform Engineer at Coder, you will own the infrastructure Coder's own engineers build on every day. Our internal environments run the same deployment path we publish for customers, so when something does not hold up at our scale, we find it before a customer does. We avoid building anything so specific to ourselves that a customer could not run the same thing. Platform Engineering owns three areas. We run the internal environments our engineers develop in, the self-service environments our field teams use to demo Coder, and the release pipeline that publishes every Coder artifact. You will take ownership of components across these and stay accountable for how they behave in production after they ship. Our users are Coder’s engineers and field teams",
+      "location": "USA Only",
+      "tags": [
+        "DevOps and Sysadmin",
+        "devops"
+      ],
+      "postedAt": "Fri, 27 Nov 2026 18:40:41 +0000",
+      "category": "devops"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/keeper-security-google-cloud-gemini-enterprise-administrator",
+      "source": "weworkremotely",
+      "title": "Google Cloud & Gemini Enterprise Administrator",
+      "company": "Keeper Security",
+      "url": "https://weworkremotely.com/remote-jobs/keeper-security-google-cloud-gemini-enterprise-administrator",
+      "description": "Headquarters: Remote, US Description Keeper Security is hiring a Senior Google Cloud & Gemini Enterprise Administrator to join our IT organization and manage Keeper’s Google Cloud, Google Workspace and Gemini Enterprise environments. This role offers 100% remote work. Keeper’s cybersecurity software is trusted by millions of people and thousands of organizations globally. Keeper is published in 23 languages and sold in over 150 countries. Join one of the fastest-growing cybersecurity companies and help securely scale the cloud and AI platforms used across Keeper’s global workforce. &nbsp; About Keeper Keeper Security is one of the fastest-growing cybersecurity software companies that protects thousands of organizations and millions of people in over 150 countries. Keeper is a pioneer of ze",
       "location": "Anywhere in the World",
       "tags": [
-        "Front-End Programming",
-        "programming"
+        "DevOps and Sysadmin",
+        "devops"
       ],
-      "postedAt": "Wed, 28 Oct 2026 16:49:37 +0000",
-      "category": "programming"
+      "postedAt": "Fri, 27 Nov 2026 18:32:57 +0000",
+      "category": "devops"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/abnormal-director-professional-services",
+      "source": "weworkremotely",
+      "title": "Director, Professional Services",
+      "company": "Abnormal",
+      "url": "https://weworkremotely.com/remote-jobs/abnormal-director-professional-services",
+      "description": "Headquarters: Remote - USA About the Role Abnormal AI is hiring a Global Director of Professional Services to set the vision and growth strategy for our global services organization. You’ll lead the teams that help enterprise customers implement Abnormal and migrate from legacy Secure Email Gateways (SEGs). You’ll own delivery performance across regions and build a services model that helps customers go live faster and with less disruption. You’ll help to build our new product implementation strategy as Abnormal AI becomes a multi-product behavioral security platform.&nbsp; Who You Are You’re a services leader who can turn a long-term strategy into clear priorities for managers and delivery teams. You use customer outcomes and financial data to make decisions about where to invest, and you",
+      "location": "Anywhere in the World",
+      "tags": [
+        "DevOps and Sysadmin",
+        "devops"
+      ],
+      "postedAt": "Fri, 27 Nov 2026 18:32:51 +0000",
+      "category": "devops"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/keeper-security-enterprise-sales-executive-uk",
+      "source": "weworkremotely",
+      "title": "Enterprise Sales Executive (UK)",
+      "company": "Keeper Security",
+      "url": "https://weworkremotely.com/remote-jobs/keeper-security-enterprise-sales-executive-uk",
+      "description": "Headquarters: Remote, UK Description Keeper is hiring a driven Enterprise Sales Executive to join our high producing global B2B sales division. Qualified candidates must permanently reside in the UK. This is a fully remote position for those residing in the UK. Keeper’s cybersecurity software is trusted by millions of people and thousands of organisations, globally. Keeper is published in 23 languages and is sold in over 150 countries. Join one of the fastest-growing cybersecurity companies and play a key role in our continued growth! About Keeper Keeper Security is one of the fastest-growing cybersecurity software companies that protects thousands of organisations and millions of people in over 150 countries. Keeper is a pioneer of zero-knowledge and zero-trust security built for any IT e",
+      "location": "Anywhere in the World",
+      "tags": [
+        "DevOps and Sysadmin",
+        "devops"
+      ],
+      "postedAt": "Fri, 27 Nov 2026 18:32:51 +0000",
+      "category": "devops"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/6sense-staff-security-engineer-secops-threats",
+      "source": "weworkremotely",
+      "title": "Staff Security Engineer - SecOps & Threats",
+      "company": "6sense",
+      "url": "https://weworkremotely.com/remote-jobs/6sense-staff-security-engineer-secops-threats",
+      "description": "Headquarters: United States, Remote Our Mission: 6sense's mission is to multiply what matters: growth, retention, and efficiency.&nbsp; We envision a future where companies, teams and people reach their full potential. Our People: People are the heart and soul of 6sense. We serve with passion and purpose. We live by our Being 6sense values of Win as One Team, Stay Curious, Do The Right Thing, Own the Outcome, and Create Belonging. &nbsp;Every 6sensor plays a part in deﬁning the future of our industry-leading technology.&nbsp; 6sense is a place where difference-makers roll up their sleeves, take risks, act with integrity, and measure success by the value we create for our customers.&nbsp; We want 6sense to be the best chapter of your career.&nbsp; As a member of 6sense’s Security department",
+      "location": "Anywhere in the World",
+      "tags": [
+        "DevOps and Sysadmin",
+        "devops"
+      ],
+      "postedAt": "Fri, 27 Nov 2026 18:31:47 +0000",
+      "category": "devops"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/6sense-staff-security-engineer-appsec",
+      "source": "weworkremotely",
+      "title": "Staff Security Engineer - AppSec",
+      "company": "6sense",
+      "url": "https://weworkremotely.com/remote-jobs/6sense-staff-security-engineer-appsec",
+      "description": "Headquarters: United States, Remote Our Mission: 6sense's mission is to multiply what matters: growth, retention, and efficiency.&nbsp; We envision a future where companies, teams and people reach their full potential. Our People: People are the heart and soul of 6sense. We serve with passion and purpose. We live by our Being 6sense values of Win as One Team, Stay Curious, Do The Right Thing, Own the Outcome, and Create Belonging. &nbsp;Every 6sensor plays a part in deﬁning the future of our industry-leading technology.&nbsp; 6sense is a place where difference-makers roll up their sleeves, take risks, act with integrity, and measure success by the value we create for our customers.&nbsp; We want 6sense to be the best chapter of your career.&nbsp; Job Title Staff Security Engineer, AppSec O",
+      "location": "Anywhere in the World",
+      "tags": [
+        "DevOps and Sysadmin",
+        "devops"
+      ],
+      "postedAt": "Fri, 27 Nov 2026 18:31:37 +0000",
+      "category": "devops"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/ping-identity-sales-development-representative-federal-east-coast",
+      "source": "weworkremotely",
+      "title": "Sales Development Representative- Federal- East Coast",
+      "company": "Ping Identity",
+      "url": "https://weworkremotely.com/remote-jobs/ping-identity-sales-development-representative-federal-east-coast",
+      "description": "Headquarters: USA - Atlanta, GA - Remote About Ping Identity:&nbsp; At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it's not just something we provide our customers. It's something that inspires our company. People don't come here to join a culture that's built on digital freedom. They come to cultivate it.&nbsp; Our intelligent, cloud identity platform lets people shop, work, bank, and interact wherever and however they want. Without friction. Without fear.&nbsp; While protecting digital identities is at the core of our technology, protecting individual identities is at the core of our culture.&nbsp; We champion every identity. One of our core values, Respect Individuality, reminds us ",
+      "location": "Anywhere in the World",
+      "tags": [
+        "DevOps and Sysadmin",
+        "devops"
+      ],
+      "postedAt": "Fri, 27 Nov 2026 18:31:37 +0000",
+      "category": "devops"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/ping-identity-rvp-channels-alliances-americas",
+      "source": "weworkremotely",
+      "title": "RVP, Channels & Alliances - Americas",
+      "company": "Ping Identity",
+      "url": "https://weworkremotely.com/remote-jobs/ping-identity-rvp-channels-alliances-americas",
+      "description": "Headquarters: USA - Denver, CO - Remote About Ping Identity:&nbsp; At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it's not just something we provide our customers. It's something that inspires our company. People don't come here to join a culture that's built on digital freedom. They come to cultivate it.&nbsp; Our intelligent, cloud identity platform lets people shop, work, bank, and interact wherever and however they want. Without friction. Without fear.&nbsp; While protecting digital identities is at the core of our technology, protecting individual identities is at the core of our culture.&nbsp; We champion every identity. One of our core values, Respect Individuality, reminds us t",
+      "location": "Anywhere in the World",
+      "tags": [
+        "DevOps and Sysadmin",
+        "devops"
+      ],
+      "postedAt": "Fri, 27 Nov 2026 18:31:23 +0000",
+      "category": "devops"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/metamask-noc-engineer",
+      "source": "weworkremotely",
+      "title": "NOC Engineer",
+      "company": "MetaMask",
+      "url": "https://weworkremotely.com/remote-jobs/metamask-noc-engineer",
+      "description": "Headquarters: EMEA - Remote Please note that we are unable to consider applications from candidates based in France, Italy, or Germany for this role. Money is moving onto the internet, and the shift has a name: Open Money. This is money that is open, portable, agentic, and owned by you. MetaMask spent the last ten years building it; with 100M+ downloads, users in ~190 countries, and trillions in cumulative transaction volume, it's the most trusted self-custodial financial platform on the internet. Now we're building the operating system for your money: one place to hold, move, grow, and use anything you own.&nbsp; Join a remote-first, global team rebuilding how money works: a problem that touches everyone, every day. Our mission is to unlock the collaborative power of communities by making",
+      "location": "Anywhere in the World",
+      "tags": [
+        "DevOps and Sysadmin",
+        "devops"
+      ],
+      "postedAt": "Fri, 27 Nov 2026 18:31:11 +0000",
+      "category": "devops"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/coder-technologies-inc-staff-solutions-engineer-us-east",
+      "source": "weworkremotely",
+      "title": "Staff Solutions Engineer (US East)",
+      "company": "Coder Technologies Inc.",
+      "url": "https://weworkremotely.com/remote-jobs/coder-technologies-inc-staff-solutions-engineer-us-east",
+      "description": "Headquarters: United States Coder is hiring a Staff Solutions Engineer to support our growing customer base. Your deep platform engineering and AI development knowledge, helps enterprises remove friction from coding, and keeps developers in flow. You partner with Account Executives, and Global 2000 prospects, to verify proper fit and value of Coder solutions for human and agentic development. Together we design, demo, and troubleshoot environments that transform how teams ship code. What you’ll do here: Own the technical relationship with prospects through pre‑sales, and efficiently manage towards a technical win Post‑sales support when needed Demo the Coder platform from both the developer and administrator personas Install Coder on cloud and on‑prem Kubernetes or VM infrastructure Run pr",
+      "location": "USA Only",
+      "tags": [
+        "DevOps and Sysadmin",
+        "devops"
+      ],
+      "postedAt": "Fri, 27 Nov 2026 17:00:41 +0000",
+      "category": "devops"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/snowflake-solution-engineering-manager-expansion",
+      "source": "weworkremotely",
+      "title": "Solution Engineering Manager (Expansion)",
+      "company": "Snowflake",
+      "url": "https://weworkremotely.com/remote-jobs/snowflake-solution-engineering-manager-expansion",
+      "description": "Headquarters: DE-Germany-Remote At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset — who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snowflake, your role isn't just to execute a function, but to help redefine the future of how work gets done. Our Solution Engineering organisation is seeking a Senior Mana",
+      "location": "Europe Only",
+      "tags": [
+        "DevOps and Sysadmin",
+        "devops"
+      ],
+      "postedAt": "Fri, 27 Nov 2026 16:40:41 +0000",
+      "category": "devops"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/ping-identity-professional-services-engagement-manager",
@@ -1938,6 +2103,21 @@
       "category": "devops"
     },
     {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/metamask-staff-product-manager-core-ux",
+      "source": "weworkremotely",
+      "title": "Staff Product Manager, Core UX",
+      "company": "MetaMask",
+      "url": "https://weworkremotely.com/remote-jobs/metamask-staff-product-manager-core-ux",
+      "description": "Headquarters: United States - Remote, EMEA - Remote Please note that we are unable to consider applications from candidates based in France, Italy, or Germany for this role. Money is moving onto the internet, and the shift has a name: Open Money. This is money that is open, portable, agentic, and owned by you. MetaMask spent the last ten years building it; with 100M+ downloads, users in ~190 countries, and trillions in cumulative transaction volume, it's the most trusted self-custodial financial platform on the internet. Now we're building the operating system for your money: one place to hold, move, grow, and use anything you own.&nbsp; Join a remote-first, global team rebuilding how money works: a problem that touches everyone, every day. About MetaMask & Trade MetaMask is a self-custodi",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Design",
+        "design"
+      ],
+      "postedAt": "Fri, 27 Nov 2026 18:31:16 +0000",
+      "category": "design"
+    },
+    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/tilt-staff-product-designer",
       "source": "weworkremotely",
       "title": "Staff Product Designer",
@@ -2491,6 +2671,111 @@
       ],
       "postedAt": "Wed, 30 Sep 2026 15:13:43 +0000",
       "category": "design"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/outmarket-ai-head-of-content",
+      "source": "weworkremotely",
+      "title": "Head of Content",
+      "company": "Outmarket AI",
+      "url": "https://weworkremotely.com/remote-jobs/outmarket-ai-head-of-content",
+      "description": "Headquarters: Remote US Head of Content Outmarket AI · Remote (US) · Full-time · Reports to the SVP of Marketing About Outmarket Insurance still runs on manual work. Most policies are sold through agents and brokers, and the people who know the work best are buried in the documents: checking policies line by line, comparing quotes, building proposals, on nights and weekends. We think that's backwards. The best people in insurance should spend their time advising clients. Outmarket, the AI platform built for insurance, makes that possible. Account teams drop in their documents and get back finished work to review, with every finding linked to the page it came from. Outmarket connects to the systems they already use. The judgment stays with the person; the groundwork doesn't. It's working. M",
+      "location": "USA Only",
+      "tags": [
+        "Product",
+        "product"
+      ],
+      "postedAt": "Fri, 27 Nov 2026 20:40:40 +0000",
+      "category": "product"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/outmarket-ai-head-of-growth",
+      "source": "weworkremotely",
+      "title": "Head of Growth",
+      "company": "Outmarket AI",
+      "url": "https://weworkremotely.com/remote-jobs/outmarket-ai-head-of-growth",
+      "description": "Headquarters: Remote US Head of Growth Outmarket AI · Remote (US) · Full-time · Reports to the SVP of Marketing About Outmarket Insurance still runs on manual work. Most policies are sold through agents and brokers, and the people who know the work best are buried in the documents: checking policies line by line, comparing quotes, building proposals, on nights and weekends. We think that's backwards. The best people in insurance should spend their time advising clients. Outmarket, the AI platform built for insurance, makes that possible. Account teams drop in their documents and get back finished work to review, with every finding linked to the page it came from. Outmarket connects to the systems they already use. The judgment stays with the person; the groundwork doesn't. It's working. Mo",
+      "location": "USA Only",
+      "tags": [
+        "Product",
+        "product"
+      ],
+      "postedAt": "Fri, 27 Nov 2026 20:20:41 +0000",
+      "category": "product"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/outmarket-ai-head-of-product-marketing",
+      "source": "weworkremotely",
+      "title": "Head of Product Marketing",
+      "company": "Outmarket AI",
+      "url": "https://weworkremotely.com/remote-jobs/outmarket-ai-head-of-product-marketing",
+      "description": "Headquarters: Remote US Head of Product Marketing Outmarket AI · Remote (US) · Full-time · Reports to the SVP of Marketing About Outmarket Insurance still runs on manual work. Most policies are sold through agents and brokers, and the people who know the work best are buried in the documents: checking policies line by line, comparing quotes, building proposals, on nights and weekends. We think that's backwards. The best people in insurance should spend their time advising clients. Outmarket, the AI platform built for insurance, makes that possible. Account teams drop in their documents and get back finished work to review, with every finding linked to the page it came from. Outmarket connects to the systems they already use. The judgment stays with the person; the groundwork doesn't. It's ",
+      "location": "USA Only",
+      "tags": [
+        "Product",
+        "product"
+      ],
+      "postedAt": "Fri, 27 Nov 2026 20:00:41 +0000",
+      "category": "product"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/snowflake-principal-practice-manager-federal",
+      "source": "weworkremotely",
+      "title": "PRINCIPAL PRACTICE MANAGER - Federal",
+      "company": "Snowflake",
+      "url": "https://weworkremotely.com/remote-jobs/snowflake-principal-practice-manager-federal",
+      "description": "Headquarters: US-DC-Remote At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset — who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snowflake, your role isn't just to execute a function, but to help redefine the future of how work gets done. PRINCIPAL PRACTICE MANAGER - Federal LEAD. STRATEGIZE. TRANSFORM. J",
+      "location": "USA Only",
+      "tags": [
+        "Product",
+        "product"
+      ],
+      "postedAt": "Fri, 27 Nov 2026 19:40:42 +0000",
+      "category": "product"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/oscilar-sr-data-analyst-fraud-aml",
+      "source": "weworkremotely",
+      "title": "Sr. Data Analyst - Fraud/AML",
+      "company": "Oscilar",
+      "url": "https://weworkremotely.com/remote-jobs/oscilar-sr-data-analyst-fraud-aml",
+      "description": "Headquarters: Remote Shape the future of trust in the age of AI At Oscilar, we're building the most advanced AI Risk Decisioning™ Platform. Banks, fintechs, and digitally native organizations rely on us to manage their fraud, credit, and compliance risk with the power of AI. If you're passionate about solving complex problems and making the internet safer for everyone, this is your place . Why join us: Mission-driven teams: Work alongside industry veterans from Meta, Uber, Citi, and Confluent, all united by a shared goal to make the digital world safer. Ownership and impact: We believe in extreme ownership. You'll be empowered to take responsibility, move fast, and make decisions that drive our mission forward. Innovate at the cutting edge: Your work will shape how modern finance detects f",
+      "location": "USA Only",
+      "tags": [
+        "Product",
+        "product"
+      ],
+      "postedAt": "Fri, 27 Nov 2026 19:00:40 +0000",
+      "category": "product"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/dropbox-principal-software-engineer-product-engineering",
+      "source": "weworkremotely",
+      "title": "Principal Software Engineer, Product Engineering",
+      "company": "Dropbox",
+      "url": "https://weworkremotely.com/remote-jobs/dropbox-principal-software-engineer-product-engineering",
+      "description": "Headquarters: Remote - Canada: Select locations Role Description As a Principal Engineer at Dropbox, you will own company critical, loosely defined technical problems with multi year impact, operating at the intersection of technology, product, business strategy, and applied AI. You will define long term technical direction for customer facing experiences used by millions, identifying where AI meaningfully improves customer value and translating evolving business context and industry advances into durable, multi area strategies and roadmaps that shape how Dropbox builds, scales, and innovates, while remaining hands on in software development where it provides the greatest leverage. &nbsp; Your influence will span organizations, setting foundational architecture, driving execution standards",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Product",
+        "product"
+      ],
+      "postedAt": "Fri, 27 Nov 2026 18:32:08 +0000",
+      "category": "product"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/upstart-principal-software-engineer-capital-marketplace",
+      "source": "weworkremotely",
+      "title": "Principal Software Engineer, Capital Marketplace",
+      "company": "Upstart",
+      "url": "https://weworkremotely.com/remote-jobs/upstart-principal-software-engineer-capital-marketplace",
+      "description": "Headquarters: United States | Remote About Upstart At Upstart, we’re united by a mission that matters: to radically reduce the cost and complexity of borrowing for all Americans. Every day, we bring creativity, experimentation, and advanced AI to reshape access to credit, helping millions move forward financially with clarity and confidence. As the leading AI lending marketplace, we partner with banks and credit unions to expand access to affordable credit through technology that’s both radically intelligent and deeply human. Our platform runs over one million predictions per borrower using more than 3,000 signals, powering smarter, fairer decisions for millions of customers. But the numbers only hint at the impact. Every idea, every voice, and every contribution moves us closer to a world",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Product",
+        "product"
+      ],
+      "postedAt": "Fri, 27 Nov 2026 18:31:53 +0000",
+      "category": "product"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/trm-labs-lead-product-manager",
@@ -3706,6 +3991,66 @@
       ],
       "postedAt": "Tue, 06 Oct 2026 08:44:40 +0000",
       "category": "product"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/customer-io-staff-software-engineer-backend",
+      "source": "weworkremotely",
+      "title": "Staff Software Engineer, Backend",
+      "company": "Customer.io",
+      "url": "https://weworkremotely.com/remote-jobs/customer-io-staff-software-engineer-backend",
+      "description": "Headquarters: Americas Remote Hi, I'm Paul, VP of Engineering at Customer.io . We're looking for a staff engineer to set technical direction for the systems that move billions of messages a day. This isn't a role about shipping more, faster. It's about deciding what gets built, where the architecture needs to go next, and raising the ceiling for the engineers around you. About Customer.io Over 9,000 companies — from scrappy startups to global brands — use our platform to send billions of emails, push notifications, in-app messages, and SMS every day. Customer.io powers automated communication that people actually want to receive. We help teams send smarter, more relevant messages using real-time behavioral data. Under the hood: Go, React, Ember and AI help us ship fast and scale with confi",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Fri, 27 Nov 2026 18:32:38 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/beyondtrust-sr-director-engineering",
+      "source": "weworkremotely",
+      "title": "Sr Director, Engineering",
+      "company": "BeyondTrust",
+      "url": "https://weworkremotely.com/remote-jobs/beyondtrust-sr-director-engineering",
+      "description": "Headquarters: Remote Eastern Canada | Remote Eastern United States BeyondTrust is a place where you can bring your purpose to life through the work that you do, creating a safer world through our cybersecurity SaaS portfolio. Our culture of flexibility, trust, and continual learning means you will be recognized for your growth, and for the impact you make on our success. You will be surrounded by people who challenge, support, and inspire you to be the best version of yourself. The Role BeyondTrust is looking for a Senior Director of Engineering to lead one of our core enterprise security product portfolios. You will own engineering for the portfolio end to end: technical direction, delivery, quality, and the people and leaders who make it happen. Our products protect privileged access for",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Fri, 27 Nov 2026 18:32:32 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/maven-clinic-senior-client-success-manager",
+      "source": "weworkremotely",
+      "title": "Senior Client Success Manager",
+      "company": "Maven Clinic",
+      "url": "https://weworkremotely.com/remote-jobs/maven-clinic-senior-client-success-manager",
+      "description": "Headquarters: Remote Maven Clinic is the world's largest virtual clinic for women and families on a mission to make healthcare work for all of us. Through Maven Enterprise, the company partners with more than 2,300 employers and health plans to provide end-to-end women's and family health programs spanning fertility and family building, maternity and newborn care, parenting and pediatrics, and menopause and midlife — improving clinical outcomes, reducing healthcare costs, and expanding equitable access to high-quality care at scale. Through its consumer platform, Maven provides direct access to virtual care across 30+ specialties, as well as dedicated hormone and GLP-1 care programs purpose-built for women. Founded in 2014 by CEO Kate Ryder, Maven Clinic has raised more than $425 million f",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Fri, 27 Nov 2026 18:31:59 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/celonis-senior-value-engineer-pharma-ai-process-optimization",
+      "source": "weworkremotely",
+      "title": "Senior Value Engineer (Pharma) - AI & Process Optimization",
+      "company": "Celonis",
+      "url": "https://weworkremotely.com/remote-jobs/celonis-senior-value-engineer-pharma-ai-process-optimization",
+      "description": "Headquarters: Remote, Finland Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI can actually understand, turning AI's operational blind spots into operational clarity. World's leading companies trust Celonis and its global ecosystem of partners to make their AI agents, people, systems, and processes work together, achieving transformational outcomes. We believe there's a massive opportunity to unlock global productivity and sustainability by giving AI the context to understand how every business process really works. Join our mission to make processes work for people, companies, and the planet. The Team: Value Engine",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Fri, 27 Nov 2026 18:31:37 +0000",
+      "category": "full-stack"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/oscilar-vp-of-engineering",
@@ -6903,19 +7248,124 @@
       "category": "full-stack"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/oneimaging-cloud-systems-administrator",
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/elevenlabs-technical-customer-support-specialist",
       "source": "weworkremotely",
-      "title": "Cloud Systems Administrator",
-      "company": "OneImaging",
-      "url": "https://weworkremotely.com/remote-jobs/oneimaging-cloud-systems-administrator",
-      "description": "Headquarters: URL: https://oneimaging.com Radiology is the second most used healthcare service, used by over 51% of the workforce annually. Despite the critical role of radiology in healthcare, the process for undergoing a medical imaging exam has remained unchanged for decades. OneImaging is solving this with a concierge approach and a premium-quality radiology network of over 5,000 vetted providers across 48 states, which also reduces imaging costs by 60-80%. Our solution helps patients and families access essential radiology services at fair prices and without surprise bills, all while delivering immediate savings and ROI for employers and payers on every exam. The Systems Administrator owns the day-to-day administration of our SaaS and cloud vendor stack, with security and logging as t",
+      "title": "Technical Customer Support Specialist",
+      "company": "ElevenLabs",
+      "url": "https://weworkremotely.com/remote-jobs/elevenlabs-technical-customer-support-specialist",
+      "description": "Headquarters: Japan Technical Customer Support Specialist (Contract, Remote) Who we are A global team united by curiosity and a shared mission: to be the first choice for AI audio. We're building a new category of technology from the ground up — moving fast, holding ourselves to a high bar, and giving everyone the autonomy to do their best work. The best idea wins, regardless of where it comes from. About the role As a Technical Customer Support Specialist, you'll be on the front lines with our enterprise and B2B customers — helping them get the most out of ElevenLabs, including our API and the ElevenAgents platform, which orchestrates LLMs, telephony, and other AI integrations. You're not just resolving tickets; you're the person who understands what's actually going wrong, communicates i",
+      "location": "Asia Only",
+      "tags": [
+        "Management and Finance",
+        "management"
+      ],
+      "postedAt": "Fri, 27 Nov 2026 19:20:41 +0000",
+      "category": "management"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/beyondtrust-sr-analyst-fp-a-gtm",
+      "source": "weworkremotely",
+      "title": "Sr. Analyst, FP&A - GTM",
+      "company": "BeyondTrust",
+      "url": "https://weworkremotely.com/remote-jobs/beyondtrust-sr-analyst-fp-a-gtm",
+      "description": "Headquarters: Remote United States | Georgia or East Coast BeyondTrust is a place where you can bring your purpose to life through the work that you do, creating a safer world through our cybersecurity SaaS portfolio. Our culture of flexibility, trust, and continual learning means you will be recognized for your growth, and for the impact you make on our success. You will be surrounded by people who challenge, support, and inspire you to be the best version of yourself. The Role We are looking for a highly analytical FP&A professional to support our go-to-market organization, with a primary focus on operating expenses, investment planning, and performance analysis. This role will provide hands-on financial planning and business partnership across GTM. You will manage expense forecasts, und",
       "location": "Anywhere in the World",
       "tags": [
-        "Full-Stack Programming",
-        "full-stack"
+        "Management and Finance",
+        "management"
       ],
-      "postedAt": "Sat, 07 Nov 2026 17:01:12 +0000",
-      "category": "full-stack"
+      "postedAt": "Fri, 27 Nov 2026 18:32:30 +0000",
+      "category": "management"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/maven-clinic-senior-business-recruiter-contract",
+      "source": "weworkremotely",
+      "title": "Senior Business Recruiter - Contract",
+      "company": "Maven Clinic",
+      "url": "https://weworkremotely.com/remote-jobs/maven-clinic-senior-business-recruiter-contract",
+      "description": "Headquarters: Remote Maven Clinic is the world's largest virtual clinic for women and families on a mission to make healthcare work for all of us. Through Maven Enterprise, the company partners with more than 2,300 employers and health plans to provide end-to-end women's and family health programs spanning fertility and family building, maternity and newborn care, parenting and pediatrics, and menopause and midlife — improving clinical outcomes, reducing healthcare costs, and expanding equitable access to high-quality care at scale. Through its consumer platform, Maven provides direct access to virtual care across 30+ specialties, as well as dedicated hormone and GLP-1 care programs purpose-built for women. Founded in 2014 by CEO Kate Ryder, Maven Clinic has raised more than $425 million f",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Management and Finance",
+        "management"
+      ],
+      "postedAt": "Fri, 27 Nov 2026 18:31:53 +0000",
+      "category": "management"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/sezzle-junior-software-engineer-with-accounting-experience-mexico",
+      "source": "weworkremotely",
+      "title": "Junior Software Engineer with Accounting Experience (Mexico)",
+      "company": "Sezzle",
+      "url": "https://weworkremotely.com/remote-jobs/sezzle-junior-software-engineer-with-accounting-experience-mexico",
+      "description": "Headquarters: Mexico, Remote The salary range for this role is $1,500 - $4,000 per month (Gross in USD)&nbsp; About Sezzle: With a mission to financially empower the next generation, Sezzle is revolutionizing the shopping experience beyond payments, blending cutting-edge tech with seamless, interest-free installment plans that make shopping smarter and more accessible. We’re not just transforming payments; we’re redefining how people discover, interact with, and purchase the things they love while driving real impact on merchant sales through increased conversions and higher order values. As we continue to shape the future of fintech and retail, we’re building an innovative, dynamic team passionate about creating more than just a transaction but a truly unique shopping journey. If you’re e",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Management and Finance",
+        "management"
+      ],
+      "postedAt": "Fri, 27 Nov 2026 18:31:11 +0000",
+      "category": "management"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/sezzle-junior-software-engineer-with-accounting-experience-latam",
+      "source": "weworkremotely",
+      "title": "Junior Software Engineer with Accounting Experience (LATAM)",
+      "company": "Sezzle",
+      "url": "https://weworkremotely.com/remote-jobs/sezzle-junior-software-engineer-with-accounting-experience-latam",
+      "description": "Headquarters: Colombia, Remote The salary range for this role is $1,500 - $4,000 per month (Gross in USD)&nbsp; About Sezzle: With a mission to financially empower the next generation, Sezzle is revolutionizing the shopping experience beyond payments, blending cutting-edge tech with seamless, interest-free installment plans that make shopping smarter and more accessible. We’re not just transforming payments; we’re redefining how people discover, interact with, and purchase the things they love while driving real impact on merchant sales through increased conversions and higher order values. As we continue to shape the future of fintech and retail, we’re building an innovative, dynamic team passionate about creating more than just a transaction but a truly unique shopping journey. If you’re",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Management and Finance",
+        "management"
+      ],
+      "postedAt": "Fri, 27 Nov 2026 18:31:11 +0000",
+      "category": "management"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/tilt-manager-strategic-sourcing",
+      "source": "weworkremotely",
+      "title": "Manager, Strategic Sourcing",
+      "company": "Tilt",
+      "url": "https://weworkremotely.com/remote-jobs/tilt-manager-strategic-sourcing",
+      "description": "Headquarters: Remote - US Join the Tilt team At Tilt, we see a side of people that traditional lenders miss. Our mobile-first products and machine learning-powered credit models look beyond credit scores, using over 250 real-time financial signals to recognize real potential. With millions of customers worldwide , we're not just changing how people access financial products — we're creating a new credit system that backs the working, whatever they're working toward. The Opportunity: Manager, Strategic Sourcing Tilt is hiring its first Strategic Sourcing lead, with the opportunity to establish strategic sourcing as a function and practice at the company. The core of the role is commercial judgment and hands-on negotiation: you'll quickly understand what each team needs, assess vendor econom",
+      "location": "USA Only",
+      "tags": [
+        "Management and Finance",
+        "management"
+      ],
+      "postedAt": "Fri, 27 Nov 2026 18:00:40 +0000",
+      "category": "management"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/clipboard-workforce-management-real-time-analyst",
+      "source": "weworkremotely",
+      "title": "Workforce Management - Real Time Analyst",
+      "company": "Clipboard",
+      "url": "https://weworkremotely.com/remote-jobs/clipboard-workforce-management-real-time-analyst",
+      "description": "Headquarters: Remote (APAC) About Clipboard Our mission is to uplift as many communities as possible. We do this through our app-based marketplace that connects healthcare professionals with the workplaces that need amazing workers. This enables hundreds of thousands of people to achieve financial stability for themselves and their families while providing essential care to millions of people across the U.S. Founded in 2016, we are a remote-first team of over 1,000 people building a top Y-Combinator company and have been profitable since 2022. We’re the leader in Long-Term Care staffing and are rapidly expanding into Home Health, Hospitals, and more, meaning we have more work to do than people to do it, and are growing our team to support millions more people and their communities. Overvie",
+      "location": "Asia Only",
+      "tags": [
+        "Management and Finance",
+        "management"
+      ],
+      "postedAt": "Fri, 27 Nov 2026 17:40:41 +0000",
+      "category": "management"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/truelogic-software-senior-data-engineer-real-estate-mexico",
+      "source": "weworkremotely",
+      "title": "Senior Data Engineer - Real Estate - Mexico",
+      "company": "Truelogic Software",
+      "url": "https://weworkremotely.com/remote-jobs/truelogic-software-senior-data-engineer-real-estate-mexico",
+      "description": "Headquarters: Mexico City About Truelogic At Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals. Our team of 600+ highly skilled tech professionals, based in Latin America, drives digital disruption by partnering with U.S. companies on their most impactful projects. Whether collaborating with Fortune 500 giants or scaling startups, we deliver results that make a difference. By applying for this position, you’re taking the first step in joining a dynamic team that values your expertise and aspirations. We aim to align your skills with oppo",
+      "location": "North America Only",
+      "tags": [
+        "Management and Finance",
+        "management"
+      ],
+      "postedAt": "Fri, 27 Nov 2026 16:20:40 +0000",
+      "category": "management"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/truelogic-software-senior-qa-automation-engineer-real-estate",
