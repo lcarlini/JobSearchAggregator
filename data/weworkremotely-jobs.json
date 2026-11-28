@@ -1,7 +1,37 @@
 {
-  "generatedAt": "2026-11-28T01:12:36.385Z",
-  "count": 617,
+  "generatedAt": "2026-11-28T15:10:14.298Z",
+  "count": 634,
   "jobs": [
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/terac-offensive-cybersecurity-engineers-build-rl-environments-for-ai-evaluation",
+      "source": "weworkremotely",
+      "title": "Offensive Cybersecurity Engineers: Build RL Environments for AI Evaluation",
+      "company": "Terac",
+      "url": "https://weworkremotely.com/remote-jobs/terac-offensive-cybersecurity-engineers-build-rl-environments-for-ai-evaluation",
+      "description": "Headquarters: United States URL: https://terac.com What We're Researching We're hiring offensive cybersecurity experts for a long-term paid project focused on AI evaluation. Our goal is to build and harden reinforcement learning environments that test the limits of frontier AI models. This work directly contributes to understanding and mitigating advanced security risks in emerging technologies. How It Works You will work remotely on an hourly basis to design and implement complex cybersecurity benchmarks. Your tasks will involve creating robust reinforcement learning environments tailored for offensive security scenarios. You will continuously harden these environments to ensure they provide rigorous evaluations for AI systems. The project requires ongoing collaboration and iterative deve",
+      "location": "USA Only",
+      "tags": [
+        "Full-Stack Programming",
+        "programming"
+      ],
+      "postedAt": "Mon, 09 Nov 2026 09:06:52 +0000",
+      "category": "programming"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/exa-support-engineer-paygo",
+      "source": "weworkremotely",
+      "title": "Support Engineer, PAYGO",
+      "company": "Exa",
+      "url": "https://weworkremotely.com/remote-jobs/exa-support-engineer-paygo",
+      "description": "Headquarters: URL: https://exa.ai/ About Exa We raised a $250M Series C to build the search engine for AIs. Led by a16z, with existing investors Benchmark, Lightspeed, and YC doubling down, the round brings Exa's valuation to $2.2 billion. Exa is building a search engine for the AI era. Our Search API currently powers Agents, Fortune 500s, and AI labs as we transform an industry that hasn't been disrupted since the 90s. We're a largely SF-based team of ~100 from Harvard, MIT, Meta, Google Research, ex-founders, and dropouts alike. We are rapidly building the most intelligent search engine in history. We're high agency, low-ego, and united by the feeling that this is one of the last problems worth getting right. About the Role Thousands of developers and companies use Exa on pay-as-you-go. ",
+      "location": "USA Only",
+      "tags": [
+        "Full-Stack Programming",
+        "programming"
+      ],
+      "postedAt": "Sun, 08 Nov 2026 17:00:43 +0000",
+      "category": "programming"
+    },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/oneimaging-cloud-systems-administrator",
       "source": "weworkremotely",
@@ -348,34 +378,19 @@
       "category": "programming"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/salesloft-hr-enablement-lead",
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/talkspace-senior-software-engineer",
       "source": "weworkremotely",
-      "title": "HR Enablement Lead",
-      "company": "Salesloft",
-      "url": "https://weworkremotely.com/remote-jobs/salesloft-hr-enablement-lead",
-      "description": "Headquarters: United States, Remote Job Title: HR Enablement Lead Job Location: United States, Remote&nbsp; This is a fully remote opportunity and can be worked from any location in the United States. ABOUT THE COMPANY: Salesloft is building the next era of enterprise revenue — one where teams make confident decisions powered by AI and real signals. By combining our scale, insights, and AI innovation, we're building the industry's first Predictive Revenue System, enabling humans and AI to work together to make smarter decisions and drive consistent growth. With thousands of customers using our platforms every day, we have an unmatched view into how revenue is actually won — the Revenue Context that reveals what happens, when, and with what outcome. This gives us a unique opportunity to tra",
+      "title": "Senior Software Engineer",
+      "company": "Talkspace",
+      "url": "https://weworkremotely.com/remote-jobs/talkspace-senior-software-engineer",
+      "description": "Headquarters: New York, NY (Remote) At Talkspace, we are committed to fostering a diverse, equitable, inclusive, and belonging-centered workplace where everyone can thrive while making a difference in mental health. Want to help over two million people receive quality mental healthcare? Come join our mission of getting therapy in the hands of everyone! We are looking for an experienced Senior Software Engineer to join our team. This individual will play a key role in designing, building, and scaling the core applications and services that power our platform. The ideal candidate is a hands-on full-stack engineer looking to build 0 to 1. To work at Talkspace, you need to be as passionate as we are about our work, and excited to partner with us on delivering quality mental healthcare. As a se",
       "location": "Anywhere in the World",
       "tags": [
-        "Full-Stack Programming",
-        "programming"
+        "DevOps and Sysadmin",
+        "devops"
       ],
-      "postedAt": "Thu, 29 Oct 2026 07:30:57 +0000",
-      "category": "programming"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/legion-senior-integration-engineer",
-      "source": "weworkremotely",
-      "title": "Senior Integration Engineer",
-      "company": "Legion",
-      "url": "https://weworkremotely.com/remote-jobs/legion-senior-integration-engineer",
-      "description": "Headquarters: Remote, Mexico Senior Integration Engineer Remote, Mexico JOB OVERVIEW Are you passionate about building large-scale applications leveraging public cloud services and integration design patterns? As an Integration Engineer, you will work on developing and maintaining Integration & Automation Solutions for Legion WFM customers. &nbsp; RESPONSIBILITIES AND DUTIES Integration Engineers provide leadership, facilitate analysis and design tasks, and support multiple Legion teams in developing an enterprise's solution architecture. Job responsibilities are grouped across four key areas: Technical Integrations, Customer-Centric Consulting, Legion Product Expertise, and a Commitment to One Another. Please note this role involves participation in on-call rotation. Technical Integration",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Back-End Programming",
-        "programming"
-      ],
-      "postedAt": "Thu, 29 Oct 2026 07:30:52 +0000",
-      "category": "programming"
+      "postedAt": "Sat, 28 Nov 2026 06:01:00 +0000",
+      "category": "devops"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/coder-technologies-inc-senior-platform-engineer",
@@ -885,21 +900,6 @@
         "devops"
       ],
       "postedAt": "Thu, 26 Nov 2026 06:00:58 +0000",
-      "category": "devops"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/natera-principal-software-engineer-in-test",
-      "source": "weworkremotely",
-      "title": "Principal Software Engineer in Test",
-      "company": "Natera",
-      "url": "https://weworkremotely.com/remote-jobs/natera-principal-software-engineer-in-test",
-      "description": "Headquarters: US Remote POSITION SUMMARY Natera is seeking a highly technical, hands-on Principal Software Engineer in Test to define and own the end-to-end test automation strategy across all products in the Women's Health, Organ Health, and EB (WH/OH/EB) vertical. In this role, you will design, build, and maintain scalable backend automation suites to validate critical workflows across distributed microservice architectures, guaranteeing data integrity from order entry and lab processing to clinical reporting. You will drive innovation by leveraging AI-assisted practices and large language models to automate test case generation, streamline log analysis, and enhance CI/CD execution speed. As a Principal level individual contributor, you will set technical direction for quality engineerin",
-      "location": "USA Only",
-      "tags": [
-        "DevOps and Sysadmin",
-        "devops"
-      ],
-      "postedAt": "Wed, 25 Nov 2026 21:40:10 +0000",
       "category": "devops"
     },
     {
@@ -1713,21 +1713,6 @@
       "category": "devops"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/beyondtrust-inside-solutions-engineer",
-      "source": "weworkremotely",
-      "title": "Inside Solutions Engineer",
-      "company": "BeyondTrust",
-      "url": "https://weworkremotely.com/remote-jobs/beyondtrust-inside-solutions-engineer",
-      "description": "Headquarters: Remote Germany BeyondTrust is a place where you can bring your purpose to life through the work that you do, creating a safer world through our cybersecurity SaaS portfolio. Our culture of flexibility, trust, and continual learning means you will be recognized for your growth, and for the impact you make on our success. You will be surrounded by people who challenge, support, and inspire you to be the best version of yourself. The Role As an Inside Solutions Engineer, you will collaborate with sales representatives and partners to showcase the value of BeyondTrust’s products, services, and solutions. Acting as a technical specialist within the sales cycle, you will provide foundational support to highlight the capabilities of the BeyondTrust suite. This role is ideal for indi",
-      "location": "Anywhere in the World",
-      "tags": [
-        "DevOps and Sysadmin",
-        "devops"
-      ],
-      "postedAt": "Fri, 20 Nov 2026 06:01:44 +0000",
-      "category": "devops"
-    },
-    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/fivetran-manager-security-engineer-operations",
       "source": "weworkremotely",
       "title": "Manager Security Engineer, Operations",
@@ -2070,21 +2055,6 @@
         "devops"
       ],
       "postedAt": "Fri, 30 Oct 2026 07:31:10 +0000",
-      "category": "devops"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-data-engineer",
-      "source": "weworkremotely",
-      "title": "Principal Data Engineer",
-      "company": "ZoomInfo Technologies LLC",
-      "url": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-data-engineer",
-      "description": "Headquarters: Remote-US ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen fast. &nbsp; We are seeking a highly experienced, hands-on&nbsp; Principal Data Engineer to define and evolve the architecture, engineering standards, and operating model for our enterprise data platform. This role is for a technical leader who excels at complex system design: translating business and analytical needs into scalable, reliable, secure, and maintainable data products. The Principal Data Engineer will lead critical archit",
-      "location": "Anywhere in the World",
-      "tags": [
-        "DevOps and Sysadmin",
-        "devops"
-      ],
-      "postedAt": "Thu, 29 Oct 2026 07:30:52 +0000",
       "category": "devops"
     },
     {
@@ -2671,6 +2641,66 @@
       ],
       "postedAt": "Wed, 30 Sep 2026 15:13:43 +0000",
       "category": "design"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/docker-principal-product-manager-sandboxes",
+      "source": "weworkremotely",
+      "title": "Principal Product Manager, Sandboxes",
+      "company": "Docker",
+      "url": "https://weworkremotely.com/remote-jobs/docker-principal-product-manager-sandboxes",
+      "description": "Headquarters: Canada About Docker Docker is the platform at the center of how intelligent software gets built. For more than a decade, Docker has helped millions of developers and thousands of organizations build, ship, and run software consistently across any environment. Today, Docker extends that same trust to the AI era. Docker Hardened Images form the foundation agentic code is built on, local and cloud Docker Sandboxes isolate where agents run, and Docker AI Governance sets enterprise-wide policy. Together, they give builders and organizations the confidence to adopt any model, tool, or agent without compromising security, governance, or control. _______________________________________________________________________ The Role The Products Team at Docker is looking for a Principal Pro",
+      "location": "Canada Only",
+      "tags": [
+        "Product",
+        "product"
+      ],
+      "postedAt": "Sat, 28 Nov 2026 12:00:42 +0000",
+      "category": "product"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/coinbase-group-product-manager-ai-foundations",
+      "source": "weworkremotely",
+      "title": "Group Product Manager, AI Foundations",
+      "company": "Coinbase",
+      "url": "https://weworkremotely.com/remote-jobs/coinbase-group-product-manager-ai-foundations",
+      "description": "Headquarters: Remote - USA Ready to do the most impactful work of your career? Coinbase is building the future of finance for people, institutions and their agents, with one place to trade crypto, equities, derivatives and prediction markets, use stablecoins, and connect AI agents with clear controls. The bar is high and the pace is intense, and we like it that way. This isn’t a place for complacency. It’s a place to be pushed past your perceived limits and do the best work of your career. If you’re ready to build the future of finance with a championship team who refuse to settle for “good enough,” you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for in-person working sessions As a Group Product Manager on the AI Foundations team w",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Product",
+        "product"
+      ],
+      "postedAt": "Sat, 28 Nov 2026 06:02:40 +0000",
+      "category": "product"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/twilio-executive-business-partner",
+      "source": "weworkremotely",
+      "title": "Executive Business Partner",
+      "company": "Twilio",
+      "url": "https://weworkremotely.com/remote-jobs/twilio-executive-business-partner",
+      "description": "Headquarters: Remote - US Who we are&nbsp; At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to &nbsp;hundreds of thousands of businesses&nbsp; and empower millions of developers worldwide to craft personalized customer experiences. Our dedication to remote-first work , and strong culture of connection and global inclusion means that no matter your location, you’re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we’re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands. . Hiring and how we work We use Artificial Intelligence (AI) to help make our hiring process efficient",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Product",
+        "product"
+      ],
+      "postedAt": "Sat, 28 Nov 2026 06:02:08 +0000",
+      "category": "product"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/pinterest-senior-technical-program-manager-infrastructure",
+      "source": "weworkremotely",
+      "title": "Senior Technical Program Manager, Infrastructure",
+      "company": "Pinterest",
+      "url": "https://weworkremotely.com/remote-jobs/pinterest-senior-technical-program-manager-infrastructure",
+      "description": "Headquarters: San Francisco, CA, US; Remote, US About Pinterest: Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product. Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other’s unique experiences and embrace the&nbsp; flexibility to do your best work. Creating a career you love? It’s Possible. At Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we’re looking for candidates who are excited to be a part of",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Product",
+        "product"
+      ],
+      "postedAt": "Sat, 28 Nov 2026 06:01:46 +0000",
+      "category": "product"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/outmarket-ai-head-of-content",
@@ -3498,21 +3528,6 @@
       "category": "product"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/tines-product-marketing-manager",
-      "source": "weworkremotely",
-      "title": "Product Marketing Manager",
-      "company": "Tines",
-      "url": "https://weworkremotely.com/remote-jobs/tines-product-marketing-manager",
-      "description": "Headquarters: Boston, MA (Hybrid); United States - Central (Remote); United States - East (Remote) Tines is the intelligent workflow company that powers some of the world's most important workflows.&nbsp; Tines has been supporting IT and security teams from a diverse range of customers, including Canva, Reddit, SAP, Coinbase, Mars, Fin (Intercom), and McKesson. Tines 3B, launched in 2026, is the next generation of Tines – a single, secure environment for every team’s apps, agents and automations. As an integrator across the entire tech stack, Tines is vendor-agnostic integrating with any API-enabled service. This flexibility enables our customers to achieve their highest-priority goals faster. Tines has security woven into its DNA, and our platform is secure and private by design.&nbsp; At",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Product",
-        "product"
-      ],
-      "postedAt": "Sun, 22 Nov 2026 06:02:43 +0000",
-      "category": "product"
-    },
-    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/launchdarkly-release-strategist-professional-services",
       "source": "weworkremotely",
       "title": "Release Strategist, Professional Services",
@@ -3991,6 +4006,96 @@
       ],
       "postedAt": "Tue, 06 Oct 2026 08:44:40 +0000",
       "category": "product"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/hr-a-la-carte-senior-word-press-woocommerce-engineer",
+      "source": "weworkremotely",
+      "title": "Senior Word Press / WooCommerce Engineer",
+      "company": "HR à la carte",
+      "url": "https://weworkremotely.com/remote-jobs/hr-a-la-carte-senior-word-press-woocommerce-engineer",
+      "description": "Headquarters: Kitchener, Ontario, Canada URL: https://hralacarte.ca Job Title Senior WordPress / WooCommerce Engineer Location Remote – Canada (EST Availability) Employment Type New, Full-Time Permanent position Compensation $100,000–$130,000 CAD annually, plus 5% employer retirement matching and benefits About Mad Barn Mad Barn is a growing equine nutrition company dedicated to improving horse health through research, education, and evidence-based nutritional solutions. Our WordPress and WooCommerce platforms are central to our business, supporting e-commerce operations, recurring subscriptions, customer accounts, educational content, and custom functionality across the Canadian and US markets. As we continue to grow, we're investing in our engineering capabilities to ensure our platforms",
+      "location": "Canada Only",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Sat, 28 Nov 2026 08:40:49 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/bitwarden-senior-site-reliability-engineer-fedramp",
+      "source": "weworkremotely",
+      "title": "Senior Site Reliability Engineer - FedRAMP",
+      "company": "Bitwarden",
+      "url": "https://weworkremotely.com/remote-jobs/bitwarden-senior-site-reliability-engineer-fedramp",
+      "description": "Headquarters: Remote, U.S. Bitwarden empowers enterprises, developers, and individuals to securely store and share&nbsp;sensitive data. With a transparent, open-source approach to password management, secrets&nbsp;management, and passwordless and passkey innovations, Bitwarden makes it easy for users to&nbsp;extend robust security practices across all online activities. Founded in 2016 with headquarters&nbsp;in Santa Barbara, California, Bitwarden is supported by a passionate global community of&nbsp;security experts and enthusiasts. As a Senior Site Reliability Engineer - FedRAMP at Bitwarden, you will be responsible for operating and building Bitwarden Gov. You will be responsible for every element of the infrastructure and operations within the new region, including availability, perfor",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Sat, 28 Nov 2026 06:02:53 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/oportun-staff-technical-program-manager-r14286",
+      "source": "weworkremotely",
+      "title": "Staff Technical Program Manager (R14286)",
+      "company": "Oportun",
+      "url": "https://weworkremotely.com/remote-jobs/oportun-staff-technical-program-manager-r14286",
+      "description": "Headquarters: Remote - US Who We Are Oportun (Nasdaq: OPRT) is a mission-driven financial services company that puts its members' financial goals within reach. With intelligent borrowing, savings, and budgeting capabilities, Oportun empowers members with the confidence to build a better financial future. Since inception, Oportun has provided more than $22.7 billion in responsible and affordable credit, saved its members more than $2.5 billion in interest and fees, and helped its members set aside an average of more than $1,800 annually. The Opportunity The Staff Technical Program Manager exists to drive complex technical programs that help the Engineering Ecosystem Org deliver member value with high speed and high quality. In year one, success means establishing clear program plans and roa",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Sat, 28 Nov 2026 06:02:40 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/coinbase-finance-strategy-analyst-product",
+      "source": "weworkremotely",
+      "title": "Finance & Strategy Analyst, Product",
+      "company": "Coinbase",
+      "url": "https://weworkremotely.com/remote-jobs/coinbase-finance-strategy-analyst-product",
+      "description": "Headquarters: Remote - USA Ready to do the most impactful work of your career? Coinbase is building the future of finance for people, institutions and their agents, with one place to trade crypto, equities, derivatives and prediction markets, use stablecoins, and connect AI agents with clear controls. The bar is high and the pace is intense, and we like it that way. This isn’t a place for complacency. It’s a place to be pushed past your perceived limits and do the best work of your career. If you’re ready to build the future of finance with a championship team who refuse to settle for “good enough,” you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for in-person working sessions We're hiring a Finance & Strategy Analyst to join the P",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Sat, 28 Nov 2026 06:02:40 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/rubrik-job-board-senior-commercial-compliance-analyst",
+      "source": "weworkremotely",
+      "title": "Senior Commercial Compliance Analyst",
+      "company": "Rubrik Job Board",
+      "url": "https://weworkremotely.com/remote-jobs/rubrik-job-board-senior-commercial-compliance-analyst",
+      "description": "Headquarters: Remote About the team: The Information Security organization advances the overall state of security at Rubrik through critical initiatives and coordination of large security projects. Information Security builds technologies, tools, and processes to better enable teams at Rubrik to develop secure software and protect data and systems with appropriate security controls. Information Security also develops systems to monitor and respond to attacks against our assets, provides awareness education to teams on security best practices for data protection, and ensures data governance and data sharing relationships with third parties in order to securely protect Rubrik information.&nbsp; About the role: Rubrik is seeking a Senior Commercial Compliance Analyst to lead Commercial Audit ",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Sat, 28 Nov 2026 06:01:46 +0000",
+      "category": "full-stack"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/celonis-senior-value-engineer-public-sector",
+      "source": "weworkremotely",
+      "title": "Senior Value Engineer - Public Sector",
+      "company": "Celonis",
+      "url": "https://weworkremotely.com/remote-jobs/celonis-senior-value-engineer-public-sector",
+      "description": "Headquarters: Remote, US, Virginia Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI can actually understand, turning AI's operational blind spots into operational clarity. World's leading companies trust Celonis and its global ecosystem of partners to make their AI agents, people, systems, and processes work together, achieving transformational outcomes. We believe there's a massive opportunity to unlock global productivity and sustainability by giving AI the context to understand how every business process really works. Join our mission to make processes work for people, companies, and the planet. Senior Value Engi",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Full-Stack Programming",
+        "full-stack"
+      ],
+      "postedAt": "Sat, 28 Nov 2026 06:01:15 +0000",
+      "category": "full-stack"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/customer-io-staff-software-engineer-backend",
@@ -5658,21 +5763,6 @@
       "category": "full-stack"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/tines-manager-sales-compensation-1",
-      "source": "weworkremotely",
-      "title": "Manager, Sales Compensation",
-      "company": "Tines",
-      "url": "https://weworkremotely.com/remote-jobs/tines-manager-sales-compensation-1",
-      "description": "Headquarters: Ireland (Remote) Tines is the intelligent workflow company that powers some of the world's most important workflows.&nbsp; Tines has been supporting IT and security teams from a diverse range of customers, including Canva, Reddit, SAP, Coinbase, Mars, Fin (Intercom), and McKesson. Tines 3B, launched in 2026, is the next generation of Tines – a single, secure environment for every team’s apps, agents and automations. As an integrator across the entire tech stack, Tines is vendor-agnostic integrating with any API-enabled service. This flexibility enables our customers to achieve their highest-priority goals faster. Tines has security woven into its DNA, and our platform is secure and private by design.&nbsp; At Tines, we're driven by our values of Simplicity, Speed, and Soundne",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Sat, 21 Nov 2026 18:32:19 +0000",
-      "category": "full-stack"
-    },
-    {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/coinbase-associate-manager-sox-and-internal-controls",
       "source": "weworkremotely",
       "title": "Associate Manager, SOX and Internal Controls",
@@ -5685,21 +5775,6 @@
         "full-stack"
       ],
       "postedAt": "Sat, 21 Nov 2026 18:32:19 +0000",
-      "category": "full-stack"
-    },
-    {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/tines-manager-sales-compensation",
-      "source": "weworkremotely",
-      "title": "Manager, Sales Compensation",
-      "company": "Tines",
-      "url": "https://weworkremotely.com/remote-jobs/tines-manager-sales-compensation",
-      "description": "Headquarters: Boston, MA (Hybrid); United States - East (Remote) Tines is the intelligent workflow company that powers some of the world's most important workflows.&nbsp; Tines has been supporting IT and security teams from a diverse range of customers, including Canva, Reddit, SAP, Coinbase, Mars, Fin (Intercom), and McKesson. Tines 3B, launched in 2026, is the next generation of Tines – a single, secure environment for every team’s apps, agents and automations. As an integrator across the entire tech stack, Tines is vendor-agnostic integrating with any API-enabled service. This flexibility enables our customers to achieve their highest-priority goals faster. Tines has security woven into its DNA, and our platform is secure and private by design.&nbsp; At Tines, we're driven by our values",
-      "location": "Anywhere in the World",
-      "tags": [
-        "Full-Stack Programming",
-        "full-stack"
-      ],
-      "postedAt": "Sat, 21 Nov 2026 18:32:12 +0000",
       "category": "full-stack"
     },
     {
@@ -7218,34 +7293,214 @@
       "category": "full-stack"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/terac-offensive-cybersecurity-engineers-build-rl-environments-for-ai-evaluation",
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/clickup-strategic-finance-manager",
       "source": "weworkremotely",
-      "title": "Offensive Cybersecurity Engineers: Build RL Environments for AI Evaluation",
-      "company": "Terac",
-      "url": "https://weworkremotely.com/remote-jobs/terac-offensive-cybersecurity-engineers-build-rl-environments-for-ai-evaluation",
-      "description": "Headquarters: United States URL: https://terac.com What We're Researching We're hiring offensive cybersecurity experts for a long-term paid project focused on AI evaluation. Our goal is to build and harden reinforcement learning environments that test the limits of frontier AI models. This work directly contributes to understanding and mitigating advanced security risks in emerging technologies. How It Works You will work remotely on an hourly basis to design and implement complex cybersecurity benchmarks. Your tasks will involve creating robust reinforcement learning environments tailored for offensive security scenarios. You will continuously harden these environments to ensure they provide rigorous evaluations for AI systems. The project requires ongoing collaboration and iterative deve",
+      "title": "Strategic Finance Manager",
+      "company": "ClickUp",
+      "url": "https://weworkremotely.com/remote-jobs/clickup-strategic-finance-manager",
+      "description": "Headquarters: United States At ClickUp, we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as part of our hiring process. Join us and help redefine what's possible. 🚀 About the Role ClickUp is looking for an FP&A Manager to serve as the financial business partner across three functions: R&D, G&A, and Corporate. You'll own the full cycle of forecasting, month-end close, and budget vs. actuals reporting for each, partnering directly with department leaders and the accounting team. This is a high-autonomy role on a lean Strategic Finance team where you'll have real",
       "location": "USA Only",
       "tags": [
-        "Full-Stack Programming",
-        "full-stack"
+        "Management and Finance",
+        "management"
       ],
-      "postedAt": "Mon, 09 Nov 2026 09:06:52 +0000",
-      "category": "full-stack"
+      "postedAt": "Sat, 28 Nov 2026 13:00:42 +0000",
+      "category": "management"
     },
     {
-      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/exa-support-engineer-paygo",
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/elevenlabs-deployment-strategist-lead-india",
       "source": "weworkremotely",
-      "title": "Support Engineer, PAYGO",
-      "company": "Exa",
-      "url": "https://weworkremotely.com/remote-jobs/exa-support-engineer-paygo",
-      "description": "Headquarters: URL: https://exa.ai/ About Exa We raised a $250M Series C to build the search engine for AIs. Led by a16z, with existing investors Benchmark, Lightspeed, and YC doubling down, the round brings Exa's valuation to $2.2 billion. Exa is building a search engine for the AI era. Our Search API currently powers Agents, Fortune 500s, and AI labs as we transform an industry that hasn't been disrupted since the 90s. We're a largely SF-based team of ~100 from Harvard, MIT, Meta, Google Research, ex-founders, and dropouts alike. We are rapidly building the most intelligent search engine in history. We're high agency, low-ego, and united by the feeling that this is one of the last problems worth getting right. About the Role Thousands of developers and companies use Exa on pay-as-you-go. ",
+      "title": "Deployment Strategist Lead - India",
+      "company": "ElevenLabs",
+      "url": "https://weworkremotely.com/remote-jobs/elevenlabs-deployment-strategist-lead-india",
+      "description": "Headquarters: India About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $22B - multiples of 11, always. We have expanded from voice into three main platforms: ElevenAgents enables businesses to deliver seamless and intelligent customer experiences, with the integrations, testing, monitoring, and reliability necessary to deploy voice and chat agents at sca",
+      "location": "Asia Only",
+      "tags": [
+        "Management and Finance",
+        "management"
+      ],
+      "postedAt": "Sat, 28 Nov 2026 11:40:41 +0000",
+      "category": "management"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/vultr-materials-leader",
+      "source": "weworkremotely",
+      "title": "Materials Leader",
+      "company": "Vultr",
+      "url": "https://weworkremotely.com/remote-jobs/vultr-materials-leader",
+      "description": "Headquarters: Remote - United States Who We Are Vultr is on a mission to make high-performance cloud infrastructure easy to use, affordable, and locally accessible for enterprises and AI innovators around the world. With 33 global cloud data center locations, Vultr is trusted by hundreds of thousands of active customers across 185 countries for its flexible, scalable, global Cloud Compute, Cloud GPU, Bare Metal, and Cloud Storage solutions. In December 2024 Vultr announced an equity financing at a $3.5 billion valuation. Founded by David Aninowsky and self-funded for over a decade, Vultr has grown to become the world’s largest privately-held cloud infrastructure company. Vultr Cares 100% company-paid insurance premiums for employee medical, dental and vision plans. 401(k) plan that matches",
       "location": "USA Only",
       "tags": [
-        "Full-Stack Programming",
-        "full-stack"
+        "Management and Finance",
+        "management"
       ],
-      "postedAt": "Sun, 08 Nov 2026 17:00:43 +0000",
-      "category": "full-stack"
+      "postedAt": "Sat, 28 Nov 2026 11:20:43 +0000",
+      "category": "management"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/truelogic-software-quality-engineer-automation-js-ts-software-industry",
+      "source": "weworkremotely",
+      "title": "Quality Engineer (Automation JS/TS) - Software Industry",
+      "company": "Truelogic Software",
+      "url": "https://weworkremotely.com/remote-jobs/truelogic-software-quality-engineer-automation-js-ts-software-industry",
+      "description": "Headquarters: LatAm About Truelogic At Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals. Our team of 600+ highly skilled tech professionals, based in Latin America, drives digital disruption by partnering with U.S. companies on their most impactful projects. Whether collaborating with Fortune 500 giants or scaling startups, we deliver results that make a difference. By applying for this position, you’re taking the first step in joining a dynamic team that values your expertise and aspirations. We aim to align your skills with opportunit",
+      "location": "Latin America Only",
+      "tags": [
+        "Management and Finance",
+        "management"
+      ],
+      "postedAt": "Sat, 28 Nov 2026 10:40:40 +0000",
+      "category": "management"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/truelogic-software-senior-full-stack-engineer-react-node-backend-focused-real-estate-latam",
+      "source": "weworkremotely",
+      "title": "Senior Full-stack Engineer (React/Node) (Backend-Focused) - Real Estate  - LATAM",
+      "company": "Truelogic Software",
+      "url": "https://weworkremotely.com/remote-jobs/truelogic-software-senior-full-stack-engineer-react-node-backend-focused-real-estate-latam",
+      "description": "Headquarters: LatAm About Truelogic At Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals. Our team of 600+ highly skilled tech professionals, based in Latin America, drives digital disruption by partnering with U.S. companies on their most impactful projects. Whether collaborating with Fortune 500 giants or scaling startups, we deliver results that make a difference. By applying for this position, you’re taking the first step in joining a dynamic team that values your expertise and aspirations. We aim to align your skills with opportunit",
+      "location": "Latin America Only",
+      "tags": [
+        "Management and Finance",
+        "management"
+      ],
+      "postedAt": "Sat, 28 Nov 2026 10:20:41 +0000",
+      "category": "management"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/truelogic-software-senior-full-stack-engineer-react-node-backend-focused-real-estate-dominican-republic-remote",
+      "source": "weworkremotely",
+      "title": "Senior Full-stack Engineer (React/Node) (Backend-Focused) - Real Estate  - Dominican Republic/Remote",
+      "company": "Truelogic Software",
+      "url": "https://weworkremotely.com/remote-jobs/truelogic-software-senior-full-stack-engineer-react-node-backend-focused-real-estate-dominican-republic-remote",
+      "description": "Headquarters: Santo Domingo About Truelogic At Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals. Our team of 600+ highly skilled tech professionals, based in Latin America, drives digital disruption by partnering with U.S. companies on their most impactful projects. Whether collaborating with Fortune 500 giants or scaling startups, we deliver results that make a difference. By applying for this position, you’re taking the first step in joining a dynamic team that values your expertise and aspirations. We aim to align your skills with op",
+      "location": "Latin America Only",
+      "tags": [
+        "Management and Finance",
+        "management"
+      ],
+      "postedAt": "Sat, 28 Nov 2026 10:00:41 +0000",
+      "category": "management"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/bon-secours-mercy-health-sr-hr-transformation-partner-work-at-home-ohio",
+      "source": "weworkremotely",
+      "title": "Sr. HR Transformation Partner - Work at Home - Ohio",
+      "company": "Bon Secours Mercy Health",
+      "url": "https://weworkremotely.com/remote-jobs/bon-secours-mercy-health-sr-hr-transformation-partner-work-at-home-ohio",
+      "description": "Headquarters: Ohio, United States URL: https://bsmhealth.org Thank you for considering a career at Bon Secours Mercy Health! Scheduled Weekly Hours: 40 Work Shift: Days/Afternoons (United States of America) Primary Function/General Purpose of Position&nbsp; The Senior HR Transformation Partner delivers high-impact people, change, workforce, and organizational solutions that enable enterprise strategy execution. This role serves as an advanced internal consultant, demonstrating deep expertise across multiple HR solution areas and applying enterprise methodologies to complex, high-impact, and ambiguous initiatives. Working in partnership with HR Strategic Partners, directors, and business leaders, the Senior HR Transformation Partner operates with a high degree of independence, providing int",
+      "location": "USA Only",
+      "tags": [
+        "Management and Finance",
+        "management"
+      ],
+      "postedAt": "Sat, 28 Nov 2026 09:40:38 +0000",
+      "category": "management"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/airvu-media-senior-digital-project-manager",
+      "source": "weworkremotely",
+      "title": "Senior Digital Project Manager",
+      "company": "AirVu Media",
+      "url": "https://weworkremotely.com/remote-jobs/airvu-media-senior-digital-project-manager",
+      "description": "Headquarters: Cape Town, Western Cape, South Africa URL: https://airvumedia.com The Senior Digital Project Manager takes ownership of website projects from discovery and planning through design, development, launch and ongoing support. Working closely with our CTO, designers, developers and other specialists, this role ensures projects are properly scoped, planned, resourced and delivered, with clear requirements, effective communication and accountability at every stage. We're looking for an experienced, proactive project manager with strong digital agency experience, technical literacy and commercial awareness. You'll independently manage multiple projects, anticipate risks, coordinate multidisciplinary teams and maintain strong client relationships. This is a fully remote, Cape Town-bas",
+      "location": "Africa Only",
+      "tags": [
+        "Management and Finance",
+        "management"
+      ],
+      "postedAt": "Sat, 28 Nov 2026 09:20:38 +0000",
+      "category": "management"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/bitwarden-sr-director-revenue-accounting",
+      "source": "weworkremotely",
+      "title": "Sr. Director Revenue Accounting",
+      "company": "Bitwarden",
+      "url": "https://weworkremotely.com/remote-jobs/bitwarden-sr-director-revenue-accounting",
+      "description": "Headquarters: US Remote Senior Director, Revenue Accounting &nbsp; Bitwarden is looking for a Sr. Director of Revenue Accounting to own how we recognize, record, and report revenue across both self-service and sales-assisted channels. This leader is accountable for the full revenue cycle, from contract and invoice through cash and recognized revenue. You will own our revenue stack (Stripe, HubSpot, and Rillet) end to end and partner closely with Sales, Legal, FP&A, and Engineering. &nbsp; What You'll Own: &nbsp; Own end-to-end order to cash operations for both self-service (PLG, credit card, via Stripe) and sales-assisted (enterprise, multi-year, custom contract) revenue streams. Own revenue recognition under ASC 606 for self-service and sales-assisted contracts, including performance obli",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Management and Finance",
+        "management"
+      ],
+      "postedAt": "Sat, 28 Nov 2026 06:02:53 +0000",
+      "category": "management"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/fivetran-senior-partner-operations-manager",
+      "source": "weworkremotely",
+      "title": "Senior Partner Operations Manager",
+      "company": "Fivetran",
+      "url": "https://weworkremotely.com/remote-jobs/fivetran-senior-partner-operations-manager",
+      "description": "Headquarters: Remote, Texas, United States, AMER From Fivetran’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to query, with no engineering or maintenance required. We’re proud that more organizations continue to leverage our technology every day to become truly data-driven. About Us Fivetran and dbt Labs are bringing together two industry-leading companies with a shared mission: helping organizations unlock the full value of their data. Together, we’re delivering the data infrastructure layer that helps organizations move, transform, and trust their data — from the moment data moves, through every transformation, to the context teams and AI ",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Management and Finance",
+        "management"
+      ],
+      "postedAt": "Sat, 28 Nov 2026 06:02:53 +0000",
+      "category": "management"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/stripe-design-recruiter",
+      "source": "weworkremotely",
+      "title": "Design Recruiter",
+      "company": "Stripe",
+      "url": "https://weworkremotely.com/remote-jobs/stripe-design-recruiter",
+      "description": "Headquarters: Chicago, Atlanta, US-Remote, Toro Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team The recruiting team seeks to build the culture of Stripe by aligning the strongest global talent to our highest impact business needs. They focus on bringing Stripe’s operating principles to life in their recruiting p",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Management and Finance",
+        "management"
+      ],
+      "postedAt": "Sat, 28 Nov 2026 06:02:40 +0000",
+      "category": "management"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/mercury-recruiter-sales",
+      "source": "weworkremotely",
+      "title": "Recruiter - Sales",
+      "company": "Mercury",
+      "url": "https://weworkremotely.com/remote-jobs/mercury-recruiter-sales",
+      "description": "Headquarters: San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States Our Sales team is often the first group a founder or business owner talks to at Mercury, and the people who help them as their company grows. Who we hire onto that team shapes how customers experience Mercury. We're looking for a Sales Recruiter to help build and scale that team. You'll own full-cycle searches across our sales organization, from high-volume roles like Sales Development Representatives to Account Executives and post-sales roles like Relationship Managers and Account Development. You'll work closely with hiring managers and senior recruiters, run searches end to end, and help improve how our recruiting team operates as we grow. This role is a good fit for someone who is orga",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Management and Finance",
+        "management"
+      ],
+      "postedAt": "Sat, 28 Nov 2026 06:01:15 +0000",
+      "category": "management"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/talkspace-senior-training-specialist",
+      "source": "weworkremotely",
+      "title": "Senior Training Specialist",
+      "company": "Talkspace",
+      "url": "https://weworkremotely.com/remote-jobs/talkspace-senior-training-specialist",
+      "description": "Headquarters: New York, NY (Remote) At Talkspace, we are committed to fostering a diverse, equitable, inclusive, and belonging-centered workplace where everyone can thrive while making a difference in mental health. Want to help over two million people receive quality mental healthcare? Come join our mission of getting therapy in the hands of everyone! We are looking for an experienced Senior Training Specialist to join our Operations, Client Support team. This role would be responsible for developing and delivering impactful training programs that drive employee performance, operational excellence, and continuous improvement across Client and Provider Support. We are looking for someone who is collaborative, adaptable, and passionate about learning and development, and is passionate about",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Management and Finance",
+        "management"
+      ],
+      "postedAt": "Sat, 28 Nov 2026 06:01:15 +0000",
+      "category": "management"
+    },
+    {
+      "id": "weworkremotely:https://weworkremotely.com/remote-jobs/mercury-recruiter-technical",
+      "source": "weworkremotely",
+      "title": "Recruiter - Technical",
+      "company": "Mercury",
+      "url": "https://weworkremotely.com/remote-jobs/mercury-recruiter-technical",
+      "description": "Headquarters: San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States Since 2019, Mercury has been rebuilding banking* for the way modern companies work. We combine thoughtful design with strong engineering to offer checking and savings accounts, cards, payments, credit, treasury and the analytics that tie it all together. Everything we build comes from one belief: finance should be carefully crafted, fast and transparent, and it should stay out of the way so founders can get back to building. That belief only holds up if the right people are building it. Hiring is one of the most important ways we shape Mercury’s future. In this role, you’ll directly influence the teams building our products and the experience of our customers. As a Technical Recruiter, you",
+      "location": "Anywhere in the World",
+      "tags": [
+        "Management and Finance",
+        "management"
+      ],
+      "postedAt": "Sat, 28 Nov 2026 06:01:15 +0000",
+      "category": "management"
     },
     {
       "id": "weworkremotely:https://weworkremotely.com/remote-jobs/elevenlabs-technical-customer-support-specialist",
